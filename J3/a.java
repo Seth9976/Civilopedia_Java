@@ -1,0 +1,94 @@
+package j3;
+
+import D3.b;
+import D3.f;
+import J2.j;
+import L3.m;
+import T1.c;
+import U2.l;
+import X2.P;
+import a3.A;
+import g3.t;
+import h3.h;
+import o3.d;
+import o3.e;
+
+public final class a {
+    public final m a;
+    public final b b;
+    public final c c;
+    public final d d;
+    public final h e;
+    public final c3.d f;
+    public final h g;
+    public final h h;
+    public final J3.d i;
+    public final c3.d j;
+    public final b k;
+    public final e l;
+    public final P m;
+    public final f3.a n;
+    public final A o;
+    public final l p;
+    public final g3.c q;
+    public final n3.c r;
+    public final g3.m s;
+    public final j3.b t;
+    public final N3.l u;
+    public final t v;
+    public final e w;
+    public final f x;
+
+    public a(m m0, b b0, c c0, d d0, h h0, c3.d d1, h h1, J3.d d2, c3.d d3, b b1, e e0, P p0, f3.a a0, A a1, l l0, g3.c c1, n3.c c2, g3.m m1, j3.b b2, N3.l l1, t t0, e e1) {
+        f.a.getClass();
+        j.f(m0, "storageManager");
+        j.f(b0, "finder");
+        j.f(c0, "kotlinClassFinder");
+        j.f(d0, "deserializedDescriptorResolver");
+        j.f(h0, "signaturePropagator");
+        j.f(d1, "errorReporter");
+        j.f(h1, "javaPropertyInitializerEvaluator");
+        j.f(d2, "samConversionResolver");
+        j.f(d3, "sourceElementFactory");
+        j.f(b1, "moduleClassResolver");
+        j.f(e0, "packagePartProvider");
+        j.f(p0, "supertypeLoopChecker");
+        j.f(a0, "lookupTracker");
+        j.f(a1, "module");
+        j.f(l0, "reflectionTypes");
+        j.f(c1, "annotationTypeQualifierResolver");
+        j.f(c2, "signatureEnhancement");
+        j.f(m1, "javaClassesTracker");
+        j.f(b2, "settings");
+        j.f(l1, "kotlinTypeChecker");
+        j.f(t0, "javaTypeEnhancementState");
+        j.f(e1, "javaModuleResolver");
+        j.f(D3.e.b, "syntheticPartsProvider");
+        super();
+        this.a = m0;
+        this.b = b0;
+        this.c = c0;
+        this.d = d0;
+        this.e = h0;
+        this.f = d1;
+        this.g = h.b;
+        this.h = h1;
+        this.i = d2;
+        this.j = d3;
+        this.k = b1;
+        this.l = e0;
+        this.m = p0;
+        this.n = a0;
+        this.o = a1;
+        this.p = l0;
+        this.q = c1;
+        this.r = c2;
+        this.s = m1;
+        this.t = b2;
+        this.u = l1;
+        this.v = t0;
+        this.w = e1;
+        this.x = D3.e.b;
+    }
+}
+

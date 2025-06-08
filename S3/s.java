@@ -1,0 +1,98 @@
+package S3;
+
+import J2.q;
+import java.util.Set;
+import o2.I;
+import v3.f;
+import w2.e;
+import x2.w;
+import x2.z;
+
+public abstract class s {
+    public static final f a;
+    public static final f b;
+    public static final f c;
+    public static final f d;
+    public static final f e;
+    public static final f f;
+    public static final f g;
+    public static final f h;
+    public static final f i;
+    public static final f j;
+    public static final f k;
+    public static final f l;
+    public static final q m;
+    public static final f n;
+    public static final f o;
+    public static final f p;
+    public static final f q;
+    public static final Set r;
+    public static final Set s;
+    public static final Set t;
+
+    static {
+        f f0 = f.e("getValue");
+        s.a = f0;
+        f f1 = f.e("setValue");
+        s.b = f1;
+        f f2 = f.e("provideDelegate");
+        s.c = f2;
+        f f3 = f.e("equals");
+        s.d = f3;
+        f.e("hashCode");
+        f f4 = f.e("compareTo");
+        s.e = f4;
+        f f5 = f.e("contains");
+        s.f = f5;
+        s.g = f.e("invoke");
+        s.h = f.e("iterator");
+        s.i = f.e("get");
+        f f6 = f.e("set");
+        s.j = f6;
+        s.k = f.e("next");
+        s.l = f.e("hasNext");
+        f.e("toString");
+        s.m = new q("component\\d+");
+        f f7 = f.e("and");
+        f f8 = f.e("or");
+        f f9 = f.e("xor");
+        f f10 = f.e("inv");
+        f f11 = f.e("shl");
+        f f12 = f.e("shr");
+        f f13 = f.e("ushr");
+        f f14 = f.e("inc");
+        s.n = f14;
+        f f15 = f.e("dec");
+        s.o = f15;
+        f f16 = f.e("plus");
+        f f17 = f.e("minus");
+        f f18 = f.e("not");
+        f f19 = f.e("unaryMinus");
+        f f20 = f.e("unaryPlus");
+        f f21 = f.e("times");
+        f f22 = f.e("div");
+        f f23 = f.e("mod");
+        f f24 = f.e("rem");
+        f f25 = f.e("rangeTo");
+        s.p = f25;
+        f f26 = f.e("rangeUntil");
+        s.q = f26;
+        f f27 = f.e("timesAssign");
+        f f28 = f.e("divAssign");
+        f f29 = f.e("modAssign");
+        f f30 = f.e("remAssign");
+        f f31 = f.e("plusAssign");
+        f f32 = f.e("minusAssign");
+        z.y(new f[]{f14, f15, f20, f19, f18, f10});
+        s.r = z.y(new f[]{f20, f19, f18, f10});
+        Set set0 = z.y(new f[]{f21, f16, f17, f22, f23, f24, f25, f26});
+        s.s = set0;
+        z.w(z.w(set0, z.y(new f[]{f7, f8, f9, f10, f11, f12, f13})), z.y(new f[]{f3, f5, f4}));
+        Set set1 = z.y(new f[]{f27, f28, f29, f30, f31, f32});
+        s.t = set1;
+        z.y(new f[]{f0, f1, f2});
+        w.s(new e[]{new e(f23, f24), new e(f29, f30)});
+        z.w(I.s(f6), set1);
+    }
+}
+

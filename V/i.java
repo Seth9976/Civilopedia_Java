@@ -1,0 +1,118 @@
+package v;
+
+import android.accounts.AccountManager;
+import android.app.ActivityManager;
+import android.app.AlarmManager;
+import android.app.AppOpsManager;
+import android.app.DownloadManager;
+import android.app.KeyguardManager;
+import android.app.NotificationManager;
+import android.app.SearchManager;
+import android.app.UiModeManager;
+import android.app.WallpaperManager;
+import android.app.admin.DevicePolicyManager;
+import android.app.job.JobScheduler;
+import android.app.usage.UsageStatsManager;
+import android.appwidget.AppWidgetManager;
+import android.bluetooth.BluetoothManager;
+import android.content.ClipboardManager;
+import android.content.RestrictionsManager;
+import android.content.pm.LauncherApps;
+import android.hardware.ConsumerIrManager;
+import android.hardware.SensorManager;
+import android.hardware.camera2.CameraManager;
+import android.hardware.display.DisplayManager;
+import android.hardware.input.InputManager;
+import android.hardware.usb.UsbManager;
+import android.location.LocationManager;
+import android.media.AudioManager;
+import android.media.MediaRouter;
+import android.media.projection.MediaProjectionManager;
+import android.media.session.MediaSessionManager;
+import android.media.tv.TvInputManager;
+import android.net.ConnectivityManager;
+import android.net.nsd.NsdManager;
+import android.net.wifi.WifiManager;
+import android.net.wifi.p2p.WifiP2pManager;
+import android.nfc.NfcManager;
+import android.os.BatteryManager;
+import android.os.Build.VERSION;
+import android.os.DropBoxManager;
+import android.os.PowerManager;
+import android.os.UserManager;
+import android.os.Vibrator;
+import android.os.storage.StorageManager;
+import android.print.PrintManager;
+import android.telecom.TelecomManager;
+import android.telephony.SubscriptionManager;
+import android.telephony.TelephonyManager;
+import android.view.LayoutInflater;
+import android.view.WindowManager;
+import android.view.accessibility.AccessibilityManager;
+import android.view.accessibility.CaptioningManager;
+import android.view.inputmethod.InputMethodManager;
+import android.view.textservice.TextServicesManager;
+import java.util.HashMap;
+
+public abstract class i {
+    public static final HashMap a;
+
+    static {
+        HashMap hashMap0 = new HashMap();
+        i.a = hashMap0;
+        if(Build.VERSION.SDK_INT >= 22) {
+            hashMap0.put(SubscriptionManager.class, "telephony_subscription_service");
+            hashMap0.put(UsageStatsManager.class, "usagestats");
+        }
+        hashMap0.put(AppWidgetManager.class, "appwidget");
+        hashMap0.put(BatteryManager.class, "batterymanager");
+        hashMap0.put(CameraManager.class, "camera");
+        hashMap0.put(JobScheduler.class, "jobscheduler");
+        hashMap0.put(LauncherApps.class, "launcherapps");
+        hashMap0.put(MediaProjectionManager.class, "media_projection");
+        hashMap0.put(MediaSessionManager.class, "media_session");
+        hashMap0.put(RestrictionsManager.class, "restrictions");
+        hashMap0.put(TelecomManager.class, "telecom");
+        hashMap0.put(TvInputManager.class, "tv_input");
+        hashMap0.put(AppOpsManager.class, "appops");
+        hashMap0.put(CaptioningManager.class, "captioning");
+        hashMap0.put(ConsumerIrManager.class, "consumer_ir");
+        hashMap0.put(PrintManager.class, "print");
+        hashMap0.put(BluetoothManager.class, "bluetooth");
+        hashMap0.put(DisplayManager.class, "display");
+        hashMap0.put(UserManager.class, "user");
+        hashMap0.put(InputManager.class, "input");
+        hashMap0.put(MediaRouter.class, "media_router");
+        hashMap0.put(NsdManager.class, "servicediscovery");
+        hashMap0.put(AccessibilityManager.class, "accessibility");
+        hashMap0.put(AccountManager.class, "account");
+        hashMap0.put(ActivityManager.class, "activity");
+        hashMap0.put(AlarmManager.class, "alarm");
+        hashMap0.put(AudioManager.class, "audio");
+        hashMap0.put(ClipboardManager.class, "clipboard");
+        hashMap0.put(ConnectivityManager.class, "connectivity");
+        hashMap0.put(DevicePolicyManager.class, "device_policy");
+        hashMap0.put(DownloadManager.class, "download");
+        hashMap0.put(DropBoxManager.class, "dropbox");
+        hashMap0.put(InputMethodManager.class, "input_method");
+        hashMap0.put(KeyguardManager.class, "keyguard");
+        hashMap0.put(LayoutInflater.class, "layout_inflater");
+        hashMap0.put(LocationManager.class, "location");
+        hashMap0.put(NfcManager.class, "nfc");
+        hashMap0.put(NotificationManager.class, "notification");
+        hashMap0.put(PowerManager.class, "power");
+        hashMap0.put(SearchManager.class, "search");
+        hashMap0.put(SensorManager.class, "sensor");
+        hashMap0.put(StorageManager.class, "storage");
+        hashMap0.put(TelephonyManager.class, "phone");
+        hashMap0.put(TextServicesManager.class, "textservices");
+        hashMap0.put(UiModeManager.class, "uimode");
+        hashMap0.put(UsbManager.class, "usb");
+        hashMap0.put(Vibrator.class, "vibrator");
+        hashMap0.put(WallpaperManager.class, "wallpaper");
+        hashMap0.put(WifiP2pManager.class, "wifip2p");
+        hashMap0.put(WifiManager.class, "wifi");
+        hashMap0.put(WindowManager.class, "window");
+    }
+}
+

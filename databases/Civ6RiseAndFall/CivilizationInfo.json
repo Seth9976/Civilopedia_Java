@@ -1,0 +1,1010 @@
+[
+    {
+        "Caption": "LOC_CIVINFO_AMERICA_LOCATION",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_AMERICA_SIZE",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_AMERICA_POPULATION",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_AMERICA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_ARABIA_LOCATION",
+        "CivilizationType": "CIVILIZATION_ARABIA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_ARABIA_SIZE",
+        "CivilizationType": "CIVILIZATION_ARABIA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_ARABIA_POPULATION",
+        "CivilizationType": "CIVILIZATION_ARABIA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_ARABIA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_ARABIA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_BRAZIL_LOCATION",
+        "CivilizationType": "CIVILIZATION_BRAZIL",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_BRAZIL_SIZE",
+        "CivilizationType": "CIVILIZATION_BRAZIL",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_BRAZIL_POPULATION",
+        "CivilizationType": "CIVILIZATION_BRAZIL",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_BRAZIL_CAPITAL",
+        "CivilizationType": "CIVILIZATION_BRAZIL",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_CHINA_LOCATION",
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_CHINA_SIZE",
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_CHINA_POPULATION",
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_CHINA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_ENGLAND_LOCATION",
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_ENGLAND_SIZE",
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_ENGLAND_POPULATION",
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_ENGLAND_CAPITAL",
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_EGYPT_LOCATION",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_EGYPT_SIZE",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_EGYPT_POPULATION",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_EGYPT_CAPITAL",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_FRANCE_LOCATION",
+        "CivilizationType": "CIVILIZATION_FRANCE",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_FRANCE_SIZE",
+        "CivilizationType": "CIVILIZATION_FRANCE",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_FRANCE_POPULATION",
+        "CivilizationType": "CIVILIZATION_FRANCE",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_FRANCE_CAPITAL",
+        "CivilizationType": "CIVILIZATION_FRANCE",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_GERMANY_LOCATION",
+        "CivilizationType": "CIVILIZATION_GERMANY",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_GERMANY_SIZE",
+        "CivilizationType": "CIVILIZATION_GERMANY",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_GERMANY_POPULATION",
+        "CivilizationType": "CIVILIZATION_GERMANY",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_GERMANY_CAPITAL",
+        "CivilizationType": "CIVILIZATION_GERMANY",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_GREECE_LOCATION",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_GREECE_SIZE",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_GREECE_POPULATION",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_GREECE_CAPITAL",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_INDIA_LOCATION",
+        "CivilizationType": "CIVILIZATION_INDIA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_INDIA_SIZE",
+        "CivilizationType": "CIVILIZATION_INDIA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_INDIA_POPULATION",
+        "CivilizationType": "CIVILIZATION_INDIA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_INDIA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_INDIA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_JAPAN_LOCATION",
+        "CivilizationType": "CIVILIZATION_JAPAN",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_JAPAN_SIZE",
+        "CivilizationType": "CIVILIZATION_JAPAN",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_JAPAN_POPULATION",
+        "CivilizationType": "CIVILIZATION_JAPAN",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_JAPAN_CAPITAL",
+        "CivilizationType": "CIVILIZATION_JAPAN",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_KONGO_LOCATION",
+        "CivilizationType": "CIVILIZATION_KONGO",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_KONGO_SIZE",
+        "CivilizationType": "CIVILIZATION_KONGO",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_KONGO_POPULATION",
+        "CivilizationType": "CIVILIZATION_KONGO",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_KONGO_CAPITAL",
+        "CivilizationType": "CIVILIZATION_KONGO",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_NORWAY_LOCATION",
+        "CivilizationType": "CIVILIZATION_NORWAY",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_NORWAY_SIZE",
+        "CivilizationType": "CIVILIZATION_NORWAY",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_NORWAY_POPULATION",
+        "CivilizationType": "CIVILIZATION_NORWAY",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_NORWAY_CAPITAL",
+        "CivilizationType": "CIVILIZATION_NORWAY",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_ROME_LOCATION",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_ROME_SIZE",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_ROME_POPULATION",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_ROME_CAPITAL",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_RUSSIA_LOCATION",
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_RUSSIA_SIZE",
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_RUSSIA_POPULATION",
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_RUSSIA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_SCYTHIA_LOCATION",
+        "CivilizationType": "CIVILIZATION_SCYTHIA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_SCYTHIA_SIZE",
+        "CivilizationType": "CIVILIZATION_SCYTHIA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_SCYTHIA_POPULATION",
+        "CivilizationType": "CIVILIZATION_SCYTHIA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_SCYTHIA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_SCYTHIA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_SPAIN_LOCATION",
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_SPAIN_SIZE",
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_SPAIN_POPULATION",
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_SPAIN_CAPITAL",
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_SUMERIA_LOCATION",
+        "CivilizationType": "CIVILIZATION_SUMERIA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_SUMERIA_SIZE",
+        "CivilizationType": "CIVILIZATION_SUMERIA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_SUMERIA_POPULATION",
+        "CivilizationType": "CIVILIZATION_SUMERIA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_SUMERIA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_SUMERIA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_AZTEC_LOCATION",
+        "CivilizationType": "CIVILIZATION_AZTEC",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_AZTEC_SIZE",
+        "CivilizationType": "CIVILIZATION_AZTEC",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_AZTEC_POPULATION",
+        "CivilizationType": "CIVILIZATION_AZTEC",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_AZTEC_CAPITAL",
+        "CivilizationType": "CIVILIZATION_AZTEC",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_INDONESIA_LOCATION",
+        "CivilizationType": "CIVILIZATION_INDONESIA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_INDONESIA_SIZE",
+        "CivilizationType": "CIVILIZATION_INDONESIA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_INDONESIA_POPULATION",
+        "CivilizationType": "CIVILIZATION_INDONESIA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_INDONESIA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_INDONESIA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_KHMER_LOCATION",
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_KHMER_SIZE",
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_KHMER_POPULATION",
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_KHMER_CAPITAL",
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_POLAND_LOCATION",
+        "CivilizationType": "CIVILIZATION_POLAND",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_POLAND_SIZE",
+        "CivilizationType": "CIVILIZATION_POLAND",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_POLAND_POPULATION",
+        "CivilizationType": "CIVILIZATION_POLAND",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_POLAND_CAPITAL",
+        "CivilizationType": "CIVILIZATION_POLAND",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_NUBIA_LOCATION",
+        "CivilizationType": "CIVILIZATION_NUBIA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_NUBIA_SIZE",
+        "CivilizationType": "CIVILIZATION_NUBIA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_NUBIA_POPULATION",
+        "CivilizationType": "CIVILIZATION_NUBIA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_NUBIA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_NUBIA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_GRAN_COLOMBIA_LOCATION",
+        "CivilizationType": "CIVILIZATION_GRAN_COLOMBIA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_GRAN_COLOMBIA_SIZE",
+        "CivilizationType": "CIVILIZATION_GRAN_COLOMBIA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_GRAN_COLOMBIA_POPULATION",
+        "CivilizationType": "CIVILIZATION_GRAN_COLOMBIA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_GRAN_COLOMBIA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_GRAN_COLOMBIA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_MAYA_LOCATION",
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_MAYA_SIZE",
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_MAYA_POPULATION",
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_MAYA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_MACEDON_LOCATION",
+        "CivilizationType": "CIVILIZATION_MACEDON",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_MACEDON_SIZE",
+        "CivilizationType": "CIVILIZATION_MACEDON",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_MACEDON_POPULATION",
+        "CivilizationType": "CIVILIZATION_MACEDON",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_MACEDON_CAPITAL",
+        "CivilizationType": "CIVILIZATION_MACEDON",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_PERSIA_LOCATION",
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_PERSIA_SIZE",
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_PERSIA_POPULATION",
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_PERSIA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_AUSTRALIA_LOCATION",
+        "CivilizationType": "CIVILIZATION_AUSTRALIA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_AUSTRALIA_SIZE",
+        "CivilizationType": "CIVILIZATION_AUSTRALIA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_AUSTRALIA_POPULATION",
+        "CivilizationType": "CIVILIZATION_AUSTRALIA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_AUSTRALIA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_AUSTRALIA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_CREE_LOCATION",
+        "CivilizationType": "CIVILIZATION_CREE",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_CREE_SIZE",
+        "CivilizationType": "CIVILIZATION_CREE",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_CREE_POPULATION",
+        "CivilizationType": "CIVILIZATION_CREE",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_CREE_CAPITAL",
+        "CivilizationType": "CIVILIZATION_CREE",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_GEORGIA_LOCATION",
+        "CivilizationType": "CIVILIZATION_GEORGIA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_GEORGIA_SIZE",
+        "CivilizationType": "CIVILIZATION_GEORGIA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_GEORGIA_POPULATION",
+        "CivilizationType": "CIVILIZATION_GEORGIA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_GEORGIA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_GEORGIA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_KOREA_LOCATION",
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_KOREA_SIZE",
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_KOREA_POPULATION",
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_KOREA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_MAPUCHE_LOCATION",
+        "CivilizationType": "CIVILIZATION_MAPUCHE",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_MAPUCHE_SIZE",
+        "CivilizationType": "CIVILIZATION_MAPUCHE",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_MAPUCHE_POPULATION",
+        "CivilizationType": "CIVILIZATION_MAPUCHE",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_MAPUCHE_CAPITAL",
+        "CivilizationType": "CIVILIZATION_MAPUCHE",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_MONGOLIA_LOCATION",
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_MONGOLIA_SIZE",
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_MONGOLIA_POPULATION",
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_MONGOLIA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_NETHERLANDS_LOCATION",
+        "CivilizationType": "CIVILIZATION_NETHERLANDS",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_NETHERLANDS_SIZE",
+        "CivilizationType": "CIVILIZATION_NETHERLANDS",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_NETHERLANDS_POPULATION",
+        "CivilizationType": "CIVILIZATION_NETHERLANDS",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_NETHERLANDS_CAPITAL",
+        "CivilizationType": "CIVILIZATION_NETHERLANDS",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_SCOTLAND_LOCATION",
+        "CivilizationType": "CIVILIZATION_SCOTLAND",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_SCOTLAND_SIZE",
+        "CivilizationType": "CIVILIZATION_SCOTLAND",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_SCOTLAND_POPULATION",
+        "CivilizationType": "CIVILIZATION_SCOTLAND",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_SCOTLAND_CAPITAL",
+        "CivilizationType": "CIVILIZATION_SCOTLAND",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_ZULU_LOCATION",
+        "CivilizationType": "CIVILIZATION_ZULU",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_ZULU_SIZE",
+        "CivilizationType": "CIVILIZATION_ZULU",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_ZULU_POPULATION",
+        "CivilizationType": "CIVILIZATION_ZULU",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_ZULU_CAPITAL",
+        "CivilizationType": "CIVILIZATION_ZULU",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_ETHIOPIA_LOCATION",
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_ETHIOPIA_SIZE",
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_ETHIOPIA_POPULATION",
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_ETHIOPIA_CAPITAL",
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_BABYLON_STK_LOCATION",
+        "CivilizationType": "CIVILIZATION_BABYLON_STK",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_BABYLON_STK_SIZE",
+        "CivilizationType": "CIVILIZATION_BABYLON_STK",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_BABYLON_STK_POPULATION",
+        "CivilizationType": "CIVILIZATION_BABYLON_STK",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_BABYLON_STK_CAPITAL",
+        "CivilizationType": "CIVILIZATION_BABYLON_STK",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_BYZANTIUM_LOCATION",
+        "CivilizationType": "CIVILIZATION_BYZANTIUM",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_BYZANTIUM_SIZE",
+        "CivilizationType": "CIVILIZATION_BYZANTIUM",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_BYZANTIUM_POPULATION",
+        "CivilizationType": "CIVILIZATION_BYZANTIUM",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_BYZANTIUM_CAPITAL",
+        "CivilizationType": "CIVILIZATION_BYZANTIUM",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_GAUL_LOCATION",
+        "CivilizationType": "CIVILIZATION_GAUL",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_GAUL_SIZE",
+        "CivilizationType": "CIVILIZATION_GAUL",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_GAUL_POPULATION",
+        "CivilizationType": "CIVILIZATION_GAUL",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_GAUL_CAPITAL",
+        "CivilizationType": "CIVILIZATION_GAUL",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_VIETNAM_LOCATION",
+        "CivilizationType": "CIVILIZATION_VIETNAM",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_VIETNAM_SIZE",
+        "CivilizationType": "CIVILIZATION_VIETNAM",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_VIETNAM_POPULATION",
+        "CivilizationType": "CIVILIZATION_VIETNAM",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_VIETNAM_CAPITAL",
+        "CivilizationType": "CIVILIZATION_VIETNAM",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    },
+    {
+        "Caption": "LOC_CIVINFO_PORTUGAL_LOCATION",
+        "CivilizationType": "CIVILIZATION_PORTUGAL",
+        "Header": "LOC_CIVINFO_LOCATION",
+        "SortIndex": 10
+    },
+    {
+        "Caption": "LOC_CIVINFO_PORTUGAL_SIZE",
+        "CivilizationType": "CIVILIZATION_PORTUGAL",
+        "Header": "LOC_CIVINFO_SIZE",
+        "SortIndex": 20
+    },
+    {
+        "Caption": "LOC_CIVINFO_PORTUGAL_POPULATION",
+        "CivilizationType": "CIVILIZATION_PORTUGAL",
+        "Header": "LOC_CIVINFO_POPULATION",
+        "SortIndex": 30
+    },
+    {
+        "Caption": "LOC_CIVINFO_PORTUGAL_CAPITAL",
+        "CivilizationType": "CIVILIZATION_PORTUGAL",
+        "Header": "LOC_CIVINFO_CAPITAL",
+        "SortIndex": 40
+    }
+]

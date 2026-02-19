@@ -1,0 +1,26 @@
+[
+    {
+        "MinThreshold": 1,
+        "ProjectType": "PROJECT_SS_COCKPIT",
+        "Threshold": 1,
+        "VictoryType": "VICTORY_SPACE_RACE"
+    },
+    {
+        "MinThreshold": 1,
+        "ProjectType": "PROJECT_SS_STASIS_CHAMBER",
+        "Threshold": 1,
+        "VictoryType": "VICTORY_SPACE_RACE"
+    },
+    {
+        "MinThreshold": 1,
+        "ProjectType": "PROJECT_SS_ENGINE",
+        "Threshold": 1,
+        "VictoryType": "VICTORY_SPACE_RACE"
+    },
+    {
+        "MinThreshold": 3,
+        "ProjectType": "PROJECT_SS_BOOSTER",
+        "Threshold": 3,
+        "VictoryType": "VICTORY_SPACE_RACE"
+    }
+]

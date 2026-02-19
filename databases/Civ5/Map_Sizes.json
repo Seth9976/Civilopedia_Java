@@ -1,0 +1,352 @@
+[
+    {
+        "FileName": "Assets\\Maps\\Earth_Duel.Civ5Map",
+        "MapType": "MAP_EARTH",
+        "WorldSizeType": "WORLDSIZE_DUEL"
+    },
+    {
+        "FileName": "Assets\\Maps\\Earth_Tiny.Civ5Map",
+        "MapType": "MAP_EARTH",
+        "WorldSizeType": "WORLDSIZE_TINY"
+    },
+    {
+        "FileName": "Assets\\Maps\\Earth_Small.Civ5Map",
+        "MapType": "MAP_EARTH",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\Maps\\Earth_Standard.Civ5Map",
+        "MapType": "MAP_EARTH",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\Maps\\Earth_Large.Civ5Map",
+        "MapType": "MAP_EARTH",
+        "WorldSizeType": "WORLDSIZE_LARGE"
+    },
+    {
+        "FileName": "Assets\\Maps\\Earth_Huge.Civ5Map",
+        "MapType": "MAP_EARTH",
+        "WorldSizeType": "WORLDSIZE_HUGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\BeringStrait.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_1_BERINGSTRAIT",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\BritishIsles.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_1_BRITISHISLES",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Caribbean.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_1_CARIBBEAN",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\EasternUnitedStates.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_1_EASTERNUS",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\JapaneseMainland.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_1_JAPANESEMAINLAND",
+        "WorldSizeType": "WORLDSIZE_TINY"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Africa_Duel.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_AFRICA",
+        "WorldSizeType": "WORLDSIZE_DUEL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Africa_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_AFRICA",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Africa_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_AFRICA",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Africa_Large.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_AFRICA",
+        "WorldSizeType": "WORLDSIZE_LARGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Antarctica_Thawed.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_ANTARCTICA_THAWED",
+        "WorldSizeType": "WORLDSIZE_LARGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Earth_Duel.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_EARTH",
+        "WorldSizeType": "WORLDSIZE_DUEL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Earth_Huge.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_EARTH",
+        "WorldSizeType": "WORLDSIZE_HUGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Earth_Large.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_EARTH",
+        "WorldSizeType": "WORLDSIZE_LARGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Earth_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_EARTH",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Earth_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_EARTH",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Earth_Tiny.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_EARTH",
+        "WorldSizeType": "WORLDSIZE_TINY"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Eastern_Asia_Large.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_EASTERN_ASIA",
+        "WorldSizeType": "WORLDSIZE_LARGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Eastern_Asia_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_EASTERN_ASIA",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Western_Europe_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_WESTERN_EUROPE",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Western_Europe_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_WESTERN_EUROPE",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_North_America_Duel.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_NORTH_AMERICA",
+        "WorldSizeType": "WORLDSIZE_DUEL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_North_America_Huge.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_NORTH_AMERICA",
+        "WorldSizeType": "WORLDSIZE_HUGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_North_America_Large.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_NORTH_AMERICA",
+        "WorldSizeType": "WORLDSIZE_LARGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_North_America_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_NORTH_AMERICA",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_North_America_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_NORTH_AMERICA",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_North_America_Tiny.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_NORTH_AMERICA",
+        "WorldSizeType": "WORLDSIZE_TINY"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_South_America_Tiny.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_SOUTH_AMERICA",
+        "WorldSizeType": "WORLDSIZE_TINY"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_South_America_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_SOUTH_AMERICA",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Middle_East_Duel.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_MIDDLE_EAST",
+        "WorldSizeType": "WORLDSIZE_DUEL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Middle_East_Tiny.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_MIDDLE_EAST",
+        "WorldSizeType": "WORLDSIZE_TINY"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Middle_East_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_MIDDLE_EAST",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Middle_East_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_MIDDLE_EAST",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Random_Middle_East_Large.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_2_MIDDLE_EAST",
+        "WorldSizeType": "WORLDSIZE_LARGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Australia_Tiny.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_AUSTRALIA",
+        "WorldSizeType": "WORLDSIZE_TINY"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Australia_Duel.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_AUSTRALIA",
+        "WorldSizeType": "WORLDSIZE_DUEL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Australia_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_AUSTRALIA",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Australia_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_AUSTRALIA",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Canada_Tiny.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_CANADA",
+        "WorldSizeType": "WORLDSIZE_TINY"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Canada_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_CANADA",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Canada_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_CANADA",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Canada_Large.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_CANADA",
+        "WorldSizeType": "WORLDSIZE_LARGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Scandinavia_Large.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_SCANDINAVIA",
+        "WorldSizeType": "WORLDSIZE_LARGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Scandinavia_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_SCANDINAVIA",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Scandinavia_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_SCANDINAVIA",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Japan_Duel.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_JAPAN",
+        "WorldSizeType": "WORLDSIZE_DUEL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Japan_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_JAPAN",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Italy_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_ITALY",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Italy_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_ITALY",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_UK_Tiny.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_UK",
+        "WorldSizeType": "WORLDSIZE_TINY"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_UK_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_UK",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Russia_Duel.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_RUSSIA",
+        "WorldSizeType": "WORLDSIZE_DUEL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Russia_Tiny.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_RUSSIA",
+        "WorldSizeType": "WORLDSIZE_TINY"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Russia_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_RUSSIA",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Russia_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_RUSSIA",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Russia_Large.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_RUSSIA",
+        "WorldSizeType": "WORLDSIZE_LARGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Russia_Huge.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_RUSSIA",
+        "WorldSizeType": "WORLDSIZE_HUGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Turkey_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_TURKEY",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Turkey_Large.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_TURKEY",
+        "WorldSizeType": "WORLDSIZE_LARGE"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_Turkey_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_TURKEY",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_France_Duel.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_FRANCE",
+        "WorldSizeType": "WORLDSIZE_DUEL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_France_Tiny.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_FRANCE",
+        "WorldSizeType": "WORLDSIZE_TINY"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_France_Small.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_FRANCE",
+        "WorldSizeType": "WORLDSIZE_SMALL"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_France_Standard.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_FRANCE",
+        "WorldSizeType": "WORLDSIZE_STANDARD"
+    },
+    {
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_3\\Maps\\Random_France_Large.Civ5Map",
+        "MapType": "MAP_DLC_SP_MAP_3_RANDOM_FRANCE",
+        "WorldSizeType": "WORLDSIZE_LARGE"
+    }
+]

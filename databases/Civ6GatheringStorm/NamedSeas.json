@@ -1,0 +1,798 @@
+[
+    {
+        "Name": "LOC_NAMED_SEA_ABU_QIR_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_ABU_QIR_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_ADRIATIC_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_ADRIATIC_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_AEGEAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_AEGEAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_AGO_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_AGO_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_ALAUQUEN_NAME",
+        "NamedSeaType": "NAMED_SEA_ALAUQUEN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_ALBORAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_ALBORAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_ALL_SAINTS_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_ALL_SAINTS_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_ANDAMAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_ANDAMAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_ARABIAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_ARABIAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_ARAFURA_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_ARAFURA_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAFFIN_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_BAFFIN_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAIA_DE_SAO_JOSE_NAME",
+        "NamedSeaType": "NAMED_SEA_BAIA_DE_SAO_JOSE"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAIA_DE_SAO_MARCOS_NAME",
+        "NamedSeaType": "NAMED_SEA_BAIA_DE_SAO_MARCOS"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAIE_DE_LA_SEINE_NAME",
+        "NamedSeaType": "NAMED_SEA_BAIE_DE_LA_SEINE"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAIE_DE_SOMME_NAME",
+        "NamedSeaType": "NAMED_SEA_BAIE_DE_SOMME"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BALTIC_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_BALTIC_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BANDA_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_BANDA_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_ARAUCO_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_ARAUCO"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_ARGUIN_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_ARGUIN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_BEIRUT_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_BEIRUT"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_BENGAL_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_BENGAL"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_BISCAY_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_BISCAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_CAMPECHE_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_CAMPECHE"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_CONCEPCION_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_CONCEPCION"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_FUNDY_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_FUNDY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_GIBRALTAR_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_GIBRALTAR"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_KOMPONG_SOM_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_KOMPONG_SOM"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_MECKLENBURG_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_MECKLENBURG"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_POMERANIA_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_POMERANIA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_SANTANDER_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_SANTANDER"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BEAUFORT_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_BEAUFORT_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BERING_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_BERING_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BISMARCK_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_BISMARCK_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BLACK_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_BLACK_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BO_HAI_NAME",
+        "NamedSeaType": "NAMED_SEA_BO_HAI"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BOTANY_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_BOTANY_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BRACKLESHAM_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_BRACKLESHAM_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BRIDGWATER_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_BRIDGWATER_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BRISTOL_CHANNEL_NAME",
+        "NamedSeaType": "NAMED_SEA_BRISTOL_CHANNEL"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BUSAN_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_BUSAN_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_CARIBBEAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_CARIBBEAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_CASPIAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_CASPIAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_CAULIN_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_CAULIN_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_CELEBES_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_CELEBES_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_CELTIC_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_CELTIC_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_CERAM_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_CERAM_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_CHESAPEAKE_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_CHESAPEAKE_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_CHUKCHI_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_CHUKCHI_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_CORAL_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_CORAL_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_DOLLART_NAME",
+        "NamedSeaType": "NAMED_SEA_DOLLART"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_EAST_CHINA_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_EAST_CHINA_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_EAST_SIBERIAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_EAST_SIBERIAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_EDSVIKEN_NAME",
+        "NamedSeaType": "NAMED_SEA_EDSVIKEN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_ENGLISH_CHANNEL_NAME",
+        "NamedSeaType": "NAMED_SEA_ENGLISH_CHANNEL"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_FIRTH_OF_CLYDE_NAME",
+        "NamedSeaType": "NAMED_SEA_FIRTH_OF_CLYDE"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_FIRTH_OF_FORTH_NAME",
+        "NamedSeaType": "NAMED_SEA_FIRTH_OF_FORTH"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_FLENSBURG_FIRTH_NAME",
+        "NamedSeaType": "NAMED_SEA_FLENSBURG_FIRTH"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_FLORES_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_FLORES_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_FOUL_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_FOUL_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_FROBISHER_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_FROBISHER_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GDANSK_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_GDANSK_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GENKAI_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_GENKAI_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GEORGIAN_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_GEORGIAN_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GERMAN_BIGHT_NAME",
+        "NamedSeaType": "NAMED_SEA_GERMAN_BIGHT"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GREAT_AUSTRALIAN_BIGHT_NAME",
+        "NamedSeaType": "NAMED_SEA_GREAT_AUSTRALIAN_BIGHT"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GREENLAND_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_GREENLAND_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GUANABARA_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_GUANABARA_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_ADEN_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_ADEN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_ALASKA_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_ALASKA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_AQABA_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_AQABA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_BOTHNIA_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_BOTHNIA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_CADIZ_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_CADIZ"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_CALIFORNIA_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_CALIFORNIA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_CARPENTARIA_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_CARPENTARIA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_CORINTH_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_CORINTH"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_FINLAND_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_FINLAND"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_GABES_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_GABES"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_GUAYAQUIL_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_GUAYAQUIL"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_GUINEA_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_GUINEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_HAMMAMET_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_HAMMAMET"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_IZMIR_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_IZMIR"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_LION_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_LION"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_MANNAR_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_MANNAR"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_MEXICO_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_MEXICO"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_MORBIHAN_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_MORBIHAN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_OMAN_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_OMAN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_PANAMA_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_PANAMA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_PAPUA_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_PAPUA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_ROSES_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_ROSES"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_SAINT_LAWRENCE_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_SAINT_LAWRENCE"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_SUEZ_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_SUEZ"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_TEHUANTEPEC_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_TEHUANTEPEC"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_THAILAND_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_THAILAND"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_TONKIN_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_TONKIN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_TORONEOS_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_TORONEOS"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_TUNIS_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_TUNIS"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_VALENCIA_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_VALENCIA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GWANGPO_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_GWANGPO_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_HANN_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_HANN_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_HANOBUKTEN_NAME",
+        "NamedSeaType": "NAMED_SEA_HANOBUKTEN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_HARDANGERFJORDEN_NAME",
+        "NamedSeaType": "NAMED_SEA_HARDANGERFJORDEN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_HELIGOLAND_BIGHT_NAME",
+        "NamedSeaType": "NAMED_SEA_HELIGOLAND_BIGHT"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_HUDSON_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_HUDSON_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_IONIAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_IONIAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_IRISH_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_IRISH_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_JADE_BIGHT_NAME",
+        "NamedSeaType": "NAMED_SEA_JADE_BIGHT"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_JAWA_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_JAWA_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_JERVIS_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_JERVIS_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_JOSEPH_BONAPARTE_GULF_NAME",
+        "NamedSeaType": "NAMED_SEA_JOSEPH_BONAPARTE_GULF"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_KANHOLMSFJARDEN_NAME",
+        "NamedSeaType": "NAMED_SEA_KANHOLMSFJARDEN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_KARA_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_KARA_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_KOREA_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_KOREA_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_KOSI_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_KOSI_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_LABRADOR_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_LABRADOR_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_LAKE_MARACAIBO_NAME",
+        "NamedSeaType": "NAMED_SEA_LAKE_MARACAIBO"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_LAKSHADWEEP_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_LAKSHADWEEP_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_LAPTEV_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_LAPTEV_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_LEVANTINE_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_LEVANTINE_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_LIBYAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_LIBYAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_LIGURIAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_LIGURIAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_LINCOLN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_LINCOLN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_LAKE_MARACAIBO_NAME",
+        "NamedSeaType": "NAMED_SEA_MASSACHUSETTS_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_MEDITERRANEAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_MEDITERRANEAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_MOLUCCA_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_MOLUCCA_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_MONT_SAINT_MICHEL_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_MONT_SAINT_MICHEL_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_MORAY_FIRTH_NAME",
+        "NamedSeaType": "NAMED_SEA_MORAY_FIRTH"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_MORECAMBY_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_MORECAMBY_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_MOZAMBIQUE_CHANNEL_NAME",
+        "NamedSeaType": "NAMED_SEA_MOZAMBIQUE_CHANNEL"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_MUTSU_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_MUTSU_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_NORDFRIESISCHES_WATTENMEER_NAME",
+        "NamedSeaType": "NAMED_SEA_NORDFRIESISCHES_WATTENMEER"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_NORTH_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_NORTH_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_NORWEGIAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_NORWEGIAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_PARACAS_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_PARACAS_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_PERSIAN_GULF_NAME",
+        "NamedSeaType": "NAMED_SEA_PERSIAN_GULF"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_PHILIPPINE_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_PHILIPPINE_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_PITSUNDA_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_PITSUNDA_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_PUNIHUIL_NAME",
+        "NamedSeaType": "NAMED_SEA_PUNIHUIL"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_RED_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_RED_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SAGAMI_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_SAGAMI_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SALTSJON_NAME",
+        "NamedSeaType": "NAMED_SEA_SALTSJON"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SAN_FRANCISCO_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_SAN_FRANCISCO_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SANGAREYA_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_SANGAREYA_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SARGASSO_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_SARGASSO_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SARONIC_GULF_NAME",
+        "NamedSeaType": "NAMED_SEA_SARONIC_GULF"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SCOTIA_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_SCOTIA_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SEA_OF_AZOV_NAME",
+        "NamedSeaType": "NAMED_SEA_SEA_OF_AZOV"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SEA_OF_CRETE_NAME",
+        "NamedSeaType": "NAMED_SEA_SEA_OF_CRETE"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SEA_OF_HYUGA_NAME",
+        "NamedSeaType": "NAMED_SEA_SEA_OF_HYUGA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SEA_OF_JAPAN_NAME",
+        "NamedSeaType": "NAMED_SEA_SEA_OF_JAPAN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SEA_OF_MARMARA_NAME",
+        "NamedSeaType": "NAMED_SEA_SEA_OF_MARMARA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SEA_OF_OKHOTSK_NAME",
+        "NamedSeaType": "NAMED_SEA_SEA_OF_OKHOTSK"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SEA_OF_THE_HEBRIDES_NAME",
+        "NamedSeaType": "NAMED_SEA_SEA_OF_THE_HEBRIDES"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SETO_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_SETO_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SINGITIC_GULF_NAME",
+        "NamedSeaType": "NAMED_SEA_SINGITIC_GULF"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SODWANA_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_SODWANA_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SOGNEFJORDEN_NAME",
+        "NamedSeaType": "NAMED_SEA_SOGNEFJORDEN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SOLOMON_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_SOLOMON_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SOLWAY_FIRTH_NAME",
+        "NamedSeaType": "NAMED_SEA_SOLWAY_FIRTH"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SOUTH_CHINA_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_SOUTH_CHINA_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_STORFJORDEN_NAME",
+        "NamedSeaType": "NAMED_SEA_STORFJORDEN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_STRYMONIAN_GULF_NAME",
+        "NamedSeaType": "NAMED_SEA_STRYMONIAN_GULF"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SUKHUMI_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_SUKHUMI_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SULU_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_SULU_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_TASMAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_TASMAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_TE_ARA_A_KIWA_NAME",
+        "NamedSeaType": "NAMED_SEA_TE_ARA_A_KIWA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_TE_MATAU_A_MAUI_NAME",
+        "NamedSeaType": "NAMED_SEA_TE_MATAU_A_MAUI"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_TE_MOANA_A_TOI_NAME",
+        "NamedSeaType": "NAMED_SEA_TE_MOANA_A_TOI"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_TE_MOANA_O_RAUKAWA_NAME",
+        "NamedSeaType": "NAMED_SEA_TE_MOANA_O_RAUKAWA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_TE_TAI_O_AORERE_NAME",
+        "NamedSeaType": "NAMED_SEA_TE_TAI_O_AORERE"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_TE_TAI_O_REHUA_NAME",
+        "NamedSeaType": "NAMED_SEA_TE_TAI_O_REHUA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_TE_WHANGANUI_A_TARA_NAME",
+        "NamedSeaType": "NAMED_SEA_TE_WHANGANUI_A_TARA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_THE_MINCH_NAME",
+        "NamedSeaType": "NAMED_SEA_THE_MINCH"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_THE_WASH_NAME",
+        "NamedSeaType": "NAMED_SEA_THE_WASH"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_THERMAIC_GULF_NAME",
+        "NamedSeaType": "NAMED_SEA_THERMAIC_GULF"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_THRACIAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_THRACIAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_TIKAPA_MOANA_NAME",
+        "NamedSeaType": "NAMED_SEA_TIKAPA_MOANA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_TIMOR_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_TIMOR_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_TRONDHEIMSFJORDEN_NAME",
+        "NamedSeaType": "NAMED_SEA_TRONDHEIMSFJORDEN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_TYRRHENIAN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_TYRRHENIAN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_UMZINTO_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_UMZINTO_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_VESTFJORDEN_NAME",
+        "NamedSeaType": "NAMED_SEA_VESTFJORDEN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_WADDEN_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_WADDEN_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_WAITEMATA_NAME",
+        "NamedSeaType": "NAMED_SEA_WAITEMATA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_WHITE_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_WHITE_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_WINIPEKW_NAME",
+        "NamedSeaType": "NAMED_SEA_WINIPEKW"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_YATSUSHIRO_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_YATSUSHIRO_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_YELLOW_SEA_NAME",
+        "NamedSeaType": "NAMED_SEA_YELLOW_SEA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_YOF_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_YOF_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_ZUIDERZEE_NAME",
+        "NamedSeaType": "NAMED_SEA_ZUIDERZEE"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_HONDURAS_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_HONDURAS"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_AMATIQUE_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_AMATIQUE_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_TERMINOS_LAGOON_NAME",
+        "NamedSeaType": "NAMED_SEA_TERMINOS_LAGOON"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_DARIEN_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_DARIEN"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_VENEZUELA_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_VENEZUELA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_GULF_OF_PARIA_NAME",
+        "NamedSeaType": "NAMED_SEA_GULF_OF_PARIA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_SETUBAL_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_SETUBAL_BAY"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_ANGRA_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_ANGRA"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_BAY_OF_REFUGO_NAME",
+        "NamedSeaType": "NAMED_SEA_BAY_OF_REFUGO"
+    },
+    {
+        "Name": "LOC_NAMED_SEA_FUNCHAL_BAY_NAME",
+        "NamedSeaType": "NAMED_SEA_FUNCHAL_BAY"
+    }
+]

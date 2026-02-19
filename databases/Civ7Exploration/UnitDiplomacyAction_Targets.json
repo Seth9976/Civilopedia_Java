@@ -1,0 +1,26 @@
+[
+    {
+        "CivilizationLevelType": "CIVILIZATION_LEVEL_INDEPENDENT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GIVE_INFLUENCE_TOKEN",
+        "TargetSpace": "DIPLOMACY_TARGET_ADJACENT_TO_TERRITORY",
+        "UnitTag": "UNIT_CLASS_INFLUENCE_INDEPENDENT"
+    },
+    {
+        "CivilizationLevelType": "CIVILIZATION_LEVEL_INDEPENDENT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GIVE_INFLUENCE_TOKEN",
+        "TargetSpace": "DIPLOMACY_TARGET_ADJACENT_TO_UNIT",
+        "UnitTag": "UNIT_CLASS_INFLUENCE_INDEPENDENT"
+    },
+    {
+        "CivilizationLevelType": "CIVILIZATION_LEVEL_INDEPENDENT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_RECEIVE_GIFT",
+        "TargetSpace": "DIPLOMACY_TARGET_ADJACENT_TO_TERRITORY",
+        "UnitTag": "UNIT_CLASS_INFLUENCE_INDEPENDENT"
+    },
+    {
+        "CivilizationLevelType": "CIVILIZATION_LEVEL_INDEPENDENT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_RECEIVE_GIFT",
+        "TargetSpace": "DIPLOMACY_TARGET_ADJACENT_TO_UNIT",
+        "UnitTag": "UNIT_CLASS_INFLUENCE_INDEPENDENT"
+    }
+]

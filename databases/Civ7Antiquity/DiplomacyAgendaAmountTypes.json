@@ -1,0 +1,37 @@
+[
+    {
+        "Amount": -15,
+        "DiplomacyAgendaAmountType": "DIPLOMACY_AGENDA_NEG_AMT_LARGE",
+        "Name": "DIPLOMACY_AGENDA_NEG_AMT_LARGE"
+    },
+    {
+        "Amount": -10,
+        "DiplomacyAgendaAmountType": "DIPLOMACY_AGENDA_NEG_AMT_MEDIUM",
+        "Name": "DIPLOMACY_AGENDA_NEG_AMT_MEDIUM"
+    },
+    {
+        "Amount": -5,
+        "DiplomacyAgendaAmountType": "DIPLOMACY_AGENDA_NEG_AMT_SMALL",
+        "Name": "DIPLOMACY_AGENDA_NEG_AMT_SMALL"
+    },
+    {
+        "Amount": 5,
+        "DiplomacyAgendaAmountType": "DIPLOMACY_AGENDA_AMT_SMALL",
+        "Name": "DIPLOMACY_AGENDA_AMT_SMALL"
+    },
+    {
+        "Amount": 10,
+        "DiplomacyAgendaAmountType": "DIPLOMACY_AGENDA_AMT_MEDIUM",
+        "Name": "DIPLOMACY_AGENDA_AMT_MEDIUM"
+    },
+    {
+        "Amount": 15,
+        "DiplomacyAgendaAmountType": "DIPLOMACY_AGENDA_AMT_LARGE",
+        "Name": "DIPLOMACY_AGENDA_AMT_LARGE"
+    },
+    {
+        "Amount": 0,
+        "DiplomacyAgendaAmountType": "DIPLOMACY_AGENDA_AMT_CUSTOM",
+        "Name": "DIPLOMACY_AGENDA_AMT_CUSTOM"
+    }
+]

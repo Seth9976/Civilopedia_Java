@@ -1,0 +1,32 @@
+[
+    {
+        "DiplomacyPlayerRelationshipType": "PLAYER_RELATIONSHIP_HOSTILE",
+        "MaxRelationship": -2,
+        "MinRelationship": -30,
+        "Name": "LOC_PLAYER_RELATIONSHIP_HOSTILE"
+    },
+    {
+        "DiplomacyPlayerRelationshipType": "PLAYER_RELATIONSHIP_UNFRIENDLY",
+        "MaxRelationship": -1,
+        "MinRelationship": -2,
+        "Name": "LOC_PLAYER_RELATIONSHIP_UNFRIENDLY"
+    },
+    {
+        "DiplomacyPlayerRelationshipType": "PLAYER_RELATIONSHIP_NEUTRAL",
+        "MaxRelationship": 1,
+        "MinRelationship": -1,
+        "Name": "LOC_PLAYER_RELATIONSHIP_NEUTRAL"
+    },
+    {
+        "DiplomacyPlayerRelationshipType": "PLAYER_RELATIONSHIP_FRIENDLY",
+        "MaxRelationship": 2,
+        "MinRelationship": 1,
+        "Name": "LOC_PLAYER_RELATIONSHIP_FRIENDLY"
+    },
+    {
+        "DiplomacyPlayerRelationshipType": "PLAYER_RELATIONSHIP_HELPFUL",
+        "MaxRelationship": 30,
+        "MinRelationship": 2,
+        "Name": "LOC_PLAYER_RELATIONSHIP_HELPFUL"
+    }
+]

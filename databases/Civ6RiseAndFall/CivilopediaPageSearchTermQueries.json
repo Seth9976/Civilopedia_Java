@@ -1,0 +1,9 @@
+[
+    {
+        "PageIdColumn": "PageId",
+        "RowId": 1,
+        "SQL": "SELECT \"GOVERNORS\" AS SectionId, GovernorType AS PageId, ShortTitle AS Term FROM Governors",
+        "SearchTermColumn": "Term",
+        "SectionIdColumn": "SectionId"
+    }
+]

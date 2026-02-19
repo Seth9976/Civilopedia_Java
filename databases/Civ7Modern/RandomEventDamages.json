@@ -1,0 +1,282 @@
+[
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MODERATE"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 40,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MAJOR"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 60,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_1000_YEAR"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 40,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_KILIMAJARO"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_GENTLE"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 40,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_CATASTROPHIC"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 60,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MEGACOLOSSAL"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 40,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_THERA"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_SIGNIFICANT"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 50,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_CRIPPLING"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_GRADIENT"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 50,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_HABOOB"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_TORNADO_FAMILY"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 50,
+        "RandomEventType": "RANDOM_EVENT_TORNADO_OUTBREAK"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_THUNDERSTORM_SQUALL_LINE"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 50,
+        "RandomEventType": "RANDOM_EVENT_THUNDERSTORM_SUPERCELL"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_4"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 50,
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_5"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 25,
+        "RandomEventType": "RANDOM_EVENT_PLAGUE_MINOR"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 50,
+        "RandomEventType": "RANDOM_EVENT_PLAGUE_MAJOR"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 50,
+        "MinHP": 30,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MODERATE"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 60,
+        "MinHP": 40,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MAJOR"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 70,
+        "MinHP": 50,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_1000_YEAR"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 60,
+        "MinHP": 40,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_KILIMAJARO"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 50,
+        "MinHP": 30,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_GENTLE"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 60,
+        "MinHP": 40,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_CATASTROPHIC"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 70,
+        "MinHP": 50,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MEGACOLOSSAL"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 60,
+        "MinHP": 40,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_THERA"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 50,
+        "MinHP": 30,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_SIGNIFICANT"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 60,
+        "MinHP": 40,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_CRIPPLING"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 50,
+        "MinHP": 30,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_GRADIENT"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 60,
+        "MinHP": 40,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_HABOOB"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 50,
+        "MinHP": 30,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_TORNADO_FAMILY"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 60,
+        "MinHP": 40,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_TORNADO_OUTBREAK"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 50,
+        "MinHP": 30,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_THUNDERSTORM_SQUALL_LINE"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 60,
+        "MinHP": 40,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_THUNDERSTORM_SUPERCELL"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 50,
+        "MinHP": 30,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_4"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 60,
+        "MinHP": 40,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_5"
+    },
+    {
+        "DamageType": "CONSTRUCTIBLE_DAMAGED",
+        "MaxHP": null,
+        "MinHP": null,
+        "Percentage": 40,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MOUNT_FUJI"
+    },
+    {
+        "DamageType": "UNIT_DAMAGED",
+        "MaxHP": 60,
+        "MinHP": 40,
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MOUNT_FUJI"
+    }
+]

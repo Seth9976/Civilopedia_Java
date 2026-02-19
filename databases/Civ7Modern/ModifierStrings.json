@@ -1,0 +1,4167 @@
+[
+    {
+        "Context": "Preview",
+        "ModifierId": "HANDICAP_ARMY_XP_SCALING",
+        "Text": "LOC_DIFFICULTY_ARMY_X_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "HANDICAP_COMBAT_SCALING",
+        "Text": "LOC_DIFFICULTY_COMBAT_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "HANDICAP_CULTURE_SCALING",
+        "Text": "LOC_DIFFICULTY_CULTURE_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "HANDICAP_GOLD_SCALING",
+        "Text": "LOC_DIFFICULTY_GOLD_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "HANDICAP_HAPPINESS_SCALING",
+        "Text": "LOC_DIFFICULTY_HAPPINESS_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "HANDICAP_INDEPENDENT_COMBAT_SCALING",
+        "Text": "LOC_DIFFICULTY_COMBAT_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "HANDICAP_SCIENCE_SCALING",
+        "Text": "LOC_DIFFICULTY_SCIENCE_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "HANDICAP_CONSTRUCTIBLE_PRODUCTION_SCALING",
+        "Text": "LOC_DIFFICULTY_BUILDINGS_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "HANDICAP_UNITS_PRODUCTION_SCALING",
+        "Text": "LOC_DIFFICULTY_UNITS_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "HANDICAP_WATER_DAMAGE_SCALING",
+        "Text": "LOC_DIFFICULTY_WATER_DAMAGE_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "HANDICAP_TECH_COST",
+        "Text": "LOC_DIFFICULTY_TECH_COST_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "HANDICAP_CIVIC_COST",
+        "Text": "LOC_DIFFICULTY_CIVIC_COST_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "INFLUENCE_INDEPENDENT_VERY_HOSTILE_INVESTMENT",
+        "Text": "LOC_INFLUENCE_INDEPENDENT_INVESTMENT_VERY_HOSTILE_MOD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "INFLUENCE_INDEPENDENT_FRIENDLY_INVESTMENT",
+        "Text": "LOC_INFLUENCE_INDEPENDENT_INVESTMENT_FRIENDLY_MOD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "INFLUENCE_INDEPENDENT_FRIENDLY_FIRST_GIFT",
+        "Text": "LOC_INFLUENCE_INDEPENDENT_INVESTMENT_FRIENDLY_MOD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "INFLUENCE_INDEPENDENT_SUZERAIN_INVESTMENT",
+        "Text": "LOC_INFLUENCE_INDEPENDENT_INVESTMENT_SUZERAIN_MOD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "LAND_CLAIM_COMPLETE",
+        "Text": "LOC_LAND_CLAIM_COMPLETE_MOD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PLAYER_DIPLOMACY_FAVOR_ACCRUE_MOD",
+        "Text": "LOC_TRADITION_DIPLOMACY_FAVOR_ACCRUE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "LEND_LEASE_MOD_FAVOR_ON_ACTION_SUPPORT",
+        "Text": "LOC_TRADITION_LEND_LEASE_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_OPEN_BORDERS_ACTIVE",
+        "Text": "LOC_DIPLOMACY_PROJECT_OPEN_BORDERS_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_LOCAL_FESTIVALS_COMPLETE",
+        "Text": "LOC_DIPLOMACY_PROJECT_LOCAL_FESTIVALS_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PLAYER_DIPLOMACY_LOCAL_FESTIVALS_INITIAL_PLAYER_ACCEPT",
+        "Text": "LOC_DIPLOMACY_PROJECT_LOCAL_FESTIVALS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PLAYER_DIPLOMACY_LOCAL_FESTIVALS_TARGET_PLAYER_ACCEPT",
+        "Text": "LOC_DIPLOMACY_PROJECT_LOCAL_FESTIVALS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PLAYER_DIPLOMACY_LOCAL_FESTIVALS_SUPPORT",
+        "Text": "LOC_DIPLOMACY_PROJECT_LOCAL_FESTIVALS_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_SABOTAGE_TREASURY_COMPLETE",
+        "Text": "LOC_DIPLOMACY_PROJECT_SABOTAGE_TREASURY_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_SABOTAGE_MORALE_START",
+        "Text": "LOC_DIPLOMACY_PROJECT_SABOTAGE_MORALE_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_SABOTAGE_RESEARCH_START",
+        "Text": "LOC_DIPLOMACY_PROJECT_SABOTAGE_RESEARCH_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_SABOTAGE_CIVIC_STUDY_START",
+        "Text": "LOC_DIPLOMACY_PROJECT_SABOTAGE_CIVIC_STUDY_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_SABOTAGE_MILITARY_PRODUCTION_START",
+        "Text": "LOC_DIPLOMACY_PROJECT_SABOTAGE_MILITARY_PRODUCTION_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_ACCEPT",
+        "Text": "LOC_DIPLOMACY_PROJECT_TRADE_MAP_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_1",
+        "Text": "LOC_DIPLOMACY_PROJECT_TRADE_MAP_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_2",
+        "Text": "LOC_DIPLOMACY_PROJECT_TRADE_MAP_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_3",
+        "Text": "LOC_DIPLOMACY_PROJECT_TRADE_MAP_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_4",
+        "Text": "LOC_DIPLOMACY_PROJECT_TRADE_MAP_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_COMPLETE",
+        "Text": "LOC_DIPLOMACY_PROJECT_TRADE_MAP_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_FARMERS_MARKET_COMPLETE",
+        "Text": "LOC_DIPLOMACY_PROJECT_FARMERS_MARKET_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PLAYER_DIPLOMACY_FARMERS_MARKET_INITIAL_PLAYER_ACCEPT",
+        "Text": "LOC_DIPLOMACY_PROJECT_FARMERS_MARKET_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PLAYER_DIPLOMACY_FARMERS_MARKET_TARGET_PLAYER_ACCEPT",
+        "Text": "LOC_DIPLOMACY_PROJECT_FARMERS_MARKET_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PLAYER_DIPLOMACY_FARMERS_MARKET_SUPPORT",
+        "Text": "LOC_DIPLOMACY_PROJECT_FARMERS_MARKET_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_GINSING_AGREEMENT_COMPLETE",
+        "Text": "LOC_DIPLOMACY_PROJECT_GINSING_AGREEMENT_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PLAYER_DIPLOMACY_GINSING_AGREEMENT_INITIAL_PLAYER_ACCEPT",
+        "Text": "LOC_DIPLOMACY_PROJECT_GINSING_AGREEMENT_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PLAYER_DIPLOMACY_GINSING_AGREEMENT_TARGET_PLAYER_ACCEPT",
+        "Text": "LOC_DIPLOMACY_PROJECT_GINSING_AGREEMENT_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PLAYER_DIPLOMACY_GINSING_AGREEMENT_SUPPORT",
+        "Text": "LOC_DIPLOMACY_PROJECT_GINSING_AGREEMENT_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_MILITARY_AID_COMPLETE",
+        "Text": "LOC_DIPLOMACY_PROJECT_MILITARY_AID_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "PLAYER_DIPLOMACY_MILITARY_AID_INITIAL_PLAYER_ACCEPT",
+        "Text": "LOC_PLAYER_DIPLOMACY_MILITARY_AID_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "PLAYER_DIPLOMACY_MILITARY_AID_SUPPORT",
+        "Text": "LOC_PLAYER_DIPLOMACY_MILITARY_AID_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_CS_PROMOTE_GROWTH_ACTIVE",
+        "Text": "LOC_DIPLOMACY_PROJECT_IMPROVE_TRADE_RELATIONS_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_CS_BOLSTER_MILITARY_COMPLETE",
+        "Text": "LOC_DIPLOMACY_PROJECT_SABOTAGE_MILITARY_PRODUCTION_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_IMPROVE_TRADE_RELATIONS_COMPLETE_TARGET",
+        "Text": "LOC_DIPLOMACY_PROJECT_IMPROVE_TRADE_RELATIONS_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_GRANT_POLICY_SLOT_STARTED",
+        "Text": "LOC_DIPLOMACY_PROJECT_GRANT_POLICY_SLOT_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "AMINA_MOD_AGENDA_DESERT_OF_THE_WARRIOR_QUEEN",
+        "Text": "LOC_DIPLOMACY_AGENDA_DESERT_OF_THE_WARRIOR_QUEEN_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "ASHOKA_MOD_AGENDA_WITHOUT_SORROW",
+        "Text": "LOC_DIPLOMACY_AGENDA_WITHOUT_SORROW_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "AUGUSTUS_MOD_AGENDA_RESTITUTOR_ORBIS",
+        "Text": "LOC_DIPLOMACY_AGENDA_RESTITUTOR_ORBIS_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "FRANKLIN_MOD_PRODUCTION_BUILDING_SCIENCE",
+        "Text": "LOC_TRAIT_LEADER_BENJAMIN_FRANKLIN_ABILITY_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "FRANKLIN_MOD_DIPLO_EVENT_SCIENCE",
+        "Text": "LOC_TRAIT_LEADER_BENJAMIN_FRANKLIN_ABILITY_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "FRANKLIN_MOD_EXTRA_SINGLE_INSTANT_DIPLO_ACTIONS",
+        "Text": "LOC_DIPLOMACY_EXTRA_SINGLE_INSTANCE_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "FRANKLIN_MOD_AGENDA_CIVIC_VIRTUE",
+        "Text": "LOC_DIPLOMACY_AGENDA_CIVIC_VIRTUE_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "FRANKLIN_MOD_AGENDA_CIVIC_VIRTUE_DESCRIPTION",
+        "Text": "LOC_DIPLOMACY_AGENDA_CIVIC_VIRTUE_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "CATHERINE_MOD_AGENDA_DUSHA",
+        "Text": "LOC_DIPLOMACY_AGENDA_DUSHA_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "CHARLEMAGNE_MOD_AGENDA_THE_GOLDEN_SHEPHERD",
+        "Text": "LOC_DIPLOMACY_AGENDA_THE_GOLDEN_SHEPHERD_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "CONFUCIUS_MOD_AGENDA_GUANXI",
+        "Text": "LOC_DIPLOMACY_AGENDA_GUANXI_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "FRIEDRICH_MOD_AGENDA_TO_ARMS",
+        "Text": "LOC_DIPLOMACY_AGENDA_TO_ARMS_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "HARRIET_TUBMAN_MOD_AGENDA_VERACITY",
+        "Text": "LOC_DIPLOMACY_AGENDA_VERACITY_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HATSHEPSUT_MOD_BUILDING_PRODUCTION_RIVER",
+        "Text": "LOC_TRAIT_LEADER_HATSHEPSUT_ABILITY_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "HATSHEPSUT_MOD_AGENDA_WONDERS_OF_ITERU",
+        "Text": "LOC_DIPLOMACY_AGENDA_WONDERS_OF_ITERU_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "HIMIKO_MOD_NO_COST_ENDEAVOR_ACCEPT",
+        "Text": "LOC_DIPLOMACY_NO_COST_ENDEAVOR_SUPPORT_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "HIMIKO_MOD_AGENDA_YAMATAI",
+        "Text": "LOC_DIPLOMACY_AGENDA_YAMATAI_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "IBN_BATTUTA_MOD_AGENDA_FAR_AND_WIDE",
+        "Text": "LOC_DIPLOMACY_AGENDA_FAR_AND_WIDE_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "ISABELLA_MOD_AGENDA_WONDERLUST",
+        "Text": "LOC_DIPLOMACY_AGENDA_WONDERLUST_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "RIZAL_MOD_CELEBRATION_LENGTH",
+        "Text": "LOC_RIZAL_MOD_CELEBRATION_LENGTH_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "RIZAL_MOD_AGENDA_KAPWA",
+        "Text": "LOC_DIPLOMACY_AGENDA_KAPWA_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "LAFAYETTE_MOD_AGENDA_FRENCH_QUARTERS",
+        "Text": "LOC_DIPLOMACY_AGENDA_FRENCH_QUARTERS_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "MACHIAVELLI_MOD_AGENDA_THE_SPIDER",
+        "Text": "LOC_DIPLOMACY_AGENDA_THE_SPIDER_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PACHACUTI_MOD_AGENDA_MOUNTAIN_KING",
+        "Text": "LOC_DIPLOMACY_AGENDA_MOUNTAIN_KING_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "TRUNG_TRAC_MOD_AGENDA_VAN_MINH",
+        "Text": "LOC_DIPLOMACY_AGENDA_VAN_MINH_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "XERXES_MOD_AGENDA_LORD_OF_FIRE",
+        "Text": "LOC_DIPLOMACY_AGENDA_LORD_OF_FIRE_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_FOUNDATION_CORPUS_JURIS_CIVILIS_MODIFIER",
+        "Text": "LOC_MEMENTO_FOUNDATION_CORPUS_JURIS_CIVILIS_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_FOUNDATION_AGINCOURT_ARROWHEAD_MODIFIER",
+        "Text": "LOC_MEMENTO_FOUNDATION_AGINCOURT_ARROWHEAD_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MEMENTO_AMINA_TAKOBA_MODIFIER",
+        "Text": "LOC_MEMENTO_AMINA_TAKOBA_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_AMINA_KWALKWALI_MODIFIER",
+        "Text": "LOC_MEMENTO_AMINA_KWALKWALI_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_ASHOKA_RENOUNCER_CHAKRA_MODIFIER",
+        "Text": "LOC_MEMENTO_ASHOKA_RENOUNCER_CHAKRA_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_BENJAMIN_FRANKLIN_KITE_MODIFIER",
+        "Text": "LOC_MEMENTO_BENJAMIN_FRANLKIN_KITE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_CATHERINE_EAGLE_BANNER_MODIFIER",
+        "Text": "LOC_MEMENTO_CATHERINE_EAGLE_BANNER_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_CATHERINE_POTEMKINS_SWORD_KNOT_MODIFIER",
+        "Text": "LOC_MEMENTO_CATHERINE_POTEMKINS_SWORD_KNOT_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_CATHERINE_GREAT_IMPERIAL_CROWN_MODIFIER",
+        "Text": "LOC_MEMENTO_CATHERINE_GREAT_IMPERIAL_CROWN_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_CHARLEMAGNE_TENCENDUR_MODIFIER",
+        "Text": "LOC_MEMENTO_CHARLEMAGNE_TENCENDUR_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_FRIEDRICH_OBLIQUE_WALKING_STICK_MODIFIER",
+        "Text": "LOC_MEMENTO_FRIEDRICH_OBLIQUE_WALKING_STICK_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MEMENTO_TUBMAN_SIDEARM_MODIFIER",
+        "Text": "LOC_MEMENTO_TUBMAN_SIDEARM_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_HATSHEPSUT_ROYAL_MACE_MODIFIER",
+        "Text": "LOC_MEMENTO_HATSHEPSUT_ROYAL_MACE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_HATSHEPSUT_URAEUS_MODIFIER",
+        "Text": "LOC_MEMENTO_HATSHEPSUT_URAEUS_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_HIMIKO_QUEEN_GOLDEN_SEAL_STONE_MODIFIER",
+        "Text": "LOC_MEMENTO_HIMIKO_QUEEN_GOLDEN_SEAL_STONE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_HIMIKO_QUEEN_YASAKANI_NO_MAGATAMA_MODIFIER",
+        "Text": "LOC_MEMENTO_HIMIKO_QUEEN_YASAKANI_NO_MAGATAMA_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_BATTUTA_MERCHANTS_SADDLE_MODIFIER_1",
+        "Text": "LOC_MEMENTO_BATTUTA_MERCHANTS_SADDLE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_BATTUTA_MERCHANTS_SADDLE_MODIFIER_2",
+        "Text": "LOC_MEMENTO_BATTUTA_MERCHANTS_SADDLE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_BATTUTA_MERCHANTS_SADDLE_MODIFIER_3",
+        "Text": "LOC_MEMENTO_BATTUTA_MERCHANTS_SADDLE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_BATTUTA_MERCHANTS_SADDLE_MODIFIER_4",
+        "Text": "LOC_MEMENTO_BATTUTA_MERCHANTS_SADDLE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_ISABELLA_QUEENS_JEWELRY_MODIFIER",
+        "Text": "LOC_MEMENTO_ISABELLA_QUEENS_JEWELRY_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_ISABELLA_PADRON_REAL_MODIFIER",
+        "Text": "LOC_MEMENTO_ISABELLA_PADRON_REAL_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_LAFAYETTE_LETTER_ADRIENNE_MODIFIER_1",
+        "Text": "LOC_MEMENTO_LAFAYETTE_LETTER_ADRIENNE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_LAFAYETTE_LETTER_ADRIENNE_MODIFIER_2",
+        "Text": "LOC_MEMENTO_LAFAYETTE_LETTER_ADRIENNE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_LAFAYETTE_HERMIONE_MODEL_MODIFIER_1",
+        "Text": "LOC_MEMENTO_CHARLEMAGNE_TENCENDUR_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_MACHIAVELLI_DISCORSI_SOPRA_LIVIO_MODIFIER",
+        "Text": "LOC_MEMENTO_MACHIAVELLI_DISCORSI_SOPRA_LIVIO_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_PACHACUTI_TOPAYAURI_MODIFIER",
+        "Text": "LOC_MEMENTO_PACHACUTI_TOPAYAURI_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_XERXES_KING_GOLDEN_SCEPTRE_MODIFIER",
+        "Text": "LOC_MEMENTO_XERXES_KING_GOLDEN_SCEPTRE_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ABILITY_NARRATIVE_STRENGTH",
+        "Text": "LOC_NARRATIVE_ABILITY_STRENGTH_BONUS"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ABILITY_NARRATIVE_STRENGTH_PENALTY",
+        "Text": "LOC_NARRATIVE_ABILITY_STRENGTH_PENALTY"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ABILITY_NARRATIVE_AGGRESSION_BONUS",
+        "Text": "LOC_NARRATIVE_ABILITY_AGGRESSIVE_BONUS"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ABILITY_NARRATIVE_AGGRESSION_PENALTY",
+        "Text": "LOC_NARRATIVE_ABILITY_AGGRESSIVE_PENALTY"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ABILITY_NARRATIVE_DEFENSIVE_PENALTY",
+        "Text": "LOC_NARRATIVE_ABILITY_DEFENSE_PENALTY"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ABILITY_NARRATIVE_DEFENSIVE_BONUS",
+        "Text": "LOC_NARRATIVE_ABILITY_DEFENSE_BONUS"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ABILITY_NARRATIVE_MOVEMENT",
+        "Text": "LOC_NARRATIVE_ABILITY_MOVEMENT_BONUS"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ABILITY_NARRATIVE_MOVEMENT_PENALTY",
+        "Text": "LOC_NARRATIVE_ABILITY_MOVEMENT_PENALTY"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ABILITY_NARRATIVE_RANGE_DEFENSE_BONUS",
+        "Text": "LOC_NARRATIVE_ABILITY_RANGE_DEFENSE_BONUS"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_01_A",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_01_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_02",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_02_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_03",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_03_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_04",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_04_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_05",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_05_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_06",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_06_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_07_A",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_07_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_08",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_08_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_09_A",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_09_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_10",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_10_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_POLITICAL_01_A",
+        "Text": "LOC_MOD_ATTRIBUTE_POLITICAL_01_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_POLITICAL_02",
+        "Text": "LOC_MOD_ATTRIBUTE_POLITICAL_02_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_POLITICAL_03",
+        "Text": "LOC_MOD_ATTRIBUTE_POLITICAL_03_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_POLITICAL_04",
+        "Text": "LOC_MOD_ATTRIBUTE_POLITICAL_04_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_POLITICAL_05",
+        "Text": "LOC_MOD_ATTRIBUTE_POLITICAL_05_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_POLITICAL_06",
+        "Text": "LOC_MOD_ATTRIBUTE_POLITICAL_06_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_POLITICAL_07_A",
+        "Text": "LOC_MOD_ATTRIBUTE_POLITICAL_07_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_POLITICAL_08",
+        "Text": "LOC_MOD_ATTRIBUTE_POLITICAL_08_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_POLITICAL_09",
+        "Text": "LOC_MOD_ATTRIBUTE_POLITICAL_09_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_POLITICAL_10_A",
+        "Text": "LOC_MOD_ATTRIBUTE_POLITICAL_10_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_01_A",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_01_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_02",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_02_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_03_A",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_03_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_04",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_04_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_05_A",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_05_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_06_A",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_06_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_07_A",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_07_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_08",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_08_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_09",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_09_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_10",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_10_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_01",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_01_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_02",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_02_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_03",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_03_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_04",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_04_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_05_A",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_05_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_06_A",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_06_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_07_A",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_07_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_08_A",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_08_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_09",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_09_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_10",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_10_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_01",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_01_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_02",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_02_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_03",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_03_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_04",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_04_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_05",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_05_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_06",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_06_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_07",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_07_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_08",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_08_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_09",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_09_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_10",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_10_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_01_A",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_01_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_02",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_02_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_03",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_03_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_04",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_04_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_05",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_05_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_06",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_06_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_07_A",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_07_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_08",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_08_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_09_A",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_09_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_10",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_10_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_LEGEND_AUGUSTUS_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_AUGUSTUS_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_LEGEND_CATHERINE_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_CATHERINE_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_LEGEND_HATSHEPSUT_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_HATSHEPSUT_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_LEGEND_JOSE_RIZAL_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_JOSE_RIZAL_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_LEGEND_LAFAYETTE_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_LAFAYETTE_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_ASHOKA_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_ASHOKA_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_BENJAMIN_FRANKLIN_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_BENJAMIN_FRANKLIN_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_HARRIET_TUBMAN_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_HARRIET_TUBMAN_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_HIMIKO_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_HIMIKO_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_JOSE_RIZAL_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_JOSE_RIZAL_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_LAFAYETTE_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_LAFAYETTE_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_MACHIAVELLI_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_MACHIAVELLI_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_LEGEND_AMINA_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_LEGEND_AMINA_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_LEGEND_HATSHEPSUT_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_LEGEND_HATSHEPSUT_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_LEGEND_IBN_BATTUTA_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_LEGEND_IBN_BATTUTA_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_LEGEND_ISABELLA_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_LEGEND_ISABELLA_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_LEGEND_MACHIAVELLI_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_LEGEND_MACHIAVELLI_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_LEGEND_PACHACUTI_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_LEGEND_PACHACUTI_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_LEGEND_XERXES_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_LEGEND_XERXES_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_ASHOKA_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_ASHOKA_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_AUGUSTUS_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_AUGUSTUS_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_CONFUCIUS_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_CONFUCIUS_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_IBN_BATTUTA_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_IBN_BATTUTA_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_ISABELLA_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_ISABELLA_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_PACHACUTI_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_PACHACUTI_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_AMINA_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_AMINA_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_AMINA_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_AMINA_L2_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_CHARLEMAGNE_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_CHARLEMAGNE_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_CHARLEMAGNE_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_CHARLEMAGNE_L1_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_FRIEDRICH_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_FRIEDRICH_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_FRIEDRICH_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_FRIEDRICH_L1_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_HARRIET_TUBMAN_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_HARRIET_TUBMAN_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_HARRIET_TUBMAN_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_HARRIET_TUBMAN_L2_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TRUNG_TRAC_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TRUNG_TRAC_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TRUNG_TRAC_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TRUNG_TRAC_L1_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_XERXES_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_XERXES_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_XERXES_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_XERXES_L2_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_BENJAMIN_FRANKLIN_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_BENJAMIN_FRANKLIN_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_CATHERINE_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_CATHERINE_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_CHARLEMAGNE_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_CHARLEMAGNE_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_CONFUCIUS_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_CONFUCIUS_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_FRIEDRICH_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_FRIEDRICH_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_HIMIKO_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_HIMIKO_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_TRUNG_TRAC_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_TRUNG_TRAC_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "BARRIER_REEF_ADJACENT_RURAL_SEA_YIELDS",
+        "Text": "LOC_FEATURE_BARRIER_REEF_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HOERIKWAGGO_ADJACENT_URBAN_YIELDS",
+        "Text": "LOC_FEATURE_HOERIKWAGGO_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "IGUAZU_FALLS_ADJACENT_URBAN_YIELDS",
+        "Text": "LOC_FEATURE_IGUAZU_FALLS_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "GULLFOSS_ADJACENT_YIELDS",
+        "Text": "LOC_FEATURE_GULLFOSS_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PORT_OF_NATIONS_MOD_TRADE_ROUTE_CULTURE",
+        "Text": "LOC_TRADITION_PORT_OF_NATIONS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "THRONE_OF_MY_FATHERS_MOD_COASTAL_CITY_GOLD",
+        "Text": "LOC_TRADITION_THRONE_OF_MY_FATHERS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PLEASE_THE_PEOPLE_MOD_COASTAL_RESOURCE_CULTURE",
+        "Text": "LOC_TRADITION_MAY_THIS_PLEASE_THE_PEOPLE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "AKHET_MOD_NAVIGABLE_RIVER_FOOD",
+        "Text": "LOC_TRADITION_AKHET_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "RICHES_OF_THE_DUAT_MOD_WONDER_PRODUCTION",
+        "Text": "LOC_TRADITION_RICHES_OF_THE_DUAT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "KEMET_MOD_NAVIGABLE_RIVER_CULTURE",
+        "Text": "LOC_TRADITION_KEMET_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "XENIA_MOD_ADJUST_PROGRESS_FRIENDLY_INDEPENDENT",
+        "Text": "LOC_TRADITION_XENIA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "STRATEGOI_MOD_COMMANDER_XP",
+        "Text": "LOC_TRADITION_STRATEGOI_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "DELIAN_LEAGUE_MOD_ADJUST_ENDEAVOR",
+        "Text": "LOC_TRADITION_DELIAN_LEAGUE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PELOPONNESIAN_LEAGUE_MOD_ADJUST_SANCTION",
+        "Text": "LOC_TRADITION_PELOPONNESIAN_LEAGUE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "GUANXI_MOD_SCIENCE_BUILDING_DIPLOMACY",
+        "Text": "LOC_TRADITION_GUANXI_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "JIU_QING_MOD_HAPPINESS_BUILDING_DIPLOMACY",
+        "Text": "LOC_TRADITION_JIU_QING_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TIANXIA_MOD_WORKER_SCIENCE",
+        "Text": "LOC_TRADITION_TIANXIA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "VARNA_MOD_WORKER_GOLD",
+        "Text": "LOC_TRADITION_VARNA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "KAMBU_MERA_MOD_WORKER_MAINTENANCE",
+        "Text": "LOC_TRADITION_KAMBU_MERA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PITHI_CHRAT_MOD_FLOODPLAINS_COMBAT_BONUS",
+        "Text": "LOC_TRADITION_PITHI_CHRAT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "CHARVAKA_MOD_SCIENCE_HAPPINESS",
+        "Text": "LOC_TRADITION_CHARVAKA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "KSHATRIYA_MOD_MILITARY_HAPPINESS",
+        "Text": "LOC_TRADITION_KSHATRIYA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SHRENI_MOD_HAPPINESS_GOLD",
+        "Text": "LOC_TRADITION_SHRENI_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ARTHASHASTRA_MOD_HAPPINESS_SCIENCE",
+        "Text": "LOC_TRADITION_ARTHASHASTRA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PET_KOT_MOD_VEGETATED_SCIENCE",
+        "Text": "LOC_TRADITION_PET_KOT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TWINS_MOD_ABILITY_POISON",
+        "Text": "LOC_TRADITION_MIRACLES_OF_THE_TWINS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TZOLKIN_MOD_HAPPINESS_BUILDING_SCIENCE",
+        "Text": "LOC_TRADITION_TZOLKIN_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HAAB_MOD_HAPPINESS_BUILDING_CULTURE",
+        "Text": "LOC_TRADITION_HAAB_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "GIFT_ECONOMY_MOD_IMPORTED_RESOURCE_GOLD",
+        "Text": "LOC_TRADITION_GIFT_ECONOMY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SHELL_TEMPERED_POTTERY_MOD_BUILDING_GOLD_FOOD",
+        "Text": "LOC_TRADITION_SHELL_TEMPERED_POTTERY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ATASSA_MOD_UNIT_ABILITY",
+        "Text": "LOC_TRADITION_ATASSA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "KARA_MOD_CLASS_INFANTRY_PRODUCTION",
+        "Text": "LOC_TRADITION_KARA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ANGARIUM_MOD_GOLD_PER_TOWN",
+        "Text": "LOC_TRADITION_ANGARIUM_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SAHANSAH_MOD_UNIT_ABILITY",
+        "Text": "LOC_TRADITION_SHAHANSHAH_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SALES_AND_TRADE_MOD_RESOURCE_GOLD",
+        "Text": "LOC_TRADITION_SALES_AND_TRADE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "COMPENDIOUS_BOOK_MOD_TOWN_SCIENCE",
+        "Text": "LOC_TRADITION_COMPENDIOUS_BOOK_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "CITY_OF_PEACE_MOD_ADJACENT_CITY_CENTER",
+        "Text": "LOC_TRADITION_CITY_OF_PEACE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "DEVAKOSHTA_MOD_CULTURE_TRADE_BUILDINGS",
+        "Text": "LOC_TRADITION_DEVAKOSHTA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MARAKKALAM_MOD_NAVAL_MAINTENANCE",
+        "Text": "LOC_TRADITION_MARAKKALAM_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ANGADI_MOD_WATER_BUILDING_GOLD",
+        "Text": "LOC_TRADITION_ANGADI_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "KAPA_MOD_CULTURE_BUILDING_PRODUCTION",
+        "Text": "LOC_TRADITION_KAPA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "AHUPUA_A_MOD_CULTURE_BUILDING_FOOD",
+        "Text": "LOC_TRADITION_AHUPUA_A_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HO_OKUPU_MOD_MARINE",
+        "Text": "LOC_TRADITION_HO_OKUPU_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "QUALLQA_MOD_FOOD_TRADE",
+        "Text": "LOC_TRADITION_QUALLQA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "QUIPU_MOD_URBAN_GOLD",
+        "Text": "LOC_TRADITION_QUIPU_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TIRAKUNA_MOD_FOOD_ADJACENT_MOUNTAIN",
+        "Text": "LOC_TRADITION_TIRAKUNA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PANJI_CULTURE_WORKERS",
+        "Text": "LOC_TRADITION_PANJI_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "NEGARAKERTAGAMA_SPECIALIST_MAITENANCE_REDUCE",
+        "Text": "LOC_TRADITION_NEGARAKERTAGAMA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SUBAK_CULTURE_FISHING_BOATS",
+        "Text": "LOC_TRADITION_SUBAK_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "BAOJIA_MOD_CITY_RESOURCE_SCIENCE",
+        "Text": "LOC_TRADITION_BAOJIA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "DIVINE_ENGINE_DIVISION_MOD_GARRISONED_SCIENCE",
+        "Text": "LOC_TRADITION_DIVINE_ENGINE_DIVISION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "GRAND_SECRETARIAT_MOD_GOLD_BUILDING_SCIENCE",
+        "Text": "LOC_TRADITION_GRAND_SECRETARIAT_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "BAGHATUR_MOUNTED_COMBAT_STRENGTH",
+        "Text": "LOC_TRADITION_BAGHATUR_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "JARLIG_MOD_NOT_FOUNDED_YIELD",
+        "Text": "LOC_TRADITION_JARLIG_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "GEREGE_RESOURCES_HAPPINESS_NOT_FOUNDED",
+        "Text": "LOC_TRADITION_GEREGE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "FAMILIA_REGIS_TRADITIONS_CULTURE",
+        "Text": "LOC_TRADITION_FAMILIA_REGIS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "BAYEUX_TAPESTRY_CONQUERED_CULTURE",
+        "Text": "LOC_TRADITION_BAYEUX_TAPESTRY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "JURE_CITY_HALL_HAPPINESS",
+        "Text": "LOC_TRADITION_JURE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PALISADING_FORTIFICATION_PRODUCTION",
+        "Text": "LOC_TRADITION_PALISADING_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SERVITIUM_DEBITUM_MOUNTED_MAINTENANCE",
+        "Text": "LOC_TRADITION_SERVITIUM_DEBITUM_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MUD_BRICK_MOD_GOLD_BUILDING_PRODUCTION_RATE",
+        "Text": "LOC_TRADITION_MUD_BRICK_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ISA_MOD_RIVER_COMBAT",
+        "Text": "LOC_TRADITION_ISA_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ISA_MOD_RIVER_COMBAT_ATTACH",
+        "Text": "LOC_TRADITION_ISA_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TIMBUKTU_MOD_TRADE_BUILDING_WAREHOUSE_MINES",
+        "Text": "LOC_TRADITION_TIMBUKTU_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "WAKIA_MOD_GOLD_ON_TRADE_ROUTES",
+        "Text": "LOC_TRADITION_WAKIA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "CERRO_RICO_MOD_RESOURCE_GOLD_HOMELANDS",
+        "Text": "LOC_TRADITION_CERRO_RICO_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "CONQUISTA_DISTANT_LAND_COMBAT",
+        "Text": "LOC_TRADITION_CONQUISTA_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "CONQUISTA_DISTANT_LAND_COMBAT",
+        "Text": "LOC_TRADITION_CONQUISTA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "GREAT_AND_MOST_FORTUNATE_NAVY_MOD_NAVAL_MAINTENANCE",
+        "Text": "LOC_TRADITION_GREAT_AND_MOST_FORTUNATE_NAVY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "GOLD_RUSH_MOD_GRANT_GOLD_ON_RESOURCE",
+        "Text": "LOC_TRADITION_GOLD_RUSH_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ROBBER_BARON_MOD_INFLUENCE_PER_RESOURCE",
+        "Text": "LOC_TRADITION_ROBBER_BARON_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "LEND_LEASE_MOD_CIV_TRADE_ROUTE_GOLD_YIELD",
+        "Text": "LOC_TRADITION_LEND_LEASE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "CLAN_SOCIETY_MOD_HAPPINESS_ON_FRIENDLY_SETTLEMENTS",
+        "Text": "LOC_TRADITION_CLAN_SOCIETY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "NG_OMA_MOD_LAKE_AJACENT_UNIT_COMBAT_STRENGTH",
+        "Text": "LOC_TRADITION_NG_OMA_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_NG_OMA_LAKE_AJACENT_UNIT_COMBAT_STRENGTH",
+        "Text": "LOC_TRADITION_NG_OMA_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "INTERLACUSTRINE_MOD_LAKE_ADJACENCY_BONUS_CULTURE",
+        "Text": "LOC_TRADITION_INTERLACUSTRINE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "STYLE_EMPIRE_MOD_CULTURE_ON_BUILDING_CREATED",
+        "Text": "LOC_TRADITION_STYLE_EMPIRE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "COCORICO_MOD_CULTURE_ON_UNIT_DEFEAT",
+        "Text": "LOC_TRADITION_COCORICO_DESCRIPTION"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "COCORICO_MOD_CULTURE_ON_UNIT_DEFEAT",
+        "Text": "LOC_WORLD_CULTURE_INCREASE_FLOATER"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "REIGN_OF_TERROR_CULTURE_DISTRICTS",
+        "Text": "LOC_TRADITION_ROBESPIERRE_REIGN_OF_TERROR_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SHUSEI_KOKUBO_MOD_MILITARY_BUILDING_COAST_ADJACENCY",
+        "Text": "LOC_TRADITION_SHUSEI_KOKUBO_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "FUKOKU_KYOHEI_MOD_AIRCRAFT_SCIENCE",
+        "Text": "LOC_TRADITION_FUKOKU_KYOHEI_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "O_YATOI_GAIKOKUJIN_MOD_WORKER_PRODUCTION",
+        "Text": "LOC_TRADITION_O_YATOI_GAIKOKUJIN_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "KOKUTAI_MOD_AIRCRAFT_JOINT_ATTACK_ABILITY",
+        "Text": "LOC_TRADITION_KOKUTAI_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "KOKUTAI_MOD_AIRCRAFT_JOINT_ATTACK_ABILITY",
+        "Text": "LOC_TRADITION_KOKUTAI_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "CORRIDOS_MOD_HAPPINESS_PER_TRADITION",
+        "Text": "LOC_TRADITION_CORRIDOS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "CRY_OF_DOLORES_MOD_COMBAT_STRENGTH_PER_TRADITION",
+        "Text": "LOC_TRADITION_CRY_OF_DOLORES_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "LA_REFORMA_MOD_CULTURE_PER_TRADITION",
+        "Text": "LOC_TRADITION_LA_REFORMA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ORDER_AND_PROGRESS_MOD_SCIENCE_PER_TRADITION",
+        "Text": "LOC_TRADITION_ORDER_AND_PROGRESS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "JINSI_KAMIL_MOD_FARM_FOOD",
+        "Text": "LOC_TRADITION_JINSI_KAMIL_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "GUNPOWDER_EMPIRE_MOD_ALL_UNITS_COMBAT_STRENGTH",
+        "Text": "LOC_TRADITION_GUNPOWDER_EMPIRE_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MAYURASANA_MOD_PURCHASE_RATE_BUILDINGS",
+        "Text": "LOC_TRADITION_MAYURASANA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "COKING_MOD_PRODUCTION_ON_RESOURCES_IN_CITY",
+        "Text": "LOC_TRADITION_COKING_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEDIATIZATION_MOD_CITY_CAPTURE_CULTURE_BONUS",
+        "Text": "LOC_TRADITION_MEDIATIZATION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "REALPOLITIK_MOD_CITY_PRODUCITON_AT_WAR",
+        "Text": "LOC_TRADITION_REALPOLITIK_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "IRON_CROSS_MOD_COMBAT_STRENGTH_FROM_COMMANDER_PROMOTIONS",
+        "Text": "LOC_TRADITION_IRON_CROSS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "CHUANG_GUANDONG_MOD_TOWN_GROWTH_RATE",
+        "Text": "LOC_TRADITION_CHUANG_GUANDONG_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "COHONG_MOD_TRADE_INCOME",
+        "Text": "LOC_TRADITION_COHONG_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "FARMLAND_ASSESSMENT_MOD_UNIT_PRODUCTION",
+        "Text": "LOC_TRADITION_FARMLAND_ASSESSMENT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "BANNER_ARMY_MOD_ADJUST_COMBAT_STRENGTH",
+        "Text": "LOC_TRADITION_BANNER_ARMY_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_BANNER_ARMY_ADJUST_COMBAT_STRENGTH",
+        "Text": "LOC_TRADITION_BANNER_ARMY_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "EMANCIPATION_REFORM_MOD_PRODUCTION_RATE",
+        "Text": "LOC_TRADITION_EMANCIPATION_REFORM_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "WESTERNIZATION_MOD_CITY_SCIENCE_RATE",
+        "Text": "LOC_TRADITION_WESTERNIZATION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "GENERAL_MOROZ_MOD_TUNDRA_ABILITY",
+        "Text": "LOC_TRADITION_GENERAL_MOROZ_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "STATE_RAILWAY_MOD_INFLUENCE_PER_RAIL_STATION",
+        "Text": "LOC_TRADITION_STATE_RAILWAY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SAKDINA_MOD_HAPPINESS_PER_ALLIED_CITY_STATE",
+        "Text": "LOC_TRADITION_SAKDINA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MUEANG_MOD_GOLD_PER_CITY_STATE_RESOURCE",
+        "Text": "LOC_TRADITION_MUEANG_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PRATHETSARAT_MOD_CITY_STATE_PROJECT_EFFICIENCY",
+        "Text": "LOC_TRADITION_PRATHETSARAT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_PROMOTION_COMMENDATION_MERIT",
+        "Text": "LOC_PROMOTION_COMMENDATION_MERIT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ABILITY_ARMY_SERVICE",
+        "Text": "LOC_ABILITY_ARMY_SERVICE_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_ARMY_ORDER",
+        "Text": "LOC_ABILITY_ORDER_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ABILITY_ARMY_ORDER",
+        "Text": "LOC_ABILITY_ARMY_ORDER_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ABILITY_FLEET_SERVICE",
+        "Text": "LOC_ABILITY_FLEET_SERVICE_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_FLEET_ORDER",
+        "Text": "LOC_ABILITY_ORDER_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ABILITY_FLEET_ORDER",
+        "Text": "LOC_ABILITY_FLEET_ORDER_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ABILITY_SQUADRON_SERVICE",
+        "Text": "LOC_ABILITY_SQUADRON_SERVICE_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_SQUADRON_ORDER",
+        "Text": "LOC_ABILITY_ORDER_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ABILITY_SQUADRON_ORDER",
+        "Text": "LOC_ABILITY_SQUADRON_ORDER_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_RETALIATE_WHEN_RANGED_DAMAGE_RECEIVED",
+        "Text": "LOC_ABILITY_RETALIATE_WHEN_RANGED_DAMAGE_RECEIVED_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_ARMY_STEADFAST",
+        "Text": "LOC_ABILITY_ARMY_STEADFAST_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_ARMY_HOLD_THE_LINE",
+        "Text": "LOC_ABILITY_ARMY_HOLD_THE_LINE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_ARMY_DEFILADE",
+        "Text": "LOC_ABILITY_ARMY_DEFILADE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_ARMY_ROUT",
+        "Text": "LOC_ABILITY_ARMY_ROUT_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_ARMY_STORM",
+        "Text": "LOC_ABILITY_ARMY_STORM_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_ARMY_SHOCK_TACTICS",
+        "Text": "LOC_ABILITY_ARMY_SHOCK_TACTICS_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_ARMY_ENFILADE",
+        "Text": "LOC_ABILITY_ARMY_ENFILADE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_PROMOTION_ARMY_OLD_GUARD",
+        "Text": "LOC_ABILITY_ARMY_OLD_GUARD_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_FLEET_SHELLING",
+        "Text": "LOC_ABILITY_FLEET_SHELLING_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_FLEET_NAVAL_ARTILLERY",
+        "Text": "LOC_PROMOTION_FLEET_NAVAL_ARTILLERY_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_FLEET_REINFORCED_HULL",
+        "Text": "LOC_ABILITY_FLEET_REINFORCED_HULL_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_FLEET_SALVO",
+        "Text": "LOC_ABILITY_FLEET_SALVO_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_PROMOTION_FLEET_FLAGSHIP",
+        "Text": "LOC_ABILITY_FLEET_FLAGSHIP_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_FLEET_FLAGSHIP",
+        "Text": "LOC_ABILITY_FLEET_FLAGSHIP_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_FLEET_CONVOYS",
+        "Text": "LOC_ABILITY_FLEET_CONVOYS_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_SQUADRON_SYNCHRONIZATION",
+        "Text": "LOC_ABILITY_SQUADRON_SYNCHRONIZATION_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_SQUADRON_EVASIVE_MANEUVERS",
+        "Text": "LOC_ABILITY_SQUADRON_EVASIVE_MANEUVERS_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_SQUADRON_FIRST_STRIKE",
+        "Text": "LOC_KEYWORD_ABILITY_FIRST_STRIKE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_SQUADRON_TACTICAL_STRIKE",
+        "Text": "LOC_ABILITY_SQUADRON_TACTICAL_STRIKE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND_DEFENSE",
+        "Text": "LOC_PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_SQUADRON_DANGER_CLOSE",
+        "Text": "LOC_ABILITY_SQUADRON_DANGER_CLOSE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_PROMOTION_CARRIER_BATTLE_GROUP_DEFENSE",
+        "Text": "LOC_PROMOTION_CARRIER_BATTLE_GROUP_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_CARRIER_BATTLE_GROUP_NAVAL_STRENGTH",
+        "Text": "LOC_PROMOTION_CARRIER_BATTLE_GROUP_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_SQUADRON_TORPEDO_BOMBERS",
+        "Text": "LOC_ABILITY_SQUADRON_TORPEDO_BOMBERS_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ABILITY_SQUADRON_SPOTTING",
+        "Text": "LOC_ABILITY_SQUADRON_SPOTTING_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "AMINA_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "Text": "LOC_ABILITY_AMINA_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "CHARLEMAGNE_MOD_ADJUST_CAVALRY_STRENGTH",
+        "Text": "LOC_ABILITY_CHARLEMAGNE_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "LAFAYETTE_MOD_TRADITION_ADJUST_STRENGTH",
+        "Text": "LOC_ABILITY_LAFAYETTE_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "XERXES_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "Text": "LOC_ABILITY_XERXES_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "FIRST_STRIKE_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "Text": "LOC_KEYWORD_ABILITY_FIRST_STRIKE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "FEAR_MOD_ADJUST_ENEMY_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "Text": "LOC_KEYWORD_ABILITY_FEAR_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "FLOODPLAIN_COMBAT_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "Text": "LOC_ABILITY_FLOODPLAIN_COMBAT_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "INDEPENDENT_COMBAT_MAJOR_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "Text": "LOC_ABILITY_INDEPENDENT_COMBAT_MAJOR_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "INDEPENDENT_COMBAT_MINOR_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "Text": "LOC_ABILITY_INDEPENDENT_COMBAT_MINOR_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "INDEPENDENT_COMBAT_MINOR_PENALTY_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "Text": "LOC_ABILITY_INDEPENDENT_COMBAT_MINOR_PENALTY_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTRIBUTE_MILITARISTIC_12_MOD_ADJUST_UNIT_COMBAT_VS_DISTRICTS",
+        "Text": "LOC_TREE_ATTRIBUTE_MILITARISTIC"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "POISON_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "Text": "LOC_KEYWORD_ABILITY_POISON_SUMMARY"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "VEGETATION_STEALTH_MOD_ADJUST_UNIT_HIDDEN_VISIBILITY",
+        "Text": "LOC_ABILITY_VEGETATED_STEALTH_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_SIEGE_VULNERABILITY",
+        "Text": "LOC_ABILITY_SIEGE_VULNERABILITY_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATASSA_MOD_RANGED_DEFENSE_MODIFIER",
+        "Text": "LOC_TRADITION_ATASSA_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "SAHANSAH_MOD_COMBAT_STRENGTH_ENEMY_TERRITORY",
+        "Text": "LOC_TRADITION_SHAHANSHAH_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ESPIONAGE_MOD_MILITARY_SABOTAGE",
+        "Text": "LOC_ABILITY_ESPIONAGE_MILITARY_SABOTAGE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_DUR_SHARRUKIN_WALL_COMBAT_STRENGTH",
+        "Text": "LOC_MOD_DUR_SHARRUKIN_PREVIEW"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "MOD_ERDENE_ZUU_CAVALRY_CULTURE",
+        "Text": "LOC_WORLD_CULTURE_INCREASE_FLOATER"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_RAILYARD_CONNECTED_PRODUCTION",
+        "Text": "LOC_MOD_RAILYARD_CONNECTED_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MILITARY_ACADEMY_COMMANDER_PROMOTION",
+        "Text": "LOC_BUILDING_MILITARY_ACADEMY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ROUTE_STAATSEISENBAHN_GOLD",
+        "Text": "LOC_ROUTE_STAATSEISENBAHN_YIELD_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "SHORE_BATTERY_MOD_RANGE_COMBAT",
+        "Text": "LOC_ABILITY_SHORE_BATTERY_RANGED_PREVIEW"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "TRAIT_MOD_IDEOLOGIES_AGENDA",
+        "Text": "LOC_DIPLOMACY_AGENDA_IDEOLOGIES_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TRAIT_MOD_SHENGSHI_GOLD_PER_TRADE_ROUTE",
+        "Text": "LOC_TRAIT_QING_ABILITY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TRAIT_MOD_SHENGSHI_CULTURE_PER_TRADE_ROUTE",
+        "Text": "LOC_TRAIT_QING_ABILITY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TRAIT_MOD_SHENGSHI_INFLUENCE_PER_TRADE_ROUTE",
+        "Text": "LOC_TRAIT_QING_ABILITY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TRAIT_MOD_SHENGSHI_SCIENCE_MALUS_PER_TRADE_ROUTE",
+        "Text": "LOC_TRAIT_QING_ABILITY_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_AMERICA",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_AMERICA_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_BUGANDA",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_BUGANDA_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_FRENCH_EMPIRE",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_FRENCH_EMPIRE_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_MEIJI",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_MEIJI_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_MEXICO",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_MEXICO_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_MUGHAL",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_MUGHAL_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_PRUSSIA",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_PRUSSIA_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_QING",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_QING_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_RUSSIA",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_RUSSIA_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_SIAM",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_SIAM_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_RESEARCH_COLLABORATION_COMPLETE",
+        "Text": "LOC_DIPLOMACY_PROJECT_RESEARCH_COLLABORATION_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_CULTURAL_EXCHANGE_COMPLETE",
+        "Text": "LOC_DIPLOMACY_PROJECT_CULTURAL_EXCHANGE_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_MINOR_TRADE_COMPLETE",
+        "Text": "LOC_DIPLOMACY_PROJECT_MINOR_TRADE_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_FRIEND_OF_WA_COMPLETE",
+        "Text": "LOC_DIPLOMACY_PROJECT_FRIEND_OF_WA_NAME"
+    },
+    {
+        "Context": "Summary",
+        "ModifierId": "GREATPERSON_GOLD",
+        "Text": "LOC_GREAT_PERSON_GOLD"
+    },
+    {
+        "Context": "Summary",
+        "ModifierId": "GREATPERSON_PALACE_INFLUENCE",
+        "Text": "LOC_GREAT_PERSON_INDIVIDUAL_UPARAT_CHAKRABONGSE_DESCRIPTION"
+    },
+    {
+        "Context": "Summary",
+        "ModifierId": "GREATPERSON_FOREIGN_INFLUENCE",
+        "Text": "LOC_GREAT_PERSON_INDIVIDUAL_UPARAT_PRIDI_DESCRIPTION"
+    },
+    {
+        "Context": "Summary",
+        "ModifierId": "GREATPERSON_TRADITION_SLOT",
+        "Text": "LOC_GREATPERSON_TRADITION_SLOT"
+    },
+    {
+        "Context": "Summary",
+        "ModifierId": "GREATPERSON_GOLDEN_AGE",
+        "Text": "LOC_GREATPERSON_GOLDEN_AGE"
+    },
+    {
+        "Context": "Summary",
+        "ModifierId": "GREATPERSON_5_PROMOTIONS",
+        "Text": "LOC_GREATPERSON_PROMOTIONS"
+    },
+    {
+        "Context": "Summary",
+        "ModifierId": "GREATPERSON_FARM_CULTURE",
+        "Text": "LOC_GREATPERSON_FARM_CULTURE"
+    },
+    {
+        "Context": "Summary",
+        "ModifierId": "GREATPERSON_INDEPENDENT",
+        "Text": "LOC_GREATPERSON_INDEPENDENT"
+    },
+    {
+        "Context": "Summary",
+        "ModifierId": "GREATPERSON_CITY_STATE_TO_YOU",
+        "Text": "LOC_GREATPERSON_CITY_STATE_TO_YOU"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_CS_MILITARISTIC_SETTLEMENT_LIMIT",
+        "Text": "CITY_STATE_MILITARISTIC_BONUS_MODERN_6_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_CS_MILITARISTIC_WAR_SUPPORT_SHAREABLE",
+        "Text": "CITY_STATE_MILITARISTIC_BONUS_MODERN_7_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_CS_CULTURAL_CULTURE_ON_GREAT_WORKS",
+        "Text": "CITY_STATE_CULTURAL_BONUS_MODERN_6_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_CS_CULTURAL_CULTURE_ON_WAREHOUSE",
+        "Text": "CITY_STATE_CULTURAL_BONUS_MODERN_7_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ATTACH_CS_GOLD_PER_TRADE_AND_SUZERAIN",
+        "Text": "LOC_CITY_STATE_BONUS_MODERN_14_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ATTACH_LAND_TRADE_ROUTE_RANGE_SUZERAIN",
+        "Text": "LOC_CITY_STATE_BONUS_MODERN_15_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_CS_ECONOMIC_FACTORY_RESOURCE_CAPACITY",
+        "Text": "CITY_STATE_ECONOMIC_BONUS_MODERN_6_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_CS_ECONOMIC_GOLD_ON_WAREHOUSE",
+        "Text": "CITY_STATE_ECONOMIC_BONUS_MODERN_7_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ATTACH_SCIENCE_BUILDINGS_PRODUCTION_SUZERAIN",
+        "Text": "LOC_CITY_STATE_BONUS_MODERN_18_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_CS_SCIENTIFIC_SCIENCE_ON_FACTORY_RESOURCES",
+        "Text": "CITY_STATE_SCIENTIFIC_BONUS_MODERN_6_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_CS_SCIENTIFIC_SCIENCE_ON_WAREHOUSE",
+        "Text": "CITY_STATE_SCIENTIFIC_BONUS_MODERN_7_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_CS_EXPANSIONIST_FOOD_ON_RESOURCES",
+        "Text": "CITY_STATE_EXPANSIONIST_BONUS_MODERN_2_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_MOD_CS_EXPANSIONIST_FOOD_ON_FOOD_BUILDINGS",
+        "Text": "CITY_STATE_EXPANSIONIST_BONUS_MODERN_3_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_MOD_CS_EXPANSIONIST_SETTLEMENT_FOOD_PER_EXPANSIONIST_CITY",
+        "Text": "CITY_STATE_EXPANSIONIST_BONUS_MODERN_4_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_MOD_CS_EXPANSIONIST_SETTLEMENT_FOOD_PER_EXPANSIONIST_TOWN",
+        "Text": "CITY_STATE_EXPANSIONIST_BONUS_MODERN_4_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_MOD_CS_EXPANSIONIST_POPULATION_PER_EXPANSIONIST",
+        "Text": "CITY_STATE_EXPANSIONIST_BONUS_MODERN_5_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_MOD_CS_EXPANSIONIST_FOOD_ON_WAREHOUSE",
+        "Text": "CITY_STATE_EXPANSIONIST_BONUS_MODERN_7_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_MOD_CS_DIPLOMATIC_HAPPINESS_ON_HAPPINESS_BUILDINGS",
+        "Text": "CITY_STATE_DIPLOMATIC_BONUS_MODERN_3_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_MOD_CS_DIPLOMATIC_ADJUST_SANCTION_ENDEAVOR_EFFICIENCY_PER_DIPLOMATIC_SUZERAINED",
+        "Text": "CITY_STATE_DIPLOMATIC_BONUS_MODERN_4_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_MOD_CS_DIPLOMATIC_ADJUST_ESPIONAGE_EFFICIENCY_PER_DIPLOMATIC_SUZERAINED",
+        "Text": "CITY_STATE_DIPLOMATIC_BONUS_MODERN_5_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_MOD_CS_DIPLOMATIC_ADJUST_ESPIONAGE_EFFICIENCY_COMPLETE_SPEED",
+        "Text": "CITY_STATE_DIPLOMATIC_BONUS_MODERN_5_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ATTACH_MOD_CS_DIPLOMATIC_HAPPINESS_ON_WAREHOUSE",
+        "Text": "CITY_STATE_DIPLOMATIC_BONUS_MODERN_7_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "IBN_BATTUTA_MOD_WILDCARD_ATTRIBUTE",
+        "Text": "LOC_IBN_BATTUTA_MOD_MO_WILDCARD_ATTRIBUTE_DESCRIPTIONION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_OPEN_EXPLORATION_ARCHAEOLOGY",
+        "Text": "LOC_MOD_CIVIC_MO_EXPLORATION_ARCHAEOLOGY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_NATURAL_WONDER_ARCHAEOLOGY",
+        "Text": "LOC_MOD_MO_NATURAL_WONDER_ARCHAEOLOGY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TRADITION_SLOT",
+        "Text": "LOC_MOD_MO_TRADITION_SLOT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_UNLOCK_IDEOLOGIES",
+        "Text": "LOC_MOD_MO_UNLOCK_IDEOLOGIES_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_OPEN_ANTIQUITY_ARCHAEOLOGY",
+        "Text": "LOC_MOD_CIVIC_MO_ANTIQUITY_ARCHAEOLOGY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_FUTURE_CIVIC_ATTRIBUTE",
+        "Text": "LOC_MOD_MO_FUTURE_CIVIC_ATTRIBUTE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_FUTURE_CIVIC_AGE_PROGRESS",
+        "Text": "LOC_MOD_MO_FUTURE_CIVIC_AGE_PROGRESS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_DEMOCRACY_RIFLEMEN",
+        "Text": "LOC_MOD_DEMOCRACY_RIFLEMEN_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_DEMOCRACY_CULTURAL_ATTRIBUTE",
+        "Text": "LOC_CARD_AT_MOD_CULTURAL_ATTRIBUTE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_DEMOCRACY_POLITICAL_ATTRIBUTE",
+        "Text": "LOC_CARD_AT_MOD_POLITICAL_ATTRIBUTE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_FASCISM_LANDSHIP",
+        "Text": "LOC_MOD_FASCISM_LANDSHIP_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_FASCISM_ECONOMIC_ATTRIBUTE",
+        "Text": "LOC_CARD_AT_MOD_ECONOMIC_ATTRIBUTE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_FASCISM_MILITARISTIC_ATTRIBUTE",
+        "Text": "LOC_CARD_AT_MOD_MILITARISTIC_ATTRIBUTE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_COMMUNISM_AT_GUNS",
+        "Text": "LOC_MOD_COMMUNISM_AT_GUNS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_COMMUNISM_EXPANSIONIST_ATTRIBUTE",
+        "Text": "LOC_CARD_AT_MOD_EXPANSIONIST_ATTRIBUTE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_COMMUNISM_SCIENTIFIC_ATTRIBUTE",
+        "Text": "LOC_CARD_AT_MOD_SCIENTIFIC_ATTRIBUTE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_ARTIFACT",
+        "Text": "LOC_MOD_MO_ARTIFACT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_EXPLORER_SIGHT",
+        "Text": "LOC_MOD_MO_EXPLORER_SIGHT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_YANKEE_INGENUITY_PROSPECTOR_COPY",
+        "Text": "LOC_MOD_YANKEE_INGENUITY_PROSPECTOR_MARINE_COPY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_CAPTAINS_OF_INDUSTRY_PRODUCTION_ON_RESOURCES",
+        "Text": "LOC_MOD_CAPTAINS_OF_INDUSTRY_PRODUCTION_ON_RESOURCES_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_WARTIME_MANUFACTURING_COMBAT_STRENGTH_PER_ADJACENT_ENEMY_UNIT",
+        "Text": "LOC_MOD_WARTIME_MANUFACTURING_COMBAT_STRENGTH_PER_ADJACENT_ENEMY_UNIT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_WARTIME_MANUFACTURING_UNIT_PRODUCTION_RATE",
+        "Text": "LOC_MOD_WARTIME_MANUFACTURING_UNIT_PRODUCTION_RATE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_BLUTABAALO_PILLAGING_BUILDING_YIELDS",
+        "Text": "LOC_MOD_BLUTABAALO_PILLAGING_BUILDING_YIELDS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_BLUTABAALO_PILLAGING_IMPROVEMENT_YIELDS",
+        "Text": "LOC_MOD_BLUTABAALO_PILLAGING_IMPROVEMENT_YIELDS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_BLUTABAALO_COMMANDER_EXP_YIELDS",
+        "Text": "LOC_MOD_BLUTABAALO_COMMANDER_EXP_YIELDS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_NNALUBAALE_LAKE_NAVIGABLE_RIVER_FOOD",
+        "Text": "LOC_MOD_NNALUBAALE_LAKE_NAVIGABLE_RIVER_FOOD_CULTURE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_NNALUBAALE_EMBARKED_UNITS_MOVEMENT_BONUS",
+        "Text": "LOC_MOD_NNALUBAALE_EMBARKED_UNITS_MOVEMENT_BONUS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_NYANZA_LAKES_URBAN_CULTURE",
+        "Text": "LOC_MOD_NYANZA_LAKE_RIVERS_URBAN_CULTURE_HAPPINESS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_NYANZA_LAKE_SETTLEMENT_POPULATION",
+        "Text": "LOC_MOD_NYANZA_LAKE_SETTLEMENT_POPULATION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_BELLE_EPOQUE_CULTURE_ON_HAPPINESS_BUILDINGS",
+        "Text": "LOC_MOD_BELLE_EPOQUE_CULTURE_ON_HAPPINESS_BUILDINGS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_VOIE_TRIOMPHALE_HAPPINESS_ON_MILITARY_BUILDINGS",
+        "Text": "LOC_MOD_VOIE_TRIOMPHALE_HAPPINESS_ON_MILITARY_BUILDINGS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_GRANDE_ARMEE_COMMANDER_PROMOTION",
+        "Text": "LOC_MOD_GRANDE_ARMEE_COMMANDER_PROMOTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_GRANDE_ARMEE_UNIT_ABILITY",
+        "Text": "LOC_MOD_GRANDE_ARMEE_FRIENDLY_ADJACENT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_CODE_CIVIL_CULTURE_PER_ACTIVE_TRADITION",
+        "Text": "LOC_MOD_CODE_CIVIL_CULTURE_PER_ACTIVE_TRADITION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_BUNMEI_KAIKA_MILITARY_BUILDING_PRODUCTION",
+        "Text": "LOC_MOD_BUNMEI_KAIKA_MILITARY_BUILDING_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_BUNMEI_KAIKA_PRODUCTION_BUILDING_PRODUCTION",
+        "Text": "LOC_MOD_BUNMEI_KAIKA_MILITARY_BUILDING_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_OATH_IN_FIVE_ARTICLES_SCIENCE_BUILDING_PRODUCTION",
+        "Text": "LOC_MOD_OATH_IN_FIVE_ARTICLES_SCIENCE_BUILDING_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SUPREME_WAR_COUNCIL_AIRCRAFT_PRODUCTION",
+        "Text": "LOC_MOD_SUPREME_WAR_COUNCIL_AIRCRAFT_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_KANTAI_KESSEN_ADJUST_COMBAT_STRENGTH_ON_COAST",
+        "Text": "LOC_MOD_KANTAI_KESSEN_ADJUST_COMBAT_STRENGTH_ON_COAST_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_PLANES_POLITICOS_TRADITION_SLOT",
+        "Text": "LOC_MOD_PLANES_POLITICOS_TRADITION_SLOT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_PLAN_OF_IGUALA_GOLDEN_AGE",
+        "Text": "LOC_MOD_PLAN_OF_IGUALA_GOLDEN_AGE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_PLAN_OF_AYUTLA_GOLDEN_AGE",
+        "Text": "LOC_MOD_PLAN_OF_AYUTLA_GOLDEN_AGE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_PLAN_OF_TUXTEPEC_GOLDEN_AGE",
+        "Text": "LOC_MOD_PLAN_OF_TUXTEPEC_GOLDEN_AGE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ZABT_FARM_GOLD",
+        "Text": "LOC_MOD_ZABT_FARM_GOLD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_JAGIR_FARM_HAPPINESS",
+        "Text": "LOC_MOD_JAGIR_FARM_HAPPINESS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MANSABDARI_INFANTRY_PURCHASE_COST",
+        "Text": "LOC_MOD_MANSABDARI_INFANTRY_PURCHASE_COST_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_GARDENS_OF_PARADISE_PURCHASE_ABILITY",
+        "Text": "LOC_MOD_GARDENS_OF_PARADISE_PURCHASE_ABILITY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_RUHR_CONSTRUCTIBLE_RIVER_PRODUCTION",
+        "Text": "LOC_MOD_RUHR_CONSTRUCTIBLE_RIVER_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_RUHR_STRATEGIC_RESOURCE_SCIENCE",
+        "Text": "LOC_MOD_RUHR_STRATEGIC_RESOURCE_SCIENCE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ZOLLVEREIN_TRADE_DURING_WAR",
+        "Text": "LOC_MOD_ZOLLVEREIN_TRADE_DURING_WAR_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ZOLLVEREIN_STAATSEISENBAHN_TRADE_YIELD",
+        "Text": "LOC_MOD_ZOLLVEREIN_STAATSEISENBAHN_TRADE_YIELD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_EMS_DISPATCH_RELATIONSHIPS_FAVOR_ENDEAVOR",
+        "Text": "LOC_MOD_EMS_DISPATCH_RELATIONSHIPS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_BEWEGUNGSKRIEG_HEAVY_CAVALRY_SKIRMISH_ABILITY",
+        "Text": "LOC_MOD_BEWEGUNGSKRIEG_HEAVY_CAVALRY_SKIRMISH_ABILITY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_TEN_GREAT_CAMPAIGNS_ADJUST_COMBAT_STRENGTH",
+        "Text": "LOC_MOD_TEN_GREAT_CAMPAIGNS_ADJUST_COMBAT_STRENGTH_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "TEN_GREAT_CAMPAIGNS_MOD_COMBAT_STRENGTH",
+        "Text": "LOC_TEN_GREAT_CAMPAIGNS_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TEN_GREAT_CAMPAIGNS_MOD_COMBAT_STRENGTH",
+        "Text": "LOC_MOD_TEN_GREAT_CAMPAIGNS_ADJUST_COMBAT_STRENGTH_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_OPEN_CUSTOMS_CULTURE_PER_IMPORTED_RESOURCE",
+        "Text": "LOC_MOD_OPEN_CUSTOMS_CULTURE_PER_IMPORTED_RESOURCE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_KANG_XI_TAX_REFORMATION_ASSIGNED_RESOURCE_FOOD",
+        "Text": "LOC_MOD_KANG_XI_TAX_REFORMATION_ASSIGNED_RESOURCE_FOOD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_STABILIZING_FRONTIER_ASSIGNED_RESOURCE_HAPPINESS",
+        "Text": "LOC_MOD_STABILIZING_FRONTIER_ASSIGNED_RESOURCE_HAPPINESS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SERFDOM_FARM_FOOD",
+        "Text": "LOC_MOD_SERFDOM_FARM_FOOD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SERFDOM_WONDER_PRODUCTION",
+        "Text": "LOC_MOD_SERFDOM_WONDER_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SERFDOM_TOWN_FARM_SCIENCE",
+        "Text": "LOC_MOD_SERFDOM_TOWN_FARM_SCIENCE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SERFDOM_TUNDRA_FARM_PRODUCTION",
+        "Text": "LOC_MOD_SERFDOM_TUNDRA_FARM_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_TABLE_OF_RANKS_URBAN_GOLD_URBAN",
+        "Text": "LOC_MOD_TABLE_OF_RANKS_URBAN_GOLD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_TABLE_OF_RANKS_TUNDRA_URBAN_CULTURE",
+        "Text": "LOC_MOD_TABLE_OF_RANKS_TUNDRA_URBAN_CULTURE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ATTACH_MOD_TABLE_OF_RANKS_TUNDRA_URBAN_CULTURE",
+        "Text": "LOC_MOD_TABLE_OF_RANKS_TUNDRA_URBAN_CULTURE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SAMODERZHAVIYE_ENEMY_BLIZZARD_VULNERABILITY",
+        "Text": "LOC_MOD_SAMODERZHAVIYE_ENEMY_BLIZZARD_VULNERABILITY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SAMODERZHAVIYE_FRIENDLY_BLIZZARD_IMMUNITY",
+        "Text": "LOC_MOD_SAMODERZHAVIYE_ENEMY_BLIZZARD_VULNERABILITY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SAMODERZHAVIYE_CITY_CULTURE",
+        "Text": "LOC_MOD_SAMODERZHAVIYE_CITY_CULTURE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ATTACH_MOD_SAMODERZHAVIYE_CITY_CULTURE",
+        "Text": "LOC_MOD_SAMODERZHAVIYE_CITY_CULTURE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ATTACH_MOD_SAMODERZHAVIYE_TUNDRA_CITY_CULTURE",
+        "Text": "LOC_MOD_SAMODERZHAVIYE_CITY_CULTURE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_NINE_GEMS_CULTURE_PER_FRIENDLY",
+        "Text": "LOC_MOD_NINE_GEMS_CULTURE_PER_FRIENDLY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_NINE_GEMS_INFLUENCE_PER_FRIENDLY",
+        "Text": "LOC_MOD_NINE_GEMS_INFLUENCE_PER_FRIENDLY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MANDALA_CHANG_BEUN_COMBAT_STRENGTH_IN_CITY_STATE_ALLY",
+        "Text": "LOC_MOD_MANDALA_CHANG_BEUN_COMBAT_STRENGTH_IN_CITY_STATE_ALLY_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_MANDALA_CHANG_BEUN_COMBAT_STRENGTH_IN_CITY_STATE_ALLY_ABILITY",
+        "Text": "LOC_MOD_MANDALA_CHANG_BEUN_COMBAT_STRENGTH_IN_CITY_STATE_ALLY_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MANDALA_PALACE_CULTURE_PER_CITY_STATE_ALLY",
+        "Text": "LOC_MOD_MANDALA_PALACE_CULTURE_PER_CITY_STATE_ALLY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SRIWILAI_CULTURE_PER_AGREEMENT_ENDEAVOR",
+        "Text": "LOC_MOD_SRIWILAI_CULTURE_PER_AGREEMENT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SRIWILAI_CULTURE_PER_AGREEMENT_SANCTION",
+        "Text": "LOC_MOD_SRIWILAI_CULTURE_PER_AGREEMENT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SRIWILAI_TRADE_ROUTE_CULTURE",
+        "Text": "LOC_MOD_SRIWILAI_TRADE_ROUTE_CULTURE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_TECH_MO_EMBARKATION",
+        "Text": "LOC_MOD_TECH_MO_EMBARKATION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_SETTLEMENT_CAP_INCREASE",
+        "Text": "LOC_MOD_MO_SETTLEMENT_CAP_INCREASE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_SPECIALIST_CAP_INCREASE",
+        "Text": "LOC_MOD_MO_SPECIALIST_CAP_INCREASE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TECH_CAVALRY_STRENGTH",
+        "Text": "LOC_MOD_MO_TECH_CAVALRY_STRENGTH_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TECH_INFANTRY_STRENGTH",
+        "Text": "LOC_MOD_MO_TECH_INFANTRY_STRENGTH_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TECH_INTERCEPT_RANGE",
+        "Text": "LOC_MOD_MO_TECH_INTERCEPT_RANGE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TECH_NAVAL_STRENGTH",
+        "Text": "LOC_MOD_MO_TECH_NAVAL_STRENGTH_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TECH_RANGED_STRENGTH",
+        "Text": "LOC_MOD_MO_TECH_RANGED_STRENGTH_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TECH_AIRCRAFT_STRENGTH",
+        "Text": "LOC_MOD_MO_TECH_AIRCRAFT_STRENGTH_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_FUTURE_TECH_ATTRIBUTE",
+        "Text": "LOC_MOD_MO_FUTURE_TECH_ATTRIBUTE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_FUTURE_TECH_AGE_PROGRESS",
+        "Text": "LOC_MOD_MO_FUTURE_TECH_AGE_PROGRESS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TECH_CULTURE_BUILDING",
+        "Text": "LOC_MOD_MO_TECH_CULTURE_BUILDING_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TECH_FOOD_BUILDING",
+        "Text": "LOC_MOD_MO_TECH_FOOD_BUILDING_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TECH_GOLD_BUILDING",
+        "Text": "LOC_MOD_MO_TECH_GOLD_BUILDING_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TECH_HAPPINESS_BUILDING",
+        "Text": "LOC_MOD_MO_TECH_HAPPINESS_BUILDING_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TECH_MILITARY_BUILDING",
+        "Text": "LOC_MOD_MO_TECH_MILITARY_BUILDING_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TECH_PRODUCTION_BUILDING",
+        "Text": "LOC_MOD_MO_TECH_PRODUCTION_BUILDING_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_MO_TECH_SCIENCE_BUILDING",
+        "Text": "LOC_MOD_MO_TECH_SCIENCE_BUILDING_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_TECH_MO_MINE_PRODUCTION",
+        "Text": "LOC_MOD_TECH_MO_MINE_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_TECH_MO_OIL_PRODUCTION",
+        "Text": "LOC_MOD_TECH_MO_OIL_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_TECH_MO_QUARRY_PRODUCTION",
+        "Text": "LOC_MOD_TECH_MO_QUARRY_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_TECH_MO_FISHING_BOAT_RESOURCE_FOOD",
+        "Text": "LOC_MOD_TECH_MO_FISHING_BOAT_RESOURCE_FOOD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_TECH_MO_PLANTATION_FOOD",
+        "Text": "LOC_MOD_TECH_MO_PLANTATION_FOOD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_TECH_MO_CAMP_PRODUCTION",
+        "Text": "LOC_MOD_TECH_MO_CAMP_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_BREAK_SOUND_BARRIER_REWARD_FROM_PROJECT",
+        "Text": "LOC_BREAK_SOUND_BARRIER_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_AMBASSADORS_DIPLOMACY",
+        "Text": "LOC_TRADITION_AMBASSADORS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "CIVIL_ENGINEERING_MOD_OVERBUILDING_PRODUCTION_RATE",
+        "Text": "LOC_TRADITION_CIVIL_ENGINEERING_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "CULTURAL_IMPERIALISM_MOD_SUZERAINS_CULTURE",
+        "Text": "LOC_TRADITION_CULTURAL_IMPERIALISM_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "DEMAGOGY_MOD_PALACE_HAPPINESS",
+        "Text": "LOC_TRADITION_DEMAGOGY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "DRAFT_MOD_UNIT_PURCHASE_COST",
+        "Text": "LOC_TRADITION_DRAFT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "FREE_SPEECH_MOD_SPECIALIST_HAPPINESS_MAINTENANCE",
+        "Text": "LOC_TRADITION_FREE_SPEECH_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HUMANISM_MOD_CULTURE_PER_SPECIALIST",
+        "Text": "LOC_TRADITION_HUMANISM_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "LAISSEZ_FAIRE_MOD_IMPORTED_RESOURCE_GOLD",
+        "Text": "LOC_TRADITION_LAISSEZ_FAIRE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "LAND_HERTIAGE_MOD_MOUNTAIN_HAPPINESS",
+        "Text": "LOC_TRADITION_LAND_HERITAGE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "LIVING_STANDARDS_MOD_FOOD_BUILDING_PRODUCTION",
+        "Text": "LOC_TRADITION_LIVING_STANDARDS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "LIVING_STANDARDS_MOD_BUILDING_MAINTENANCE",
+        "Text": "LOC_TRADITION_PEASANT_LIBERATION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MATERIEL_MOD_UNIT_HEALING_RATE",
+        "Text": "LOC_TRADITION_MATERIEL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MONOPOLIES_MOD_RESOURCE_GOLD",
+        "Text": "LOC_TRADITION_MONOPOLIES_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PEOPLES_ARMY_MOD_UNIT_PRODUCTION_RATE",
+        "Text": "LOC_TRADITION_PEOPLES_ARMY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PRESERVATION_SOCIETIES_MOD_SCIENCE_PER_EPIC_GREAT_WORK",
+        "Text": "LOC_TRADITION_PRESERVATION_SOCIETIES_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PROJECTION_OF_FORCE_MOD_NAVAL_PRODUCTION",
+        "Text": "LOC_TRADITION_PROJECTION_OF_FORCE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SOCIAL_SCIENCE_MOD_SCIENCE_PER_SPECIALIST",
+        "Text": "LOC_TRADITION_SOCIAL_SCIENCE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SPHERE_OF_INFLUENCE_MOD_CULTURE_ALLIANCES",
+        "Text": "LOC_TRADITION_SPHERE_OF_INFLUENCE_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "TRENCHWORKS_MOD_FORTIFIED_DISTRICT",
+        "Text": "LOC_TRADITION_TRENCHWORKS_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TRENCHWORKS_MOD_FORTIFIED_DISTRICT",
+        "Text": "LOC_TRADITION_TRENCHWORKS_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "TRENCHWORKS_MOD_FORTIFIED_UNIT",
+        "Text": "LOC_TRADITION_TRENCHWORKS_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PRODUCTIVE_FORCES_DETERMINISM_MOD_SCIENCE_PER_SCIENTIFIC_ATTRIBUTES",
+        "Text": "LOC_TRADITION_PRODUCTIVE_FORCES_DETERMINISM_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PROLETARIAT_MOD_SPECIALIST_FOOD_PER_EXPANSIONIST_ATTRIBUTE",
+        "Text": "LOC_TRADITION_PROLETARIAT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "COLLECTIVIZATION_MOD_TOWN_FOOD_EQUAL_TO_EXPANSIONIST_ATTRIBUTE",
+        "Text": "LOC_TRADITION_COLLECTIVIZATION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "NAUKOGRAD_MOD_TOWN_SCIENCE_PER_SCIENCE_ATTRIBUTE",
+        "Text": "LOC_TRADITION_NAUKOGRAD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PUBLIC_WORKS_MOD_PROJECT_PRODUCTION",
+        "Text": "LOC_TRADITION_PUBLIC_WORKS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "POLICE_STATE_MOD_HAPPINESS_AT_WAR_IN_CITIES",
+        "Text": "LOC_TRADITION_POLICE_STATE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "FIRESIDE_CHATS_MOD_HAPPINESS_PER_POL_ATTRIBUTES",
+        "Text": "LOC_TRADITION_FIRESIDE_CHATS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SUFFRAGE_MOD_CULTURE_ON_SPECIALISTS_PER_CULTURAL_ATTRIBUTE",
+        "Text": "LOC_TRADITION_SUFFRAGE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "FREE_PRESS_MOD_TOWN_CULTURE_CULTURAL_ATTRIBUTE",
+        "Text": "LOC_TRADITION_FREE_PRESS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "WELFARE_STATE_MOD_TOWN_HAPPINESS_PER_POL_ATTRIBUTE",
+        "Text": "LOC_TRADITION_WELFARE_STATE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "AVANT_GARDE_MOD_CULTURE_HAPPINESS_PER_GREAT_WORK",
+        "Text": "LOC_TRADITION_AVANT_GARDE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "NEW_DEAL_MOD_WONDER_PRODUCTION_RATE",
+        "Text": "LOC_TRADITION_NEW_DEAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "NEW_DEAL_MOD_CITY_GOLD_PENALTY",
+        "Text": "LOC_TRADITION_NEW_DEAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "THEIR_FINEST_HOUR_MOD_AIR_UNIT_PRODUCTION",
+        "Text": "LOC_TRADITION_THEIR_FINEST_HOUR_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "DEFENSE_OF_THE_MOTHERLAND_COMBAT_STRENGTH_IN_TERRITORY",
+        "Text": "LOC_TRADITION_DEFENSE_OF_THE_MOTHERLAND_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ASSEMBLY_LINE_MOD_MILITARY_ATTRIBUTE_PRODUCTION",
+        "Text": "LOC_TRADITION_ASSEMBLY_LINE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "DIRIGISME_MOD_GOLD_FROM_SPECAILIST_PER_ECON_ATTRIBUTES",
+        "Text": "LOC_TRADITION_DIRIGISME_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MARITAL_LAW_MOD_TOWN_PRODUCTION_PER_MILITARY_ATTRIBUTE",
+        "Text": "LOC_TRADITION_MARTIAL_LAW_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PROPAGANDA_MOD_GOLD_EQUAL_TO_ECON_ATTRIBUTE",
+        "Text": "LOC_TRADITION_PROPAGANDA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MILITARY_INDUSTRIAL_COMPLEX_MOD_UNIT_PRODUCTION_RATE",
+        "Text": "LOC_TRADITION_MILITARY_INDUSTRIAL_COMPLEX_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "STRATEGIC_RAILWAYS_MOD_CITY_PRODUCTION_RAILROAD",
+        "Text": "LOC_STRATEGIC_RAILWAYS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SCORCHED_EARTH_MOD_PILLAGING_YIELDS_BUILDINGS",
+        "Text": "LOC_SCORCHED_EARTH_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "SCORCHED_EARTH_MOD_COMBAT_STRENGTH",
+        "Text": "LOC_TRADITION_SCORCHED_EARTH_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SYSTEM_OF_IDEAS_MOD_CULTURE",
+        "Text": "LOC_TRADITION_SYSTEM_OF_IDEAS_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "COMMUNISM_MOD_AGENDA",
+        "Text": "LOC_TRADITION_COMMUNISM_UNIQUE_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "COMMUNISM_MOD_AGENDA",
+        "Text": "LOC_TRADITION_COMMUNISM_UNIQUE_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "DEMOCRACY_MOD_AGENDA",
+        "Text": "LOC_TRADITION_DEMOCRACY_UNIQUE_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "DEMOCRACY_MOD_AGENDA",
+        "Text": "LOC_TRADITION_DEMOCRACY_UNIQUE_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "FASCISM_MOD_AGENDA",
+        "Text": "LOC_TRADITION_FASCISM_UNIQUE_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "FASCISM_MOD_AGENDA",
+        "Text": "LOC_TRADITION_FASCISM_UNIQUE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "WARTIME_INNOVATION_MOD_SCIENCE",
+        "Text": "LOC_TRADITION_WARTIME_INNOVATION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "WAR_HEROES_MOD_CULTURE",
+        "Text": "LOC_TRADITION_WAR_HEROES_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "WARTIME_ECONOMY_MOD_FACTORY_PURCHASE",
+        "Text": "LOC_TRADITION_WARTIME_ECONOMY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "NATIONAL_PRESTIGE_MOD_INFLUENCE_ENDEAVORS",
+        "Text": "LOC_TRADITION_NATIONAL_PRESTIGE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "LAST_RESERVES_MOD_UNIT_MOVEMENT",
+        "Text": "LOC_TRADITION_LAST_RESERVES_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "GRAND_ALLIANCE_MOD_UNIT_MAINTENANCE",
+        "Text": "LOC_TRADITION_GRAND_ALLIANCE_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "AUTHORITARIANISM_MOD_COMBAT_STRENGTH",
+        "Text": "LOC_ABILITY_AUTHORITARIANISM_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MO_TECH_CAVALRY_MOD_COMBAT_STRENGTH",
+        "Text": "LOC_ABILITY_MO_TECH_CAVALRY_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MO_TECH_INFANTRY_MOD_COMBAT_STRENGTH",
+        "Text": "LOC_ABILITY_MO_TECH_INFANTRY_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MO_TECH_NAVAL_MOD_COMBAT_STRENGTH",
+        "Text": "LOC_ABILITY_MO_TECH_NAVAL_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MO_TECH_RANGED_MOD_COMBAT_STRENGTH",
+        "Text": "LOC_ABILITY_MO_TECH_RANGED_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MO_TECH_SIEGE_MOD_COMBAT_STRENGTH",
+        "Text": "LOC_ABILITY_MO_TECH_SIEGE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MO_TECH_AIRCRAFT_MOD_COMBAT_STRENGTH",
+        "Text": "LOC_ABILITY_MO_TECH_AIRCRAFT_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "THEIR_FINEST_HOUR_AIR_UNIT_COMBAT_STRENGTH",
+        "Text": "LOC_ABILITY_THEIR_FINEST_HOUR_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "DEFENSE_OF_THE_MOTHERLAND_MOD_COMBAT_STRENGTH_IN_TERRITORY",
+        "Text": "LOC_TRADITION_DEFENSE_OF_THE_MOTHERLAND_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "AT_MOD_COMBAT_FRIENDLY_TERRITORY",
+        "Text": "LOC_AT_MOD_COMBAT_FRIENDLY_TERRITORY_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "COSSACK_MOD_COMBAT_STRENGTH_IN_FRIENDLY_TERRITORY",
+        "Text": "LOC_ABILITY_COSSACK_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "GARDE_IMPERIALE_MOD_COMBAT_STRENGTH_COMMAND_RADIUS",
+        "Text": "LOC_ABILITY_GARDE_IMPERIALE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "GUSA_MOD_COMBAT_FROM_ADJACENT_GUSA",
+        "Text": "LOC_ABILITY_GUSA_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "STUKA_MOD_COMBAT_STRENGTH_VS_LAND",
+        "Text": "LOC_ABILITY_STUKA_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ZERO_MOD_COMBAT_STRENGTH_VS_FIGHTERS",
+        "Text": "LOC_ABILITY_ZERO_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "KANTAI_KESSEN_ADJUST_COMBAT_STRENGTH_ON_COAST",
+        "Text": "LOC_MOD_KANTAI_KESSEN_ADJUST_COMBAT_STRENGTH_ON_COAST_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "GENERAL_MOROZ_MOD_ADJUST_COMBAT_STRENGTH_IN_TUNDRA",
+        "Text": "LOC_ABILITY_GENERAL_MOROZ_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "GENERAL_MOROZ_MOD_ADJUST_COMBAT_STRENGTH_IN_TUNDRA",
+        "Text": "LOC_ABILITY_GENERAL_MOROZ_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "IRON_CROSS_COMBAT_STRENGTH",
+        "Text": "LOC_ABILITY_IRON_CROSS_PREVIEW"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "RIVER_RAIDS_MOD_PILLAGE_BUILDINGS_CULTURE",
+        "Text": "LOC_WORLD_CULTURE_INCREASE_FLOATER"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "RIVER_RAIDS_MOD_PILLAGE_IMPROVEMENTS_CULTURE",
+        "Text": "LOC_WORLD_CULTURE_INCREASE_FLOATER"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "PARTISAN_MOD_IDEOLOGY",
+        "Text": "LOC_PARTISAN_MOD_IDEOLOGY_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "AVILA_COMBAT_STRENGTH",
+        "Text": "LOC_GREAT_PERSON_INDIVIDUAL_REVOLUCIONARIO_AVILA_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "HERRA_COMBAT_STRENGTH",
+        "Text": "LOC_GREAT_PERSON_INDIVIDUAL_REVOLUCIONARIO_HERRERA_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "BILLAUD_VARENNE_DISTRICT_RANGED_COMBAT",
+        "Text": "LOC_GREAT_PERSON_INDIVIDUAL_JACOBIN_BILLAUD_VARENNE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "BILLAUD_VARENNE_DISTRICT_MELEE_COMBAT",
+        "Text": "LOC_GREAT_PERSON_INDIVIDUAL_JACOBIN_BILLAUD_VARENNE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "BRISSOT_COMBAT",
+        "Text": "LOC_GREAT_PERSON_INDIVIDUAL_JACOBIN_BRISSOT_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "SAINT_JUST_COMBAT_STRENGTH",
+        "Text": "LOC_GREAT_PERSON_INDIVIDUAL_JACOBIN_SAINT_JUST_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "SAKDIPHONLASEP_COMBAT_STRENGTH",
+        "Text": "LOC_GREAT_PERSON_INDIVIDUAL_UPARAT_SAKDIPHONLASEP_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "SENANURAK_COMBAT_STRENGTH",
+        "Text": "LOC_GREAT_PERSON_INDIVIDUAL_UPARAT_SENANURAK_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "WARTIME_MANUFACTURING_COMBAT_STRENGTH",
+        "Text": "LOC_MOD_WARTIME_MANUFACTURING_COMBAT_STRENGTH_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MO_HANDICAP_CULTURE_SCALING",
+        "Text": "LOC_DIFFICULTY_CULTURE_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MO_HANDICAP_GOLD_SCALING",
+        "Text": "LOC_DIFFICULTY_GOLD_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MO_HANDICAP_HAPPINESS_SCALING",
+        "Text": "LOC_DIFFICULTY_HAPPINESS_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MO_HANDICAP_SCIENCE_SCALING",
+        "Text": "LOC_DIFFICULTY_SCIENCE_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MO_HANDICAP_CONSTRUCTIBLE_PRODUCTION_SCALING",
+        "Text": "LOC_DIFFICULTY_BUILDINGS_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MO_HANDICAP_UNITS_PRODUCTION_SCALING",
+        "Text": "LOC_DIFFICULTY_UNITS_NAME"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "ADA_LOVELACE_MOD_TECH_MASTERY",
+        "Text": "LOC_WORLD_CULTURE_INCREASE_FLOATER"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ADA_LOVELACE_MOD_TECH_MASTERY",
+        "Text": "LOC_TRAIT_LEADER_ADA_LOVELACE_ABILITY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ADA_LOVELACE_MOD_CIVIC_MASTERY",
+        "Text": "LOC_TRAIT_LEADER_ADA_LOVELACE_ABILITY_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "ADA_LOVELACE_MOD_AGENDA_ANALYTICAL_ENGINE",
+        "Text": "LOC_DIPLOMACY_AGENDA_ANALYTICAL_ENGINE_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_LEGEND_ADA_LOVELACE_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_ADA_LOVELACE_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_ADA_LOVELACE_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_ADA_LOVELACE_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_ADA_LOVELACE_PUNCH_CARDS_MODIFIER",
+        "Text": "LOC_MEMENTO_ADA_LOVELACE_PUNCH_CARDS_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_ADA_LOVELACE_PIANO_MODIFIER",
+        "Text": "LOC_MEMENTO_ADA_LOVELACE_PIANO_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MEMENTO_ADA_LOVELACE_NOTE_G_MODIFIER_1",
+        "Text": "LOC_MEMENTO_ADA_LOVELACE_NOTE_G_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MEMENTO_ADA_LOVELACE_NOTE_G_MODIFIER_2",
+        "Text": "LOC_MEMENTO_ADA_LOVELACE_NOTE_G_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "ASHOKA_CONQUEROR_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "Text": "LOC_ABILITY_ASHOKA_CONQUEROR_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "ASHOKA_ALT_MOD_AGENDA_WITHOUT_REGRET",
+        "Text": "LOC_DIPLOMACY_AGENDA_WITHOUT_REGRET_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HIMIKO_ALT_MOD_HAPPINESS_BUILDING_HAPPINESS",
+        "Text": "LOC_TRAIT_LEADER_HIMIKO_ALT_ABILITY_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HIMIKO_ALT_MOD_DIPLOMACY_BUILDING_HAPPINESS",
+        "Text": "LOC_TRAIT_LEADER_HIMIKO_ALT_ABILITY_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HIMIKO_ALT_MOD_HAPPINESS_BUILDING_PRODUCTION_RATE",
+        "Text": "LOC_TRAIT_LEADER_HIMIKO_ALT_ABILITY_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HIMIKO_ALT_MOD_DIPLOMACY_BUILDING_PRODUCTION_RATE",
+        "Text": "LOC_TRAIT_LEADER_HIMIKO_ALT_ABILITY_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HIMIKO_ALT_MOD_CULTURE_BOOST",
+        "Text": "LOC_TRAIT_LEADER_HIMIKO_ALT_ABILITY_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HIMIKO_ALT_MOD_SCIENCE_PENALTY",
+        "Text": "LOC_TRAIT_LEADER_HIMIKO_ALT_ABILITY_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HIMIKO_ALT_MOD_CULTURE_BOOST_CELEBRATION",
+        "Text": "LOC_TRAIT_LEADER_HIMIKO_ALT_ABILITY_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HIMIKO_ALT_MOD_SCIENCE_PENALTY_CELEBRATION",
+        "Text": "LOC_TRAIT_LEADER_HIMIKO_ALT_ABILITY_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "HIMIKO_ALT_MOD_AGENDA_SHAMAN_QUEEN",
+        "Text": "LOC_DIPLOMACY_AGENDA_SHAMAN_QUEEN_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_LEGEND_HIMIKO_ALT_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_HIMIKO_ALT_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_ASHOKA_ALT_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_ASHOKA_ALT_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_HIMIKO_ALT_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_HIMIKO_ALT_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_ASHOKA_ALT_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_ASHOKA_ALT_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_ASHOKA_ALT_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_ASHOKA_ALT_L2_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MEMENTO_ASHOKA_CONQUEROR_CHANDA_MAHASENA_MODIFIER_2",
+        "Text": "LOC_MEMENTO_ASHOKA_CONQUEROR_CHANDA_MAHASENA_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MEMENTO_ASHOKA_CONQUEROR_SILK_UTTARIYA_MODIFIER",
+        "Text": "LOC_MEMENTO_ASHOKA_CONQUEROR_SILK_UTTARIYA_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_HIMIKO_SHAMAN_KUSANAGI_NO_TSURUGI_MODIFIER_1",
+        "Text": "LOC_MEMENTO_HIMIKO_SHAMAN_KUSANAGI_NO_TSURUGI_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_HIMIKO_SHAMAN_KUSANAGI_NO_TSURUGI_MODIFIER_2",
+        "Text": "LOC_MEMENTO_HIMIKO_SHAMAN_KUSANAGI_NO_TSURUGI_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "BOLIVAR_MOD_AGENDA_CORNERSTONE_FREEDOM",
+        "Text": "LOC_DIPLOMACY_AGENDA_CORNERSTONE_FREEDOM_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_BOLIVAR_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_BOLIVAR_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_BOLIVAR_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_BOLIVAR_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_BOLIVAR_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_BOLIVAR_L2_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_BOLIVAR_GOLD_SNUFF_BOX_MODIFIER",
+        "Text": "LOC_MEMENTO_BOLIVAR_GOLD_SNUFF_BOX_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_BOLIVAR_DAVALOS_MEDAL_MODIFIER",
+        "Text": "LOC_MEMENTO_BOLIVAR_DAVALOS_MEDAL_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MEMENTO_BOLIVAR_LETTER_TO_JAMAICA_MODIFIER",
+        "Text": "LOC_MEMENTO_BOLIVAR_LETTER_TO_JAMAICA_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "FALSE_RETREAT_FOOD_PILLAGE_IMPROVEMENT",
+        "Text": "LOC_TRADITION_FALSE_RETREAT_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "FALSE_RETREAT_COMBAT_MODIFIER",
+        "Text": "LOC_TRADITION_FALSE_RETREAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ICONOLATRY_GREAT_WORKS_HAPPINESS",
+        "Text": "LOC_TRADITION_ICONOLATRY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "STRATAGEMS_PILLAGE_IMPROVEMENTS_MODIFIER",
+        "Text": "LOC_TRADITION_STRATAGEMS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "QUINQUEREME_MOD_NAVAL_MAINTENANCE",
+        "Text": "LOC_TRADITION_QUINQUEREME_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "GAULOS_MOD_PURCHASE_RATE_BUILDINGS",
+        "Text": "LOC_TRADITION_GAULOS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SUFFETES_FARM_TOWNS_FOOD",
+        "Text": "LOC_TRADITION_SUFFETES_DESCRIPTION"
+    },
+    {
+        "Context": "Tooltip",
+        "ModifierId": "CAM_BINH_MOD_GARRISONED_GOLD",
+        "Text": "LOC_TRADITION_CAM_BINH_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "CAM_BINH_MOD_GARRISONED_GOLD",
+        "Text": "LOC_TRADITION_CAM_BINH_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "CON_KENH_MOD_FOOD_BUILDING_CULTURE",
+        "Text": "LOC_TRADITION_CON_KENH_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "RUONG_LANG_XA_MOD_TOWN_GROWTH",
+        "Text": "LOC_TRADITION_RUONG_LANG_XA_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "EDWARD_TEACH_MOD_AGENDA",
+        "Text": "LOC_DIPLOMACY_AGENDA_EDWARD_TEACH_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MEMENTO_EDWARD_TEACH_BRACE_OF_PISTOLS_MODIFIER",
+        "Text": "LOC_MEMENTO_EDWARD_TEACH_BRACE_OF_PISTOLS_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_EDWARD_TEACH_BRACE_OF_PISTOLS_MODIFIER",
+        "Text": "LOC_MEMENTO_EDWARD_TEACH_BRACE_OF_PISTOLS_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_EDWARD_TEACH_MEDICINE_CHEST_MODIFIER",
+        "Text": "LOC_MEMENTO_EDWARD_TEACH_MEDICINE_CHEST_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "MEMENTO_EDWARD_TEACH_FIGUREHEAD_OF_QUEEN_ANNES_REVENGE_MODIFIER",
+        "Text": "LOC_WORLD_GOLD_INCREASE_FLOATER"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_EDWARD_TEACH_FIGUREHEAD_OF_QUEEN_ANNES_REVENGE_MODIFIER",
+        "Text": "LOC_MEMENTO_EDWARD_TEACH_FIGUREHEAD_OF_QUEEN_ANNES_REVENGE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_LEGEND_EDWARD_TEACH_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_LEGEND_EDWARD_TEACH_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_EDWARD_TEACH_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_EDWARD_TEACH_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_EDWARD_TEACH_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_EDWARD_TEACH_L1_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "FRIEDRICH_ALT_MOD_AGENDA_BAROQUE",
+        "Text": "LOC_DIPLOMACY_AGENDA_BAROQUE_NAME"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "XERXES_ALT_MOD_TRADE_ROUTE_CULTURE",
+        "Text": "LOC_WORLD_CULTURE_INCREASE_FLOATER"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "XERXES_ALT_MOD_ROAD_CULTURE",
+        "Text": "LOC_WORLD_CULTURE_INCREASE_FLOATER"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "XERXES_ALT_MOD_TRADE_ROUTE_GOLD",
+        "Text": "LOC_WORLD_GOLD_INCREASE_FLOATER"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "XERXES_ALT_MOD_ROAD_GOLD",
+        "Text": "LOC_WORLD_GOLD_INCREASE_FLOATER"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "XERXES_ALT_MOD_AGENDA_LORD_OF_COIN",
+        "Text": "LOC_DIPLOMACY_AGENDA_LORD_OF_COIN_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_LEGEND_FRIEDRICH_ALT_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_FRIEDRICH_ALT_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_LEGEND_XERXES_ALT_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_XERXES_ALT_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_LEGEND_XERXES_ALT_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_LEGEND_XERXES_ALT_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_FRIEDRICH_ALT_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_FRIEDRICH_ALT_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_FRIEDRICH_ALT_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_FRIEDRICH_ALT_L2_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_FRIEDRICH_BAROQUE_FLUTE_MODIFIER",
+        "Text": "LOC_MEMENTO_FRIEDRICH_BAROQUE_FLUTE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_XERXES_ACHAEMENID_INCENSE_CENSER_MODIFIER",
+        "Text": "LOC_MEMENTO_XERXES_ACHAEMENID_INCENSE_CENSER_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "DREKAHOFUD_NAVAL_UNIT_CULTURE",
+        "Text": "LOC_WORLD_CULTURE_INCREASE_FLOATER"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "DREKAHOFUD_NAVAL_UNIT_CULTURE",
+        "Text": "LOC_TRADITION_DREKAHOFUD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "REIDI_GUDANNA_MOD_VOLCANO_ADJACENCY",
+        "Text": "LOC_TRADITION_REIDI_GUDANNA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_LYFSTEINN_HEAL_NAVAL",
+        "Text": "LOC_TRADITION_LYFSTEINN_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_DROTTKVAETT_COASTAL_RAID_CULTURE",
+        "Text": "LOC_TRADITION_DROTTKVAETT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "VINICUNCA_ADJACENT_YIELDS",
+        "Text": "LOC_FEATURE_VINICUNCA_NAME"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "NAPOLEON_MOD_AGENDA_NAPOLEONIC_CODE",
+        "Text": "LOC_DIPLOMACY_AGENDA_NAPOLEONIC_CODE_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_NAPOLEON_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_NAPOLEON_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_ECONOMIC_LEGEND_NAPOLEON_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_ECONOMIC_LEGEND_NAPOLEON_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_NAPOLEON_EMPEROR_GREEN_COLONEL_JACKET_MODIFIER_1",
+        "Text": "LOC_MEMENTO_NAPOLEON_EMPEROR_GREEN_COLONEL_JACKET_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_NAPOLEON_EMPEROR_GREEN_COLONEL_JACKET_MODIFIER_2",
+        "Text": "LOC_MEMENTO_NAPOLEON_EMPEROR_GREEN_COLONEL_JACKET_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "NAPOLEON_ALT_MOD_LAND_UNIT_MOVEMENT",
+        "Text": "LOC_TRAIT_LEADER_NAPOLEON_ALT_ABILITY_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "NAPOLEON_ALT_MOD_CULTURE_ON_UNIT_DEFEAT",
+        "Text": "LOC_TRAIT_LEADER_NAPOLEON_ALT_ABILITY_NAME"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "NAPOLEON_ALT_MOD_CULTURE_ON_UNIT_DEFEAT",
+        "Text": "LOC_WORLD_CULTURE_INCREASE_FLOATER"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "NAPOLEON_ALT_MOD_AGENDA_CULTURE_FROM_CONQUEST",
+        "Text": "LOC_DIPLOMACY_AGENDA_CULTURE_FROM_CONQUEST_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_CULTURAL_LEGEND_NAPOLEON_ALT_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_NAPOLEON_ALT_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_NAPOLEON_ALT_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_NAPOLEON_ALT_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_NAPOLEON_ALT_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_NAPOLEON_ALT_L2_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_NAPOLEON_REVOLUTIONARY_BICORNE_HAT_MODIFIER",
+        "Text": "LOC_MEMENTO_NAPOLEON_REVOLUTIONARY_BICORNE_HAT_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SIEGE_TRAIN_RESTORE_MOVEMENT",
+        "Text": "LOC_TRADITION_SIEGE_TRAIN_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "ERKAN_I_HARBIYE_MEKTEBI_MOD_UNIT_NO_REDUCTION_DAMAGE",
+        "Text": "LOC_TRADITION_ERKAN_I_HARBIYE_MEKTEBI_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SEDEF_KAKMA_MOD_CULTURE_HAPPINESS_QUARTERS",
+        "Text": "LOC_TRADITION_SEDEF_KAKMA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "OSMANLI_BAROK_GREAT_WORKS_HAPPINESS",
+        "Text": "LOC_TRADITION_OSMANLI_BAROK_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_OTTOMAN_COMBAT_MODIFIER",
+        "Text": "LOC_TRAIT_OTTOMANS_ABILITY_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_OTTOMANS",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_OTTOMANS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SAHI_TOPU_MOD_ARMY_COMMANDER_BARRAGE",
+        "Text": "LOC_SAHI_TOPU_MOD_ARMY_COMMANDER_BARRAGE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SAHI_TOPU_MOD_COMBAT_VS_FORTIFICATION",
+        "Text": "LOC_SAHI_TOPU_MOD_COMBAT_VS_FORTIFICATION_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "SAHI_TOPU_MOD_COMBAT_VS_FORTIFICATION_MODIFIER",
+        "Text": "LOC_SAHI_TOPU_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HARBIYE_NEZARETI_INFANTRY_PRODUCTION",
+        "Text": "LOC_HARBIYE_NEZARETI_INFANTRY_SIEGE_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HARBIYE_NEZARETI_LAND_MAINTENANCE_COST",
+        "Text": "LOC_HARBIYE_NEZARETI_LAND_MAINTENANCE_COST_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TANZIMAT_MOD_MUSEUM_PRODUCTION",
+        "Text": "LOC_TANZIMAT_MOD_MUSEUM_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TANZIMAT_MOD_ARCHAELOGIST_MOVEMENT",
+        "Text": "LOC_TANZIMAT_MOD_MUSEUM_PRODUCTION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TANZIMAT_MOD_ARCHAELOGIST_VEGETATED_MOVEMENT",
+        "Text": "LOC_TANZIMAT_MOD_ARCHAELOGIST_VEGETATED_MOVEMENT_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "JANISSARY_MOD_COMBAT_STRENGTH_VS_LAND",
+        "Text": "LOC_ABILITY_JANISSARY_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PRESS_GANGS_PRODUCTION_NAVAL_UNITS_FOR_EACH_FLEET_COMMANDER",
+        "Text": "LOC_TRADITION_PRESS_GANGS_DESCRIPTION"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "MERRY_LIFE_AND_A_SHORT_ONE_SUPPORT_UNIT_GOLD",
+        "Text": "LOC_WORLD_GOLD_INCREASE_FLOATER"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MERRY_LIFE_AND_A_SHORT_ONE_SUPPORT_UNIT_GOLD",
+        "Text": "LOC_TRADITION_MERRY_LIFE_AND_A_SHORT_ONE_DESCRIPTION"
+    },
+    {
+        "Context": "WorldText",
+        "ModifierId": "MERRY_LIFE_AND_A_SHORT_ONE_NAVAL_UNIT_GOLD",
+        "Text": "LOC_WORLD_GOLD_INCREASE_FLOATER"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "BLACK_FLAG_PLUNDER",
+        "Text": "LOC_TRADITION_BLACK_FLAG_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "SAYYIDA_MOD_AGENDA",
+        "Text": "LOC_DIPLOMACY_AGENDA_SAYYIDA_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_SAYYIDA_AL_HURRA_NIMCHA_MODIFIER",
+        "Text": "LOC_MEMENTO_SAYYIDA_AL_HURRA_NIMCHA_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_SAYYIDA_AL_HURRA_MITHQAL_MODIFIER",
+        "Text": "LOC_MEMENTO_SAYYIDA_AL_HURRA_MITHQAL_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_SAYYIDA_AL_HURRA_GAZELLE_VASE_MODIFIER",
+        "Text": "LOC_MEMENTO_SAYYIDA_AL_HURRA_GAZELLE_VASE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_SAYYIDA_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_SAYYIDA_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_SAYYIDA_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_SAYYIDA_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_SAYYIDA_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_SAYYIDA_L2_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "TECUMSEH_MOD_SUZERAIN_COMBAT",
+        "Text": "LOC_TECUMSEH_MOD_SUZERAIN_COMBAT_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "TECUMSEH_MOD_AGENDA_SUZERAIN_OF_THE_WORLD_2",
+        "Text": "LOC_DIPLOMACY_AGENDA_SUZERAIN_OF_THE_WORLD_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "BREAD_DANCE_FARM_TOWNS_CULTURE",
+        "Text": "LOC_TRADITION_BREAD_DANCE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HELIKHILENAWEWIPE_MOD_ADJUST_ENDEAVOR",
+        "Text": "LOC_TRADITION_HELIKHILENAWEWIPE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TAKESIYAKE_YEPEPOKI_MOD_WAREHOUSES",
+        "Text": "LOC_TRADITION_TAKESIYAKE_YEPEPOKI_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "KAKAWFE_PAFKOTAWETA_CULTURE_DISASTERS",
+        "Text": "LOC_TRADITION_KAKAWFE_PAFKOTAWETA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_TECUMSEH_L2_01",
+        "Text": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_TECUMSEH_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TECUMSEH_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TECUMSEH_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TECUMSEH_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TECUMSEH_L1_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_TECUMSEH_POTESKWATE_MODIFIER",
+        "Text": "LOC_MEMENTO_TECUMSEH_POTESKWATE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_TECUMSEH_WAMPUM_BELT_MODIFIER",
+        "Text": "LOC_MEMENTO_TECUMSEH_WAMPUM_BELT_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MEMENTO_TECUMSEH_WARCLUB_MODIFIER",
+        "Text": "LOC_MEMENTO_TECUMSEH_WARCLUB_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "BEOPSEONG_MOD_RESOURCE_HAPPINESS",
+        "Text": "LOC_TRADITION_BEOPSEONG_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "STRATEGIC_ALLIES_MOD_ALLIANCE_ROUTE_YIELDS",
+        "Text": "LOC_TRADITION_STRATEGIC_ALLIES_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "GOLDEN_ROAD_MOD_IMPORTED_RESOURCE_SCIENCE",
+        "Text": "LOC_TRADITION_THE_GOLDEN_ROAD_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SEORABEOL_MOD_TRADING_POST_GOLD",
+        "Text": "LOC_TRADITION_SEORABEOL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SEORABEOL_MOD_FACTORY_GOLD",
+        "Text": "LOC_TRADITION_SEORABEOL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "NGATU_MOD_CULTURE_WAREHOUSE_BUILDINGS",
+        "Text": "LOC_TRADITION_NGATU_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TONGIAKI_MOD_TRADE_ROUTE_RANGE",
+        "Text": "LOC_TRADITION_TONGIAKI_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TAKUAKA_MOD_CITY_WAREHOUSE_BONUS",
+        "Text": "LOC_TRADITION_TAKUAKA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE",
+        "Text": "LOC_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE_FINAL",
+        "Text": "LOC_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE_FINAL_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE_ATTACH",
+        "Text": "LOC_PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_METTLE_COURAGE_ATTACH",
+        "Text": "LOC_PROMOTION_ARMY_TRUNG_NHI_METTLE_COURAGE_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_LAC_REBELLION_ATTACH",
+        "Text": "LOC_PROMOTION_ARMY_TRUNG_NHI_LAC_REBELLION_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_65_STRONGHOLDS_ATTACH",
+        "Text": "LOC_PROMOTION_ARMY_TRUNG_NHI_65_STRONGHOLDS_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_HAI_BA_TRUNG",
+        "Text": "LOC_ABILITY_ARMY_TRUNG_NHI_HAI_BA_TRUNG_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "BLUE_HOLE_ADJACENT_RURAL_SEA_YIELDS",
+        "Text": "LOC_FEATURE_GREAT_BLUE_HOLE_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MAPU_A_VAEA_BLOWHOLES_COASTAL_LAND_YIELDS",
+        "Text": "LOC_FEATURE__MAPU_A_VAEA_BLOWHOLES_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "PROCEEDINGS_RESOURCE_AND_GREATWORK_CITY_CULTURE_AND_SCIENCE",
+        "Text": "LOC_TRADITION_PROCEEDINGS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "EAST_INDIA_COMPANY_GOLD_TOWN_BUILDINGS",
+        "Text": "LOC_TRADITION_EAST_INDIA_COMPANY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "NO_ETERNAL_ALLIES_NEGATIVE_GOLD",
+        "Text": "LOC_TRADITION_NO_ETERNAL_ALLIES_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TRAIT_MOD_CITY_PROJECT_MORE_EXPENSIVE",
+        "Text": "LOC_TRAIT_GREAT_BRITAIN_ABILITY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TRAIT_GB_MOD_BUILDING_CHEAPER_PURCHASE",
+        "Text": "LOC_TRAIT_GREAT_BRITAIN_ABILITY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TRAIT_GB_MOD_BUILDING_PRODUCTION",
+        "Text": "LOC_TRAIT_GREAT_BRITAIN_ABILITY_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_GREAT_BRITAIN",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_GREAT_BRITAIN_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_PAX_BRITANNICA_PRODUCTION_FACTORY_RESOURCES",
+        "Text": "LOC_MOD_PAX_BRITANNICA_PRODUCTION_FACTORY_RESOURCES_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SOCIETY_OF_ANTIQUARIES_ENTER_FOREIGN_LANDS",
+        "Text": "LOC_MOD_SOCIETY_OF_ANTIQUARIES_ENTER_FOREIGN_LANDS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SOCIETY_OF_ANTIQUARIES_MOVEMENT",
+        "Text": "LOC_MOD_SOCIETY_OF_ANTIQUARIES_MOVEMENT_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_SPLENDID_ISOLATION_POSITIVE_GOLD_CS",
+        "Text": "LOC_MOD_SPLENDID_ISOLATION_POSITIVE_GOLD_CS_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SPLENDID_ISOLATION_POSITIVE_GOLD_CS",
+        "Text": "LOC_MOD_SPLENDID_ISOLATION_POSITIVE_GOLD_CS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_CHARTERED_COMPANIES_PORT_RESOURCE_CAP",
+        "Text": "LOC_MOD_CHARTERED_COMPANIES_PORT_RESOURCE_CAP_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "PLAYER_DIPLOMACY_GIFT_GURKHA_COMPLETE",
+        "Text": "LOC_DIPLOMACY_PROJECT_GIFT_GURKHA_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "HIMAL_MOD_MOUNTAIN_CULTURE",
+        "Text": "LOC_TRADITION_HIMAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MAITRI_SANADHI_MOD_ENDEAVOR_DISCOUNT",
+        "Text": "LOC_TRADITION_MAITRI_SANADHI_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "TUNDIKHEL_MOD_MOUNTAIN_COMBAT_NOT_TERRITORY",
+        "Text": "LOC_TRADITION_TUNDIKHEL_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "TUNDIKHEL_MOD_MOUNTAIN_COMBAT_NOT_TERRITORY",
+        "Text": "LOC_TRADITION_TUNDIKHEL_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "TUNDIKHEL_MOD_MOUNTAIN_COMBAT_TERRITORY",
+        "Text": "LOC_TRADITION_TUNDIKHEL_NAME"
+    },
+    {
+        "Context": "Tooltip",
+        "ModifierId": "MOD_EXPENSIVE_WAREHOUSE_BUILDINGS",
+        "Text": "LOC_TRAIT_NEPAL_ABILITY_NAME"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_NEPAL",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_NEPAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SAGARMATHA_BUILDINGS_MOUNTAIN_ADJACENCY",
+        "Text": "LOC_MOD_SAGARMATHA_BUILDINGS_MOUNTAIN_ADJACENCY_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SHERPA_MOUNTAIN_CLAIM",
+        "Text": "LOC_MOD_SHERPA_MOUNTAIN_CLAIM_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_GIFT_GURKHA",
+        "Text": "LOC_MOD_GIFT_GURKHA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_JYUMDO_BAGHA_MOUNTAIN_WALLS",
+        "Text": "LOC_MOD_JYUMDO_BAGHA_MOUNTAIN_WALLS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_GORKHAPATRA_MUSEUM_SLOTS",
+        "Text": "LOC_MOD_GORKHAPATRA_MUSEUM_SLOTS_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_JYUMDO_BAGHA_FORTIFICATION",
+        "Text": "LOC_MOD_JYUMDO_BAGHA_FORTIFICATION_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SINGHA_DURBAR_INFLUENCE_CULTURE_BUILDING",
+        "Text": "LOC_MOD_SINGHA_DURBAR_INFLUENCE_CULTURE_BUILDING_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "GENGHIS_KHAN_COMMAND_RADIUS_COMBAT",
+        "Text": "LOC_GENGHIS_KHAN_COMMAND_RADIUS_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "GENGHIS_KHAN_NO_COMMAND_RADIUS_COMBAT_ATTACH",
+        "Text": "LOC_GENGHIS_KHAN_NO_COMMAND_RADIUS_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "GENGHIS_KHAN_MOD_AGENDA_TUMEN",
+        "Text": "LOC_DIPLOMACY_AGENDA_TUMEN_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_GENGHIS_KHAN_L1",
+        "Text": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_GENGHIS_KHAN_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_GENGHIS_KHAN_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_GENGHIS_KHAN_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_GENGHIS_KHAN_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_GENGHIS_KHAN_L2_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_GENGHIS_KHAN_PAIZA_MODIFIER",
+        "Text": "LOC_MEMENTO_GENGHIS_KHAN_PAIZA_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_GENGHIS_KHAN_SADDLE_MODIFIER",
+        "Text": "LOC_MEMENTO_GENGHIS_KHAN_SADDLE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MEMENTO_GENGHIS_KHAN_SULDE_MODIFIER",
+        "Text": "LOC_MEMENTO_GENGHIS_KHAN_SULDE_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MIHISTU_MOD_GREATWORK_PRODUCTION",
+        "Text": "LOC_TRADITION_MIHISTU_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "GIRRU_MOD_CONQUERED_FOOD_PRODUCTION",
+        "Text": "LOC_TRADITION_GIRRU_DESCRIPTION"
+    },
+    {
+        "Context": "Name",
+        "ModifierId": "LAKSHMIBAI_MOD_AGENDA_ETERNAL_GLORY",
+        "Text": "LOC_DIPLOMACY_AGENDA_ETERNAL_GLORY_NAME"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_LAKSHMIBAI_L1_01",
+        "Text": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_LAKSHMIBAI_L1_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_LAKSHMIBAI_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_LAKSHMIBAI_L2_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_ATTRIBUTE_MILITARISTIC_LEGEND_LAKSHMIBAI_L2",
+        "Text": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_LAKSHMIBAI_L2_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MEMENTO_LAKSHMIBAI_DHAL_MODIFIER_2",
+        "Text": "LOC_MEMENTO_LAKSHMIBAI_DHAL_COMBAT_PREVIEW"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MEMENTO_LAKSHMIBAI_BAADALS_REINS_MODIFIER",
+        "Text": "LOC_MEMENTO_LAKSHMIBAI_BAADALS_REINS_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MEMENTO_LAKSHMIBAI_FLAG_OF_JHANSI_MODIFIER",
+        "Text": "LOC_MEMENTO_LAKSHMIBAI_FLAG_OF_JHANSI_FUNCTIONAL_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "WAQAYE_E_ETTEFAQIYA_YIELD_UNDER_CAP",
+        "Text": "LOC_TRADITION_WAQAYE_E_ETTEFAQIYA_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "SOLEYMANIYEH_PALACE_YIELD_CAPITAL_POP",
+        "Text": "LOC_TRADITION_SOLEYMANIYEH_PALACE_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "QULLARAQASI_COMMANDER_HAPPINESS",
+        "Text": "LOC_TRADITION_QULLARAQASI_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "MOD_CIV_WONDER_PRODUCTION_QAJAR",
+        "Text": "LOC_MOD_CIV_WONDER_PRODUCTION_QAJAR_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_CIV_QAJAR_DIPLOMACY",
+        "Text": "LOC_MOD_ATTRIBUTE_POLITICAL_05_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_NEZAM_E_JADID_UNDER_CAP_COMBAT",
+        "Text": "LOC_MOD_NEZAM_E_JADID_UNDER_CAP_COMBAT_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_TWELVE_GATES_YIELD_UNDER_CAP",
+        "Text": "LOC_MOD_TWELVE_GATES_YIELD_UNDER_CAP_DESCRIPTION"
+    },
+    {
+        "Context": "Description",
+        "ModifierId": "MOD_SUN_THRONE_DIPLO_SENDER_YIELD",
+        "Text": "LOC_MOD_SUN_THRONE_DIPLO_SENDER_YIELD_DESCRIPTION"
+    },
+    {
+        "Context": "Preview",
+        "ModifierId": "GHILMAN_MOD_COMBAT",
+        "Text": "LOC_GHILMAN_COMBAT_PREVIEW"
+    }
+]

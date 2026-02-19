@@ -1,0 +1,152 @@
+[
+    {
+        "CreateBuilding": null,
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": 1,
+        "ProjectType": "PROJECT_COTHON_CAPITAL_MOVE",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 0
+    },
+    {
+        "CreateBuilding": null,
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_ENHANCE_DISTRICT_HOLY_SITE",
+        "ReligiousPressureModifier": 100,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 0
+    },
+    {
+        "CreateBuilding": null,
+        "FullyPoweredWhileActive": 1,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 0
+    },
+    {
+        "CreateBuilding": null,
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_SEND_AID",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 1
+    },
+    {
+        "CreateBuilding": null,
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_TRAIN_ATHLETES",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 1
+    },
+    {
+        "CreateBuilding": null,
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_TRAIN_ASTRONAUTS",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 1
+    },
+    {
+        "CreateBuilding": null,
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_RECOMMISSION_REACTOR",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": "BUILDING_POWER_PLANT",
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 0
+    },
+    {
+        "CreateBuilding": "BUILDING_COAL_POWER_PLANT",
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_CONVERT_REACTOR_TO_COAL",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 0
+    },
+    {
+        "CreateBuilding": "BUILDING_FOSSIL_FUEL_POWER_PLANT",
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_CONVERT_REACTOR_TO_OIL",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 0
+    },
+    {
+        "CreateBuilding": "BUILDING_POWER_PLANT",
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_CONVERT_REACTOR_TO_URANIUM",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 0
+    },
+    {
+        "CreateBuilding": null,
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_DECOMMISSION_COAL_POWER_PLANT",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 1
+    },
+    {
+        "CreateBuilding": null,
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_DECOMMISSION_OIL_POWER_PLANT",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 1
+    },
+    {
+        "CreateBuilding": null,
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_DECOMMISSION_NUCLEAR_POWER_PLANT",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 1
+    },
+    {
+        "CreateBuilding": null,
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_OCCULT_RESEARCH",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 1
+    },
+    {
+        "CreateBuilding": null,
+        "FullyPoweredWhileActive": null,
+        "MaxSimultaneousInstances": null,
+        "ProjectType": "PROJECT_DARK_SUMMONING",
+        "ReligiousPressureModifier": 0,
+        "RequiredBuilding": null,
+        "RequiredPowerWhileActive": 0,
+        "UnlocksFromEffect": 1
+    }
+]

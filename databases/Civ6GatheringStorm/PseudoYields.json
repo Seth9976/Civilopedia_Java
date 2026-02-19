@@ -1,0 +1,218 @@
+[
+    {
+        "DefaultValue": 0.5,
+        "PseudoYieldType": "PSEUDOYIELD_CLEAR_BANDIT_CAMPS"
+    },
+    {
+        "DefaultValue": 0.5,
+        "PseudoYieldType": "PSEUDOYIELD_ENVIRONMENT"
+    },
+    {
+        "DefaultValue": 0.5,
+        "PseudoYieldType": "PSEUDOYIELD_GPP_GENERAL"
+    },
+    {
+        "DefaultValue": 0.5,
+        "PseudoYieldType": "PSEUDOYIELD_GPP_ADMIRAL"
+    },
+    {
+        "DefaultValue": 0.5,
+        "PseudoYieldType": "PSEUDOYIELD_GPP_ENGINEER"
+    },
+    {
+        "DefaultValue": 0.5,
+        "PseudoYieldType": "PSEUDOYIELD_GPP_MERCHANT"
+    },
+    {
+        "DefaultValue": 0.5,
+        "PseudoYieldType": "PSEUDOYIELD_GPP_PROPHET"
+    },
+    {
+        "DefaultValue": 0.5,
+        "PseudoYieldType": "PSEUDOYIELD_GPP_SCIENTIST"
+    },
+    {
+        "DefaultValue": 0.5,
+        "PseudoYieldType": "PSEUDOYIELD_GPP_WRITER"
+    },
+    {
+        "DefaultValue": 0.5,
+        "PseudoYieldType": "PSEUDOYIELD_GPP_ARTIST"
+    },
+    {
+        "DefaultValue": 0.5,
+        "PseudoYieldType": "PSEUDOYIELD_GPP_MUSICIAN"
+    },
+    {
+        "DefaultValue": 10.0,
+        "PseudoYieldType": "PSEUDOYIELD_IMPROVEMENT"
+    },
+    {
+        "DefaultValue": 0.5,
+        "PseudoYieldType": "PSEUDOYIELD_INFLUENCE"
+    },
+    {
+        "DefaultValue": 4.0,
+        "PseudoYieldType": "PSEUDOYIELD_UNIT_ARCHAEOLOGIST"
+    },
+    {
+        "DefaultValue": 1.0,
+        "PseudoYieldType": "PSEUDOYIELD_UNIT_COMBAT"
+    },
+    {
+        "DefaultValue": 1.0,
+        "PseudoYieldType": "PSEUDOYIELD_UNIT_NAVAL_COMBAT"
+    },
+    {
+        "DefaultValue": 3.0,
+        "PseudoYieldType": "PSEUDOYIELD_UNIT_AIR_COMBAT"
+    },
+    {
+        "DefaultValue": 1.0,
+        "PseudoYieldType": "PSEUDOYIELD_UNIT_EXPLORER"
+    },
+    {
+        "DefaultValue": 1.0,
+        "PseudoYieldType": "PSEUDOYIELD_UNIT_SETTLER"
+    },
+    {
+        "DefaultValue": 1.0,
+        "PseudoYieldType": "PSEUDOYIELD_UNIT_RELIGIOUS"
+    },
+    {
+        "DefaultValue": 1.0,
+        "PseudoYieldType": "PSEUDOYIELD_UNIT_TRADE"
+    },
+    {
+        "DefaultValue": 20.0,
+        "PseudoYieldType": "PSEUDOYIELD_UNIT_SPY"
+    },
+    {
+        "DefaultValue": 4.0,
+        "PseudoYieldType": "PSEUDOYIELD_DISTRICT"
+    },
+    {
+        "DefaultValue": 2.0,
+        "PseudoYieldType": "PSEUDOYIELD_WONDER"
+    },
+    {
+        "DefaultValue": 10.0,
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_SCULPTURE"
+    },
+    {
+        "DefaultValue": 10.0,
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_PORTRAIT"
+    },
+    {
+        "DefaultValue": 10.0,
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_LANDSCAPE"
+    },
+    {
+        "DefaultValue": 10.0,
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_RELIGIOUS"
+    },
+    {
+        "DefaultValue": 10.0,
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_ARTIFACT"
+    },
+    {
+        "DefaultValue": 10.0,
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_WRITING"
+    },
+    {
+        "DefaultValue": 10.0,
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_MUSIC"
+    },
+    {
+        "DefaultValue": 10.0,
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_RELIC"
+    },
+    {
+        "DefaultValue": 0.25,
+        "PseudoYieldType": "PSEUDOYIELD_DIPLOMATIC_BONUS"
+    },
+    {
+        "DefaultValue": 25.0,
+        "PseudoYieldType": "PSEUDOYIELD_NUCLEAR_WEAPON"
+    },
+    {
+        "DefaultValue": 100.0,
+        "PseudoYieldType": "PSEUDOYIELD_RESOURCE_LUXURY"
+    },
+    {
+        "DefaultValue": 100.0,
+        "PseudoYieldType": "PSEUDOYIELD_SPACE_RACE"
+    },
+    {
+        "DefaultValue": 5.0,
+        "PseudoYieldType": "PSEUDOYIELD_CIVIC"
+    },
+    {
+        "DefaultValue": 5.0,
+        "PseudoYieldType": "PSEUDOYIELD_TECHNOLOGY"
+    },
+    {
+        "DefaultValue": 1.0,
+        "PseudoYieldType": "PSEUDOYIELD_TOURISM"
+    },
+    {
+        "DefaultValue": 1.0,
+        "PseudoYieldType": "PSEUDOYIELD_HAPPINESS"
+    },
+    {
+        "DefaultValue": 1.0,
+        "PseudoYieldType": "PSEUDOYIELD_STANDING_ARMY_NUMBER"
+    },
+    {
+        "DefaultValue": 0.1,
+        "PseudoYieldType": "PSEUDOYIELD_STANDING_ARMY_VALUE"
+    },
+    {
+        "DefaultValue": 450.0,
+        "PseudoYieldType": "PSEUDOYIELD_CITY_BASE"
+    },
+    {
+        "DefaultValue": 200.0,
+        "PseudoYieldType": "PSEUDOYIELD_CITY_DEFENSES"
+    },
+    {
+        "DefaultValue": 80.0,
+        "PseudoYieldType": "PSEUDOYIELD_CITY_DEFENDING_UNITS"
+    },
+    {
+        "DefaultValue": 200.0,
+        "PseudoYieldType": "PSEUDOYIELD_CITY_ORIGINAL_CAPITAL"
+    },
+    {
+        "DefaultValue": 50.0,
+        "PseudoYieldType": "PSEUDOYIELD_CITY_POPULATION"
+    },
+    {
+        "DefaultValue": 1.0,
+        "PseudoYieldType": "PSEUDOYIELD_GOLDENAGE_POINT"
+    },
+    {
+        "DefaultValue": 2.0,
+        "PseudoYieldType": "PSEUDOYIELD_GOVERNOR"
+    },
+    {
+        "DefaultValue": 0.7,
+        "PseudoYieldType": "PSEUDOYIELD_DIPLOMATIC_FAVOR"
+    },
+    {
+        "DefaultValue": 100.0,
+        "PseudoYieldType": "PSEUDOYIELD_DIPLOMATIC_VICTORY_POINT"
+    },
+    {
+        "DefaultValue": -0.5,
+        "PseudoYieldType": "PSEUDOYIELD_DIPLOMATIC_GRIEVANCE"
+    },
+    {
+        "DefaultValue": 1.0,
+        "PseudoYieldType": "PSEUDOYIELD_RELIGIOUS_CONVERT_EMPIRE"
+    },
+    {
+        "DefaultValue": 10.0,
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_PRODUCT"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Description": "LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_DESCRIPTION",
+        "IconString": "[ICON_Religion]",
+        "InstanceDescription": null,
+        "InstanceName": null,
+        "InstanceReward": "LOC_QUEST_REWARD_ENVOYS_NUMBER",
+        "Name": "LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_NAME",
+        "QuestType": "QUEST_CONVERT_CAPITAL_TO_RELIGION",
+        "Reward": "LOC_QUEST_REWARD_ENVOYS"
+    },
+    {
+        "Description": "LOC_QUEST_SEND_TRADE_ROUTE_DESCRIPTION",
+        "IconString": "[ICON_TradeRoute]",
+        "InstanceDescription": null,
+        "InstanceName": null,
+        "InstanceReward": "LOC_QUEST_REWARD_ENVOYS_NUMBER",
+        "Name": "LOC_QUEST_SEND_TRADE_ROUTE_NAME",
+        "QuestType": "QUEST_SEND_TRADE_ROUTE",
+        "Reward": "LOC_QUEST_REWARD_ENVOYS"
+    },
+    {
+        "Description": "LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION",
+        "IconString": "[ICON_Barbarian]",
+        "InstanceDescription": null,
+        "InstanceName": null,
+        "InstanceReward": "LOC_QUEST_REWARD_ENVOYS_NUMBER",
+        "Name": "LOC_QUEST_CLEAR_BARBARIAN_CAMP_NAME",
+        "QuestType": "QUEST_CLEAR_BARBARIAN_CAMP",
+        "Reward": "LOC_QUEST_REWARD_ENVOYS"
+    },
+    {
+        "Description": "LOC_QUEST_TRAIN_UNIT_TYPE_DESCRIPTION",
+        "IconString": "[ICON_Unit]",
+        "InstanceDescription": "LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_DESCRIPTION",
+        "InstanceName": "LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_NAME",
+        "InstanceReward": "LOC_QUEST_REWARD_ENVOYS_NUMBER",
+        "Name": "LOC_QUEST_TRAIN_UNIT_TYPE_NAME",
+        "QuestType": "QUEST_TRAIN_UNIT_TYPE",
+        "Reward": "LOC_QUEST_REWARD_ENVOYS"
+    },
+    {
+        "Description": "LOC_QUEST_ZONE_DISTRICT_TYPE_DESCRIPTION",
+        "IconString": "[ICON_District]",
+        "InstanceDescription": "LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_DESCRIPTION",
+        "InstanceName": "LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_NAME",
+        "InstanceReward": "LOC_QUEST_REWARD_ENVOYS_NUMBER",
+        "Name": "LOC_QUEST_ZONE_DISTRICT_TYPE_NAME",
+        "QuestType": "QUEST_ZONE_DISTRICT_TYPE",
+        "Reward": "LOC_QUEST_REWARD_ENVOYS"
+    },
+    {
+        "Description": "LOC_QUEST_TRIGGER_TECH_BOOST_DESCRIPTION",
+        "IconString": "[ICON_TechBoosted]",
+        "InstanceDescription": "LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_DESCRIPTION",
+        "InstanceName": "LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_NAME",
+        "InstanceReward": "LOC_QUEST_REWARD_ENVOYS_NUMBER",
+        "Name": "LOC_QUEST_TRIGGER_TECH_BOOST_NAME",
+        "QuestType": "QUEST_TRIGGER_TECH_BOOST",
+        "Reward": "LOC_QUEST_REWARD_ENVOYS"
+    },
+    {
+        "Description": "LOC_QUEST_TRIGGER_CIVIC_BOOST_DESCRIPTION",
+        "IconString": "[ICON_CivicBoosted]",
+        "InstanceDescription": "LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_DESCRIPTION",
+        "InstanceName": "LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_NAME",
+        "InstanceReward": "LOC_QUEST_REWARD_ENVOYS_NUMBER",
+        "Name": "LOC_QUEST_TRIGGER_CIVIC_BOOST_NAME",
+        "QuestType": "QUEST_TRIGGER_CIVIC_BOOST",
+        "Reward": "LOC_QUEST_REWARD_ENVOYS"
+    },
+    {
+        "Description": "LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_DESCRIPTION",
+        "IconString": "[ICON_GreatPerson]",
+        "InstanceDescription": "LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_DESCRIPTION",
+        "InstanceName": "LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_NAME",
+        "InstanceReward": "LOC_QUEST_REWARD_ENVOYS_NUMBER",
+        "Name": "LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_NAME",
+        "QuestType": "QUEST_RECRUIT_GREAT_PERSON_CLASS",
+        "Reward": "LOC_QUEST_REWARD_ENVOYS"
+    }
+]

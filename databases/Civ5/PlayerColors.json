@@ -1,0 +1,744 @@
+[
+    {
+        "ID": 0,
+        "PrimaryColor": "COLOR_PLAYER_BLACK",
+        "SecondaryColor": "COLOR_PLAYER_WHITE",
+        "TextColor": "COLOR_PLAYER_BLACK_TEXT",
+        "Type": "PLAYERCOLOR_BLACK"
+    },
+    {
+        "ID": 1,
+        "PrimaryColor": "COLOR_PLAYER_BLUE",
+        "SecondaryColor": "COLOR_PLAYER_WHITE",
+        "TextColor": "COLOR_PLAYER_BLUE_TEXT",
+        "Type": "PLAYERCOLOR_BLUE"
+    },
+    {
+        "ID": 2,
+        "PrimaryColor": "COLOR_PLAYER_BROWN",
+        "SecondaryColor": "COLOR_PLAYER_DARK_YELLOW",
+        "TextColor": "COLOR_PLAYER_BROWN_TEXT",
+        "Type": "PLAYERCOLOR_BROWN"
+    },
+    {
+        "ID": 3,
+        "PrimaryColor": "COLOR_PLAYER_CYAN",
+        "SecondaryColor": "COLOR_PLAYER_BLACK",
+        "TextColor": "COLOR_PLAYER_CYAN_TEXT",
+        "Type": "PLAYERCOLOR_CYAN"
+    },
+    {
+        "ID": 4,
+        "PrimaryColor": "COLOR_PLAYER_DARK_BLUE",
+        "SecondaryColor": "COLOR_PLAYER_YELLOW",
+        "TextColor": "COLOR_PLAYER_DARK_BLUE_TEXT",
+        "Type": "PLAYERCOLOR_DARK_BLUE"
+    },
+    {
+        "ID": 5,
+        "PrimaryColor": "COLOR_PLAYER_DARK_CYAN",
+        "SecondaryColor": "COLOR_PLAYER_WHITE",
+        "TextColor": "COLOR_PLAYER_DARK_CYAN_TEXT",
+        "Type": "PLAYERCOLOR_DARK_CYAN"
+    },
+    {
+        "ID": 6,
+        "PrimaryColor": "COLOR_PLAYER_DARK_GREEN",
+        "SecondaryColor": "COLOR_PLAYER_YELLOW",
+        "TextColor": "COLOR_PLAYER_DARK_GREEN_TEXT",
+        "Type": "PLAYERCOLOR_DARK_GREEN"
+    },
+    {
+        "ID": 7,
+        "PrimaryColor": "COLOR_PLAYER_DARK_PINK",
+        "SecondaryColor": "COLOR_PLAYER_YELLOW",
+        "TextColor": "COLOR_PLAYER_DARK_PINK_TEXT",
+        "Type": "PLAYERCOLOR_DARK_PINK"
+    },
+    {
+        "ID": 8,
+        "PrimaryColor": "COLOR_PLAYER_DARK_PURPLE",
+        "SecondaryColor": "COLOR_PLAYER_DARK_YELLOW",
+        "TextColor": "COLOR_PLAYER_DARK_PURPLE_TEXT",
+        "Type": "PLAYERCOLOR_DARK_PURPLE"
+    },
+    {
+        "ID": 9,
+        "PrimaryColor": "COLOR_PLAYER_DARK_RED",
+        "SecondaryColor": "COLOR_PLAYER_DARK_YELLOW",
+        "TextColor": "COLOR_PLAYER_DARK_RED_TEXT",
+        "Type": "PLAYERCOLOR_DARK_RED"
+    },
+    {
+        "ID": 10,
+        "PrimaryColor": "COLOR_PLAYER_DARK_YELLOW",
+        "SecondaryColor": "COLOR_PLAYER_DARK_RED",
+        "TextColor": "COLOR_PLAYER_DARK_YELLOW_TEXT",
+        "Type": "PLAYERCOLOR_DARK_YELLOW"
+    },
+    {
+        "ID": 11,
+        "PrimaryColor": "COLOR_PLAYER_GRAY",
+        "SecondaryColor": "COLOR_PLAYER_BLACK",
+        "TextColor": "COLOR_PLAYER_GRAY_TEXT",
+        "Type": "PLAYERCOLOR_GRAY"
+    },
+    {
+        "ID": 12,
+        "PrimaryColor": "COLOR_PLAYER_GREEN",
+        "SecondaryColor": "COLOR_PLAYER_BLACK",
+        "TextColor": "COLOR_PLAYER_GREEN_TEXT",
+        "Type": "PLAYERCOLOR_GREEN"
+    },
+    {
+        "ID": 13,
+        "PrimaryColor": "COLOR_PLAYER_ORANGE",
+        "SecondaryColor": "COLOR_PLAYER_WHITE",
+        "TextColor": "COLOR_PLAYER_ORANGE_TEXT",
+        "Type": "PLAYERCOLOR_ORANGE"
+    },
+    {
+        "ID": 14,
+        "PrimaryColor": "COLOR_PLAYER_PEACH",
+        "SecondaryColor": "COLOR_PLAYER_BLACK",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_PEACH"
+    },
+    {
+        "ID": 15,
+        "PrimaryColor": "COLOR_PLAYER_PINK",
+        "SecondaryColor": "COLOR_PLAYER_DARK_RED",
+        "TextColor": "COLOR_PLAYER_PINK_TEXT",
+        "Type": "PLAYERCOLOR_PINK"
+    },
+    {
+        "ID": 16,
+        "PrimaryColor": "COLOR_PLAYER_PURPLE",
+        "SecondaryColor": "COLOR_PLAYER_BLACK",
+        "TextColor": "COLOR_PLAYER_PURPLE_TEXT",
+        "Type": "PLAYERCOLOR_PURPLE"
+    },
+    {
+        "ID": 17,
+        "PrimaryColor": "COLOR_PLAYER_RED",
+        "SecondaryColor": "COLOR_PLAYER_WHITE",
+        "TextColor": "COLOR_PLAYER_RED_TEXT",
+        "Type": "PLAYERCOLOR_RED"
+    },
+    {
+        "ID": 18,
+        "PrimaryColor": "COLOR_PLAYER_WHITE",
+        "SecondaryColor": "COLOR_PLAYER_RED",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_WHITE"
+    },
+    {
+        "ID": 19,
+        "PrimaryColor": "COLOR_PLAYER_YELLOW",
+        "SecondaryColor": "COLOR_PLAYER_DARK_BLUE",
+        "TextColor": "COLOR_PLAYER_YELLOW_TEXT",
+        "Type": "PLAYERCOLOR_YELLOW"
+    },
+    {
+        "ID": 20,
+        "PrimaryColor": "COLOR_PLAYER_LIGHT_GREEN",
+        "SecondaryColor": "COLOR_PLAYER_DARK_BLUE",
+        "TextColor": "COLOR_PLAYER_LIGHT_GREEN_TEXT",
+        "Type": "PLAYERCOLOR_LIGHT_GREEN"
+    },
+    {
+        "ID": 21,
+        "PrimaryColor": "COLOR_PLAYER_LIGHT_BLUE",
+        "SecondaryColor": "COLOR_PLAYER_BLACK",
+        "TextColor": "COLOR_PLAYER_LIGHT_BLUE_TEXT",
+        "Type": "PLAYERCOLOR_LIGHT_BLUE"
+    },
+    {
+        "ID": 22,
+        "PrimaryColor": "COLOR_PLAYER_LIGHT_YELLOW",
+        "SecondaryColor": "COLOR_PLAYER_BLACK",
+        "TextColor": "COLOR_PLAYER_LIGHT_YELLOW_TEXT",
+        "Type": "PLAYERCOLOR_LIGHT_YELLOW"
+    },
+    {
+        "ID": 23,
+        "PrimaryColor": "COLOR_PLAYER_LIGHT_PURPLE",
+        "SecondaryColor": "COLOR_PLAYER_BLACK",
+        "TextColor": "COLOR_PLAYER_LIGHT_PURPLE_TEXT",
+        "Type": "PLAYERCOLOR_LIGHT_PURPLE"
+    },
+    {
+        "ID": 24,
+        "PrimaryColor": "COLOR_PLAYER_LIGHT_ORANGE",
+        "SecondaryColor": "COLOR_PLAYER_DARK_DARK_GREEN",
+        "TextColor": "COLOR_PLAYER_LIGHT_ORANGE_TEXT",
+        "Type": "PLAYERCOLOR_LIGHT_ORANGE"
+    },
+    {
+        "ID": 25,
+        "PrimaryColor": "COLOR_PLAYER_MIDDLE_PURPLE",
+        "SecondaryColor": "COLOR_PLAYER_GOLDENROD",
+        "TextColor": "COLOR_PLAYER_MIDDLE_PURPLE_TEXT",
+        "Type": "PLAYERCOLOR_MIDDLE_PURPLE"
+    },
+    {
+        "ID": 26,
+        "PrimaryColor": "COLOR_PLAYER_DARK_GRAY",
+        "SecondaryColor": "COLOR_PLAYER_DARK_YELLOW",
+        "TextColor": "COLOR_PLAYER_DARK_GRAY_TEXT",
+        "Type": "PLAYERCOLOR_DARK_GRAY"
+    },
+    {
+        "ID": 27,
+        "PrimaryColor": "COLOR_PLAYER_MIDDLE_GREEN",
+        "SecondaryColor": "COLOR_PLAYER_CYAN_TEXT",
+        "TextColor": "COLOR_PLAYER_MIDDLE_GREEN_TEXT",
+        "Type": "PLAYERCOLOR_MIDDLE_GREEN"
+    },
+    {
+        "ID": 28,
+        "PrimaryColor": "COLOR_PLAYER_DARK_LEMON",
+        "SecondaryColor": "COLOR_PLAYER_BLACK",
+        "TextColor": "COLOR_PLAYER_DARK_LEMON_TEXT",
+        "Type": "PLAYERCOLOR_DARK_LEMON"
+    },
+    {
+        "ID": 29,
+        "PrimaryColor": "COLOR_PLAYER_MIDDLE_BLUE",
+        "SecondaryColor": "COLOR_PLAYER_DARK_RED_TEXT",
+        "TextColor": "COLOR_PLAYER_MIDDLE_BLUE_TEXT",
+        "Type": "PLAYERCOLOR_MIDDLE_BLUE"
+    },
+    {
+        "ID": 30,
+        "PrimaryColor": "COLOR_PLAYER_MIDDLE_CYAN",
+        "SecondaryColor": "COLOR_PLAYER_MAROON",
+        "TextColor": "COLOR_PLAYER_MIDDLE_CYAN_TEXT",
+        "Type": "PLAYERCOLOR_MIDDLE_CYAN"
+    },
+    {
+        "ID": 31,
+        "PrimaryColor": "COLOR_PLAYER_LIGHT_BROWN",
+        "SecondaryColor": "COLOR_PLAYER_BLACK",
+        "TextColor": "COLOR_PLAYER_LIGHT_BROWN_TEXT",
+        "Type": "PLAYERCOLOR_LIGHT_BROWN"
+    },
+    {
+        "ID": 32,
+        "PrimaryColor": "COLOR_PLAYER_DARK_ORANGE",
+        "SecondaryColor": "COLOR_PLAYER_BLACK",
+        "TextColor": "COLOR_PLAYER_DARK_ORANGE_TEXT",
+        "Type": "PLAYERCOLOR_DARK_ORANGE"
+    },
+    {
+        "ID": 33,
+        "PrimaryColor": "COLOR_PLAYER_DARK_DARK_GREEN",
+        "SecondaryColor": "COLOR_PLAYER_PALE_RED",
+        "TextColor": "COLOR_PLAYER_DARK_DARK_GREEN_TEXT",
+        "Type": "PLAYERCOLOR_DARK_DARK_GREEN"
+    },
+    {
+        "ID": 34,
+        "PrimaryColor": "COLOR_PLAYER_DARK_INDIGO",
+        "SecondaryColor": "COLOR_PLAYER_PALE_ORANGE",
+        "TextColor": "COLOR_PLAYER_DARK_INDIGO_TEXT",
+        "Type": "PLAYERCOLOR_DARK_INDIGO"
+    },
+    {
+        "ID": 35,
+        "PrimaryColor": "COLOR_PLAYER_RED",
+        "SecondaryColor": "COLOR_PLAYER_DARK_YELLOW",
+        "TextColor": "COLOR_PLAYER_RED_TEXT",
+        "Type": "PLAYERCOLOR_RED_AND_GOLD"
+    },
+    {
+        "ID": 36,
+        "PrimaryColor": "COLOR_PLAYER_GOLDENROD",
+        "SecondaryColor": "COLOR_PLAYER_BLACK",
+        "TextColor": "COLOR_PLAYER_GOLDENROD",
+        "Type": "PLAYERCOLOR_GOLD_AND_BLACK"
+    },
+    {
+        "ID": 37,
+        "PrimaryColor": "COLOR_PLAYER_DARK_GREEN",
+        "SecondaryColor": "COLOR_PLAYER_BLACK",
+        "TextColor": "COLOR_PLAYER_DARK_GREEN_TEXT",
+        "Type": "PLAYERCOLOR_GREEN_AND_BLACK"
+    },
+    {
+        "ID": 38,
+        "PrimaryColor": "COLOR_PLAYER_DARK_CYAN",
+        "SecondaryColor": "COLOR_PLAYER_LIGHT_YELLOW",
+        "TextColor": "COLOR_PLAYER_DARK_CYAN_TEXT",
+        "Type": "PLAYERCOLOR_DARK_CYAN_AND_LEMON"
+    },
+    {
+        "ID": 39,
+        "PrimaryColor": "COLOR_PLAYER_LIGHT_BLACK",
+        "SecondaryColor": "COLOR_PLAYER_MIDDLE_GREEN",
+        "TextColor": "COLOR_PLAYER_LIGHT_BLACK_TEXT",
+        "Type": "PLAYERCOLOR_BLACK_AND_GREEN"
+    },
+    {
+        "ID": 40,
+        "PrimaryColor": "COLOR_PLAYER_DARK_GREEN",
+        "SecondaryColor": "COLOR_PLAYER_WHITE",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_GREEN_AND_WHITE"
+    },
+    {
+        "ID": 41,
+        "PrimaryColor": "COLOR_PLAYER_CYAN",
+        "SecondaryColor": "COLOR_PLAYER_DARK_GRAY",
+        "TextColor": "COLOR_PLAYER_CYAN_TEXT",
+        "Type": "PLAYERCOLOR_CYAN_AND_GRAY"
+    },
+    {
+        "ID": 42,
+        "PrimaryColor": "COLOR_PLAYER_DARK_INDIGO",
+        "SecondaryColor": "COLOR_PLAYER_WHITE",
+        "TextColor": "COLOR_PLAYER_DARK_INDIGO_TEXT",
+        "Type": "PLAYERCOLOR_DARK_INDIGO_AND_WHITE"
+    },
+    {
+        "ID": 43,
+        "PrimaryColor": "COLOR_PLAYER_ORANGE",
+        "SecondaryColor": "COLOR_PLAYER_DARK_GREEN",
+        "TextColor": "COLOR_PLAYER_ORANGE_TEXT",
+        "Type": "PLAYERCOLOR_ORANGE_AND_GREEN"
+    },
+    {
+        "ID": 44,
+        "PrimaryColor": "COLOR_PLAYER_BARBARIAN_ICON",
+        "SecondaryColor": "COLOR_PLAYER_BARBARIAN_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_BARBARIAN"
+    },
+    {
+        "ID": 45,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_WHITE",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_WHITE"
+    },
+    {
+        "ID": 46,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_GRAY",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_GRAY"
+    },
+    {
+        "ID": 47,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_BLUE",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_BLUE"
+    },
+    {
+        "ID": 48,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_MIDDLE_BLUE",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_MIDDLE_BLUE"
+    },
+    {
+        "ID": 49,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_CYAN",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_CYAN"
+    },
+    {
+        "ID": 50,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_MIDDLE_CYAN",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_MIDDLE_CYAN"
+    },
+    {
+        "ID": 51,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_PEACH",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_PEACH"
+    },
+    {
+        "ID": 52,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_GREEN",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_GREEN"
+    },
+    {
+        "ID": 53,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_LIGHT_GREEN",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_LIGHT_GREEN"
+    },
+    {
+        "ID": 54,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_LIGHT_BLUE",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_LIGHT_BLUE"
+    },
+    {
+        "ID": 55,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_PURPLE",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_PURPLE"
+    },
+    {
+        "ID": 56,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_MIDDLE_PURPLE",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_MIDDLE_PURPLE"
+    },
+    {
+        "ID": 57,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_LIGHT_PURPLE",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_LIGHT_PURPLE"
+    },
+    {
+        "ID": 58,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_LIGHT_ORANGE",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_LIGHT_ORANGE"
+    },
+    {
+        "ID": 59,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_YELLOW",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_YELLOW"
+    },
+    {
+        "ID": 60,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_LIGHT_YELLOW",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_LIGHT_YELLOW"
+    },
+    {
+        "ID": 61,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_GOLDENROD",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_GOLDENROD"
+    },
+    {
+        "ID": 62,
+        "PrimaryColor": "COLOR_PLAYER_MINOR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_DARK_LEMON",
+        "TextColor": "COLOR_PLAYER_PEACH_TEXT",
+        "Type": "PLAYERCOLOR_MINOR_DARK_LEMON"
+    },
+    {
+        "ID": 63,
+        "PrimaryColor": "COLOR_PLAYER_AMERICA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_AMERICA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_AMERICA"
+    },
+    {
+        "ID": 64,
+        "PrimaryColor": "COLOR_PLAYER_ARABIA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_ARABIA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_ARABIA"
+    },
+    {
+        "ID": 65,
+        "PrimaryColor": "COLOR_PLAYER_AZTEC_ICON",
+        "SecondaryColor": "COLOR_PLAYER_AZTEC_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_AZTEC"
+    },
+    {
+        "ID": 66,
+        "PrimaryColor": "COLOR_PLAYER_CHINA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_CHINA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_CHINA"
+    },
+    {
+        "ID": 67,
+        "PrimaryColor": "COLOR_PLAYER_EGYPT_ICON",
+        "SecondaryColor": "COLOR_PLAYER_EGYPT_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_EGYPT"
+    },
+    {
+        "ID": 68,
+        "PrimaryColor": "COLOR_PLAYER_ENGLAND_ICON",
+        "SecondaryColor": "COLOR_PLAYER_ENGLAND_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_ENGLAND"
+    },
+    {
+        "ID": 69,
+        "PrimaryColor": "COLOR_PLAYER_FRANCE_ICON",
+        "SecondaryColor": "COLOR_PLAYER_FRANCE_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_FRANCE"
+    },
+    {
+        "ID": 70,
+        "PrimaryColor": "COLOR_PLAYER_GERMANY_ICON",
+        "SecondaryColor": "COLOR_PLAYER_GERMANY_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_GERMANY"
+    },
+    {
+        "ID": 71,
+        "PrimaryColor": "COLOR_PLAYER_GREECE_ICON",
+        "SecondaryColor": "COLOR_PLAYER_GREECE_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_GREECE"
+    },
+    {
+        "ID": 72,
+        "PrimaryColor": "COLOR_PLAYER_INDIA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_INDIA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_INDIA"
+    },
+    {
+        "ID": 73,
+        "PrimaryColor": "COLOR_PLAYER_IROQUOIS_ICON",
+        "SecondaryColor": "COLOR_PLAYER_IROQUOIS_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_IROQUOIS"
+    },
+    {
+        "ID": 74,
+        "PrimaryColor": "COLOR_PLAYER_JAPAN_ICON",
+        "SecondaryColor": "COLOR_PLAYER_JAPAN_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_JAPAN"
+    },
+    {
+        "ID": 75,
+        "PrimaryColor": "COLOR_PLAYER_OTTOMAN_ICON",
+        "SecondaryColor": "COLOR_PLAYER_OTTOMAN_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_OTTOMAN"
+    },
+    {
+        "ID": 76,
+        "PrimaryColor": "COLOR_PLAYER_PERSIA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_PERSIA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_PERSIA"
+    },
+    {
+        "ID": 77,
+        "PrimaryColor": "COLOR_PLAYER_ROME_ICON",
+        "SecondaryColor": "COLOR_PLAYER_ROME_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_ROME"
+    },
+    {
+        "ID": 78,
+        "PrimaryColor": "COLOR_PLAYER_RUSSIA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_RUSSIA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_RUSSIA"
+    },
+    {
+        "ID": 79,
+        "PrimaryColor": "COLOR_PLAYER_SIAM_ICON",
+        "SecondaryColor": "COLOR_PLAYER_SIAM_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_SIAM"
+    },
+    {
+        "ID": 80,
+        "PrimaryColor": "COLOR_PLAYER_SONGHAI_ICON",
+        "SecondaryColor": "COLOR_PLAYER_SONGHAI_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_SONGHAI"
+    },
+    {
+        "ID": 81,
+        "PrimaryColor": "COLOR_PLAYER_MONGOL_ICON",
+        "SecondaryColor": "COLOR_PLAYER_MONGOL_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_MONGOL"
+    },
+    {
+        "ID": 82,
+        "PrimaryColor": "COLOR_PLAYER_INCA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_INCA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_INCA"
+    },
+    {
+        "ID": 83,
+        "PrimaryColor": "COLOR_PLAYER_SPAIN_ICON",
+        "SecondaryColor": "COLOR_PLAYER_SPAIN_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_SPAIN"
+    },
+    {
+        "ID": 84,
+        "PrimaryColor": "COLOR_PLAYER_POLYNESIA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_POLYNESIA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_POLYNESIA"
+    },
+    {
+        "ID": 85,
+        "PrimaryColor": "COLOR_PLAYER_DENMARK_ICON",
+        "SecondaryColor": "COLOR_PLAYER_DENMARK_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_DENMARK"
+    },
+    {
+        "ID": 86,
+        "PrimaryColor": "COLOR_PLAYER_KOREA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_KOREA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_KOREA"
+    },
+    {
+        "ID": 87,
+        "PrimaryColor": "COLOR_PLAYER_NEBUCHADNEZZAR_ICON",
+        "SecondaryColor": "COLOR_PLAYER_NEBUCHADNEZZAR_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_BABYLON"
+    },
+    {
+        "ID": 88,
+        "PrimaryColor": "COLOR_PLAYER_AUSTRIA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_AUSTRIA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_AUSTRIA"
+    },
+    {
+        "ID": 89,
+        "PrimaryColor": "COLOR_PLAYER_BYZANTIUM_ICON",
+        "SecondaryColor": "COLOR_PLAYER_BYZANTIUM_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_BYZANTIUM"
+    },
+    {
+        "ID": 90,
+        "PrimaryColor": "COLOR_PLAYER_CARTHAGE_ICON",
+        "SecondaryColor": "COLOR_PLAYER_CARTHAGE_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_CARTHAGE"
+    },
+    {
+        "ID": 91,
+        "PrimaryColor": "COLOR_PLAYER_CELTS_ICON",
+        "SecondaryColor": "COLOR_PLAYER_CELTS_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_CELTS"
+    },
+    {
+        "ID": 93,
+        "PrimaryColor": "COLOR_PLAYER_HUNS_ICON",
+        "SecondaryColor": "COLOR_PLAYER_HUNS_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_HUNS"
+    },
+    {
+        "ID": 94,
+        "PrimaryColor": "COLOR_PLAYER_MAYA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_MAYA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_MAYA"
+    },
+    {
+        "ID": 95,
+        "PrimaryColor": "COLOR_PLAYER_NETHERLANDS_ICON",
+        "SecondaryColor": "COLOR_PLAYER_NETHERLANDS_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_NETHERLANDS"
+    },
+    {
+        "ID": 96,
+        "PrimaryColor": "COLOR_PLAYER_SWEDEN_ICON",
+        "SecondaryColor": "COLOR_PLAYER_SWEDEN_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_SWEDEN"
+    },
+    {
+        "ID": 97,
+        "PrimaryColor": "COLOR_PLAYER_ETHIOPIA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_ETHIOPIA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_ETHIOPIA"
+    },
+    {
+        "ID": 98,
+        "PrimaryColor": "COLOR_PLAYER_ASSYRIA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_ASSYRIA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_ASSYRIA"
+    },
+    {
+        "ID": 99,
+        "PrimaryColor": "COLOR_PLAYER_BRAZIL_ICON",
+        "SecondaryColor": "COLOR_PLAYER_BRAZIL_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_BRAZIL"
+    },
+    {
+        "ID": 100,
+        "PrimaryColor": "COLOR_PLAYER_INDONESIA_ICON",
+        "SecondaryColor": "COLOR_PLAYER_INDONESIA_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_INDONESIA"
+    },
+    {
+        "ID": 101,
+        "PrimaryColor": "COLOR_PLAYER_MOROCCO_ICON",
+        "SecondaryColor": "COLOR_PLAYER_MOROCCO_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_MOROCCO"
+    },
+    {
+        "ID": 102,
+        "PrimaryColor": "COLOR_PLAYER_POLAND_ICON",
+        "SecondaryColor": "COLOR_PLAYER_POLAND_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_POLAND"
+    },
+    {
+        "ID": 103,
+        "PrimaryColor": "COLOR_PLAYER_PORTUGAL_ICON",
+        "SecondaryColor": "COLOR_PLAYER_PORTUGAL_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_PORTUGAL"
+    },
+    {
+        "ID": 104,
+        "PrimaryColor": "COLOR_PLAYER_SHOSHONE_ICON",
+        "SecondaryColor": "COLOR_PLAYER_SHOSHONE_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_SHOSHONE"
+    },
+    {
+        "ID": 105,
+        "PrimaryColor": "COLOR_PLAYER_VENICE_ICON",
+        "SecondaryColor": "COLOR_PLAYER_VENICE_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_VENICE"
+    },
+    {
+        "ID": 106,
+        "PrimaryColor": "COLOR_PLAYER_ZULU_ICON",
+        "SecondaryColor": "COLOR_PLAYER_ZULU_BACKGROUND",
+        "TextColor": "COLOR_PLAYER_WHITE_TEXT",
+        "Type": "PLAYERCOLOR_ZULU"
+    }
+]

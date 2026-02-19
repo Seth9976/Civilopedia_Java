@@ -1,0 +1,202 @@
+[
+    {
+        "Color": "COLOR_RELIGION_PANTHEON",
+        "IconString": "Pa",
+        "Name": "LOC_RELIGION_PANTHEON",
+        "Pantheon": 1,
+        "ReligionType": "RELIGION_PANTHEON",
+        "RequiresCustomName": 0
+    },
+    {
+        "Color": "COLOR_RELIGION_BUDDHISM",
+        "IconString": "Bu",
+        "Name": "LOC_RELIGION_BUDDHISM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_BUDDHISM",
+        "RequiresCustomName": 0
+    },
+    {
+        "Color": "COLOR_RELIGION_CATHOLICISM",
+        "IconString": "Ca",
+        "Name": "LOC_RELIGION_CATHOLICISM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CATHOLICISM",
+        "RequiresCustomName": 0
+    },
+    {
+        "Color": "COLOR_RELIGION_CONFUCIANISM",
+        "IconString": "Co",
+        "Name": "LOC_RELIGION_CONFUCIANISM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CONFUCIANISM",
+        "RequiresCustomName": 0
+    },
+    {
+        "Color": "COLOR_RELIGION_HINDUISM",
+        "IconString": "Hi",
+        "Name": "LOC_RELIGION_HINDUISM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_HINDUISM",
+        "RequiresCustomName": 0
+    },
+    {
+        "Color": "COLOR_RELIGION_ISLAM",
+        "IconString": "Is",
+        "Name": "LOC_RELIGION_ISLAM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_ISLAM",
+        "RequiresCustomName": 0
+    },
+    {
+        "Color": "COLOR_RELIGION_JUDAISM",
+        "IconString": "Ju",
+        "Name": "LOC_RELIGION_JUDAISM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_JUDAISM",
+        "RequiresCustomName": 0
+    },
+    {
+        "Color": "COLOR_RELIGION_ORTHODOXY",
+        "IconString": "Or",
+        "Name": "LOC_RELIGION_ORTHODOXY",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_ORTHODOXY",
+        "RequiresCustomName": 0
+    },
+    {
+        "Color": "COLOR_RELIGION_PROTESTANTISM",
+        "IconString": "Pr",
+        "Name": "LOC_RELIGION_PROTESTANTISM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_PROTESTANTISM",
+        "RequiresCustomName": 0
+    },
+    {
+        "Color": "COLOR_RELIGION_SHINTO",
+        "IconString": "Sh",
+        "Name": "LOC_RELIGION_SHINTO",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_SHINTO",
+        "RequiresCustomName": 0
+    },
+    {
+        "Color": "COLOR_RELIGION_SIKHISM",
+        "IconString": "Si",
+        "Name": "LOC_RELIGION_SIKHISM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_SIKHISM",
+        "RequiresCustomName": 0
+    },
+    {
+        "Color": "COLOR_RELIGION_TAOISM",
+        "IconString": "Ta",
+        "Name": "LOC_RELIGION_TAOISM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_TAOISM",
+        "RequiresCustomName": 0
+    },
+    {
+        "Color": "COLOR_RELIGION_ZOROASTRIANISM",
+        "IconString": "Zo",
+        "Name": "LOC_RELIGION_ZOROASTRIANISM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_ZOROASTRIANISM",
+        "RequiresCustomName": 0
+    },
+    {
+        "Color": "COLOR_RELIGION_CUSTOM_1",
+        "IconString": "1",
+        "Name": "LOC_RELIGION_CUSTOM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CUSTOM_1",
+        "RequiresCustomName": 1
+    },
+    {
+        "Color": "COLOR_RELIGION_CUSTOM_2",
+        "IconString": "2",
+        "Name": "LOC_RELIGION_CUSTOM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CUSTOM_2",
+        "RequiresCustomName": 1
+    },
+    {
+        "Color": "COLOR_RELIGION_CUSTOM_3",
+        "IconString": "3",
+        "Name": "LOC_RELIGION_CUSTOM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CUSTOM_3",
+        "RequiresCustomName": 1
+    },
+    {
+        "Color": "COLOR_RELIGION_CUSTOM_4",
+        "IconString": "4",
+        "Name": "LOC_RELIGION_CUSTOM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CUSTOM_4",
+        "RequiresCustomName": 1
+    },
+    {
+        "Color": "COLOR_RELIGION_CUSTOM_5",
+        "IconString": "5",
+        "Name": "LOC_RELIGION_CUSTOM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CUSTOM_5",
+        "RequiresCustomName": 1
+    },
+    {
+        "Color": "COLOR_RELIGION_CUSTOM_6",
+        "IconString": "6",
+        "Name": "LOC_RELIGION_CUSTOM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CUSTOM_6",
+        "RequiresCustomName": 1
+    },
+    {
+        "Color": "COLOR_RELIGION_CUSTOM_7",
+        "IconString": "7",
+        "Name": "LOC_RELIGION_CUSTOM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CUSTOM_7",
+        "RequiresCustomName": 1
+    },
+    {
+        "Color": "COLOR_RELIGION_CUSTOM_8",
+        "IconString": "8",
+        "Name": "LOC_RELIGION_CUSTOM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CUSTOM_8",
+        "RequiresCustomName": 1
+    },
+    {
+        "Color": "COLOR_RELIGION_CUSTOM_9",
+        "IconString": "9",
+        "Name": "LOC_RELIGION_CUSTOM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CUSTOM_9",
+        "RequiresCustomName": 1
+    },
+    {
+        "Color": "COLOR_RELIGION_CUSTOM_10",
+        "IconString": "10",
+        "Name": "LOC_RELIGION_CUSTOM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CUSTOM_10",
+        "RequiresCustomName": 1
+    },
+    {
+        "Color": "COLOR_RELIGION_CUSTOM_11",
+        "IconString": "11",
+        "Name": "LOC_RELIGION_CUSTOM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CUSTOM_11",
+        "RequiresCustomName": 1
+    },
+    {
+        "Color": "COLOR_RELIGION_CUSTOM_12",
+        "IconString": "12",
+        "Name": "LOC_RELIGION_CUSTOM",
+        "Pantheon": 0,
+        "ReligionType": "RELIGION_CUSTOM_12",
+        "RequiresCustomName": 1
+    }
+]

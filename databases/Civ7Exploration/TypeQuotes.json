@@ -1,0 +1,1046 @@
+[
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_AMINA_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_AMINA"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_ASHOKA_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_ASHOKA"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_AUGUSTUS_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_AUGUSTUS"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_BENJAMIN_FRANKLIN_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_BENJAMIN_FRANKLIN"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_CATHERINE_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_CATHERINE"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_CHARLEMAGNE_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_CHARLEMAGNE"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_CONFUCIUS_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_CONFUCIUS"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_FRIEDRICH_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_FRIEDRICH"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_HARRIET_TUBMAN_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_HARRIET_TUBMAN"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_HATSHEPSUT_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_HATSHEPSUT"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_HIMIKO_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_HIMIKO"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_IBN_BATTUTA_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_IBN_BATTUTA"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_ISABELLA_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_ISABELLA"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_JOSE_RIZAL_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_JOSE_RIZAL"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_LAFAYETTE_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_LAFAYETTE"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_MACHIAVELLI_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_MACHIAVELLI"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_PACHACUTI_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_PACHACUTI"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_TRUNG_TRAC_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_TRUNG_TRAC"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_XERXES_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_XERXES"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_BERMUDA_TRIANGLE",
+        "QuoteAudio": "VO_Quote_BermudaTriangle",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_BERMUDA_TRIANGLE",
+        "Type": "FEATURE_BERMUDA_TRIANGLE"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_MOUNT_EVEREST",
+        "QuoteAudio": "VO_Quote_MountEverest",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_MOUNT_EVEREST",
+        "Type": "FEATURE_MOUNT_EVEREST"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_VALLEY_OF_FLOWERS",
+        "QuoteAudio": "VO_Quote_ValleyFlowers",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_VALLEY_OF_FLOWERS",
+        "Type": "FEATURE_VALLEY_OF_FLOWERS"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_BARRIER_REEF",
+        "QuoteAudio": "VO_Quote_GreatBarrierReef",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_BARRIER_REEF",
+        "Type": "FEATURE_BARRIER_REEF"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_REDWOOD_FOREST",
+        "QuoteAudio": "VO_Quote_RedwoodForest",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_REDWOOD_FOREST",
+        "Type": "FEATURE_REDWOOD_FOREST"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_GRAND_CANYON",
+        "QuoteAudio": "VO_Quote_GrandCanyon",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_GRAND_CANYON",
+        "Type": "FEATURE_GRAND_CANYON"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_GULLFOSS",
+        "QuoteAudio": "VO_Quote_Gullfoss",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_GULLFOSS",
+        "Type": "FEATURE_GULLFOSS"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_HOERIKWAGGO",
+        "QuoteAudio": "VO_Quote_Hoerikwaggo",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_HOERIKWAGGO",
+        "Type": "FEATURE_HOERIKWAGGO"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_IGUAZU_FALLS",
+        "QuoteAudio": "VO_Quote_IgazuFalls",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_IGUAZU_FALLS",
+        "Type": "FEATURE_IGUAZU_FALLS"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_KILIMANJARO",
+        "QuoteAudio": "VO_Quote_Kilimanjaro",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_KILIMANJARO",
+        "Type": "FEATURE_KILIMANJARO"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_ZHANGJIAJIE",
+        "QuoteAudio": "VO_Quote_Zhangjiajie",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_ZHANGJIAJIE",
+        "Type": "FEATURE_ZHANGJIAJIE"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_THERA",
+        "QuoteAudio": "VO_Quote_Thera",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_THERA",
+        "Type": "FEATURE_THERA"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_TORRES_DEL_PAINE",
+        "QuoteAudio": "VO_Quote_TorresdelPaine",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_TORRES_DEL_PAINE",
+        "Type": "FEATURE_TORRES_DEL_PAINE"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_ULURU",
+        "QuoteAudio": "VO_Quote_Uluru",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_ULURU",
+        "Type": "FEATURE_ULURU"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_ANGKOR_WAT",
+        "QuoteAudio": "VO_Quote_AngkorWat",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_ANGKOR_WAT",
+        "Type": "WONDER_ANGKOR_WAT"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_COLOSSEUM",
+        "QuoteAudio": "VO_Quote_Colosseum",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_COLOSSEUM",
+        "Type": "WONDER_COLOSSEUM"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_COLOSSUS",
+        "QuoteAudio": "VO_Quote_Colossus",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_COLOSSUS",
+        "Type": "WONDER_COLOSSUS"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_DUR_SHARRUKIN",
+        "QuoteAudio": "VO_Quote_DurSharrukin",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_DUR_SHARRUKIN",
+        "Type": "WONDER_DUR_SHARRUKIN"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_EMILE_BELL",
+        "QuoteAudio": "VO_Quote_EmileBell",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_EMILE_BELL",
+        "Type": "WONDER_EMILE_BELL"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_GATE_OF_ALL_NATIONS",
+        "QuoteAudio": "VO_Quote_GateAllNations",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_GATE_OF_ALL_NATIONS",
+        "Type": "WONDER_GATE_OF_ALL_NATIONS"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_GREAT_STELE",
+        "QuoteAudio": "VO_Quote_GreatStele",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_GREAT_STELE",
+        "Type": "WONDER_GREAT_STELE"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_HA_AMONGA_A_MAUI",
+        "QuoteAudio": "VO_Quote_HaamongaaMaui",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_HA_AMONGA_A_MAUI",
+        "Type": "WONDER_HA_AMONGA_A_MAUI"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_HANGING_GARDENS",
+        "QuoteAudio": "VO_Quote_HangingGardens",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_HANGING_GARDENS",
+        "Type": "WONDER_HANGING_GARDENS"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_MAUSOLEUM_OF_THEODORIC",
+        "QuoteAudio": "VO_Quote_MausoleumTheodoric",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_MAUSOLEUM_OF_THEODORIC",
+        "Type": "WONDER_MAUSOLEUM_OF_THEODORIC"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_MONKS_MOUND",
+        "QuoteAudio": "VO_Quote_MonksMound",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_MONKS_MOUND",
+        "Type": "WONDER_MONKS_MOUND"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_MUNDO_PERDIDO",
+        "QuoteAudio": "VO_Quote_MundoPerdido",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_MUNDO_PERDIDO",
+        "Type": "WONDER_MUNDO_PERDIDO"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_NALANDA",
+        "QuoteAudio": "VO_Quote_Nalanda",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_NALANDA",
+        "Type": "WONDER_NALANDA"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_ORACLE",
+        "QuoteAudio": "VO_Quote_Oracle",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_ORACLE",
+        "Type": "WONDER_ORACLE"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_PETRA",
+        "QuoteAudio": "VO_Quote_Petra",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_PETRA",
+        "Type": "WONDER_PETRA"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_PYRAMID_OF_THE_SUN",
+        "QuoteAudio": "VO_Quote_PyramidSun",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_PYRAMID_OF_THE_SUN",
+        "Type": "WONDER_PYRAMID_OF_THE_SUN"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_PYRAMIDS",
+        "QuoteAudio": "VO_Quote_Pyramids",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_PYRAMIDS",
+        "Type": "WONDER_PYRAMIDS"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_SANCHI_STUPA",
+        "QuoteAudio": "VO_Quote_SanchiStupa",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_SANCHI_STUPA",
+        "Type": "WONDER_SANCHI_STUPA"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_TERRACOTTA_ARMY",
+        "QuoteAudio": "VO_Quote_TeracottaArmy",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_TERRACOTTA_ARMY",
+        "Type": "WONDER_TERRACOTTA_ARMY"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_WEIYANG_PALACE",
+        "QuoteAudio": "VO_Quote_WeiyangPalace",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_WEIYANG_PALACE",
+        "Type": "WONDER_WEIYANG_PALACE"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_GREAT_LIBRARY",
+        "QuoteAudio": "VO_Quote_LibraryAlexandria",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_GREAT_LIBRARY",
+        "Type": "WONDER_GREAT_LIBRARY"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_BOROBUDUR",
+        "QuoteAudio": "VO_Quote_BoroBudur",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_BOROBUDUR",
+        "Type": "WONDER_BOROBUDUR"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_BRIHADEESWARAR_TEMPLE",
+        "QuoteAudio": "VO_Quote_BrihadeeswararTemple",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_BRIHADEESWARAR_TEMPLE",
+        "Type": "WONDER_BRIHADEESWARAR_TEMPLE"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_EL_ESCORIAL",
+        "QuoteAudio": "VO_Quote_ElEscorial",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_EL_ESCORIAL",
+        "Type": "WONDER_EL_ESCORIAL"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_ERDENE_ZUU",
+        "QuoteAudio": "VO_Quote_ErdeneZuu",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_ERDENE_ZUU",
+        "Type": "WONDER_ERDENE_ZUU"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_FORBIDDEN_CITY",
+        "QuoteAudio": "VO_Quote_ForbiddenCity",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_FORBIDDEN_CITY",
+        "Type": "WONDER_FORBIDDEN_CITY"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_HALE_O_KEAWE",
+        "QuoteAudio": "VO_Quote_HaleoKeawe",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_HALE_O_KEAWE",
+        "Type": "WONDER_HALE_O_KEAWE"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_HOUSE_OF_WISDOM",
+        "QuoteAudio": "VO_Quote_HouseWisdom",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_HOUSE_OF_WISDOM",
+        "Type": "WONDER_HOUSE_OF_WISDOM"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_MACHU_PIKCHU",
+        "QuoteAudio": "VO_Quote_MachuPicchu",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_MACHU_PIKCHU",
+        "Type": "WONDER_MACHU_PIKCHU"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_NOTRE_DAME",
+        "QuoteAudio": "VO_Quote_NotreDame",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_NOTRE_DAME",
+        "Type": "WONDER_NOTRE_DAME"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_SHWEDAGON_ZEDI_DAW",
+        "QuoteAudio": "VO_Quote_ShwedagonZediDaw",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_SHWEDAGON_ZEDI_DAW",
+        "Type": "WONDER_SHWEDAGON_ZEDI_DAW"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_TOMB_OF_ASKIA",
+        "QuoteAudio": "VO_Quote_TombAskia",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_TOMB_OF_ASKIA",
+        "Type": "WONDER_TOMB_OF_ASKIA"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_WHITE_TOWER",
+        "QuoteAudio": "VO_Quote_WhiteTower",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_WHITE_TOWER",
+        "Type": "WONDER_WHITE_TOWER"
+    },
+    {
+        "Quote": "LOC_CIVIC_ECONOMICS_QUOTE",
+        "QuoteAudio": "VO_Quote_Economics",
+        "QuoteAuthor": "LOC_CIVIC_ECONOMICS_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAIN_ECONOMICS"
+    },
+    {
+        "Quote": "LOC_CIVIC_PIETY_QUOTE",
+        "QuoteAudio": "VO_Quote_Piety",
+        "QuoteAuthor": "LOC_CIVIC_PIETY_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAIN_PIETY"
+    },
+    {
+        "Quote": "LOC_CIVIC_MERCANTILISM_QUOTE",
+        "QuoteAudio": "VO_Quote_Mercantilism",
+        "QuoteAuthor": "LOC_CIVIC_MERCANTILISM_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAIN_MERCANTILISM"
+    },
+    {
+        "Quote": "LOC_CIVIC_AUTHORITY_QUOTE",
+        "QuoteAudio": "VO_Quote_Authority",
+        "QuoteAuthor": "LOC_CIVIC_AUTHORITY_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAIN_AUTHORITY"
+    },
+    {
+        "Quote": "LOC_CIVIC_INSPIRATION_QUOTE",
+        "QuoteAudio": "VO_Quote_Inspiration",
+        "QuoteAuthor": "LOC_CIVIC_INSPIRATION_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAIN_INSPIRATION"
+    },
+    {
+        "Quote": "LOC_CIVIC_COLONIALISM_QUOTE",
+        "QuoteAudio": "VO_Quote_Colonialism",
+        "QuoteAuthor": "LOC_CIVIC_COLONIALISM_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAIN_COLONIALISM"
+    },
+    {
+        "Quote": "LOC_CIVIC_BUREAUCRACY_QUOTE",
+        "QuoteAudio": "VO_Quote_Bureaucracy",
+        "QuoteAuthor": "LOC_CIVIC_BUREAUCRACY_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAIN_BUREAUCRACY"
+    },
+    {
+        "Quote": "LOC_CIVIC_DIPLOMATIC_SERVICE_QUOTE",
+        "QuoteAudio": "VO_Quote_DiplomaticService",
+        "QuoteAuthor": "LOC_CIVIC_DIPLOMATIC_SERVICE_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAIN_DIPLOMATIC_SERVICE"
+    },
+    {
+        "Quote": "LOC_CIVIC_SOCIETY_QUOTE",
+        "QuoteAudio": "VO_Quote_Society",
+        "QuoteAuthor": "LOC_CIVIC_SOCIETY_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAIN_SOCIETY"
+    },
+    {
+        "Quote": "LOC_CIVIC_IMPERIALISM_QUOTE",
+        "QuoteAudio": "VO_Quote_Imperialism",
+        "QuoteAuthor": "LOC_CIVIC_IMPERIALISM_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAIN_IMPERIALISM"
+    },
+    {
+        "Quote": "LOC_CIVIC_SOVEREIGNTY_QUOTE",
+        "QuoteAudio": "VO_Quote_Sovereignty",
+        "QuoteAuthor": "LOC_CIVIC_SOVEREIGNTY_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAIN_SOVEREIGNTY"
+    },
+    {
+        "Quote": "LOC_CIVIC_SOCIAL_CLASS_QUOTE",
+        "QuoteAudio": "VO_Quote_SocialClass",
+        "QuoteAuthor": "LOC_CIVIC_SOCIAL_CLASS_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAIN_SOCIAL_CLASS"
+    },
+    {
+        "Quote": "LOC_CIVIC_THEOLOGY_QUOTE",
+        "QuoteAudio": "VO_Quote_Theology",
+        "QuoteAuthor": "LOC_CIVIC_THEOLOGY_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_BRANCH_THEOLOGY"
+    },
+    {
+        "Quote": "LOC_CIVIC_REFORMATION_QUOTE",
+        "QuoteAudio": "VO_Quote_Reformation",
+        "QuoteAuthor": "LOC_CIVIC_REFORMATION_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_BRANCH_REFORMATION"
+    },
+    {
+        "Quote": "LOC_CIVIC_ROUND_CITY_QUOTE",
+        "QuoteAudio": "VO_Quote_RoundCity",
+        "QuoteAuthor": "LOC_CIVIC_ROUND_CITY_AUTHOR",
+        "Type": "NODE_CIVIC_EX_ABBASID_ROUND_CITY"
+    },
+    {
+        "Quote": "LOC_CIVIC_MAWLA_QUOTE",
+        "QuoteAudio": "VO_Quote_Mawla",
+        "QuoteAuthor": "LOC_CIVIC_MAWLA_AUTHOR",
+        "Type": "NODE_CIVIC_EX_ABBASID_MAWLA"
+    },
+    {
+        "Quote": "LOC_CIVIC_AL_JABR_QUOTE",
+        "QuoteAudio": "VO_Quote_AlJabr",
+        "QuoteAuthor": "LOC_CIVIC_AL_JABR_AUTHOR",
+        "Type": "NODE_CIVIC_EX_ABBASID_AL_JABR"
+    },
+    {
+        "Quote": "LOC_CIVIC_NAGARAM_QUOTE",
+        "QuoteAudio": "VO_Quote_Nagaram",
+        "QuoteAuthor": "LOC_CIVIC_NAGARAM_AUTHOR",
+        "Type": "NODE_CIVIC_EX_CHOLA_NAGARAM"
+    },
+    {
+        "Quote": "LOC_CIVIC_KANAKAM_QUOTE",
+        "QuoteAudio": "VO_Quote_Kanakam",
+        "QuoteAuthor": "LOC_CIVIC_KANAKAM_AUTHOR",
+        "Type": "NODE_CIVIC_EX_CHOLA_KANAKAM"
+    },
+    {
+        "Quote": "LOC_CIVIC_DIGVIJAYA_QUOTE",
+        "QuoteAudio": "VO_Quote_Digvijaya",
+        "QuoteAuthor": "LOC_CIVIC_DIGVIJAYA_AUTHOR",
+        "Type": "NODE_CIVIC_EX_CHOLA_DIGVIJAYA"
+    },
+    {
+        "Quote": "LOC_CIVIC_MONSOON_WINDS_QUOTE",
+        "QuoteAudio": "VO_Quote_MonsoonWinds",
+        "QuoteAuthor": "LOC_CIVIC_MONSOON_WINDS_AUTHOR",
+        "Type": "NODE_CIVIC_EX_CHOLA_MONSOON_WINDS"
+    },
+    {
+        "Quote": "LOC_CIVIC_MANA_QUOTE",
+        "QuoteAudio": "VO_Quote_Mana",
+        "QuoteAuthor": "LOC_CIVIC_MANA_AUTHOR",
+        "Type": "NODE_CIVIC_EX_HAWAII_MANA"
+    },
+    {
+        "Quote": "LOC_CIVIC_OHANA_QUOTE",
+        "QuoteAudio": "VO_Quote_Ohana",
+        "QuoteAuthor": "LOC_CIVIC_OHANA_AUTHOR",
+        "Type": "NODE_CIVIC_EX_HAWAII_OHANA"
+    },
+    {
+        "Quote": "LOC_CIVIC_HE_E_NALU_QUOTE",
+        "QuoteAudio": "VO_Quote_HeeNalu",
+        "QuoteAuthor": "LOC_CIVIC_HE_E_NALU_AUTHOR",
+        "Type": "NODE_CIVIC_EX_HAWAII_HE_E_NALU"
+    },
+    {
+        "Quote": "LOC_CIVIC_MITA_QUOTE",
+        "QuoteAudio": "VO_Quote_Mita",
+        "QuoteAuthor": "LOC_CIVIC_MITA_AUTHOR",
+        "Type": "NODE_CIVIC_EX_INCA_MITA"
+    },
+    {
+        "Quote": "LOC_CIVIC_AYLLU_QUOTE",
+        "QuoteAudio": "VO_Quote_Ayllu",
+        "QuoteAuthor": "LOC_CIVIC_AYLLU_AUTHOR",
+        "Type": "NODE_CIVIC_EX_INCA_AYLLU"
+    },
+    {
+        "Quote": "LOC_CIVIC_QHAPAQ_NAN_QUOTE",
+        "QuoteAudio": "VO_Quote_QhapaqNan",
+        "QuoteAuthor": "LOC_CIVIC_QHAPAQ_NAN_AUTHOR",
+        "Type": "NODE_CIVIC_EX_INCA_QHAPAQ_NAN"
+    },
+    {
+        "Quote": "LOC_CIVIC_WAYANG_QUOTE",
+        "QuoteAudio": "VO_Quote_Wayang",
+        "QuoteAuthor": "LOC_CIVIC_WAYANG_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAJAPAHIT_WAYANG"
+    },
+    {
+        "Quote": "LOC_CIVIC_ALIRAN_KEPERCAYAAN_QUOTE",
+        "QuoteAudio": "VO_Quote_AliranKepercayaan",
+        "QuoteAuthor": "LOC_CIVIC_ALIRAN_KEPERCAYAAN_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAJAPAHIT_ALIRAN_KEPERCAYAAN"
+    },
+    {
+        "Quote": "LOC_CIVIC_NUSUNTARA_QUOTE",
+        "QuoteAudio": "VO_Quote_Nusuntara",
+        "QuoteAuthor": "LOC_CIVIC_NUSUNTARA_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA"
+    },
+    {
+        "Quote": "LOC_CIVIC_GAMELAN_QUOTE",
+        "QuoteAudio": "VO_Quote_Gamelan",
+        "QuoteAuthor": "LOC_CIVIC_GAMELAN_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MAJAPAHIT_GAMELAN"
+    },
+    {
+        "Quote": "LOC_CIVIC_NINE_GARRISONS_QUOTE",
+        "QuoteAudio": "VO_Quote_NineGarrisons",
+        "QuoteAuthor": "LOC_CIVIC_NINE_GARRISONS_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MING_NINE_GARRISONS"
+    },
+    {
+        "Quote": "LOC_CIVIC_LIJIA_QUOTE",
+        "QuoteAudio": "VO_Quote_Lijia",
+        "QuoteAuthor": "LOC_CIVIC_LIJIA_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MING_LIJIA"
+    },
+    {
+        "Quote": "LOC_CIVIC_DA_MING_LU_QUOTE",
+        "QuoteAudio": "VO_Quote_DaMingLu",
+        "QuoteAuthor": "LOC_CIVIC_DA_MING_LU_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MING_DA_MING_LU"
+    },
+    {
+        "Quote": "LOC_CIVIC_ULUS_QUOTE",
+        "QuoteAudio": "VO_Quote_Ulus",
+        "QuoteAuthor": "LOC_CIVIC_ULUS_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MONGOLIA_ULUS"
+    },
+    {
+        "Quote": "LOC_CIVIC_FOUR_HOUNDS_QUOTE",
+        "QuoteAudio": "VO_Quote_FourHounds",
+        "QuoteAuthor": "LOC_CIVIC_FOUR_HOUNDS_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MONGOLIA_FOUR_HOUNDS"
+    },
+    {
+        "Quote": "LOC_CIVIC_YASSA_QUOTE",
+        "QuoteAudio": "VO_Quote_Yassa",
+        "QuoteAuthor": "LOC_CIVIC_YASSA_AUTHOR",
+        "Type": "NODE_CIVIC_EX_MONGOLIA_YASSA"
+    },
+    {
+        "Quote": "LOC_CIVIC_CONSUETUDINES_ET_JUSTICIE_QUOTE",
+        "QuoteAudio": "VO_Quote_ConsuetudinesJusticie",
+        "QuoteAuthor": "LOC_CIVIC_CONSUETUDINES_ET_JUSTICIE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_NORMAN_CONSUETUDINES_ET_JUSTICIE"
+    },
+    {
+        "Quote": "LOC_CIVIC_COMMON_LAW_QUOTE",
+        "QuoteAudio": "VO_Quote_CommonLaw",
+        "QuoteAuthor": "LOC_CIVIC_COMMON_LAW_AUTHOR",
+        "Type": "NODE_CIVIC_EX_NORMAN_COMMON_LAW"
+    },
+    {
+        "Quote": "LOC_CIVIC_DOMESDAY_BOOK_QUOTE",
+        "QuoteAudio": "VO_Quote_DomesdayBook",
+        "QuoteAuthor": "LOC_CIVIC_DOMESDAY_BOOK_AUTHOR",
+        "Type": "NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK"
+    },
+    {
+        "Quote": "LOC_CIVIC_SHIPS_OF_THE_DESERT_QUOTE",
+        "QuoteAudio": "VO_Quote_ShipsDesert",
+        "QuoteAuthor": "LOC_CIVIC_SHIPS_OF_THE_DESERT_AUTHOR",
+        "Type": "NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT"
+    },
+    {
+        "Quote": "LOC_CIVIC_HI_KOI_QUOTE",
+        "QuoteAudio": "VO_Quote_HiKoi",
+        "QuoteAuthor": "LOC_CIVIC_HI_KOI_AUTHOR",
+        "Type": "NODE_CIVIC_EX_SONGHAI_HI_KOI"
+    },
+    {
+        "Quote": "LOC_CIVIC_KANTA_QUOTE",
+        "QuoteAudio": "VO_Quote_Kanta",
+        "QuoteAuthor": "LOC_CIVIC_KANTA_AUTHOR",
+        "Type": "NODE_CIVIC_EX_SONGHAI_KANTA"
+    },
+    {
+        "Quote": "LOC_CIVIC_COUNCIL_OF_THE_INDIES_QUOTE",
+        "QuoteAudio": "VO_Quote_CouncilIndies",
+        "QuoteAuthor": "LOC_CIVIC_COUNCIL_OF_THE_INDIES_AUTHOR",
+        "Type": "NODE_CIVIC_EX_SPAIN_COUNCIL_OF_THE_INDIES"
+    },
+    {
+        "Quote": "LOC_CIVIC_ARMADA_QUOTE",
+        "QuoteAudio": "VO_Quote_Armada",
+        "QuoteAuthor": "LOC_CIVIC_ARMADA_AUTHOR",
+        "Type": "NODE_CIVIC_EX_SPAIN_ARMADA"
+    },
+    {
+        "Quote": "LOC_CIVIC_NEW_WORLD_RICHES_QUOTE",
+        "QuoteAudio": "VO_Quote_NewWorldRiches",
+        "QuoteAuthor": "LOC_CIVIC_NEW_WORLD_RICHES_AUTHOR",
+        "Type": "NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES"
+    },
+    {
+        "Quote": "LOC_TECH_CARTOGRAPHY_QUOTE",
+        "QuoteAudio": "VO_Quote_Cartography",
+        "QuoteAuthor": "LOC_TECH_CARTOGRAPHY_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_CARTOGRAPHY"
+    },
+    {
+        "Quote": "LOC_TECH_ASTRONOMY_QUOTE",
+        "QuoteAudio": "VO_Quote_Astronomy",
+        "QuoteAuthor": "LOC_TECH_ASTRONOMY_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_ASTRONOMY"
+    },
+    {
+        "Quote": "LOC_TECH_MACHINERY_QUOTE",
+        "QuoteAudio": "VO_Quote_Machinery",
+        "QuoteAuthor": "LOC_TECH_MACHINERY_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_MACHINERY"
+    },
+    {
+        "Quote": "LOC_TECH_GUILDS_QUOTE",
+        "QuoteAudio": "VO_Quote_Guilds",
+        "QuoteAuthor": "LOC_TECH_GUILDS_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_GUILDS"
+    },
+    {
+        "Quote": "LOC_TECH_FEUDALISM_QUOTE",
+        "QuoteAudio": "VO_Quote_Feudalism",
+        "QuoteAuthor": "LOC_TECH_FEUDALISM_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_FEUDALISM"
+    },
+    {
+        "Quote": "LOC_TECH_HERALDRY_QUOTE",
+        "QuoteAudio": "VO_Quote_Heraldry",
+        "QuoteAuthor": "LOC_TECH_HERALDRY_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_HERALDRY"
+    },
+    {
+        "Quote": "LOC_TECH_CASTLES_QUOTE",
+        "QuoteAudio": "VO_Quote_Castles",
+        "QuoteAuthor": "LOC_TECH_CASTLES_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_CASTLES"
+    },
+    {
+        "Quote": "LOC_TECH_EDUCATION_QUOTE",
+        "QuoteAudio": "VO_Quote_Education",
+        "QuoteAuthor": "LOC_TECH_EDUCATION_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_EDUCATION"
+    },
+    {
+        "Quote": "LOC_TECH_SHIPBUILDING_QUOTE",
+        "QuoteAudio": "VO_Quote_Shipbuilding",
+        "QuoteAuthor": "LOC_TECH_SHIPBUILDING_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_SHIPBUILDING"
+    },
+    {
+        "Quote": "LOC_TECH_METALLURGY_QUOTE",
+        "QuoteAudio": "VO_Quote_Metallurgy",
+        "QuoteAuthor": "LOC_TECH_METALLURGY_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_METALLURGY"
+    },
+    {
+        "Quote": "LOC_TECH_ARCHITECTURE_QUOTE",
+        "QuoteAudio": "VO_Quote_Architecture",
+        "QuoteAuthor": "LOC_TECH_ARCHITECTURE_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_ARCHITECTURE"
+    },
+    {
+        "Quote": "LOC_TECH_METAL_CASTING_QUOTE",
+        "QuoteAudio": "VO_Quote_MetalCasting",
+        "QuoteAuthor": "LOC_TECH_METAL_CASTING_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_METAL_CASTING"
+    },
+    {
+        "Quote": "LOC_TECH_URBAN_PLANNING_QUOTE",
+        "QuoteAudio": "VO_Quote_UrbanPlanning",
+        "QuoteAuthor": "LOC_TECH_URBAN_PLANNING_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_URBAN_PLANNING"
+    },
+    {
+        "Quote": "LOC_TECH_GUNPOWDER_QUOTE",
+        "QuoteAudio": "VO_Quote_Gunpowder",
+        "QuoteAuthor": "LOC_TECH_GUNPOWDER_QUOTE_AUTHOR",
+        "Type": "NODE_TECH_EX_GUNPOWDER"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_ADA_LOVELACE_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_ADA_LOVELACE"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_ASHOKA_ALT_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_ASHOKA_ALT"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_HIMIKO_ALT_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_HIMIKO_ALT"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_MAUSOLEUM_AT_HALICARNASSUS",
+        "QuoteAudio": "VO_Quote_MausoleumHalicarnassus",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_MAUSOLEUM_AT_HALICARNASSUS",
+        "Type": "WONDER_MAUSOLEUM_AT_HALICARNASSUS"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_GRAND_BAZAAR",
+        "QuoteAudio": "VO_Quote_GrandBazaar",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_GRAND_BAZAAR",
+        "Type": "WONDER_GRAND_BAZAAR"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_WAT_XIENG_THONG",
+        "QuoteAudio": "VO_Quote_WatXiengThong",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_WAT_XIENG_THONG",
+        "Type": "WONDER_WAT_XIENG_THONG"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_BOLIVAR_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_BOLIVAR"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_RILA_MONASTERY",
+        "QuoteAudio": "VO_Quote_RilaMonastery",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_RILA_MONASTERY",
+        "Type": "WONDER_RILA_MONASTERY"
+    },
+    {
+        "Quote": "LOC_CIVIC_SEVEN_TRIBES_QUOTE",
+        "QuoteAudio": "VO_Quote_SevenTribes",
+        "QuoteAuthor": "LOC_CIVIC_SEVEN_TRIBES_AUTHOR",
+        "Type": "NODE_CIVIC_EX_BULGARIA_SEVEN_TRIBES"
+    },
+    {
+        "Quote": "LOC_CIVIC_TARNOVO_SCHOOLS_QUOTE",
+        "QuoteAudio": "VO_Quote_TarnovoSchools",
+        "QuoteAuthor": "LOC_CIVIC_TARNOVO_SCHOOLS_AUTHOR",
+        "Type": "NODE_CIVIC_EX_BULGARIA_TARNOVO_SCHOOLS"
+    },
+    {
+        "Quote": "LOC_CIVIC_TSARSTVIE_QUOTE",
+        "QuoteAudio": "VO_Quote_Tsarstvie",
+        "QuoteAuthor": "LOC_CIVIC_TSARSTVIE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_BULGARIA_TSARSTVIE"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_BYRSA",
+        "QuoteAudio": "VO_Quote_Byrsa",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_BYRSA",
+        "Type": "WONDER_BYRSA"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_THANH_HUE",
+        "QuoteAudio": "VO_Quote_ThanhHue",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_THANH_HUE",
+        "Type": "WONDER_THANH_HUE"
+    },
+    {
+        "Quote": "LOC_CIVIC_CAM_QUAN_QUOTE",
+        "QuoteAudio": "VO_Quote_CamQuan",
+        "QuoteAuthor": "LOC_CIVIC_CAM_QUAN_AUTHOR",
+        "Type": "NODE_CIVIC_EX_DAI_VIET_CAM_QUAN"
+    },
+    {
+        "Quote": "LOC_CIVIC_CHU_NOM_QUOTE",
+        "QuoteAudio": "VO_Quote_ChuNom",
+        "QuoteAuthor": "LOC_CIVIC_CHU_NOM_AUTHOR",
+        "Type": "NODE_CIVIC_EX_DAI_VIET_CHU_NOM"
+    },
+    {
+        "Quote": "LOC_CIVIC_THANH_HOANG_QUOTE",
+        "QuoteAudio": "VO_Quote_ThanhHoang",
+        "QuoteAuthor": "LOC_CIVIC_THANH_HOANG_AUTHOR",
+        "Type": "NODE_CIVIC_EX_DAI_VIET_THANH_HOANG"
+    },
+    {
+        "Quote": "LOC_CIVIC_TU_DAN_QUOTE",
+        "QuoteAudio": "VO_Quote_TuDan",
+        "QuoteAuthor": "LOC_CIVIC_TU_DAN_AUTHOR",
+        "Type": "NODE_CIVIC_EX_DAI_VIET_TU_DAN"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_EDWARD_TEACH_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_EDWARD_TEACH"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_FRIEDRICH_ALT_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_FRIEDRICH_ALT"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_XERXES_ALT_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_XERXES_ALT"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_REYKHOLT",
+        "QuoteAudio": "VO_Quote_Reykholt",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_REYKHOLT",
+        "Type": "WONDER_REYKHOLT"
+    },
+    {
+        "Quote": "LOC_CIVIC_LANDNAMABOK_QUOTE",
+        "QuoteAudio": "VO_Quote_Landnamabok",
+        "QuoteAuthor": "LOC_CIVIC_LANDNAMABOK_AUTHOR",
+        "Type": "NODE_CIVIC_EX_ICELAND_LANDNAMABOK"
+    },
+    {
+        "Quote": "LOC_CIVIC_VAERINGJAR_QUOTE",
+        "QuoteAudio": "VO_Quote_Vaeringjar",
+        "QuoteAuthor": "LOC_CIVIC_VAERINGJAR_AUTHOR",
+        "Type": "NODE_CIVIC_EX_ICELAND_VAERINGJAR"
+    },
+    {
+        "Quote": "LOC_CIVIC_HUGINS_DREKKA_QUOTE",
+        "QuoteAudio": "VO_Quote_HuginsDrekka",
+        "QuoteAuthor": "LOC_CIVIC_HUGINS_DREKKA_AUTHOR",
+        "Type": "NODE_CIVIC_EX_ICELAND_HUGINS_DREKKA"
+    },
+    {
+        "Quote": "LOC_CIVIC_THJODVELDID_QUOTE",
+        "QuoteAudio": "VO_Quote_Thjodveldid",
+        "QuoteAuthor": "LOC_CIVIC_THJODVELDID_AUTHOR",
+        "Type": "NODE_CIVIC_EX_ICELAND_THJODVELDID"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_MACHAPUCHARE",
+        "QuoteAudio": "VO_Quote_Machapuchare",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_MACHAPUCHARE",
+        "Type": "FEATURE_MACHAPUCHARE"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_MOUNT_FUJI",
+        "QuoteAudio": "VO_Quote_Fuji",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_MOUNT_FUJI",
+        "Type": "FEATURE_MOUNT_FUJI"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_VIHREN",
+        "QuoteAudio": "VO_Quote_Vihren",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_VIHREN",
+        "Type": "FEATURE_VIHREN"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_VINICUNCA",
+        "QuoteAudio": "VO_Quote_Vinicunca",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_VINICUNCA",
+        "Type": "FEATURE_VINICUNCA"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_NAPOLEON_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_NAPOLEON"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_NAPOLEON_ALT_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_NAPOLEON_ALT"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_HAVANA_HARBOR",
+        "QuoteAudio": "VO_Quote_HavanaHarbor",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_HAVANA_HARBOR",
+        "Type": "WONDER_HAVANA_HARBOR"
+    },
+    {
+        "Quote": "LOC_CIVIC_ARTICLES_OF_AGREEMENT_QUOTE",
+        "QuoteAudio": "VO_Quote_ArticlesOfAgreement",
+        "QuoteAuthor": "LOC_CIVIC_ARTICLES_OF_AGREEMENT_AUTHOR",
+        "Type": "NODE_CIVIC_EX_PIRATE_REPUBLIC_ARTICLES_OF_AGREEMENT"
+    },
+    {
+        "Quote": "LOC_CIVIC_PORTS_OF_CALL_QUOTE",
+        "QuoteAudio": "VO_Quote_PortsOfCall",
+        "QuoteAuthor": "LOC_CIVIC_PORTS_OF_CALL_AUTHOR",
+        "Type": "NODE_CIVIC_EX_PIRATE_REPUBLIC_PORTS_OF_CALL"
+    },
+    {
+        "Quote": "LOC_CIVIC_ENEMY_OF_ALL_NATIONS_QUOTE",
+        "QuoteAudio": "VO_Quote_EnemyOfAllNations",
+        "QuoteAuthor": "LOC_CIVIC_ENEMY_OF_ALL_NATIONS_AUTHOR",
+        "Type": "NODE_CIVIC_EX_PIRATE_REPUBLIC_ENEMY_OF_ALL_NATIONS"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_SAYYIDA_AL_HURRA_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_SAYYIDA_AL_HURRA"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_TECUMSEH_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_TECUMSEH"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_SERPENT_MOUND",
+        "QuoteAudio": "VO_Quote_SerpentMound",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_SERPENT_MOUND",
+        "Type": "WONDER_SERPENT_MOUND"
+    },
+    {
+        "Quote": "LOC_CIVIC_WYEHI_SIMEKOFI_QUOTE",
+        "QuoteAudio": "VO_Quote_WyehiSimekofi",
+        "QuoteAuthor": "LOC_CIVIC_WYEHI_SIMEKOFI_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_SHAWNEE_WYEHI_SIMEKOFI"
+    },
+    {
+        "Quote": "LOC_CIVIC_MIYASKA_LATOWEKI_QUOTE",
+        "QuoteAudio": "VO_Quote_Miyasaka",
+        "QuoteAuthor": "LOC_CIVIC_MIYASKA_LATOWEKI_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_SHAWNEE_MIYASKA_LATOWEKI"
+    },
+    {
+        "Quote": "LOC_CIVIC_TELWATIKI_QUOTE",
+        "QuoteAudio": "VO_Quote_Telwatiki",
+        "QuoteAuthor": "LOC_CIVIC_TELWATIKI_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_SHAWNEE_TELWATIKI"
+    },
+    {
+        "Quote": "LOC_CIVIC_MALEKI_KINTAKE_QUOTE",
+        "QuoteAudio": "VO_Quote_MalekiKintake",
+        "QuoteAuthor": "LOC_CIVIC_MALEKI_KINTAKE_QUOTE_AUTHOR",
+        "Type": "NODE_CIVIC_EX_SHAWNEE_MALEKI_KINTAKE"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_GREAT_BLUE_HOLE",
+        "QuoteAudio": "VO_Quote_GreatBlueHole",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_GREAT_BLUE_HOLE",
+        "Type": "FEATURE_GREAT_BLUE_HOLE"
+    },
+    {
+        "Quote": "LOC_QUOTE_FEATURE_MAPU_A_VAEA_BLOWHOLES",
+        "QuoteAudio": "VO_Quote_MapuAVaeaBlowholes",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_FEATURE_MAPU_A_VAEA_BLOWHOLES",
+        "Type": "FEATURE_MAPU_A_VAEA_BLOWHOLES"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_GREAT_LIGHTHOUSE",
+        "QuoteAudio": "VO_Quote_GreatLighthouse",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_GREAT_LIGHTHOUSE",
+        "Type": "WONDER_GREAT_LIGHTHOUSE"
+    },
+    {
+        "Quote": "LOC_QUOTE_WONDER_NAN_MADOL",
+        "QuoteAudio": "VO_Quote_NanMadol",
+        "QuoteAuthor": "LOC_QUOTE_AUTHOR_WONDER_NAN_MADOL",
+        "Type": "WONDER_NAN_MADOL"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_GENGHIS_KHAN_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_GENGHIS_KHAN"
+    },
+    {
+        "Quote": "LOC_MAIN_CHAR_SELECT_LEADER_LAKSHMIBAI_ANY",
+        "QuoteAudio": null,
+        "QuoteAuthor": null,
+        "Type": "LEADER_LAKSHMIBAI"
+    }
+]

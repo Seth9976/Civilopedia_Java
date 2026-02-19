@@ -1,0 +1,23 @@
+[
+    {
+        "CoastalLowlandType": "COASTAL_LOWLAND_1M",
+        "Description": "LOC_COASTAL_LOWLAND_1M_DESCRIPTION",
+        "FloodedEvent": "RANDOM_EVENT_SEA_LEVEL_RISE2",
+        "Name": "LOC_COASTAL_LOWLAND_1M_NAME",
+        "SubmergedEvent": "RANDOM_EVENT_SEA_LEVEL_RISE4"
+    },
+    {
+        "CoastalLowlandType": "COASTAL_LOWLAND_2M",
+        "Description": "LOC_COASTAL_LOWLAND_2M_DESCRIPTION",
+        "FloodedEvent": "RANDOM_EVENT_SEA_LEVEL_RISE3",
+        "Name": "LOC_COASTAL_LOWLAND_2M_NAME",
+        "SubmergedEvent": "RANDOM_EVENT_SEA_LEVEL_RISE6"
+    },
+    {
+        "CoastalLowlandType": "COASTAL_LOWLAND_3M",
+        "Description": "LOC_COASTAL_LOWLAND_3M_DESCRIPTION",
+        "FloodedEvent": "RANDOM_EVENT_SEA_LEVEL_RISE5",
+        "Name": "LOC_COASTAL_LOWLAND_3M_NAME",
+        "SubmergedEvent": "RANDOM_EVENT_SEA_LEVEL_RISE7"
+    }
+]

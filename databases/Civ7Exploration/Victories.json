@@ -1,0 +1,22 @@
+[
+    {
+        "Description": "LOC_VICTORY_DOMINATION_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "NO_LEGACY_PATH_CLASS",
+        "Name": "LOC_VICTORY_DOMINATION_NAME",
+        "RequirementSetId": "REQSET_DOMINATION_VICTORY",
+        "RequiresMultipleTeams": 0,
+        "VictoryClassType": "VICTORY_CLASS_DOMINATION",
+        "VictoryType": "VICTORY_DOMINATION"
+    },
+    {
+        "Description": "LOC_VICTORY_LEGACY_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "NO_LEGACY_PATH_CLASS",
+        "Name": "LOC_VICTORY_LEGACY_NAME",
+        "RequirementSetId": "REQSET_LEGACY_VICTORY",
+        "RequiresMultipleTeams": 0,
+        "VictoryClassType": "VICTORY_CLASS_LEGACY",
+        "VictoryType": "VICTORY_LEGACY"
+    }
+]

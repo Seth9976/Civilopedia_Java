@@ -1,0 +1,237 @@
+[
+    {
+        "QueryID": "Parameters",
+        "SQL": "SELECT * FROM Parameters P WHERE Key1 IS NULL and Key2 IS NULL",
+        "Type": "Parameters"
+    },
+    {
+        "QueryID": "AgeParameters",
+        "SQL": "SELECT * FROM Parameters P WHERE Key1='Age' AND Key2= ?1",
+        "Type": "Parameters"
+    },
+    {
+        "QueryID": "RulesetParameters",
+        "SQL": "SELECT * FROM Parameters P WHERE Key1='Ruleset' AND Key2 = ?1",
+        "Type": "Parameters"
+    },
+    {
+        "QueryID": "MapParameters",
+        "SQL": "SELECT * FROM Parameters P WHERE Key1='Map' AND Key2 = ?1",
+        "Type": "Parameters"
+    },
+    {
+        "QueryID": "DefeatParameters",
+        "SQL": "SELECT DefeatType AS ParameterID, D.Name AS Name, D.Description AS Description, Visible, ReadOnly, 1 AS SupportsSinglePlayer, 1 AS SupportsLANMultiplayer, 1 AS SupportsInternetMultiplayer, 0 AS ChangeableAfterGameStart, 'bool' AS Domain, 0 AS Hash, 1 AS DefaultValue, 'Game' AS ConfigurationGroup, DefeatType AS ConfigurationKey, 'Victories' AS GroupId, 10 AS SortIndex FROM Defeats D, Ages WHERE AgeType = ?1 and D.Domain = Ages.DefeatDomain",
+        "Type": "Parameters"
+    },
+    {
+        "QueryID": "VictoryParameters",
+        "SQL": "SELECT VictoryType AS ParameterID, V.Name AS Name, V.Description AS Description, Visible, ReadOnly, 1 AS SupportsSinglePlayer, 1 AS SupportsLANMultiplayer, 1 AS SupportsInternetMultiplayer, 0 AS ChangeableAfterGameStart, 'bool' AS Domain, 0 AS Hash, 1 AS DefaultValue, 'Game' AS ConfigurationGroup, VictoryType AS ConfigurationKey, 'Victories' AS GroupId, 20 AS SortIndex FROM Victories V, Ages WHERE AgeType =?1 and V.Domain = Ages.VictoryDomain",
+        "Type": "Parameters"
+    },
+    {
+        "QueryID": "ParameterCriteria",
+        "SQL": "SELECT * FROM ParameterCriteria ORDER BY ParameterID",
+        "Type": "ParameterCriteria"
+    },
+    {
+        "QueryID": "FixedMaxTurnsCriteria",
+        "SQL": "SELECT 'MaxTurns' AS ParameterID, 'Game' AS ConfigurationGroup, 'AGE' AS ConfigurationKey, 'NotEquals' AS Operator, AgeType AS ConfigurationValue FROM Ages WHERE FixedMaxTurns = 1",
+        "Type": "ParameterCriteria"
+    },
+    {
+        "QueryID": "ParameterDependencies",
+        "SQL": "SELECT * FROM ParameterDependencies ORDER BY ParameterID",
+        "Type": "ParameterDependencies"
+    },
+    {
+        "QueryID": "MapResourcesDependencies",
+        "SQL": "SELECT 'Resources' AS ParameterID, 'Map' AS ConfigurationGroup, 'MAP_SCRIPT' AS ConfigurationKey, 'NotEquals' AS Operator, File AS ConfigurationValue FROM Maps WHERE StaticMap = 1",
+        "Type": "ParameterDependencies"
+    },
+    {
+        "QueryID": "Ages",
+        "SQL": "SELECT Domain, Name, Description, AgeType AS Value, Banner, SortIndex FROM Ages",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "DomainValues",
+        "SQL": "SELECT * FROM DomainValues WHERE Key1 IS NULL AND Key2 IS NULL",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "Civilizations",
+        "SQL": "SELECT Domain, CivilizationType AS Value, CivilizationName as Name, CivilizationDescription AS Description, CivilizationIcon as Icon, SortIndex FROM Civilizations",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "Difficulties",
+        "SQL": "SELECT Domain, Name, Description, DifficultyType AS Value, SortIndex FROM Difficulties",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "GameSpeeds",
+        "SQL": "SELECT Domain, Name, Description, GameSpeedType AS Value, SortIndex FROM GameSpeeds",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "Leaders",
+        "SQL": "SELECT Domain, LeaderType AS Value, LeaderName as Name, LeaderDescription AS Description, LeaderIcon as Icon, SortIndex FROM Leaders",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "Maps",
+        "SQL": "SELECT Domain, Name, Description, File AS Value, SortIndex FROM Maps WHERE (not WorldBuilderOnly or ?)",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "MapSizes",
+        "SQL": "SELECT Domain, Name, Description, MapSizeType AS Value, MinPlayers, MaxPlayers, MaxHumans, DefaultPlayers, SortIndex FROM MapSizes",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "Mementos",
+        "SQL": "SELECT Mementos.Domain, Mementos.Name, Mementos.Description, Mementos.FunctionalDescription, Mementos.Type AS Value, Mementos.SortIndex, Rewards.CustomData AS Icon FROM Mementos INNER JOIN Rewards ON Mementos.Type = Rewards.GameItemID",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "LegacyPaths",
+        "SQL": "SELECT Domain, Name, Description, LegacyPathClassName, AgeType, Category, LegacyPathClassType, LegacyPathClassName, LegacyPathType AS Value, SortIndex FROM LegacyPaths",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "Crises",
+        "SQL": "SELECT Domain, Name, Description, Category, AgeCrisisEventType AS Value, AgeType, SortIndex FROM Crises",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "Rulesets",
+        "SQL": "SELECT 'Rulesets' AS Domain, Name, Description, RulesetType AS Value, SortIndex FROM Rulesets",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "TurnTimers",
+        "SQL": "SELECT Domain, Name, Description, TurnTimerType AS Value, SortIndex FROM TurnTimers",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "TurnPhases",
+        "SQL": "SELECT Domain, Name, Description, TurnPhaseType AS Value, SortIndex FROM TurnPhases",
+        "Type": "DomainValues"
+    },
+    {
+        "QueryID": "DomainValueFilters",
+        "SQL": "SELECT * FROM DomainValueFilters WHERE Key1 IS NULL AND Key2 IS NULL",
+        "Type": "DomainValueFilters"
+    },
+    {
+        "QueryID": "DomainValueUnions",
+        "SQL": "SELECT * FROM DomainValueUnions WHERE Key1 IS NULL AND Key2 IS NULL",
+        "Type": "DomainValueUnions"
+    },
+    {
+        "QueryID": "DomainRanges",
+        "SQL": "SELECT * FROM DomainRanges",
+        "Type": "DomainRanges"
+    },
+    {
+        "QueryID": "MapLeaders",
+        "SQL": "SELECT 'Players:*' AS Domain, LeaderType as Value, 'Intersect' as Filter FROM MapLeaders WHERE Map = ?1",
+        "Type": "DomainValueFilters"
+    },
+    {
+        "QueryID": "DomainOverridesByMap",
+        "SQL": "SELECT ParameterID, Domain FROM DomainOverridesByMap WHERE Map = ?1 and (PlayerId = ?2 or PlayerId is null)",
+        "Type": "ParameterDomainOverrides"
+    },
+    {
+        "QueryID": "SupportedValuesByMap",
+        "SQL": "SELECT Domain, Value, 'Intersect' AS Filter FROM SupportedValuesByMap WHERE Map = ?1 and (PlayerId = ?2 or PlayerId is null)",
+        "Type": "DomainValueFilters"
+    },
+    {
+        "QueryID": "UnSupportedValuesByMap",
+        "SQL": "SELECT Domain, Value, 'Difference' AS Filter FROM UnSupportedValuesByMap WHERE Map = ?1 and (PlayerId = ?2 or PlayerId is null)",
+        "Type": "DomainValueFilters"
+    },
+    {
+        "QueryID": "DomainOverridesByRuleset",
+        "SQL": "SELECT ParameterID, Domain FROM DomainOverridesByRuleset WHERE RulesetType = ?1 and (PlayerId = ?2 or PlayerId is null)",
+        "Type": "ParameterDomainOverrides"
+    },
+    {
+        "QueryID": "SupportedValuesByRuleset",
+        "SQL": "SELECT Domain, Value, 'Intersect' AS Filter FROM SupportedValuesByRuleset WHERE RulesetType = ?1 and (PlayerId = ?2 or PlayerId is null)",
+        "Type": "DomainValueFilters"
+    },
+    {
+        "QueryID": "UnSupportedValuesByRuleset",
+        "SQL": "SELECT Domain, Value, 'Difference' AS Filter FROM UnSupportedValuesByRuleset WHERE RulesetType = ?1 and (PlayerId = ?2 or PlayerId is null)",
+        "Type": "DomainValueFilters"
+    },
+    {
+        "QueryID": "DomainOverridesByAge",
+        "SQL": "SELECT ParameterID, Domain FROM DomainOverridesByAge WHERE Make_Hash(AgeType) = ?1 and (PlayerId = ?2 or PlayerId is null)",
+        "Type": "ParameterDomainOverrides"
+    },
+    {
+        "QueryID": "PlayerCivilizationsByAge",
+        "SQL": "SELECT 'PlayerCivilization' as ParameterID, PlayerCivilizationDomain as Domain FROM Ages WHERE Make_Hash(AgeType) = ?1 LIMIT 1",
+        "Type": "ParameterDomainOverrides"
+    },
+    {
+        "QueryID": "MapSizesByAge",
+        "SQL": "SELECT 'MapSize' as ParameterID, MapSizeDomain as Domain FROM Ages WHERE Make_Hash(AgeType) = ?1 LIMIT 1",
+        "Type": "ParameterDomainOverrides"
+    },
+    {
+        "QueryID": "SupportedValuesByAge",
+        "SQL": "SELECT Domain, Value, 'Intersect' AS Filter FROM SupportedValuesByAge WHERE Make_Hash(AgeType) = ?1 and (PlayerId = ?2 or PlayerId is null)",
+        "Type": "DomainValueFilters"
+    },
+    {
+        "QueryID": "UnSupportedValuesByAge",
+        "SQL": "SELECT Domain, Value, 'Difference' AS Filter FROM UnSupportedValuesByAge WHERE Make_Hash(AgeType) = ?1 and (PlayerId = ?2 or PlayerId is null)",
+        "Type": "DomainValueFilters"
+    },
+    {
+        "QueryID": "FixedMaxTurns",
+        "SQL": "SELECT 'StandardTurnLimits' as Domain, 'TURNLIMIT_CUSTOM' as Value, 'Intersect' AS Filter FROM Ages WHERE Make_Hash(AgeType) = ?1 AND FixedMaxTurns = 1",
+        "Type": "DomainValueFilters"
+    },
+    {
+        "QueryID": "ConfigurationUpdates",
+        "SQL": "SELECT * FROM ConfigurationUpdates WHERE Key1 IS NULL AND Key2 IS NULL",
+        "Type": "ConfigurationUpdates"
+    },
+    {
+        "QueryID": "ConfigurationUpdatesByAge",
+        "SQL": "SELECT * FROM ConfigurationUpdates WHERE Key1='Age' AND Key2 = ?1",
+        "Type": "ConfigurationUpdates"
+    },
+    {
+        "QueryID": "ConfigurationUpdatesByRuleset",
+        "SQL": "SELECT * FROM ConfigurationUpdates WHERE Key1='Ruleset' AND Key2 = ?1",
+        "Type": "ConfigurationUpdates"
+    },
+    {
+        "QueryID": "TurnLimitNoneUpdates",
+        "SQL": "SELECT 'Game' AS SourceGroup, 'StartAge' AS SourceKey, AgeType AS SourceValue, 'Game' AS TargetGroup, 'TurnLimitType' AS TargetKey, 'TURNLIMIT_NONE' AS TargetValue, 1 AS 'Hash' FROM Ages WHERE MaxTurns = 0",
+        "Type": "ConfigurationUpdates"
+    },
+    {
+        "QueryID": "TurnLimitCustomUpdates",
+        "SQL": "SELECT 'Game' AS SourceGroup, 'StartAge' AS SourceKey, AgeType AS SourceValue, 'Game' AS TargetGroup, 'TurnLimitType' AS TargetKey, 'TURNLIMIT_CUSTOM' AS TargetValue, 1 AS 'Hash' FROM Ages WHERE MaxTurns > 0",
+        "Type": "ConfigurationUpdates"
+    },
+    {
+        "QueryID": "MaxTurnUpdates",
+        "SQL": "SELECT 'Game' AS SourceGroup, 'AGE' AS SourceKey, AgeType AS SourceValue, 'Game' AS TargetGroup, 'MaxTurns' AS TargetKey, MaxTurns AS TargetValue FROM Ages WHERE MaxTurns IS NOT NULL",
+        "Type": "ConfigurationUpdates"
+    },
+    {
+        "QueryID": "VictoryUpdates",
+        "SQL": "SELECT 'Game' As SourceGroup, 'AGE' AS SourceKey, AgeType AS SourceValue, 'Game' AS TargetGroup, VictoryType AS TargetKey, 1 AS TargetValue FROM Victories V, Ages WHERE V.EnabledByDefault = 1 AND V.Domain = Ages.VictoryDomain",
+        "Type": "ConfigurationUpdates"
+    }
+]

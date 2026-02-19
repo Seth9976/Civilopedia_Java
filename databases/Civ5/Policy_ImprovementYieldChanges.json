@@ -1,0 +1,56 @@
+[
+    {
+        "ImprovementType": "IMPROVEMENT_HOLY_SITE",
+        "PolicyType": "POLICY_THEOCRACY",
+        "Yield": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_POST",
+        "PolicyType": "POLICY_COMMERCE_FINISHER",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_POST",
+        "PolicyType": "POLICY_FREE_THOUGHT",
+        "Yield": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "PolicyType": "POLICY_FIVE_YEAR_PLAN",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_QUARRY",
+        "PolicyType": "POLICY_FIVE_YEAR_PLAN",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ACADEMY",
+        "PolicyType": "POLICY_NEW_DEAL",
+        "Yield": 4,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CUSTOMS_HOUSE",
+        "PolicyType": "POLICY_NEW_DEAL",
+        "Yield": 4,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MANUFACTORY",
+        "PolicyType": "POLICY_NEW_DEAL",
+        "Yield": 4,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_HOLY_SITE",
+        "PolicyType": "POLICY_NEW_DEAL",
+        "Yield": 4,
+        "YieldType": "YIELD_FAITH"
+    }
+]

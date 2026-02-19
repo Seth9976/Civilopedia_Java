@@ -1,0 +1,146 @@
+[
+    {
+        "Modifier": 33,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_FORMATION_1",
+        "UnitCombatType": "UNITCOMBAT_MOUNTED"
+    },
+    {
+        "Modifier": 33,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_FORMATION_2",
+        "UnitCombatType": "UNITCOMBAT_MOUNTED"
+    },
+    {
+        "Modifier": 33,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_AMBUSH_1",
+        "UnitCombatType": "UNITCOMBAT_ARMOR"
+    },
+    {
+        "Modifier": 33,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_AMBUSH_2",
+        "UnitCombatType": "UNITCOMBAT_ARMOR"
+    },
+    {
+        "Modifier": 33,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_AIR_AMBUSH_1",
+        "UnitCombatType": "UNITCOMBAT_ARMOR"
+    },
+    {
+        "Modifier": 33,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_AIR_AMBUSH_2",
+        "UnitCombatType": "UNITCOMBAT_ARMOR"
+    },
+    {
+        "Modifier": 25,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_HELI_AMBUSH_1",
+        "UnitCombatType": "UNITCOMBAT_ARMOR"
+    },
+    {
+        "Modifier": 25,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_HELI_AMBUSH_2",
+        "UnitCombatType": "UNITCOMBAT_ARMOR"
+    },
+    {
+        "Modifier": 50,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_MOUNTED_I",
+        "UnitCombatType": "UNITCOMBAT_MOUNTED"
+    },
+    {
+        "Modifier": 100,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_MOUNTED_II",
+        "UnitCombatType": "UNITCOMBAT_MOUNTED"
+    },
+    {
+        "Modifier": -33,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_MOUNTED_PENALTY",
+        "UnitCombatType": "UNITCOMBAT_MOUNTED"
+    },
+    {
+        "Modifier": 150,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_AIR",
+        "UnitCombatType": "UNITCOMBAT_FIGHTER"
+    },
+    {
+        "Modifier": 150,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_AIR",
+        "UnitCombatType": "UNITCOMBAT_BOMBER"
+    },
+    {
+        "Modifier": 150,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_AIR",
+        "UnitCombatType": "UNITCOMBAT_HELICOPTER"
+    },
+    {
+        "Modifier": 150,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_AIR_II",
+        "UnitCombatType": "UNITCOMBAT_BOMBER"
+    },
+    {
+        "Modifier": 150,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_AIR_II",
+        "UnitCombatType": "UNITCOMBAT_HELICOPTER"
+    },
+    {
+        "Modifier": 100,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_TANK",
+        "UnitCombatType": "UNITCOMBAT_ARMOR"
+    },
+    {
+        "Modifier": -50,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_NAVAL_PENALTY",
+        "UnitCombatType": "UNITCOMBAT_NAVALRANGED"
+    },
+    {
+        "Modifier": -50,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_NAVAL_PENALTY",
+        "UnitCombatType": "UNITCOMBAT_NAVALMELEE"
+    },
+    {
+        "Modifier": -50,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_NAVAL_PENALTY",
+        "UnitCombatType": "UNITCOMBAT_SUBMARINE"
+    },
+    {
+        "Modifier": -50,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_NAVAL_PENALTY",
+        "UnitCombatType": "UNITCOMBAT_CARRIER"
+    },
+    {
+        "Modifier": 50,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_NAVAL_BONUS",
+        "UnitCombatType": "UNITCOMBAT_NAVALRANGED"
+    },
+    {
+        "Modifier": 50,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_NAVAL_BONUS",
+        "UnitCombatType": "UNITCOMBAT_NAVALMELEE"
+    },
+    {
+        "Modifier": 25,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_GUNPOWDER",
+        "UnitCombatType": "UNITCOMBAT_GUN"
+    }
+]

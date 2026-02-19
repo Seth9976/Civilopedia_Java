@@ -1,0 +1,20 @@
+[
+    {
+        "Blurb": "LOC_DEFEAT_DEFAULT_TEXT",
+        "DefeatType": "DEFEAT_DEFAULT",
+        "EnabledByDefault": 1,
+        "Global": 0,
+        "Name": "LOC_DEFEAT_DEFAULT_NAME",
+        "OneMoreTurn": 0,
+        "RequirementSetId": "DEFAULT_DEFEAT_REQUIREMENTS"
+    },
+    {
+        "Blurb": "LOC_DEFEAT_TIME_TEXT",
+        "DefeatType": "DEFEAT_TIME",
+        "EnabledByDefault": 1,
+        "Global": 1,
+        "Name": "LOC_DEFEAT_TIME_NAME",
+        "OneMoreTurn": 0,
+        "RequirementSetId": "TIME_DEFEAT_REQUIREMENTS"
+    }
+]

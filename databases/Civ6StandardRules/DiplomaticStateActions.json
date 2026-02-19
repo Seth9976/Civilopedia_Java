@@ -1,0 +1,848 @@
+[
+    {
+        "AiAllowed": 1,
+        "Cost": -10,
+        "DiplomaticActionType": "DIPLOACTION_RESIDENT_EMBASSY",
+        "StateType": "DIPLO_STATE_ALLIED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 75
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_OPEN_BORDERS",
+        "StateType": "DIPLO_STATE_ALLIED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 70,
+        "DiplomaticActionType": "DIPLOACTION_REQUEST_ASSISTANCE",
+        "StateType": "DIPLO_STATE_ALLIED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": -50
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -10,
+        "DiplomaticActionType": "DIPLOACTION_DIPLOMATIC_DELEGATION",
+        "StateType": "DIPLO_STATE_ALLIED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 40
+    },
+    {
+        "AiAllowed": 0,
+        "Cost": -25,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_FRIENDSHIP",
+        "StateType": "DIPLO_STATE_ALLIED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 35
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_PROPOSE_TRADE",
+        "StateType": "DIPLO_STATE_ALLIED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 10,
+        "DiplomaticActionType": "DIPLOACTION_DEFENSIVE_PACT",
+        "StateType": "DIPLO_STATE_ALLIED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": -10
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_JOINT_WAR",
+        "StateType": "DIPLO_STATE_ALLIED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -40,
+        "DiplomaticActionType": "DIPLOACTION_RESEARCH_AGREEMENT",
+        "StateType": "DIPLO_STATE_ALLIED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 40
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -30,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_SPY",
+        "StateType": "DIPLO_STATE_ALLIED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -5,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_CONVERT",
+        "StateType": "DIPLO_STATE_ALLIED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -10,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS",
+        "StateType": "DIPLO_STATE_ALLIED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -50,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR",
+        "StateType": "DIPLO_STATE_ALLIED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -10,
+        "DiplomaticActionType": "DIPLOACTION_ALLIANCE",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": "DIPLO_STATE_ALLIED",
+        "Worth": -10
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -10,
+        "DiplomaticActionType": "DIPLOACTION_RESIDENT_EMBASSY",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 75
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_OPEN_BORDERS",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 20
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 80,
+        "DiplomaticActionType": "DIPLOACTION_REQUEST_ASSISTANCE",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": -70
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -10,
+        "DiplomaticActionType": "DIPLOACTION_DIPLOMATIC_DELEGATION",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 40
+    },
+    {
+        "AiAllowed": 0,
+        "Cost": -15,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_FRIENDSHIP",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 25
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_PROPOSE_TRADE",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 20,
+        "DiplomaticActionType": "DIPLOACTION_DEFENSIVE_PACT",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": -20
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_JOINT_WAR",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -20,
+        "DiplomaticActionType": "DIPLOACTION_RESEARCH_AGREEMENT",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 20
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -30,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_SPY",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_CONVERT",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -5,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -30,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR",
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 10,
+        "DiplomaticActionType": "DIPLOACTION_RESIDENT_EMBASSY",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 50
+    },
+    {
+        "AiAllowed": 0,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DEMAND_TRIBUTE",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_OPEN_BORDERS",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 10
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 90,
+        "DiplomaticActionType": "DIPLOACTION_REQUEST_ASSISTANCE",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": -90
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_SURPRISE_WAR",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 5,
+        "DiplomaticActionType": "DIPLOACTION_DIPLOMATIC_DELEGATION",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 25
+    },
+    {
+        "AiAllowed": 0,
+        "Cost": -15,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_FRIENDSHIP",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 15
+    },
+    {
+        "AiAllowed": 0,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DENOUNCE",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_PROPOSE_TRADE",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_JOINT_WAR",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_SPY",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_CONVERT",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": -10,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR",
+        "StateType": "DIPLO_STATE_FRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 15,
+        "DiplomaticActionType": "DIPLOACTION_RESIDENT_EMBASSY",
+        "StateType": "DIPLO_STATE_NEUTRAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 25
+    },
+    {
+        "AiAllowed": 0,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DEMAND_TRIBUTE",
+        "StateType": "DIPLO_STATE_NEUTRAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 0,
+        "Cost": 10,
+        "DiplomaticActionType": "DIPLOACTION_OPEN_BORDERS",
+        "StateType": "DIPLO_STATE_NEUTRAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_SURPRISE_WAR",
+        "StateType": "DIPLO_STATE_NEUTRAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 10,
+        "DiplomaticActionType": "DIPLOACTION_DIPLOMATIC_DELEGATION",
+        "StateType": "DIPLO_STATE_NEUTRAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 15
+    },
+    {
+        "AiAllowed": 0,
+        "Cost": 10,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_FRIENDSHIP",
+        "StateType": "DIPLO_STATE_NEUTRAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": -10
+    },
+    {
+        "AiAllowed": 0,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DENOUNCE",
+        "StateType": "DIPLO_STATE_NEUTRAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_PROPOSE_TRADE",
+        "StateType": "DIPLO_STATE_NEUTRAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_JOINT_WAR",
+        "StateType": "DIPLO_STATE_NEUTRAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_SPY",
+        "StateType": "DIPLO_STATE_NEUTRAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_CONVERT",
+        "StateType": "DIPLO_STATE_NEUTRAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS",
+        "StateType": "DIPLO_STATE_NEUTRAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR",
+        "StateType": "DIPLO_STATE_NEUTRAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 100,
+        "DiplomaticActionType": "DIPLOACTION_RESIDENT_EMBASSY",
+        "StateType": "DIPLO_STATE_UNFRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DEMAND_TRIBUTE",
+        "StateType": "DIPLO_STATE_UNFRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 5
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_SURPRISE_WAR",
+        "StateType": "DIPLO_STATE_UNFRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 75,
+        "DiplomaticActionType": "DIPLOACTION_DIPLOMATIC_DELEGATION",
+        "StateType": "DIPLO_STATE_UNFRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 0,
+        "Cost": 40,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_FRIENDSHIP",
+        "StateType": "DIPLO_STATE_UNFRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": -40
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DENOUNCE",
+        "StateType": "DIPLO_STATE_UNFRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": "DIPLO_STATE_DENOUNCED",
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 0,
+        "Cost": 10,
+        "DiplomaticActionType": "DIPLOACTION_OPEN_BORDERS",
+        "StateType": "DIPLO_STATE_UNFRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_PROPOSE_TRADE",
+        "StateType": "DIPLO_STATE_UNFRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_JOINT_WAR",
+        "StateType": "DIPLO_STATE_UNFRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 5,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_SPY",
+        "StateType": "DIPLO_STATE_UNFRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 5,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_CONVERT",
+        "StateType": "DIPLO_STATE_UNFRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 5,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS",
+        "StateType": "DIPLO_STATE_UNFRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 10,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR",
+        "StateType": "DIPLO_STATE_UNFRIENDLY",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DEMAND_TRIBUTE",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 30
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 100,
+        "DiplomaticActionType": "DIPLOACTION_PROPOSE_TRADE",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": -50
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_SURPRISE_WAR",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_FORMAL_WAR",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_HOLY_WAR",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_LIBERATION_WAR",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_RECONQUEST_WAR",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_PROTECTORATE_WAR",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_COLONIAL_WAR",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_TERRITORIAL_WAR",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 20,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_SPY",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 20,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_CONVERT",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 20,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 50,
+        "DiplomaticActionType": "DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR",
+        "StateType": "DIPLO_STATE_DENOUNCED",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_MAKE_PEACE",
+        "StateType": "DIPLO_STATE_WAR",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_PROPOSE_PEACE_DEAL",
+        "StateType": "DIPLO_STATE_WAR",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_GRANT_INFLUENCE_TOKEN",
+        "StateType": "DIPLO_STATE_NO_INFLUENCE",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_WAR_MINOR_CIV",
+        "StateType": "DIPLO_STATE_NO_INFLUENCE",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_GRANT_INFLUENCE_TOKEN",
+        "StateType": "DIPLO_STATE_INFLUENTIAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_WAR_MINOR_CIV",
+        "StateType": "DIPLO_STATE_INFLUENTIAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_GIFT_UNIT",
+        "StateType": "DIPLO_STATE_INFLUENTIAL",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_GRANT_INFLUENCE_TOKEN",
+        "StateType": "DIPLO_STATE_MAX_INFLUENCE",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_WAR_MINOR_CIV",
+        "StateType": "DIPLO_STATE_MAX_INFLUENCE",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_GIFT_UNIT",
+        "StateType": "DIPLO_STATE_MAX_INFLUENCE",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_MILITARY_REQUEST",
+        "StateType": "DIPLO_STATE_MAX_INFLUENCE",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_MAKE_PEACE",
+        "StateType": "DIPLO_STATE_WAR_WITH_MINOR",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    },
+    {
+        "AiAllowed": 1,
+        "Cost": 0,
+        "DiplomaticActionType": "DIPLOACTION_GRANT_INFLUENCE_TOKEN",
+        "StateType": "DIPLO_STATE_WAR_WITH_MINOR",
+        "TeamOnly": 0,
+        "TransitionToState": null,
+        "Worth": 0
+    }
+]

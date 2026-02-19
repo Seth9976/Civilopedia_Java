@@ -1,0 +1,47 @@
+[
+    {
+        "CivicUnlockMaxCost": 300,
+        "CivicUnlockMinCost": 60,
+        "CivicUnlockPerTurnDrop": 30,
+        "CostMultiplier": 300,
+        "Description": "LOC_GAMESPEED_MARATHON_HELP",
+        "GameSpeedType": "GAMESPEED_MARATHON",
+        "Name": "LOC_GAMESPEED_MARATHON_NAME"
+    },
+    {
+        "CivicUnlockMaxCost": 150,
+        "CivicUnlockMinCost": 30,
+        "CivicUnlockPerTurnDrop": 15,
+        "CostMultiplier": 150,
+        "Description": "LOC_GAMESPEED_EPIC_HELP",
+        "GameSpeedType": "GAMESPEED_EPIC",
+        "Name": "LOC_GAMESPEED_EPIC_NAME"
+    },
+    {
+        "CivicUnlockMaxCost": 100,
+        "CivicUnlockMinCost": 20,
+        "CivicUnlockPerTurnDrop": 10,
+        "CostMultiplier": 100,
+        "Description": "LOC_GAMESPEED_STANDARD_HELP",
+        "GameSpeedType": "GAMESPEED_STANDARD",
+        "Name": "LOC_GAMESPEED_STANDARD_NAME"
+    },
+    {
+        "CivicUnlockMaxCost": 75,
+        "CivicUnlockMinCost": 15,
+        "CivicUnlockPerTurnDrop": 10,
+        "CostMultiplier": 67,
+        "Description": "LOC_GAMESPEED_QUICK_HELP",
+        "GameSpeedType": "GAMESPEED_QUICK",
+        "Name": "LOC_GAMESPEED_QUICK_NAME"
+    },
+    {
+        "CivicUnlockMaxCost": 50,
+        "CivicUnlockMinCost": 10,
+        "CivicUnlockPerTurnDrop": 5,
+        "CostMultiplier": 50,
+        "Description": "LOC_GAMESPEED_ONLINE_HELP",
+        "GameSpeedType": "GAMESPEED_ONLINE",
+        "Name": "LOC_GAMESPEED_ONLINE_NAME"
+    }
+]

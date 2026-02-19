@@ -1,0 +1,98 @@
+[
+    {
+        "BeliefType": "BELIEF_FORMAL_LITURGY",
+        "ResourceType": "RESOURCE_GOLD",
+        "Yield": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BeliefType": "BELIEF_FORMAL_LITURGY",
+        "ResourceType": "RESOURCE_GOLD",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BeliefType": "BELIEF_FORMAL_LITURGY",
+        "ResourceType": "RESOURCE_SILVER",
+        "Yield": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BeliefType": "BELIEF_FORMAL_LITURGY",
+        "ResourceType": "RESOURCE_SILVER",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BeliefType": "BELIEF_GOD_FESTIVALS",
+        "ResourceType": "RESOURCE_WINE",
+        "Yield": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BeliefType": "BELIEF_GOD_FESTIVALS",
+        "ResourceType": "RESOURCE_WINE",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BeliefType": "BELIEF_GOD_FESTIVALS",
+        "ResourceType": "RESOURCE_INCENSE",
+        "Yield": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BeliefType": "BELIEF_GOD_FESTIVALS",
+        "ResourceType": "RESOURCE_INCENSE",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BeliefType": "BELIEF_TEARS_OF_GODS",
+        "ResourceType": "RESOURCE_PEARLS",
+        "Yield": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BeliefType": "BELIEF_TEARS_OF_GODS",
+        "ResourceType": "RESOURCE_GEMS",
+        "Yield": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BeliefType": "BELIEF_EARTH_MOTHER",
+        "ResourceType": "RESOURCE_COPPER",
+        "Yield": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BeliefType": "BELIEF_EARTH_MOTHER",
+        "ResourceType": "RESOURCE_IRON",
+        "Yield": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BeliefType": "BELIEF_EARTH_MOTHER",
+        "ResourceType": "RESOURCE_SALT",
+        "Yield": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BeliefType": "BELIEF_SUN_GOD",
+        "ResourceType": "RESOURCE_BANANA",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BeliefType": "BELIEF_SUN_GOD",
+        "ResourceType": "RESOURCE_CITRUS",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BeliefType": "BELIEF_SUN_GOD",
+        "ResourceType": "RESOURCE_WHEAT",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    }
+]

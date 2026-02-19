@@ -1,0 +1,125 @@
+[
+    {
+        "Type": "DECLARE_FRIEND"
+    },
+    {
+        "Type": "DECLARE_SURPRISE_WAR"
+    },
+    {
+        "Type": "DECLARE_FORMAL_WAR"
+    },
+    {
+        "Type": "DECLARE_HOLY_WAR"
+    },
+    {
+        "Type": "DECLARE_RECONQUEST_WAR"
+    },
+    {
+        "Type": "DECLARE_LIBERATION_WAR"
+    },
+    {
+        "Type": "DECLARE_PROTECTORATE_WAR"
+    },
+    {
+        "Type": "DECLARE_COLONIAL_WAR"
+    },
+    {
+        "Type": "DECLARE_TERRITORIAL_WAR"
+    },
+    {
+        "Type": "DECLARE_JOINT_FORMAL_WAR"
+    },
+    {
+        "Type": "DECLARE_JOINT_HOLY_WAR"
+    },
+    {
+        "Type": "DECLARE_JOINT_RECONQUEST_WAR"
+    },
+    {
+        "Type": "DECLARE_JOINT_LIBERATION_WAR"
+    },
+    {
+        "Type": "DECLARE_JOINT_PROTECTORATE_WAR"
+    },
+    {
+        "Type": "DECLARE_JOINT_COLONIAL_WAR"
+    },
+    {
+        "Type": "DECLARE_JOINT_TERRITORIAL_WAR"
+    },
+    {
+        "Type": "DEFEAT"
+    },
+    {
+        "Type": "DIPLOMATIC_DELEGATION"
+    },
+    {
+        "Type": "DENOUNCE"
+    },
+    {
+        "Type": "RESIDENT_EMBASSY"
+    },
+    {
+        "Type": "FIRST_MEET_NEAR_RECIPIENT"
+    },
+    {
+        "Type": "FIRST_MEET_VISIT_RECIPIENT"
+    },
+    {
+        "Type": "FIRST_MEET_NEAR_INITIATOR"
+    },
+    {
+        "Type": "FIRST_MEET_NO_MANS"
+    },
+    {
+        "Type": "FIRST_MEET_NO_MANS_INFO_EXCHANGE"
+    },
+    {
+        "Type": "GREETING"
+    },
+    {
+        "Type": "DIPLOMATIC_KUDO"
+    },
+    {
+        "Type": "DIPLOMATIC_WARNING"
+    },
+    {
+        "Type": "DIPLOMATIC_HIDDEN_AGENDA_KUDO"
+    },
+    {
+        "Type": "DIPLOMATIC_HIDDEN_AGENDA_WARNING"
+    },
+    {
+        "Type": "MAKE_ALLIANCE"
+    },
+    {
+        "Type": "MAKE_DEAL"
+    },
+    {
+        "Type": "MAKE_DEMAND"
+    },
+    {
+        "Type": "MAKE_PEACE"
+    },
+    {
+        "Type": "NO_TARGET"
+    },
+    {
+        "Type": "OPEN_BORDERS"
+    },
+    {
+        "Type": "WARNING_DONT_SETTLE_NEAR_ME"
+    },
+    {
+        "Type": "WARNING_TOO_MANY_TROOPS_NEAR_ME"
+    },
+    {
+        "Type": "WARNING_STOP_SPYING_ON_ME"
+    },
+    {
+        "Type": "WARNING_STOP_DIGGING_UP_ARTIFACTS"
+    },
+    {
+        "Type": "WARNING_STOP_CONVERTING_MY_CITIES"
+    }
+]

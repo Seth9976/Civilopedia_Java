@@ -1,0 +1,18 @@
+[
+    {
+        "ID": -1,
+        "Type": "NO_CIVILIAN_ATTACK_PRIORITY"
+    },
+    {
+        "ID": 0,
+        "Type": "CIVILIAN_ATTACK_PRIORITY_HIGH"
+    },
+    {
+        "ID": 1,
+        "Type": "CIVILIAN_ATTACK_PRIORITY_HIGH_EARLY_GAME_ONLY"
+    },
+    {
+        "ID": 2,
+        "Type": "CIVILIAN_ATTACK_PRIORITY_LOW"
+    }
+]

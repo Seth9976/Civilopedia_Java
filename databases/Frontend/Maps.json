@@ -1,0 +1,102 @@
+[
+    {
+        "Description": "LOC_MAP_CONTINENTS_VORONOI_DESCRIPTION",
+        "Domain": "StandardMaps",
+        "File": "{base-standard}maps/continents-voronoi.js",
+        "Image": null,
+        "Name": "LOC_MAP_CONTINENTS_VORONOI_NAME",
+        "SortIndex": 0,
+        "StaticMap": 0,
+        "WorldBuilderOnly": 0
+    },
+    {
+        "Description": "LOC_MAP_PANGAEA_VORONOI_DESCRIPTION",
+        "Domain": "StandardMaps",
+        "File": "{base-standard}maps/pangaea-voronoi.js",
+        "Image": null,
+        "Name": "LOC_MAP_PANGAEA_VORONOI_NAME",
+        "SortIndex": 1,
+        "StaticMap": 0,
+        "WorldBuilderOnly": 0
+    },
+    {
+        "Description": "LOC_MAP_SHATTERED_SEAS_DESCRIPTION",
+        "Domain": "StandardMaps",
+        "File": "{base-standard}maps/shattered-seas-voronoi.js",
+        "Image": null,
+        "Name": "LOC_MAP_SHATTERED_SEAS_NAME",
+        "SortIndex": 2,
+        "StaticMap": 0,
+        "WorldBuilderOnly": 0
+    },
+    {
+        "Description": "LOC_MAP_CONTINENTS_PLUS_DESCRIPTION",
+        "Domain": "StandardMaps",
+        "File": "{base-standard}maps/continents-plus.js",
+        "Image": null,
+        "Name": "LOC_MAP_CONTINENTS_PLUS_NAME",
+        "SortIndex": 10,
+        "StaticMap": 0,
+        "WorldBuilderOnly": 0
+    },
+    {
+        "Description": "LOC_MAP_CONTINENTS_DESCRIPTION",
+        "Domain": "StandardMaps",
+        "File": "{base-standard}maps/continents.js",
+        "Image": null,
+        "Name": "LOC_MAP_CONTINENTS_NAME",
+        "SortIndex": 20,
+        "StaticMap": 0,
+        "WorldBuilderOnly": 0
+    },
+    {
+        "Description": "LOC_MAP_ARCHIPELAGO_DESCRIPTION",
+        "Domain": "StandardMaps",
+        "File": "{base-standard}maps/archipelago.js",
+        "Image": null,
+        "Name": "LOC_MAP_ARCHIPELAGO_NAME",
+        "SortIndex": 30,
+        "StaticMap": 0,
+        "WorldBuilderOnly": 0
+    },
+    {
+        "Description": "LOC_MAP_FRACTAL_DESCRIPTION",
+        "Domain": "StandardMaps",
+        "File": "{base-standard}maps/fractal.js",
+        "Image": null,
+        "Name": "LOC_MAP_FRACTAL_NAME",
+        "SortIndex": 40,
+        "StaticMap": 0,
+        "WorldBuilderOnly": 0
+    },
+    {
+        "Description": "LOC_MAP_SHUFFLE_DESCRIPTION",
+        "Domain": "StandardMaps",
+        "File": "{base-standard}maps/shuffle.js",
+        "Image": null,
+        "Name": "LOC_MAP_SHUFFLE_NAME",
+        "SortIndex": 50,
+        "StaticMap": 0,
+        "WorldBuilderOnly": 0
+    },
+    {
+        "Description": "LOC_MAP_TERRA_INCOGNITA_DESCRIPTION",
+        "Domain": "StandardMaps",
+        "File": "{base-standard}maps/terra-incognita.js",
+        "Image": null,
+        "Name": "LOC_MAP_TERRA_INCOGNITA_NAME",
+        "SortIndex": 60,
+        "StaticMap": 0,
+        "WorldBuilderOnly": 0
+    },
+    {
+        "Description": "LOC_MAP_PANGAEA_PLUS_DESCRIPTION",
+        "Domain": "StandardMaps",
+        "File": "{base-standard}maps/pangaea-plus.js",
+        "Image": null,
+        "Name": "LOC_MAP_PANGAEA_PLUS_NAME",
+        "SortIndex": 70,
+        "StaticMap": 0,
+        "WorldBuilderOnly": 0
+    }
+]

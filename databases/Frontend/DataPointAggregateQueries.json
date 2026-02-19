@@ -1,0 +1,66 @@
+[
+    {
+        "Query": "ObjectDataSet_Values",
+        "SQL": "WITH RECURSIVE range(X,MaxX) AS (SELECT MIN(X),MAX(X) FROM DataSetValues WHERE DataSetID = (SELECT DataSetID FROM DataSets WHERE DataSet = @DataPoint and ObjectID = @ObjectID) UNION ALL SELECT X+1,MaxX FROM range WHERE X < MaxX) SELECT (SELECT Y FROM DataSetValues WHERE DataSetID = (SELECT DataSetID FROM DataSets WHERE DataSet = @DataPoint and ObjectID = @ObjectID) AND X <= range.X ORDER BY X DESC LIMIT 1) AS ValueNumeric FROM range WHERE ValueNumeric IS NOT NULL"
+    },
+    {
+        "Query": "ObjectDataSet_LastValue",
+        "SQL": "select Y as ValueNumeric from DataSetValues where DataSetID = (select DataSetID from DataSets where DataSet = @DataPoint and ObjectID = @ObjectID) AND Y IS NOT NULL order by X DESC LIMIT 1"
+    },
+    {
+        "Query": "PlayerDataSet_Values",
+        "SQL": "WITH RECURSIVE range(X,MaxX) AS (SELECT MIN(X),MAX(X) FROM DataSetValues WHERE DataSetID = (SELECT DataSetID FROM DataSets INNER JOIN GameObjects ON GameObjects.ObjectID = DataSets.ObjectID WHERE DataSet = @DataPoint and (GameObjects.ObjectID = @ObjectID or PlayerObjectID = @ObjectID)) UNION ALL SELECT X+1,MaxX FROM range WHERE X < MaxX) SELECT (SELECT Y FROM DataSetValues WHERE DataSetID = (SELECT DataSetID FROM DataSets INNER JOIN GameObjects ON GameObjects.ObjectID = DataSets.ObjectID WHERE DataSet = @DataPoint and (GameObjects.ObjectID = @ObjectID or PlayerObjectID = @ObjectID)) AND X <= range.X ORDER BY X DESC LIMIT 1) AS ValueNumeric FROM range WHERE ValueNumeric IS NOT NULL"
+    },
+    {
+        "Query": "PlayerDataSet_LastValue",
+        "SQL": "select Y as ValueNumeric from DataSetValues where DataSetID = (select DataSetID from DataSets inner join GameObjects on GameObjects.ObjectID = DataSets.ObjectID where DataSet = @DataPoint and (GameObjects.ObjectID = @ObjectID or PlayerObjectID = @ObjectID)) AND Y IS NOT NULL order by X DESC LIMIT 1"
+    },
+    {
+        "Query": "GameDataSet_Values",
+        "SQL": "WITH RECURSIVE range(X,MaxX) AS (SELECT MIN(X),MAX(X) FROM DataSetValues WHERE DataSetID = (SELECT DataSetID FROM DataSets WHERE DataSet = @DataPoint AND GameID = @GameID) UNION ALL SELECT X+1,MaxX FROM range WHERE X < MaxX) SELECT (SELECT Y FROM DataSetValues WHERE DataSetID = (SELECT DataSetID FROM DataSets WHERE DataSet = @DataPoint AND GameID = @GameID) AND X <= range.X ORDER BY X DESC LIMIT 1) AS ValueNumeric FROM range WHERE ValueNumeric IS NOT NULL"
+    },
+    {
+        "Query": "GameDataSet_LastValue",
+        "SQL": "select Y as ValueNumeric from DataSetValues where DataSetID = (select DataSetID from DataSets where DataSet = @DataPoint and GameID = @GameID) AND Y IS NOT NULL order by X DESC LIMIT 1"
+    },
+    {
+        "Query": "RulesetDataSet_Values",
+        "SQL": "WITH RECURSIVE range(X,MaxX) AS (SELECT MIN(X),MAX(X) FROM DataSetValues WHERE DataSetID = (SELECT DataSetID FROM DataSets WHERE DataSet = @DataPoint AND Ruleset = @Ruleset) UNION ALL SELECT X+1,MaxX FROM range WHERE X < MaxX) SELECT (SELECT Y FROM DataSetValues WHERE DataSetID = (SELECT DataSetID FROM DataSets WHERE DataSet = @DataPoint AND Ruleset = @Ruleset) AND X <= range.X ORDER BY X DESC LIMIT 1) AS ValueNumeric FROM range WHERE ValueNumeric IS NOT NULL"
+    },
+    {
+        "Query": "RulesetDataSet_LastValue",
+        "SQL": "select Y as ValueNumeric from DataSetValues where DataSetID = (select DataSetID from DataSets where DataSet = @DataPoint and Ruleset = @Ruleset) AND Y IS NOT NULL order by X DESC LIMIT 1"
+    },
+    {
+        "Query": "ObjectDataPoints",
+        "SQL": "select odpv.Type, ValueNumeric, ValueString, coalesce(ValueObjectID, odpv.ObjectID) as ValueObjectID from ObjectDataPointValues odpv inner join GameObjects gobj using (ObjectID) inner join Games using (GameID) where DataPoint = @DataPoint and (@ObjectID is null or ObjectID = @ObjectID) and (@GameID is null or GameID = @GameID) and (@Ruleset is null or Ruleset = @Ruleset)"
+    },
+    {
+        "Query": "ObjectDataPoints_ByType",
+        "SQL": "select odpv.Type, ValueNumeric, ValueString, coalesce(ValueObjectID, odpv.ObjectID) as ValueObjectID from ObjectDataPointValues odpv inner join GameObjects gobj using (ObjectID) inner join Games using (GameID) where DataPoint = @DataPoint and (@ObjectID is null or ObjectID = @ObjectID) and (@GameID is null or GameID = @GameID) and (@Ruleset is null or Ruleset = @Ruleset) and gobj.Type = @ExtraData"
+    },
+    {
+        "Query": "ObjectDataPoints_Players",
+        "SQL": "select odpv.Type, ValueNumeric, ValueString, coalesce(ValueObjectID, odpv.ObjectID) as ValueObjectID from ObjectDataPointValues odpv inner join GameObjects gobj using (ObjectID) inner join Games using (GameID) where DataPoint = @DataPoint and (@ObjectID is null or ObjectID = @ObjectID) and (@GameID is null or GameID = @GameID) and (@Ruleset is null or Ruleset = @Ruleset) and gobj.Type = \"Player\""
+    },
+    {
+        "Query": "ObjectDataPoints_Players_NoCoalesce",
+        "SQL": "select odpv.Type, ValueNumeric, ValueString, ValueObjectID from ObjectDataPointValues odpv inner join GameObjects gobj using (ObjectID) inner join Games using (GameID) where DataPoint = @DataPoint and (@ObjectID is null or ObjectID = @ObjectID) and (@GameID is null or GameID = @GameID) and (@Ruleset is null or Ruleset = @Ruleset) and gobj.Type = \"Player\""
+    },
+    {
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "SQL": "select odpv.Type, ValueNumeric, ValueString, coalesce(ValueObjectID, odpv.ObjectID) as ValueObjectID from ObjectDataPointValues odpv inner join GameObjects gobj using (ObjectID) inner join Games using (GameID) inner join GamePlayers on gobj.ObjectID = GamePlayers.PlayerObjectID where DataPoint = @DataPoint and (@ObjectID is null or ObjectID = @ObjectID) and (@GameID is null or GameID = @GameID) and (@Ruleset is null or Ruleset = @Ruleset) and gobj.Type = \"Player\" and GamePlayers.IsLocal = 1"
+    },
+    {
+        "Query": "ObjectDataPoints_LocalPlayers_NoCoalesce",
+        "SQL": "select odpv.Type, ValueNumeric, ValueString, ValueObjectID from ObjectDataPointValues odpv inner join GameObjects gobj using (ObjectID) inner join Games using (GameID) inner join GamePlayers on gobj.ObjectID = GamePlayers.PlayerObjectID where DataPoint = @DataPoint and (@ObjectID is null or ObjectID = @ObjectID) and (@GameID is null or GameID = @GameID) and (@Ruleset is null or Ruleset = @Ruleset) and gobj.Type = \"Player\" and GamePlayers.IsLocal = 1"
+    },
+    {
+        "Query": "ObjectDataPoints_PlayerObjects_ByType",
+        "SQL": "select odpv.Type, ValueNumeric, ValueString, coalesce(ValueObjectID, odpv.ObjectID) as ValueObjectID from ObjectDataPointValues odpv inner join GameObjects gobj using (ObjectID) inner join Games using (GameID) where DataPoint = @DataPoint and PlayerObjectID is not null and (@ObjectID is null or PlayerObjectID = @ObjectID) and (@GameID is null or GameID = @GameID) and (@Ruleset is null or Ruleset = @Ruleset) and gobj.Type = @ExtraData"
+    },
+    {
+        "Query": "ObjectDataPoints_LocalPlayerObjects_ByType",
+        "SQL": "select odpv.Type, ValueNumeric, ValueString, coalesce(ValueObjectID, odpv.ObjectID) as ValueObjectID from ObjectDataPointValues odpv inner join GameObjects gobj using (ObjectID) inner join Games using (GameID) inner join GamePlayers using (PlayerObjectID) where DataPoint = @DataPoint and PlayerObjectID is not null and (@ObjectID is null or PlayerObjectID = @ObjectID) and (@GameID is null or GameID = @GameID) and (@Ruleset is null or Ruleset = @Ruleset) and gobj.Type = @ExtraData and GamePlayers.IsLocal = 1"
+    }
+]

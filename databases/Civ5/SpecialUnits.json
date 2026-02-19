@@ -1,0 +1,30 @@
+[
+    {
+        "CityLoad": 1,
+        "Description": "TXT_KEY_SPECIALUNIT_FIGHTER",
+        "ID": 0,
+        "Type": "SPECIALUNIT_FIGHTER",
+        "Valid": 1
+    },
+    {
+        "CityLoad": 0,
+        "Description": "TXT_KEY_SPECIALUNIT_PEOPLE",
+        "ID": 1,
+        "Type": "SPECIALUNIT_PEOPLE",
+        "Valid": 1
+    },
+    {
+        "CityLoad": 1,
+        "Description": "TXT_KEY_SPECIALUNIT_MISSILE",
+        "ID": 2,
+        "Type": "SPECIALUNIT_MISSILE",
+        "Valid": 1
+    },
+    {
+        "CityLoad": 1,
+        "Description": "TXT_KEY_SPECIALUNIT_FIGHTER",
+        "ID": 3,
+        "Type": "SPECIALUNIT_STEALTH",
+        "Valid": 1
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "CombatTag": "UNIT_CLASS_NAVAL",
+        "TribeTagSet": "DEFAULT_SCOUT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_NO_INDEPENDENTS",
+        "TribeTagSet": "DEFAULT_SCOUT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_NAVAL",
+        "TribeTagSet": "DEFAULT_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_NO_INDEPENDENTS",
+        "TribeTagSet": "DEFAULT_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_NAVAL",
+        "TribeTagSet": "DEFAULT_DEFENDER_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_NO_INDEPENDENTS",
+        "TribeTagSet": "DEFAULT_DEFENDER_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_NAVAL",
+        "TribeTagSet": "DEFAULT_COMMANDER_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_NO_INDEPENDENTS",
+        "TribeTagSet": "DEFAULT_COMMANDER_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_NO_INDEPENDENTS",
+        "TribeTagSet": "NAVAL_COMMANDER_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_NAVAL",
+        "TribeTagSet": "NAVAL_LAND_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_NO_INDEPENDENTS",
+        "TribeTagSet": "NAVAL_LAND_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_NAVAL",
+        "TribeTagSet": "CRISIS_COMBAT_UNITS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_NO_INDEPENDENTS",
+        "TribeTagSet": "CRISIS_COMBAT_UNITS"
+    }
+]

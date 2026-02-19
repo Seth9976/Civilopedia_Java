@@ -1,0 +1,47 @@
+[
+    {
+        "CoreClass": "CORE_CLASS_RECON",
+        "Domain": "DOMAIN_LAND",
+        "Tag": "UNIT_CLASS_RECON"
+    },
+    {
+        "CoreClass": "CORE_CLASS_SUPPORT",
+        "Domain": "DOMAIN_LAND",
+        "Tag": "UNIT_CLASS_CREATE_TOWN"
+    },
+    {
+        "CoreClass": "CORE_CLASS_CIVILIAN",
+        "Domain": "DOMAIN_LAND",
+        "Tag": "UNIT_CLASS_MIGRANT"
+    },
+    {
+        "CoreClass": "CORE_CLASS_CIVILIAN",
+        "Domain": "DOMAIN_LAND",
+        "Tag": "UNIT_CLASS_MAKE_TRADE_ROUTE"
+    },
+    {
+        "CoreClass": "CORE_CLASS_MILITARY",
+        "Domain": "DOMAIN_LAND",
+        "Tag": "UNIT_CLASS_INFANTRY"
+    },
+    {
+        "CoreClass": "CORE_CLASS_MILITARY",
+        "Domain": "DOMAIN_LAND",
+        "Tag": "UNIT_CLASS_RANGED"
+    },
+    {
+        "CoreClass": "CORE_CLASS_MILITARY",
+        "Domain": "DOMAIN_LAND",
+        "Tag": "UNIT_CLASS_CAVALRY"
+    },
+    {
+        "CoreClass": "CORE_CLASS_MILITARY",
+        "Domain": "DOMAIN_LAND",
+        "Tag": "UNIT_CLASS_SIEGE"
+    },
+    {
+        "CoreClass": "CORE_CLASS_MILITARY",
+        "Domain": "DOMAIN_SEA",
+        "Tag": "UNIT_CLASS_NAVAL"
+    }
+]

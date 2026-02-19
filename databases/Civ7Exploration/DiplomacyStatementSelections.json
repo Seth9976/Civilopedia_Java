@@ -1,0 +1,32 @@
+[
+    {
+        "Key": "CHOICE_ACKNOWLEDGE",
+        "Sort": 0.0,
+        "Text": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_CHOICE_ACKNOWLEDGE",
+        "Type": "CHOICES_FIRST_MEET_NEAR_INITIATOR"
+    },
+    {
+        "Key": "CHOICE_ACKNOWLEDGE",
+        "Sort": 0.0,
+        "Text": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_CHOICE_ACKNOWLEDGE",
+        "Type": "CHOICES_FIRST_MEET_NEAR_RECIPIENT"
+    },
+    {
+        "Key": "CHOICE_ACKNOWLEDGE",
+        "Sort": 0.0,
+        "Text": "LOC_DIPLO_FIRST_MEET_NO_MANS_CHOICE_ACKNOWLEDGE",
+        "Type": "CHOICES_FIRST_MEET_NO_MANS"
+    },
+    {
+        "Key": "CHOICE_EXIT",
+        "Sort": 0.0,
+        "Text": "LOC_DIPLO_DECLARE_WAR_CHOICE_EXIT",
+        "Type": "CHOICES_DECLARE_WAR"
+    },
+    {
+        "Key": "CHOICE_EXIT",
+        "Sort": 0.0,
+        "Text": "LOC_DIPLO_DECLARE_WAR_CHOICE_EXIT",
+        "Type": "CHOICES_DEFEAT"
+    }
+]

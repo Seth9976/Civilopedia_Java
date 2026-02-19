@@ -1,0 +1,22 @@
+[
+    {
+        "DiplomaticStateType": "DIPLO_STATE_NEUTRAL",
+        "OpponentCivLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "PlayerCivLevel": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "DiplomaticStateType": "DIPLO_STATE_NO_INFLUENCE",
+        "OpponentCivLevel": "CIVILIZATION_LEVEL_CITY_STATE",
+        "PlayerCivLevel": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "DiplomaticStateType": "DIPLO_STATE_AWARE",
+        "OpponentCivLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "PlayerCivLevel": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "DiplomaticStateType": "DIPLO_STATE_MINOR_MINOR",
+        "OpponentCivLevel": "CIVILIZATION_LEVEL_CITY_STATE",
+        "PlayerCivLevel": "CIVILIZATION_LEVEL_CITY_STATE"
+    }
+]

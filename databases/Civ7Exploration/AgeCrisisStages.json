@@ -1,0 +1,98 @@
+[
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_REVOLUTION",
+        "AgeProgressEndPercent": 80,
+        "AgeProgressTriggerPercent": 70,
+        "FinalStage": 0,
+        "MinDuration": 5,
+        "Stage": 1
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_REVOLUTION",
+        "AgeProgressEndPercent": 90,
+        "AgeProgressTriggerPercent": 80,
+        "FinalStage": 0,
+        "MinDuration": 5,
+        "Stage": 2
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_REVOLUTION",
+        "AgeProgressEndPercent": 100,
+        "AgeProgressTriggerPercent": 90,
+        "FinalStage": 0,
+        "MinDuration": 5,
+        "Stage": 3
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_REVOLUTION",
+        "AgeProgressEndPercent": 100,
+        "AgeProgressTriggerPercent": 100,
+        "FinalStage": 1,
+        "MinDuration": 5,
+        "Stage": 4
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_RELIGION",
+        "AgeProgressEndPercent": 80,
+        "AgeProgressTriggerPercent": 70,
+        "FinalStage": 0,
+        "MinDuration": 5,
+        "Stage": 1
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_RELIGION",
+        "AgeProgressEndPercent": 90,
+        "AgeProgressTriggerPercent": 80,
+        "FinalStage": 0,
+        "MinDuration": 5,
+        "Stage": 2
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_RELIGION",
+        "AgeProgressEndPercent": 100,
+        "AgeProgressTriggerPercent": 90,
+        "FinalStage": 0,
+        "MinDuration": 5,
+        "Stage": 3
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_RELIGION",
+        "AgeProgressEndPercent": 100,
+        "AgeProgressTriggerPercent": 100,
+        "FinalStage": 1,
+        "MinDuration": 5,
+        "Stage": 4
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_PLAGUE",
+        "AgeProgressEndPercent": 80,
+        "AgeProgressTriggerPercent": 70,
+        "FinalStage": 0,
+        "MinDuration": 5,
+        "Stage": 1
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_PLAGUE",
+        "AgeProgressEndPercent": 90,
+        "AgeProgressTriggerPercent": 80,
+        "FinalStage": 0,
+        "MinDuration": 5,
+        "Stage": 2
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_PLAGUE",
+        "AgeProgressEndPercent": 100,
+        "AgeProgressTriggerPercent": 90,
+        "FinalStage": 0,
+        "MinDuration": 5,
+        "Stage": 3
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_PLAGUE",
+        "AgeProgressEndPercent": 100,
+        "AgeProgressTriggerPercent": 100,
+        "FinalStage": 1,
+        "MinDuration": 5,
+        "Stage": 4
+    }
+]

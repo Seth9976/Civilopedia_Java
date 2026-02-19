@@ -1,0 +1,86 @@
+[
+    {
+        "SQL": "SELECT CivilizationType as PageID, null as PageGroupID, \"Gameplay\" as PageLayoutID, Name, 10 as SortIndex FROM Civilizations where StartingCivilizationLevelType = \"CIVILIZATION_LEVEL_FULL_CIV\"",
+        "SectionID": "CIVILIZATIONS"
+    },
+    {
+        "SQL": "SELECT ProgressionTreeNodeType as PageID, \"CIVICS\" as PageGroupID, \"Gameplay\" as PageLayoutID, Name, 10 as SortIndex FROM ProgressionTreeNodes WHERE ProgressionTree in (SELECT ProgressionTreeType from ProgressionTrees where NOT EXISTS (Select 1 from Civilizations where UniqueCultureProgressionTree = ProgressionTreeType) and SystemType = \"SYSTEM_CULTURE\")",
+        "SectionID": "CULTURE"
+    },
+    {
+        "SQL": "SELECT ProgressionTreeNodeType as PageID, ProgressionTree as PageGroupID, \"Gameplay\" as PageLayoutID, Name, 20 as SortIndex FROM ProgressionTreeNodes WHERE ProgressionTree in (SELECT UniqueCultureProgressionTree from Civilizations)",
+        "SectionID": "CULTURE"
+    },
+    {
+        "SQL": "SELECT GovernmentType as PageID, null as PageGroupID, \"Government\" AS PageLayoutID, Name, 10 as SortIndex FROM Governments",
+        "SectionID": "GOVERNMENT"
+    },
+    {
+        "SQL": "SELECT Leaders.LeaderType AS PageID, null AS PageGroupID, \"Gameplay\" AS PageLayoutID, Leaders.Name, 10 as SortIndex FROM Leaders WHERE IsMajorLeader = true",
+        "SectionID": "LEADERS"
+    },
+    {
+        "SQL": "SELECT ConstructibleType as PageID, \"BUILDINGS\" as PageGroupID, \"Building\" as PageLayoutID, Name, 10 as SortIndex FROM Constructibles WHERE ConstructibleClass = \"BUILDING\"",
+        "SectionID": "BUILDINGS"
+    },
+    {
+        "SQL": "SELECT UniqueQuarterType as PageID, \"UNIQUE_QUARTERS\" as PageGroupID, \"UniqueQuarter\" as PageLayoutID, Name, 10 as SortIndex FROM UniqueQuarters",
+        "SectionID": "BUILDINGS"
+    },
+    {
+        "SQL": "SELECT C.ConstructibleType as PageID, null as PageGroupID, \"Improvement\" as PageLayoutID, Name, 30 as SortIndex FROM Constructibles as C inner join Improvements as I on C.ConstructibleType = I.ConstructibleType WHERE ConstructibleClass = \"IMPROVEMENT\" AND I.DiscoveryType IS NULL",
+        "SectionID": "IMPROVEMENTS"
+    },
+    {
+        "SQL": "SELECT ConstructibleType as PageID, null as PageGroupID, \"Wonder\" as PageLayoutID, Name, 30 as SortIndex FROM Constructibles WHERE ConstructibleClass = \"WONDER\"",
+        "SectionID": "WONDERS"
+    },
+    {
+        "SQL": "SELECT BeliefType AS PageID, \"BELIEFS\" AS PageGroupID, \"Belief\" as PageLayoutID, Name, 10 AS SortIndex FROM Beliefs",
+        "SectionID": "RELIGION"
+    },
+    {
+        "SQL": "SELECT UnitType AS PageID, \"CIVILIAN_UNITS\" AS PageGroupID, \"Unit\" AS PageLayoutID, Name, 10 AS SortIndex FROM Units WHERE FormationClass=\"FORMATION_CLASS_CIVILIAN\" AND TraitType IS NULL",
+        "SectionID": "UNITS"
+    },
+    {
+        "SQL": "SELECT UnitType AS PageID, \"LAND_COMBAT_UNITS\" AS PageGroupID, \"Unit\" AS PageLayoutID, Name, 10 AS SortIndex FROM Units WHERE FormationClass=\"FORMATION_CLASS_LAND_COMBAT\" AND TraitType IS NULL",
+        "SectionID": "UNITS"
+    },
+    {
+        "SQL": "SELECT UnitType AS PageID, \"NAVAL_COMBAT_UNITS\" AS PageGroupID, \"Unit\" AS PageLayoutID, Name, 10 AS SortIndex FROM Units WHERE FormationClass=\"FORMATION_CLASS_NAVAL\" AND TraitType IS NULL",
+        "SectionID": "UNITS"
+    },
+    {
+        "SQL": "SELECT UnitType AS PageID, \"AIR_COMBAT_UNITS\" AS PageGroupID, \"Unit\" AS PageLayoutID, Name, 10 AS SortIndex FROM Units WHERE FormationClass=\"FORMATION_CLASS_AIR\" AND TraitType IS NULL",
+        "SectionID": "UNITS"
+    },
+    {
+        "SQL": "SELECT UnitType AS PageID, \"COMMAND_UNITS\" AS PageGroupID, \"Unit\" AS PageLayoutID, Name, 10 AS SortIndex FROM Units WHERE FormationClass=\"FORMATION_CLASS_COMMAND\" AND TraitType IS NULL",
+        "SectionID": "UNITS"
+    },
+    {
+        "SQL": "SELECT UnitType AS PageID, \"UNIQUE_CIVILIAN_UNITS\" AS PageGroupID, \"Unit\" AS PageLayoutID, Name, 10 AS SortIndex FROM Units WHERE FormationClass=\"FORMATION_CLASS_CIVILIAN\" AND TraitType IS NOT NULL",
+        "SectionID": "UNITS"
+    },
+    {
+        "SQL": "SELECT UnitType AS PageID, \"UNIQUE_MILITARY_UNITS\" AS PageGroupID, \"Unit\" AS PageLayoutID, Name, 10 AS SortIndex FROM Units WHERE FormationClass<>\"FORMATION_CLASS_CIVILIAN\" AND TraitType IS NOT NULL",
+        "SectionID": "UNITS"
+    },
+    {
+        "SQL": "SELECT BiomeType as PageID, \"BIOMES\" as PageGroupID, \"Biome\" as PageLayoutID, Name, 10 as SortIndex FROM Biomes",
+        "SectionID": "MAP"
+    },
+    {
+        "SQL": "SELECT FeatureType as PageID, \"NATURAL_WONDERS\" as PageGroupID, \"NaturalWonder\" as PageLayoutID, Name, 10 as SortIndex FROM Features where Removable = 0",
+        "SectionID": "MAP"
+    },
+    {
+        "SQL": "SELECT ResourceType as PageID, \"RESOURCES\" as PageGroupID, \"Resource\" as PageLayoutID, Name, 10 as SortIndex FROM Resources WHERE ResourceType IN (Select ResourceType from Resource_ValidAges where AgeType = ?1)",
+        "SectionID": "MAP"
+    },
+    {
+        "SQL": "SELECT ProgressionTreeNodeType as PageID, null as PageGroupID, \"Gameplay\" as PageLayoutID, Name, 10 as SortIndex FROM ProgressionTreeNodes WHERE ProgressionTree in (SELECT  ProgressionTreeType from ProgressionTrees where SystemType = \"SYSTEM_TECH\")",
+        "SectionID": "TECHNOLOGIES"
+    }
+]

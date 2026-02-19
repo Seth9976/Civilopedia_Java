@@ -1,0 +1,458 @@
+[
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME",
+        "PageGroupId": "GAME_MODES",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 4,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_CITIES_NAME",
+        "PageGroupId": "CITIES",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_WORLD_NAME",
+        "PageGroupId": "WORLD",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 20,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_COMBAT_NAME",
+        "PageGroupId": "COMBAT",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 25,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_AIRCOMBAT_NAME",
+        "PageGroupId": "AIRCOMBAT",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 30,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_MOVEMENT_NAME",
+        "PageGroupId": "MOVEMENT",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 40,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_SCIENCE_NAME",
+        "PageGroupId": "SCIENCE",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 70,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_CULTURE_NAME",
+        "PageGroupId": "CULTURE",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 80,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_GOLD_NAME",
+        "PageGroupId": "GOLD",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 81,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_FAITH_NAME",
+        "PageGroupId": "FAITH",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 82,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_DIPLO_NAME",
+        "PageGroupId": "DIPLO",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 90,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_CITYSTATES_NAME",
+        "PageGroupId": "CITYSTATES",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 95,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_TRADE_NAME",
+        "PageGroupId": "TRADE",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 100,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_GOVT_NAME",
+        "PageGroupId": "GOVT",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 110,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_GREATPEOPLE_NAME",
+        "PageGroupId": "GREATPEOPLE",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 120,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_NUKES_NAME",
+        "PageGroupId": "NUKES",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 150,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_TOURISM_NAME",
+        "PageGroupId": "TOURISM",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 160,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_VICTORY_NAME",
+        "PageGroupId": "VICTORY",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 170,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_TEAMS_NAME",
+        "PageGroupId": "TEAMS",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 180,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CITYSTATES_PAGEGROUP_CULTURAL_NAME",
+        "PageGroupId": "CULTURAL",
+        "SectionId": "CITYSTATES",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CITYSTATES_PAGEGROUP_INDUSTRIAL_NAME",
+        "PageGroupId": "INDUSTRIAL",
+        "SectionId": "CITYSTATES",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CITYSTATES_PAGEGROUP_MILITARISTIC_NAME",
+        "PageGroupId": "MILITARISTIC",
+        "SectionId": "CITYSTATES",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CITYSTATES_PAGEGROUP_RELIGIOUS_NAME",
+        "PageGroupId": "RELIGIOUS",
+        "SectionId": "CITYSTATES",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CITYSTATES_PAGEGROUP_SCIENTIFIC_NAME",
+        "PageGroupId": "SCIENTIFIC",
+        "SectionId": "CITYSTATES",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CITYSTATES_PAGEGROUP_TRADE_NAME",
+        "PageGroupId": "TRADE",
+        "SectionId": "CITYSTATES",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOVERNMENTS_NAME",
+        "PageGroupId": "Government",
+        "SectionId": "GOVERNMENTS",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_GOVERNMENTS_PAGEGROUP_MILITARY_POLICIES_NAME",
+        "PageGroupId": "SLOT_MILITARY",
+        "SectionId": "GOVERNMENTS",
+        "SortIndex": 20,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_GOVERNMENTS_PAGEGROUP_ECONOMIC_POLICES_NAME",
+        "PageGroupId": "SLOT_ECONOMIC",
+        "SectionId": "GOVERNMENTS",
+        "SortIndex": 30,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_GOVERNMENTS_PAGEGROUP_DIPLOMATIC_POLICIES_NAME",
+        "PageGroupId": "SLOT_DIPLOMATIC",
+        "SectionId": "GOVERNMENTS",
+        "SortIndex": 40,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GREATPEOPLE_POLICIES_NAME",
+        "PageGroupId": "SLOT_GREAT_PERSON",
+        "SectionId": "GOVERNMENTS",
+        "SortIndex": 50,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_GOVERNMENTS_PAGEGROUP_WILDCARD_POLICIES_NAME",
+        "PageGroupId": "SLOT_WILDCARD",
+        "SectionId": "GOVERNMENTS",
+        "SortIndex": 60,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_RELIGIONS_PAGEGROUP_RELIGIONS_NAME",
+        "PageGroupId": "Religion",
+        "SectionId": "RELIGIONS",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_RELIGIONS_PAGEGROUP_PANTHEON_BELIEFS_NAME",
+        "PageGroupId": "BELIEF_CLASS_PANTHEON",
+        "SectionId": "RELIGIONS",
+        "SortIndex": 20,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_RELIGIONS_PAGEGROUP_WORSHIP_BELIEFS_NAME",
+        "PageGroupId": "BELIEF_CLASS_WORSHIP",
+        "SectionId": "RELIGIONS",
+        "SortIndex": 30,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_RELIGIONS_PAGEGROUP_FOLLOWER_BELIEFS_NAME",
+        "PageGroupId": "BELIEF_CLASS_FOLLOWER",
+        "SectionId": "RELIGIONS",
+        "SortIndex": 40,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_RELIGIONS_PAGEGROUP_FOUNDER_BELIEFS_NAME",
+        "PageGroupId": "BELIEF_CLASS_FOUNDER",
+        "SectionId": "RELIGIONS",
+        "SortIndex": 50,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_RELIGIONS_PAGEGROUP_ENHANCER_BELIEFS_NAME",
+        "PageGroupId": "BELIEF_CLASS_ENHANCER",
+        "SectionId": "RELIGIONS",
+        "SortIndex": 60,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_FEATURES_PAGEGROUP_TERRAINS_NAME",
+        "PageGroupId": "Terrain",
+        "SectionId": "FEATURES",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_FEATURES_PAGEGROUP_FEATURES_NAME",
+        "PageGroupId": "Feature",
+        "SectionId": "FEATURES",
+        "SortIndex": 20,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_FEATURES_PAGEGROUP_NATURAL_WONDERS_NAME",
+        "PageGroupId": "Wonder",
+        "SectionId": "FEATURES",
+        "SortIndex": 30,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_RESOURCES_PAGEGROUP_BONUS_NAME",
+        "PageGroupId": "RESOURCECLASS_BONUS",
+        "SectionId": "RESOURCES",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_RESOURCES_PAGEGROUP_LUXURY_NAME",
+        "PageGroupId": "RESOURCECLASS_LUXURY",
+        "SectionId": "RESOURCES",
+        "SortIndex": 20,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_RESOURCES_PAGEGROUP_STRATEGIC_NAME",
+        "PageGroupId": "RESOURCECLASS_STRATEGIC",
+        "SectionId": "RESOURCES",
+        "SortIndex": 30,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_RESOURCES_PAGEGROUP_ARTIFACT_NAME",
+        "PageGroupId": "RESOURCECLASS_ARTIFACT",
+        "SectionId": "RESOURCES",
+        "SortIndex": 40,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_IMPROVEMENTS_NAME",
+        "PageGroupId": "Improvements",
+        "SectionId": "IMPROVEMENTS",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_ROUTES_NAME",
+        "PageGroupId": "Routes",
+        "SectionId": "IMPROVEMENTS",
+        "SortIndex": 20,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_WONDERS_PAGEGROUP_WONDERS_NAME",
+        "PageGroupId": "Wonders",
+        "SectionId": "WONDERS",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_WONDERS_PAGEGROUP_PROJECTS_NAME",
+        "PageGroupId": "Projects",
+        "SectionId": "WONDERS",
+        "SortIndex": 20,
+        "Tooltip": null,
+        "VisibleIfEmpty": 1
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_CIVILIZATIONS_NAME",
+        "PageGroupId": "CIVILIZATIONS",
+        "SectionId": "CIVILIZATIONS",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_LEADERS_NAME",
+        "PageGroupId": "LEADERS",
+        "SectionId": "CIVILIZATIONS",
+        "SortIndex": 20,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_GOVT_POLICY_TYPE_DARKAGE",
+        "PageGroupId": "DARK_POLICIES",
+        "SectionId": "GOVERNMENTS",
+        "SortIndex": 55,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_EXPANSION_NAME",
+        "PageGroupId": "EXPANSION",
+        "SectionId": "CONCEPTS",
+        "SortIndex": 5,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_GOVERNORS_PAGEGROUP_GOVERNORS_NAME",
+        "PageGroupId": "GOVERNORS",
+        "SectionId": "GOVERNORS",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_MOMENTS_PAGEGROUP_MAJOR_NAME",
+        "PageGroupId": "MAJOR",
+        "SectionId": "MOMENTS",
+        "SortIndex": 10,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_MOMENTS_PAGEGROUP_MINOR_NAME",
+        "PageGroupId": "MINOR",
+        "SectionId": "MOMENTS",
+        "SortIndex": 20,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_HEROES_NAME",
+        "PageGroupId": "Heroes",
+        "SectionId": "UNITS",
+        "SortIndex": 5,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOLDENAGE_POLICIES_NAME",
+        "PageGroupId": "GOLDEN_POLICIES",
+        "SectionId": "GOVERNMENTS",
+        "SortIndex": 54,
+        "Tooltip": null,
+        "VisibleIfEmpty": 0
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "EraScoreThresholdShift": 0,
+        "EraType": "ERA_ANCIENT",
+        "GrievanceDecayRate": 10,
+        "TensionDecayRate": 10,
+        "TradeRouteMinimumEndTurnChange": 0
+    },
+    {
+        "EraScoreThresholdShift": null,
+        "EraType": "ERA_CLASSICAL",
+        "GrievanceDecayRate": 9,
+        "TensionDecayRate": 10,
+        "TradeRouteMinimumEndTurnChange": 0
+    },
+    {
+        "EraScoreThresholdShift": null,
+        "EraType": "ERA_MEDIEVAL",
+        "GrievanceDecayRate": 8,
+        "TensionDecayRate": 10,
+        "TradeRouteMinimumEndTurnChange": 10
+    },
+    {
+        "EraScoreThresholdShift": null,
+        "EraType": "ERA_RENAISSANCE",
+        "GrievanceDecayRate": 7,
+        "TensionDecayRate": 10,
+        "TradeRouteMinimumEndTurnChange": 10
+    },
+    {
+        "EraScoreThresholdShift": null,
+        "EraType": "ERA_INDUSTRIAL",
+        "GrievanceDecayRate": 6,
+        "TensionDecayRate": 10,
+        "TradeRouteMinimumEndTurnChange": 20
+    },
+    {
+        "EraScoreThresholdShift": null,
+        "EraType": "ERA_MODERN",
+        "GrievanceDecayRate": 5,
+        "TensionDecayRate": 10,
+        "TradeRouteMinimumEndTurnChange": 20
+    },
+    {
+        "EraScoreThresholdShift": null,
+        "EraType": "ERA_ATOMIC",
+        "GrievanceDecayRate": 4,
+        "TensionDecayRate": 10,
+        "TradeRouteMinimumEndTurnChange": 20
+    },
+    {
+        "EraScoreThresholdShift": null,
+        "EraType": "ERA_INFORMATION",
+        "GrievanceDecayRate": 3,
+        "TensionDecayRate": 10,
+        "TradeRouteMinimumEndTurnChange": 30
+    },
+    {
+        "EraScoreThresholdShift": null,
+        "EraType": "ERA_FUTURE",
+        "GrievanceDecayRate": 2,
+        "TensionDecayRate": 10,
+        "TradeRouteMinimumEndTurnChange": 30
+    }
+]

@@ -1,0 +1,1910 @@
+[
+    {
+        "AiType": "UNITAI_SETTLE",
+        "UnitType": "UNIT_SETTLER"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "UnitType": "UNIT_SETTLER"
+    },
+    {
+        "AiType": "UNITAI_BUILD",
+        "UnitType": "UNIT_BUILDER"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "UnitType": "UNIT_BUILDER"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "UnitType": "UNIT_TRADER"
+    },
+    {
+        "AiType": "UNITTYPE_TRADE",
+        "UnitType": "UNIT_TRADER"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "UnitType": "UNIT_SPY"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN_LEADER",
+        "UnitType": "UNIT_GREAT_GENERAL"
+    },
+    {
+        "AiType": "UNITAI_LEADER",
+        "UnitType": "UNIT_GREAT_GENERAL"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN_LEADER",
+        "UnitType": "UNIT_GREAT_ADMIRAL"
+    },
+    {
+        "AiType": "UNITAI_LEADER",
+        "UnitType": "UNIT_GREAT_ADMIRAL"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_GREAT_ADMIRAL"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "UnitType": "UNIT_GREAT_ENGINEER"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "UnitType": "UNIT_GREAT_MERCHANT"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "UnitType": "UNIT_GREAT_PROPHET"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "UnitType": "UNIT_GREAT_SCIENTIST"
+    },
+    {
+        "AiType": "UNITAI_LEADER",
+        "UnitType": "UNIT_GREAT_SCIENTIST"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "UnitType": "UNIT_GREAT_WRITER"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "UnitType": "UNIT_GREAT_ARTIST"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "UnitType": "UNIT_GREAT_MUSICIAN"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_SCOUT"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_SCOUT"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_RANGER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_RANGER"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_RANGER"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_NATURALIST"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "UnitType": "UNIT_NATURALIST"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_WARRIOR"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_WARRIOR"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_WARRIOR"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_WARRIOR"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_WARRIOR_MONK"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_WARRIOR_MONK"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_WARRIOR_MONK"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_WARRIOR_MONK"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_SPEARMAN"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_SPEARMAN"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_SPEARMAN"
+    },
+    {
+        "AiType": "UNITTYPE_ANTI_CAVALRY",
+        "UnitType": "UNIT_SPEARMAN"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_SPEARMAN"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_SWORDSMAN"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_SWORDSMAN"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_SWORDSMAN"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_SWORDSMAN"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_MAN_AT_ARMS"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_MAN_AT_ARMS"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_MAN_AT_ARMS"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_MAN_AT_ARMS"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_PIKEMAN"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_PIKEMAN"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_PIKEMAN"
+    },
+    {
+        "AiType": "UNITTYPE_ANTI_CAVALRY",
+        "UnitType": "UNIT_PIKEMAN"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_PIKEMAN"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_MUSKETMAN"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_MUSKETMAN"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_MUSKETMAN"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_MUSKETMAN"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_LINE_INFANTRY"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_LINE_INFANTRY"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_LINE_INFANTRY"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_LINE_INFANTRY"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_INFANTRY"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_INFANTRY"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_INFANTRY"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_INFANTRY"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_AT_CREW"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_AT_CREW"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_AT_CREW"
+    },
+    {
+        "AiType": "UNITTYPE_ANTI_CAVALRY",
+        "UnitType": "UNIT_AT_CREW"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_AT_CREW"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_MECHANIZED_INFANTRY"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_MECHANIZED_INFANTRY"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_MECHANIZED_INFANTRY"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_MECHANIZED_INFANTRY"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_MODERN_AT"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_MODERN_AT"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_MODERN_AT"
+    },
+    {
+        "AiType": "UNITTYPE_ANTI_CAVALRY",
+        "UnitType": "UNIT_MODERN_AT"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_MODERN_AT"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_SLINGER"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_SLINGER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_SLINGER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_ARCHER"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_ARCHER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_ARCHER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_CROSSBOWMAN"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_CROSSBOWMAN"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_CROSSBOWMAN"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_FIELD_CANNON"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_FIELD_CANNON"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_FIELD_CANNON"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_MACHINE_GUN"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_MACHINE_GUN"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_MACHINE_GUN"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HORSEMAN"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_HORSEMAN"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_HORSEMAN"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_HORSEMAN"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_HORSEMAN"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_CAVALRY"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_CAVALRY"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_CAVALRY"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_CAVALRY"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_CAVALRY"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HELICOPTER"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_HELICOPTER"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_HELICOPTER"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_HELICOPTER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_HELICOPTER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_ALL",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_ALL",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_BOMBARD"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_BOMBARD"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE",
+        "UnitType": "UNIT_BOMBARD"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_ALL",
+        "UnitType": "UNIT_BOMBARD"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_BOMBARD"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_ALL",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_ALL",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HEAVY_CHARIOT"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_HEAVY_CHARIOT"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_HEAVY_CHARIOT"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_HEAVY_CHARIOT"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_KNIGHT"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_KNIGHT"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_KNIGHT"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_KNIGHT"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_TANK"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_TANK"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_TANK"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_TANK"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_MODERN_ARMOR"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_MODERN_ARMOR"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_MODERN_ARMOR"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_MODERN_ARMOR"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_MODERN_ARMOR"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_SUPPORT",
+        "UnitType": "UNIT_BATTERING_RAM"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_ALL",
+        "UnitType": "UNIT_BATTERING_RAM"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_SUPPORT",
+        "UnitType": "UNIT_SIEGE_TOWER"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_ALL",
+        "UnitType": "UNIT_SIEGE_TOWER"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_SUPPORT",
+        "UnitType": "UNIT_MILITARY_ENGINEER"
+    },
+    {
+        "AiType": "UNITAI_BUILD",
+        "UnitType": "UNIT_MILITARY_ENGINEER"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "UnitType": "UNIT_MILITARY_ENGINEER"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_SUPPORT",
+        "UnitType": "UNIT_MEDIC"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_SUPPORT",
+        "UnitType": "UNIT_OBSERVATION_BALLOON"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_SUPPORT",
+        "UnitType": "UNIT_ANTIAIR_GUN"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_ALL",
+        "UnitType": "UNIT_ANTIAIR_GUN"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_SUPPORT",
+        "UnitType": "UNIT_MOBILE_SAM"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_ALL",
+        "UnitType": "UNIT_MOBILE_SAM"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_GALLEY"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_GALLEY"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_GALLEY"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_GALLEY"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_QUADRIREME"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_QUADRIREME"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_QUADRIREME"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_CARAVEL"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_CARAVEL"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_CARAVEL"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_CARAVEL"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_FRIGATE"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_FRIGATE"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_FRIGATE"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_PRIVATEER"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_PRIVATEER"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_PRIVATEER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_IRONCLAD"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_IRONCLAD"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_IRONCLAD"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_IRONCLAD"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_BATTLESHIP"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_BATTLESHIP"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_BATTLESHIP"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_SUBMARINE"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_SUBMARINE"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_SUBMARINE"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_AIRCRAFT_CARRIER"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_AIRCRAFT_CARRIER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_DESTROYER"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_DESTROYER"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_DESTROYER"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_DESTROYER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "AiType": "UNITTYPE_NUCLEAR",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_MISSILE_CRUISER"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_MISSILE_CRUISER"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_MISSILE_CRUISER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_BIPLANE"
+    },
+    {
+        "AiType": "UNITTYPE_AIR",
+        "UnitType": "UNIT_BIPLANE"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_FIGHTER"
+    },
+    {
+        "AiType": "UNITTYPE_AIR",
+        "UnitType": "UNIT_FIGHTER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_BOMBER"
+    },
+    {
+        "AiType": "UNITTYPE_NUCLEAR",
+        "UnitType": "UNIT_BOMBER"
+    },
+    {
+        "AiType": "UNITTYPE_AIR_SIEGE",
+        "UnitType": "UNIT_BOMBER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_JET_FIGHTER"
+    },
+    {
+        "AiType": "UNITTYPE_AIR",
+        "UnitType": "UNIT_JET_FIGHTER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_JET_BOMBER"
+    },
+    {
+        "AiType": "UNITTYPE_NUCLEAR",
+        "UnitType": "UNIT_JET_BOMBER"
+    },
+    {
+        "AiType": "UNITTYPE_AIR_SIEGE",
+        "UnitType": "UNIT_JET_BOMBER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_BARBARIAN_HORSEMAN"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_BARBARIAN_HORSEMAN"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_BARBARIAN_HORSEMAN"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_BARBARIAN_HORSEMAN"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_BARBARIAN_HORSE_ARCHER"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_BARBARIAN_HORSE_ARCHER"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_BARBARIAN_HORSE_ARCHER"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_BARBARIAN_HORSE_ARCHER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_BARBARIAN_HORSE_ARCHER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_EGYPTIAN_CHARIOT_ARCHER"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_EGYPTIAN_CHARIOT_ARCHER"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_EGYPTIAN_CHARIOT_ARCHER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_EGYPTIAN_CHARIOT_ARCHER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_GREEK_HOPLITE"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_GREEK_HOPLITE"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_GREEK_HOPLITE"
+    },
+    {
+        "AiType": "UNITTYPE_ANTI_CAVALRY",
+        "UnitType": "UNIT_GREEK_HOPLITE"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_GREEK_HOPLITE"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_SCYTHIAN_HORSE_ARCHER"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_SCYTHIAN_HORSE_ARCHER"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_SCYTHIAN_HORSE_ARCHER"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_SCYTHIAN_HORSE_ARCHER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_SCYTHIAN_HORSE_ARCHER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_SUMERIAN_WAR_CART"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_SUMERIAN_WAR_CART"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_SUMERIAN_WAR_CART"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_SUMERIAN_WAR_CART"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_ENGLISH_REDCOAT"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_ENGLISH_REDCOAT"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_ENGLISH_REDCOAT"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_ENGLISH_REDCOAT"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_AMERICAN_P51"
+    },
+    {
+        "AiType": "UNITTYPE_AIR",
+        "UnitType": "UNIT_AMERICAN_P51"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_ROMAN_LEGION"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_ROMAN_LEGION"
+    },
+    {
+        "AiType": "UNITAI_BUILD",
+        "UnitType": "UNIT_ROMAN_LEGION"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_ROMAN_LEGION"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_ROMAN_LEGION"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_JAPANESE_SAMURAI"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_JAPANESE_SAMURAI"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_JAPANESE_SAMURAI"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_JAPANESE_SAMURAI"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_NORWEGIAN_BERSERKER"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_NORWEGIAN_BERSERKER"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_NORWEGIAN_BERSERKER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_NORWEGIAN_BERSERKER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_NORWEGIAN_LONGSHIP"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_NORWEGIAN_LONGSHIP"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_NORWEGIAN_LONGSHIP"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_NORWEGIAN_LONGSHIP"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_INDIAN_VARU"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_INDIAN_VARU"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_INDIAN_VARU"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_KONGO_SHIELD_BEARER"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_KONGO_SHIELD_BEARER"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_KONGO_SHIELD_BEARER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_KONGO_SHIELD_BEARER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_ARABIAN_MAMLUK"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_ARABIAN_MAMLUK"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_ARABIAN_MAMLUK"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_ARABIAN_MAMLUK"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_ENGLISH_SEADOG"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_ENGLISH_SEADOG"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_ENGLISH_SEADOG"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_FRENCH_GARDE_IMPERIALE"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_FRENCH_GARDE_IMPERIALE"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_FRENCH_GARDE_IMPERIALE"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_FRENCH_GARDE_IMPERIALE"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_GERMAN_UBOAT"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_GERMAN_UBOAT"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_GERMAN_UBOAT"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_BRAZILIAN_MINAS_GERAES"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_BRAZILIAN_MINAS_GERAES"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_BRAZILIAN_MINAS_GERAES"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_CHINESE_CROUCHING_TIGER"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_CHINESE_CROUCHING_TIGER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_CHINESE_CROUCHING_TIGER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_AZTEC_EAGLE_WARRIOR"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_AZTEC_EAGLE_WARRIOR"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_AZTEC_EAGLE_WARRIOR"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_AZTEC_EAGLE_WARRIOR"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_KHMER_DOMREY"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_KHMER_DOMREY"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE",
+        "UnitType": "UNIT_KHMER_DOMREY"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_KHMER_DOMREY"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_INDONESIAN_JONG"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_INDONESIAN_JONG"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_INDONESIAN_JONG"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_POLISH_HUSSAR"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_POLISH_HUSSAR"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_POLISH_HUSSAR"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_POLISH_HUSSAR"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_NUBIAN_PITATI"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_NUBIAN_PITATI"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_NUBIAN_PITATI"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_MAYAN_HULCHE"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_MAYAN_HULCHE"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_MAYAN_HULCHE"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_LAHORE_NIHANG"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_LAHORE_NIHANG"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_LAHORE_NIHANG"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_LAHORE_NIHANG"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN_LEADER",
+        "UnitType": "UNIT_COMANDANTE_GENERAL"
+    },
+    {
+        "AiType": "UNITAI_LEADER",
+        "UnitType": "UNIT_COMANDANTE_GENERAL"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_COLOMBIAN_LLANERO"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_COLOMBIAN_LLANERO"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_COLOMBIAN_LLANERO"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_COLOMBIAN_LLANERO"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_COLOMBIAN_LLANERO"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_MACEDONIAN_HYPASPIST"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_MACEDONIAN_HYPASPIST"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_MACEDONIAN_HYPASPIST"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_MACEDONIAN_HETAIROI"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_MACEDONIAN_HETAIROI"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_MACEDONIAN_HETAIROI"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_MACEDONIAN_HETAIROI"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_PERSIAN_IMMORTAL"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_PERSIAN_IMMORTAL"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_PERSIAN_IMMORTAL"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_PERSIAN_IMMORTAL"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_DIGGER"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_DIGGER"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_DIGGER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_DIGGER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_ZULU_IMPI"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_ZULU_IMPI"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_ZULU_IMPI"
+    },
+    {
+        "AiType": "UNITTYPE_ANTI_CAVALRY",
+        "UnitType": "UNIT_ZULU_IMPI"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_ZULU_IMPI"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_SCOTTISH_HIGHLANDER"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_SCOTTISH_HIGHLANDER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_SCOTTISH_HIGHLANDER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_DE_ZEVEN_PROVINCIEN"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_DE_ZEVEN_PROVINCIEN"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_DE_ZEVEN_PROVINCIEN"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_KOREAN_HWACHA"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_KOREAN_HWACHA"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_KOREAN_HWACHA"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_MONGOLIAN_KESHIG"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_MONGOLIAN_KESHIG"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_MONGOLIAN_KESHIG"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_MONGOLIAN_KESHIG"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_MONGOLIAN_KESHIG"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_GEORGIAN_KHEVSURETI"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_GEORGIAN_KHEVSURETI"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_GEORGIAN_KHEVSURETI"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_GEORGIAN_KHEVSURETI"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_MAPUCHE_MALON_RAIDER"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_MAPUCHE_MALON_RAIDER"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_MAPUCHE_MALON_RAIDER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_MAPUCHE_MALON_RAIDER"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_CREE_OKIHTCITAW"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_CREE_OKIHTCITAW"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_SPEC_OPS"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_SPEC_OPS"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_SPEC_OPS"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_SUPPORT",
+        "UnitType": "UNIT_DRONE"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_PIKE_AND_SHOT"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_PIKE_AND_SHOT"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_PIKE_AND_SHOT"
+    },
+    {
+        "AiType": "UNITTYPE_ANTI_CAVALRY",
+        "UnitType": "UNIT_PIKE_AND_SHOT"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_PIKE_AND_SHOT"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_SUPPORT",
+        "UnitType": "UNIT_SUPPLY_CONVOY"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_AMERICAN_ROUGH_RIDER"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_AMERICAN_ROUGH_RIDER"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_AMERICAN_ROUGH_RIDER"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_AMERICAN_ROUGH_RIDER"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_AMERICAN_ROUGH_RIDER"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_ETHIOPIAN_OROMO_CAVALRY"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_ETHIOPIAN_OROMO_CAVALRY"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_ETHIOPIAN_OROMO_CAVALRY"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_ETHIOPIAN_OROMO_CAVALRY"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_ETHIOPIAN_OROMO_CAVALRY"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_VAMPIRE"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_VAMPIRE"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_VAMPIRE"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_CULTIST"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_BABYLONIAN_SABUM_KIBITTUM"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_BABYLONIAN_SABUM_KIBITTUM"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_BABYLONIAN_SABUM_KIBITTUM"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_BABYLONIAN_SABUM_KIBITTUM"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HERO_BEOWULF"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_HERO_BEOWULF"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_HERO_BEOWULF"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_HERO_BEOWULF"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HERO_HERCULES"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_HERO_HERCULES"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_HERO_HERCULES"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_HERO_HERCULES"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HERO_HIPPOLYTA"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_HERO_HIPPOLYTA"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_HERO_HIPPOLYTA"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_HERO_HIPPOLYTA"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HERO_HUNAHPU"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_HERO_HUNAHPU"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_HERO_HUNAHPU"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_HERO_HUNAHPU"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HERO_MAUI"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_HERO_MAUI"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_HERO_MAUI"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_HERO_MAUI"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HERO_MULAN"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_HERO_MULAN"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_HERO_MULAN"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_HERO_MULAN"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_HERO_MULAN"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HERO_OYA"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_HERO_OYA"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_HERO_OYA"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_HERO_OYA"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HERO_WUKONG"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_HERO_WUKONG"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_HERO_WUKONG"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_HERO_WUKONG"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HERO_ARTHUR"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_HERO_ARTHUR"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_HERO_ARTHUR"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_HERO_ARTHUR"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_QUESTING_KNIGHT"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_QUESTING_KNIGHT"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_QUESTING_KNIGHT"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_QUESTING_KNIGHT"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HERO_ANANSI"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_HERO_ANANSI"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_HERO_ANANSI"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN_LEADER",
+        "UnitType": "UNIT_HERO_HIMIKO"
+    },
+    {
+        "AiType": "UNITAI_LEADER",
+        "UnitType": "UNIT_HERO_HIMIKO"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_HERO_SINBAD"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_HERO_SINBAD"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_HERO_SINBAD"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_HERO_SINBAD"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_BYZANTINE_TAGMA"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_BYZANTINE_TAGMA"
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "UnitType": "UNIT_BYZANTINE_TAGMA"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_BYZANTINE_TAGMA"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_BYZANTINE_DROMON"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_BYZANTINE_DROMON"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_BYZANTINE_DROMON"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_GAUL_GAESATAE"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_GAUL_GAESATAE"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_GAUL_GAESATAE"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_GAUL_GAESATAE"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_VIETNAMESE_VOI_CHIEN"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "UnitType": "UNIT_VIETNAMESE_VOI_CHIEN"
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "UnitType": "UNIT_VIETNAMESE_VOI_CHIEN"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_PORTUGUESE_NAU"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "UnitType": "UNIT_PORTUGUESE_NAU"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_PORTUGUESE_NAU"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "UnitType": "UNIT_PORTUGUESE_NAU"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "UnitType": "UNIT_MODE_ZOMBIE"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "UnitType": "UNIT_MODE_ZOMBIE"
+    },
+    {
+        "AiType": "UNITTYPE_ZOMBIE",
+        "UnitType": "UNIT_MODE_ZOMBIE"
+    }
+]

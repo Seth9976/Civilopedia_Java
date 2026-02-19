@@ -1,0 +1,127 @@
+[
+    {
+        "AiType": "UNITAI_SETTLE",
+        "Priority": 0,
+        "TypeValue": 0
+    },
+    {
+        "AiType": "UNITAI_BUILD",
+        "Priority": 0,
+        "TypeValue": 1
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "Priority": 0,
+        "TypeValue": 2
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "Priority": 0,
+        "TypeValue": 3
+    },
+    {
+        "AiType": "UNITAI_DEFENDER",
+        "Priority": 0,
+        "TypeValue": 4
+    },
+    {
+        "AiType": "UNITAI_LEADER",
+        "Priority": 0,
+        "TypeValue": 5
+    },
+    {
+        "AiType": "UNITTYPE_CAVALRY",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN_LEADER",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_LAND_COMBAT",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_ANTI_CAVALRY",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_ALL",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_SUPPORT",
+        "Priority": 1,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_TRADE",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_AIR",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_AIR_SIEGE",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_NUCLEAR",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_NUCLEAR_ESCORT",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_MAJOR_CIV_ONLY",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_SOOTHSAYER",
+        "Priority": 0,
+        "TypeValue": null
+    },
+    {
+        "AiType": "UNITTYPE_ZOMBIE",
+        "Priority": 0,
+        "TypeValue": null
+    }
+]

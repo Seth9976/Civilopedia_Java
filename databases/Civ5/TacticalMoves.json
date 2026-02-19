@@ -1,0 +1,479 @@
+[
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 0,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 1,
+        "Priority": -1,
+        "Type": "TACTICAL_UNASSIGNED"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 1,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 1,
+        "Priority": 0,
+        "Type": "TACTICAL_MOVE_NONCOMBATANTS_TO_SAFETY"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 2,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 150,
+        "Type": "TACTICAL_CAPTURE_CITY"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 3,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 1,
+        "Priority": 15,
+        "Type": "TACTICAL_DAMAGE_CITY"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 4,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 140,
+        "Type": "TACTICAL_DESTROY_HIGH_UNIT"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 5,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 120,
+        "Type": "TACTICAL_DESTROY_MEDIUM_UNIT"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 6,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 1,
+        "Priority": 110,
+        "Type": "TACTICAL_DESTROY_LOW_UNIT"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 7,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 11,
+        "Type": "TACTICAL_TO_SAFETY"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 8,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 1,
+        "Priority": 17,
+        "Type": "TACTICAL_ATTRIT_HIGH_UNIT"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 9,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 1,
+        "Priority": 15,
+        "Type": "TACTICAL_ATTRIT_MEDIUM_UNIT"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 10,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 1,
+        "Priority": 12,
+        "Type": "TACTICAL_ATTRIT_LOW_UNIT"
+    },
+    {
+        "DefenseFlavorWeight": 50,
+        "DominanceZoneMove": 0,
+        "ID": 11,
+        "OffenseFlavorWeight": 50,
+        "OperationsCanRecruit": 1,
+        "Priority": 1,
+        "Type": "TACTICAL_REPOSITION"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 12,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 10,
+        "Type": "TACTICAL_BARBARIAN_CAMP"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 13,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 40,
+        "Type": "TACTICAL_PILLAGE"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 14,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 60,
+        "Type": "TACTICAL_SAFE_BOMBARDS"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 15,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 1,
+        "Priority": 8,
+        "Type": "TACTICAL_HEAL"
+    },
+    {
+        "DefenseFlavorWeight": 50,
+        "DominanceZoneMove": 0,
+        "ID": 16,
+        "OffenseFlavorWeight": 50,
+        "OperationsCanRecruit": 1,
+        "Priority": 25,
+        "Type": "TACTICAL_ANCIENT_RUINS"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 17,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 1,
+        "Priority": 20,
+        "Type": "TACTICAL_GARRISON_TO_ALLOW_BOMBARD"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 18,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 7,
+        "Type": "TACTICAL_BASTION_ALREADY_THERE"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 19,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 6,
+        "Type": "TACTICAL_GARRISON_ALREADY_THERE"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 20,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 3,
+        "Type": "TACTICAL_GUARD_IMPROVEMENT_ALREADY_THERE"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 21,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 1,
+        "Priority": 5,
+        "Type": "TACTICAL_BASTION_1_TURN"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 22,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 1,
+        "Priority": 4,
+        "Type": "TACTICAL_GARRISON_1_TURN"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 23,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 1,
+        "Priority": 2,
+        "Type": "TACTICAL_GUARD_IMPROVEMENT_1_TURN"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 24,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 135,
+        "Type": "TACTICAL_AIR_SWEEP"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 25,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 130,
+        "Type": "TACTICAL_AIR_INTERCEPT"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 26,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 1,
+        "Type": "TACTICAL_AIR_REBASE"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 1,
+        "ID": 27,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 95,
+        "Type": "TACTICAL_POSTURE_WITHDRAW"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 1,
+        "ID": 28,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 50,
+        "Type": "TACTICAL_POSTURE_HEDGEHOG"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 1,
+        "ID": 29,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 100,
+        "Type": "TACTICAL_POSTURE_SHORE_BOMBARDMENT"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 1,
+        "ID": 30,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 45,
+        "Type": "TACTICAL_CLOSE_ON_TARGET"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 31,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 80,
+        "Type": "TACTICAL_MOVE_OPERATIONS"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 1,
+        "ID": 32,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 200,
+        "Type": "TACTICAL_EMERGENCY_PURCHASES"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 33,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 130,
+        "Type": "TACTICAL_ATTACK_VERY_HIGH_PRIORITY_CIVILIAN"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 34,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 100,
+        "Type": "TACTICAL_ATTACK_HIGH_PRIORITY_CIVILIAN"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 35,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 40,
+        "Type": "TACTICAL_ATTACK_MEDIUM_PRIORITY_CIVILIAN"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 36,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 30,
+        "Type": "TACTICAL_ATTACK_LOW_PRIORITY_CIVILIAN"
+    },
+    {
+        "DefenseFlavorWeight": 100,
+        "DominanceZoneMove": 0,
+        "ID": 37,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 1,
+        "Priority": 10,
+        "Type": "TACTICAL_ESCORT_EMBARKED_UNIT"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 38,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 100,
+        "Type": "TACTICAL_PLUNDER_TRADE_UNIT"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 39,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 8,
+        "Type": "TACTICAL_PARK_ON_TRADE_ROUTE"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 1,
+        "ID": 40,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 105,
+        "Type": "TACTICAL_OFFENSIVE_POSTURE_MOVES"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 41,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": -1,
+        "Type": "TACTICAL_POSTURE_SIT_AND_BOMBARD"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 42,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": -1,
+        "Type": "TACTICAL_POSTURE_ATTRIT_FROM_RANGE"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 43,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": -1,
+        "Type": "TACTICAL_POSTURE_EXPLOIT_FLANKS"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 44,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": -1,
+        "Type": "TACTICAL_POSTURE_STEAMROLL"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 45,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": -1,
+        "Type": "TACTICAL_POSTURE_SURGICAL_CITY_STRIKE"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 46,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": -1,
+        "Type": "TACTICAL_POSTURE_COUNTERATTACK"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 1,
+        "ID": 47,
+        "OffenseFlavorWeight": null,
+        "OperationsCanRecruit": 0,
+        "Priority": 42,
+        "Type": "TACTICAL_DEFENSIVE_AIRLIFT"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 48,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 125,
+        "Type": "TACTICAL_PILLAGE_CITADEL"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 49,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 35,
+        "Type": "TACTICAL_PILLAGE_RESOURCE"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 50,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 25,
+        "Type": "TACTICAL_PILLAGE_CITADEL_NEXT_TURN"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 51,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 15,
+        "Type": "TACTICAL_PILLAGE_RESOURCE_NEXT_TURN"
+    },
+    {
+        "DefenseFlavorWeight": null,
+        "DominanceZoneMove": 0,
+        "ID": 52,
+        "OffenseFlavorWeight": 100,
+        "OperationsCanRecruit": 0,
+        "Priority": 10,
+        "Type": "TACTICAL_PILLAGE_NEXT_TURN"
+    }
+]

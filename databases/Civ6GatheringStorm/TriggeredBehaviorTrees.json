@@ -1,0 +1,79 @@
+[
+    {
+        "AIEvent": "AI_EVENT_FOUNDED_RELIGION",
+        "OperationName": null,
+        "Priority": 3,
+        "TreeName": "Launch Inquisition",
+        "TriggerType": "TRIGGER_RELIGION_FOUNDED"
+    },
+    {
+        "AIEvent": "AI_EVENT_GAIN_TECH",
+        "OperationName": null,
+        "Priority": 3,
+        "TreeName": "Upgrade Units",
+        "TriggerType": "TRIGGER_TECH_UPGRADE"
+    },
+    {
+        "AIEvent": "AI_EVENT_GAIN_CIVIC",
+        "OperationName": null,
+        "Priority": 3,
+        "TreeName": "Upgrade Units",
+        "TriggerType": "TRIGGER_CIVIC_UPGRADE"
+    },
+    {
+        "AIEvent": "AI_EVENT_UNIT_CAPTURED",
+        "OperationName": "Civilian Builder Capture",
+        "Priority": 3,
+        "TreeName": "Escort Worker To Camp",
+        "TriggerType": "TRIGGER_CAPTURE_CIV"
+    },
+    {
+        "AIEvent": "AI_EVENT_DESIRE_SETTLE",
+        "OperationName": "Settle New City",
+        "Priority": 4,
+        "TreeName": "Settle City Op",
+        "TriggerType": "TRIGGER_SETTLE_SPOT"
+    },
+    {
+        "AIEvent": "AI_EVENT_MANAGE_ARCHAEOLOGIST",
+        "OperationName": null,
+        "Priority": 2,
+        "TreeName": "Manage Archaeologist",
+        "TriggerType": "TRIGGER_AVAILABLE_ARCHAEOLOGIST"
+    },
+    {
+        "AIEvent": "AI_EVENT_GREAT_PERSON_GAINED",
+        "OperationName": null,
+        "Priority": 2,
+        "TreeName": "Manage Great Person",
+        "TriggerType": "TRIGGER_AVAILABLE_GREATPERSON"
+    },
+    {
+        "AIEvent": "AI_EVENT_MANAGE_SPY",
+        "OperationName": null,
+        "Priority": 4,
+        "TreeName": "Manage Spy",
+        "TriggerType": "TRIGGER_AVAILABLE_SPY"
+    },
+    {
+        "AIEvent": "AI_EVENT_UNIT_CAPTURED",
+        "OperationName": "Barbarian Builder Capture",
+        "Priority": 2,
+        "TreeName": "Escort Worker To Camp",
+        "TriggerType": "TRIGGER_CAPTURE_BARBARIAN"
+    },
+    {
+        "AIEvent": "AI_EVENT_RELIGIOUS_CITY_CONVERTED",
+        "OperationName": null,
+        "Priority": 3,
+        "TreeName": "Launch Inquisition",
+        "TriggerType": "TRIGGER_RELIGIOUS_CITY_CONVERTED"
+    },
+    {
+        "AIEvent": "AI_EVENT_NEEDS_RAILROAD",
+        "OperationName": null,
+        "Priority": 2,
+        "TreeName": "Build Railroad",
+        "TriggerType": "TRIGGER_RAILROAD"
+    }
+]

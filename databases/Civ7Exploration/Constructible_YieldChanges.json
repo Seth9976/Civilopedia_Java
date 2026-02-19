@@ -1,0 +1,752 @@
+[
+    {
+        "ConstructibleType": "BUILDING_PALACE",
+        "YieldChange": 10,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "BUILDING_PALACE",
+        "YieldChange": 10,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "BUILDING_PALACE",
+        "YieldChange": 10,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_CITY_HALL",
+        "YieldChange": 6,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "BUILDING_CITY_HALL",
+        "YieldChange": 6,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_ACADEMY",
+        "YieldChange": 4,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "YieldChange": 3,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_AMPHITHEATER",
+        "YieldChange": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "BUILDING_ANCIENT_BRIDGE",
+        "YieldChange": 4,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "BUILDING_ARENA",
+        "YieldChange": 4,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_BARRACKS",
+        "YieldChange": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "BUILDING_BATH",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "BUILDING_BLACKSMITH",
+        "YieldChange": 4,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "BUILDING_BRICKYARD",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "BUILDING_GARDEN",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "BUILDING_GARDEN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "BUILDING_LIBRARY",
+        "YieldChange": 3,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "BUILDING_LIGHTHOUSE",
+        "YieldChange": 4,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "BUILDING_MARKET",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "BUILDING_MONUMENT",
+        "YieldChange": 3,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "BUILDING_MONUMENT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_DIPLOMACY"
+    },
+    {
+        "ConstructibleType": "BUILDING_SAW_PIT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "BUILDING_VILLA",
+        "YieldChange": 3,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_VILLA",
+        "YieldChange": 3,
+        "YieldType": "YIELD_DIPLOMACY"
+    },
+    {
+        "ConstructibleType": "BUILDING_HARBOR",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "BUILDING_MASTABA",
+        "YieldChange": 3,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "BUILDING_MORTUARY_TEMPLE",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "BUILDING_ODEON",
+        "YieldChange": 3,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_PARTHENON",
+        "YieldChange": 3,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "BUILDING_DHARAMSHALA",
+        "YieldChange": 3,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_VIHARA",
+        "YieldChange": 3,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_JALAW",
+        "YieldChange": 3,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_KUH_NAH",
+        "YieldChange": 3,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "BUILDING_BASILICA",
+        "YieldChange": 3,
+        "YieldType": "YIELD_DIPLOMACY"
+    },
+    {
+        "ConstructibleType": "BUILDING_TEMPLE_OF_JUPITER",
+        "YieldChange": 3,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_BARAY",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HAN_GREAT_WALL",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HAWELT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_PAIRIDAEZA",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_PAIRIDAEZA",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_POTKOP",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MEGALITH",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_SOUQ",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_ZIGGURAT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HILLFORT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_ICE_HOUSE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_FESTIVAL_GROUNDS",
+        "YieldChange": 1,
+        "YieldType": "YIELD_DIPLOMACY"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_FESTIVAL_GROUNDS",
+        "YieldChange": 1,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "WONDER_ANGKOR_WAT",
+        "YieldChange": 3,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "WONDER_COLOSSEUM",
+        "YieldChange": 3,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "WONDER_COLOSSUS",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "WONDER_EMILE_BELL",
+        "YieldChange": 2,
+        "YieldType": "YIELD_DIPLOMACY"
+    },
+    {
+        "ConstructibleType": "WONDER_GATE_OF_ALL_NATIONS",
+        "YieldChange": 2,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "WONDER_GREAT_STELE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "WONDER_MAUSOLEUM_OF_THEODORIC",
+        "YieldChange": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "WONDER_MONKS_MOUND",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "WONDER_NALANDA",
+        "YieldChange": 3,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "WONDER_ORACLE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "WONDER_PYRAMID_OF_THE_SUN",
+        "YieldChange": 3,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "WONDER_SANCHI_STUPA",
+        "YieldChange": 3,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "WONDER_TERRACOTTA_ARMY",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "WONDER_WEIYANG_PALACE",
+        "YieldChange": 6,
+        "YieldType": "YIELD_DIPLOMACY"
+    },
+    {
+        "ConstructibleType": "WONDER_GREAT_LIBRARY",
+        "YieldChange": 4,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "BUILDING_ARMORER",
+        "YieldChange": 8,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "BUILDING_BANK",
+        "YieldChange": 8,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "BUILDING_BAZAAR",
+        "YieldChange": 6,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "BUILDING_DUNGEON",
+        "YieldChange": 4,
+        "YieldType": "YIELD_DIPLOMACY"
+    },
+    {
+        "ConstructibleType": "BUILDING_DUNGEON",
+        "YieldChange": 6,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRISTMILL",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "BUILDING_GUILDHALL",
+        "YieldChange": 6,
+        "YieldType": "YIELD_DIPLOMACY"
+    },
+    {
+        "ConstructibleType": "BUILDING_GUILDHALL",
+        "YieldChange": 6,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "BUILDING_HOSPITAL",
+        "YieldChange": 8,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "BUILDING_KILN",
+        "YieldChange": 6,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "BUILDING_MEDIEVAL_BRIDGE",
+        "YieldChange": 4,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "BUILDING_MENAGERIE",
+        "YieldChange": 8,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_OBSERVATORY",
+        "YieldChange": 6,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "BUILDING_PAVILION",
+        "YieldChange": 8,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "BUILDING_SAWMILL",
+        "YieldChange": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "BUILDING_SHIPYARD",
+        "YieldChange": 8,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "BUILDING_STONECUTTER",
+        "YieldChange": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "BUILDING_TAVERN",
+        "YieldChange": 6,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "BUILDING_TAVERN",
+        "YieldChange": 4,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_TEMPLE",
+        "YieldChange": 6,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_UNIVERSITY",
+        "YieldChange": 8,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "BUILDING_WHARF",
+        "YieldChange": 6,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "BUILDING_MADRASA",
+        "YieldChange": 6,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "BUILDING_MOSQUE",
+        "YieldChange": 6,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_ANJUVANNAM",
+        "YieldChange": 6,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "BUILDING_MANIGRAMAM",
+        "YieldChange": 6,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_CANDI_BENTAR",
+        "YieldChange": 6,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "BUILDING_MERU",
+        "YieldChange": 6,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_BAILEY",
+        "YieldChange": 6,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "BUILDING_MOTTE",
+        "YieldChange": 6,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_CASA_CONSISTORIAL",
+        "YieldChange": 6,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "BUILDING_CASA_DE_CONTRATACION",
+        "YieldChange": 6,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_CARAVANSERAI",
+        "YieldChange": 5,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_LO_I_KALO",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_LO_I_KALO",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MING_GREAT_WALL",
+        "YieldChange": 5,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_ORTOO",
+        "YieldChange": 5,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_TERRACE_FARM",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_KASBAH",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_KASBAH",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_KASBAH",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_STONE_HEAD",
+        "YieldChange": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_TRADING_FACTORY",
+        "YieldChange": 4,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MONASTERY",
+        "YieldChange": 4,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_SAQIYA",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MINOR_EMBASSY",
+        "YieldChange": 2,
+        "YieldType": "YIELD_DIPLOMACY"
+    },
+    {
+        "ConstructibleType": "WONDER_BOROBUDUR",
+        "YieldChange": 3,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "WONDER_BRIHADEESWARAR_TEMPLE",
+        "YieldChange": 3,
+        "YieldType": "YIELD_DIPLOMACY"
+    },
+    {
+        "ConstructibleType": "WONDER_EL_ESCORIAL",
+        "YieldChange": 3,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "WONDER_ERDENE_ZUU",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "WONDER_FORBIDDEN_CITY",
+        "YieldChange": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "WONDER_HALE_O_KEAWE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "WONDER_HOUSE_OF_WISDOM",
+        "YieldChange": 3,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "WONDER_MACHU_PIKCHU",
+        "YieldChange": 4,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "WONDER_NOTRE_DAME",
+        "YieldChange": 4,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "WONDER_SHWEDAGON_ZEDI_DAW",
+        "YieldChange": 4,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "WONDER_TOMB_OF_ASKIA",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "WONDER_WHITE_TOWER",
+        "YieldChange": 4,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_ACADEMY_EX",
+        "YieldChange": 4,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ConstructibleType": "BUILDING_AMPHITHEATER_EX",
+        "YieldChange": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "WONDER_MAUSOLEUM_AT_HALICARNASSUS",
+        "YieldChange": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "WONDER_GRAND_BAZAAR",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "WONDER_WAT_XIENG_THONG",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HIDDEN_FORTRESS",
+        "YieldChange": 4,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "WONDER_RILA_MONASTERY",
+        "YieldChange": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "BUILDING_COTHON",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "BUILDING_DOCKYARD",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "WONDER_BYRSA",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_WATER_PUPPET_THEATER",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "WONDER_THANH_HUE",
+        "YieldChange": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_THING",
+        "YieldChange": 4,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "WONDER_REYKHOLT",
+        "YieldChange": 3,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "BUILDING_NAVAL_ARSENAL",
+        "YieldChange": 4,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "BUILDING_NAVAL_STATION",
+        "YieldChange": 5,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "WONDER_HAVANA_HARBOR",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MAWASKAWE_SKOTE",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ConstructibleType": "WONDER_SERPENT_MOUND",
+        "YieldChange": 4,
+        "YieldType": "YIELD_DIPLOMACY"
+    },
+    {
+        "ConstructibleType": "BUILDING_LECTURE_HALL",
+        "YieldChange": 3,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "BUILDING_PAGODA",
+        "YieldChange": 3,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "BUILDING_LANGI",
+        "YieldChange": 3,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ConstructibleType": "BUILDING_VAI_KAUKAU",
+        "YieldChange": 3,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "ConstructibleType": "WONDER_GREAT_LIGHTHOUSE",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ConstructibleType": "BUILDING_CITADEL",
+        "YieldChange": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ConstructibleType": "BUILDING_ROYAL_LIBRARY",
+        "YieldChange": 3,
+        "YieldType": "YIELD_SCIENCE"
+    }
+]

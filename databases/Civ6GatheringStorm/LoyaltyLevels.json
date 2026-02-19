@@ -1,0 +1,42 @@
+[
+    {
+        "Description": "LOC_LOYALTY_LEVEL_0_DESCRIPTION",
+        "GrowthChange": 0.0,
+        "IdentityChange": 0.25,
+        "LoyaltyLevelType": "LOYALTY_LEVEL_0",
+        "LoyaltyMax": 25,
+        "LoyaltyMin": 0,
+        "Name": "LOC_LOYALTY_LEVEL_0_NAME",
+        "YieldChange": -1.0
+    },
+    {
+        "Description": "LOC_LOYALTY_LEVEL_1_DESCRIPTION",
+        "GrowthChange": 0.25,
+        "IdentityChange": 0.5,
+        "LoyaltyLevelType": "LOYALTY_LEVEL_1",
+        "LoyaltyMax": 50,
+        "LoyaltyMin": 26,
+        "Name": "LOC_LOYALTY_LEVEL_1_NAME",
+        "YieldChange": -0.5
+    },
+    {
+        "Description": "LOC_LOYALTY_LEVEL_2_DESCRIPTION",
+        "GrowthChange": 0.75,
+        "IdentityChange": 0.75,
+        "LoyaltyLevelType": "LOYALTY_LEVEL_2",
+        "LoyaltyMax": 75,
+        "LoyaltyMin": 51,
+        "Name": "LOC_LOYALTY_LEVEL_2_NAME",
+        "YieldChange": -0.25
+    },
+    {
+        "Description": "LOC_LOYALTY_LEVEL_3_DESCRIPTION",
+        "GrowthChange": 1.0,
+        "IdentityChange": 0.0,
+        "LoyaltyLevelType": "LOYALTY_LEVEL_3",
+        "LoyaltyMax": 100,
+        "LoyaltyMin": 76,
+        "Name": "LOC_LOYALTY_LEVEL_3_NAME",
+        "YieldChange": 0.0
+    }
+]

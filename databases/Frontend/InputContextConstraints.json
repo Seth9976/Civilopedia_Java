@@ -1,0 +1,286 @@
+[
+    {
+        "ActionId": "camera-rotate",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "camera-rotate",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "camera-rotate",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "camera-zoom-out",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "camera-zoom-out",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "camera-zoom-out",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "camera-zoom-in",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "camera-zoom-in",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "camera-zoom-in",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "touch-pinch-direct",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "touch-pinch-direct",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "touch-pinch-direct",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "touch-pinch-out",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "touch-pinch-out",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "touch-pinch-out",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "touch-pinch-in",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "touch-pinch-in",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "touch-pinch-in",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "camera-pan",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "camera-pan",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "camera-pan",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "center-plot-cursor",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "center-plot-cursor",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "nav-move",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "nav-move",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "nav-up",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "nav-up",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "nav-up",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "nav-down",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "nav-down",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "nav-down",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "nav-left",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "nav-left",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "nav-left",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "nav-right",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "nav-right",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "nav-right",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "nav-next",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "nav-next",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "nav-next",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "nav-previous",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "nav-previous",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "nav-previous",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "nav-shell-next",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "nav-shell-previous",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "scroll-pan",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "navigate-yields",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "next-action",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "next-action",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "notification",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "swap-plot-selection",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "plot-move",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "plot-move",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "shell-action-1",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "shell-action-1",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "shell-action-2",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "shell-action-2",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "shell-action-3",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "shell-action-3",
+        "ContextId": "Dual"
+    },
+    {
+        "ActionId": "toggle-diplo",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "toggle-chat",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "toggle-quest",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "toggle-radial-menu",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "open-lens-panel",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "trigger-accept-dip",
+        "ContextId": "Shell"
+    },
+    {
+        "ActionId": "toggle-grid-layer",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "toggle-grid-layer",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "toggle-yields-layer",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "toggle-yields-layer",
+        "ContextId": "Unit"
+    },
+    {
+        "ActionId": "toggle-resources-layer",
+        "ContextId": "World"
+    },
+    {
+        "ActionId": "toggle-resources-layer",
+        "ContextId": "Unit"
+    }
+]

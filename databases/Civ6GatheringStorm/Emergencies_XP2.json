@@ -1,0 +1,130 @@
+[
+    {
+        "EmergencyType": "EMERGENCY_MILITARY",
+        "Hostile": 1,
+        "NoCongress": 0,
+        "NoTarget": 0,
+        "UIBackgroundPrefix": null,
+        "UIType": "HOSTILE_EMERGENCY"
+    },
+    {
+        "EmergencyType": "EMERGENCY_SETTLED_CITY",
+        "Hostile": 1,
+        "NoCongress": 0,
+        "NoTarget": 0,
+        "UIBackgroundPrefix": null,
+        "UIType": "HOSTILE_EMERGENCY"
+    },
+    {
+        "EmergencyType": "EMERGENCY_CAPTURE_CITY_STATE",
+        "Hostile": 1,
+        "NoCongress": 0,
+        "NoTarget": 0,
+        "UIBackgroundPrefix": null,
+        "UIType": "HOSTILE_EMERGENCY"
+    },
+    {
+        "EmergencyType": "EMERGENCY_RELIGIOUS",
+        "Hostile": 1,
+        "NoCongress": 0,
+        "NoTarget": 0,
+        "UIBackgroundPrefix": null,
+        "UIType": "HOSTILE_EMERGENCY"
+    },
+    {
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "Hostile": 1,
+        "NoCongress": 0,
+        "NoTarget": 0,
+        "UIBackgroundPrefix": null,
+        "UIType": "HOSTILE_EMERGENCY"
+    },
+    {
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "Hostile": 1,
+        "NoCongress": 0,
+        "NoTarget": 0,
+        "UIBackgroundPrefix": null,
+        "UIType": "HOSTILE_EMERGENCY"
+    },
+    {
+        "EmergencyType": "EMERGENCY_SEND_AID",
+        "Hostile": 0,
+        "NoCongress": 0,
+        "NoTarget": 0,
+        "UIBackgroundPrefix": null,
+        "UIType": "AID_REQUEST"
+    },
+    {
+        "EmergencyType": "EMERGENCY_SEND_MILITARY_AID",
+        "Hostile": 0,
+        "NoCongress": 0,
+        "NoTarget": 0,
+        "UIBackgroundPrefix": null,
+        "UIType": "AID_REQUEST"
+    },
+    {
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_LITERATURE",
+        "Hostile": 0,
+        "NoCongress": 0,
+        "NoTarget": 1,
+        "UIBackgroundPrefix": null,
+        "UIType": "COMPETITION"
+    },
+    {
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PEACE",
+        "Hostile": 0,
+        "NoCongress": 0,
+        "NoTarget": 1,
+        "UIBackgroundPrefix": null,
+        "UIType": "COMPETITION"
+    },
+    {
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PHYSICS",
+        "Hostile": 0,
+        "NoCongress": 0,
+        "NoTarget": 1,
+        "UIBackgroundPrefix": null,
+        "UIType": "COMPETITION"
+    },
+    {
+        "EmergencyType": "EMERGENCY_WORLDS_FAIR",
+        "Hostile": 0,
+        "NoCongress": 0,
+        "NoTarget": 1,
+        "UIBackgroundPrefix": null,
+        "UIType": "COMPETITION"
+    },
+    {
+        "EmergencyType": "EMERGENCY_SPACE_STATION",
+        "Hostile": 0,
+        "NoCongress": 0,
+        "NoTarget": 1,
+        "UIBackgroundPrefix": null,
+        "UIType": "COMPETITION"
+    },
+    {
+        "EmergencyType": "EMERGENCY_CLIMATE_ACCORDS",
+        "Hostile": 0,
+        "NoCongress": 0,
+        "NoTarget": 1,
+        "UIBackgroundPrefix": null,
+        "UIType": "COMPETITION"
+    },
+    {
+        "EmergencyType": "EMERGENCY_WORLD_GAMES",
+        "Hostile": 0,
+        "NoCongress": 0,
+        "NoTarget": 1,
+        "UIBackgroundPrefix": null,
+        "UIType": "COMPETITION"
+    },
+    {
+        "EmergencyType": "EMERGENCY_SOOTHSAYER",
+        "Hostile": 0,
+        "NoCongress": 1,
+        "NoTarget": 1,
+        "UIBackgroundPrefix": "SOOTHSAYER",
+        "UIType": "COMPETITION"
+    }
+]

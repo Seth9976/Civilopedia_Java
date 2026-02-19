@@ -1,0 +1,62 @@
+[
+    {
+        "ConstructibleType": null,
+        "RechargeTurns": -1,
+        "UnitAbilityType": "CHARGED_ABILITY_MAKE_TRADE_ROUTE"
+    },
+    {
+        "ConstructibleType": null,
+        "RechargeTurns": -1,
+        "UnitAbilityType": "CHARGED_ABILITY_LAND_CLAIM"
+    },
+    {
+        "ConstructibleType": null,
+        "RechargeTurns": -1,
+        "UnitAbilityType": "CHARGED_ABILITY_RESPAWN"
+    },
+    {
+        "ConstructibleType": null,
+        "RechargeTurns": -1,
+        "UnitAbilityType": "CHARGED_ABILITY_TREAT_SICK"
+    },
+    {
+        "ConstructibleType": null,
+        "RechargeTurns": 5,
+        "UnitAbilityType": "CHARGED_ABILITY_AREA_DAMAGE"
+    },
+    {
+        "ConstructibleType": null,
+        "RechargeTurns": 5,
+        "UnitAbilityType": "CHARGED_ABILITY_GRANT_SECOND_WIND"
+    },
+    {
+        "ConstructibleType": null,
+        "RechargeTurns": 4,
+        "UnitAbilityType": "CHARGED_ABILITY_COMMANDER_ATTACK"
+    },
+    {
+        "ConstructibleType": null,
+        "RechargeTurns": 4,
+        "UnitAbilityType": "CHARGED_ABILITY_SCALING_COMMANDER_ATTACK"
+    },
+    {
+        "ConstructibleType": null,
+        "RechargeTurns": 1,
+        "UnitAbilityType": "CHARGED_ABILITY_AERODROME_AERIAL_RECON"
+    },
+    {
+        "ConstructibleType": null,
+        "RechargeTurns": 5,
+        "UnitAbilityType": "CHARGED_ABILITY_CLAIM_RESOURCE"
+    },
+    {
+        "ConstructibleType": null,
+        "RechargeTurns": -1,
+        "UnitAbilityType": "CHARGED_ABILITY_RAIDING_PARTY"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HIGHLAND_POWER_STATION",
+        "RechargeTurns": 5,
+        "UnitAbilityType": "CHARGED_ABILITY_CLAIM_MOUNTAIN"
+    }
+]

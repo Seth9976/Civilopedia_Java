@@ -1,0 +1,17 @@
+[
+    {
+        "ConstructibleClassType": "BUILDING",
+        "Description": "LOC_CONSTRUCTIBLE_CLASS_DESCRIPTION_BUILDING",
+        "Name": "LOC_CONSTRUCTIBLE_CLASS_NAME_BUILDING"
+    },
+    {
+        "ConstructibleClassType": "IMPROVEMENT",
+        "Description": "LOC_CONSTRUCTIBLE_CLASS_DESCRIPTION_IMPROVEMENT",
+        "Name": "LOC_CONSTRUCTIBLE_CLASS_NAME_IMPROVEMENT"
+    },
+    {
+        "ConstructibleClassType": "WONDER",
+        "Description": "LOC_CONSTRUCTIBLE_CLASS_DESCRIPTION_WONDER",
+        "Name": "LOC_CONSTRUCTIBLE_CLASS_NAME_WONDER"
+    }
+]

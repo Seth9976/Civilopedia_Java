@@ -1,0 +1,112 @@
+[
+    {
+        "DefaultPlayers": 4,
+        "Description": "LOC_MAPSIZE_TINY_DESCRIPTION",
+        "Domain": "StandardMapSizes",
+        "MapSizeType": "MAPSIZE_TINY",
+        "MaxHumans": 4,
+        "MaxPlayers": 4,
+        "MinPlayers": 2,
+        "Name": "LOC_MAPSIZE_TINY_NAME",
+        "SortIndex": 20
+    },
+    {
+        "DefaultPlayers": 6,
+        "Description": "LOC_MAPSIZE_SMALL_DESCRIPTION",
+        "Domain": "StandardMapSizes",
+        "MapSizeType": "MAPSIZE_SMALL",
+        "MaxHumans": 6,
+        "MaxPlayers": 6,
+        "MinPlayers": 2,
+        "Name": "LOC_MAPSIZE_SMALL_NAME",
+        "SortIndex": 30
+    },
+    {
+        "DefaultPlayers": 8,
+        "Description": "LOC_MAPSIZE_STANDARD_DESCRIPTION",
+        "Domain": "StandardMapSizes",
+        "MapSizeType": "MAPSIZE_STANDARD",
+        "MaxHumans": 8,
+        "MaxPlayers": 8,
+        "MinPlayers": 2,
+        "Name": "LOC_MAPSIZE_STANDARD_NAME",
+        "SortIndex": 40
+    },
+    {
+        "DefaultPlayers": 10,
+        "Description": "LOC_MAPSIZE_LARGE_DESCRIPTION",
+        "Domain": "StandardMapSizes",
+        "MapSizeType": "MAPSIZE_LARGE",
+        "MaxHumans": 10,
+        "MaxPlayers": 10,
+        "MinPlayers": 2,
+        "Name": "LOC_MAPSIZE_LARGE_NAME",
+        "SortIndex": 50
+    },
+    {
+        "DefaultPlayers": 10,
+        "Description": "LOC_MAPSIZE_HUGE_DESCRIPTION",
+        "Domain": "StandardMapSizes",
+        "MapSizeType": "MAPSIZE_HUGE",
+        "MaxHumans": 10,
+        "MaxPlayers": 12,
+        "MinPlayers": 2,
+        "Name": "LOC_MAPSIZE_HUGE_NAME",
+        "SortIndex": 60
+    },
+    {
+        "DefaultPlayers": 4,
+        "Description": "LOC_MAPSIZE_TINY_DESCRIPTION",
+        "Domain": "DistantLandsMapSizes",
+        "MapSizeType": "MAPSIZE_TINY",
+        "MaxHumans": 4,
+        "MaxPlayers": 4,
+        "MinPlayers": 2,
+        "Name": "LOC_MAPSIZE_TINY_NAME",
+        "SortIndex": 20
+    },
+    {
+        "DefaultPlayers": 6,
+        "Description": "LOC_MAPSIZE_SMALL_DESCRIPTION",
+        "Domain": "DistantLandsMapSizes",
+        "MapSizeType": "MAPSIZE_SMALL",
+        "MaxHumans": 6,
+        "MaxPlayers": 6,
+        "MinPlayers": 2,
+        "Name": "LOC_MAPSIZE_SMALL_NAME",
+        "SortIndex": 30
+    },
+    {
+        "DefaultPlayers": 8,
+        "Description": "LOC_MAPSIZE_STANDARD_DESCRIPTION",
+        "Domain": "DistantLandsMapSizes",
+        "MapSizeType": "MAPSIZE_STANDARD",
+        "MaxHumans": 8,
+        "MaxPlayers": 8,
+        "MinPlayers": 2,
+        "Name": "LOC_MAPSIZE_STANDARD_NAME",
+        "SortIndex": 40
+    },
+    {
+        "DefaultPlayers": 10,
+        "Description": "LOC_MAPSIZE_LARGE_DESCRIPTION",
+        "Domain": "DistantLandsMapSizes",
+        "MapSizeType": "MAPSIZE_LARGE",
+        "MaxHumans": 10,
+        "MaxPlayers": 10,
+        "MinPlayers": 2,
+        "Name": "LOC_MAPSIZE_LARGE_NAME",
+        "SortIndex": 50
+    },
+    {
+        "DefaultPlayers": 10,
+        "Description": "LOC_MAPSIZE_HUGE_DESCRIPTION",
+        "Domain": "DistantLandsMapSizes",
+        "MapSizeType": "MAPSIZE_HUGE",
+        "MaxHumans": 10,
+        "MaxPlayers": 12,
+        "MinPlayers": 2,
+        "Name": "LOC_MAPSIZE_HUGE_NAME",
+        "SortIndex": 60
+    }
+]

@@ -1,0 +1,642 @@
+[
+    {
+        "Description": "LOC_GOSSIPDESC_CONQUER_CITY",
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_CONQUER_CITY",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_CONQUER_CITY",
+        "VisibilityLevel": 0
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 0,
+        "GossipType": "GOSSIP_CREATE_PANTHEON",
+        "GroupType": "RELIGION",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_CREATE_PANTHEON",
+        "VisibilityLevel": 0
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_FOUND_RELIGION",
+        "ErasUntilObsolete": 0,
+        "Filter": 0,
+        "GossipType": "GOSSIP_FOUND_RELIGION",
+        "GroupType": "RELIGION",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_FOUND_RELIGION",
+        "VisibilityLevel": 0
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_MAKE_DOW",
+        "ErasUntilObsolete": 0,
+        "Filter": 0,
+        "GossipType": "GOSSIP_MAKE_DOW",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_MAKE_DOW",
+        "VisibilityLevel": 0
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_RECEIVE_DOW",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_RECEIVE_DOW",
+        "VisibilityLevel": 0
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_WMD_BUILT",
+        "ErasUntilObsolete": 0,
+        "Filter": 0,
+        "GossipType": "GOSSIP_WMD_BUILT",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_WMD_BUILT",
+        "VisibilityLevel": 4
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_WMD_STRIKE",
+        "ErasUntilObsolete": 0,
+        "Filter": 0,
+        "GossipType": "GOSSIP_WMD_STRIKE",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_WMD_STRIKE",
+        "VisibilityLevel": 0
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_SPACE_RACE_PROJECT_COMPLETED",
+        "ErasUntilObsolete": 0,
+        "Filter": 0,
+        "GossipType": "GOSSIP_SPACE_RACE_PROJECT_COMPLETED",
+        "GroupType": "VICTORY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_SPACE_RACE_PROJECT_COMPLETED",
+        "VisibilityLevel": 0
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_ALLIED",
+        "ErasUntilObsolete": 0,
+        "Filter": 0,
+        "GossipType": "GOSSIP_ALLIED",
+        "GroupType": "DIPLOMACY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_ALLIED",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 0,
+        "GossipType": "GOSSIP_ANARCHY_BEGINS",
+        "GroupType": "CULTURE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_ANARCHY_BEGINS",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_CHANGE_GOVERNMENT",
+        "ErasUntilObsolete": 0,
+        "Filter": 0,
+        "GossipType": "GOSSIP_CHANGE_GOVERNMENT",
+        "GroupType": "CULTURE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_CHANGE_GOVERNMENT",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_CITY_BESIEGED",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_CITY_BESIEGED",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_CITY_LIBERATED",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_CITY_LIBERATED",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_CITY_RAZED",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_CITY_RAZED",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_CLEAR_CAMP",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_CLEAR_CAMP",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_DECLARED_FRIENDSHIP",
+        "GroupType": "DIPLOMACY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_DECLARED_FRIENDSHIP",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_DELEGATION",
+        "GroupType": "DIPLOMACY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_DELEGATION",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_DENOUNCED",
+        "ErasUntilObsolete": 0,
+        "Filter": 0,
+        "GossipType": "GOSSIP_DENOUNCED",
+        "GroupType": "DIPLOMACY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_DENOUNCED",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_FOUND_CITY",
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_FOUND_CITY",
+        "GroupType": "SETTLEMENT",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_FOUND_CITY",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_PILLAGE",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_PILLAGE",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_TRADE_DEAL",
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_TRADE_DEAL",
+        "GroupType": "DIPLOMACY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_TRADE_DEAL",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_TRADE_RENEGE",
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_TRADE_RENEGE",
+        "GroupType": "DIPLOMACY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_TRADE_RENEGE",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 1,
+        "Filter": 1,
+        "GossipType": "GOSSIP_TRAIN_UNIT",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_TRAIN_UNIT",
+        "VisibilityLevel": 1
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_AGENDA_KUDOS",
+        "GroupType": "DIPLOMACY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_AGENDA_KUDOS",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_AGENDA_WARNING",
+        "GroupType": "DIPLOMACY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_AGENDA_WARNING",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_ARTIFACT_EXTRACTED",
+        "GroupType": "DISCOVER",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_ARTIFACT_EXTRACTED",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_BARBARIAN_INVASION_STARTED",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_BARBARIAN_INVASION_STARTED",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_BARBARIAN_RAID_STARTED",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_BARBARIAN_RAID_STARTED",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_BEACH_RESORT_CREATED",
+        "GroupType": "CITY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_BEACH_RESORT_CREATED",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 1,
+        "Filter": 1,
+        "GossipType": "GOSSIP_CONSTRUCT_BUILDING",
+        "GroupType": "CITY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_CONSTRUCT_BUILDING",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_CONSTRUCT_DISTRICT",
+        "ErasUntilObsolete": 1,
+        "Filter": 1,
+        "GossipType": "GOSSIP_CONSTRUCT_DISTRICT",
+        "GroupType": "CITY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_CONSTRUCT_DISTRICT",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_EMBASSY",
+        "GroupType": "DIPLOMACY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_EMBASSY",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_FIND_NATURAL_WONDER",
+        "GroupType": "DISCOVER",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_FIND_NATURAL_WONDER",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_GREATPERSON_CREATED",
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_GREATPERSON_CREATED",
+        "GroupType": "GREATPERSON",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_GREATPERSON_CREATED",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_INQUISITION_LAUNCHED",
+        "GroupType": "RELIGION",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_INQUISITION_LAUNCHED",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_NATIONAL_PARK_CREATED",
+        "GroupType": "CULTURE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_NATIONAL_PARK_CREATED",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_POLICY_ENACTED",
+        "ErasUntilObsolete": 1,
+        "Filter": 1,
+        "GossipType": "GOSSIP_POLICY_ENACTED",
+        "GroupType": "CULTURE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_POLICY",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_RELIC_RECEIVED",
+        "GroupType": "RELIGION",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_RELIC_RECEIVED",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_WONDER_STARTED",
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_WONDER_STARTED",
+        "GroupType": "CITY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_WONDER_STARTED",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_CITY_STATE_INFLUENCE",
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_CITY_STATE_INFLUENCE",
+        "GroupType": "DIPLOMACY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_CITY_STATE_INFLUENCE",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_CULTURVATE_CIVIC",
+        "ErasUntilObsolete": 1,
+        "Filter": 1,
+        "GossipType": "GOSSIP_CULTUREVATE_CIVIC",
+        "GroupType": "CULTURE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_CULTUREVATE_CIVIC",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_LAND_UNIT_LEVEL",
+        "GroupType": "MILITARY",
+        "LevelRequired": 3,
+        "Message": "LOC_GOSSIP_LAND_UNIT_LEVEL",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_NAVAL_UNIT_LEVEL",
+        "GroupType": "MILITARY",
+        "LevelRequired": 3,
+        "Message": "LOC_GOSSIP_NAVAL_UNIT_LEVEL",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_NEW_RELIGIOUS_MAJORITY",
+        "GroupType": "RELIGION",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_NEW_RELIGIOUS_MAJORITY",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_RESEARCH_AGREEMENT",
+        "GroupType": "SCIENCE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_RESEARCH_AGREEMENT",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_RESEARCH_TECH",
+        "ErasUntilObsolete": 1,
+        "Filter": 1,
+        "GossipType": "GOSSIP_RESEARCH_TECH",
+        "GroupType": "SCIENCE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_RESEARCH_TECH",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_SPY_DISRUPT_ROCKETRY",
+        "GroupType": "ESPIONAGE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_DISRUPT_ROCKETRY",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_SPY_GREAT_WORK_HEIST",
+        "GroupType": "ESPIONAGE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_GREAT_WORK_HEIST",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_SPY_SABOTAGE_PRODUCTION",
+        "GroupType": "ESPIONAGE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_SABOTAGE_PRODUCTION",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_TRAIN_SETTLER",
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_TRAIN_SETTLER",
+        "GroupType": "SETTLEMENT",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_TRAIN_SETTLER",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_SPY_RECRUIT_PARTISANS",
+        "GroupType": "ESPIONAGE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_RECRUIT_PARTISANS",
+        "VisibilityLevel": 4
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_SPY_SIPHON_FUNDS",
+        "GroupType": "ESPIONAGE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_SIPHON_FUNDS",
+        "VisibilityLevel": 4
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_SPY_STEAL_TECH_BOOST",
+        "GroupType": "ESPIONAGE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_STEAL_TECH_BOOST",
+        "VisibilityLevel": 4
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_ATTACK_LAUNCHED",
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_ATTACK_LAUNCHED",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_LAUNCHING_ATTACK",
+        "VisibilityLevel": 4
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_PROJECT_STARTED",
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_PROJECT_STARTED",
+        "GroupType": "CITY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_PROJECT_STARTED",
+        "VisibilityLevel": 4
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_VICTORY_STRATEGY_CHANGED",
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_VICTORY_STRATEGY_CHANGED",
+        "GroupType": "VICTORY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_START_VICTORY_STRATEGY",
+        "VisibilityLevel": 4
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_WAR_PREPARATION",
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_WAR_PREPARATION",
+        "GroupType": "MILITARY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_WAR_PREPARATION",
+        "VisibilityLevel": 4
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_SPY_FOMENT_UNREST",
+        "GroupType": "ESPIONAGE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_FOMENT_UNREST",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_SPY_NEUTRALIZE_GOVERNOR",
+        "GroupType": "ESPIONAGE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_NEUTRALIZE_GOVERNOR",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_POWERED_CITY",
+        "GroupType": "CITY",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_POWERED_CITY",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_RANDOM_EVENT",
+        "GroupType": "CLIMATE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_RANDOM_EVENT",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_ROCK_CONCERT",
+        "GroupType": "CULTURE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_ROCK_CONCERT",
+        "VisibilityLevel": 2
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_SPY_BREACH_DAM",
+        "GroupType": "ESPIONAGE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_SPY_DAM_BREACHED_DETECTED",
+        "VisibilityLevel": 3
+    },
+    {
+        "Description": null,
+        "ErasUntilObsolete": 0,
+        "Filter": 1,
+        "GossipType": "GOSSIP_SPY_CAPTURED",
+        "GroupType": "ESPIONAGE",
+        "LevelRequired": 0,
+        "Message": "LOC_GOSSIP_SPY_CAPTURED",
+        "VisibilityLevel": 2
+    }
+]

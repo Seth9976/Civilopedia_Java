@@ -1,0 +1,466 @@
+[
+    {
+        "BaseAbility": 1,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_REDOUBT_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_REDOUBT",
+        "Level": 0,
+        "Name": "LOC_GOVERNOR_PROMOTION_REDOUBT_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_GARRISON_COMMANDER",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_DEFENSE_LOGISTICS",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SECURITY_EXPERT",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_EMBRASURE_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EMBRASURE",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_EMBRASURE_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE",
+        "Level": 3,
+        "Name": "LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_NAME"
+    },
+    {
+        "BaseAbility": 1,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER",
+        "Level": 0,
+        "Name": "LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER",
+        "Level": 3,
+        "Name": "LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_NAME"
+    },
+    {
+        "BaseAbility": 1,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_BISHOP",
+        "Level": 0,
+        "Name": "LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT",
+        "Level": 3,
+        "Name": "LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_NAME"
+    },
+    {
+        "BaseAbility": 1,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER",
+        "Level": 0,
+        "Name": "LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION",
+        "Level": 3,
+        "Name": "LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_NAME"
+    },
+    {
+        "BaseAbility": 1,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_BUILDER_GUILDMASTER",
+        "Level": 0,
+        "Name": "LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_INFRASTRUCTURE",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_AQUACULTURE_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AQUACULTURE",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_AQUACULTURE_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_ZONING_COMMISSIONER",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_ARCHITECT_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_ARCHITECT",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_ARCHITECT_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_PARKS_RECREATION",
+        "Level": 3,
+        "Name": "LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_NAME"
+    },
+    {
+        "BaseAbility": 1,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN",
+        "Level": 0,
+        "Name": "LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_GRANTS",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT",
+        "Level": 3,
+        "Name": "LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE",
+        "Level": 3,
+        "Name": "LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_NAME"
+    },
+    {
+        "BaseAbility": 1,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION",
+        "Level": 0,
+        "Name": "LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 0,
+        "Description": "LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR",
+        "Level": 3,
+        "Name": "LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 2,
+        "Description": "LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_CURATOR",
+        "Level": 3,
+        "Name": "LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_NAME"
+    },
+    {
+        "BaseAbility": 1,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_OWLS_OF_MINERVA_1_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_1",
+        "Level": 0,
+        "Name": "LOC_GOVERNOR_PROMOTION_OWLS_OF_MINERVA_1_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_OWLS_OF_MINERVA_2_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_2",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_OWLS_OF_MINERVA_2_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4",
+        "Level": 3,
+        "Name": "LOC_GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4_NAME"
+    },
+    {
+        "BaseAbility": 1,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_HERMETIC_ORDER_1_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_1",
+        "Level": 0,
+        "Name": "LOC_GOVERNOR_PROMOTION_HERMETIC_ORDER_1_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_HERMETIC_ORDER_2_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_2",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_HERMETIC_ORDER_2_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_HERMETIC_ORDER_3_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_3",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_HERMETIC_ORDER_3_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_HERMETIC_ORDER_4_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_4",
+        "Level": 3,
+        "Name": "LOC_GOVERNOR_PROMOTION_HERMETIC_ORDER_4_NAME"
+    },
+    {
+        "BaseAbility": 1,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_VOIDSINGERS_1_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_VOIDSINGERS_1",
+        "Level": 0,
+        "Name": "LOC_GOVERNOR_PROMOTION_VOIDSINGERS_1_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_VOIDSINGERS_2_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_VOIDSINGERS_2",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_VOIDSINGERS_2_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_VOIDSINGERS_3_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_VOIDSINGERS_3",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_VOIDSINGERS_3_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_VOIDSINGERS_4_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_VOIDSINGERS_4",
+        "Level": 3,
+        "Name": "LOC_GOVERNOR_PROMOTION_VOIDSINGERS_4_NAME"
+    },
+    {
+        "BaseAbility": 1,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_SANGUINE_PACT_1_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_1",
+        "Level": 0,
+        "Name": "LOC_GOVERNOR_PROMOTION_SANGUINE_PACT_1_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_SANGUINE_PACT_2_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_2",
+        "Level": 1,
+        "Name": "LOC_GOVERNOR_PROMOTION_SANGUINE_PACT_2_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_SANGUINE_PACT_3_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_3",
+        "Level": 2,
+        "Name": "LOC_GOVERNOR_PROMOTION_SANGUINE_PACT_3_NAME"
+    },
+    {
+        "BaseAbility": 0,
+        "Column": 1,
+        "Description": "LOC_GOVERNOR_PROMOTION_SANGUINE_PACT_4_DESCRIPTION",
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_4",
+        "Level": 3,
+        "Name": "LOC_GOVERNOR_PROMOTION_SANGUINE_PACT_4_NAME"
+    }
+]

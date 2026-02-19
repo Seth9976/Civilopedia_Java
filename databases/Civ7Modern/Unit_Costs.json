@@ -1,0 +1,627 @@
+[
+    {
+        "Cost": 1,
+        "UnitType": "UNIT_MIGRANT",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Cost": 30,
+        "UnitType": "UNIT_SCOUT",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 50,
+        "UnitType": "UNIT_SETTLER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 40,
+        "UnitType": "UNIT_MERCHANT",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 100,
+        "UnitType": "UNIT_ARMY_COMMANDER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 120,
+        "UnitType": "UNIT_FLEET_COMMANDER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 140,
+        "UnitType": "UNIT_SQUADRON_COMMANDER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 160,
+        "UnitType": "UNIT_CARRIER_COMMANDER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_LINE_INFANTRY",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 270,
+        "UnitType": "UNIT_FIELD_CANNON",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 350,
+        "UnitType": "UNIT_CUIRASSIER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 260,
+        "UnitType": "UNIT_MORTAR",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 280,
+        "UnitType": "UNIT_IRONCLAD",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 320,
+        "UnitType": "UNIT_FRIGATE",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 340,
+        "UnitType": "UNIT_RIFLEMAN",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 320,
+        "UnitType": "UNIT_FIELD_GUN",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 400,
+        "UnitType": "UNIT_LANDSHIP",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 310,
+        "UnitType": "UNIT_HEAVY_ARTILLERY",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 340,
+        "UnitType": "UNIT_CRUISER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 370,
+        "UnitType": "UNIT_DREADNOUGHT",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 340,
+        "UnitType": "UNIT_BIPLANE",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 350,
+        "UnitType": "UNIT_TRENCH_FIGHTER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 370,
+        "UnitType": "UNIT_BOMBER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 400,
+        "UnitType": "UNIT_INFANTRY_COMPANY",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 380,
+        "UnitType": "UNIT_AT_GUN",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 460,
+        "UnitType": "UNIT_TANK",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 370,
+        "UnitType": "UNIT_ASSAULT_GUN",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 400,
+        "UnitType": "UNIT_DESTROYER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 430,
+        "UnitType": "UNIT_BATTLESHIP",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 430,
+        "UnitType": "UNIT_SUBMARINE",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 400,
+        "UnitType": "UNIT_FIGHTER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 410,
+        "UnitType": "UNIT_DIVEBOMBER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 430,
+        "UnitType": "UNIT_HEAVY_BOMBER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 400,
+        "UnitType": "UNIT_EXPLORER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_ABAMBOWA",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 340,
+        "UnitType": "UNIT_ABAMBOWA_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 400,
+        "UnitType": "UNIT_ABAMBOWA_3",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 270,
+        "UnitType": "UNIT_CHANG_BEUN",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 320,
+        "UnitType": "UNIT_CHANG_BEUN_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 380,
+        "UnitType": "UNIT_CHANG_BEUN_3",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 300,
+        "UnitType": "UNIT_COSSACK",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 350,
+        "UnitType": "UNIT_COSSACK_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 410,
+        "UnitType": "UNIT_COSSACK_3",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 300,
+        "UnitType": "UNIT_GARDE_IMPERIALE",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 350,
+        "UnitType": "UNIT_GARDE_IMPERIALE_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 410,
+        "UnitType": "UNIT_GARDE_IMPERIALE_3",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 300,
+        "UnitType": "UNIT_HUSSAR",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 350,
+        "UnitType": "UNIT_HUSSAR_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 410,
+        "UnitType": "UNIT_HUSSAR_3",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_GUSA",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 340,
+        "UnitType": "UNIT_GUSA_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 400,
+        "UnitType": "UNIT_GUSA_3",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 310,
+        "UnitType": "UNIT_KATYUSHA",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 370,
+        "UnitType": "UNIT_KATYUSHA_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 330,
+        "UnitType": "UNIT_MARINE",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 390,
+        "UnitType": "UNIT_MARINE_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 370,
+        "UnitType": "UNIT_MIKASA",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 430,
+        "UnitType": "UNIT_MIKASA_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_SEPOY",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 340,
+        "UnitType": "UNIT_SEPOY_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 400,
+        "UnitType": "UNIT_SEPOY_3",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_SOLDADERAS",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 340,
+        "UnitType": "UNIT_SOLDADERAS_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 400,
+        "UnitType": "UNIT_SOLDADERAS_3",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 350,
+        "UnitType": "UNIT_STUKA",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 720,
+        "UnitType": "UNIT_STUKA_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 350,
+        "UnitType": "UNIT_ZERO",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 410,
+        "UnitType": "UNIT_ZERO_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 310,
+        "UnitType": "UNIT_PARTISAN",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 360,
+        "UnitType": "UNIT_PARTISAN_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 420,
+        "UnitType": "UNIT_PARTISAN_3",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_JACOBIN",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_JACOBIN_BARRAS",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_JACOBIN_BILLAUD_VARENNE",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_JACOBIN_BRISSOT",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_JACOBIN_D_AELDERS",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_JACOBIN_DANTON",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_JACOBIN_DESMOULINS",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_JACOBIN_GOUGES",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_JACOBIN_MARAT",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_JACOBIN_ROBESPIERRE",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_JACOBIN_SAINT_JUST",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 100,
+        "UnitType": "UNIT_MWAMI",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_REVOLUCIONARIO",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_REVOLUCIONARIO_AVILA",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_REVOLUCIONARIO_GUERRERO",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_REVOLUCIONARIO_HERRERA",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_REVOLUCIONARIO_HIDALGO",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_REVOLUCIONARIO_JIMENEZ",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_REVOLUCIONARIO_JUAREZ",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_REVOLUCIONARIO_MORELOS",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_REVOLUCIONARIO_SANTA_ANNA",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_REVOLUCIONARIO_VILLA",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_REVOLUCIONARIO_ZAPATA",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_UPARAT",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_UPARAT_CHAKRABONGSE",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_UPARAT_ITSARASUNTHON",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_UPARAT_PHIBUN",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_UPARAT_PINKLAO",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_UPARAT_PRIDI",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_UPARAT_RASMI",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_UPARAT_SAKDIPHONLASEP",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_UPARAT_SENANURAK",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_UPARAT_VAJRAVUDH",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_UPARAT_WICHAICHAN",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 140,
+        "UnitType": "UNIT_HANGSHANG",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 60,
+        "UnitType": "UNIT_ZAMINDAR",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 60,
+        "UnitType": "UNIT_PROSPECTOR",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 290,
+        "UnitType": "UNIT_JANISSARY",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 340,
+        "UnitType": "UNIT_JANISSARY_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 400,
+        "UnitType": "UNIT_JANISSARY_3",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 280,
+        "UnitType": "UNIT_BARBARY_CORSAIR",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 340,
+        "UnitType": "UNIT_BARBARY_CORSAIR_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 400,
+        "UnitType": "UNIT_BARBARY_CORSAIR_3",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 310,
+        "UnitType": "UNIT_REVENGE",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 640,
+        "UnitType": "UNIT_REVENGE_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 400,
+        "UnitType": "UNIT_ANTIQUARIAN",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 300,
+        "UnitType": "UNIT_GURKHA",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 350,
+        "UnitType": "UNIT_GURKHA_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 410,
+        "UnitType": "UNIT_GURKHA_3",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 30,
+        "UnitType": "UNIT_SHERPA",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 350,
+        "UnitType": "UNIT_GHILMAN",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 400,
+        "UnitType": "UNIT_GHILMAN_2",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 460,
+        "UnitType": "UNIT_GHILMAN_3",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Cost": 100,
+        "UnitType": "UNIT_SOLTAN",
+        "YieldType": "YIELD_PRODUCTION"
+    }
+]

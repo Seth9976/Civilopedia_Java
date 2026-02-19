@@ -1,0 +1,62 @@
+[
+    {
+        "Description": "LOC_VICTORY_DOMINATION_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "NO_LEGACY_PATH_CLASS",
+        "Name": "LOC_VICTORY_DOMINATION_NAME",
+        "RequirementSetId": "REQSET_DOMINATION_VICTORY",
+        "RequiresMultipleTeams": 0,
+        "VictoryClassType": "VICTORY_CLASS_DOMINATION",
+        "VictoryType": "VICTORY_DOMINATION"
+    },
+    {
+        "Description": "LOC_VICTORY_LEGACY_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "NO_LEGACY_PATH_CLASS",
+        "Name": "LOC_VICTORY_LEGACY_NAME",
+        "RequirementSetId": "REQSET_LEGACY_VICTORY",
+        "RequiresMultipleTeams": 0,
+        "VictoryClassType": "VICTORY_CLASS_LEGACY",
+        "VictoryType": "VICTORY_LEGACY"
+    },
+    {
+        "Description": "LOC_VICTORY_MODERN_ECONOMIC_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "NO_LEGACY_PATH_CLASS",
+        "Name": "LOC_VICTORY_MODERN_ECONOMIC_NAME",
+        "RequirementSetId": "REQSET_VICTORY_MODERN_ECONOMIC",
+        "RequiresMultipleTeams": 0,
+        "VictoryClassType": "VICTORY_CLASS_ECONOMIC",
+        "VictoryType": "VICTORY_MODERN_ECONOMIC"
+    },
+    {
+        "Description": "LOC_VICTORY_MODERN_MILITARY_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "NO_LEGACY_PATH_CLASS",
+        "Name": "LOC_VICTORY_MODERN_MILITARY_NAME",
+        "RequirementSetId": "REQSET_VICTORY_MODERN_MILITARY",
+        "RequiresMultipleTeams": 0,
+        "VictoryClassType": "VICTORY_CLASS_MILITARY",
+        "VictoryType": "VICTORY_MODERN_MILITARY"
+    },
+    {
+        "Description": "LOC_VICTORY_MODERN_SCIENCE_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "NO_LEGACY_PATH_CLASS",
+        "Name": "LOC_VICTORY_MODERN_SCIENCE_NAME",
+        "RequirementSetId": "REQSET_VICTORY_MODERN_SCIENCE",
+        "RequiresMultipleTeams": 0,
+        "VictoryClassType": "VICTORY_CLASS_SCIENCE",
+        "VictoryType": "VICTORY_MODERN_SCIENCE"
+    },
+    {
+        "Description": "LOC_VICTORY_MODERN_CULTURE_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "NO_LEGACY_PATH_CLASS",
+        "Name": "LOC_VICTORY_MODERN_CULTURE_NAME",
+        "RequirementSetId": "REQSET_VICTORY_MODERN_CULTURE",
+        "RequiresMultipleTeams": 0,
+        "VictoryClassType": "VICTORY_CLASS_CULTURE",
+        "VictoryType": "VICTORY_MODERN_CULTURE"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "EmbarkationType": "UNIT_EMBARKATION_INLAND_WATER",
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER"
+    },
+    {
+        "EmbarkationType": "UNIT_EMBARKATION_SHALLOW_WATER",
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER"
+    },
+    {
+        "EmbarkationType": "UNIT_EMBARKATION_SHALLOW_WATER",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "EmbarkationType": "UNIT_EMBARKATION_DEEP_WATER",
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER"
+    },
+    {
+        "EmbarkationType": "UNIT_EMBARKATION_DEEP_WATER",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "EmbarkationType": "UNIT_EMBARKATION_DEEP_WATER",
+        "TerrainType": "TERRAIN_OCEAN"
+    }
+]

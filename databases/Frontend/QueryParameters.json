@@ -1,0 +1,182 @@
+[
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "RuleSet",
+        "Index": 1,
+        "QueryID": "RulesetParameters"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "StartAge",
+        "Index": 1,
+        "QueryID": "AgeParameters"
+    },
+    {
+        "ConfigurationGroup": "Map",
+        "ConfigurationKey": "Script",
+        "Index": 1,
+        "QueryID": "MapParameters"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "StartAge",
+        "Index": 1,
+        "QueryID": "DefeatParameters"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "StartAge",
+        "Index": 1,
+        "QueryID": "VictoryParameters"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "WorldBuilder",
+        "Index": 1,
+        "QueryID": "Maps"
+    },
+    {
+        "ConfigurationGroup": "Map",
+        "ConfigurationKey": "Script",
+        "Index": 1,
+        "QueryID": "DomainOverridesByMap"
+    },
+    {
+        "ConfigurationGroup": "Player",
+        "ConfigurationKey": "PlayerID",
+        "Index": 2,
+        "QueryID": "DomainOverridesByMap"
+    },
+    {
+        "ConfigurationGroup": "Map",
+        "ConfigurationKey": "Script",
+        "Index": 1,
+        "QueryID": "MapLeaders"
+    },
+    {
+        "ConfigurationGroup": "Map",
+        "ConfigurationKey": "Script",
+        "Index": 1,
+        "QueryID": "SupportedValuesByMap"
+    },
+    {
+        "ConfigurationGroup": "Player",
+        "ConfigurationKey": "PlayerID",
+        "Index": 2,
+        "QueryID": "SupportedValuesByMap"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "Script",
+        "Index": 1,
+        "QueryID": "UnSupportedValuesByMap"
+    },
+    {
+        "ConfigurationGroup": "Player",
+        "ConfigurationKey": "PlayerID",
+        "Index": 2,
+        "QueryID": "UnSupportedValuesByMap"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "RuleSet",
+        "Index": 1,
+        "QueryID": "DomainOverridesByRuleset"
+    },
+    {
+        "ConfigurationGroup": "Player",
+        "ConfigurationKey": "PlayerID",
+        "Index": 2,
+        "QueryID": "DomainOverridesByRuleset"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "RuleSet",
+        "Index": 1,
+        "QueryID": "SupportedValuesByRuleset"
+    },
+    {
+        "ConfigurationGroup": "Player",
+        "ConfigurationKey": "PlayerID",
+        "Index": 2,
+        "QueryID": "SupportedValuesByRuleset"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "RuleSet",
+        "Index": 1,
+        "QueryID": "UnSupportedValuesByRuleset"
+    },
+    {
+        "ConfigurationGroup": "Player",
+        "ConfigurationKey": "PlayerID",
+        "Index": 2,
+        "QueryID": "UnSupportedValuesByRuleset"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "StartAge",
+        "Index": 1,
+        "QueryID": "DomainOverridesByAge"
+    },
+    {
+        "ConfigurationGroup": "Player",
+        "ConfigurationKey": "PlayerID",
+        "Index": 2,
+        "QueryID": "DomainOverridesByAge"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "StartAge",
+        "Index": 1,
+        "QueryID": "PlayerCivilizationsByAge"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "StartAge",
+        "Index": 1,
+        "QueryID": "MapSizesByAge"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "StartAge",
+        "Index": 1,
+        "QueryID": "SupportedValuesByAge"
+    },
+    {
+        "ConfigurationGroup": "Player",
+        "ConfigurationKey": "PlayerID",
+        "Index": 2,
+        "QueryID": "SupportedValuesByAge"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "StartAge",
+        "Index": 1,
+        "QueryID": "UnSupportedValuesByAge"
+    },
+    {
+        "ConfigurationGroup": "Player",
+        "ConfigurationKey": "PlayerID",
+        "Index": 2,
+        "QueryID": "UnSupportedValuesByAge"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "StartAge",
+        "Index": 1,
+        "QueryID": "FixedMaxTurns"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "StartAge",
+        "Index": 1,
+        "QueryID": "ConfigurationUpdatesByAge"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "RuleSet",
+        "Index": 1,
+        "QueryID": "ConfigurationUpdatesByRuleset"
+    }
+]

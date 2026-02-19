@@ -1,0 +1,90 @@
+[
+    {
+        "ListType": "CityStrategyFoodBias",
+        "StrategyType": "CITY_STRATEGY_EARLY_FOOD"
+    },
+    {
+        "ListType": "CityStrategyProductionBias",
+        "StrategyType": "CITY_STRATEGY_PRODUCTION_BIAS"
+    },
+    {
+        "ListType": "CityStrategyHappinessBias",
+        "StrategyType": "CITY_STRATEGY_STAY_HAPPY"
+    },
+    {
+        "ListType": "CityWonderBias",
+        "StrategyType": "CITY_STRATEGY_WONDERS"
+    },
+    {
+        "ListType": "LegacyPathStrategyExpansionBudgetBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION"
+    },
+    {
+        "ListType": "LegacyPathStrategyExpansionPseudoYieldBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION"
+    },
+    {
+        "ListType": "LegacyPathStrategyExpansionYieldBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION"
+    },
+    {
+        "ListType": "LegacyPathStrategyExpansionTagBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION"
+    },
+    {
+        "ListType": "LegacyPathStrategyExpansionConstructibleClassesBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION"
+    },
+    {
+        "ListType": "LegacyPathStrategyScienceConstructibleBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_SCIENCE"
+    },
+    {
+        "ListType": "LegacyPathStrategyScienceYieldBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_SCIENCE"
+    },
+    {
+        "ListType": "LegacyPathStrategySciencePseudoYieldBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_SCIENCE"
+    },
+    {
+        "ListType": "LegacyPathStrategyScienceConstructibleClassesBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_SCIENCE"
+    },
+    {
+        "ListType": "LegacyPathStrategyScienceBudgetBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_SCIENCE"
+    },
+    {
+        "ListType": "LegacyPathStrategyScienceProgressionTreeNodesBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_SCIENCE"
+    },
+    {
+        "ListType": "LegacyPathStrategyWondersConstructibleClassesBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_WONDERS"
+    },
+    {
+        "ListType": "LegacyPathStrategyWondersYieldBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_WONDERS"
+    },
+    {
+        "ListType": "LegacyPathStrategyWondersPseudoYieldBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_WONDERS"
+    },
+    {
+        "ListType": "LegacyPathStrategyImportsPseudoYieldBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_IMPORTS"
+    },
+    {
+        "ListType": "LegacyPathStrategyImportsProgressionTreeNodesBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_IMPORTS"
+    },
+    {
+        "ListType": "LegacyPathStrategyImportsUnitBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_IMPORTS"
+    },
+    {
+        "ListType": "LegacyPathStrategyImportsBudgetBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_IMPORTS"
+    }
+]

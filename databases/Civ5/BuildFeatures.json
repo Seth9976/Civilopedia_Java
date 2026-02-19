@@ -1,0 +1,533 @@
+[
+    {
+        "BuildType": "BUILD_FARM",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_FARM",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_FARM",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 600
+    },
+    {
+        "BuildType": "BUILD_MINE",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_MINE",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_MINE",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 600
+    },
+    {
+        "BuildType": "BUILD_TRADING_POST",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 0,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_TRADING_POST",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 0,
+        "Remove": 0,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_TRADING_POST",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 0,
+        "Time": 600
+    },
+    {
+        "BuildType": "BUILD_PASTURE",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_PASTURE",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_PASTURE",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 600
+    },
+    {
+        "BuildType": "BUILD_PLANTATION",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_PLANTATION",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_PLANTATION",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 600
+    },
+    {
+        "BuildType": "BUILD_QUARRY",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_QUARRY",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_QUARRY",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 600
+    },
+    {
+        "BuildType": "BUILD_FORT",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 0,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_FORT",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 0,
+        "Remove": 0,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_FORT",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 0,
+        "Time": 600
+    },
+    {
+        "BuildType": "BUILD_REMOVE_JUNGLE",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_REMOVE_FOREST",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_REMOVE_MARSH",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 600
+    },
+    {
+        "BuildType": "BUILD_SCRUB_FALLOUT",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FALLOUT",
+        "PrereqTech": null,
+        "Production": 0,
+        "Remove": 1,
+        "Time": 300
+    },
+    {
+        "BuildType": "BUILD_LANDMARK",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_LANDMARK",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_LANDMARK",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_ACADEMY",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_ACADEMY",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_ACADEMY",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_CUSTOMS_HOUSE",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_CUSTOMS_HOUSE",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_CUSTOMS_HOUSE",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_MANUFACTORY",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_MANUFACTORY",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_MANUFACTORY",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_CITADEL",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_CITADEL",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_CITADEL",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_WELL",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_WELL",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_WELL",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 600
+    },
+    {
+        "BuildType": "BUILD_TERRACE_FARM",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_TERRACE_FARM",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_MOAI",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_MOAI",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_HOLY_SITE",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_HOLY_SITE",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_HOLY_SITE",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": null
+    },
+    {
+        "BuildType": "BUILD_ARCHAEOLOGY_DIG",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_ARCHAEOLOGY_DIG",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_ARCHAEOLOGY_DIG",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 600
+    },
+    {
+        "BuildType": "BUILD_FEITORIA",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_FEITORIA",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_FEITORIA",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 600
+    },
+    {
+        "BuildType": "BUILD_CHATEAU",
+        "Cost": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "PrereqTech": "TECH_BRONZE_WORKING",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 700
+    },
+    {
+        "BuildType": "BUILD_CHATEAU",
+        "Cost": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "PrereqTech": "TECH_MINING",
+        "Production": 20,
+        "Remove": 1,
+        "Time": 400
+    },
+    {
+        "BuildType": "BUILD_CHATEAU",
+        "Cost": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "PrereqTech": "TECH_MASONRY",
+        "Production": 0,
+        "Remove": 1,
+        "Time": 600
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "Description": "TXT_KEY_CALENDAR_DEFAULT",
+        "ID": 0,
+        "Type": "CALENDAR_DEFAULT"
+    },
+    {
+        "Description": "TXT_KEY_CALENDAR_BI_YEARLY",
+        "ID": 1,
+        "Type": "CALENDAR_BI_YEARLY"
+    },
+    {
+        "Description": "TXT_KEY_CALENDAR_YEARS",
+        "ID": 2,
+        "Type": "CALENDAR_YEARS"
+    },
+    {
+        "Description": "TXT_KEY_CALENDAR_TURNS",
+        "ID": 3,
+        "Type": "CALENDAR_TURNS"
+    },
+    {
+        "Description": "TXT_KEY_CALENDAR_SEASONS",
+        "ID": 4,
+        "Type": "CALENDAR_SEASONS"
+    },
+    {
+        "Description": "TXT_KEY_CALENDAR_MONTHS",
+        "ID": 5,
+        "Type": "CALENDAR_MONTHS"
+    },
+    {
+        "Description": "TXT_KEY_CALENDAR_WEEKS",
+        "ID": 6,
+        "Type": "CALENDAR_WEEKS"
+    }
+]

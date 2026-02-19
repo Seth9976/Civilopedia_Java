@@ -1,0 +1,90 @@
+[
+    {
+        "ConditionType": "Nearest Enemy City",
+        "GoodTooltipString": "LOC_PLACEHOLDER_GOOD",
+        "GoodValue": 0,
+        "PoorTooltipString": "LOC_PLACEHOLDER_BAD",
+        "PoorValue": 0,
+        "Value": 0
+    },
+    {
+        "ConditionType": "Nearest Friendly City",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_NEAREST_CITY",
+        "GoodValue": -20,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_NEAREST_CITY",
+        "PoorValue": -50,
+        "Value": 1
+    },
+    {
+        "ConditionType": "New Resources",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_NEW_RESOURCES",
+        "GoodValue": 4,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_NEW_RESOURCES",
+        "PoorValue": 0,
+        "Value": 2
+    },
+    {
+        "ConditionType": "Inner Ring Yield",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_INNER_YIELD",
+        "GoodValue": 26,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_INNER_YIELD",
+        "PoorValue": 18,
+        "Value": 3
+    },
+    {
+        "ConditionType": "Total Yield",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_TOTAL_YIELD",
+        "GoodValue": 50,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_TOTAL_YIELD",
+        "PoorValue": 30,
+        "Value": 4
+    },
+    {
+        "ConditionType": "Coastal",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_COAST",
+        "GoodValue": 12,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_COAST",
+        "PoorValue": -1,
+        "Value": 5
+    },
+    {
+        "ConditionType": "Fresh Water",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_FRESH_WATER",
+        "GoodValue": 20,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_FRESH_WATER",
+        "PoorValue": 0,
+        "Value": 6
+    },
+    {
+        "ConditionType": "Specific Resource",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_RESOURCES",
+        "GoodValue": 6,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_RESOURCES",
+        "PoorValue": -1,
+        "Value": 7
+    },
+    {
+        "ConditionType": "Specific Feature",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_FEATURES",
+        "GoodValue": 5,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_FEATURES",
+        "PoorValue": -5,
+        "Value": 8
+    },
+    {
+        "ConditionType": "Resource Class",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_STRATEGIC_RESOURCES",
+        "GoodValue": 6,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_STRATEGIC_RESOURCES",
+        "PoorValue": 2,
+        "Value": 9
+    },
+    {
+        "ConditionType": "Foreign Continent",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_FOREIGN_CONTINENT",
+        "GoodValue": 50,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_FOREIGN_CONTINENT",
+        "PoorValue": -2,
+        "Value": 10
+    }
+]

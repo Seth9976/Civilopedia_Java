@@ -1,0 +1,790 @@
+[
+    {
+        "ModifierId": "RANGER_IGNORE_FOREST_MOVEMENT_PENALTY",
+        "UnitPromotionType": "PROMOTION_RANGER"
+    },
+    {
+        "ModifierId": "ALPINE_IGNORE_HILLS_MOVEMENT_PENALTY",
+        "UnitPromotionType": "PROMOTION_ALPINE"
+    },
+    {
+        "ModifierId": "SENTRY_SEE_THROUGH_FEATURES",
+        "UnitPromotionType": "PROMOTION_SENTRY"
+    },
+    {
+        "ModifierId": "FADE_BONUS_MOVE_AFTER_ATTACKING",
+        "UnitPromotionType": "PROMOTION_GUERRILLA"
+    },
+    {
+        "ModifierId": "SPYGLASS_BONUS_SIGHT",
+        "UnitPromotionType": "PROMOTION_SPYGLASS"
+    },
+    {
+        "ModifierId": "AMBUSH_INCREASED_COMBAT_STRENGTH",
+        "UnitPromotionType": "PROMOTION_AMBUSH"
+    },
+    {
+        "ModifierId": "CAMOUFLAGE_STEALTH",
+        "UnitPromotionType": "PROMOTION_CAMOUFLAGE"
+    },
+    {
+        "ModifierId": "BATTLECRY_BONUS_VS_MELEE_RANGED",
+        "UnitPromotionType": "PROMOTION_BATTLECRY"
+    },
+    {
+        "ModifierId": "TORTOISE_DEFENSE_BONUS_VS_RANGED_COMBAT",
+        "UnitPromotionType": "PROMOTION_TORTOISE"
+    },
+    {
+        "ModifierId": "COMMANDO_BONUS_IGNORE_CLIFF_WALLS",
+        "UnitPromotionType": "PROMOTION_COMMANDO"
+    },
+    {
+        "ModifierId": "COMMANDO_BONUS_MOVEMENT",
+        "UnitPromotionType": "PROMOTION_COMMANDO"
+    },
+    {
+        "ModifierId": "AMPHIBIOUS_BONUS_IGNORE_RIVERS",
+        "UnitPromotionType": "PROMOTION_AMPHIBIOUS"
+    },
+    {
+        "ModifierId": "AMPHIBIOUS_BONUS_IGNORE_SHORES",
+        "UnitPromotionType": "PROMOTION_AMPHIBIOUS"
+    },
+    {
+        "ModifierId": "ZWEIHANDER_BONUS_VS_ANTI_CAVALRY",
+        "UnitPromotionType": "PROMOTION_ZWEIHANDER"
+    },
+    {
+        "ModifierId": "URBAN_WARFARE_BONUS",
+        "UnitPromotionType": "PROMOTION_URBAN_WARFARE"
+    },
+    {
+        "ModifierId": "ELITE_GUARD_ADDITIONAL_ATTACK",
+        "UnitPromotionType": "PROMOTION_ELITE_GUARD"
+    },
+    {
+        "ModifierId": "MOD_MOVE_AFTER_ATTACKING",
+        "UnitPromotionType": "PROMOTION_ELITE_GUARD"
+    },
+    {
+        "ModifierId": "VOLLEY_BONUS_VS_LAND_UNITS",
+        "UnitPromotionType": "PROMOTION_VOLLEY"
+    },
+    {
+        "ModifierId": "GARRISON_BONUS_DISTRICTS",
+        "UnitPromotionType": "PROMOTION_GARRISON"
+    },
+    {
+        "ModifierId": "INCENDIARIES_BONUS_VS_DISTRICT_DEFENSES",
+        "UnitPromotionType": "PROMOTION_INCENDIARIES"
+    },
+    {
+        "ModifierId": "SUPPRESSION_BONUS_EXERT_ZOC",
+        "UnitPromotionType": "PROMOTION_SUPPRESSION"
+    },
+    {
+        "ModifierId": "ARROW_STORM_BONUS_VS_LAND_AND_SEA_UNITS",
+        "UnitPromotionType": "PROMOTION_ARROW_STORM"
+    },
+    {
+        "ModifierId": "EMPLACEMENT_DEFENSE_BONUS_VS_CITIES",
+        "UnitPromotionType": "PROMOTION_EMPLACEMENT"
+    },
+    {
+        "ModifierId": "EXPERT_MARKSMAN_ADDITIONAL_ATTACK",
+        "UnitPromotionType": "PROMOTION_EXPERT_MARKSMAN"
+    },
+    {
+        "ModifierId": "ECHELON_ADDITIONAL_CAVALRY_BONUS",
+        "UnitPromotionType": "PROMOTION_ECHELON"
+    },
+    {
+        "ModifierId": "THRUST_BONUS_VS_MELEE",
+        "UnitPromotionType": "PROMOTION_THRUST"
+    },
+    {
+        "ModifierId": "SQUARE_BONUS_SUPPORT_BONUS_MODIFIER",
+        "UnitPromotionType": "PROMOTION_SQUARE"
+    },
+    {
+        "ModifierId": "SCHILTRON_DEFENSE_BONUS_VS_MELEE",
+        "UnitPromotionType": "PROMOTION_SCHILTRON"
+    },
+    {
+        "ModifierId": "REDEPLOY_BONUS_MOVEMENT",
+        "UnitPromotionType": "PROMOTION_REDEPLOY"
+    },
+    {
+        "ModifierId": "CHOKE_POINTS_BONUS",
+        "UnitPromotionType": "PROMOTION_CHOKE_POINTS"
+    },
+    {
+        "ModifierId": "HOLD_THE_LINE_BONUS",
+        "UnitPromotionType": "PROMOTION_HOLD_THE_LINE"
+    },
+    {
+        "ModifierId": "CAPARISON_BONUS_VS_ANTI_CAVALRY",
+        "UnitPromotionType": "PROMOTION_CAPARISON"
+    },
+    {
+        "ModifierId": "COURSERS_BONUS_VS_RANGED_SIEGE",
+        "UnitPromotionType": "PROMOTION_COURSERS"
+    },
+    {
+        "ModifierId": "DEPREDATION_BONUS_ADVANCED_PILLAGING",
+        "UnitPromotionType": "PROMOTION_DEPREDATION"
+    },
+    {
+        "ModifierId": "DOUBLE_ENVELOPMENT_BONUS_FLANKING_BONUS_MODIFIER",
+        "UnitPromotionType": "PROMOTION_DOUBLE_ENVELOPMENT"
+    },
+    {
+        "ModifierId": "SPIKING_THE_GUNS_BONUS_VS_SIEGE",
+        "UnitPromotionType": "PROMOTION_SPIKING_THE_GUNS"
+    },
+    {
+        "ModifierId": "PURSUIT_BONUS_MOVEMENT",
+        "UnitPromotionType": "PROMOTION_PURSUIT"
+    },
+    {
+        "ModifierId": "ESCORT_MOBILITY_SHARED_MOVEMENT",
+        "UnitPromotionType": "PROMOTION_ESCORT_MOBILITY"
+    },
+    {
+        "ModifierId": "SHRAPNEL_BONUS_VS_UNITS",
+        "UnitPromotionType": "PROMOTION_SHRAPNEL"
+    },
+    {
+        "ModifierId": "ADVANCED_RANGEFINDING_BONUS_VS_NAVAL",
+        "UnitPromotionType": "PROMOTION_ADVANCED_RANGEFINDING"
+    },
+    {
+        "ModifierId": "GRAPE_SHOT_BONUS_VS_UNITS",
+        "UnitPromotionType": "PROMOTION_GRAPE_SHOT"
+    },
+    {
+        "ModifierId": "CREW_WEAPONS_DEFENSE_BONUS",
+        "UnitPromotionType": "PROMOTION_CREW_WEAPONS"
+    },
+    {
+        "ModifierId": "SHELLS_BONUS_VS_DISTRICTS",
+        "UnitPromotionType": "PROMOTION_SHELLS"
+    },
+    {
+        "ModifierId": "EXPERT_CREW_BONUS_ATTACK_AFTER_MOVING",
+        "UnitPromotionType": "PROMOTION_EXPERT_CREW"
+    },
+    {
+        "ModifierId": "FORWARD_OBSERVERS_BONUS_RANGE",
+        "UnitPromotionType": "PROMOTION_FORWARD_OBSERVERS"
+    },
+    {
+        "ModifierId": "CHARGE_BONUS_VS_FORTIFIED",
+        "UnitPromotionType": "PROMOTION_CHARGE"
+    },
+    {
+        "ModifierId": "TOP_COVER_DEFENSE_BONUS_VS_RANGED",
+        "UnitPromotionType": "PROMOTION_BARDING"
+    },
+    {
+        "ModifierId": "URBAN_RAIDER_BONUS",
+        "UnitPromotionType": "PROMOTION_MARAUDING"
+    },
+    {
+        "ModifierId": "VULTURE_BONUS_VS_DAMAGED",
+        "UnitPromotionType": "PROMOTION_ROUT"
+    },
+    {
+        "ModifierId": "ARMOR_PIERCING_BONUS_VS_HEAVY_CAVALRY",
+        "UnitPromotionType": "PROMOTION_ARMOR_PIERCING"
+    },
+    {
+        "ModifierId": "REACTIVE_ARMOR_BONUS",
+        "UnitPromotionType": "PROMOTION_REACTIVE_ARMOR"
+    },
+    {
+        "ModifierId": "BREAKTHROUGH_ADDITIONAL_ATTACK",
+        "UnitPromotionType": "PROMOTION_BREAKTHROUGH"
+    },
+    {
+        "ModifierId": "MOD_MOVE_AFTER_ATTACKING",
+        "UnitPromotionType": "PROMOTION_BREAKTHROUGH"
+    },
+    {
+        "ModifierId": "DOGFIGHTING_BONUS_VS_FIGHTERS",
+        "UnitPromotionType": "PROMOTION_DOGFIGHTING"
+    },
+    {
+        "ModifierId": "COCKPIT_ARMOR_BONUS_VS_ANTIAIR",
+        "UnitPromotionType": "PROMOTION_COCKPIT_ARMOR"
+    },
+    {
+        "ModifierId": "INTERCEPTOR_BONUS_VS_BOMBERS",
+        "UnitPromotionType": "PROMOTION_INTERCEPTOR"
+    },
+    {
+        "ModifierId": "STRAFE_BONUS_VS_NONCAVALRY",
+        "UnitPromotionType": "PROMOTION_STRAFE"
+    },
+    {
+        "ModifierId": "GROUND_CREWS_BONUS_HEALTH",
+        "UnitPromotionType": "PROMOTION_GROUND_CREWS"
+    },
+    {
+        "ModifierId": "TANK_BUSTER_BONUS_VS_CAVALRY",
+        "UnitPromotionType": "PROMOTION_TANK_BUSTER"
+    },
+    {
+        "ModifierId": "LONG_RANGE_ESCORT_BONUS_RANGE",
+        "UnitPromotionType": "PROMOTION_DROP_TANKS"
+    },
+    {
+        "ModifierId": "BOX_FORMATION_DEFENSE_BONUS_VS_FIGHTERS",
+        "UnitPromotionType": "PROMOTION_BOX_FORMATION"
+    },
+    {
+        "ModifierId": "EVASIVE_MANEUVERS_BONUS_VS_ANTIAIR",
+        "UnitPromotionType": "PROMOTION_EVASIVE_MANEUVERS"
+    },
+    {
+        "ModifierId": "TORPEDO_BOMBER_BONUS_VS_NAVAL",
+        "UnitPromotionType": "PROMOTION_TORPEDO_BOMBER"
+    },
+    {
+        "ModifierId": "CLOSE_AIR_SUPPORT_BONUS_VS_LAND",
+        "UnitPromotionType": "PROMOTION_CLOSE_AIR_SUPPORT"
+    },
+    {
+        "ModifierId": "TACTICAL_MAINTENANCE_HEAL_AFTER_ACTION",
+        "UnitPromotionType": "PROMOTION_TACTICAL_MAINTENANCE"
+    },
+    {
+        "ModifierId": "LONG_RANGE_BONUS_RANGE",
+        "UnitPromotionType": "PROMOTION_LONG_RANGE"
+    },
+    {
+        "ModifierId": "SUPERFORTRESS_BONUS_ADVANCED_PILLAGING",
+        "UnitPromotionType": "PROMOTION_SUPERFORTRESS"
+    },
+    {
+        "ModifierId": "EMBOLON_BONUS_VS_NAVAL",
+        "UnitPromotionType": "PROMOTION_EMBOLON"
+    },
+    {
+        "ModifierId": "HELMSMAN_BONUS_WATER_MOVEMENT",
+        "UnitPromotionType": "PROMOTION_HELMSMAN"
+    },
+    {
+        "ModifierId": "REINFORCED_HULL_BONUS_VS_RANGED",
+        "UnitPromotionType": "PROMOTION_REINFORCED_HULL"
+    },
+    {
+        "ModifierId": "RUTTER_SIGHT_BONUS",
+        "UnitPromotionType": "PROMOTION_RUTTER"
+    },
+    {
+        "ModifierId": "AUXILIARY_SHIPS_NEUTRAL_TERRITORY_HEAL",
+        "UnitPromotionType": "PROMOTION_AUXILIARY_SHIPS"
+    },
+    {
+        "ModifierId": "AUXILIARY_SHIPS_ENEMY_TERRITORY_HEAL",
+        "UnitPromotionType": "PROMOTION_AUXILIARY_SHIPS"
+    },
+    {
+        "ModifierId": "CONVOY_BONUS_IN_FORMATION",
+        "UnitPromotionType": "PROMOTION_CONVOY"
+    },
+    {
+        "ModifierId": "CREEPING_ATTACK_BONUS_VS_RAIDERS",
+        "UnitPromotionType": "PROMOTION_CREEPING_ATTACK"
+    },
+    {
+        "ModifierId": "LINE_OF_BATTLE_BONUS_VS_NAVAL",
+        "UnitPromotionType": "PROMOTION_LINE_OF_BATTLE"
+    },
+    {
+        "ModifierId": "BOMBARDMENT_BONUS_VS_DISTRICT_DEFENSES",
+        "UnitPromotionType": "PROMOTION_BOMBARDMENT"
+    },
+    {
+        "ModifierId": "PREPARATORY_FIRE_BONUS_VS_LAND",
+        "UnitPromotionType": "PROMOTION_PREPARATORY_FIRE"
+    },
+    {
+        "ModifierId": "ROLLING_BARRAGE_BONUS_VS_DISTRICT_DEFENSES",
+        "UnitPromotionType": "PROMOTION_ROLLING_BARRAGE"
+    },
+    {
+        "ModifierId": "SUPPLY_FLEET_NEUTRAL_TERRITORY_HEAL",
+        "UnitPromotionType": "PROMOTION_SUPPLY_FLEET"
+    },
+    {
+        "ModifierId": "SUPPLY_FLEET_ENEMY_TERRITORY_HEAL",
+        "UnitPromotionType": "PROMOTION_SUPPLY_FLEET"
+    },
+    {
+        "ModifierId": "PROMOTION_PROXIMITY_FUSES_DEFENSE_BONUS_VS_AIR",
+        "UnitPromotionType": "PROMOTION_PROXIMITY_FUSES"
+    },
+    {
+        "ModifierId": "COINCIDENCE_RANGEFINDING_BONUS_RANGE",
+        "UnitPromotionType": "PROMOTION_COINCIDENCE_RANGEFINDING"
+    },
+    {
+        "ModifierId": "FLIGHT_DECK_BONUS_AIRCRAFT_SLOT",
+        "UnitPromotionType": "PROMOTION_FLIGHT_DECK"
+    },
+    {
+        "ModifierId": "HANGAR_DECK_BONUS_AIRCRAFT_SLOT",
+        "UnitPromotionType": "PROMOTION_HANGAR_DECK"
+    },
+    {
+        "ModifierId": "FOLDING_WINGS_BONUS_AIRCRAFT_SLOT",
+        "UnitPromotionType": "PROMOTION_FOLDING_WINGS"
+    },
+    {
+        "ModifierId": "SCOUT_PLANES_BONUS_SIGHT",
+        "UnitPromotionType": "PROMOTION_SCOUT_PLANES"
+    },
+    {
+        "ModifierId": "ADVANCED_ENGINES_BONUS_MOVEMENT",
+        "UnitPromotionType": "PROMOTION_ADVANCED_ENGINES"
+    },
+    {
+        "ModifierId": "DECK_CREWS_HEAL_AFTER_ACTION",
+        "UnitPromotionType": "PROMOTION_DECK_CREWS"
+    },
+    {
+        "ModifierId": "SUPER_CARRIER_NEUTRAL_TERRITORY_HEAL",
+        "UnitPromotionType": "PROMOTION_SUPER_CARRIER"
+    },
+    {
+        "ModifierId": "SUPER_CARRIER_ENEMY_TERRITORY_HEAL",
+        "UnitPromotionType": "PROMOTION_SUPER_CARRIER"
+    },
+    {
+        "ModifierId": "LOOT_GOLD_FROM_COASTAL_RAID",
+        "UnitPromotionType": "PROMOTION_LOOT"
+    },
+    {
+        "ModifierId": "BOARDING_GOLD_FROM_NAVAL_VICTORY",
+        "UnitPromotionType": "PROMOTION_BOARDING"
+    },
+    {
+        "ModifierId": "SWIFT_KEEL_BONUS_MOVEMENT",
+        "UnitPromotionType": "PROMOTION_SWIFT_KEEL"
+    },
+    {
+        "ModifierId": "OBSERVATION_INCREASED_SIGHT_RANGE",
+        "UnitPromotionType": "PROMOTION_OBSERVATION"
+    },
+    {
+        "ModifierId": "HOMING_TORPEDOES_BONUS_VS_NAVAL",
+        "UnitPromotionType": "PROMOTION_HOMING_TORPEDOES"
+    },
+    {
+        "ModifierId": "SILENT_RUNNING_MOVE_AFTER_ATTACKING",
+        "UnitPromotionType": "PROMOTION_SILENT_RUNNING"
+    },
+    {
+        "ModifierId": "WOLFPACK_ADDITIONAL_ATTACK",
+        "UnitPromotionType": "PROMOTION_WOLFPACK"
+    },
+    {
+        "ModifierId": "APOSTLE_EXTRA_SPREAD_CHARGES",
+        "UnitPromotionType": "PROMOTION_ORATOR"
+    },
+    {
+        "ModifierId": "APOSTLE_EVICT_ALL",
+        "UnitPromotionType": "PROMOTION_PROSELYTIZER"
+    },
+    {
+        "ModifierId": "APOSTLE_FOREIGN_SPREAD",
+        "UnitPromotionType": "PROMOTION_TRANSLATOR"
+    },
+    {
+        "ModifierId": "APOSTLE_NW_DEFERRED_CHARGES",
+        "UnitPromotionType": "PROMOTION_PILGRIM"
+    },
+    {
+        "ModifierId": "APOSTLE_INITIATION_GOLD",
+        "UnitPromotionType": "PROMOTION_INDULGENCE_VENDOR"
+    },
+    {
+        "ModifierId": "APOSTLE_BARBARIAN_CONVERSION",
+        "UnitPromotionType": "PROMOTION_HEATHEN_CONVERSION"
+    },
+    {
+        "ModifierId": "APOSTLE_DEBATER",
+        "UnitPromotionType": "PROMOTION_DEBATER"
+    },
+    {
+        "ModifierId": "APOSTLE_MARTYR",
+        "UnitPromotionType": "PROMOTION_MARTYR"
+    },
+    {
+        "ModifierId": "APOSTLE_CHAPLAIN",
+        "UnitPromotionType": "PROMOTION_CHAPLAIN"
+    },
+    {
+        "ModifierId": "DOUBLE_ENVELOPMENT_BONUS_FLANKING_BONUS_MODIFIER",
+        "UnitPromotionType": "PROMOTION_MONK_SHADOW_STRIKE"
+    },
+    {
+        "ModifierId": "CAMOUFLAGE_STEALTH",
+        "UnitPromotionType": "PROMOTION_MONK_TWILIGHT_VEIL"
+    },
+    {
+        "ModifierId": "EXPLODING_PALMS_INCREASED_COMBAT_STRENGTH",
+        "UnitPromotionType": "PROMOTION_MONK_EXPLODING_PALMS"
+    },
+    {
+        "ModifierId": "DISCIPLES_LAND_VICTORY_SPREAD",
+        "UnitPromotionType": "PROMOTION_MONK_DISCIPLES"
+    },
+    {
+        "ModifierId": "SWEEPING_WIND_ADDITIONAL_ATTACK",
+        "UnitPromotionType": "PROMOTION_MONK_SWEEPING_WIND"
+    },
+    {
+        "ModifierId": "MOD_MOVE_AFTER_ATTACKING",
+        "UnitPromotionType": "PROMOTION_MONK_SWEEPING_WIND"
+    },
+    {
+        "ModifierId": "DANCING_CRANE_BONUS_MOVEMENT",
+        "UnitPromotionType": "PROMOTION_MONK_DANCING_CRANE"
+    },
+    {
+        "ModifierId": "COBRA_STRIKE_INCREASED_COMBAT_STRENGTH",
+        "UnitPromotionType": "PROMOTION_MONK_COBRA_STRIKE"
+    },
+    {
+        "ModifierId": "SPY_TECHNOLOGIST",
+        "UnitPromotionType": "PROMOTION_SPY_TECHNOLOGIST"
+    },
+    {
+        "ModifierId": "SPY_CAT_BURGLAR",
+        "UnitPromotionType": "PROMOTION_SPY_CAT_BURGLAR"
+    },
+    {
+        "ModifierId": "SPY_DEMOLITIONS",
+        "UnitPromotionType": "PROMOTION_SPY_DEMOLITIONS"
+    },
+    {
+        "ModifierId": "SPY_CON_ARTIST",
+        "UnitPromotionType": "PROMOTION_SPY_CON_ARTIST"
+    },
+    {
+        "ModifierId": "SPY_GUERILLA_LEADER",
+        "UnitPromotionType": "PROMOTION_SPY_GUERILLA_LEADER"
+    },
+    {
+        "ModifierId": "SPY_ROCKET_SCIENTIST",
+        "UnitPromotionType": "PROMOTION_SPY_ROCKET_SCIENTIST"
+    },
+    {
+        "ModifierId": "SPY_DISGUISE",
+        "UnitPromotionType": "PROMOTION_SPY_DISGUISE"
+    },
+    {
+        "ModifierId": "SPY_LINGUIST_ROCKETRYTIME",
+        "UnitPromotionType": "PROMOTION_SPY_LINGUIST"
+    },
+    {
+        "ModifierId": "SPY_LINGUIST_SOURCESTIME",
+        "UnitPromotionType": "PROMOTION_SPY_LINGUIST"
+    },
+    {
+        "ModifierId": "SPY_LINGUIST_HEISTTIME",
+        "UnitPromotionType": "PROMOTION_SPY_LINGUIST"
+    },
+    {
+        "ModifierId": "SPY_LINGUIST_PARTISANSTIME",
+        "UnitPromotionType": "PROMOTION_SPY_LINGUIST"
+    },
+    {
+        "ModifierId": "SPY_LINGUIST_SABOTAGETIME",
+        "UnitPromotionType": "PROMOTION_SPY_LINGUIST"
+    },
+    {
+        "ModifierId": "SPY_LINGUIST_SIPHONTIME",
+        "UnitPromotionType": "PROMOTION_SPY_LINGUIST"
+    },
+    {
+        "ModifierId": "SPY_LINGUIST_STEALTECHTIME",
+        "UnitPromotionType": "PROMOTION_SPY_LINGUIST"
+    },
+    {
+        "ModifierId": "SPY_SEDUCTION_ROCKETRY",
+        "UnitPromotionType": "PROMOTION_SPY_SEDUCTION"
+    },
+    {
+        "ModifierId": "SPY_SEDUCTION_HEIST",
+        "UnitPromotionType": "PROMOTION_SPY_SEDUCTION"
+    },
+    {
+        "ModifierId": "SPY_SEDUCTION_PARTISAN",
+        "UnitPromotionType": "PROMOTION_SPY_SEDUCTION"
+    },
+    {
+        "ModifierId": "SPY_SEDUCTION_SABOTAGE",
+        "UnitPromotionType": "PROMOTION_SPY_SEDUCTION"
+    },
+    {
+        "ModifierId": "SPY_SEDUCTION_SIPHON",
+        "UnitPromotionType": "PROMOTION_SPY_SEDUCTION"
+    },
+    {
+        "ModifierId": "SPY_SEDUCTION_STEALTECH",
+        "UnitPromotionType": "PROMOTION_SPY_SEDUCTION"
+    },
+    {
+        "ModifierId": "SPY_QUARTERMASTER",
+        "UnitPromotionType": "PROMOTION_SPY_QUARTERMASTER"
+    },
+    {
+        "ModifierId": "SPY_ACE_DRIVER",
+        "UnitPromotionType": "PROMOTION_SPY_ACE_DRIVER"
+    },
+    {
+        "ModifierId": "ROCKBAND_SPACE_ROCK_SEOWON",
+        "UnitPromotionType": "PROMOTION_SPACE_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_SPACE_ROCK_SEOWON_MODIFIER",
+        "UnitPromotionType": "PROMOTION_SPACE_ROCK"
+    },
+    {
+        "ModifierId": "SPY_SMEAR_CAMPAIGN",
+        "UnitPromotionType": "PROMOTION_SPY_SMEAR_CAMPAIGN"
+    },
+    {
+        "ModifierId": "SPY_COVERT_ACTION",
+        "UnitPromotionType": "PROMOTION_SPY_COVERT_ACTION"
+    },
+    {
+        "ModifierId": "SPY_LICENSE_TO_KILL",
+        "UnitPromotionType": "PROMOTION_SPY_LICENSE_TO_KILL"
+    },
+    {
+        "ModifierId": "ROCKBAND_ALBUM_COVER_ART",
+        "UnitPromotionType": "PROMOTION_ALBUM_COVER_ART"
+    },
+    {
+        "ModifierId": "ROCKBAND_ARENA_ROCK",
+        "UnitPromotionType": "PROMOTION_ARENA_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_ARENA_ROCK_CARNIVAL",
+        "UnitPromotionType": "PROMOTION_ARENA_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_GLAM_ROCK",
+        "UnitPromotionType": "PROMOTION_GLAM_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_GLAM_ROCK_ACROPOLIS",
+        "UnitPromotionType": "PROMOTION_GLAM_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_GOES_TO",
+        "UnitPromotionType": "PROMOTION_GOES_TO"
+    },
+    {
+        "ModifierId": "ROCKBAND_INDIE",
+        "UnitPromotionType": "PROMOTION_INDIE"
+    },
+    {
+        "ModifierId": "ROCKBAND_MUSIC_FESTIVAL_TOURISM_BOMB",
+        "UnitPromotionType": "PROMOTION_MUSIC_FESTIVAL"
+    },
+    {
+        "ModifierId": "ROCKBAND_MUSIC_FESTIVAL_LEVEL",
+        "UnitPromotionType": "PROMOTION_MUSIC_FESTIVAL"
+    },
+    {
+        "ModifierId": "ROCKBAND_MUSIC_FESTIVAL_TOURISM_BOMB_NATURAL_WONDER",
+        "UnitPromotionType": "PROMOTION_MUSIC_FESTIVAL"
+    },
+    {
+        "ModifierId": "ROCKBAND_MUSIC_FESTIVAL_LEVEL_NATURAL_WONDER",
+        "UnitPromotionType": "PROMOTION_MUSIC_FESTIVAL"
+    },
+    {
+        "ModifierId": "ROCKBAND_POP",
+        "UnitPromotionType": "PROMOTION_POP"
+    },
+    {
+        "ModifierId": "ROCKBAND_REGGAE_ROCK",
+        "UnitPromotionType": "PROMOTION_REGGAE_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_REGGAE_ROCK_CARNIVAL",
+        "UnitPromotionType": "PROMOTION_REGGAE_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_RELIGIOUS_ROCK",
+        "UnitPromotionType": "PROMOTION_RELIGIOUS_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_ROADIES",
+        "UnitPromotionType": "PROMOTION_ROADIES"
+    },
+    {
+        "ModifierId": "ROCKBAND_SPACE_ROCK_TOURISM_BOMB",
+        "UnitPromotionType": "PROMOTION_SPACE_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_SPACE_ROCK_LEVEL",
+        "UnitPromotionType": "PROMOTION_SPACE_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_SPACE_ROCK_CAMPUS",
+        "UnitPromotionType": "PROMOTION_SPACE_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_SPACE_ROCK_CAMPUS_MODIFIER",
+        "UnitPromotionType": "PROMOTION_SPACE_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_SURF_ROCK_TOURISM_BOMB",
+        "UnitPromotionType": "PROMOTION_SURF_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_SURF_ROCK_LEVEL",
+        "UnitPromotionType": "PROMOTION_SURF_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_SURF_ROCK_HARBOR",
+        "UnitPromotionType": "PROMOTION_SURF_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_SURF_ROCK_HARBOR_MODIFIER",
+        "UnitPromotionType": "PROMOTION_SURF_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_SURF_ROCK_ROYAL_NAVY_DOCKYARD",
+        "UnitPromotionType": "PROMOTION_SURF_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_SURF_ROCK_ROYAL_NAVY_DOCKYARD_MODIFIER",
+        "UnitPromotionType": "PROMOTION_SURF_ROCK"
+    },
+    {
+        "ModifierId": "SPY_SATCHEL_CHARGES",
+        "UnitPromotionType": "PROMOTION_SPY_SATCHEL_CHARGES"
+    },
+    {
+        "ModifierId": "SPY_SURVEILLANCE_ENTIRE_CITY",
+        "UnitPromotionType": "PROMOTION_SPY_SURVEILLANCE"
+    },
+    {
+        "ModifierId": "SPY_SURVEILLANCE_ADJACENT_LEVEL",
+        "UnitPromotionType": "PROMOTION_SPY_SURVEILLANCE"
+    },
+    {
+        "ModifierId": "SPY_POLYGRAPH",
+        "UnitPromotionType": "PROMOTION_SPY_POLYGRAPH"
+    },
+    {
+        "ModifierId": "GDR_AA_DEFENSE",
+        "UnitPromotionType": "PROMOTION_GDR_AA_DEFENSE"
+    },
+    {
+        "ModifierId": "GDR_SIEGE_LASER",
+        "UnitPromotionType": "PROMOTION_GDR_SIEGE_LASER"
+    },
+    {
+        "ModifierId": "GDR_SIEGE_LASER_RANGE_STR",
+        "UnitPromotionType": "PROMOTION_GDR_SIEGE_LASER"
+    },
+    {
+        "ModifierId": "GDR_BONUS_MOVEMENT",
+        "UnitPromotionType": "PROMOTION_GDR_BONUS_MOVEMENT"
+    },
+    {
+        "ModifierId": "GDR_JUMP_ABILITY",
+        "UnitPromotionType": "PROMOTION_GDR_BONUS_MOVEMENT"
+    },
+    {
+        "ModifierId": "GDR_ARMOR_DEFENSES",
+        "UnitPromotionType": "PROMOTION_GDR_ARMOR_UPGRADE"
+    },
+    {
+        "ModifierId": "ROCKBAND_SURF_ROCK_COTHON",
+        "UnitPromotionType": "PROMOTION_SURF_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_SURF_ROCK_COTHON_MODIFIER",
+        "UnitPromotionType": "PROMOTION_SURF_ROCK"
+    },
+    {
+        "ModifierId": "NIHANG_FLANKED_BONUS",
+        "UnitPromotionType": "PROMOTION_NIHANG_FLANKED_BONUS"
+    },
+    {
+        "ModifierId": "NIHANG_FAITH_FOR_VICTORIES",
+        "UnitPromotionType": "PROMOTION_NIHANG_FAITH_FOR_VICTORIES"
+    },
+    {
+        "ModifierId": "NIHANG_MOVEMENT_BONUS",
+        "UnitPromotionType": "PROMOTION_NIHANG_MOVEMENT_BONUS"
+    },
+    {
+        "ModifierId": "NIHANG_NO_WOUNDED_PENALTY",
+        "UnitPromotionType": "PROMOTION_NIHANG_NO_WOUNDED_PENALTY"
+    },
+    {
+        "ModifierId": "NIHANG_SUZERAIN_COMBAT_BONUS",
+        "UnitPromotionType": "PROMOTION_NIHANG_SUZERAIN_COMBAT_BONUS"
+    },
+    {
+        "ModifierId": "ROCKBAND_SPACE_ROCK_OBSERVATORY",
+        "UnitPromotionType": "PROMOTION_SPACE_ROCK"
+    },
+    {
+        "ModifierId": "ROCKBAND_SPACE_ROCK_OBSERVATORY_MODIFIER",
+        "UnitPromotionType": "PROMOTION_SPACE_ROCK"
+    },
+    {
+        "ModifierId": "SOOTHSAYER_INCREASED_MOVEMENT",
+        "UnitPromotionType": "PROMOTION_SOOTHSAYER_MESSENGER"
+    },
+    {
+        "ModifierId": "SOOTHSAYER_CHARGES",
+        "UnitPromotionType": "PROMOTION_SOOTHSAYER_MESSENGER"
+    },
+    {
+        "ModifierId": "SOOTHSAYER_STEALTH",
+        "UnitPromotionType": "PROMOTION_SOOTHSAYER_INQUISITOR"
+    },
+    {
+        "ModifierId": "SOOTHSAYER_CHARGES",
+        "UnitPromotionType": "PROMOTION_SOOTHSAYER_INQUISITOR"
+    },
+    {
+        "ModifierId": "SOOTHSAYER_CHARGES_ZEALOT",
+        "UnitPromotionType": "PROMOTION_SOOTHSAYER_ZEALOT"
+    },
+    {
+        "ModifierId": "SOOTHSAYER_ADJACENT_UNIT_STRENGTH",
+        "UnitPromotionType": "PROMOTION_SOOTHSAYER_INCANTATION"
+    },
+    {
+        "ModifierId": "SOOTHSAYER_CHARGES",
+        "UnitPromotionType": "PROMOTION_SOOTHSAYER_INCANTATION"
+    },
+    {
+        "ModifierId": "SOOTHSAYER_CHARGES",
+        "UnitPromotionType": "PROMOTION_SOOTHSAYER_PLAGUE_BEARER"
+    },
+    {
+        "ModifierId": "SOOTHSAYER_AUTO_SIEGE",
+        "UnitPromotionType": "PROMOTION_SOOTHSAYER_PLAGUE_BEARER"
+    },
+    {
+        "ModifierId": "ROCKBAND_ARENA_ROCK_HIPPODROME",
+        "UnitPromotionType": "PROMOTION_ARENA_ROCK"
+    }
+]

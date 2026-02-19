@@ -1,0 +1,46 @@
+[
+    {
+        "Query": "Objects",
+        "SQL": "select Ruleset, GameObjects.GameID, ObjectID from GameObjects inner join Games on Games.GameID = GameObjects.GameID"
+    },
+    {
+        "Query": "ObjectsByType",
+        "SQL": "select Ruleset, GameObjects.GameID, ObjectID from GameObjects inner join Games on Games.GameID = GameObjects.GameID where GameObjects.Type = @ExtraData"
+    },
+    {
+        "Query": "LocalPlayerObjects",
+        "SQL": "select Ruleset, GameObjects.GameID, ObjectID from GameObjects inner join GamePlayers on GameObjects.PlayerObjectID = GamePlayers.PlayerObjectID inner join Games on Games.GameID = GameObjects.GameID where GamePlayers.IsLocal = 1"
+    },
+    {
+        "Query": "LocalPlayerObjectsByType",
+        "SQL": "select Ruleset, GameObjects.GameID, ObjectID from GameObjects inner join GamePlayers on GameObjects.PlayerObjectID = GamePlayers.PlayerObjectID inner join Games on Games.GameID = GameObjects.GameID where GamePlayers.IsLocal = 1 and GameObjects.Type = @ExtraData"
+    },
+    {
+        "Query": "MajorPlayerObjects",
+        "SQL": "select Ruleset, GameObjects.GameID, ObjectID from GameObjects inner join GamePlayers on GameObjects.PlayerObjectID = GamePlayers.PlayerObjectID inner join Games on Games.GameID = GameObjects.GameID where GamePlayers.IsMajor = 1"
+    },
+    {
+        "Query": "MajorPlayerObjectsByType",
+        "SQL": "select Ruleset, GameObjects.GameID, ObjectID from GameObjects inner join GamePlayers on GameObjects.PlayerObjectID = GamePlayers.PlayerObjectID inner join Games on Games.GameID = GameObjects.GameID where GamePlayers.IsMajor = 1 and GameObjects.Type = @ExtraData"
+    },
+    {
+        "Query": "Games",
+        "SQL": "select Ruleset, GameID as 'GameID', null as 'ObjectID' from Games"
+    },
+    {
+        "Query": "Players",
+        "SQL": "select Ruleset, GameObjects.GameID, GamePlayers.PlayerObjectID as ObjectID from GamePlayers inner join GameObjects on GamePlayers.PlayerObjectID = GameObjects.ObjectID inner join Games on GameObjects.GameID = Games.GameID"
+    },
+    {
+        "Query": "MajorPlayers",
+        "SQL": "select Ruleset, GameObjects.GameID, GamePlayers.PlayerObjectID as ObjectID from GamePlayers inner join GameObjects on GamePlayers.PlayerObjectID = GameObjects.ObjectID inner join Games on GameObjects.GameID = Games.GameID where GamePlayers.IsMajor = 1"
+    },
+    {
+        "Query": "LocalPlayers",
+        "SQL": "select Ruleset, GameObjects.GameID, GamePlayers.PlayerObjectID as ObjectID from GamePlayers inner join GameObjects on GamePlayers.PlayerObjectID = GameObjects.ObjectID inner join Games on GameObjects.GameID = Games.GameID where GamePlayers.IsLocal = 1"
+    },
+    {
+        "Query": "Rulesets",
+        "SQL": "select Ruleset, null as 'GameID', null as 'ObjectID' from Rulesets"
+    }
+]

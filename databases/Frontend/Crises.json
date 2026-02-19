@@ -1,0 +1,62 @@
+[
+    {
+        "AgeCrisisEventType": "ANTIQUITY_CRISIS_INVASION",
+        "AgeType": "AGE_ANTIQUITY",
+        "Category": "LOC_CRISIS_TITLE_AGE_ANTIQUITY",
+        "Description": "LOC_ANTIQUITY_INVASION_CRISIS_DESCRIPTION",
+        "Domain": "StandardCrises",
+        "Icon": null,
+        "Name": "LOC_ANTIQUITY_INVASION_CRISIS_NAME",
+        "SortIndex": 0
+    },
+    {
+        "AgeCrisisEventType": "ANTIQUITY_CRISIS_PLAGUE",
+        "AgeType": "AGE_ANTIQUITY",
+        "Category": "LOC_CRISIS_TITLE_AGE_ANTIQUITY",
+        "Description": "LOC_ANTIQUITY_PLAGUE_CRISIS_DESCRIPTION",
+        "Domain": "StandardCrises",
+        "Icon": null,
+        "Name": "LOC_ANTIQUITY_PLAGUE_CRISIS_NAME",
+        "SortIndex": 0
+    },
+    {
+        "AgeCrisisEventType": "ANTIQUITY_CRISIS_LOYALTY",
+        "AgeType": "AGE_ANTIQUITY",
+        "Category": "LOC_CRISIS_TITLE_AGE_ANTIQUITY",
+        "Description": "LOC_ANTIQUITY_REVOLTS_CRISIS_DESCRIPTION",
+        "Domain": "StandardCrises",
+        "Icon": null,
+        "Name": "LOC_ANTIQUITY_REVOLTS_CRISIS_NAME",
+        "SortIndex": 0
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_REVOLUTION",
+        "AgeType": "AGE_EXPLORATION",
+        "Category": "LOC_CRISIS_TITLE_AGE_EXPLORATION",
+        "Description": "LOC_EXPLORATION_REVOLUTIONS_CRISIS_DESCRIPTION",
+        "Domain": "StandardCrises",
+        "Icon": null,
+        "Name": "LOC_EXPLORATION_REVOLUTIONS_CRISIS_NAME",
+        "SortIndex": 0
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_PLAGUE",
+        "AgeType": "AGE_EXPLORATION",
+        "Category": "LOC_CRISIS_TITLE_AGE_EXPLORATION",
+        "Description": "LOC_EXPLORATION_PLAGUE_CRISIS_DESCRIPTION",
+        "Domain": "StandardCrises",
+        "Icon": null,
+        "Name": "LOC_EXPLORATION_PLAGUE_CRISIS_NAME",
+        "SortIndex": 0
+    },
+    {
+        "AgeCrisisEventType": "EXPLORATION_CRISIS_RELIGION",
+        "AgeType": "AGE_EXPLORATION",
+        "Category": "LOC_CRISIS_TITLE_AGE_EXPLORATION",
+        "Description": "LOC_EXPLORATION_RELIGIOUS_REVOLTS_CRISIS_DESCRIPTION",
+        "Domain": "StandardCrises",
+        "Icon": null,
+        "Name": "LOC_EXPLORATION_RELIGIOUS_REVOLTS_CRISIS_NAME",
+        "SortIndex": 0
+    }
+]

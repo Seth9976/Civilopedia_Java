@@ -1,0 +1,1372 @@
+[
+    {
+        "Asset": "SV_Ice.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_ICE",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Jungle.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_JUNGLE",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Marsh.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_MARSH",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Oasis.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_OASIS",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Floodplains.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_FLOOD_PLAINS",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Forest.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_FOREST",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Fallout.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_FALLOUT",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_NaturalWonders.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_NATURAL_WONDER",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Crater.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_CRATER",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Fuji.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_FUJI",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Mesa.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_MESA",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_CoralReef.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_REEF",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Krakatoa.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_VOLCANO",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Gibraltar.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_GIBRALTAR",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Geyser.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_GEYSER",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Academy.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_ACADEMY",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_BarbarianCamp.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_BARBARIAN_CAMP",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Camp.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_CAMP",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Citadel.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_CITADEL",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_CityRuins.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_CITY_RUINS",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_CustomHouse.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_CUSTOMS_HOUSE",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Farm.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_FARM",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_FishingBoats.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_FISHING_BOATS",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Fort.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_FORT",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_AncientRuins.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_GOODY_HUT",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Lumbermill.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_LUMBERMILL",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Manufactory.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_MANUFACTORY",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Mine.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_MINE",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Landmark.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_MONOLITH_EURO",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_OffshorePlatform.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_OFFSHORE_PLATFORM",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Pasture.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_PASTURE",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Plantation.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_PLANTATION",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Quarry.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_QUARRY",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_TradingPost.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_TRADING_POST",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_OilWell.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_WELL",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Aluminum.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_ALUMINUM",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Aluminum.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_ALUMINUM_HEAVY",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Banana.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_BANANA",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Coal.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_COAL",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Coal.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_COAL_HEAVY",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Cotton.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_COTTON",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Cow.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_COW",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Deer.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_DEER",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Dye.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_DYE",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Fish.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_FISH",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Fur.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_FURS",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Gems.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_GEMS",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Gold.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_GOLD",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Horse.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_HORSE",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Horse.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_SUPERHORSE",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Incense.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_INCENSE",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Iron.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_IRON",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Iron.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_IRON_HEAVY",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Ivory.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_IVORY",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Marble.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_MARBLE",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Oil.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_OIL",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Oil.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_OIL_HEAVY",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Pearl.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_PEARLS",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Sheep.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_SHEEP",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Silk.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_SILK",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Silver.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_SILVER",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Spices.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_SPICE",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Sugar.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_SUGAR",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Uranium.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_URANIUM",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Uranium.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_URANIUM_HEAVY",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Whale.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_WHALE",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Wheat.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_WHEAT",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Wine.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_WINE",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_TerrainHexGrasslands.dds",
+        "StrategicViewType": "ART_DEF_TERRAIN_GRASS",
+        "TileType": "Terrain"
+    },
+    {
+        "Asset": "SV_TerrainHexPlains.dds",
+        "StrategicViewType": "ART_DEF_TERRAIN_PLAINS",
+        "TileType": "Terrain"
+    },
+    {
+        "Asset": "SV_TerrainHexDesert.dds",
+        "StrategicViewType": "ART_DEF_TERRAIN_DESERT",
+        "TileType": "Terrain"
+    },
+    {
+        "Asset": "SV_TerrainHexTundra.dds",
+        "StrategicViewType": "ART_DEF_TERRAIN_TUNDRA",
+        "TileType": "Terrain"
+    },
+    {
+        "Asset": "SV_TerrainHexSnow.dds",
+        "StrategicViewType": "ART_DEF_TERRAIN_SNOW",
+        "TileType": "Terrain"
+    },
+    {
+        "Asset": "SV_TerrainHexCoast.dds",
+        "StrategicViewType": "ART_DEF_TERRAIN_COAST",
+        "TileType": "Terrain"
+    },
+    {
+        "Asset": "SV_TerrainHexOcean.dds",
+        "StrategicViewType": "ART_DEF_TERRAIN_OCEAN",
+        "TileType": "Terrain"
+    },
+    {
+        "Asset": "SV_AntiAircraftGun.dds",
+        "StrategicViewType": "ART_DEF_UNIT_ANTI_AIRCRAFT_GUN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_AntiTankGun.dds",
+        "StrategicViewType": "ART_DEF_UNIT_ANTI_TANK_GUN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Archer.dds",
+        "StrategicViewType": "ART_DEF_UNIT_ARCHER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Artillery.dds",
+        "StrategicViewType": "ART_DEF_UNIT_ARTILLERY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_AtomicBomb.dds",
+        "StrategicViewType": "ART_DEF_UNIT_ATOMIC_BOMB",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Battleship.dds",
+        "StrategicViewType": "ART_DEF_UNIT_BATTLESHIP",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Bomber.dds",
+        "StrategicViewType": "ART_DEF_UNIT_BOMBER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Cannon.dds",
+        "StrategicViewType": "ART_DEF_UNIT_CANNON",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Caravel.dds",
+        "StrategicViewType": "ART_DEF_UNIT_CARAVEL",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Carrier.dds",
+        "StrategicViewType": "ART_DEF_UNIT_CARRIER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Catapult.dds",
+        "StrategicViewType": "ART_DEF_UNIT_CATAPULT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Cavalry.dds",
+        "StrategicViewType": "ART_DEF_UNIT_CAVALRY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_ChariotArcher.dds",
+        "StrategicViewType": "ART_DEF_UNIT_CHARIOT_ARCHER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Crossbowman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_CROSSBOWMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Destroyer.dds",
+        "StrategicViewType": "ART_DEF_UNIT_DESTROYER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Fighter.dds",
+        "StrategicViewType": "ART_DEF_UNIT_FIGHTER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Frigate.dds",
+        "StrategicViewType": "ART_DEF_UNIT_FRIGATE",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Galley.dds",
+        "StrategicViewType": "ART_DEF_UNIT_GALLEY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_GuidedMissile.dds",
+        "StrategicViewType": "ART_DEF_UNIT_GUIDED_MISSILE",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_HelicopterGunship.dds",
+        "StrategicViewType": "ART_DEF_UNIT_HELICOPTER_GUNSHIP",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Horseman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_HORSEMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Infantry.dds",
+        "StrategicViewType": "ART_DEF_UNIT_INFANTRY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Ironclad.dds",
+        "StrategicViewType": "ART_DEF_UNIT_IRONCLAD",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_JetFighter.dds",
+        "StrategicViewType": "ART_DEF_UNIT_JET_FIGHTER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Knight.dds",
+        "StrategicViewType": "ART_DEF_UNIT_KNIGHT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Lancer.dds",
+        "StrategicViewType": "ART_DEF_UNIT_LANCER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Longswordsman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_LONGSWORDSMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Mech.dds",
+        "StrategicViewType": "ART_DEF_UNIT_MECH",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_MechanizedInfantry.dds",
+        "StrategicViewType": "ART_DEF_UNIT_MECHANIZED_INFANTRY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_MissileCruiser.dds",
+        "StrategicViewType": "ART_DEF_UNIT_MISSILE_CRUISER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_MobileRocketArtillery.dds",
+        "StrategicViewType": "ART_DEF_UNIT_ROCKET_ARTILLERY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_MobileSAMLauncher.dds",
+        "StrategicViewType": "ART_DEF_UNIT_MOBILE_SAM",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_ModernArmor.dds",
+        "StrategicViewType": "ART_DEF_UNIT_MODERN_ARMOR",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Musketman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_MUSKETMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_NuclearMissile.dds",
+        "StrategicViewType": "ART_DEF_UNIT_NUCLEAR_MISSILE",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_NuclearSubmarine.dds",
+        "StrategicViewType": "ART_DEF_UNIT_NUCLEAR_SUBMARINE",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Paratrooper.dds",
+        "StrategicViewType": "ART_DEF_UNIT_PARATROOPER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Pikeman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_PIKEMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Riflemen.dds",
+        "StrategicViewType": "ART_DEF_UNIT_RIFLEMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Scout.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SCOUT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Spearman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SPEARMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Spearman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_BARBARIAN_SPEARMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_StealthBomber.dds",
+        "StrategicViewType": "ART_DEF_UNIT_STEALTH_BOMBER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Submarine.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SUBMARINE",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Swordsman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SWORDSMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Tank.dds",
+        "StrategicViewType": "ART_DEF_UNIT_TANK",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Transport.dds",
+        "StrategicViewType": "ART_DEF_UNIT_TRANSPORT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Trebuchet.dds",
+        "StrategicViewType": "ART_DEF_UNIT_TREBUCHET",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Trireme.dds",
+        "StrategicViewType": "ART_DEF_UNIT_TRIREME",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Warrior.dds",
+        "StrategicViewType": "ART_DEF_UNIT__WARRIOR",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Workboat.dds",
+        "StrategicViewType": "ART_DEF_UNIT_WORKBOAT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_GreatArtist.dds",
+        "StrategicViewType": "ART_DEF_UNIT_ARTIST",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_GreatEngineer.dds",
+        "StrategicViewType": "ART_DEF_UNIT_ENGINEER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_GreatGeneral.dds",
+        "StrategicViewType": "ART_DEF_UNIT_GENERAL",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_GreatMerchant.dds",
+        "StrategicViewType": "ART_DEF_UNIT_MERCHANT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_GreatScientist.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SCIENTIST",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_B17.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_AMERICAN_B17",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Minuteman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_AMERICAN_MINUTEMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_CamelArcher.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_ARABIAN_CAMELARCHER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Jaguar.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_AZTEC_JAGUAR",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Bowman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_BABYLONIAN_BOWMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_ChuKoNu.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_CHINESE_CHUKONU",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_WarChariot.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_EGYPTIAN_WARCHARIOT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Longbowman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_ENGLISH_LONGBOWMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_ShipOfTheLine.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_ENGLISH_SHIPOFTHELINE",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_ForeignLegion.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_FRENCH_FOREIGNLEGION",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Musketeer.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_FRENCH_MUSKETEER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Landsknecht.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_GERMAN_LANDSKNECHT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Panzer.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_GERMAN_PANZER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_CompanionCavalry.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_GREEK_COMPANIONCAVALRY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Hoplite.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_GREEK_HOPLITE",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_IndianWarElephant.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_INDIAN_WARELEPHANT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_MohawkWarrior.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_IROQUOIAN_MOHAWKWARRIOR",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Samurai.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_JAPANESE_SAMURAI",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Zero.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_JAPANESE_ZERO",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Janissary.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_OTTOMAN_JANISSARY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Sipahi.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_OTTOMAN_SIPAHI",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Immortal.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_PERSIAN_IMMORTAL",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Ballista.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_ROMAN_BALLISTA",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Legion.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_ROMAN_LEGION",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Cossack.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_RUSSIAN_COSSACK",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_SiameseWarElephant.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_SIAMESE_WARELEPHANT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_MuslimCavalry.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_SONGHAI_MUSLIMCAVALRY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Worker.dds",
+        "StrategicViewType": "ART_DEF_UNIT__WORKER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Settler.dds",
+        "StrategicViewType": "ART_DEF_UNIT__SETTLER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Warrior.dds",
+        "StrategicViewType": "ART_DEF_UNIT_BARBARIAN_EURO",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Galley.dds",
+        "StrategicViewType": "ART_DEF_UNIT_BARBARIAN_GALLEY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Archer.dds",
+        "StrategicViewType": "ART_DEF_UNIT_BARBARIAN_ARCHER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Swordsman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_BARBARIAN_SWORDSMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Galley.dds",
+        "StrategicViewType": "ART_DEF_UNIT_GALLEON",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_SpaceShipStasis.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SS_STASIS_CHAMBER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_SpaceShipEngine.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SS_ENGINE",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_SpaceShipCapsule.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SS_CAPSULE",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_SpaceShipBooster.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SS_BOOSTER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_GreatGeneral.dds",
+        "StrategicViewType": "ART_DEF_UNIT_GENERAL_KHAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Keshik.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_MONGOLIAN_KESHIK",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Privateer.dds",
+        "StrategicViewType": "ART_DEF_UNIT_PRIVATEER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Slinger.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_INCAN_SLINGER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_TerracedFarm.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_TERRACE_FARM",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Maori.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_POLYNESIAN_MAORI_WARRIOR",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Moai.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_MOAI_STATUES",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Berserker.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_DANISH_BERSERKER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_SkiInfantry.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_DANISH_SKI_INFANTRY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Huscarl.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_SAXON_HUSCARL",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_HadriansWall.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_HADRIANS_WALL_1",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_HadriansWall.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_HADRIANS_WALL_2",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_HadriansWall.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_HADRIANS_WALL_3",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_MotteAndBailey.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_MOTTE_BAILEY",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Hwacha.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_KOREAN_HWACHA",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_TurtleShip.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_KOREAN_TURTLESHIP",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Wajo.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_WAJO",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Sumerian_Phalanx.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_SUMERIAN_PHALANX",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Hittite_WarChariot.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_HITTITE_WARCHARIOT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Polder.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_POLDER",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Holy_Site.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_HOLY_SITE",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_CompositeBowman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_COMPOSITE_BOWMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Machine_Gun.dds",
+        "StrategicViewType": "ART_DEF_UNIT_MACHINEGUN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Galleass.dds",
+        "StrategicViewType": "ART_DEF_UNIT_GALLEASS",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Gatling_Gun.dds",
+        "StrategicViewType": "ART_DEF_UNIT_GATLINGGUN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_GreatProphet.dds",
+        "StrategicViewType": "ART_DEF_UNIT_GREAT_PROPHET",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Missionary.dds",
+        "StrategicViewType": "ART_DEF_UNIT_MISSIONARY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Inquisitor.dds",
+        "StrategicViewType": "ART_DEF_UNIT_INQUISITOR",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Marine.dds",
+        "StrategicViewType": "ART_DEF_UNIT_MARINE",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_PrivateersEXP.dds",
+        "StrategicViewType": "ART_DEF_UNIT_XP_PRIVATEER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_WWI_Bomber.dds",
+        "StrategicViewType": "ART_DEF_UNIT_WW1_BOMBER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_WWI_Triplane.dds",
+        "StrategicViewType": "ART_DEF_UNIT_WW1_FIGHTER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_WWI_Infantry.dds",
+        "StrategicViewType": "ART_DEF_UNIT_WW1_INFANTRY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_WWI_Tank.dds",
+        "StrategicViewType": "ART_DEF_UNIT_WW1_TANK",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Infantry.dds",
+        "StrategicViewType": "ART_DEF_UNIT_WW2_INFANTRY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_BatteringRam.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_HUNS_BATTERING_RAM",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_HorseArcher.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_HUNS_HORSE_ARCHER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Cataphract.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_BYZANTIUM_CATAPHRACT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Dromon.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_BYZANTIUM_DROMON",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Pictish.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_CELT_PICTISH_WARRIOR",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Carolean.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_SWEDISH_CAROLEAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Hakkapeliitta.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_SWEDISH_HAKKAPELITTA",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Atlatlist.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_MAYAN_ATLALIST",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_SeaBeggar.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_DUTCH_SEA_BEGGARS",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Hussar.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_AUSTRIAN_HUSSAR",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_ForestElephant.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_CARTHAGE_AFRICANFOREST_ELEPHANT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Quinquereme.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_CARTHAGE_QUINQUEREME",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_MehaiSerfari.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_ETHIOPIA_MEHAL_SEFARI",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Great Admiral.dds",
+        "StrategicViewType": "ART_DEF_UNIT_GREAT_ADMIRAL",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Great Admiral.dds",
+        "StrategicViewType": "ART_DEF_UNIT_GREAT_ADMIRAL_LATE",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Conquistador.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_SPANISH_CONQUISTADOR",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Tercio.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_SPANISH_TERCIO",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Treasure.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_SPANISH_TREASURE_CART",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Uluru.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_ULURU",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Mount_Kailash.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_MT_KAILASH",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Mount_Sinai.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_MT_SINAI",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Sri_Pada.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_SRI_PADA",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Truffles.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_TRUFFLES",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Citrus.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_CITRUS",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Copper.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_COPPER",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Salt.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_SALT",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Crabs.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_CRAB",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_LandIronclad.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SMOKEY_LANDSHIP_LEVEL_1",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Landship.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SMOKEY_LANDSHIP_LEVEL_2",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_LandLeviathan.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SMOKEY_LANDSHIP_LEVEL_3",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Flyer.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SMOKEY_STEAM_FIGHTER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Airship.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SMOKEY_STEAM_AIRSHIP_LEVEL_1",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_SkyFortress.dds",
+        "StrategicViewType": "ART_DEF_UNIT_SMOKEY_STEAM_AIRSHIP",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Chateau.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_CHATEAU",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Kasbah.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_KASBAH",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Feitoria.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_FEITORIA",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Brazilwood_Camp.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_BRAZILWOOD_CAMP",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Archaeological_Dig.dds",
+        "StrategicViewType": "ART_DEF_IMPROVEMENT_ARCHAEOLOGICAL_DIG",
+        "TileType": "Improvement"
+    },
+    {
+        "Asset": "SV_Archaeologist.dds",
+        "StrategicViewType": "ART_DEF_UNIT_ARCHAEOLOGIST",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_BazookaInfantry.dds",
+        "StrategicViewType": "ART_DEF_UNIT_BAZOOKA_INFANTRY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Caravan.dds",
+        "StrategicViewType": "ART_DEF_UNIT_CARAVAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_CargoShip.dds",
+        "StrategicViewType": "ART_DEF_UNIT_CARGO_SHIP",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_GreatArtist.dds",
+        "StrategicViewType": "ART_DEF_UNIT_GREAT_ARTIST",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_GreatMusician.dds",
+        "StrategicViewType": "ART_DEF_UNIT_GREAT_MUSICIAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_GreatWriter.dds",
+        "StrategicViewType": "ART_DEF_UNIT_GREAT_WRITER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_HandAxeBarbarian.dds",
+        "StrategicViewType": "ART_DEF_UNIT_HAND_AXE_BARBARIAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_SiegeTower.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_ASSYRIAN_SIEGE_TOWER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Pracinhas.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_BRAZILIAN_PRACINHAS",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_KrisSwordsman.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_INDONESIAN_KRIS_SWORDSMAN",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_BerberCavalry.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_MORROCAN_BERBER_CAVALRY",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_WingedHussar.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_POLISH_WINGED_HUSSAR",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Nau.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_PORTUGUESE_CARRACK",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_VenetianGalea.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_VENETIAN_GALLEASS",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_MerchantOfVenice.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_VENETIAN_MERCHANT",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Impi.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_ZULU_IMPI_WARRIOR",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_Pathfinder.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_SHOSHONE_PATHFINDER",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_ComanchiWarrior.dds",
+        "StrategicViewType": "ART_DEF_UNIT_U_SHOSHONE_COMANCHE_RIDERS",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_PoweredArmorInfantry.dds",
+        "StrategicViewType": "ART_DEF_UNIT_XCOM_SQUAD",
+        "TileType": "Unit"
+    },
+    {
+        "Asset": "SV_LakeVictoria.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_LAKE_VICTORIA",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_MountKilimanjaro.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_KILIMANJARO",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_KingSolomonsMine.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_SOLOMONS_MINES",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_AntiquitySite.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_ARTIFACTS",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_AntiquitySite_Night.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_HIDDEN_ARTIFACTS",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Fountain_of_Youth.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_FOUNTAIN_YOUTH",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Cerro_de_Patosi.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_POTOSI",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_El_Dorado.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_EL_DORADO",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Atoll.dds",
+        "StrategicViewType": "ART_DEF_FEATURE_ATOLL",
+        "TileType": "Feature"
+    },
+    {
+        "Asset": "SV_Stone.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_STONE",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Cocoa.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_COCOA",
+        "TileType": "Resource"
+    },
+    {
+        "Asset": "SV_Bison.dds",
+        "StrategicViewType": "ART_DEF_RESOURCE_BISON",
+        "TileType": "Resource"
+    }
+]

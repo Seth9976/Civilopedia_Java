@@ -1,0 +1,6914 @@
+[
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "DISCOVERY_BASE_REWARD",
+        "NarrativeStoryType": "DISCOVERY_BASE"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "DISCOVERY_BASE_BASIC_EXPLORATION_OCEAN_REWARD",
+        "NarrativeStoryType": "DISCOVERY_BASE_BASIC_EXPLORATION_OCEAN"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "DISCOVERY_BASE_BASIC_EXPLORATION_OCEAN_REWARD2",
+        "NarrativeStoryType": "DISCOVERY_BASE_BASIC_EXPLORATION_OCEAN"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "DISCOVERY_BASE_MYTHIC_EXPLORATION_OCEAN_REWARD",
+        "NarrativeStoryType": "DISCOVERY_BASE_MYTHIC_EXPLORATION_OCEAN"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "LOYALTY001B_REWARD",
+        "NarrativeStoryType": "LOYALTY001B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "LOYALTY001C_REWARD",
+        "NarrativeStoryType": "LOYALTY001C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "LOYALTY001C_REWARD2",
+        "NarrativeStoryType": "LOYALTY001C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "LOYALTY001C_REWARD3",
+        "NarrativeStoryType": "LOYALTY001C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "LOYALTY002C_REWARD",
+        "NarrativeStoryType": "LOYALTY002C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "LOYALTY002D_REWARD",
+        "NarrativeStoryType": "LOYALTY002D"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "21A_REWARD",
+        "NarrativeStoryType": "21A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "22B_REWARD",
+        "NarrativeStoryType": "22B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "22C_REWARD",
+        "NarrativeStoryType": "22C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ATTRIBUTE_79B_REWARD",
+        "NarrativeStoryType": "ATTRIBUTE_79B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "INDEPENDENT_GIFT_CULTURE_4A_REWARD",
+        "NarrativeStoryType": "INDEPENDENT_GIFT_CULTURE_4A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "INDEPENDENT_GIFT_SCIENCE_4A_REWARD",
+        "NarrativeStoryType": "INDEPENDENT_GIFT_SCIENCE_4A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "INDEPENDENT_GIFT_MILITARY_4A_REWARD",
+        "NarrativeStoryType": "INDEPENDENT_GIFT_MILITARY_4A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "INDEPENDENT_GIFT_ECONOMIC_4A_REWARD",
+        "NarrativeStoryType": "INDEPENDENT_GIFT_ECONOMIC_4A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "INDEPENDENT_GIFT_EXPANSIONIST_4A_REWARD",
+        "NarrativeStoryType": "INDEPENDENT_GIFT_EXPANSIONIST_4A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "INDEPENDENT_GIFT_DIPLOMATIC_4A_REWARD",
+        "NarrativeStoryType": "INDEPENDENT_GIFT_DIPLOMATIC_4A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1025B_REWARD",
+        "NarrativeStoryType": "1025B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8081B_REWARD",
+        "NarrativeStoryType": "8081B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8081C_REWARD",
+        "NarrativeStoryType": "8081C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8082B_REWARD",
+        "NarrativeStoryType": "8082B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8082C_REWARD",
+        "NarrativeStoryType": "8082C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8083B_REWARD",
+        "NarrativeStoryType": "8083B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8083C_REWARD",
+        "NarrativeStoryType": "8083C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8088B_REWARD",
+        "NarrativeStoryType": "8088B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8088C_REWARD",
+        "NarrativeStoryType": "8088C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8089B_REWARD",
+        "NarrativeStoryType": "8089B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8089C_REWARD",
+        "NarrativeStoryType": "8089C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "9A_REWARD",
+        "NarrativeStoryType": "9A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10C_REWARD",
+        "NarrativeStoryType": "10C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10B_REWARD",
+        "NarrativeStoryType": "10B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "12A_REWARD",
+        "NarrativeStoryType": "12A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3096B_REWARD",
+        "NarrativeStoryType": "3096B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3096C_REWARD",
+        "NarrativeStoryType": "3096C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3109B_REWARD",
+        "NarrativeStoryType": "3109B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3109C_REWARD",
+        "NarrativeStoryType": "3109C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1001B_REWARD",
+        "NarrativeStoryType": "1001B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1001C_REWARD",
+        "NarrativeStoryType": "1001C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3110B_REWARD",
+        "NarrativeStoryType": "3110B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3110C_REWARD",
+        "NarrativeStoryType": "3110C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3110D_REWARD",
+        "NarrativeStoryType": "3110D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3112B_REWARD",
+        "NarrativeStoryType": "3112B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3112C_REWARD",
+        "NarrativeStoryType": "3112C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3117A_REWARD",
+        "NarrativeStoryType": "3117A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3116C_REWARD",
+        "NarrativeStoryType": "3116C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3113B_REWARD",
+        "NarrativeStoryType": "3113B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3113C_REWARD",
+        "NarrativeStoryType": "3113C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3162B_REWARD",
+        "NarrativeStoryType": "3162B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3162C_REWARD",
+        "NarrativeStoryType": "3162C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3146A_REWARD",
+        "NarrativeStoryType": "3146A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3147A_REWARD",
+        "NarrativeStoryType": "3147A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3149B_REWARD",
+        "NarrativeStoryType": "3149B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3149C_REWARD",
+        "NarrativeStoryType": "3149C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3150B_REWARD",
+        "NarrativeStoryType": "3150B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3150C_REWARD",
+        "NarrativeStoryType": "3150C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3127A_REWARD",
+        "NarrativeStoryType": "3127A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3128A_REWARD",
+        "NarrativeStoryType": "3128A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3129B_REWARD",
+        "NarrativeStoryType": "3129B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3129C_REWARD",
+        "NarrativeStoryType": "3129C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3152B_REWARD",
+        "NarrativeStoryType": "3152B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3152C_REWARD",
+        "NarrativeStoryType": "3152C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3156B_REWARD",
+        "NarrativeStoryType": "3156B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3156C_REWARD",
+        "NarrativeStoryType": "3156C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3157B_REWARD",
+        "NarrativeStoryType": "3157B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3157C_REWARD",
+        "NarrativeStoryType": "3157C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3157D_REWARD",
+        "NarrativeStoryType": "3157D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3158B_REWARD",
+        "NarrativeStoryType": "3158B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3158C_REWARD",
+        "NarrativeStoryType": "3158C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3159B_REWARD",
+        "NarrativeStoryType": "3159B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3159C_REWARD",
+        "NarrativeStoryType": "3159C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3160B_REWARD",
+        "NarrativeStoryType": "3160B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3160C_REWARD",
+        "NarrativeStoryType": "3160C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1073B_REWARD",
+        "NarrativeStoryType": "1073B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1073C_REWARD",
+        "NarrativeStoryType": "1073C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3115B_REWARD",
+        "NarrativeStoryType": "3115B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3115C_REWARD",
+        "NarrativeStoryType": "3115C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3148B_REWARD",
+        "NarrativeStoryType": "3148B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3148C_REWARD",
+        "NarrativeStoryType": "3148C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3161B_REWARD",
+        "NarrativeStoryType": "3161B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3161C_REWARD",
+        "NarrativeStoryType": "3161C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3164B_REWARD",
+        "NarrativeStoryType": "3164B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3164C_REWARD",
+        "NarrativeStoryType": "3164C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3164D_REWARD",
+        "NarrativeStoryType": "3164D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3165B_REWARD",
+        "NarrativeStoryType": "3165B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3165C_REWARD",
+        "NarrativeStoryType": "3165C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3166B_REWARD",
+        "NarrativeStoryType": "3166B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3166C_REWARD",
+        "NarrativeStoryType": "3166C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3167B_REWARD",
+        "NarrativeStoryType": "3167B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3167C_REWARD",
+        "NarrativeStoryType": "3167C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3168B_REWARD",
+        "NarrativeStoryType": "3168B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3168C_REWARD",
+        "NarrativeStoryType": "3168C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3170B_REWARD",
+        "NarrativeStoryType": "3170B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3170C_REWARD",
+        "NarrativeStoryType": "3170C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3173B_REWARD",
+        "NarrativeStoryType": "3173B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3173C_REWARD",
+        "NarrativeStoryType": "3173C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3175B_REWARD",
+        "NarrativeStoryType": "3175B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3175C_REWARD",
+        "NarrativeStoryType": "3175C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3176B_REWARD",
+        "NarrativeStoryType": "3176B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3176C_REWARD",
+        "NarrativeStoryType": "3176C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3177B_REWARD",
+        "NarrativeStoryType": "3177B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3177C_REWARD",
+        "NarrativeStoryType": "3177C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3179B_REWARD",
+        "NarrativeStoryType": "3179B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3179C_REWARD",
+        "NarrativeStoryType": "3179C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3180B_REWARD",
+        "NarrativeStoryType": "3180B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3180C_REWARD",
+        "NarrativeStoryType": "3180C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3181B_REWARD",
+        "NarrativeStoryType": "3181B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3181C_REWARD",
+        "NarrativeStoryType": "3181C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3207B_REWARD",
+        "NarrativeStoryType": "3207B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3207C_REWARD",
+        "NarrativeStoryType": "3207C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3208B_REWARD",
+        "NarrativeStoryType": "3208B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3208C_REWARD",
+        "NarrativeStoryType": "3208C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3211B_REWARD",
+        "NarrativeStoryType": "3211B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3211C_REWARD",
+        "NarrativeStoryType": "3211C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3211D_REWARD",
+        "NarrativeStoryType": "3211D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3212B_REWARD",
+        "NarrativeStoryType": "3212B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3213B_REWARD",
+        "NarrativeStoryType": "3213B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3214B_REWARD",
+        "NarrativeStoryType": "3214B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3217B_REWARD",
+        "NarrativeStoryType": "3217B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3217C_REWARD",
+        "NarrativeStoryType": "3217C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3218B_REWARD",
+        "NarrativeStoryType": "3218B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3218C_REWARD",
+        "NarrativeStoryType": "3218C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3219B_REWARD",
+        "NarrativeStoryType": "3219B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3219C_REWARD",
+        "NarrativeStoryType": "3219C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3220B_REWARD",
+        "NarrativeStoryType": "3220B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3220C_REWARD",
+        "NarrativeStoryType": "3220C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3098B_REWARD",
+        "NarrativeStoryType": "3098B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3098C_REWARD",
+        "NarrativeStoryType": "3098C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3186B_REWARD",
+        "NarrativeStoryType": "3186B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3186C_REWARD",
+        "NarrativeStoryType": "3186C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3153B_REWARD",
+        "NarrativeStoryType": "3153B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3153C_REWARD",
+        "NarrativeStoryType": "3153C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3154B_REWARD",
+        "NarrativeStoryType": "3154B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3155B_REWARD",
+        "NarrativeStoryType": "3155B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3142B_REWARD",
+        "NarrativeStoryType": "3142B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3142C_REWARD",
+        "NarrativeStoryType": "3142C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3210B_REWARD",
+        "NarrativeStoryType": "3210B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3210C_REWARD",
+        "NarrativeStoryType": "3210C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3190B_REWARD",
+        "NarrativeStoryType": "3190B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3190B_REWARD2",
+        "NarrativeStoryType": "3190B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3190C_REWARD",
+        "NarrativeStoryType": "3190C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3190C_REWARD2",
+        "NarrativeStoryType": "3190C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3191B_REWARD",
+        "NarrativeStoryType": "3191B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3191B_REWARD2",
+        "NarrativeStoryType": "3191B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3191C_REWARD",
+        "NarrativeStoryType": "3191C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3191C_REWARD2",
+        "NarrativeStoryType": "3191C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3192B_REWARD",
+        "NarrativeStoryType": "3192B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3192B_REWARD2",
+        "NarrativeStoryType": "3192B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3192C_REWARD",
+        "NarrativeStoryType": "3192C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3192C_REWARD2",
+        "NarrativeStoryType": "3192C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3193B_REWARD",
+        "NarrativeStoryType": "3193B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3193B_REWARD2",
+        "NarrativeStoryType": "3193B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3193C_REWARD",
+        "NarrativeStoryType": "3193C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3193C_REWARD2",
+        "NarrativeStoryType": "3193C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3194B_REWARD",
+        "NarrativeStoryType": "3194B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3194B_REWARD2",
+        "NarrativeStoryType": "3194B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3194C_REWARD",
+        "NarrativeStoryType": "3194C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3194C_REWARD2",
+        "NarrativeStoryType": "3194C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3195B_REWARD",
+        "NarrativeStoryType": "3195B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3195B_REWARD2",
+        "NarrativeStoryType": "3195B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3195C_REWARD",
+        "NarrativeStoryType": "3195C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3195C_REWARD2",
+        "NarrativeStoryType": "3195C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3196B_REWARD",
+        "NarrativeStoryType": "3196B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3196B_REWARD2",
+        "NarrativeStoryType": "3196B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3196C_REWARD",
+        "NarrativeStoryType": "3196C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3196C_REWARD2",
+        "NarrativeStoryType": "3196C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3197B_REWARD",
+        "NarrativeStoryType": "3197B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3197B_REWARD2",
+        "NarrativeStoryType": "3197B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3197C_REWARD",
+        "NarrativeStoryType": "3197C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3197C_REWARD2",
+        "NarrativeStoryType": "3197C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3198B_REWARD",
+        "NarrativeStoryType": "3198B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3198B_REWARD2",
+        "NarrativeStoryType": "3198B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3198C_REWARD",
+        "NarrativeStoryType": "3198C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3198C_REWARD2",
+        "NarrativeStoryType": "3198C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3199B_REWARD",
+        "NarrativeStoryType": "3199B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3199B_REWARD2",
+        "NarrativeStoryType": "3199B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3199C_REWARD",
+        "NarrativeStoryType": "3199C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3199C_REWARD2",
+        "NarrativeStoryType": "3199C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3200B_REWARD",
+        "NarrativeStoryType": "3200B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3200B_REWARD2",
+        "NarrativeStoryType": "3200B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3200C_REWARD",
+        "NarrativeStoryType": "3200C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3200C_REWARD2",
+        "NarrativeStoryType": "3200C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3201B_REWARD",
+        "NarrativeStoryType": "3201B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3201B_REWARD2",
+        "NarrativeStoryType": "3201B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3201C_REWARD",
+        "NarrativeStoryType": "3201C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3201C_REWARD2",
+        "NarrativeStoryType": "3201C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3202B_REWARD",
+        "NarrativeStoryType": "3202B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3202B_REWARD2",
+        "NarrativeStoryType": "3202B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3202C_REWARD",
+        "NarrativeStoryType": "3202C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3202C_REWARD2",
+        "NarrativeStoryType": "3202C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3203B_REWARD",
+        "NarrativeStoryType": "3203B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3203B_REWARD2",
+        "NarrativeStoryType": "3203B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3203C_REWARD",
+        "NarrativeStoryType": "3203C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3203C_REWARD2",
+        "NarrativeStoryType": "3203C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3204B_REWARD",
+        "NarrativeStoryType": "3204B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3204B_REWARD2",
+        "NarrativeStoryType": "3204B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3204C_REWARD",
+        "NarrativeStoryType": "3204C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3204C_REWARD2",
+        "NarrativeStoryType": "3204C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3205B_REWARD",
+        "NarrativeStoryType": "3205B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3205C_REWARD",
+        "NarrativeStoryType": "3205C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3206B_REWARD",
+        "NarrativeStoryType": "3206B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3206C_REWARD",
+        "NarrativeStoryType": "3206C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3188B_REWARD",
+        "NarrativeStoryType": "3188B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3188C_REWARD",
+        "NarrativeStoryType": "3188C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3189B_REWARD",
+        "NarrativeStoryType": "3189B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3189C_REWARD",
+        "NarrativeStoryType": "3189C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "201B_REWARD",
+        "NarrativeStoryType": "201B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "201C_REWARD",
+        "NarrativeStoryType": "201C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "205D_REWARD",
+        "NarrativeStoryType": "205D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "205E_REWARD",
+        "NarrativeStoryType": "205E"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1136B_REWARD",
+        "NarrativeStoryType": "1136B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1136C_REWARD",
+        "NarrativeStoryType": "1136C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1136D_REWARD",
+        "NarrativeStoryType": "1136D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1137B_REWARD",
+        "NarrativeStoryType": "1137B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1137C_REWARD",
+        "NarrativeStoryType": "1137C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1137D_REWARD",
+        "NarrativeStoryType": "1137D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1138B_REWARD",
+        "NarrativeStoryType": "1138B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1138C_REWARD",
+        "NarrativeStoryType": "1138C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1138D_REWARD",
+        "NarrativeStoryType": "1138D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1139B_REWARD",
+        "NarrativeStoryType": "1139B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1139C_REWARD",
+        "NarrativeStoryType": "1139C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1139D_REWARD",
+        "NarrativeStoryType": "1139D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1140B_REWARD",
+        "NarrativeStoryType": "1140B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1140C_REWARD",
+        "NarrativeStoryType": "1140C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1140D_REWARD",
+        "NarrativeStoryType": "1140D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1141B_REWARD",
+        "NarrativeStoryType": "1141B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1141C_REWARD",
+        "NarrativeStoryType": "1141C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1141D_REWARD",
+        "NarrativeStoryType": "1141D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1142B_REWARD",
+        "NarrativeStoryType": "1142B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1142C_REWARD",
+        "NarrativeStoryType": "1142C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1142D_REWARD",
+        "NarrativeStoryType": "1142D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1143B_REWARD",
+        "NarrativeStoryType": "1143B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1143C_REWARD",
+        "NarrativeStoryType": "1143C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1143D_REWARD",
+        "NarrativeStoryType": "1143D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1144B_REWARD",
+        "NarrativeStoryType": "1144B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1144C_REWARD",
+        "NarrativeStoryType": "1144C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1144D_REWARD",
+        "NarrativeStoryType": "1144D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1133B_REWARD",
+        "NarrativeStoryType": "1133B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1133B_REWARD2",
+        "NarrativeStoryType": "1133B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1133C_REWARD",
+        "NarrativeStoryType": "1133C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1175A_REWARD",
+        "NarrativeStoryType": "1175A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1154B_REWARD",
+        "NarrativeStoryType": "1154B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1176A_REWARD",
+        "NarrativeStoryType": "1176A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1155B_REWARD",
+        "NarrativeStoryType": "1155B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1177A_REWARD",
+        "NarrativeStoryType": "1177A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1156B_REWARD",
+        "NarrativeStoryType": "1156B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1178A_REWARD",
+        "NarrativeStoryType": "1178A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1157B_REWARD",
+        "NarrativeStoryType": "1157B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1179A_REWARD",
+        "NarrativeStoryType": "1179A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1158B_REWARD",
+        "NarrativeStoryType": "1158B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1180A_REWARD",
+        "NarrativeStoryType": "1180A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1159B_REWARD",
+        "NarrativeStoryType": "1159B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1181A_REWARD",
+        "NarrativeStoryType": "1181A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1160B_REWARD",
+        "NarrativeStoryType": "1160B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1182A_REWARD",
+        "NarrativeStoryType": "1182A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1161B_REWARD",
+        "NarrativeStoryType": "1161B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1183A_REWARD",
+        "NarrativeStoryType": "1183A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1162B_REWARD",
+        "NarrativeStoryType": "1162B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1184A_REWARD",
+        "NarrativeStoryType": "1184A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1163B_REWARD",
+        "NarrativeStoryType": "1163B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1185A_REWARD",
+        "NarrativeStoryType": "1185A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1164B_REWARD",
+        "NarrativeStoryType": "1164B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1186A_REWARD",
+        "NarrativeStoryType": "1186A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1165B_REWARD",
+        "NarrativeStoryType": "1165B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1187A_REWARD",
+        "NarrativeStoryType": "1187A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1166B_REWARD",
+        "NarrativeStoryType": "1166B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1189A_REWARD",
+        "NarrativeStoryType": "1189A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1167B_REWARD",
+        "NarrativeStoryType": "1167B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1190A_REWARD",
+        "NarrativeStoryType": "1190A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1168B_REWARD",
+        "NarrativeStoryType": "1168B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1191A_REWARD",
+        "NarrativeStoryType": "1191A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1169B_REWARD",
+        "NarrativeStoryType": "1169B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1192A_REWARD",
+        "NarrativeStoryType": "1192A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1170B_REWARD",
+        "NarrativeStoryType": "1170B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1193A_REWARD",
+        "NarrativeStoryType": "1193A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1171B_REWARD",
+        "NarrativeStoryType": "1171B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1194A_REWARD",
+        "NarrativeStoryType": "1194A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1172B_REWARD",
+        "NarrativeStoryType": "1172B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1195A_REWARD",
+        "NarrativeStoryType": "1195A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1173B_REWARD",
+        "NarrativeStoryType": "1173B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3519B_REWARD",
+        "NarrativeStoryType": "3519B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3519C_REWARD",
+        "NarrativeStoryType": "3519C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3545B_REWARD",
+        "NarrativeStoryType": "3545B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3545C_REWARD",
+        "NarrativeStoryType": "3545C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3546B_REWARD",
+        "NarrativeStoryType": "3546B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3546C_REWARD",
+        "NarrativeStoryType": "3546C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3547B_REWARD",
+        "NarrativeStoryType": "3547B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3547C_REWARD",
+        "NarrativeStoryType": "3547C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3548B_REWARD",
+        "NarrativeStoryType": "3548B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3548C_REWARD",
+        "NarrativeStoryType": "3548C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3549B_REWARD",
+        "NarrativeStoryType": "3549B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3549C_REWARD",
+        "NarrativeStoryType": "3549C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3550B_REWARD",
+        "NarrativeStoryType": "3550B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3550C_REWARD",
+        "NarrativeStoryType": "3550C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3554B_REWARD",
+        "NarrativeStoryType": "3554B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3554C_REWARD",
+        "NarrativeStoryType": "3554C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3555B_REWARD",
+        "NarrativeStoryType": "3555B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3555C_REWARD",
+        "NarrativeStoryType": "3555C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3556B_REWARD",
+        "NarrativeStoryType": "3556B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3556C_REWARD",
+        "NarrativeStoryType": "3556C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3563B_REWARD",
+        "NarrativeStoryType": "3563B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3563C_REWARD",
+        "NarrativeStoryType": "3563C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3563D_REWARD",
+        "NarrativeStoryType": "3563D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3564B_REWARD",
+        "NarrativeStoryType": "3564B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3564C_REWARD",
+        "NarrativeStoryType": "3564C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3565B_REWARD",
+        "NarrativeStoryType": "3565B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3565C_REWARD",
+        "NarrativeStoryType": "3565C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3697B_REWARD",
+        "NarrativeStoryType": "3697B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3698B_REWARD",
+        "NarrativeStoryType": "3698B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3698B_REWARD2",
+        "NarrativeStoryType": "3698B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3569B_REWARD",
+        "NarrativeStoryType": "3569B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3569C_REWARD",
+        "NarrativeStoryType": "3569C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3570B_REWARD",
+        "NarrativeStoryType": "3570B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3570C_REWARD",
+        "NarrativeStoryType": "3570C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3571B_REWARD",
+        "NarrativeStoryType": "3571B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3571C_REWARD",
+        "NarrativeStoryType": "3571C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "286B_REWARD",
+        "NarrativeStoryType": "286B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "286C_REWARD",
+        "NarrativeStoryType": "286C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3638B_REWARD",
+        "NarrativeStoryType": "3638B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3638B_REWARD2",
+        "NarrativeStoryType": "3638B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3638C_REWARD",
+        "NarrativeStoryType": "3638C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "3638C_REWARD2",
+        "NarrativeStoryType": "3638C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3422C_REWARD",
+        "NarrativeStoryType": "3422C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3422D_REWARD",
+        "NarrativeStoryType": "3422D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3423C_REWARD",
+        "NarrativeStoryType": "3423C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3423D_REWARD",
+        "NarrativeStoryType": "3423D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3551B_REWARD",
+        "NarrativeStoryType": "3551B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3551C_REWARD",
+        "NarrativeStoryType": "3551C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3552B_REWARD",
+        "NarrativeStoryType": "3552B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3552C_REWARD",
+        "NarrativeStoryType": "3552C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3553B_REWARD",
+        "NarrativeStoryType": "3553B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3553C_REWARD",
+        "NarrativeStoryType": "3553C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3553D_REWARD",
+        "NarrativeStoryType": "3553D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3557B_REWARD",
+        "NarrativeStoryType": "3557B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3557C_REWARD",
+        "NarrativeStoryType": "3557C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3558B_REWARD",
+        "NarrativeStoryType": "3558B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3558C_REWARD",
+        "NarrativeStoryType": "3558C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3559B_REWARD",
+        "NarrativeStoryType": "3559B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3559C_REWARD",
+        "NarrativeStoryType": "3559C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3560B_REWARD",
+        "NarrativeStoryType": "3560B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3560C_REWARD",
+        "NarrativeStoryType": "3560C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3561B_REWARD",
+        "NarrativeStoryType": "3561B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3561C_REWARD",
+        "NarrativeStoryType": "3561C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3562B_REWARD",
+        "NarrativeStoryType": "3562B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3562C_REWARD",
+        "NarrativeStoryType": "3562C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3566B_REWARD",
+        "NarrativeStoryType": "3566B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3566C_REWARD",
+        "NarrativeStoryType": "3566C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3567B_REWARD",
+        "NarrativeStoryType": "3567B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3567C_REWARD",
+        "NarrativeStoryType": "3567C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3568B_REWARD",
+        "NarrativeStoryType": "3568B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3568C_REWARD",
+        "NarrativeStoryType": "3568C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3643B_REWARD",
+        "NarrativeStoryType": "3643B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3222B_REWARD",
+        "NarrativeStoryType": "3222B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3223B_REWARD",
+        "NarrativeStoryType": "3223B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3224B_REWARD",
+        "NarrativeStoryType": "3224B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3225B_REWARD",
+        "NarrativeStoryType": "3225B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3395B_REWARD",
+        "NarrativeStoryType": "3395B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3395C_REWARD",
+        "NarrativeStoryType": "3395C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3430C_REWARD",
+        "NarrativeStoryType": "3430C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3430D_REWARD",
+        "NarrativeStoryType": "3430D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3437C_REWARD",
+        "NarrativeStoryType": "3437C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3437D_REWARD",
+        "NarrativeStoryType": "3437D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3439B_REWARD",
+        "NarrativeStoryType": "3439B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3440B_REWARD",
+        "NarrativeStoryType": "3440B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3442B_REWARD",
+        "NarrativeStoryType": "3442B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3443B_REWARD",
+        "NarrativeStoryType": "3443B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3464B_REWARD",
+        "NarrativeStoryType": "3464B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3465B_REWARD",
+        "NarrativeStoryType": "3465B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3466B_REWARD",
+        "NarrativeStoryType": "3466B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3480B_REWARD",
+        "NarrativeStoryType": "3480B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1494B_REWARD",
+        "NarrativeStoryType": "1494B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1493B_REWARD",
+        "NarrativeStoryType": "1493B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1492B_REWARD",
+        "NarrativeStoryType": "1492B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3485A_REWARD",
+        "NarrativeStoryType": "3485A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3486A_REWARD",
+        "NarrativeStoryType": "3486A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3490B_REWARD",
+        "NarrativeStoryType": "3490B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3490C_REWARD",
+        "NarrativeStoryType": "3490C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3491B_REWARD",
+        "NarrativeStoryType": "3491B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3491C_REWARD",
+        "NarrativeStoryType": "3491C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3492B_REWARD",
+        "NarrativeStoryType": "3492B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3492C_REWARD",
+        "NarrativeStoryType": "3492C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3493B_REWARD",
+        "NarrativeStoryType": "3493B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3493C_REWARD",
+        "NarrativeStoryType": "3493C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3494B_REWARD",
+        "NarrativeStoryType": "3494B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3494C_REWARD",
+        "NarrativeStoryType": "3494C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3495B_REWARD",
+        "NarrativeStoryType": "3495B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3495C_REWARD",
+        "NarrativeStoryType": "3495C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1446B_REWARD",
+        "NarrativeStoryType": "1446B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1447A_REWARD",
+        "NarrativeStoryType": "1447A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3510B_REWARD",
+        "NarrativeStoryType": "3510B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3510C_REWARD",
+        "NarrativeStoryType": "3510C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3512A_REWARD",
+        "NarrativeStoryType": "3512A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3513A_REWARD",
+        "NarrativeStoryType": "3513A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3520B_REWARD",
+        "NarrativeStoryType": "3520B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3520C_REWARD",
+        "NarrativeStoryType": "3520C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3521B_REWARD",
+        "NarrativeStoryType": "3521B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3544B_REWARD",
+        "NarrativeStoryType": "3544B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3544C_REWARD",
+        "NarrativeStoryType": "3544C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3668B_REWARD",
+        "NarrativeStoryType": "3668B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3668C_REWARD",
+        "NarrativeStoryType": "3668C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3669B_REWARD",
+        "NarrativeStoryType": "3669B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3669C_REWARD",
+        "NarrativeStoryType": "3669C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3671B_REWARD",
+        "NarrativeStoryType": "3671B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3671C_REWARD",
+        "NarrativeStoryType": "3671C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3672B_REWARD",
+        "NarrativeStoryType": "3672B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3673B_REWARD",
+        "NarrativeStoryType": "3673B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3695B_REWARD",
+        "NarrativeStoryType": "3695B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3695B_REWARD2",
+        "NarrativeStoryType": "3695B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3695C_REWARD",
+        "NarrativeStoryType": "3695C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3695C_REWARD2",
+        "NarrativeStoryType": "3695C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3678B_REWARD",
+        "NarrativeStoryType": "3678B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3678C_REWARD",
+        "NarrativeStoryType": "3678C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3228B_REWARD",
+        "NarrativeStoryType": "3228B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3229B_REWARD",
+        "NarrativeStoryType": "3229B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3230A_REWARD",
+        "NarrativeStoryType": "3230A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3230A_REWARD2",
+        "NarrativeStoryType": "3230A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3092B_REWARD",
+        "NarrativeStoryType": "3092B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3092C_REWARD",
+        "NarrativeStoryType": "3092C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "200B_REWARD",
+        "NarrativeStoryType": "200B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "200C_REWARD",
+        "NarrativeStoryType": "200C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "220C_REWARD",
+        "NarrativeStoryType": "220C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "220D_REWARD",
+        "NarrativeStoryType": "220D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "221C_REWARD",
+        "NarrativeStoryType": "221C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "221D_REWARD",
+        "NarrativeStoryType": "221D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "222C_REWARD",
+        "NarrativeStoryType": "222C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "223B_REWARD",
+        "NarrativeStoryType": "223B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "223B_REWARD2",
+        "NarrativeStoryType": "223B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "223C_REWARD",
+        "NarrativeStoryType": "223C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "224B_REWARD",
+        "NarrativeStoryType": "224B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "224B_REWARD2",
+        "NarrativeStoryType": "224B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "224C_REWARD",
+        "NarrativeStoryType": "224C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "225B_REWARD",
+        "NarrativeStoryType": "225B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "225C_REWARD",
+        "NarrativeStoryType": "225C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "226B_REWARD",
+        "NarrativeStoryType": "226B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "226B_REWARD2",
+        "NarrativeStoryType": "226B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "226C_REWARD",
+        "NarrativeStoryType": "226C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "226D_REWARD",
+        "NarrativeStoryType": "226D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "227B_REWARD",
+        "NarrativeStoryType": "227B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "227C_REWARD",
+        "NarrativeStoryType": "227C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "232B_REWARD",
+        "NarrativeStoryType": "232B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "232B_REWARD2",
+        "NarrativeStoryType": "232B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "232C_REWARD",
+        "NarrativeStoryType": "232C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "232C_REWARD2",
+        "NarrativeStoryType": "232C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "233B_REWARD",
+        "NarrativeStoryType": "233B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "234B_REWARD",
+        "NarrativeStoryType": "234B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "235B_REWARD",
+        "NarrativeStoryType": "235B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "111B_REWARD",
+        "NarrativeStoryType": "111B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "111C_REWARD",
+        "NarrativeStoryType": "111C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "120B_REWARD",
+        "NarrativeStoryType": "120B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "120C_REWARD",
+        "NarrativeStoryType": "120C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "120D_REWARD",
+        "NarrativeStoryType": "120D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "121B_REWARD",
+        "NarrativeStoryType": "121B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "121C_REWARD",
+        "NarrativeStoryType": "121C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "121D_REWARD",
+        "NarrativeStoryType": "121D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "122B_REWARD",
+        "NarrativeStoryType": "122B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "122C_REWARD",
+        "NarrativeStoryType": "122C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "123B_REWARD",
+        "NarrativeStoryType": "123B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "124B_REWARD",
+        "NarrativeStoryType": "124B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "206B_REWARD",
+        "NarrativeStoryType": "206B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "206B_REWARD2",
+        "NarrativeStoryType": "206B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "206B_REWARD3",
+        "NarrativeStoryType": "206B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "206C_REWARD",
+        "NarrativeStoryType": "206C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "206C_REWARD2",
+        "NarrativeStoryType": "206C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "206C_REWARD3",
+        "NarrativeStoryType": "206C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "208B_REWARD",
+        "NarrativeStoryType": "208B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "208B_REWARD2",
+        "NarrativeStoryType": "208B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "208C_REWARD",
+        "NarrativeStoryType": "208C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "208C_REWARD2",
+        "NarrativeStoryType": "208C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "210B_REWARD",
+        "NarrativeStoryType": "210B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "210C_REWARD",
+        "NarrativeStoryType": "210C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "211B_REWARD",
+        "NarrativeStoryType": "211B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "211C_REWARD",
+        "NarrativeStoryType": "211C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1054B_REWARD",
+        "NarrativeStoryType": "1054B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1055B_REWARD",
+        "NarrativeStoryType": "1055B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1057B_REWARD",
+        "NarrativeStoryType": "1057B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1058B_REWARD",
+        "NarrativeStoryType": "1058B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1059B_REWARD",
+        "NarrativeStoryType": "1059B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1059B_REWARD2",
+        "NarrativeStoryType": "1059B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3654C_REWARD",
+        "NarrativeStoryType": "3654C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3654D_REWARD",
+        "NarrativeStoryType": "3654D"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ATTRIBUTE_QUEST_1010A_REWARD",
+        "NarrativeStoryType": "ATTRIBUTE_QUEST_1010A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ATTRIBUTE_QUEST_1011A_REWARD",
+        "NarrativeStoryType": "ATTRIBUTE_QUEST_1011A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ATTRIBUTE_QUEST_1012A_REWARD",
+        "NarrativeStoryType": "ATTRIBUTE_QUEST_1012A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ATTRIBUTE_QUEST_1013A_REWARD",
+        "NarrativeStoryType": "ATTRIBUTE_QUEST_1013A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ATTRIBUTE_QUEST_1016A_REWARD",
+        "NarrativeStoryType": "ATTRIBUTE_QUEST_1016A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ATTRIBUTE_QUEST_1017A_REWARD",
+        "NarrativeStoryType": "ATTRIBUTE_QUEST_1017A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8005B_REWARD",
+        "NarrativeStoryType": "8005B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8005C_REWARD",
+        "NarrativeStoryType": "8005C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8038B_REWARD",
+        "NarrativeStoryType": "8038B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8038C_REWARD",
+        "NarrativeStoryType": "8038C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "272B_REWARD",
+        "NarrativeStoryType": "272B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "273A_REWARD",
+        "NarrativeStoryType": "273A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "209B_REWARD",
+        "NarrativeStoryType": "209B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "209B_REWARD2",
+        "NarrativeStoryType": "209B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1222B_REWARD",
+        "NarrativeStoryType": "1222B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1222C_REWARD",
+        "NarrativeStoryType": "1222C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1213B_REWARD",
+        "NarrativeStoryType": "1213B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1213C_REWARD",
+        "NarrativeStoryType": "1213C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1228B_REWARD",
+        "NarrativeStoryType": "1228B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1228C_REWARD",
+        "NarrativeStoryType": "1228C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1229B_REWARD",
+        "NarrativeStoryType": "1229B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1229C_REWARD",
+        "NarrativeStoryType": "1229C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1252B_REWARD",
+        "NarrativeStoryType": "1252B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1252C_REWARD",
+        "NarrativeStoryType": "1252C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1253B_REWARD",
+        "NarrativeStoryType": "1253B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1253C_REWARD",
+        "NarrativeStoryType": "1253C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1254B_REWARD",
+        "NarrativeStoryType": "1254B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1254C_REWARD",
+        "NarrativeStoryType": "1254C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1255B_REWARD",
+        "NarrativeStoryType": "1255B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1255C_REWARD",
+        "NarrativeStoryType": "1255C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1256B_REWARD",
+        "NarrativeStoryType": "1256B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1256C_REWARD",
+        "NarrativeStoryType": "1256C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1257B_REWARD",
+        "NarrativeStoryType": "1257B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1257C_REWARD",
+        "NarrativeStoryType": "1257C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1258B_REWARD",
+        "NarrativeStoryType": "1258B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1258C_REWARD",
+        "NarrativeStoryType": "1258C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1259B_REWARD",
+        "NarrativeStoryType": "1259B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1259C_REWARD",
+        "NarrativeStoryType": "1259C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1452B_REWARD",
+        "NarrativeStoryType": "1452B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1452C_REWARD",
+        "NarrativeStoryType": "1452C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1452D_REWARD",
+        "NarrativeStoryType": "1452D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1453B_REWARD",
+        "NarrativeStoryType": "1453B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1453B_REWARD2",
+        "NarrativeStoryType": "1453B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1454B_REWARD",
+        "NarrativeStoryType": "1454B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1465B_REWARD",
+        "NarrativeStoryType": "1465B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1466B_REWARD",
+        "NarrativeStoryType": "1466B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8013B_REWARD",
+        "NarrativeStoryType": "8013B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8013C_REWARD",
+        "NarrativeStoryType": "8013C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8015A_REWARD",
+        "NarrativeStoryType": "8015A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8014C_REWARD",
+        "NarrativeStoryType": "8014C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8037B_REWARD",
+        "NarrativeStoryType": "8037B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8037C_REWARD",
+        "NarrativeStoryType": "8037C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8039B_REWARD",
+        "NarrativeStoryType": "8039B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8039C_REWARD",
+        "NarrativeStoryType": "8039C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8040B_REWARD",
+        "NarrativeStoryType": "8040B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8040C_REWARD",
+        "NarrativeStoryType": "8040C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8041B_REWARD",
+        "NarrativeStoryType": "8041B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8041C_REWARD",
+        "NarrativeStoryType": "8041C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8042B_REWARD",
+        "NarrativeStoryType": "8042B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8042C_REWARD",
+        "NarrativeStoryType": "8042C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8043B_REWARD",
+        "NarrativeStoryType": "8043B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8043C_REWARD",
+        "NarrativeStoryType": "8043C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8044B_REWARD",
+        "NarrativeStoryType": "8044B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8044C_REWARD",
+        "NarrativeStoryType": "8044C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8045B_REWARD",
+        "NarrativeStoryType": "8045B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8045C_REWARD",
+        "NarrativeStoryType": "8045C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8047B_REWARD",
+        "NarrativeStoryType": "8047B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8047C_REWARD",
+        "NarrativeStoryType": "8047C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_1A_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_1A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_2B_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_2B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_2D_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_2D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_3B_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_3B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_3D_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_3D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_4B_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_4B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_4D_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_4D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_5B_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_5B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_5D_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_5D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_6B_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_6B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_6D_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_6D"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_7A_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_7A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_8A_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_8A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_9A_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_9A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_10A_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_10A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_11A_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_11A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_12B_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_12B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_12D_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_12D"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_13A_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_13A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_14A_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_14A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_15A_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_15A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "ARCHAEOLOGY_16A_REWARD",
+        "NarrativeStoryType": "ARCHAEOLOGY_16A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7029B_REWARD",
+        "NarrativeStoryType": "7029B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7029C_REWARD",
+        "NarrativeStoryType": "7029C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7028B_REWARD",
+        "NarrativeStoryType": "7028B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7031B_REWARD",
+        "NarrativeStoryType": "7031B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7031C_REWARD",
+        "NarrativeStoryType": "7031C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7030B_REWARD",
+        "NarrativeStoryType": "7030B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7033B_REWARD",
+        "NarrativeStoryType": "7033B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7033C_REWARD",
+        "NarrativeStoryType": "7033C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7032B_REWARD",
+        "NarrativeStoryType": "7032B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7035B_REWARD",
+        "NarrativeStoryType": "7035B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7035C_REWARD",
+        "NarrativeStoryType": "7035C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7034B_REWARD",
+        "NarrativeStoryType": "7034B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7037B_REWARD",
+        "NarrativeStoryType": "7037B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7037C_REWARD",
+        "NarrativeStoryType": "7037C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7036B_REWARD",
+        "NarrativeStoryType": "7036B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7039B_REWARD",
+        "NarrativeStoryType": "7039B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7039C_REWARD",
+        "NarrativeStoryType": "7039C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7038B_REWARD",
+        "NarrativeStoryType": "7038B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7041B_REWARD",
+        "NarrativeStoryType": "7041B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7041C_REWARD",
+        "NarrativeStoryType": "7041C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7040B_REWARD",
+        "NarrativeStoryType": "7040B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7043B_REWARD",
+        "NarrativeStoryType": "7043B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7043C_REWARD",
+        "NarrativeStoryType": "7043C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7042B_REWARD",
+        "NarrativeStoryType": "7042B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7045B_REWARD",
+        "NarrativeStoryType": "7045B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7045C_REWARD",
+        "NarrativeStoryType": "7045C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7044B_REWARD",
+        "NarrativeStoryType": "7044B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7047B_REWARD",
+        "NarrativeStoryType": "7047B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7047C_REWARD",
+        "NarrativeStoryType": "7047C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7046B_REWARD",
+        "NarrativeStoryType": "7046B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1008C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1008C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1008D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1008D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1008D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1008D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1009C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1009C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1009D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1009D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1009D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1009D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1018C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1018C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1018D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1018D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1018D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1018D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1019C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1019C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1019D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1019D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1019D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1019D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1028C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1028C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1028D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1028D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1028D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1028D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1029C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1029C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1029D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1029D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1029D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1029D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1038C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1038C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1038D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1038D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1038D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1038D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1039C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1039C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1039D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1039D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1039D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1039D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1048C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1048C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1048D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1048D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1048D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1048D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1049C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1049C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1049D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1049D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1049D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1049D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1058C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1058C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1058D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1058D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1058D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1058D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1059C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1059C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1059D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1059D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1059D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1059D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1068C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1068C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1068D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1068D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1068D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1068D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1069C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1069C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1069D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1069D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1069D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1069D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1078C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1078C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1078D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1078D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1078D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1078D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1079C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1079C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1079D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1079D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1079D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1079D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1088C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1088C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1088D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1088D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1088D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1088D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1089C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1089C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1089D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1089D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1089D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1089D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1098C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1098C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1098D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1098D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1098D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1098D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1099C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1099C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1099D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1099D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1099D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1099D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1108C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1108C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1108D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1108D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1108D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1108D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1109C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1109C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1109D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1109D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1109D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1109D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1118C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1118C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1118D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1118D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1118D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1118D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1119C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1119C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1119D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1119D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1119D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1119D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1128C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1128C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1128D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1128D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1128D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1128D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1129C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1129C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1129D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1129D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1129D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1129D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1138C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1138C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1138D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1138D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1138D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1138D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1139C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1139C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1139D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1139D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1139D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1139D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1148C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1148C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1148D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1148D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1148D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1148D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1149C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1149C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1149D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1149D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1149D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1149D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1158C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1158C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1158D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1158D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1158D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1158D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1159C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1159C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1159D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1159D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1159D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1159D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1168C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1168C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1168D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1168D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1168D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1168D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1169C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1169C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1169D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1169D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1169D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1169D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1178C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1178C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1178D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1178D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1178D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1178D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1179C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1179C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1179D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1179D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1179D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1179D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1188C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1188C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1188D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1188D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1188D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1188D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1189C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1189C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1189D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1189D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1189D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1189D"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "280A_REWARD",
+        "NarrativeStoryType": "280A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "279C_REWARD",
+        "NarrativeStoryType": "279C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8053B_REWARD",
+        "NarrativeStoryType": "8053B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8053C_REWARD",
+        "NarrativeStoryType": "8053C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8054B_REWARD",
+        "NarrativeStoryType": "8054B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8054C_REWARD",
+        "NarrativeStoryType": "8054C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8055B_REWARD",
+        "NarrativeStoryType": "8055B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8055C_REWARD",
+        "NarrativeStoryType": "8055C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8056B_REWARD",
+        "NarrativeStoryType": "8056B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8056C_REWARD",
+        "NarrativeStoryType": "8056C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8057B_REWARD",
+        "NarrativeStoryType": "8057B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8057C_REWARD",
+        "NarrativeStoryType": "8057C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8135A_REWARD",
+        "NarrativeStoryType": "8135A"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8136A_REWARD",
+        "NarrativeStoryType": "8136A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8059C_REWARD",
+        "NarrativeStoryType": "8059C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8059D_REWARD",
+        "NarrativeStoryType": "8059D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8060B_REWARD",
+        "NarrativeStoryType": "8060B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8060C_REWARD",
+        "NarrativeStoryType": "8060C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8063B_REWARD",
+        "NarrativeStoryType": "8063B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8063C_REWARD",
+        "NarrativeStoryType": "8063C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8064B_REWARD",
+        "NarrativeStoryType": "8064B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8064C_REWARD",
+        "NarrativeStoryType": "8064C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8067B_REWARD",
+        "NarrativeStoryType": "8067B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8067C_REWARD",
+        "NarrativeStoryType": "8067C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8071B_REWARD",
+        "NarrativeStoryType": "8071B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8071C_REWARD",
+        "NarrativeStoryType": "8071C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8106B_REWARD",
+        "NarrativeStoryType": "8106B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8106C_REWARD",
+        "NarrativeStoryType": "8106C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8107B_REWARD",
+        "NarrativeStoryType": "8107B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8107C_REWARD",
+        "NarrativeStoryType": "8107C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8109B_REWARD",
+        "NarrativeStoryType": "8109B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8109C_REWARD",
+        "NarrativeStoryType": "8109C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8110B_REWARD",
+        "NarrativeStoryType": "8110B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8110C_REWARD",
+        "NarrativeStoryType": "8110C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8112B_REWARD",
+        "NarrativeStoryType": "8112B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8112C_REWARD",
+        "NarrativeStoryType": "8112C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8113B_REWARD",
+        "NarrativeStoryType": "8113B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8113C_REWARD",
+        "NarrativeStoryType": "8113C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8111B_REWARD",
+        "NarrativeStoryType": "8111B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8111C_REWARD",
+        "NarrativeStoryType": "8111C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1061B_REWARD",
+        "NarrativeStoryType": "1061B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1061C_REWARD",
+        "NarrativeStoryType": "1061C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1062B_REWARD",
+        "NarrativeStoryType": "1062B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1062B_REWARD2",
+        "NarrativeStoryType": "1062B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1207B_REWARD",
+        "NarrativeStoryType": "1207B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1207C_REWARD",
+        "NarrativeStoryType": "1207C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1219B_REWARD",
+        "NarrativeStoryType": "1219B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1219C_REWARD",
+        "NarrativeStoryType": "1219C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1242B_REWARD",
+        "NarrativeStoryType": "1242B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1242C_REWARD",
+        "NarrativeStoryType": "1242C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1243B_REWARD",
+        "NarrativeStoryType": "1243B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1243C_REWARD",
+        "NarrativeStoryType": "1243C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1243D_REWARD",
+        "NarrativeStoryType": "1243D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1244B_REWARD",
+        "NarrativeStoryType": "1244B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1246B_REWARD",
+        "NarrativeStoryType": "1246B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1246C_REWARD",
+        "NarrativeStoryType": "1246C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1247B_REWARD",
+        "NarrativeStoryType": "1247B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1247C_REWARD",
+        "NarrativeStoryType": "1247C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1247D_REWARD",
+        "NarrativeStoryType": "1247D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1248B_REWARD",
+        "NarrativeStoryType": "1248B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1248C_REWARD",
+        "NarrativeStoryType": "1248C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1260C_REWARD",
+        "NarrativeStoryType": "1260C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1261B_REWARD",
+        "NarrativeStoryType": "1261B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1261C_REWARD",
+        "NarrativeStoryType": "1261C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1268B_REWARD",
+        "NarrativeStoryType": "1268B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1451B_REWARD",
+        "NarrativeStoryType": "1451B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1451C_REWARD",
+        "NarrativeStoryType": "1451C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8142B_REWARD",
+        "NarrativeStoryType": "8142B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "8142B_REWARD2",
+        "NarrativeStoryType": "8142B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "8144B_REWARD",
+        "NarrativeStoryType": "8144B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "8144B_REWARD2",
+        "NarrativeStoryType": "8144B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "169C_REWARD",
+        "NarrativeStoryType": "169C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "169D_REWARD",
+        "NarrativeStoryType": "169D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "170C_REWARD",
+        "NarrativeStoryType": "170C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "170D_REWARD",
+        "NarrativeStoryType": "170D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "290C_REWARD",
+        "NarrativeStoryType": "290C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "291A_REWARD",
+        "NarrativeStoryType": "291A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "261B_REWARD",
+        "NarrativeStoryType": "261B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "261C_REWARD",
+        "NarrativeStoryType": "261C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "262B_REWARD",
+        "NarrativeStoryType": "262B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "262B_REWARD2",
+        "NarrativeStoryType": "262B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "262C_REWARD",
+        "NarrativeStoryType": "262C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "263B_REWARD",
+        "NarrativeStoryType": "263B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "263C_REWARD",
+        "NarrativeStoryType": "263C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "264B_REWARD",
+        "NarrativeStoryType": "264B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "264C_REWARD",
+        "NarrativeStoryType": "264C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "265B_REWARD",
+        "NarrativeStoryType": "265B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "265C_REWARD",
+        "NarrativeStoryType": "265C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "266B_REWARD",
+        "NarrativeStoryType": "266B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "266C_REWARD",
+        "NarrativeStoryType": "266C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "267B_REWARD",
+        "NarrativeStoryType": "267B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "267C_REWARD",
+        "NarrativeStoryType": "267C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "268B_REWARD",
+        "NarrativeStoryType": "268B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "268C_REWARD",
+        "NarrativeStoryType": "268C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "269B_REWARD",
+        "NarrativeStoryType": "269B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "269C_REWARD",
+        "NarrativeStoryType": "269C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7001B_REWARD",
+        "NarrativeStoryType": "7001B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "7001C_REWARD",
+        "NarrativeStoryType": "7001C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "9021B_REWARD",
+        "NarrativeStoryType": "9021B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "9021B_REWARD2",
+        "NarrativeStoryType": "9021B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "9021C_REWARD",
+        "NarrativeStoryType": "9021C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "9021C_REWARD2",
+        "NarrativeStoryType": "9021C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10008B_REWARD",
+        "NarrativeStoryType": "10008B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10008B_REWARD2",
+        "NarrativeStoryType": "10008B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10008C_REWARD",
+        "NarrativeStoryType": "10008C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10008C_REWARD2",
+        "NarrativeStoryType": "10008C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10009B_REWARD",
+        "NarrativeStoryType": "10009B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10009C_REWARD",
+        "NarrativeStoryType": "10009C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10010B_REWARD",
+        "NarrativeStoryType": "10010B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10010C_REWARD",
+        "NarrativeStoryType": "10010C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10011B_REWARD",
+        "NarrativeStoryType": "10011B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10011B_REWARD2",
+        "NarrativeStoryType": "10011B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10011C_REWARD",
+        "NarrativeStoryType": "10011C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10011C_REWARD2",
+        "NarrativeStoryType": "10011C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10012B_REWARD",
+        "NarrativeStoryType": "10012B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10012C_REWARD",
+        "NarrativeStoryType": "10012C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10013B_REWARD",
+        "NarrativeStoryType": "10013B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10013C_REWARD",
+        "NarrativeStoryType": "10013C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10014B_REWARD",
+        "NarrativeStoryType": "10014B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10014C_REWARD",
+        "NarrativeStoryType": "10014C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1218C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1218C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1218D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1218D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1218D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1218D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1219C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1219C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1219D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1219D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1219D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1219D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1018F_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1018F"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1018G_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1018G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1018G_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1018G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1019C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1019F"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1019D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1019G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1019D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1019G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1108C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1108F"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1108D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1108G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1108D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1108G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1109F_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1109F"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1109G_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1109G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1109G_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1109G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10039B_REWARD",
+        "NarrativeStoryType": "10039B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10039C_REWARD",
+        "NarrativeStoryType": "10039C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10040B_REWARD",
+        "NarrativeStoryType": "10040B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10040C_REWARD",
+        "NarrativeStoryType": "10040C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10042B_REWARD",
+        "NarrativeStoryType": "10042B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10042B_REWARD2",
+        "NarrativeStoryType": "10042B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10042C_REWARD",
+        "NarrativeStoryType": "10042C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10042C_REWARD2",
+        "NarrativeStoryType": "10042C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10043B_REWARD",
+        "NarrativeStoryType": "10043B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10043B_REWARD2",
+        "NarrativeStoryType": "10043B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10043C_REWARD",
+        "NarrativeStoryType": "10043C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10043C_REWARD2",
+        "NarrativeStoryType": "10043C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10046B_REWARD",
+        "NarrativeStoryType": "10046B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10046C_REWARD",
+        "NarrativeStoryType": "10046C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10047B_REWARD",
+        "NarrativeStoryType": "10047B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10047C_REWARD",
+        "NarrativeStoryType": "10047C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10048B_REWARD",
+        "NarrativeStoryType": "10048B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10048C_REWARD",
+        "NarrativeStoryType": "10048C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10049B_REWARD",
+        "NarrativeStoryType": "10049B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10049B_REWARD2",
+        "NarrativeStoryType": "10049B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10049C_REWARD",
+        "NarrativeStoryType": "10049C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10049C_REWARD2",
+        "NarrativeStoryType": "10049C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1228C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1228C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1228D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1228D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1228D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1228D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1229C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1229C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1229D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1229D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1229D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1229D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10099B_REWARD",
+        "NarrativeStoryType": "10099B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10099B_REWARD2",
+        "NarrativeStoryType": "10099B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10099C_REWARD",
+        "NarrativeStoryType": "10099C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10101B_REWARD",
+        "NarrativeStoryType": "10101B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10101B_REWARD2",
+        "NarrativeStoryType": "10101B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 0,
+        "NarrativeRewardType": "10101B_REWARD3",
+        "NarrativeStoryType": "10101B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10100C_REWARD",
+        "NarrativeStoryType": "10100C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10102B_REWARD",
+        "NarrativeStoryType": "10102B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10102C_REWARD",
+        "NarrativeStoryType": "10102C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10102D_REWARD",
+        "NarrativeStoryType": "10102D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10103B_REWARD",
+        "NarrativeStoryType": "10103B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10103C_REWARD",
+        "NarrativeStoryType": "10103C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10103D_REWARD",
+        "NarrativeStoryType": "10103D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1268C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1268C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1268D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1268D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1268D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1268D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1269C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1269C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1269D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1269D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1269D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1269D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1078C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1078F"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1078D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1078G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1078D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1078G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1079F_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1079F"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1079G_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1079G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1079G_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1079G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1188F_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1188F"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1188G_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1188G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1188G_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1188G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1189F_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1189F"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1189G_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1189G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1189G_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1189G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11145B_REWARD",
+        "NarrativeStoryType": "11145B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11145C_REWARD",
+        "NarrativeStoryType": "11145C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11146B_REWARD",
+        "NarrativeStoryType": "11146B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11146C_REWARD",
+        "NarrativeStoryType": "11146C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1198C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1198C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1198D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1198D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1198D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1198D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1199C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1199C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1199D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1199D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1199D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1199D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3709B_REWARD",
+        "NarrativeStoryType": "3709B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3709C_REWARD",
+        "NarrativeStoryType": "3709C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3710B_REWARD",
+        "NarrativeStoryType": "3710B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3710C_REWARD",
+        "NarrativeStoryType": "3710C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3711B_REWARD",
+        "NarrativeStoryType": "3711B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3711C_REWARD",
+        "NarrativeStoryType": "3711C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3712B_REWARD",
+        "NarrativeStoryType": "3712B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3712C_REWARD",
+        "NarrativeStoryType": "3712C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1198F_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1198F"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1198G_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1198G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1198G_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1198G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1199F_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1199F"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1199G_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1199G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1199G_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1199G"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3709_ALTB_REWARD",
+        "NarrativeStoryType": "3709_ALTB"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3709_ALTC_REWARD",
+        "NarrativeStoryType": "3709_ALTC"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3710_ALTB_REWARD",
+        "NarrativeStoryType": "3710_ALTB"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3710_ALTC_REWARD",
+        "NarrativeStoryType": "3710_ALTC"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3711_ALTB_REWARD",
+        "NarrativeStoryType": "3711_ALTB"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3711_ALTC_REWARD",
+        "NarrativeStoryType": "3711_ALTC"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3712_ALTB_REWARD",
+        "NarrativeStoryType": "3712_ALTB"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3712_ALTC_REWARD",
+        "NarrativeStoryType": "3712_ALTC"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11101B_REWARD",
+        "NarrativeStoryType": "11101B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11101B_REWARD2",
+        "NarrativeStoryType": "11101B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11101C_REWARD",
+        "NarrativeStoryType": "11101C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11101C_REWARD2",
+        "NarrativeStoryType": "11101C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11102B_REWARD",
+        "NarrativeStoryType": "11102B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11102C_REWARD",
+        "NarrativeStoryType": "11102C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11103B_REWARD",
+        "NarrativeStoryType": "11103B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11103C_REWARD",
+        "NarrativeStoryType": "11103C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11103D_REWARD",
+        "NarrativeStoryType": "11103D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11104B_REWARD",
+        "NarrativeStoryType": "11104B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11104C_REWARD",
+        "NarrativeStoryType": "11104C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11105B_REWARD",
+        "NarrativeStoryType": "11105B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11105B_REWARD2",
+        "NarrativeStoryType": "11105B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11105C_REWARD",
+        "NarrativeStoryType": "11105C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11105D_REWARD",
+        "NarrativeStoryType": "11105D"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11106B_REWARD",
+        "NarrativeStoryType": "11106B"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11106C_REWARD",
+        "NarrativeStoryType": "11106C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11106D_REWARD",
+        "NarrativeStoryType": "11106D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11107B_REWARD",
+        "NarrativeStoryType": "11107B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11107C_REWARD",
+        "NarrativeStoryType": "11107C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11107D_REWARD",
+        "NarrativeStoryType": "11107D"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11108B_REWARD",
+        "NarrativeStoryType": "11108B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11108C_REWARD",
+        "NarrativeStoryType": "11108C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11110B_REWARD",
+        "NarrativeStoryType": "11110B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11110C_REWARD",
+        "NarrativeStoryType": "11110C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "12013B_REWARD",
+        "NarrativeStoryType": "12013B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "12013C_REWARD",
+        "NarrativeStoryType": "12013C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11115B_REWARD",
+        "NarrativeStoryType": "11115B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11115C_REWARD",
+        "NarrativeStoryType": "11115C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11119B_REWARD",
+        "NarrativeStoryType": "11119B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11119C_REWARD",
+        "NarrativeStoryType": "11119C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10079B_REWARD",
+        "NarrativeStoryType": "10079B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10079C_REWARD",
+        "NarrativeStoryType": "10079C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10080B_REWARD",
+        "NarrativeStoryType": "10080B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10080C_REWARD",
+        "NarrativeStoryType": "10080C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10081B_REWARD",
+        "NarrativeStoryType": "10081B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10081C_REWARD",
+        "NarrativeStoryType": "10081C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1258C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1258C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1258D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1258D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1258D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1258D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1259C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1259C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1259D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1259D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1259D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1259D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1208C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1208C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1208D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1208D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1208D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1208D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1209C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1209C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1209D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1209D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1209D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1209D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3730B_REWARD",
+        "NarrativeStoryType": "3730B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3730C_REWARD",
+        "NarrativeStoryType": "3730C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3731B_REWARD",
+        "NarrativeStoryType": "3731B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3731C_REWARD",
+        "NarrativeStoryType": "3731C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3732B_REWARD",
+        "NarrativeStoryType": "3732B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "3732C_REWARD",
+        "NarrativeStoryType": "3732C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1497B_REWARD",
+        "NarrativeStoryType": "1497B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1497C_REWARD",
+        "NarrativeStoryType": "1497C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1497D_REWARD",
+        "NarrativeStoryType": "1497D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1497E_REWARD",
+        "NarrativeStoryType": "1497E"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1497F_REWARD",
+        "NarrativeStoryType": "1497F"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1498B_REWARD",
+        "NarrativeStoryType": "1498B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1498B_REWARD2",
+        "NarrativeStoryType": "1498B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1499B_REWARD",
+        "NarrativeStoryType": "1499B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1499C_REWARD",
+        "NarrativeStoryType": "1499C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1500B_REWARD",
+        "NarrativeStoryType": "1500B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1500B_REWARD2",
+        "NarrativeStoryType": "1500B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1500C_REWARD",
+        "NarrativeStoryType": "1500C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1500C_REWARD2",
+        "NarrativeStoryType": "1500C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1501B_REWARD",
+        "NarrativeStoryType": "1501B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "1501C_REWARD",
+        "NarrativeStoryType": "1501C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11093B_REWARD",
+        "NarrativeStoryType": "11093B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11093C_REWARD",
+        "NarrativeStoryType": "11093C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11010B_REWARD",
+        "NarrativeStoryType": "11010B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11010C_REWARD",
+        "NarrativeStoryType": "11010C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11011B_REWARD",
+        "NarrativeStoryType": "11011B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11011C_REWARD",
+        "NarrativeStoryType": "11011C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11012B_REWARD",
+        "NarrativeStoryType": "11012B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11012C_REWARD",
+        "NarrativeStoryType": "11012C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11012C_REWARD2",
+        "NarrativeStoryType": "11012C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11012D_REWARD",
+        "NarrativeStoryType": "11012D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11012D_REWARD2",
+        "NarrativeStoryType": "11012D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11013B_REWARD",
+        "NarrativeStoryType": "11013B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11013B_REWARD2",
+        "NarrativeStoryType": "11013B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11013C_REWARD",
+        "NarrativeStoryType": "11013C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11013C_REWARD2",
+        "NarrativeStoryType": "11013C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11014B_REWARD",
+        "NarrativeStoryType": "11014B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11014B_REWARD2",
+        "NarrativeStoryType": "11014B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11014C_REWARD",
+        "NarrativeStoryType": "11014C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11014C_REWARD2",
+        "NarrativeStoryType": "11014C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11015B_REWARD",
+        "NarrativeStoryType": "11015B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11015B_REWARD2",
+        "NarrativeStoryType": "11015B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11015C_REWARD",
+        "NarrativeStoryType": "11015C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11016B_REWARD",
+        "NarrativeStoryType": "11016B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11016C_REWARD",
+        "NarrativeStoryType": "11016C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11017B_REWARD",
+        "NarrativeStoryType": "11017B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11017C_REWARD",
+        "NarrativeStoryType": "11017C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11018B_REWARD",
+        "NarrativeStoryType": "11018B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11018B_REWARD2",
+        "NarrativeStoryType": "11018B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11018C_REWARD",
+        "NarrativeStoryType": "11018C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11019B_REWARD",
+        "NarrativeStoryType": "11019B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11019B_REWARD2",
+        "NarrativeStoryType": "11019B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11019C_REWARD",
+        "NarrativeStoryType": "11019C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11019C_REWARD2",
+        "NarrativeStoryType": "11019C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11019_ALT2B_REWARD",
+        "NarrativeStoryType": "11019_ALT2B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11019_ALT2B_REWARD2",
+        "NarrativeStoryType": "11019_ALT2B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11019_ALT2C_REWARD",
+        "NarrativeStoryType": "11019_ALT2C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11019_ALT2C_REWARD2",
+        "NarrativeStoryType": "11019_ALT2C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11068B_REWARD",
+        "NarrativeStoryType": "11068B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11068C_REWARD",
+        "NarrativeStoryType": "11068C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "12005B_REWARD",
+        "NarrativeStoryType": "12005B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "12005C_REWARD",
+        "NarrativeStoryType": "12005C"
+    },
+    {
+        "Activation": "COMPLETE",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11031A_REWARD",
+        "NarrativeStoryType": "11031A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11030B_REWARD",
+        "NarrativeStoryType": "11030B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11032B_REWARD",
+        "NarrativeStoryType": "11032B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11032C_REWARD",
+        "NarrativeStoryType": "11032C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11032C_REWARD2",
+        "NarrativeStoryType": "11032C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11034A_REWARD",
+        "NarrativeStoryType": "11034A"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11034B_REWARD",
+        "NarrativeStoryType": "11034B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11033B_REWARD",
+        "NarrativeStoryType": "11033B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11035B_REWARD",
+        "NarrativeStoryType": "11035B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11035C_REWARD",
+        "NarrativeStoryType": "11035C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11036B_REWARD",
+        "NarrativeStoryType": "11036B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11036C_REWARD",
+        "NarrativeStoryType": "11036C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11036C_REWARD2",
+        "NarrativeStoryType": "11036C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11037B_REWARD",
+        "NarrativeStoryType": "11037B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11038B_REWARD",
+        "NarrativeStoryType": "11038B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11038C_REWARD",
+        "NarrativeStoryType": "11038C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11039B_REWARD",
+        "NarrativeStoryType": "11039B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11039C_REWARD",
+        "NarrativeStoryType": "11039C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11040B_REWARD",
+        "NarrativeStoryType": "11040B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11040C_REWARD",
+        "NarrativeStoryType": "11040C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11041B_REWARD",
+        "NarrativeStoryType": "11041B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11041C_REWARD",
+        "NarrativeStoryType": "11041C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11069B_REWARD",
+        "NarrativeStoryType": "11069B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11069C_REWARD",
+        "NarrativeStoryType": "11069C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "12007B_REWARD",
+        "NarrativeStoryType": "12007B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "12007C_REWARD",
+        "NarrativeStoryType": "12007C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1238C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1238C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1238D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1238D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1238D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1238D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1239C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1239C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1239D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1239D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1239D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1239D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10063B_REWARD",
+        "NarrativeStoryType": "10063B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10063C_REWARD",
+        "NarrativeStoryType": "10063C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10064B_REWARD",
+        "NarrativeStoryType": "10064B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10064C_REWARD",
+        "NarrativeStoryType": "10064C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10065B_REWARD",
+        "NarrativeStoryType": "10065B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10065C_REWARD",
+        "NarrativeStoryType": "10065C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1248C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1248C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1248D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1248D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1248D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1248D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1249C_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1249C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1249D_REWARD",
+        "NarrativeStoryType": "LEADER_CHAIN_1249D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "LEADER_CHAIN_1249D_REWARD2",
+        "NarrativeStoryType": "LEADER_CHAIN_1249D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10022B_REWARD",
+        "NarrativeStoryType": "10022B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10022B_REWARD2",
+        "NarrativeStoryType": "10022B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10022C_REWARD",
+        "NarrativeStoryType": "10022C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10022C_REWARD2",
+        "NarrativeStoryType": "10022C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10023B_REWARD",
+        "NarrativeStoryType": "10023B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10023B_REWARD2",
+        "NarrativeStoryType": "10023B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10023C_REWARD",
+        "NarrativeStoryType": "10023C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10023C_REWARD2",
+        "NarrativeStoryType": "10023C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10023D_REWARD",
+        "NarrativeStoryType": "10023D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10024B_REWARD",
+        "NarrativeStoryType": "10024B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10024B_REWARD2",
+        "NarrativeStoryType": "10024B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10024C_REWARD",
+        "NarrativeStoryType": "10024C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10025B_REWARD",
+        "NarrativeStoryType": "10025B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10025B_REWARD2",
+        "NarrativeStoryType": "10025B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10025C_REWARD",
+        "NarrativeStoryType": "10025C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10025C_REWARD2",
+        "NarrativeStoryType": "10025C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10026B_REWARD",
+        "NarrativeStoryType": "10026B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10026C_REWARD",
+        "NarrativeStoryType": "10026C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10027B_REWARD",
+        "NarrativeStoryType": "10027B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10027C_REWARD",
+        "NarrativeStoryType": "10027C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10028B_REWARD",
+        "NarrativeStoryType": "10028B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10028C_REWARD",
+        "NarrativeStoryType": "10028C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10029B_REWARD",
+        "NarrativeStoryType": "10029B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "10029C_REWARD",
+        "NarrativeStoryType": "10029C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11081B_REWARD",
+        "NarrativeStoryType": "11081B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11081C_REWARD",
+        "NarrativeStoryType": "11081C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11082B_REWARD",
+        "NarrativeStoryType": "11082B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11082B_REWARD2",
+        "NarrativeStoryType": "11082B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11082C_REWARD",
+        "NarrativeStoryType": "11082C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11083B_REWARD",
+        "NarrativeStoryType": "11083B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11083C_REWARD",
+        "NarrativeStoryType": "11083C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11083D_REWARD",
+        "NarrativeStoryType": "11083D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11084B_REWARD",
+        "NarrativeStoryType": "11084B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11084C_REWARD",
+        "NarrativeStoryType": "11084C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11085B_REWARD",
+        "NarrativeStoryType": "11085B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11085C_REWARD",
+        "NarrativeStoryType": "11085C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11086B_REWARD",
+        "NarrativeStoryType": "11086B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11086B_REWARD2",
+        "NarrativeStoryType": "11086B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11086C_REWARD",
+        "NarrativeStoryType": "11086C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11086C_REWARD2",
+        "NarrativeStoryType": "11086C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11086D_REWARD",
+        "NarrativeStoryType": "11086D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11087B_REWARD",
+        "NarrativeStoryType": "11087B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11087C_REWARD",
+        "NarrativeStoryType": "11087C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11087D_REWARD",
+        "NarrativeStoryType": "11087D"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11088B_REWARD",
+        "NarrativeStoryType": "11088B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11088C_REWARD",
+        "NarrativeStoryType": "11088C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11089B_REWARD",
+        "NarrativeStoryType": "11089B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11089C_REWARD",
+        "NarrativeStoryType": "11089C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11090B_REWARD",
+        "NarrativeStoryType": "11090B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "11090C_REWARD",
+        "NarrativeStoryType": "11090C"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "12011B_REWARD",
+        "NarrativeStoryType": "12011B"
+    },
+    {
+        "Activation": "START",
+        "BonusEligible": 1,
+        "NarrativeRewardType": "12011C_REWARD",
+        "NarrativeStoryType": "12011C"
+    }
+]

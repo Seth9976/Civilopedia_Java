@@ -1,0 +1,562 @@
+[
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_WARRIOR",
+        "UnitType": "UNIT_BARBARIAN_WARRIOR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_ARCHER",
+        "UnitType": "UNIT_BARBARIAN_ARCHER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_SPEARMAN",
+        "UnitType": "UNIT_BARBARIAN_SPEARMAN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_SWORDSMAN",
+        "UnitType": "UNIT_BARBARIAN_SWORDSMAN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_SETTLER",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_SCOUT",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_CHARIOT_ARCHER",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_CATAPULT",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_TREBUCHET",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_CANNON",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_LANCER",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_CAVALRY",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_ARTILLERY",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_TANK",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_ANTI_TANK_GUN",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_ANTI_AIRCRAFT_GUN",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_FIGHTER",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_BOMBER",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_ATOMIC_BOMB",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_ROCKET_ARTILLERY",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_MECHANIZED_INFANTRY",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_MODERN_ARMOR",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_HELICOPTER_GUNSHIP",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_MOBILE_SAM",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_GUIDED_MISSILE",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_JET_FIGHTER",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_STEALTH_BOMBER",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_NUCLEAR_MISSILE",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_WORKBOAT",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_GALLEY",
+        "UnitType": "UNIT_GALLEY"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_IRONCLAD",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_BATTLESHIP",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_SUBMARINE",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_CARRIER",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_NUCLEAR_SUBMARINE",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_MISSILE_CRUISER",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_ARTIST",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_SCIENTIST",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_MERCHANT",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_ENGINEER",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_WRITER",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_MUSICIAN",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_ARCHAEOLOGIST",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MINOR",
+        "UnitClassType": "UNITCLASS_SCOUT",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MINOR",
+        "UnitClassType": "UNITCLASS_ATOMIC_BOMB",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MINOR",
+        "UnitClassType": "UNITCLASS_NUCLEAR_MISSILE",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MINOR",
+        "UnitClassType": "UNITCLASS_CARRIER",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MINOR",
+        "UnitClassType": "UNITCLASS_CARGO_SHIP",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MINOR",
+        "UnitClassType": "UNITCLASS_CARAVAN",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MINOR",
+        "UnitClassType": "UNITCLASS_ARCHAEOLOGIST",
+        "UnitType": null
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "UnitClassType": "UNITCLASS_BOMBER",
+        "UnitType": "UNIT_AMERICAN_B17"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "UnitClassType": "UNITCLASS_MUSKETMAN",
+        "UnitType": "UNIT_AMERICAN_MINUTEMAN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ARABIA",
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_ARABIAN_CAMELARCHER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AZTEC",
+        "UnitClassType": "UNITCLASS_WARRIOR",
+        "UnitType": "UNIT_AZTEC_JAGUAR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "UnitClassType": "UNITCLASS_CROSSBOWMAN",
+        "UnitType": "UNIT_CHINESE_CHUKONU"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "UnitClassType": "UNITCLASS_CHARIOT_ARCHER",
+        "UnitType": "UNIT_EGYPTIAN_WARCHARIOT"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "UnitClassType": "UNITCLASS_CROSSBOWMAN",
+        "UnitType": "UNIT_ENGLISH_LONGBOWMAN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "UnitClassType": "UNITCLASS_FRIGATE",
+        "UnitType": "UNIT_ENGLISH_SHIPOFTHELINE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_FRANCE",
+        "UnitClassType": "UNITCLASS_MUSKETMAN",
+        "UnitType": "UNIT_FRENCH_MUSKETEER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GERMANY",
+        "UnitClassType": "UNITCLASS_TANK",
+        "UnitType": "UNIT_GERMAN_PANZER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "UnitClassType": "UNITCLASS_HORSEMAN",
+        "UnitType": "UNIT_GREEK_COMPANIONCAVALRY"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "UnitClassType": "UNITCLASS_SPEARMAN",
+        "UnitType": "UNIT_GREEK_HOPLITE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INDIA",
+        "UnitClassType": "UNITCLASS_CHARIOT_ARCHER",
+        "UnitType": "UNIT_INDIAN_WARELEPHANT"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_IROQUOIS",
+        "UnitClassType": "UNITCLASS_SWORDSMAN",
+        "UnitType": "UNIT_IROQUOIAN_MOHAWKWARRIOR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_JAPAN",
+        "UnitClassType": "UNITCLASS_LONGSWORDSMAN",
+        "UnitType": "UNIT_JAPANESE_SAMURAI"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_JAPAN",
+        "UnitClassType": "UNITCLASS_FIGHTER",
+        "UnitType": "UNIT_JAPANESE_ZERO"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_OTTOMAN",
+        "UnitClassType": "UNITCLASS_MUSKETMAN",
+        "UnitType": "UNIT_OTTOMAN_JANISSARY"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_OTTOMAN",
+        "UnitClassType": "UNITCLASS_LANCER",
+        "UnitType": "UNIT_OTTOMAN_SIPAHI"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "UnitClassType": "UNITCLASS_SPEARMAN",
+        "UnitType": "UNIT_PERSIAN_IMMORTAL"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ROME",
+        "UnitClassType": "UNITCLASS_CATAPULT",
+        "UnitType": "UNIT_ROMAN_BALLISTA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ROME",
+        "UnitClassType": "UNITCLASS_SWORDSMAN",
+        "UnitType": "UNIT_ROMAN_LEGION"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "UnitClassType": "UNITCLASS_CAVALRY",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SIAM",
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_SIAMESE_WARELEPHANT"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SONGHAI",
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_SONGHAI_MUSLIMCAVALRY"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MONGOL",
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_MONGOLIAN_KESHIK"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MONGOL",
+        "UnitClassType": "UNITCLASS_GREAT_GENERAL",
+        "UnitType": "UNIT_MONGOLIAN_KHAN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INCA",
+        "UnitClassType": "UNITCLASS_ARCHER",
+        "UnitType": "UNIT_INCAN_SLINGER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_POLYNESIA",
+        "UnitClassType": "UNITCLASS_WARRIOR",
+        "UnitType": "UNIT_POLYNESIAN_MAORI_WARRIOR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_DENMARK",
+        "UnitClassType": "UNITCLASS_LONGSWORDSMAN",
+        "UnitType": "UNIT_DANISH_BERSERKER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_DENMARK",
+        "UnitClassType": "UNITCLASS_RIFLEMAN",
+        "UnitType": "UNIT_DANISH_SKI_INFANTRY"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "UnitClassType": "UNITCLASS_CARAVEL",
+        "UnitType": "UNIT_KOREAN_TURTLE_SHIP"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "UnitClassType": "UNITCLASS_TREBUCHET",
+        "UnitType": "UNIT_KOREAN_HWACHA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BABYLON",
+        "UnitClassType": "UNITCLASS_ARCHER",
+        "UnitType": "UNIT_BABYLONIAN_BOWMAN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AUSTRIA",
+        "UnitClassType": "UNITCLASS_CAVALRY",
+        "UnitType": "UNIT_AUSTRIAN_HUSSAR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BYZANTIUM",
+        "UnitClassType": "UNITCLASS_HORSEMAN",
+        "UnitType": "UNIT_BYZANTINE_CATAPHRACT"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BYZANTIUM",
+        "UnitClassType": "UNITCLASS_TRIREME",
+        "UnitType": "UNIT_BYZANTINE_DROMON"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CARTHAGE",
+        "UnitClassType": "UNITCLASS_HORSEMAN",
+        "UnitType": "UNIT_CARTHAGINIAN_FOREST_ELEPHANT"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CARTHAGE",
+        "UnitClassType": "UNITCLASS_TRIREME",
+        "UnitType": "UNIT_CARTHAGINIAN_QUINQUEREME"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CELTS",
+        "UnitClassType": "UNITCLASS_SPEARMAN",
+        "UnitType": "UNIT_CELT_PICTISH_WARRIOR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_HUNS",
+        "UnitClassType": "UNITCLASS_CHARIOT_ARCHER",
+        "UnitType": "UNIT_HUN_HORSE_ARCHER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_HUNS",
+        "UnitClassType": "UNITCLASS_SPEARMAN",
+        "UnitType": "UNIT_HUN_BATTERING_RAM"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "UnitClassType": "UNITCLASS_ARCHER",
+        "UnitType": "UNIT_MAYAN_ATLATLIST"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NETHERLANDS",
+        "UnitClassType": "UNITCLASS_PRIVATEER",
+        "UnitType": "UNIT_DUTCH_SEA_BEGGAR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SWEDEN",
+        "UnitClassType": "UNITCLASS_LANCER",
+        "UnitType": "UNIT_SWEDISH_HAKKAPELIITTA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SWEDEN",
+        "UnitClassType": "UNITCLASS_RIFLEMAN",
+        "UnitType": "UNIT_SWEDISH_CAROLEAN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "UnitClassType": "UNITCLASS_MUSKETMAN",
+        "UnitType": "UNIT_SPANISH_TERCIO"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "UnitClassType": "UNITCLASS_RIFLEMAN",
+        "UnitType": "UNIT_ETHIOPIAN_MEHAL_SEFARI"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ASSYRIA",
+        "UnitClassType": "UNITCLASS_CATAPULT",
+        "UnitType": "UNIT_ASSYRIAN_SIEGE_TOWER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_HORSEMAN",
+        "UnitType": "UNIT_BARBARIAN_HORSEMAN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "UnitClassType": "UNITCLASS_CHARIOT_ARCHER",
+        "UnitType": "UNIT_BARBARIAN_AXMAN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BRAZIL",
+        "UnitClassType": "UNITCLASS_INFANTRY",
+        "UnitType": "UNIT_BRAZILIAN_PRACINHA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INDONESIA",
+        "UnitClassType": "UNITCLASS_SWORDSMAN",
+        "UnitType": "UNIT_KRIS_SWORDSMAN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MOROCCO",
+        "UnitClassType": "UNITCLASS_CAVALRY",
+        "UnitType": "UNIT_BERBER_CAVALRY"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_POLAND",
+        "UnitClassType": "UNITCLASS_LANCER",
+        "UnitType": "UNIT_POLISH_WINGED_HUSSAR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_PORTUGAL",
+        "UnitClassType": "UNITCLASS_CARAVEL",
+        "UnitType": "UNIT_PORTUGUESE_NAU"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SHOSHONE",
+        "UnitClassType": "UNITCLASS_SCOUT",
+        "UnitType": "UNIT_SHOSHONE_PATHFINDER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SHOSHONE",
+        "UnitClassType": "UNITCLASS_CAVALRY",
+        "UnitType": "UNIT_SHOSHONE_COMANCHE_RIDERS"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_VENICE",
+        "UnitClassType": "UNITCLASS_MERCHANT",
+        "UnitType": "UNIT_VENETIAN_MERCHANT"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_VENICE",
+        "UnitClassType": "UNITCLASS_GALLEASS",
+        "UnitType": "UNIT_VENETIAN_GALLEASS"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ZULU",
+        "UnitClassType": "UNITCLASS_PIKEMAN",
+        "UnitType": "UNIT_ZULU_IMPI"
+    }
+]

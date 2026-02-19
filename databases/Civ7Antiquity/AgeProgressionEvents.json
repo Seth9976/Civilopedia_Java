@@ -1,0 +1,38 @@
+[
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_1",
+        "AgeProgressionType": "AGE_PROGRESSION_ANTIQUITY_AGE_TIMER",
+        "GameSpeedScaling": 1,
+        "Points": 5
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_2",
+        "AgeProgressionType": "AGE_PROGRESSION_ANTIQUITY_AGE_TIMER",
+        "GameSpeedScaling": 1,
+        "Points": 5
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_3",
+        "AgeProgressionType": "AGE_PROGRESSION_ANTIQUITY_AGE_TIMER",
+        "GameSpeedScaling": 1,
+        "Points": 10
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_FUTURE_CIVIC",
+        "AgeProgressionType": "AGE_PROGRESSION_ANTIQUITY_AGE_TIMER",
+        "GameSpeedScaling": 1,
+        "Points": 10
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_FUTURE_TECH",
+        "AgeProgressionType": "AGE_PROGRESSION_ANTIQUITY_AGE_TIMER",
+        "GameSpeedScaling": 1,
+        "Points": 10
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_ELIMINATED",
+        "AgeProgressionType": "AGE_PROGRESSION_ANTIQUITY_AGE_TIMER",
+        "GameSpeedScaling": 1,
+        "Points": 25
+    }
+]

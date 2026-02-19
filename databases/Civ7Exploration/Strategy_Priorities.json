@@ -1,0 +1,66 @@
+[
+    {
+        "ListType": "CityStrategyFoodBias",
+        "StrategyType": "CITY_STRATEGY_EARLY_FOOD"
+    },
+    {
+        "ListType": "CityStrategyProductionBias",
+        "StrategyType": "CITY_STRATEGY_PRODUCTION_BIAS"
+    },
+    {
+        "ListType": "CityStrategyHappinessBias",
+        "StrategyType": "CITY_STRATEGY_STAY_HAPPY"
+    },
+    {
+        "ListType": "CityStrategyBuildingsBiases",
+        "StrategyType": "CITY_STRATEGY_COASTAL_DISTANT_LAND"
+    },
+    {
+        "ListType": "LegacyPathStrategyBuildingsPseudoYieldBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_BUILDINGS"
+    },
+    {
+        "ListType": "LegacyPathStrategyBuildingsBudgetBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_BUILDINGS"
+    },
+    {
+        "ListType": "LegacyPathStrategyDistantSettlementsSettlementPlotEvaluations",
+        "StrategyType": "LEGACY_PATH_STRATEGY_DISTANT_SETTLEMENTS"
+    },
+    {
+        "ListType": "LegacyPathStrategyDistantSettlementsPseudoYieldBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_DISTANT_SETTLEMENTS"
+    },
+    {
+        "ListType": "LegacyPathStrategyDistantSettlementsBudgetBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_DISTANT_SETTLEMENTS"
+    },
+    {
+        "ListType": "LegacyPathStrategyTreasureFleetConstructibleBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_RESOURCES"
+    },
+    {
+        "ListType": "LegacyPathStrategyTreasureFleetSettlements",
+        "StrategyType": "LEGACY_PATH_STRATEGY_RESOURCES"
+    },
+    {
+        "ListType": "LegacyPathStrategyTreasureFleetBudgetBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_RESOURCES"
+    },
+    {
+        "ListType": "LegacyPathStrategyTreasureFleetProgressionTreeNodeBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_RESOURCES"
+    },
+    {
+        "ListType": "LegacyPathStrategyCultureFilledConstructibleBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_RELICS"
+    },
+    {
+        "ListType": "LegacyPathStrategyCultureFilledPseudoYieldBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_RELICS"
+    },
+    {
+        "ListType": "LegacyPathStrategyCultureFilledProgressionTreeNodeBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_RELICS"
+    }
+]

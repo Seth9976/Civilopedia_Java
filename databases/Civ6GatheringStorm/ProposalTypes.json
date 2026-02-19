@@ -1,0 +1,42 @@
+[
+    {
+        "BigVersion": 0,
+        "Description": "LOC_WC_PROPOSAL_TYPE_CASUS_BELLI_DESC",
+        "Icon": "FAVOR",
+        "Name": "LOC_WC_PROPOSAL_TYPE_CASUS_BELLI_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_CASUS_BELLI",
+        "Sort": 0
+    },
+    {
+        "BigVersion": 0,
+        "Description": "LOC_WC_PROPOSAL_TYPE_KUDO_DESC",
+        "Icon": "FAVOR",
+        "Name": "LOC_WC_PROPOSAL_TYPE_KUDO_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_KUDO",
+        "Sort": 1
+    },
+    {
+        "BigVersion": 0,
+        "Description": "LOC_WC_PROPOSAL_TYPE_AID_REQUEST_DESC",
+        "Icon": "FAVOR",
+        "Name": "LOC_WC_PROPOSAL_TYPE_AID_REQUEST_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_AID_REQUEST",
+        "Sort": 2
+    },
+    {
+        "BigVersion": 0,
+        "Description": "LOC_WC_PROPOSAL_TYPE_EMERGENCY_DESC",
+        "Icon": "FAVOR",
+        "Name": "LOC_WC_PROPOSAL_TYPE_EMERGENCY_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_EMERGENCY",
+        "Sort": 3
+    },
+    {
+        "BigVersion": 0,
+        "Description": "LOC_WC_PROPOSAL_TYPE_COMPETITION_DESC",
+        "Icon": "FAVOR",
+        "Name": "LOC_WC_PROPOSAL_TYPE_COMPETITION_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_COMPETITION",
+        "Sort": 3
+    }
+]

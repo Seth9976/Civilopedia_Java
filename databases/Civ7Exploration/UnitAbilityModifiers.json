@@ -1,0 +1,722 @@
+[
+    {
+        "ModifierId": "CONQUISTA_DISTANT_LAND_COMBAT",
+        "UnitAbilityType": "ABILITY_CONQUISTA_DISTANT_LANDS_STRENGTH"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_SERVICE",
+        "UnitAbilityType": "ABILITY_ARMY_SERVICE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_ORDER",
+        "UnitAbilityType": "ABILITY_ARMY_ORDER"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_STEADFAST",
+        "UnitAbilityType": "ABILITY_ARMY_STEADFAST"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_BULWARK",
+        "UnitAbilityType": "ABILITY_ARMY_BULWARK"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_DEFILADE",
+        "UnitAbilityType": "ABILITY_ARMY_DEFILADE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_HOLD_THE_LINE",
+        "UnitAbilityType": "ABILITY_ARMY_HOLD_THE_LINE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_RESOLUTE",
+        "UnitAbilityType": "ABILITY_ARMY_RESOLUTE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_SHOCK_TACTICS",
+        "UnitAbilityType": "ABILITY_ARMY_SHOCK_TACTICS"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_ROUT",
+        "UnitAbilityType": "ABILITY_ARMY_ROUT"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_ENFILADE",
+        "UnitAbilityType": "ABILITY_ARMY_ENFILADE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_STORM",
+        "UnitAbilityType": "ABILITY_ARMY_STORM"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_IGNORE_TERRAIN",
+        "UnitAbilityType": "ABILITY_ARMY_PATHFINDER"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_FIELD_MEDIC",
+        "UnitAbilityType": "ABILITY_ARMY_FIELD_MEDIC"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_LOOTING_IMPROVEMENTS",
+        "UnitAbilityType": "ABILITY_ARMY_LOOTING"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_LOOTING_BUILDINGS",
+        "UnitAbilityType": "ABILITY_ARMY_LOOTING"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_RECRUITMENT",
+        "UnitAbilityType": "ABILITY_ARMY_RECRUITMENT"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_IGNORE_CLIFFS",
+        "UnitAbilityType": "ABILITY_DOUBLE_TERRAIN_COMBAT_BONUS_AND_INGORE_CLIFFS"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_REDEPLOY",
+        "UnitAbilityType": "ABILITY_ARMY_REDEPLOY"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_ONSLAUGHT",
+        "UnitAbilityType": "ABILITY_ARMY_ONSLAUGHT"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_BARRAGE",
+        "UnitAbilityType": "ABILITY_ARMY_BARRAGE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_SERVICE",
+        "UnitAbilityType": "ABILITY_FLEET_SERVICE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_ORDER",
+        "UnitAbilityType": "ABILITY_FLEET_ORDER"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_SHELLING",
+        "UnitAbilityType": "ABILITY_FLEET_SHELLING"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_SPOTTER",
+        "UnitAbilityType": "ABILITY_FLEET_SPOTTER"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_NAVAL_ARTILLERY",
+        "UnitAbilityType": "ABILITY_FLEET_NAVAL_ARTILLERY"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_SALVO",
+        "UnitAbilityType": "ABILITY_FLEET_SALVO"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_REINFORCED_HULL",
+        "UnitAbilityType": "ABILITY_FLEET_REINFORCED_HULL"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_RAKING_FIRE",
+        "UnitAbilityType": "ABILITY_FLEET_RAKING_FIRE"
+    },
+    {
+        "ModifierId": "FIRST_STRIKE_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "UnitAbilityType": "ABILITY_FLEET_FUSILLADE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_SHIPS_TENDER",
+        "UnitAbilityType": "ABILITY_FLEET_SHIPS_TENDER"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_BRACE",
+        "UnitAbilityType": "ABILITY_FLEET_BRACE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_CROSSING_THE_T",
+        "UnitAbilityType": "ABILITY_FLEET_CROSSING_THE_T"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_LOOTING_IMPROVEMENTS",
+        "UnitAbilityType": "ABILITY_FLEET_LOOTING"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_LOOTING_BUILDINGS",
+        "UnitAbilityType": "ABILITY_FLEET_LOOTING"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_PACK_LAND_UNITS",
+        "UnitAbilityType": "ABILITY_FLEET_PACK_LAND_UNITS"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_WARSHIPS",
+        "UnitAbilityType": "ABILITY_FLEET_WARSHIPS"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_CONVOYS",
+        "UnitAbilityType": "ABILITY_FLEET_CONVOYS"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_FLEET_BARRAGE",
+        "UnitAbilityType": "ABILITY_FLEET_BARRAGE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_ORDER",
+        "UnitAbilityType": "ABILITY_SQUADRON_ORDER"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_SERVICE",
+        "UnitAbilityType": "ABILITY_SQUADRON_SERVICE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_ACHIEVEMENT",
+        "UnitAbilityType": "ABILITY_SQUADRON_ACHIEVEMENT"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_SYNCHRONIZATION",
+        "UnitAbilityType": "ABILITY_SQUADRON_SYNCHRONIZATION"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_EVASIVE_MANEUVERS",
+        "UnitAbilityType": "ABILITY_SQUADRON_EVASIVE_MANEUVERS"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_TACTICAL_STRIKE",
+        "UnitAbilityType": "ABILITY_SQUADRON_TACTICAL_STRIKE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_AERIAL_RECON",
+        "UnitAbilityType": "ABILITY_SQUADRON_AERIAL_RECON"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_DANGER_CLOSE",
+        "UnitAbilityType": "ABILITY_SQUADRON_DANGER_CLOSE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_CARGO_DROP",
+        "UnitAbilityType": "ABILITY_SQUADRON_CARGO_DROP"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_LOW_LEVEL_EXTRACTION",
+        "UnitAbilityType": "ABILITY_SQUADRON_LOW_LEVEL_EXTRACTION"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_VERTICAL_ENVELOPMENT",
+        "UnitAbilityType": "ABILITY_SQUADRON_VERTICAL_ENVELOPMENT"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_CARRIER_BATTLE_GROUP_NAVAL_STRENGTH",
+        "UnitAbilityType": "ABILITY_CARRIER_BATTLE_GROUP_STRENGTH"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_FLIGHT_DECK",
+        "UnitAbilityType": "ABILITY_SQUADRON_FLIGHT_DECK"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_FIRST_STRIKE",
+        "UnitAbilityType": "ABILITY_SQUADRON_FIRST_STRIKE"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_TORPEDO_BOMBERS",
+        "UnitAbilityType": "ABILITY_SQUADRON_TORPEDO_BOMBERS"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_SQUADRON_SPOTTING",
+        "UnitAbilityType": "ABILITY_SQUADRON_SPOTTING"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_RETALIATE_WHEN_RANGED_DAMAGE_RECEIVED",
+        "UnitAbilityType": "ABILITY_RETALIATE_WHEN_RANGED_DAMAGE_RECEIVED"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ALLOW_UNIT_UPGRADE_OUTSIDE_FRIENDLY_TERRITORY",
+        "UnitAbilityType": "ABILITY_ALLOW_UNIT_UPGRADE_OUTSIDE_FRIENDLY_TERRITORY"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_UNIT_AFFECTED_BY_ZOC",
+        "UnitAbilityType": "ABILITY_UNIT_AFFECTED_BY_ZOC"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_UNIT_AIR_DROP",
+        "UnitAbilityType": "ABILITY_UNIT_AIR_DROP"
+    },
+    {
+        "ModifierId": "AMPHIBIOUS_MOD_ADJUST_UNIT_IGNORE_SHORES",
+        "UnitAbilityType": "ABILITY_AMPHIBIOUS"
+    },
+    {
+        "ModifierId": "ATTRIBUTE_MILITARISTIC_12_MOD_ADJUST_UNIT_COMBAT_VS_DISTRICTS",
+        "UnitAbilityType": "ABILITY_ATTRIBUTE_MILITARISTIC_12"
+    },
+    {
+        "ModifierId": "ENTER_FOREIGN_MOD_ADJUST_UNIT_ENTER_FOREIGN_LANDS",
+        "UnitAbilityType": "ABILITY_ENTER_FOREIGN_LANDS"
+    },
+    {
+        "ModifierId": "FIRST_STRIKE_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "UnitAbilityType": "ABILITY_FIRST_STRIKE"
+    },
+    {
+        "ModifierId": "FEAR_MOD_ADJUST_ENEMY_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "UnitAbilityType": "ABILITY_FEAR"
+    },
+    {
+        "ModifierId": "FLEET_COMMANDER_MOD_ADJUST_PACKED_MOVEMENT",
+        "UnitAbilityType": "ABILITY_FLEET_COMMANDER_MOVEMENT"
+    },
+    {
+        "ModifierId": "FLOODPLAIN_COMBAT_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "UnitAbilityType": "ABILITY_FLOODPLAIN_COMBAT"
+    },
+    {
+        "ModifierId": "INDEPENDENT_COMBAT_MAJOR_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "UnitAbilityType": "ABILITY_INDEPENDENT_COMBAT_MAJOR"
+    },
+    {
+        "ModifierId": "INDEPENDENT_COMBAT_MINOR_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "UnitAbilityType": "ABILITY_INDEPENDENT_COMBAT_MINOR"
+    },
+    {
+        "ModifierId": "INDEPENDENT_COMBAT_MINOR_PENALTY_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "UnitAbilityType": "ABILITY_INDEPENDENT_COMBAT_MINOR_PENALTY"
+    },
+    {
+        "ModifierId": "POISON_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "UnitAbilityType": "ABILITY_POISON"
+    },
+    {
+        "ModifierId": "SKIRMISH_MOD_ADJUST_UNIT_FLANKING_BONUS",
+        "UnitAbilityType": "ABILITY_SKIRMISH"
+    },
+    {
+        "ModifierId": "SWIFT_MOD_UNIT_IGNORE_ZOC",
+        "UnitAbilityType": "ABILITY_SWIFT"
+    },
+    {
+        "ModifierId": "UNIT_HIDDEN_VISIBILITY",
+        "UnitAbilityType": "ABILITY_STEALTH"
+    },
+    {
+        "ModifierId": "VEGETATION_STEALTH_MOD_ADJUST_UNIT_HIDDEN_VISIBILITY",
+        "UnitAbilityType": "ABILITY_VEGETATED_STEALTH"
+    },
+    {
+        "ModifierId": "ABILITY_NARRATIVE_STRENGTH",
+        "UnitAbilityType": "ABILITY_NARRATIVE_STRENGTH"
+    },
+    {
+        "ModifierId": "ABILITY_NARRATIVE_STRENGTH_PENALTY",
+        "UnitAbilityType": "ABILITY_NARRATIVE_STRENGTH_PENALTY"
+    },
+    {
+        "ModifierId": "ABILITY_NARRATIVE_AGGRESSION_BONUS",
+        "UnitAbilityType": "ABILITY_NARRATIVE_AGGRESSION"
+    },
+    {
+        "ModifierId": "ABILITY_NARRATIVE_AGGRESSION_PENALTY",
+        "UnitAbilityType": "ABILITY_NARRATIVE_AGGRESSION"
+    },
+    {
+        "ModifierId": "ABILITY_NARRATIVE_DEFENSIVE_BONUS",
+        "UnitAbilityType": "ABILITY_NARRATIVE_DEFENSIVE"
+    },
+    {
+        "ModifierId": "ABILITY_NARRATIVE_DEFENSIVE_PENALTY",
+        "UnitAbilityType": "ABILITY_NARRATIVE_DEFENSIVE"
+    },
+    {
+        "ModifierId": "ABILITY_NARRATIVE_RANGE_DEFENSE_BONUS",
+        "UnitAbilityType": "ABILITY_NARRATIVE_RANGE_DEFENSE"
+    },
+    {
+        "ModifierId": "ABILITY_NARRATIVE_MOVEMENT",
+        "UnitAbilityType": "ABILITY_NARRATIVE_MOVEMENT"
+    },
+    {
+        "ModifierId": "ABILITY_NARRATIVE_MOVEMENT_PENALTY",
+        "UnitAbilityType": "ABILITY_NARRATIVE_MOVEMENT_PENALTY"
+    },
+    {
+        "ModifierId": "MOD_SIEGE_VULNERABILITY",
+        "UnitAbilityType": "ABILITY_SIEGE_VULNERABILITY"
+    },
+    {
+        "ModifierId": "MOD_PILLAGE_XP",
+        "UnitAbilityType": "ABILITY_PILLAGE_XP"
+    },
+    {
+        "ModifierId": "AREA_DAMAGE_MOD_GRANT_ABILITY_CHARGE",
+        "UnitAbilityType": "ABILITY_AREA_DAMAGE"
+    },
+    {
+        "ModifierId": "SECOND_WIND_CHARGE_MOD",
+        "UnitAbilityType": "ABILITY_GRANT_SECOND_WIND"
+    },
+    {
+        "ModifierId": "COMMANDER_ATTACK_CHARGE_MOD",
+        "UnitAbilityType": "ABILITY_COMMANDER_ATTACK"
+    },
+    {
+        "ModifierId": "SCALING_COMMANDER_ATTACK_CHARGE_MOD",
+        "UnitAbilityType": "ABILITY_SCALING_COMMANDER_ATTACK"
+    },
+    {
+        "ModifierId": "MOD_ADJUST_UNIT_SEE_HIDDEN",
+        "UnitAbilityType": "ABILITY_SEE_HIDDEN_UNIT"
+    },
+    {
+        "ModifierId": "AMINA_MOD_CHECK_FOR_BIOME",
+        "UnitAbilityType": "ABILITY_AMINA_CHECK_FOR_BIOME"
+    },
+    {
+        "ModifierId": "AMINA_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "UnitAbilityType": "ABILITY_AMINA_BIOME_COMBAT_STRENGTH"
+    },
+    {
+        "ModifierId": "CHARLEMAGNE_MOD_ADJUST_CAVALRY_STRENGTH",
+        "UnitAbilityType": "ABILITY_CHARLEMAGNE_CAVALRY"
+    },
+    {
+        "ModifierId": "LAFAYETTE_MOD_TRADITION_ADJUST_STRENGTH",
+        "UnitAbilityType": "ABILITY_LAFAYETTE_TRADITION"
+    },
+    {
+        "ModifierId": "XERXES_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "UnitAbilityType": "ABILITY_XERXES_UNIT_ATTACK"
+    },
+    {
+        "ModifierId": "XERXES_MOD_ADJUST_UNIT_GIVE_FOREIGN_COMBAT_ABILITY",
+        "UnitAbilityType": "ABILITY_XERXES_UNIT_FOREIGN_TERRITORY"
+    },
+    {
+        "ModifierId": "ATASSA_MOD_RANGED_DEFENSE_MODIFIER",
+        "UnitAbilityType": "ABILITY_MISSISSIPPIAN_ATASSA"
+    },
+    {
+        "ModifierId": "SAHANSAH_MOD_COMBAT_STRENGTH_ENEMY_TERRITORY",
+        "UnitAbilityType": "ABILITY_PERSIA_SHAHANSHAH"
+    },
+    {
+        "ModifierId": "ESPIONAGE_MOD_MILITARY_SABOTAGE",
+        "UnitAbilityType": "ABILITY_ESPIONAGE_MILITARY_SABOTAGE"
+    },
+    {
+        "ModifierId": "HILLFORT_MOD_SIGHT",
+        "UnitAbilityType": "ABILITY_HILLFORT"
+    },
+    {
+        "ModifierId": "HILLFORT_MOD_HEALING",
+        "UnitAbilityType": "ABILITY_HILLFORT"
+    },
+    {
+        "ModifierId": "MOD_TRADITION_ABILITY_DE_JURE_COMBAT",
+        "UnitAbilityType": "TRADITION_ABILITY_DE_JURE_COMBAT"
+    },
+    {
+        "ModifierId": "MOD_TRADITION_ABILITY_DE_FACTO_COMBAT",
+        "UnitAbilityType": "TRADITION_ABILITY_DE_FACTO_COMBAT"
+    },
+    {
+        "ModifierId": "DE_FACTO_MOD_COMBAT_STRENGTH",
+        "UnitAbilityType": "ABILITY_DE_FACTO"
+    },
+    {
+        "ModifierId": "INITIATION_MOD_GOLD_ON_CONVERSION",
+        "UnitAbilityType": "ABILITY_INITIATION"
+    },
+    {
+        "ModifierId": "EX_TECH_INFANTRY_MOD_COMBAT_STRENGTH",
+        "UnitAbilityType": "ABILITY_EX_TECH_INFANTRY"
+    },
+    {
+        "ModifierId": "EX_TECH_NAVAL_MOD_COMBAT_STRENGTH",
+        "UnitAbilityType": "ABILITY_EX_TECH_NAVAL"
+    },
+    {
+        "ModifierId": "EX_TECH_SIEGE_MOD_COMBAT_STRENGTH",
+        "UnitAbilityType": "ABILITY_EX_TECH_SIEGE"
+    },
+    {
+        "ModifierId": "EX_TECH_CAVALRY_MOD_COMBAT_STRENGTH",
+        "UnitAbilityType": "ABILITY_EX_TECH_CAVALRY"
+    },
+    {
+        "ModifierId": "EX_TECH_RANGED_MOD_COMBAT_STRENGTH",
+        "UnitAbilityType": "ABILITY_EX_TECH_RANGED"
+    },
+    {
+        "ModifierId": "MODIFIER_PRIVATEER_ABILITY",
+        "UnitAbilityType": "ABILITY_PRIVATEER"
+    },
+    {
+        "ModifierId": "MOD_PRIVATEER_GOLD_ON_UNIT_DEFEAT",
+        "UnitAbilityType": "ABILITY_PRIVATEER_GOLD"
+    },
+    {
+        "ModifierId": "ENTER_FOREIGN_MOD_ADJUST_UNIT_ENTER_FOREIGN_LANDS",
+        "UnitAbilityType": "ABILITY_IGNORE_BORDERS"
+    },
+    {
+        "ModifierId": "PRIVATEER_MOD_PLUNDER_TRADE_ROUTES_BETWEEN_OTHER_CIVS",
+        "UnitAbilityType": "ABILITY_PLUNDER_TRADE_ROUTES_BETWEEN_OTHER_CIVS"
+    },
+    {
+        "ModifierId": "CRISIS_COMBAT_MINOR_PENALTY_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "UnitAbilityType": "ABILITY_CRISIS_COMBAT_MINOR_PENALTY"
+    },
+    {
+        "ModifierId": "CARD_AT_DARK_AGE_ECONOMIC_1_ABILITY",
+        "UnitAbilityType": "ABILITY_ECONOMIC_DARK_AGE"
+    },
+    {
+        "ModifierId": "CHASQUI_MOD_IGNORE_TERRAIN",
+        "UnitAbilityType": "ABILITY_CHASQUI"
+    },
+    {
+        "ModifierId": "CETBANG_MOD_COMBAT_VS_NAVAL",
+        "UnitAbilityType": "ABILITY_CETBANG"
+    },
+    {
+        "ModifierId": "CETBANG_MOD_ADVANCED_PILLAGE",
+        "UnitAbilityType": "ABILITY_CETBANG"
+    },
+    {
+        "ModifierId": "CORSAIR_MOD_CAPTURE",
+        "UnitAbilityType": "ABILITY_CORSAIR"
+    },
+    {
+        "ModifierId": "CHEVALER_MOD_COMBAT_SLOWER",
+        "UnitAbilityType": "ABILITY_CHEVALER"
+    },
+    {
+        "ModifierId": "CHEVALER_MOD_CIV_UNIQUE_TRADITION_COMBAT",
+        "UnitAbilityType": "ABILITY_CHEVALER_CIV_TRADITIONS"
+    },
+    {
+        "ModifierId": "GOLD_BANGLES_COMBAT_STRENGTH",
+        "UnitAbilityType": "ABILITY_GOLD_BANGLES"
+    },
+    {
+        "ModifierId": "GOLD_BANGLES_PLUNDER",
+        "UnitAbilityType": "ABILITY_GOLD_BANGLES"
+    },
+    {
+        "ModifierId": "KALAM_MOD_TWO_ATTACKS",
+        "UnitAbilityType": "ABILITY_KALAM"
+    },
+    {
+        "ModifierId": "KESHIG_HEAL_AFTER_KILL",
+        "UnitAbilityType": "ABILITY_KESHIG"
+    },
+    {
+        "ModifierId": "LEIOMANO_MOD_COMBAT_MELEE",
+        "UnitAbilityType": "ABILITY_LEIOMANO"
+    },
+    {
+        "ModifierId": "LEIOMANO_MOD_COMBAT_NAVAL",
+        "UnitAbilityType": "ABILITY_LEIOMANO"
+    },
+    {
+        "ModifierId": "CULTURE_KILLS_LEIOMANO",
+        "UnitAbilityType": "ABILITY_LEIOMANO_CULTURE"
+    },
+    {
+        "ModifierId": "MAMLUK_MOD_COMBAT_URBAN_POP_ADD_ABILITY",
+        "UnitAbilityType": "ABILITY_MAMLUK_LOCATION_CHECK"
+    },
+    {
+        "ModifierId": "MAMLUK_MOD_COMBAT_URBAN_POP",
+        "UnitAbilityType": "ABILITY_MAMLUK"
+    },
+    {
+        "ModifierId": "NOYAN_MOD_GRANT_ABILITY_IN_COMMAND_RADIUS",
+        "UnitAbilityType": "ABILITY_NOYAN"
+    },
+    {
+        "ModifierId": "NOYAN_MOD_INCREASE_COMBAT_STRENGTH",
+        "UnitAbilityType": "ABILITY_NOYAN_MOUNTED_COMBAT"
+    },
+    {
+        "ModifierId": "WARAKAQ_MOD_COMBAT_ATTACKING_HILL",
+        "UnitAbilityType": "ABILITY_WARAKAQ"
+    },
+    {
+        "ModifierId": "WARAKAQ_IGNORE_HILL",
+        "UnitAbilityType": "ABILITY_WARAKAQ"
+    },
+    {
+        "ModifierId": "MANDARIN_MOD_TRADE_CREATION_YIELD",
+        "UnitAbilityType": "ABILITY_MANDARIN"
+    },
+    {
+        "ModifierId": "MANDARIN_BONUS_MOD_TRADE_CREATION_YIELD",
+        "UnitAbilityType": "ABILITY_MANDARIN_BONUS"
+    },
+    {
+        "ModifierId": "OTTRU_GRANT_MODIFIER",
+        "UnitAbilityType": "ABILITY_OTTRU"
+    },
+    {
+        "ModifierId": "TAJIRO_MOD_TRADE_CREATION_YIELD",
+        "UnitAbilityType": "ABILITY_TAJIRO"
+    },
+    {
+        "ModifierId": "TAJIRO_BONUS_MOD_TRADE_CREATION_YIELD",
+        "UnitAbilityType": "ABILITY_TAJIRO_BONUS"
+    },
+    {
+        "ModifierId": "TRADE_UNIT_MOD_NAVIGABLE_RIVER_PROTECTION",
+        "UnitAbilityType": "ABILITY_SONGHAI_TRADE_PROTECTION"
+    },
+    {
+        "ModifierId": "TERCIO_ADJACENT_COMBAT",
+        "UnitAbilityType": "ABILITY_TERCIO"
+    },
+    {
+        "ModifierId": "TERCIO_ADJACENT_COMBAT_MODIFIER",
+        "UnitAbilityType": "ABILITY_TERCIO_CAVALRY_STRENGTH"
+    },
+    {
+        "ModifierId": "TREASURE_FLEET_MOD_CAPTURE",
+        "UnitAbilityType": "ABILITY_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "XUNLEICHONG_MOD_NO_FEATURE_STRENGTH_ABILITY",
+        "UnitAbilityType": "ABILITY_XUNLEICHONG"
+    },
+    {
+        "ModifierId": "XUNLEICHONG_MOD_RANGED",
+        "UnitAbilityType": "ABILITY_XUNLEICHONG_BONUS"
+    },
+    {
+        "ModifierId": "XUNLEICHONG_MOD_COMBAT_NO_FEATURE_COMBAT_STRENGTH",
+        "UnitAbilityType": "ABILITY_XUNLEICHONG_NO_FEATURE_STRENGTH"
+    },
+    {
+        "ModifierId": "PEDANDA_MOD_CULTURE_ON_CONVERSION",
+        "UnitAbilityType": "ABILITY_PEDANDA"
+    },
+    {
+        "ModifierId": "PHYSICIAN_MOD_TREAT_SICK_CHARGES",
+        "UnitAbilityType": "ABILITY_PHYSICIAN"
+    },
+    {
+        "ModifierId": "ASHOKA_CONQUEROR_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER",
+        "UnitAbilityType": "ABILITY_ASHOKA_CONQUEROR"
+    },
+    {
+        "ModifierId": "MOD_HALICARNASSUS_RESPAWN",
+        "UnitAbilityType": "ABILITY_HALICARNASSUS"
+    },
+    {
+        "ModifierId": "BOYAR_COMBAT",
+        "UnitAbilityType": "ABILITY_BOYAR"
+    },
+    {
+        "ModifierId": "BOYAR_IGNORE_ROUGH_MOVE",
+        "UnitAbilityType": "ABILITY_BOYAR"
+    },
+    {
+        "ModifierId": "BOYAR_IGNORE_ROUGH_COMBAT",
+        "UnitAbilityType": "ABILITY_BOYAR"
+    },
+    {
+        "ModifierId": "BALIK_MOD_GRANT_ABILITY_IN_COMMAND_RADIUS",
+        "UnitAbilityType": "ABILITY_BALIK"
+    },
+    {
+        "ModifierId": "BALIK_MOD_ADVANCED_PILLAGE",
+        "UnitAbilityType": "ABILITY_BALIK_PILLAGE"
+    },
+    {
+        "ModifierId": "VOI_CHIEN_MOD_MOVE_AFTER_ATTACK",
+        "UnitAbilityType": "ABILITY_VOI_CHIEN"
+    },
+    {
+        "ModifierId": "CAM_QUAN_UNIT_OWNER_TERRITORY",
+        "UnitAbilityType": "ABILITY_CAM_QUAN"
+    },
+    {
+        "ModifierId": "CAM_QUAN_UNIT_NOT_OWNER_TERRITORY",
+        "UnitAbilityType": "ABILITY_CAM_QUAN"
+    },
+    {
+        "ModifierId": "MOD_VIKINGR_COASTAL_RAID_SCIENCE",
+        "UnitAbilityType": "ABILITY_VIKINGR"
+    },
+    {
+        "ModifierId": "EGILL_SKALLAGRIMSSON_CULTURE_KILLS",
+        "UnitAbilityType": "ABILITY_EGILL_SKALLAGRIMSSON"
+    },
+    {
+        "ModifierId": "EGILL_SKALLAGRIMSSON_CULTURE_KILLS_MOD",
+        "UnitAbilityType": "ABILITY_EGILL_SKALLAGRIMSSON_COMMANDER"
+    },
+    {
+        "ModifierId": "GRETTIR_ASMUNDARSON_SPLASH",
+        "UnitAbilityType": "ABILITY_GRETTIR_ASMUNDARSON"
+    },
+    {
+        "ModifierId": "GRETTIR_ASMUNDARSON_SPLASH_MOD",
+        "UnitAbilityType": "ABILITY_GRETTIR_ASMUNDARSON_COMMANDER"
+    },
+    {
+        "ModifierId": "GUDRIDR_THORBJARNARDOTTIR_SIGHT",
+        "UnitAbilityType": "ABILITY_GUDRIDR_SIGHT"
+    },
+    {
+        "ModifierId": "GUDRIDR_THORBJARNARDOTTIR_MOVEMENT",
+        "UnitAbilityType": "ABILITY_GUDRIDR_MOVEMENT"
+    },
+    {
+        "ModifierId": "SLOOP_MOD_MOVE_AFTER_ATTACK",
+        "UnitAbilityType": "ABILITY_SLOOP"
+    },
+    {
+        "ModifierId": "BUCCANEER_MOD_GRANT_RAIDING_PARTY_CHARGE",
+        "UnitAbilityType": "ABILITY_BUCCANEER"
+    },
+    {
+        "ModifierId": "TECUMSEH_MOD_SUZERAIN_COMBAT",
+        "UnitAbilityType": "ABILITY_TECUMSEH_SUZERAIN"
+    },
+    {
+        "ModifierId": "KISPOKO_NENA_TO_RESOURCE_COMBAT",
+        "UnitAbilityType": "ABILITY_KISPOKO_NENA_TO"
+    },
+    {
+        "ModifierId": "HOCEEPKILENI_MINOR_RIVER",
+        "UnitAbilityType": "ABILITY_HOCEEPKILENI"
+    },
+    {
+        "ModifierId": "HOCEEPKILENI_NAVIGABLE_RIVER",
+        "UnitAbilityType": "ABILITY_HOCEEPKILENI"
+    },
+    {
+        "ModifierId": "HOCEEPKILENI_FREE_EMBARK",
+        "UnitAbilityType": "ABILITY_HOCEEPKILENI"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_ONSLAUGHT_TRUNG_NHI",
+        "UnitAbilityType": "ABILITY_ARMY_ONSLAUGHT_TRUNG_NHI"
+    },
+    {
+        "ModifierId": "MOD_ABILITY_ARMY_BARRAGE_TRUNG_NHI",
+        "UnitAbilityType": "ABILITY_ARMY_BARRAGE_TRUNG_NHI"
+    },
+    {
+        "ModifierId": "GENGHIS_KHAN_ARMY_COMMANDER_CONVERT_INDEPENDENT_CHARGE",
+        "UnitAbilityType": "ABILITY_GENGHIS_KHAN_ARMY_COMMANDER"
+    },
+    {
+        "ModifierId": "GENGHIS_KHAN_ARMY_COMMANDER_FULL_MOVEMENT",
+        "UnitAbilityType": "ABILITY_GENGHIS_KHAN_ARMY_COMMANDER"
+    },
+    {
+        "ModifierId": "GENGHIS_KHAN_ARMY_COMMANDER_COMMAND_RADIUS",
+        "UnitAbilityType": "ABILITY_GENGHIS_KHAN_ARMY_COMMANDER"
+    },
+    {
+        "ModifierId": "GENGHIS_KHAN_COMMAND_RADIUS_COMBAT",
+        "UnitAbilityType": "ABILITY_GENGHIS_KHAN_COMMAND_RADIUS_COMBAT"
+    },
+    {
+        "ModifierId": "GENGHIS_KHAN_ARMY_COMMANDER_NO_COMMAND_RADIUS",
+        "UnitAbilityType": "ABILITY_GENGHIS_KHAN_NO_COMMAND_RADIUS_COMBAT"
+    }
+]

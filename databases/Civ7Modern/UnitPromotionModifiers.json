@@ -1,0 +1,474 @@
+[
+    {
+        "ModifierId": "MOD_PROMOTION_COMMENDATION_MERIT",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_MERIT"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_COMMENDATION_MERIT",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_MERIT"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_COMMENDATION_DUTY",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_DUTY"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_COMMENDATION_DUTY_ADJUST_ATTACK_DAMAGE",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_DUTY"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_COMMENDATION_DUTY",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_DUTY"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_COMMENDATION_DUTY_ADJUST_ATTACK_DAMAGE",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_DUTY"
+    },
+    {
+        "ModifierId": "MOD_ARMY_PROMOTION_COMMENDATION_ORDER",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_ORDER"
+    },
+    {
+        "ModifierId": "MOD_FLEET_PROMOTION_COMMENDATION_ORDER",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_ORDER"
+    },
+    {
+        "ModifierId": "MOD_SQUADRON_PROMOTION_COMMENDATION_ORDER",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_SQUADRON_ORDER"
+    },
+    {
+        "ModifierId": "MOD_ARMY_PROMOTION_COMMENDATION_SERVICE",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_SERVICE"
+    },
+    {
+        "ModifierId": "MOD_FLEET_PROMOTION_COMMENDATION_SERVICE",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_SERVICE"
+    },
+    {
+        "ModifierId": "MOD_SQUADRON_PROMOTION_COMMENDATION_SERVICE",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_SQUADRON_SERVICE"
+    },
+    {
+        "ModifierId": "MOD_ARMY_PROMOTION_COMMENDATION_VALOR",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_VALOR"
+    },
+    {
+        "ModifierId": "MOD_FLEET_PROMOTION_COMMENDATION_VALOR",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_VALOR"
+    },
+    {
+        "ModifierId": "MOD_SQUADRON_PROMOTION_COMMENDATION_ACHIEVEMENT",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_SQUADRON_ACHIEVEMENT"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_STEADFAST",
+        "UnitPromotionType": "PROMOTION_ARMY_STEADFAST"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_BULWARK",
+        "UnitPromotionType": "PROMOTION_ARMY_BULWARK"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_HOLD_THE_LINE",
+        "UnitPromotionType": "PROMOTION_ARMY_HOLD_THE_LINE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_DEFILADE",
+        "UnitPromotionType": "PROMOTION_ARMY_DEFILADE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_GARRISON",
+        "UnitPromotionType": "PROMOTION_ARMY_GARRISON"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_RESOLUTE",
+        "UnitPromotionType": "PROMOTION_ARMY_RESOLUTE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_MOVE_AFTER_UNPACKING",
+        "UnitPromotionType": "PROMOTION_ARMY_INITIATIVE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_ROUT",
+        "UnitPromotionType": "PROMOTION_ARMY_ROUT"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_STORM",
+        "UnitPromotionType": "PROMOTION_ARMY_STORM"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_SHOCK_TACTICS",
+        "UnitPromotionType": "PROMOTION_ARMY_SHOCK_TACTICS"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_ENFILADE",
+        "UnitPromotionType": "PROMOTION_ARMY_ENFILADE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_ADVANCEMENT",
+        "UnitPromotionType": "PROMOTION_ARMY_ADVANCEMENT"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_QUARTERMASTER",
+        "UnitPromotionType": "PROMOTION_ARMY_QUARTERMASTER"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_RECRUITMENT",
+        "UnitPromotionType": "PROMOTION_ARMY_RECRUITMENT"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_REGIMENTS_CAPACITY",
+        "UnitPromotionType": "PROMOTION_ARMY_REGIMENTS"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_REGIMENTS_REINFORCE_SPEED",
+        "UnitPromotionType": "PROMOTION_ARMY_REGIMENTS"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_FIELD_MEDIC",
+        "UnitPromotionType": "PROMOTION_ARMY_FIELD_MEDIC"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_LOOTING",
+        "UnitPromotionType": "PROMOTION_ARMY_LOOTING"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_SURVIVAL_TRAINING",
+        "UnitPromotionType": "PROMOTION_ARMY_SURVIVAL_TRAINING"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_MOBILITY_MOVEMENT",
+        "UnitPromotionType": "PROMOTION_ARMY_MOBILITY"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_MOBILITY_IGNORE_TERRAIN_WHILE_PACKED",
+        "UnitPromotionType": "PROMOTION_ARMY_MOBILITY"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_HARASSMENT",
+        "UnitPromotionType": "PROMOTION_ARMY_HARASSMENT"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_REDEPLOY",
+        "UnitPromotionType": "PROMOTION_ARMY_REDEPLOY"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_AMPHIBIOUS",
+        "UnitPromotionType": "PROMOTION_ARMY_AMPHIBIOUS"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_PATHFINDER",
+        "UnitPromotionType": "PROMOTION_ARMY_PATHFINDER"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_AREA_DENIAL",
+        "UnitPromotionType": "PROMOTION_ARMY_AREA_DENIAL"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_ZEAL",
+        "UnitPromotionType": "PROMOTION_ARMY_ZEAL"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_FIELD_COMMISSION",
+        "UnitPromotionType": "PROMOTION_ARMY_FIELD_COMMISSION"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_OLD_GUARD",
+        "UnitPromotionType": "PROMOTION_ARMY_OLD_GUARD"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_RESILIENCE",
+        "UnitPromotionType": "PROMOTION_ARMY_RESILIENCE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_ONSLAUGHT",
+        "UnitPromotionType": "PROMOTION_ARMY_ONSLAUGHT"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_BARRAGE",
+        "UnitPromotionType": "PROMOTION_ARMY_BARRAGE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_SHELLING",
+        "UnitPromotionType": "PROMOTION_FLEET_SHELLING"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_NAVAL_ARTILLERY",
+        "UnitPromotionType": "PROMOTION_FLEET_NAVAL_ARTILLERY"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_SPOTTER",
+        "UnitPromotionType": "PROMOTION_FLEET_SPOTTER"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_SECONDARY_ARMAMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_SECONDARY_ARMAMENT"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_GUNFIRE_SUPPORT",
+        "UnitPromotionType": "PROMOTION_FLEET_GUNFIRE_SUPPORT"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_REINFORCED_HULL",
+        "UnitPromotionType": "PROMOTION_FLEET_REINFORCED_HULL"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_MOVE_AFTER_UNPACKING",
+        "UnitPromotionType": "PROMOTION_FLEET_WEATHER_GAGE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_RAKING_FIRE",
+        "UnitPromotionType": "PROMOTION_FLEET_RAKING_FIRE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_SALVO",
+        "UnitPromotionType": "PROMOTION_FLEET_SALVO"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_FUSILLADE",
+        "UnitPromotionType": "PROMOTION_FLEET_FUSILLADE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_QUARTERMASTER",
+        "UnitPromotionType": "PROMOTION_FLEET_QUARTERMASTER"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_WARSHIPS",
+        "UnitPromotionType": "PROMOTION_FLEET_WARSHIPS"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_FLOTILLA_UNIT_CAPACITY",
+        "UnitPromotionType": "PROMOTION_FLEET_FLOTILLA"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_FLOTILLA_PACK_LAND_UNITS",
+        "UnitPromotionType": "PROMOTION_FLEET_FLOTILLA"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_SHIPS_TENDER",
+        "UnitPromotionType": "PROMOTION_FLEET_SHIPS_TENDER"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_LOOTING",
+        "UnitPromotionType": "PROMOTION_FLEET_LOOTING"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_MOBILITY_MOVEMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_CHARTS"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_COMMANDER_SIGHT",
+        "UnitPromotionType": "PROMOTION_FLEET_LOOKOUT"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_CROSSING_THE_T",
+        "UnitPromotionType": "PROMOTION_FLEET_CROSSING_THE_T"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_BRACE",
+        "UnitPromotionType": "PROMOTION_FLEET_BRACE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_DEAD_RECKONING",
+        "UnitPromotionType": "PROMOTION_FLEET_DEAD_RECKONING"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_ZEAL",
+        "UnitPromotionType": "PROMOTION_FLEET_ZEAL"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_FIELD_COMMISSION",
+        "UnitPromotionType": "PROMOTION_FLEET_FIELD_COMMISSION"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_FLAGSHIP",
+        "UnitPromotionType": "PROMOTION_FLEET_FLAGSHIP"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_CONVOYS",
+        "UnitPromotionType": "PROMOTION_FLEET_CONVOYS"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_CONVOYS_TRADE_PROTECTION",
+        "UnitPromotionType": "PROMOTION_FLEET_CONVOYS"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_FLEET_BARRAGE",
+        "UnitPromotionType": "PROMOTION_FLEET_BARRAGE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_SYNCHRONIZATION",
+        "UnitPromotionType": "PROMOTION_SQUADRON_SYNCHRONIZATION"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_EVASIVE_MANEUVERS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_EVASIVE_MANEUVERS"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_COMBAT_SPREAD",
+        "UnitPromotionType": "PROMOTION_SQUADRON_COMBAT_SPREAD"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_ACE",
+        "UnitPromotionType": "PROMOTION_SQUADRON_ACE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_TACTICAL_STRIKE",
+        "UnitPromotionType": "PROMOTION_SQUADRON_TACTICAL_STRIKE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_FORMATIONS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_FORMATIONS"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_SATURATION",
+        "UnitPromotionType": "PROMOTION_SQUADRON_SATURATION"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_OBLITERATION",
+        "UnitPromotionType": "PROMOTION_SQUADRON_OBLITERATION"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND_DEFENSE",
+        "UnitPromotionType": "PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND_CAPACITY",
+        "UnitPromotionType": "PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_FIELD_COMMISSION",
+        "UnitPromotionType": "PROMOTION_SQUADRON_FIELD_COMMISSION"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_FIELD_COMMISSION_UPDAGRE_DISCOUNT",
+        "UnitPromotionType": "PROMOTION_SQUADRON_FIELD_COMMISSION"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_AERIAL_RECONNIASSANCE",
+        "UnitPromotionType": "PROMOTION_SQUADRON_AERIAL_RECONNIASSANCE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_DANGER_CLOSE",
+        "UnitPromotionType": "PROMOTION_SQUADRON_DANGER_CLOSE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_AIRBORNE_FORCES",
+        "UnitPromotionType": "PROMOTION_SQUADRON_AIRBORNE_FORCES"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_CARGO_DROP",
+        "UnitPromotionType": "PROMOTION_SQUADRON_CARGO_DROP"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_LOW_LEVEL_EXTRACTION",
+        "UnitPromotionType": "PROMOTION_SQUADRON_LOW_LEVEL_EXTRACTION"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_VERTICAL_ENVELOPMENT",
+        "UnitPromotionType": "PROMOTION_SQUADRON_VERTICAL_ENVELOPMENT"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_AERODROME_ADVANCED_LANDING_GROUND_DEFENSE",
+        "UnitPromotionType": "PROMOTION_AERODROME_ADVANCED_LANDING_GROUND"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND_CAPACITY",
+        "UnitPromotionType": "PROMOTION_AERODROME_ADVANCED_LANDING_GROUND"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_FIELD_COMMISSION",
+        "UnitPromotionType": "PROMOTION_AERODROME_FIELD_COMMISSION"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_FIELD_COMMISSION_UPDAGRE_DISCOUNT",
+        "UnitPromotionType": "PROMOTION_AERODROME_FIELD_COMMISSION"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_FLIGHT_DECK_CAPACITY",
+        "UnitPromotionType": "PROMOTION_SQUADRON_FLIGHT_DECK"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_FLIGHT_DECK_MOVEMENT",
+        "UnitPromotionType": "PROMOTION_SQUADRON_FLIGHT_DECK"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_SPOTTING",
+        "UnitPromotionType": "PROMOTION_SQUADRON_SPOTTING"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_SPOTTING_REVEAL",
+        "UnitPromotionType": "PROMOTION_SQUADRON_SPOTTING"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_SQUADRON_TORPEDO_BOMBERS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_TORPEDO_BOMBERS"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_CARRIER_BATTLE_GROUP_DEFENSE",
+        "UnitPromotionType": "PROMOTION_CARRIER_BATTLE_GROUP"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_CARRIER_BATTLE_GROUP_NAVAL_STRENGTH",
+        "UnitPromotionType": "PROMOTION_CARRIER_BATTLE_GROUP"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_CARRIER_SUPERCARRIER",
+        "UnitPromotionType": "PROMOTION_CARRIER_SUPERCARRIER"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_METTLE_COURAGE",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_METTLE_COURAGE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_METTLE_COURAGE"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_LAC_REBELLION",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_LAC_REBELLION"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_LAC_REBELLION"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_ONE_SINGLE_CRY_COORDINATED_ATTACK",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_ONE_SINGLE_CRY"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_ONE_SINGLE_CRY_FOCUS_FIRE",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_ONE_SINGLE_CRY"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE_FINAL",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_ONE_SINGLE_CRY"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_65_STRONGHOLDS",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_65_STRONGHOLDS"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_65_STRONGHOLDS"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_HAI_BA_TRUNG",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_HAI_BA_TRUNG"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_HAI_BA_TRUNG"
+    },
+    {
+        "ModifierId": "MOD_PROMOTION_COMMENDATION_DUTY_ADJUST_ATTACK_DAMAGE",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_TRUNG_NHI_DUTY"
+    }
+]

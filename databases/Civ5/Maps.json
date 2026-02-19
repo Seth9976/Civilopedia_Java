@@ -1,0 +1,186 @@
+[
+    {
+        "Description": "TXT_KEY_MAP_EARTH_HELP",
+        "FolderType": null,
+        "IconAtlas": "WORLDTYPE_ATLAS",
+        "IconIndex": 3,
+        "Name": "TXT_KEY_MAP_EARTH_TITLE",
+        "Type": "MAP_EARTH"
+    },
+    {
+        "Description": "TXT_KEY_SP_MAP_PACK_BERING_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_1",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 9,
+        "Name": "TXT_KEY_SP_MAP_PACK_BERING_TITLE",
+        "Type": "MAP_DLC_SP_MAP_1_BERINGSTRAIT"
+    },
+    {
+        "Description": "TXT_KEY_SP_MAP_PACK_BRITISH_ISLES_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_1",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 10,
+        "Name": "TXT_KEY_SP_MAP_PACK_BRITISH_ISLES_TITLE",
+        "Type": "MAP_DLC_SP_MAP_1_BRITISHISLES"
+    },
+    {
+        "Description": "TXT_KEY_SP_MAP_PACK_CARRIBEAN_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_1",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 12,
+        "Name": "TXT_KEY_SP_MAP_PACK_CARRIBEAN_TITLE",
+        "Type": "MAP_DLC_SP_MAP_1_CARIBBEAN"
+    },
+    {
+        "Description": "TXT_KEY_SP_MAP_PACK_EUS_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_1",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 11,
+        "Name": "TXT_KEY_SP_MAP_PACK_EUS_TITLE",
+        "Type": "MAP_DLC_SP_MAP_1_EASTERNUS"
+    },
+    {
+        "Description": "TXT_KEY_SP_MAP_PACK_JAPAN_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_1",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 15,
+        "Name": "TXT_KEY_SP_MAP_PACK_JAPAN_TITLE",
+        "Type": "MAP_DLC_SP_MAP_1_JAPANESEMAINLAND"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_AFRICA_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_2",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 0,
+        "Name": "TXT_KEY_CW_MAP_PACK_AFRICA",
+        "Type": "MAP_DLC_SP_MAP_2_AFRICA"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_ANTARCTICA_THAWED_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_2",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 1,
+        "Name": "TXT_KEY_CW_MAP_PACK_ANTARCTICA_THAWED",
+        "Type": "MAP_DLC_SP_MAP_2_ANTARCTICA_THAWED"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_EARTH_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_2",
+        "IconAtlas": "WORLDTYPE_ATLAS",
+        "IconIndex": 3,
+        "Name": "TXT_KEY_CW_MAP_PACK_EARTH",
+        "Type": "MAP_DLC_SP_MAP_2_EARTH"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_EAST_ASIA_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_2",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 2,
+        "Name": "TXT_KEY_CW_MAP_PACK_EAST_ASIA",
+        "Type": "MAP_DLC_SP_MAP_2_EASTERN_ASIA"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_2",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 6,
+        "Name": "TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE",
+        "Type": "MAP_DLC_SP_MAP_2_WESTERN_EUROPE"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_2",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 4,
+        "Name": "TXT_KEY_CW_MAP_PACK_NORTH_AMERICA",
+        "Type": "MAP_DLC_SP_MAP_2_NORTH_AMERICA"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_2",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 5,
+        "Name": "TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA",
+        "Type": "MAP_DLC_SP_MAP_2_SOUTH_AMERICA"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_2",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 3,
+        "Name": "TXT_KEY_CW_MAP_PACK_MIDDLE_EAST",
+        "Type": "MAP_DLC_SP_MAP_2_MIDDLE_EAST"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_AUSTRALIA_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_3",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 8,
+        "Name": "TXT_KEY_CW_MAP_PACK_AUSTRALIA",
+        "Type": "MAP_DLC_SP_MAP_3_RANDOM_AUSTRALIA"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_CANADA_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_3",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 11,
+        "Name": "TXT_KEY_CW_MAP_PACK_CANADA",
+        "Type": "MAP_DLC_SP_MAP_3_RANDOM_CANADA"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_SCAN_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_3",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 13,
+        "Name": "TXT_KEY_CW_MAP_PACK_SCAN",
+        "Type": "MAP_DLC_SP_MAP_3_SCANDINAVIA"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_JAPAN_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_3",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 15,
+        "Name": "TXT_KEY_CW_MAP_PACK_JAPAN",
+        "Type": "MAP_DLC_SP_MAP_3_RANDOM_JAPAN"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_ITALY_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_3",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 16,
+        "Name": "TXT_KEY_CW_MAP_PACK_ITALY",
+        "Type": "MAP_DLC_SP_MAP_3_RANDOM_ITALY"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_UK_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_3",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 10,
+        "Name": "TXT_KEY_CW_MAP_PACK_UK",
+        "Type": "MAP_DLC_SP_MAP_3_RANDOM_UK"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_RUSSIA_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_3",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 27,
+        "Name": "TXT_KEY_CW_MAP_PACK_RUSSIA",
+        "Type": "MAP_DLC_SP_MAP_3_RANDOM_RUSSIA"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_TURKEY_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_3",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 23,
+        "Name": "TXT_KEY_CW_MAP_PACK_TURKEY",
+        "Type": "MAP_DLC_SP_MAP_3_RANDOM_TURKEY"
+    },
+    {
+        "Description": "TXT_KEY_CW_MAP_PACK_FRANCE_DESC",
+        "FolderType": "MAP_FOLDER_SP_DLC_3",
+        "IconAtlas": "WORLDTYPE_ATLAS_3",
+        "IconIndex": 6,
+        "Name": "TXT_KEY_CW_MAP_PACK_FRANCE",
+        "Type": "MAP_DLC_SP_MAP_3_RANDOM_FRANCE"
+    }
+]

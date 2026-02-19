@@ -1,0 +1,422 @@
+[
+    {
+        "ConstructibleType": "BUILDING_BRICKYARD",
+        "RequiresActivation": 0,
+        "YieldChangeId": "BrickyardMineResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_BRICKYARD",
+        "RequiresActivation": 0,
+        "YieldChangeId": "BrickyardClayPitResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_BRICKYARD",
+        "RequiresActivation": 0,
+        "YieldChangeId": "BrickyardQuarryProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_BRICKYARD",
+        "RequiresActivation": 0,
+        "YieldChangeId": "BrickyardRoughTerrainProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_BRICKYARD",
+        "RequiresActivation": 0,
+        "YieldChangeId": "BrickyardWetFeatureProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "FishingQuayFishingBoatResourceFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "FishingQuayAtollFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "FishingQuayLotusFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "FishingQuayReefFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "FishingQuayColdReefFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "FishingQuayCoastTerrainFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "FishingQuayOceanTerrainFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "FishingQuayNavigableRiverFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "GranaryPastureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "GranaryPlantationFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "GranaryDesertFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "GranaryGrasslandFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "GranaryPlainsFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "GranaryTropicalFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "GranaryTundraFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "GranaryFlatTerrainFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_SAW_PIT",
+        "RequiresActivation": 0,
+        "YieldChangeId": "SawPitWoodcutterResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_SAW_PIT",
+        "RequiresActivation": 0,
+        "YieldChangeId": "SawPitCampProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_SAW_PIT",
+        "RequiresActivation": 0,
+        "YieldChangeId": "SawPitVegetatedFeatureProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_HARBOR",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HarborFishingBoatResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_HARBOR",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HarborAtollFeatureProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_HARBOR",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HarborLotusFeatureProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_HARBOR",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HarborReefFeatureProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_HARBOR",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HarborColdReefFeatureProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_HARBOR",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HarborCoastTerrainProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_HARBOR",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HarborOceanTerrainProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_HARBOR",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HarborNavigableRiverProduction"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiFishingBoatResourceCulture"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiAtollFeatureCulture"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiLotusFeatureCulture"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiReefFeatureCulture"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiColdReefFeatureCulture"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiCoastTerrainCulture"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiOceanTerrainCulture"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiNavigableRiverCulture"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiFishingBoatResourceFood"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiAtollFeatureFood"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiLotusFeatureFood"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiReefFeatureFood"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiColdReefFeatureFood"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiCoastTerrainFood"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiOceanTerrainFood"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaAmongaAMauiNavigableRiverFood"
+    },
+    {
+        "ConstructibleType": "WONDER_HANGING_GARDENS",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HangingGardensDesertFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "WONDER_HANGING_GARDENS",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HangingGardensGrasslandFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "WONDER_HANGING_GARDENS",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HangingGardensPlainsFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "WONDER_HANGING_GARDENS",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HangingGardensTropicalFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "WONDER_HANGING_GARDENS",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HangingGardensTundraFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "WONDER_HANGING_GARDENS",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HangingGardensFlatTerrainFood"
+    },
+    {
+        "ConstructibleType": "WONDER_MUNDO_PERDIDO",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MundoPerdidoTropicalBiomeScience"
+    },
+    {
+        "ConstructibleType": "WONDER_PETRA",
+        "RequiresActivation": 0,
+        "YieldChangeId": "PetraDesertBiomeProduction"
+    },
+    {
+        "ConstructibleType": "WONDER_PYRAMIDS",
+        "RequiresActivation": 0,
+        "YieldChangeId": "PyramidsNavigableRiverGold"
+    },
+    {
+        "ConstructibleType": "WONDER_PYRAMIDS",
+        "RequiresActivation": 0,
+        "YieldChangeId": "PyramidsMinorRiverGold"
+    },
+    {
+        "ConstructibleType": "WONDER_PYRAMIDS",
+        "RequiresActivation": 0,
+        "YieldChangeId": "PyramidsNavigableRiverProduction"
+    },
+    {
+        "ConstructibleType": "WONDER_PYRAMIDS",
+        "RequiresActivation": 0,
+        "YieldChangeId": "PyramidsMinorRiverProduction"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_BARAY",
+        "RequiresActivation": 0,
+        "YieldChangeId": "BarayFloodplainFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarCampGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarWoodcutterResourceGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarVegetatedFeatureGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarPastureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarPlantationFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarDesertFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarGrasslandFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarPlainsFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarTropicalFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarTundraFloodplainFeatureFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarFlatTerrainFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarFishingBoatResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarAtollFeatureProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarLotusFeatureProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarReefFeatureProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarColdReefFeatureProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarCoastTerrainProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarNavigableRiverProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarMineResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarQuarryProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarRoughTerrainProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarWetFeatureProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PantheonAltarHappinessOnResources"
+    }
+]

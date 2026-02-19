@@ -1,0 +1,914 @@
+[
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_BERMUDA_TRIANGLE",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_OCEAN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_BERMUDA_TRIANGLE",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_OCEAN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_MOUNT_EVEREST",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_MOUNT_EVEREST",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_DIPLOMACY"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_MOUNT_EVEREST",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": "FEATURE_VALLEY_OF_FLOWERS",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": "FEATURE_VALLEY_OF_FLOWERS",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": "FEATURE_VALLEY_OF_FLOWERS",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_BARRIER_REEF",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_BARRIER_REEF",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 2,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_BARRIER_REEF",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": "FEATURE_REDWOOD_FOREST",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": "FEATURE_REDWOOD_FOREST",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": "FEATURE_REDWOOD_FOREST",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": "FEATURE_GRAND_CANYON",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": "FEATURE_GRAND_CANYON",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 4,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": "FEATURE_GULLFOSS",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_HILL",
+        "YieldChange": 6,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": "FEATURE_HOERIKWAGGO",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": "FEATURE_HOERIKWAGGO",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_IGUAZU_FALLS",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_HILL",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_IGUAZU_FALLS",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_HILL",
+        "YieldChange": 2,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": "FEATURE_KILIMANJARO",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 4,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": "FEATURE_KILIMANJARO",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_ZHANGJIAJIE",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_ZHANGJIAJIE",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 4,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_THERA",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_THERA",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 2,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 4,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": "FEATURE_ULURU",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_HILL",
+        "YieldChange": 6,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": "FEATURE_SAGEBRUSH_STEPPE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": "FEATURE_OASIS",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": "FEATURE_OASIS",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": "FEATURE_DESERT_FLOODPLAIN_NAVIGABLE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": "FEATURE_DESERT_FLOODPLAIN_NAVIGABLE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": "FEATURE_DESERT_FLOODPLAIN_MINOR",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_HILL",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": "FEATURE_FOREST",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": "FEATURE_MARSH",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": "FEATURE_GRASSLAND_FLOODPLAIN_NAVIGABLE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": "FEATURE_GRASSLAND_FLOODPLAIN_NAVIGABLE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": "FEATURE_GRASSLAND_FLOODPLAIN_MINOR",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_HILL",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_REEF",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_REEF",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_REEF",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_COLD_REEF",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_COLD_REEF",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_COLD_REEF",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_LOTUS",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_LOTUS",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": "FEATURE_SAVANNA_WOODLAND",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": "FEATURE_WATERING_HOLE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": "FEATURE_WATERING_HOLE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": "FEATURE_PLAINS_FLOODPLAIN_NAVIGABLE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": "FEATURE_PLAINS_FLOODPLAIN_NAVIGABLE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": "FEATURE_PLAINS_FLOODPLAIN_MINOR",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_HILL",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_RAINFOREST",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_MANGROVE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_MANGROVE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_TROPICAL_FLOODPLAIN_NAVIGABLE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_TROPICAL_FLOODPLAIN_NAVIGABLE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_TROPICAL_FLOODPLAIN_MINOR",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_HILL",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": "FEATURE_TAIGA",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": "FEATURE_TUNDRA_BOG",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": "FEATURE_TUNDRA_BOG",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": "FEATURE_TUNDRA_FLOODPLAIN_NAVIGABLE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": "FEATURE_TUNDRA_FLOODPLAIN_NAVIGABLE",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": "FEATURE_TUNDRA_FLOODPLAIN_MINOR",
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_HILL",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_NAVIGABLE_RIVER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BiomeType": "BIOME_TUNDRA",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_OCEAN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": null,
+        "ScaleByGameAge": 0,
+        "TerrainType": "TERRAIN_OCEAN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_MACHAPUCHARE",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 4,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_TROPICAL",
+        "FeatureType": "FEATURE_MACHAPUCHARE",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": "FEATURE_MOUNT_FUJI",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": "FEATURE_MOUNT_FUJI",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_GRASSLAND",
+        "FeatureType": "FEATURE_MOUNT_FUJI",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": "FEATURE_VIHREN",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BiomeType": "BIOME_PLAINS",
+        "FeatureType": "FEATURE_VIHREN",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": "FEATURE_VINICUNCA",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": "FEATURE_VINICUNCA",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_DESERT",
+        "FeatureType": "FEATURE_VINICUNCA",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_GREAT_BLUE_HOLE",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_GREAT_BLUE_HOLE",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 4,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_MAPU_A_VAEA_BLOWHOLES",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BiomeType": "BIOME_MARINE",
+        "FeatureType": "FEATURE_MAPU_A_VAEA_BLOWHOLES",
+        "ScaleByGameAge": 50,
+        "TerrainType": "TERRAIN_COAST",
+        "YieldChange": 4,
+        "YieldType": "YIELD_HAPPINESS"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "BuildingType": "BUILDING_STABLE",
+        "Modifier": 15,
+        "UnitCombatType": "UNITCOMBAT_MOUNTED"
+    },
+    {
+        "BuildingType": "BUILDING_KREMLIN",
+        "Modifier": 50,
+        "UnitCombatType": "UNITCOMBAT_ARMOR"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE_ARTEMIS",
+        "Modifier": 15,
+        "UnitCombatType": "UNITCOMBAT_ARCHER"
+    },
+    {
+        "BuildingType": "BUILDING_DUCAL_STABLE",
+        "Modifier": 15,
+        "UnitCombatType": "UNITCOMBAT_MOUNTED"
+    }
+]

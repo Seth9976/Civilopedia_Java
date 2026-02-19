@@ -1,0 +1,30 @@
+[
+    {
+        "AffectBuildings": 1,
+        "AffectImprovements": 1,
+        "AffectPopulation": 1,
+        "AffectResources": 1,
+        "AffectRoutes": 1,
+        "AffectUnits": 1,
+        "BlastRadius": 1,
+        "FalloutDuration": 10,
+        "ICBMStrikeRange": 12,
+        "Maintenance": 14,
+        "Name": "LOC_WMD_NUCLEAR_DEVICE_NAME",
+        "WeaponType": "WMD_NUCLEAR_DEVICE"
+    },
+    {
+        "AffectBuildings": 1,
+        "AffectImprovements": 1,
+        "AffectPopulation": 1,
+        "AffectResources": 1,
+        "AffectRoutes": 1,
+        "AffectUnits": 1,
+        "BlastRadius": 2,
+        "FalloutDuration": 20,
+        "ICBMStrikeRange": 15,
+        "Maintenance": 16,
+        "Name": "LOC_WMD_THERMONUCLEAR_DEVICE_NAME",
+        "WeaponType": "WMD_THERMONUCLEAR_DEVICE"
+    }
+]

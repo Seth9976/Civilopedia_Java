@@ -1,0 +1,86 @@
+[
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_1",
+        "AgeProgressionMilestoneType": "MODERN_SCIENCE_MILESTONE_1",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_MODERN_SCIENCE",
+        "RequiredPathPoints": 1
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_2",
+        "AgeProgressionMilestoneType": "MODERN_SCIENCE_MILESTONE_2",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_MODERN_SCIENCE",
+        "RequiredPathPoints": 2
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_3",
+        "AgeProgressionMilestoneType": "MODERN_SCIENCE_MILESTONE_3",
+        "FinalMilestone": 1,
+        "LegacyPathType": "LEGACY_PATH_MODERN_SCIENCE",
+        "RequiredPathPoints": 3
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_1",
+        "AgeProgressionMilestoneType": "MODERN_MILITARY_MILESTONE_1",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_MODERN_MILITARY",
+        "RequiredPathPoints": 10
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_2",
+        "AgeProgressionMilestoneType": "MODERN_MILITARY_MILESTONE_2",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_MODERN_MILITARY",
+        "RequiredPathPoints": 15
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_3",
+        "AgeProgressionMilestoneType": "MODERN_MILITARY_MILESTONE_3",
+        "FinalMilestone": 1,
+        "LegacyPathType": "LEGACY_PATH_MODERN_MILITARY",
+        "RequiredPathPoints": 20
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_1",
+        "AgeProgressionMilestoneType": "MODERN_CULTURE_MILESTONE_1",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_MODERN_CULTURE",
+        "RequiredPathPoints": 5
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_2",
+        "AgeProgressionMilestoneType": "MODERN_CULTURE_MILESTONE_2",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_MODERN_CULTURE",
+        "RequiredPathPoints": 10
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_3",
+        "AgeProgressionMilestoneType": "MODERN_CULTURE_MILESTONE_3",
+        "FinalMilestone": 1,
+        "LegacyPathType": "LEGACY_PATH_MODERN_CULTURE",
+        "RequiredPathPoints": 15
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_1",
+        "AgeProgressionMilestoneType": "MODERN_ECONOMIC_MILESTONE_1",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_MODERN_ECONOMIC",
+        "RequiredPathPoints": 150
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_2",
+        "AgeProgressionMilestoneType": "MODERN_ECONOMIC_MILESTONE_2",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_MODERN_ECONOMIC",
+        "RequiredPathPoints": 300
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_3",
+        "AgeProgressionMilestoneType": "MODERN_ECONOMIC_MILESTONE_3",
+        "FinalMilestone": 1,
+        "LegacyPathType": "LEGACY_PATH_MODERN_ECONOMIC",
+        "RequiredPathPoints": 500
+    }
+]

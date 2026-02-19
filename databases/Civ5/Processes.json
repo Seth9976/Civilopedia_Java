@@ -1,0 +1,52 @@
+[
+    {
+        "Description": "TXT_KEY_PROCESS_WEALTH",
+        "Help": "TXT_KEY_PROCESS_WEALTH_HELP",
+        "ID": 0,
+        "IconAtlas": "CITIZEN_ATLAS",
+        "PortraitIndex": 8,
+        "Strategy": "TXT_KEY_PROCESS_WEALTH_STRATEGY",
+        "TechPrereq": "TECH_GUILDS",
+        "Type": "PROCESS_WEALTH"
+    },
+    {
+        "Description": "TXT_KEY_PROCESS_RESEARCH",
+        "Help": "TXT_KEY_PROCESS_RESEARCH_HELP",
+        "ID": 1,
+        "IconAtlas": "CITIZEN_ATLAS",
+        "PortraitIndex": 7,
+        "Strategy": "TXT_KEY_PROCESS_RESEARCH_STRATEGY",
+        "TechPrereq": "TECH_EDUCATION",
+        "Type": "PROCESS_RESEARCH"
+    },
+    {
+        "Description": "TXT_KEY_PROCESS_WORLD_FAIR",
+        "Help": "TXT_KEY_PROCESS_WORLD_FAIR_HELP",
+        "ID": 2,
+        "IconAtlas": "INTL_PROJECT_ATLAS_EXP2",
+        "PortraitIndex": 0,
+        "Strategy": "TXT_KEY_PROCESS_WORLD_FAIR_HELP",
+        "TechPrereq": null,
+        "Type": "PROCESS_WORLD_FAIR"
+    },
+    {
+        "Description": "TXT_KEY_PROCESS_WORLD_GAMES",
+        "Help": "TXT_KEY_PROCESS_WORLD_GAMES_HELP",
+        "ID": 3,
+        "IconAtlas": "INTL_PROJECT_ATLAS_EXP2",
+        "PortraitIndex": 0,
+        "Strategy": "TXT_KEY_PROCESS_WORLD_GAMES_HELP",
+        "TechPrereq": null,
+        "Type": "PROCESS_WORLD_GAMES"
+    },
+    {
+        "Description": "TXT_KEY_PROCESS_INTERNATIONAL_SPACE_STATION",
+        "Help": "TXT_KEY_PROCESS_INTERNATIONAL_SPACE_STATION_HELP",
+        "ID": 4,
+        "IconAtlas": "INTL_PROJECT_ATLAS_EXP2",
+        "PortraitIndex": 0,
+        "Strategy": "TXT_KEY_PROCESS_INTERNATIONAL_SPACE_STATION_HELP",
+        "TechPrereq": null,
+        "Type": "PROCESS_INTERNATIONAL_SPACE_STATION"
+    }
+]

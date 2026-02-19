@@ -1,0 +1,438 @@
+[
+    {
+        "Hash": 1490813223,
+        "Kind": "KIND_COLLECTION"
+    },
+    {
+        "Hash": -1694595367,
+        "Kind": "KIND_EFFECT"
+    },
+    {
+        "Hash": 1596649370,
+        "Kind": "KIND_REQUIREMENT"
+    },
+    {
+        "Hash": 2100012488,
+        "Kind": "KIND_REQUIREMENTSET"
+    },
+    {
+        "Hash": -613740751,
+        "Kind": "KIND_GAMEMODE"
+    },
+    {
+        "Hash": -559243491,
+        "Kind": "KIND_TURNPHASE"
+    },
+    {
+        "Hash": 1067319419,
+        "Kind": "KIND_TURNMODE"
+    },
+    {
+        "Hash": 802166602,
+        "Kind": "KIND_TURNSEGMENT"
+    },
+    {
+        "Hash": -64958516,
+        "Kind": "KIND_AGE"
+    },
+    {
+        "Hash": -1777489340,
+        "Kind": "KIND_BELIEF_CLASS"
+    },
+    {
+        "Hash": 52364159,
+        "Kind": "KIND_BELIEF"
+    },
+    {
+        "Hash": 840992293,
+        "Kind": "KIND_CAPABILITY"
+    },
+    {
+        "Hash": 1950116938,
+        "Kind": "KIND_CITY_STATE_BONUS"
+    },
+    {
+        "Hash": -1972330016,
+        "Kind": "KIND_CONSTRUCTIBLE"
+    },
+    {
+        "Hash": 1584069192,
+        "Kind": "KIND_GAME_SYSTEM_PREREQ"
+    },
+    {
+        "Hash": 475115186,
+        "Kind": "KIND_GOLDEN_AGE"
+    },
+    {
+        "Hash": -219438194,
+        "Kind": "KIND_GOODY_HUT"
+    },
+    {
+        "Hash": 466233440,
+        "Kind": "KIND_GREATWORK"
+    },
+    {
+        "Hash": 424797349,
+        "Kind": "KIND_GREATWORKOBJECT"
+    },
+    {
+        "Hash": -294244294,
+        "Kind": "KIND_GREATWORKSOURCE"
+    },
+    {
+        "Hash": 1455223890,
+        "Kind": "KIND_INDEPENDENT"
+    },
+    {
+        "Hash": 1630578137,
+        "Kind": "KIND_LEGACY_PATH"
+    },
+    {
+        "Hash": 1783593212,
+        "Kind": "KIND_PROJECT"
+    },
+    {
+        "Hash": 180729436,
+        "Kind": "KIND_RELIGION"
+    },
+    {
+        "Hash": 1244131521,
+        "Kind": "KIND_ROUTE"
+    },
+    {
+        "Hash": 15512599,
+        "Kind": "KIND_TRADE_SYSTEM_PARAMSET"
+    },
+    {
+        "Hash": 726399880,
+        "Kind": "KIND_TRADITION"
+    },
+    {
+        "Hash": -1258838762,
+        "Kind": "KIND_TREE_NODE"
+    },
+    {
+        "Hash": -374153859,
+        "Kind": "KIND_TREE"
+    },
+    {
+        "Hash": 1182443460,
+        "Kind": "KIND_UNLOCK"
+    },
+    {
+        "Hash": -1600947310,
+        "Kind": "KIND_ADVISORY_SUBJECT"
+    },
+    {
+        "Hash": -1328012345,
+        "Kind": "KIND_ADVISORY_CLASS"
+    },
+    {
+        "Hash": 1548837350,
+        "Kind": "KIND_ADVISOR"
+    },
+    {
+        "Hash": 1009700583,
+        "Kind": "KIND_ADVISOR_WARNING"
+    },
+    {
+        "Hash": -1246697573,
+        "Kind": "KIND_ATTRIBUTE"
+    },
+    {
+        "Hash": -370684575,
+        "Kind": "KIND_TRAIT"
+    },
+    {
+        "Hash": 1729824221,
+        "Kind": "KIND_BARBARIAN_TRIBE"
+    },
+    {
+        "Hash": 1949950947,
+        "Kind": "KIND_CALENDAR"
+    },
+    {
+        "Hash": -967458626,
+        "Kind": "KIND_MONTH"
+    },
+    {
+        "Hash": -595964798,
+        "Kind": "KIND_SEASON"
+    },
+    {
+        "Hash": 111212909,
+        "Kind": "KIND_CITYCOMMAND"
+    },
+    {
+        "Hash": -352595056,
+        "Kind": "KIND_CIVILIZATION"
+    },
+    {
+        "Hash": -240740941,
+        "Kind": "KIND_YIELD"
+    },
+    {
+        "Hash": 1213885415,
+        "Kind": "KIND_PLUNDER"
+    },
+    {
+        "Hash": -661607419,
+        "Kind": "KIND_KEYWORD_ABILITY"
+    },
+    {
+        "Hash": 1501382933,
+        "Kind": "KIND_QUARTER"
+    },
+    {
+        "Hash": 536480762,
+        "Kind": "KIND_DIFFICULTY"
+    },
+    {
+        "Hash": 734241509,
+        "Kind": "KIND_DIPLOMACY_ACTION"
+    },
+    {
+        "Hash": -1109367452,
+        "Kind": "KIND_DIPLOMACY_ACTION_GROUP"
+    },
+    {
+        "Hash": 142147464,
+        "Kind": "KIND_DIPLOMACY_ACTION_GROUP_SUBTYPE"
+    },
+    {
+        "Hash": 1508264809,
+        "Kind": "KIND_DIPLOMACY_TOKEN"
+    },
+    {
+        "Hash": 308064968,
+        "Kind": "KIND_DIPLOMACY_ACTION_STAGE"
+    },
+    {
+        "Hash": 235033574,
+        "Kind": "KIND_DIPLOMACY_ACTION_TARGET"
+    },
+    {
+        "Hash": 1217723664,
+        "Kind": "KIND_DIPLOMACY_ACTION_RELATIONSHIP"
+    },
+    {
+        "Hash": -535954024,
+        "Kind": "KIND_DIPLOMACY_FGE_TYPE"
+    },
+    {
+        "Hash": 2043525472,
+        "Kind": "KIND_DIPLOMACY_FAVOR_GRIEVANCE_EVENT"
+    },
+    {
+        "Hash": 1843434399,
+        "Kind": "KIND_DIPLOMACY_RESPONSE"
+    },
+    {
+        "Hash": 1371351437,
+        "Kind": "KIND_DIPLOMACY_FIRST_MEET_RESPONSE"
+    },
+    {
+        "Hash": 1037287979,
+        "Kind": "KIND_DIPLOMACY_MODIFIER_TYPE"
+    },
+    {
+        "Hash": 454004013,
+        "Kind": "KIND_DIPLOMACY_MODIFIER_TARGET"
+    },
+    {
+        "Hash": -1360891705,
+        "Kind": "KIND_DIPLOMACY_AGENDA_AMOUNT_TYPE"
+    },
+    {
+        "Hash": -2005251209,
+        "Kind": "KIND_DIPLOMACY_AGENDA_AWARD_TO_TYPE"
+    },
+    {
+        "Hash": -803031989,
+        "Kind": "KIND_DIPLOMACY_AGENDA_WEIGHTING_TYPE"
+    },
+    {
+        "Hash": -1817572182,
+        "Kind": "KIND_DIPLOMACY_BASIC_MODIFIER_VALUE_TYPE"
+    },
+    {
+        "Hash": -1514316113,
+        "Kind": "KIND_DIPLOMACY_ACTION_TAG_TYPE"
+    },
+    {
+        "Hash": 661481429,
+        "Kind": "KIND_DEAL_ITEM"
+    },
+    {
+        "Hash": 75470776,
+        "Kind": "KIND_DEAL_ITEM_AGREEMENT"
+    },
+    {
+        "Hash": 1664852202,
+        "Kind": "KIND_DIPLOMACY_STATEMENT"
+    },
+    {
+        "Hash": 726734370,
+        "Kind": "KIND_DISTRICT"
+    },
+    {
+        "Hash": -153294175,
+        "Kind": "KIND_GAMESPEED"
+    },
+    {
+        "Hash": 957389803,
+        "Kind": "KIND_GAMESPEED_SCALING"
+    },
+    {
+        "Hash": 1489506655,
+        "Kind": "KIND_GOSSIP"
+    },
+    {
+        "Hash": 266671797,
+        "Kind": "KIND_GOVERNMENT"
+    },
+    {
+        "Hash": -646054404,
+        "Kind": "KIND_LEADER"
+    },
+    {
+        "Hash": 588055580,
+        "Kind": "KIND_CONTINENT"
+    },
+    {
+        "Hash": -569402097,
+        "Kind": "KIND_MAPSIZE"
+    },
+    {
+        "Hash": 491490613,
+        "Kind": "KIND_PLOTEFFECT"
+    },
+    {
+        "Hash": -1425885169,
+        "Kind": "KIND_MEMENTOS"
+    },
+    {
+        "Hash": -1322280104,
+        "Kind": "KIND_MODIFIER"
+    },
+    {
+        "Hash": -1701516246,
+        "Kind": "KIND_NARRATIVE_STORY"
+    },
+    {
+        "Hash": -672714165,
+        "Kind": "KIND_NARRATIVE_TAG"
+    },
+    {
+        "Hash": 755861403,
+        "Kind": "KIND_NOTIFICATION"
+    },
+    {
+        "Hash": 129391422,
+        "Kind": "KIND_PSEUDOYIELD"
+    },
+    {
+        "Hash": -1509837133,
+        "Kind": "KIND_RESOURCE"
+    },
+    {
+        "Hash": 1255948008,
+        "Kind": "KIND_RESOURCECLASS"
+    },
+    {
+        "Hash": -1705748390,
+        "Kind": "KIND_RANDOM_EVENT"
+    },
+    {
+        "Hash": 813210712,
+        "Kind": "KIND_RANDOM_EVENT_CLASS"
+    },
+    {
+        "Hash": 2019645922,
+        "Kind": "KIND_REALISM_SETTING"
+    },
+    {
+        "Hash": -1920271453,
+        "Kind": "KIND_TERRAIN"
+    },
+    {
+        "Hash": -2061650143,
+        "Kind": "KIND_BIOME"
+    },
+    {
+        "Hash": 1512824180,
+        "Kind": "KIND_FEATURE"
+    },
+    {
+        "Hash": -701767306,
+        "Kind": "KIND_FEATURE_CLASS"
+    },
+    {
+        "Hash": 900406440,
+        "Kind": "KIND_FERTILITY"
+    },
+    {
+        "Hash": 1689607275,
+        "Kind": "KIND_UNITCOMMAND"
+    },
+    {
+        "Hash": -763483218,
+        "Kind": "KIND_EMBARKATION"
+    },
+    {
+        "Hash": -1209139639,
+        "Kind": "KIND_UNITOPERATION"
+    },
+    {
+        "Hash": -1898482255,
+        "Kind": "KIND_PROMOTION"
+    },
+    {
+        "Hash": -1855353131,
+        "Kind": "KIND_PROMOTION_CLASS"
+    },
+    {
+        "Hash": -1093778989,
+        "Kind": "KIND_PROMOITON_DISCIPLINE_CLASS"
+    },
+    {
+        "Hash": -2110287886,
+        "Kind": "KIND_UNIT"
+    },
+    {
+        "Hash": 1882408494,
+        "Kind": "KIND_ABILITY"
+    },
+    {
+        "Hash": -2117720682,
+        "Kind": "KIND_GREAT_PERSON_CLASS"
+    },
+    {
+        "Hash": 565002410,
+        "Kind": "KIND_GREAT_PERSON_INDIVIDUAL"
+    },
+    {
+        "Hash": 1768146962,
+        "Kind": "KIND_WMD"
+    },
+    {
+        "Hash": 607407406,
+        "Kind": "KIND_DEFEAT"
+    },
+    {
+        "Hash": 893888584,
+        "Kind": "KIND_VICTORY"
+    },
+    {
+        "Hash": -750450528,
+        "Kind": "KIND_VICTORY_STRATEGY"
+    },
+    {
+        "Hash": -282783622,
+        "Kind": "KIND_AGE_PROGRESSION_MILESTONE"
+    },
+    {
+        "Hash": 822227535,
+        "Kind": "KIND_WAR"
+    }
+]

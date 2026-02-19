@@ -1,0 +1,32 @@
+[
+    {
+        "TerrainType": "TERRAIN_GRASS",
+        "Yield": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "TerrainType": "TERRAIN_PLAINS",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "TerrainType": "TERRAIN_PLAINS",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "TerrainType": "TERRAIN_TUNDRA",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "TerrainType": "TERRAIN_COAST",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "TerrainType": "TERRAIN_OCEAN",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    }
+]

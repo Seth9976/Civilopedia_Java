@@ -1,0 +1,82 @@
+[
+    {
+        "Attack": 0,
+        "Defense": 0,
+        "DoubleMove": 1,
+        "FeatureType": "FEATURE_JUNGLE",
+        "Impassable": 0,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_WOODSMAN"
+    },
+    {
+        "Attack": 0,
+        "Defense": 0,
+        "DoubleMove": 1,
+        "FeatureType": "FEATURE_FOREST",
+        "Impassable": 0,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_WOODSMAN"
+    },
+    {
+        "Attack": 33,
+        "Defense": 33,
+        "DoubleMove": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "Impassable": 0,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_MOHAWK"
+    },
+    {
+        "Attack": 33,
+        "Defense": 33,
+        "DoubleMove": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "Impassable": 0,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_MOHAWK"
+    },
+    {
+        "Attack": 33,
+        "Defense": 33,
+        "DoubleMove": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "Impassable": 0,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_JAGUAR"
+    },
+    {
+        "Attack": 33,
+        "Defense": 33,
+        "DoubleMove": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "Impassable": 0,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_JAGUAR"
+    },
+    {
+        "Attack": 0,
+        "Defense": 0,
+        "DoubleMove": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "Impassable": 1,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_FOLIAGE_IMPASSABLE"
+    },
+    {
+        "Attack": 0,
+        "Defense": 0,
+        "DoubleMove": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "Impassable": 1,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_FOLIAGE_IMPASSABLE"
+    }
+]

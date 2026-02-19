@@ -1,0 +1,226 @@
+[
+    {
+        "DistrictType": "DISTRICT_CITY_CENTER",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 0.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_CITY_CENTER",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 0.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_CITY_CENTER",
+        "YieldChangeAsDomesticDestination": 0.0,
+        "YieldChangeAsInternationalDestination": 3.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "DistrictType": "DISTRICT_HOLY_SITE",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 0.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_HOLY_SITE",
+        "YieldChangeAsDomesticDestination": 0.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "DistrictType": "DISTRICT_CAMPUS",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 0.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_CAMPUS",
+        "YieldChangeAsDomesticDestination": 0.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "DistrictType": "DISTRICT_ENCAMPMENT",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_HARBOR",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 0.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_HARBOR",
+        "YieldChangeAsDomesticDestination": 0.0,
+        "YieldChangeAsInternationalDestination": 3.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "DistrictType": "DISTRICT_COMMERCIAL_HUB",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 0.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_COMMERCIAL_HUB",
+        "YieldChangeAsDomesticDestination": 0.0,
+        "YieldChangeAsInternationalDestination": 3.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "DistrictType": "DISTRICT_ENTERTAINMENT_COMPLEX",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_THEATER",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 0.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_THEATER",
+        "YieldChangeAsDomesticDestination": 0.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "DistrictType": "DISTRICT_INDUSTRIAL_ZONE",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_ACROPOLIS",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 0.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_ACROPOLIS",
+        "YieldChangeAsDomesticDestination": 0.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "DistrictType": "DISTRICT_HANSA",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_LAVRA",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 0.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_LAVRA",
+        "YieldChangeAsDomesticDestination": 0.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "DistrictType": "DISTRICT_STREET_CARNIVAL",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_ROYAL_NAVY_DOCKYARD",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 0.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_ROYAL_NAVY_DOCKYARD",
+        "YieldChangeAsDomesticDestination": 0.0,
+        "YieldChangeAsInternationalDestination": 3.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "DistrictType": "DISTRICT_OBSERVATORY",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 0.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_OBSERVATORY",
+        "YieldChangeAsDomesticDestination": 0.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "DistrictType": "DISTRICT_HIPPODROME",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_OPPIDUM",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_THANH",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_DIPLOMATIC_QUARTER",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 0.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_DIPLOMATIC_QUARTER",
+        "YieldChangeAsDomesticDestination": 1.0,
+        "YieldChangeAsInternationalDestination": 0.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_DIPLOMATIC_QUARTER",
+        "YieldChangeAsDomesticDestination": 0.0,
+        "YieldChangeAsInternationalDestination": 1.0,
+        "YieldChangeAsOrigin": 0.0,
+        "YieldType": "YIELD_CULTURE"
+    }
+]

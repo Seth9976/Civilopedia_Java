@@ -1,0 +1,112 @@
+[
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "FeatureType": "FEATURE_JUNGLE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "FeatureType": "FEATURE_OASIS",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "FeatureType": "FEATURE_OASIS",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "FeatureType": "FEATURE_MARSH",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "FeatureType": "FEATURE_BARRIER_REEF",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "FeatureType": "FEATURE_BARRIER_REEF",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "FeatureType": "FEATURE_CLIFFS_DOVER",
+        "YieldChange": 3,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "FeatureType": "FEATURE_CLIFFS_DOVER",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "FeatureType": "FEATURE_CLIFFS_DOVER",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "FeatureType": "FEATURE_CRATER_LAKE",
+        "YieldChange": 5,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "FeatureType": "FEATURE_CRATER_LAKE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "FeatureType": "FEATURE_DEAD_SEA",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "FeatureType": "FEATURE_DEAD_SEA",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "FeatureType": "FEATURE_PANTANAL",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "FeatureType": "FEATURE_PANTANAL",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "FeatureType": "FEATURE_HA_LONG_BAY",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "FeatureType": "FEATURE_HA_LONG_BAY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "FeatureType": "FEATURE_HA_LONG_BAY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "FeatureType": "FEATURE_FOUNTAIN_OF_YOUTH",
+        "YieldChange": 4,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "FeatureType": "FEATURE_FOUNTAIN_OF_YOUTH",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FAITH"
+    }
+]

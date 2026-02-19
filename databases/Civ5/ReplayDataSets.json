@@ -1,0 +1,158 @@
+[
+    {
+        "Description": "TXT_KEY_REPLAY_VIEWER_GRAPHBY_SCORE",
+        "ID": 1,
+        "Name": null,
+        "Type": "REPLAYDATASET_SCORE"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_PRODUCTIONPERTURN",
+        "ID": 2,
+        "Name": null,
+        "Type": "REPLAYDATASET_PRODUCTIONPERTURN"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_TOTALGOLD",
+        "ID": 3,
+        "Name": null,
+        "Type": "REPLAYDATASET_TOTALGOLD"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_GOLDPERTURN",
+        "ID": 4,
+        "Name": null,
+        "Type": "REPLAYDATASET_GOLDPERTURN"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_CITYCOUNT",
+        "ID": 5,
+        "Name": null,
+        "Type": "REPLAYDATASET_CITYCOUNT"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_TECHSKNOWN",
+        "ID": 6,
+        "Name": null,
+        "Type": "REPLAYDATASET_TECHSKNOWN"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_SCIENCEPERTURN",
+        "ID": 7,
+        "Name": null,
+        "Type": "REPLAYDATASET_SCIENCEPERTURN"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_TOTALCULTURE",
+        "ID": 8,
+        "Name": null,
+        "Type": "REPLAYDATASET_TOTALCULTURE"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_CULTUREPERTURN",
+        "ID": 9,
+        "Name": null,
+        "Type": "REPLAYDATASET_CULTUREPERTURN"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_EXCESSHAPPINESS",
+        "ID": 10,
+        "Name": null,
+        "Type": "REPLAYDATASET_EXCESSHAPINESS"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_HAPPINESS",
+        "ID": 11,
+        "Name": null,
+        "Type": "REPLAYDATASET_HAPPINESS"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_UNHAPPINESS",
+        "ID": 12,
+        "Name": null,
+        "Type": "REPLAYDATASET_UNHAPPINESS"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_GOLDAGETURNS",
+        "ID": 13,
+        "Name": null,
+        "Type": "REPLAYDATASET_GOLDENAGETURNS"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_TOTALPOPULATION",
+        "ID": 14,
+        "Name": null,
+        "Type": "REPLAYDATASET_POPULATION"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_FOODPERTURN",
+        "ID": 15,
+        "Name": null,
+        "Type": "REPLAYDATASET_FOODPERTURN"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_TOTALLAND",
+        "ID": 16,
+        "Name": null,
+        "Type": "REPLAYDATASET_TOTALLAND"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_GPTCITYCONNECTIONS",
+        "ID": 17,
+        "Name": null,
+        "Type": "REPLAYDATASET_GPTCITYCONNECTIONS"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_GPTDEALS",
+        "ID": 18,
+        "Name": null,
+        "Type": "REPLAYDATASET_GPTDEALS"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_UNITMAINTENANCE",
+        "ID": 19,
+        "Name": null,
+        "Type": "REPLAYDATASET_UNITMAINTENANCE"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_BUILDINGMAINTENANCE",
+        "ID": 20,
+        "Name": null,
+        "Type": "REPLAYDATASET_BUILDINGMAINTENANCE"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_IMPROVEMENTMAINTENANCE",
+        "ID": 21,
+        "Name": null,
+        "Type": "REPLAYDATASET_IMPROVEMENTMAINTENANCE"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_NUMBEROFPOLICIES",
+        "ID": 22,
+        "Name": null,
+        "Type": "REPLAYDATASET_NUMBEROFPOLICIES"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_NUMBEROFWORKERS",
+        "ID": 23,
+        "Name": null,
+        "Type": "REPLAYDATASET_NUMBEROFWORKERS"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_IMPROVEDTILES",
+        "ID": 24,
+        "Name": null,
+        "Type": "REPLAYDATASET_IMPROVEDTILES"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_WORKEDTILES",
+        "ID": 25,
+        "Name": null,
+        "Type": "REPLAYDATASET_WORKEDTILES"
+    },
+    {
+        "Description": "TXT_KEY_REPLAY_DATA_MILITARYMIGHT",
+        "ID": 26,
+        "Name": null,
+        "Type": "REPLAYDATASET_MILITARYMIGHT"
+    }
+]

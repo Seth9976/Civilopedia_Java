@@ -1,0 +1,26 @@
+[
+    {
+        "EmptyIcon": "GreatWorks_Empty.dds",
+        "EmptyToolTipText": "TXT_KEY_GREAT_WORK_SLOT_ART_ARTIFACT_EMPTY_TOOLTIP",
+        "FilledIcon": "GreatWorks.dds",
+        "ID": 1,
+        "SlotsToolTipText": "TXT_KEY_GREAT_WORK_SLOT_ART_ARTIFACT_SLOTS_TOOLTIP",
+        "Type": "GREAT_WORK_SLOT_ART_ARTIFACT"
+    },
+    {
+        "EmptyIcon": "GreatWorks_Book_Empty.dds",
+        "EmptyToolTipText": "TXT_KEY_GREAT_WORK_SLOT_LITERATURE_EMPTY_TOOLTIP",
+        "FilledIcon": "GreatWorks_Book.dds",
+        "ID": 2,
+        "SlotsToolTipText": "TXT_KEY_GREAT_WORK_SLOT_LITERATURE_SLOTS_TOOLTIP",
+        "Type": "GREAT_WORK_SLOT_LITERATURE"
+    },
+    {
+        "EmptyIcon": "GreatWorks_Music_Empty.dds",
+        "EmptyToolTipText": "TXT_KEY_GREAT_WORK_SLOT_MUSIC_EMPTY_TOOLTIP",
+        "FilledIcon": "GreatWorks_Music.dds",
+        "ID": 3,
+        "SlotsToolTipText": "TXT_KEY_GREAT_WORK_SLOT_MUSIC_SLOTS_TOOLTIP",
+        "Type": "GREAT_WORK_SLOT_MUSIC"
+    }
+]

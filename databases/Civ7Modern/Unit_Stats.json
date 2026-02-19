@@ -1,0 +1,738 @@
+[
+    {
+        "Bombard": 0,
+        "Combat": 65,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_SANDBOX",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 65,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_GREAT_MERCHANT",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 65,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_TREASURE_FLEET_SMALL",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 55,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_AUDIO_SANDBOX_MELEE",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 25,
+        "Range": 2,
+        "RangedCombat": 55,
+        "UnitType": "UNIT_AUDIO_SANDBOX_RANGED",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 0,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_SCOUT",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 0,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_MERCHANT",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 0,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_ARMY_COMMANDER",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 0,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_FLEET_COMMANDER",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 0,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_SQUADRON_COMMANDER",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 0,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_CARRIER_COMMANDER",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 50,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_LINE_INFANTRY",
+        "WMDType": null
+    },
+    {
+        "Bombard": 35,
+        "Combat": 35,
+        "Range": 2,
+        "RangedCombat": 45,
+        "UnitType": "UNIT_FIELD_CANNON",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 55,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_CUIRASSIER",
+        "WMDType": null
+    },
+    {
+        "Bombard": 55,
+        "Combat": 40,
+        "Range": 2,
+        "RangedCombat": 35,
+        "UnitType": "UNIT_MORTAR",
+        "WMDType": null
+    },
+    {
+        "Bombard": 20,
+        "Combat": 45,
+        "Range": 1,
+        "RangedCombat": 20,
+        "UnitType": "UNIT_IRONCLAD",
+        "WMDType": null
+    },
+    {
+        "Bombard": 45,
+        "Combat": 45,
+        "Range": 2,
+        "RangedCombat": 50,
+        "UnitType": "UNIT_FRIGATE",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 55,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_RIFLEMAN",
+        "WMDType": null
+    },
+    {
+        "Bombard": 40,
+        "Combat": 40,
+        "Range": 2,
+        "RangedCombat": 50,
+        "UnitType": "UNIT_FIELD_GUN",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 60,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_LANDSHIP",
+        "WMDType": null
+    },
+    {
+        "Bombard": 60,
+        "Combat": 45,
+        "Range": 3,
+        "RangedCombat": 40,
+        "UnitType": "UNIT_HEAVY_ARTILLERY",
+        "WMDType": null
+    },
+    {
+        "Bombard": 25,
+        "Combat": 50,
+        "Range": 1,
+        "RangedCombat": 25,
+        "UnitType": "UNIT_CRUISER",
+        "WMDType": null
+    },
+    {
+        "Bombard": 50,
+        "Combat": 50,
+        "Range": 2,
+        "RangedCombat": 55,
+        "UnitType": "UNIT_DREADNOUGHT",
+        "WMDType": null
+    },
+    {
+        "Bombard": 30,
+        "Combat": 55,
+        "Range": 8,
+        "RangedCombat": 35,
+        "UnitType": "UNIT_BIPLANE",
+        "WMDType": null
+    },
+    {
+        "Bombard": 35,
+        "Combat": 35,
+        "Range": 10,
+        "RangedCombat": 55,
+        "UnitType": "UNIT_TRENCH_FIGHTER",
+        "WMDType": null
+    },
+    {
+        "Bombard": 65,
+        "Combat": 35,
+        "Range": 10,
+        "RangedCombat": 45,
+        "UnitType": "UNIT_BOMBER",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 60,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_INFANTRY_COMPANY",
+        "WMDType": null
+    },
+    {
+        "Bombard": 45,
+        "Combat": 45,
+        "Range": 2,
+        "RangedCombat": 55,
+        "UnitType": "UNIT_AT_GUN",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 65,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_TANK",
+        "WMDType": null
+    },
+    {
+        "Bombard": 65,
+        "Combat": 50,
+        "Range": 3,
+        "RangedCombat": 45,
+        "UnitType": "UNIT_ASSAULT_GUN",
+        "WMDType": null
+    },
+    {
+        "Bombard": 30,
+        "Combat": 55,
+        "Range": 1,
+        "RangedCombat": 30,
+        "UnitType": "UNIT_DESTROYER",
+        "WMDType": null
+    },
+    {
+        "Bombard": 55,
+        "Combat": 55,
+        "Range": 3,
+        "RangedCombat": 60,
+        "UnitType": "UNIT_BATTLESHIP",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 50,
+        "Range": 2,
+        "RangedCombat": 70,
+        "UnitType": "UNIT_SUBMARINE",
+        "WMDType": null
+    },
+    {
+        "Bombard": 35,
+        "Combat": 60,
+        "Range": 10,
+        "RangedCombat": 40,
+        "UnitType": "UNIT_FIGHTER",
+        "WMDType": null
+    },
+    {
+        "Bombard": 40,
+        "Combat": 40,
+        "Range": 12,
+        "RangedCombat": 60,
+        "UnitType": "UNIT_DIVEBOMBER",
+        "WMDType": null
+    },
+    {
+        "Bombard": 70,
+        "Combat": 40,
+        "Range": 12,
+        "RangedCombat": 50,
+        "UnitType": "UNIT_HEAVY_BOMBER",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 0,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_EXPLORER",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 50,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_ABAMBOWA",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 55,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_ABAMBOWA_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 60,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_ABAMBOWA_3",
+        "WMDType": null
+    },
+    {
+        "Bombard": 5,
+        "Combat": 50,
+        "Range": 1,
+        "RangedCombat": 35,
+        "UnitType": "UNIT_GARDE_IMPERIALE",
+        "WMDType": null
+    },
+    {
+        "Bombard": 10,
+        "Combat": 55,
+        "Range": 1,
+        "RangedCombat": 40,
+        "UnitType": "UNIT_GARDE_IMPERIALE_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 15,
+        "Combat": 60,
+        "Range": 1,
+        "RangedCombat": 45,
+        "UnitType": "UNIT_GARDE_IMPERIALE_3",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 50,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_GUSA",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 55,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_GUSA_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 60,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_GUSA_3",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 55,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_MARINE",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 60,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_MARINE_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 45,
+        "Combat": 50,
+        "Range": 1,
+        "RangedCombat": 5,
+        "UnitType": "UNIT_SEPOY",
+        "WMDType": null
+    },
+    {
+        "Bombard": 50,
+        "Combat": 55,
+        "Range": 1,
+        "RangedCombat": 10,
+        "UnitType": "UNIT_SEPOY_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 55,
+        "Combat": 60,
+        "Range": 1,
+        "RangedCombat": 15,
+        "UnitType": "UNIT_SEPOY_3",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 50,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_SOLDADERAS",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 55,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_SOLDADERAS_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 60,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_SOLDADERAS_3",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 55,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_PARTISAN",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 60,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_PARTISAN_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 65,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_PARTISAN_3",
+        "WMDType": null
+    },
+    {
+        "Bombard": 35,
+        "Combat": 35,
+        "Range": 2,
+        "RangedCombat": 50,
+        "UnitType": "UNIT_CHANG_BEUN",
+        "WMDType": null
+    },
+    {
+        "Bombard": 40,
+        "Combat": 40,
+        "Range": 2,
+        "RangedCombat": 55,
+        "UnitType": "UNIT_CHANG_BEUN_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 45,
+        "Combat": 45,
+        "Range": 2,
+        "RangedCombat": 60,
+        "UnitType": "UNIT_CHANG_BEUN_3",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 50,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_COSSACK",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 55,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_COSSACK_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 60,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_COSSACK_3",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 50,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_HUSSAR",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 55,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_HUSSAR_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 60,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_HUSSAR_3",
+        "WMDType": null
+    },
+    {
+        "Bombard": 50,
+        "Combat": 40,
+        "Range": 3,
+        "RangedCombat": 40,
+        "UnitType": "UNIT_KATYUSHA",
+        "WMDType": null
+    },
+    {
+        "Bombard": 55,
+        "Combat": 45,
+        "Range": 3,
+        "RangedCombat": 45,
+        "UnitType": "UNIT_KATYUSHA_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 50,
+        "Combat": 50,
+        "Range": 2,
+        "RangedCombat": 55,
+        "UnitType": "UNIT_MIKASA",
+        "WMDType": null
+    },
+    {
+        "Bombard": 55,
+        "Combat": 55,
+        "Range": 2,
+        "RangedCombat": 60,
+        "UnitType": "UNIT_MIKASA_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 35,
+        "Combat": 35,
+        "Range": 8,
+        "RangedCombat": 55,
+        "UnitType": "UNIT_STUKA",
+        "WMDType": null
+    },
+    {
+        "Bombard": 40,
+        "Combat": 40,
+        "Range": 10,
+        "RangedCombat": 60,
+        "UnitType": "UNIT_STUKA_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 30,
+        "Combat": 55,
+        "Range": 10,
+        "RangedCombat": 35,
+        "UnitType": "UNIT_ZERO",
+        "WMDType": null
+    },
+    {
+        "Bombard": 35,
+        "Combat": 60,
+        "Range": 12,
+        "RangedCombat": 40,
+        "UnitType": "UNIT_ZERO_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 50,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_JANISSARY",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 55,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_JANISSARY_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 60,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_JANISSARY_3",
+        "WMDType": null
+    },
+    {
+        "Bombard": 25,
+        "Combat": 50,
+        "Range": 1,
+        "RangedCombat": 25,
+        "UnitType": "UNIT_BARBARY_CORSAIR",
+        "WMDType": null
+    },
+    {
+        "Bombard": 30,
+        "Combat": 55,
+        "Range": 1,
+        "RangedCombat": 30,
+        "UnitType": "UNIT_BARBARY_CORSAIR_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 35,
+        "Combat": 60,
+        "Range": 1,
+        "RangedCombat": 35,
+        "UnitType": "UNIT_BARBARY_CORSAIR_3",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 0,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_TRUNG_NHI",
+        "WMDType": null
+    },
+    {
+        "Bombard": 55,
+        "Combat": 55,
+        "Range": 2,
+        "RangedCombat": 60,
+        "UnitType": "UNIT_REVENGE",
+        "WMDType": null
+    },
+    {
+        "Bombard": 60,
+        "Combat": 60,
+        "Range": 2,
+        "RangedCombat": 65,
+        "UnitType": "UNIT_REVENGE_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 0,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_ANTIQUARIAN",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 55,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_GURKHA",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 60,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_GURKHA_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 65,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_GURKHA_3",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 0,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_SHERPA",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 55,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_GHILMAN",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 60,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_GHILMAN_2",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 65,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_GHILMAN_3",
+        "WMDType": null
+    },
+    {
+        "Bombard": 0,
+        "Combat": 0,
+        "Range": 0,
+        "RangedCombat": 0,
+        "UnitType": "UNIT_SOLTAN",
+        "WMDType": null
+    }
+]

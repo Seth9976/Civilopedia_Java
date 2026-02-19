@@ -1,0 +1,62 @@
+[
+    {
+        "ActionIcon": "action_greatperson",
+        "AvailableInTimeline": 0,
+        "CityStatesSuzerained": 0,
+        "ConstructibleType": null,
+        "GenerateDuplicateIndividuals": 1,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_JACOBIN",
+        "IconString": "unitflag_jacobin",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_UNIT_JACOBIN_NAME",
+        "PopulationRequired": 0,
+        "PseudoYieldType": "PSEUDOYIELD_STANDING_ARMY_COMMANDER",
+        "UniqueQuarterType": "QUARTER_AVENUE",
+        "UnitType": "UNIT_JACOBIN"
+    },
+    {
+        "ActionIcon": "action_greatperson",
+        "AvailableInTimeline": 0,
+        "CityStatesSuzerained": 0,
+        "ConstructibleType": null,
+        "GenerateDuplicateIndividuals": 1,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_REVOLUCIONARIO",
+        "IconString": "unitflag_revolucionario",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_UNIT_REVOLUCIONARIO_NAME",
+        "PopulationRequired": 0,
+        "PseudoYieldType": "PSEUDOYIELD_STANDING_ARMY_COMMANDER",
+        "UniqueQuarterType": "QUARTER_ZOCALO",
+        "UnitType": "UNIT_REVOLUCIONARIO"
+    },
+    {
+        "ActionIcon": "action_greatperson",
+        "AvailableInTimeline": 0,
+        "CityStatesSuzerained": 1,
+        "ConstructibleType": null,
+        "GenerateDuplicateIndividuals": 1,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_UPARAT",
+        "IconString": "unitflag_aparat",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_UNIT_UPARAT_NAME",
+        "PopulationRequired": 0,
+        "PseudoYieldType": "PSEUDOYIELD_STANDING_ARMY_COMMANDER",
+        "UniqueQuarterType": null,
+        "UnitType": "UNIT_UPARAT"
+    },
+    {
+        "ActionIcon": "action_greatperson",
+        "AvailableInTimeline": 1,
+        "CityStatesSuzerained": 0,
+        "ConstructibleType": null,
+        "GenerateDuplicateIndividuals": 0,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_VICTORY",
+        "IconString": "unitflag_economist",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_UNIT_VICTORY_NAME",
+        "PopulationRequired": 0,
+        "PseudoYieldType": null,
+        "UniqueQuarterType": null,
+        "UnitType": "UNIT_JOHN_MAYNARD_KEYNES"
+    }
+]

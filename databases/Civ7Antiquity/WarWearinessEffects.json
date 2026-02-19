@@ -1,0 +1,17 @@
+[
+    {
+        "MaxYieldReduction": 60,
+        "WarWearinessType": "WAR_WEARINESS_FOUNDED_SELF",
+        "YieldReductionPerLevel": 3
+    },
+    {
+        "MaxYieldReduction": 80,
+        "WarWearinessType": "WAR_WEARINESS_FOUNDED_OTHER",
+        "YieldReductionPerLevel": 5
+    },
+    {
+        "MaxYieldReduction": 100,
+        "WarWearinessType": "WAR_WEARINESS_FOUNDED_WAR_OPPONENT",
+        "YieldReductionPerLevel": 7
+    }
+]

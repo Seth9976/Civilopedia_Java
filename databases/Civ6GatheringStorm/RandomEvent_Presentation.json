@@ -1,0 +1,372 @@
+[
+    {
+        "Animation": "REVEAL_ERUPTION_CATASTROPHIC",
+        "Callback": "GetAffectedPlots_NaturalWonder",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_EYJAFJALLAJOKULL_CATASTROPHIC",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Volcano_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_ERUPTION_MEGACOLOSSAL",
+        "Callback": "GetAffectedPlots_NaturalWonder",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_EYJAFJALLAJOKULL_MEGACOLOSSAL",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Volcano_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_ERUPTION",
+        "Callback": null,
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_GENTLE",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Volcano_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_ERUPTION_CATASTROPHIC",
+        "Callback": null,
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_CATASTROPHIC",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Volcano_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_ERUPTION_MEGACOLOSSAL",
+        "Callback": null,
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MEGACOLOSSAL",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Volcano_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_ERUPTION_MEGACOLOSSAL",
+        "Callback": "GetAffectedPlots_NaturalWonder",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_VESUVIUS_MEGACOLOSSAL",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Volcano_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_ERUPTION",
+        "Callback": "GetAffectedPlots_NaturalWonder",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_KILIMANJARO_GENTLE",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Volcano_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_ERUPTION_CATASTROPHIC",
+        "Callback": "GetAffectedPlots_NaturalWonder",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_KILIMANJARO_CATASTROPHIC",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Volcano_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_FLOOD",
+        "Callback": "GetAffectedPlots_Flood",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MODERATE",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Flood_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_FLOOD",
+        "Callback": "GetAffectedPlots_Flood",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MAJOR",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Flood_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_FLOOD",
+        "Callback": "GetAffectedPlots_Flood",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_1000_YEAR",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Flood_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_STORM",
+        "Callback": "GetAffectedPlots_Storm",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_SIGNIFICANT",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Blizzard_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_STORM",
+        "Callback": "GetAffectedPlots_Storm",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_CRIPPLING",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Blizzard_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_STORM_SMALL",
+        "Callback": "GetAffectedPlots_Storm",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_GRADIENT",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Sandstorm_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_STORM",
+        "Callback": "GetAffectedPlots_Storm",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_HABOOB",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Sandstorm_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_STORM_SMALL",
+        "Callback": "GetAffectedPlots_Storm",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_TORNADO_FAMILY",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Tornado_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_STORM",
+        "Callback": "GetAffectedPlots_Storm",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_TORNADO_OUTBREAK",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Tornado_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_STORM",
+        "Callback": "GetAffectedPlots_Storm",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_4",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Hurricane_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_STORM",
+        "Callback": "GetAffectedPlots_Storm",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_5",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Hurricane_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_FLOOD",
+        "Callback": null,
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_NUCLEAR_ACCIDENT_MINOR",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Meltdown_Movie_Loop",
+        "VFX": "DISASTER_NUCLEAR_MELTDOWN"
+    },
+    {
+        "Animation": "REVEAL_FLOOD",
+        "Callback": null,
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_NUCLEAR_ACCIDENT_MAJOR",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Meltdown_Movie_Loop",
+        "VFX": "DISASTER_NUCLEAR_MELTDOWN"
+    },
+    {
+        "Animation": "REVEAL_FLOOD",
+        "Callback": null,
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_NUCLEAR_ACCIDENT_CATASTROPHIC",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Meltdown_Movie_Loop",
+        "VFX": "DISASTER_NUCLEAR_MELTDOWN"
+    },
+    {
+        "Animation": "REVEAL_DROUGHT",
+        "Callback": "GetAffectedPlots_Drought",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_DROUGHT_MAJOR",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Drought_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_DROUGHT",
+        "Callback": "GetAffectedPlots_Drought",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_DROUGHT_EXTREME",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Drought_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_STORM_SMALL",
+        "Callback": "GetAffectedPlots_OneOff",
+        "ForceShowVFX": null,
+        "MFX": "Meteor_Shower",
+        "RandomEventType": "RANDOM_EVENT_METEOR_SHOWER",
+        "SequenceType": "SCENE_EVENT_TRIGGER",
+        "Sound": "Play_Disaster_MeteorShower_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_ERUPTION_MEGACOLOSSAL",
+        "Callback": null,
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_TRIGGERED",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Volcano_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_ERUPTION_MEGACOLOSSAL",
+        "Callback": "GetAffectedPlots_NaturalWonder",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_VESUVIUS_TRIGGERED",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Volcano_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_ERUPTION_CATASTROPHIC",
+        "Callback": "GetAffectedPlots_NaturalWonder",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_KILIMANJARO_TRIGGERED",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Volcano_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_FLOOD",
+        "Callback": "GetAffectedPlots_Flood",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_TRIGGERED",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Flood_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_STORM",
+        "Callback": "GetAffectedPlots_Storm",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_TRIGGERED",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Blizzard_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_STORM",
+        "Callback": "GetAffectedPlots_Storm",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_TRIGGERED",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Sandstorm_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_FLOOD",
+        "Callback": null,
+        "ForceShowVFX": "1",
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_SOLAR_FLARE",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_SolarFlare_Movie_Loop",
+        "VFX": "DISASTER_SOLAR_FLARE"
+    },
+    {
+        "Animation": "REVEAL_COMET",
+        "Callback": "GetAffectedPlots_OneOff",
+        "ForceShowVFX": null,
+        "MFX": "Comet_Strike",
+        "RandomEventType": "RANDOM_EVENT_COMET_STRIKE",
+        "SequenceType": "SCENE_EVENT_TRIGGER",
+        "Sound": "Play_Disaster_CometStrike_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_COMET",
+        "Callback": "GetAffectedPlots_OneOff",
+        "ForceShowVFX": null,
+        "MFX": "Comet_Strike",
+        "RandomEventType": "RANDOM_EVENT_COMET_STRIKE_TARGETED",
+        "SequenceType": "SCENE_EVENT_TRIGGER",
+        "Sound": "Play_Disaster_CometStrike_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_FLOOD",
+        "Callback": null,
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE_TRIGGERED",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Drought_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_FLOOD",
+        "Callback": null,
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE_TRIGGERED",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Drought_Movie_Loop",
+        "VFX": null
+    },
+    {
+        "Animation": "REVEAL_ERUPTION_MEGACOLOSSAL",
+        "Callback": "GetAffectedPlots_NaturalWonder",
+        "ForceShowVFX": null,
+        "MFX": null,
+        "RandomEventType": "RANDOM_EVENT_EYJAFJALLAJOKULL_TRIGGERED",
+        "SequenceType": null,
+        "Sound": "Play_Disaster_Volcano_Movie_Loop",
+        "VFX": null
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "AllowedMoveType": "First Turn Settler",
+        "IsHomeland": 1,
+        "IsTactical": 0,
+        "Value": 0
+    },
+    {
+        "AllowedMoveType": "Move to Safety",
+        "IsHomeland": 1,
+        "IsTactical": 1,
+        "Value": 1
+    },
+    {
+        "AllowedMoveType": "Explore Land",
+        "IsHomeland": 1,
+        "IsTactical": 0,
+        "Value": 2
+    },
+    {
+        "AllowedMoveType": "End Turn",
+        "IsHomeland": 1,
+        "IsTactical": 0,
+        "Value": 3
+    },
+    {
+        "AllowedMoveType": "Attack High Priority",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 4
+    },
+    {
+        "AllowedMoveType": "Attack Medium Priority",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 5
+    },
+    {
+        "AllowedMoveType": "Attack Low Priority",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 6
+    },
+    {
+        "AllowedMoveType": "Attack Civilians",
+        "IsHomeland": 1,
+        "IsTactical": 1,
+        "Value": 7
+    },
+    {
+        "AllowedMoveType": "Defend Camps",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 8
+    },
+    {
+        "AllowedMoveType": "Attack Camps",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 9
+    },
+    {
+        "AllowedMoveType": "Heal",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 10
+    },
+    {
+        "AllowedMoveType": "Chase Target",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 11
+    },
+    {
+        "AllowedMoveType": "Wander",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 12
+    },
+    {
+        "AllowedMoveType": "Pillage Improvement",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 13
+    },
+    {
+        "AllowedMoveType": "Pillage District",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 14
+    },
+    {
+        "AllowedMoveType": "Gather Goody Hut",
+        "IsHomeland": 1,
+        "IsTactical": 1,
+        "Value": 15
+    },
+    {
+        "AllowedMoveType": "Great Person Move",
+        "IsHomeland": 1,
+        "IsTactical": 0,
+        "Value": 16
+    },
+    {
+        "AllowedMoveType": "Promotion",
+        "IsHomeland": 1,
+        "IsTactical": 1,
+        "Value": 17
+    },
+    {
+        "AllowedMoveType": "Missionary Move",
+        "IsHomeland": 1,
+        "IsTactical": 0,
+        "Value": 18
+    },
+    {
+        "AllowedMoveType": "Wander Near Camp",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 19
+    },
+    {
+        "AllowedMoveType": "Religious Combat",
+        "IsHomeland": 1,
+        "IsTactical": 0,
+        "Value": 20
+    },
+    {
+        "AllowedMoveType": "Wander Near City",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 21
+    },
+    {
+        "AllowedMoveType": "Coastal Raid",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 22
+    },
+    {
+        "AllowedMoveType": "Plunder Trader",
+        "IsHomeland": 1,
+        "IsTactical": 1,
+        "Value": 23
+    },
+    {
+        "AllowedMoveType": "Attack District",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 24
+    },
+    {
+        "AllowedMoveType": "Found Park",
+        "IsHomeland": 1,
+        "IsTactical": 0,
+        "Value": 25
+    },
+    {
+        "AllowedMoveType": "Make Military Formation",
+        "IsHomeland": 1,
+        "IsTactical": 0,
+        "Value": 26
+    },
+    {
+        "AllowedMoveType": "Air Deploy",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 27
+    },
+    {
+        "AllowedMoveType": "Air Rebase",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 28
+    },
+    {
+        "AllowedMoveType": "Air Assault",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 29
+    },
+    {
+        "AllowedMoveType": "Builder Outside Ring",
+        "IsHomeland": 1,
+        "IsTactical": 0,
+        "Value": 30
+    },
+    {
+        "AllowedMoveType": "Leader Formation",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 31
+    },
+    {
+        "AllowedMoveType": "Barbarian Rampage",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 32
+    },
+    {
+        "AllowedMoveType": "Charge Heal",
+        "IsHomeland": 1,
+        "IsTactical": 0,
+        "Value": 33
+    },
+    {
+        "AllowedMoveType": "Support Formation",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 34
+    },
+    {
+        "AllowedMoveType": "Zombie Horde Attack",
+        "IsHomeland": 0,
+        "IsTactical": 1,
+        "Value": 36
+    }
+]

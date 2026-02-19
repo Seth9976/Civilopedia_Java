@@ -1,0 +1,16 @@
+[
+    {
+        "Description": "LOC_TURNPHASE_SIMULTANEOUS_DESC",
+        "Domain": "StandardTurnPhases",
+        "Name": "LOC_TURNPHASE_SIMULTANEOUS",
+        "SortIndex": 10,
+        "TurnPhaseType": "TURNPHASE_SIMULTANEOUS"
+    },
+    {
+        "Description": "LOC_TURNPHASE_DYNAMIC_DESC",
+        "Domain": "StandardTurnPhases",
+        "Name": "LOC_TURNPHASE_DYNAMIC",
+        "SortIndex": 20,
+        "TurnPhaseType": "TURNPHASE_DYNAMIC"
+    }
+]

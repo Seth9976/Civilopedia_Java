@@ -1,0 +1,2621 @@
+[
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/AntiAircraftGun/AntiAircraftGun.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_ANTIAIRCRAFTGUN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/AntiTankGun/AntiTankGun.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_ANTITANKGUN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Archer/Archer.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_ARCHER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/Artillery/Artillery.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_ARTILLERY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Air",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/AtomicBomb/AtomicBomb.fxsxml",
+        "Scale": 0.07000000029802322,
+        "Type": "ART_DEF_UNIT_MEMBER_ATOMICBOMB",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/Battleship/Battleship.fxsxml",
+        "Scale": 0.09000000357627869,
+        "Type": "ART_DEF_UNIT_MEMBER_BATTLESHIP",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Air",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/Bomber/Bomber.fxsxml",
+        "Scale": 0.07999999821186066,
+        "Type": "ART_DEF_UNIT_MEMBER_BOMBER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "WOODSM",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Assets/Units/Cannon/Cannon.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_CANNON",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Assets/Units/Caravel/Caravel.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_CARAVEL",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/Carrier/Carrier.fxsxml",
+        "Scale": 0.09000000357627869,
+        "Type": "ART_DEF_UNIT_MEMBER_CARRIER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "WOODMED",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Assets/Units/Catapult/Catapult.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_CATAPULT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Cavalry/Cavalry.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_CAVALRY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "WOODSM",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/ChariotArcher/ChariotArcher.fxsxml",
+        "Scale": 0.12999999523162842,
+        "Type": "ART_DEF_UNIT_MEMBER_CHARIOTARCHER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Crossbowman/Crossbowman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_CROSSBOWMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/Destroyer/Destroyer.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_DESTROYER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Air",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/Fighter/Fighter.fxsxml",
+        "Scale": 0.07999999821186066,
+        "Type": "ART_DEF_UNIT_MEMBER_FIGHTER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Assets/Units/Frigate/Frigate.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_FRIGATE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Air",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/GuidedMissile/GuidedMissile.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_GUIDEDMISSILE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Hover",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/HelicopterGunship/HelicopterGunship.fxsxml",
+        "Scale": 0.10000000149011612,
+        "Type": "ART_DEF_UNIT_MEMBER_HELICOPTERGUNSHIP",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Horseman/Horseman.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_HORSEMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Infantry/Infantry.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_INFANTRY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/Ironclad/Ironclad.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_IRONCLAD",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Air",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/JetFighter/JetFighter.fxsxml",
+        "Scale": 0.09000000357627869,
+        "Type": "ART_DEF_UNIT_MEMBER_JETFIGHTER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/Knight/Knight.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_KNIGHT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Lancer/Lancer.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_LANCER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/Longswordsman/Longswordsman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_LONGSWORDSMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/Mech/Mech.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_MECH",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/MechanizedInfantry/MechanizedInfantry.fxsxml",
+        "Scale": 0.10000000149011612,
+        "Type": "ART_DEF_UNIT_MEMBER_MECHANIZEDINFANTRY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/MissileCruiser/MissileCruiser.fxsxml",
+        "Scale": 0.10999999940395355,
+        "Type": "ART_DEF_UNIT_MEMBER_MISSILECRUISER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/MobileSAM/MobileSAM.fxsxml",
+        "Scale": 0.10999999940395355,
+        "Type": "ART_DEF_UNIT_MEMBER_MOBILESAM",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/ModernArmor/ModernArmor.fxsxml",
+        "Scale": 0.10000000149011612,
+        "Type": "ART_DEF_UNIT_MEMBER_MODERNARMOR",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Musketman/Musketman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_MUSKETMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Air",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/NuclearMissile/NuclearMissile.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_NUCLEARMISSILE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/NuclearSubmarine/NuclearSubmarine.fxsxml",
+        "Scale": 0.10000000149011612,
+        "Type": "ART_DEF_UNIT_MEMBER_NUCLEARSUBMARINE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Paratrooper/Paratrooper.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_PARATROOPER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/Pikeman/Pikeman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_PIKEMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Rifleman/Rifleman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_RIFLEMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/RocketArtillery/RocketArtillery.fxsxml",
+        "Scale": 0.09000000357627869,
+        "Type": "ART_DEF_UNIT_MEMBER_ROCKETARTILLERY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Scout/Scout.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_SCOUT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Spearman/Spearman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_SPEARMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Air",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/StealthBomber/StealthBomber.fxsxml",
+        "Scale": 0.07999999821186066,
+        "Type": "ART_DEF_UNIT_MEMBER_STEALTHBOMBER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/Submarine/Submarine.fxsxml",
+        "Scale": 0.1599999964237213,
+        "Type": "ART_DEF_UNIT_MEMBER_SUBMARINE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/Swordsman/Swordsman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_SWORDSMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/Tank/Tank.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_TANK",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "WOODMED",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Assets/Units/Trebuchet/Trebuchet.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_TREBUCHET",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Assets/Units/Trireme/Trireme.fxsxml",
+        "Scale": 0.07000000029802322,
+        "Type": "ART_DEF_UNIT_MEMBER_TRIREME",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Air",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/U_American_B17/U_American_B17.fxsxml",
+        "Scale": 0.07999999821186066,
+        "Type": "ART_DEF_UNIT_MEMBER_U_AMERICAN_B17",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_American_Minuteman/U_American_Minuteman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_AMERICAN_MINUTEMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Arabian_CamelArcher/U_Arabian_CamelArcher.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_ARABIAN_CAMELARCHER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Aztec_Jaguar/U_Aztec_Jaguar.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_AZTEC_JAGUAR",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/U_Chinese_ChuKoNu/U_Chinese_ChuKoNu.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_CHINESE_CHUKONU",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "WOODSM",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Egyptian_WarChariot/U_Egyptian_WarChariot.fxsxml",
+        "Scale": 0.12999999523162842,
+        "Type": "ART_DEF_UNIT_MEMBER_U_EGYPTIAN_WARCHARIOT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/U_English_Longbowman/U_English_Longbowman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_ENGLISH_LONGBOWMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Assets/Units/U_English_ShipOfTheLine/U_English_ShipOfTheLine.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_ENGLISH_SHIPOFTHELINE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_French_ForeignLegion/U_French_ForeignLegion.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_FRENCH_FOREIGNLEGION",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_French_Musketeer/U_French_Musketeer.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_FRENCH_MUSKETEER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_German_Landsknecht/U_German_Landsknecht_A.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_GERMAN_LANDSKNECHT_A",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_German_Landsknecht/U_German_Landsknecht_B.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_GERMAN_LANDSKNECHT_B",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/U_German_Panzer/U_German_Panzer.fxsxml",
+        "Scale": 0.10999999940395355,
+        "Type": "ART_DEF_UNIT_MEMBER_U_GERMAN_PANZER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/U_Greek_CompanionCavalry/U_Greek_CompanionCavalry.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_GREEK_COMPANIONCAVALRY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/U_Greek_Hoplite/U_Greek_Hoplite.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_GREEK_HOPLITE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Indian_WarElephant/U_Indian_WarElephant.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_INDIAN_WARELEPHANT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Iroquoian_MohawkWarrior/U_Iroquoian_MohawkWarrior.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_IROQUOIAN_MOHAWKWARRIOR",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Japanese_Samurai/U_Japanese_Samurai.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_JAPANESE_SAMURAI",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Air",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/U_Japanese_Zero/U_Japanese_Zero.fxsxml",
+        "Scale": 0.07000000029802322,
+        "Type": "ART_DEF_UNIT_MEMBER_U_JAPANESE_ZERO",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Ottoman_Janissary/U_Ottoman_Janissary.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_OTTOMAN_JANISSARY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Ottoman_Sipahi/U_Ottoman_Sipahi.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_OTTOMAN_SIPAHI",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/U_Persian_Immortal/U_Persian_Immortal.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_PERSIAN_IMMORTAL",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Roman_Ballista/U_Roman_Ballista.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_ROMAN_BALLISTA",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/U_Roman_Legion/U_Roman_Legion.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_ROMAN_LEGION",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Russian_Cossack/U_Russian_Cossack.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_RUSSIAN_COSSACK",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Siamese_WarElephant/U_Siamese_WarElephant.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_SIAMESE_WARELEPHANT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Songhai_MuslimCavalry/U_Songhai_MuslimCavalry.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_SONGHAI_MUSLIMCAVALRY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Warrior/Warrior.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_WARRIOR",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Assets/Units/Workboat/Workboat.fxsxml",
+        "Scale": 0.07000000029802322,
+        "Type": "ART_DEF_UNIT_MEMBER_WORKBOAT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Barbarian/Barbarian_EURO/Barbarian_EURO_Alpha.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_BARBARIAN_EURO_ALPHA",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Barbarian/Barbarian_EURO/Barbarian_EURO_Bravo.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_BARBARIAN_EURO_BRAVO",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Barbarian/Barbarian_EURO/Barbarian_EURO_Charlie.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_BARBARIAN_EURO_CHARLIE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Assets/Units/Galley/Galley.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_GALLEY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Assets/Units/Barbarian_Galley/Barbarian_Galley.fxsxml",
+        "Scale": 0.09000000357627869,
+        "Type": "ART_DEF_UNIT_MEMBER_BARBARIAN_GALLEY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Worker/Worker_EURO/Worker_EURO.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_WORKER_EURO",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Worker/Worker_EURO/Worker_EURO_Modern.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_WORKER_EURO_LATE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/Transport/Transport.fxsxml",
+        "Scale": 0.10999999940395355,
+        "Type": "ART_DEF_UNIT_MEMBER_TRANSPORT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "",
+        "Model": "Assets/Units/Galleon/Galleon.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GALLEON",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/GreatPeople/Engineer/Early/GreatEngineer_Early.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATENGINEER_EARLY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/GreatPeople/General/Early/GreatGeneral_Early.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATGENERAL_EARLY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/GreatPeople/Scientist/Early/GreatScientist_Early.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATSCIENTIST_EARLY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_Euro/EuroDonkey.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_EURODONKEY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_Euro/EuroFemale18.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_EUROFEMALE18",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_Euro/EuroFemale25.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_EUROFEMALE25",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_Euro/EuroFemale35.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_EUROFEMALE35",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_Euro/EuroFemale40.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_EUROFEMALE40",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_Euro/EuroMale20.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_EUROMALE20",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_Euro/EuroMale25.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_EUROMALE25",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_Euro/EuroMale35.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_EUROMALE35",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_Euro/EuroMale45.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_EUROMALE45",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AMER/SettlerAmerican_M1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AMERMALE1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AMER/SettlerAmerican_Llama.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AMERLLAMA",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AMER/SettlerAmerican_F1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AMERFEMALE1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AMER/SettlerAmerican_F2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AMERFEMALE2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AMER/SettlerAmerican_F3.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AMERFEMALE3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AMER/SettlerAmerican_F4.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AMERFEMALE4",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AMER/SettlerAmerican_M2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AMERMALE2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AMER/SettlerAmerican_M3.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AMERMALE3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AMER/SettlerAmerican_M4.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AMERMALE4",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AFRI/Settlers_AFRI_M1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AFRIMALE1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AFRI/Settlers_AFRI_Camel.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AFRICAMEL",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AFRI/Settlers_AFRI_F1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AFRIFEMALE1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AFRI/Settlers_AFRI_F2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AFRIFEMALE2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AFRI/Settlers_AFRI_F3.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AFRIFEMALE3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AFRI/Settlers_AFRI_F4.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AFRIFEMALE4",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AFRI/Settlers_AFRI_M2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AFRIMALE2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AFRI/Settlers_AFRI_M3.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AFRIMALE3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_AFRI/Settlers_AFRI_M4.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_AFRIMALE4",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Warrior/Warrior_V2.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_WARRIOR_V2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Warrior/Warrior_V4.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_WARRIOR_V4",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Archer/Archer_V2.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_ARCHER_V2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Archer/Archer_V3.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_ARCHER_V3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "",
+        "MaterialTypeTag": "",
+        "Model": "Assets/Units/D:/projects/main/Civ5/Game/assets/Units/SpaceshipParts/SS_Booster.fxsxml",
+        "Scale": 0.10000000149011612,
+        "Type": "ART_DEF_UNIT_MEMBER_SS_BOOSTER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "",
+        "MaterialTypeTag": "",
+        "Model": "Assets/Units/D:/projects/main/Civ5/Game/assets/Units/SpaceshipParts/SS_Capsule.fxsxml",
+        "Scale": 0.10000000149011612,
+        "Type": "ART_DEF_UNIT_MEMBER_SS_CAPSULE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "",
+        "MaterialTypeTag": "",
+        "Model": "Assets/Units/D:/projects/main/Civ5/Game/assets/Units/SpaceshipParts/SS_Engine.fxsxml",
+        "Scale": 0.10000000149011612,
+        "Type": "ART_DEF_UNIT_MEMBER_SS_ENGINE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "",
+        "MaterialTypeTag": "",
+        "Model": "Assets/Units/D:/projects/main/Civ5/Game/assets/Units/SpaceshipParts/SS_Stasis_Chamber.fxsxml",
+        "Scale": 0.10000000149011612,
+        "Type": "ART_DEF_UNIT_MEMBER_SS_STASIS_CHAMBER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/Swordsman/Swordsman_V2.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_SWORDSMAN_V2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/Swordsman/Swordsman_V3.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_SWORDSMAN_V3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/Spearman/Spearman_V2.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_SPEARMAN_V2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/Spearman/Spearman_V3.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_SPEARMAN_V3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "",
+        "Model": "Assets/Units/GreatPeople/Artist/Early/GreatArtist_Early_Flute.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATARTIST_EARLY_FLUTE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "",
+        "Model": "Assets/Units/GreatPeople/Artist/Early/GreatArtist_Early_Tambourine.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATARTIST_EARLY_TAMBOURINE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "",
+        "Model": "Assets/Units/GreatPeople/Artist/Early/GreatArtist_Early_Flagbearer.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATARTIST_EARLY_FLAGBEARER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "",
+        "Model": "Assets/Units/GreatPeople/Artist/Early/GreatArtist_Early_Bagpiper.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATARTIST_EARLY_BAGPIPER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "",
+        "Model": "Assets/Units/GreatPeople/Artist/Early/GreatArtist_Early_Bigdrummer.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATARTIST_EARLY_BIGDRUMMER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "",
+        "Model": "Assets/Units/GreatPeople/Artist/Early/GreatArtist_Early_Drummer.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATARTIST_EARLY_DRUMMER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/GreatPeople/Merchant/Early/GreatMerchant_Early_Leader.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATMERCHANT_EARLY_LEADER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/GreatPeople/Merchant/Early/GreatMerchant_Early_Camel_V1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATMERCHANT_EARLY_CAMEL_V1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/GreatPeople/Merchant/Early/GreatMerchant_Early_Camel_V2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATMERCHANT_EARLY_CAMEL_V2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Archer/Barbarian_Archer_01.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_BARBARIAN_ARCHER_01",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Archer/Barbarian_Archer_V2.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_BARBARIAN_ARCHER_V2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Archer/Barbarian_Archer_V3.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_BARBARIAN_ARCHER_V3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Spearman/Barbarian_Spearman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_BARBARIAN_SPEARMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Spearman/Barbarian_Spearman_V2.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_BARBARIAN_SPEARMAN_V2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Spearman/Barbarian_Spearman_V3.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_BARBARIAN_SPEARMAN_V3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/Swordsman/Barbarian_Swordsman.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_BARBARIAN_SWORDSMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/Swordsman/Barbarian_Swordsman_V2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_BARBARIAN_SWORDSMAN_V2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "Assets/Units/Swordsman/Barbarian_Swordsman_V3.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_BARBARIAN_SWORDSMAN_V3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Russian_Cossack/U_Russian_Cossack_V2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_RUSSIAN_COSSACK_V2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_Russian_Cossack/U_Russian_Cossack_V3.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_RUSSIAN_COSSACK_V3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_ASIA/Settlers_Asian_Ox.fxsxml",
+        "Scale": 0.07999999821186066,
+        "Type": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_OX",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_ASIA/Settlers_Asian_F1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_F1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_ASIA/Settlers_Asian_F2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_F2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_ASIA/Settlers_Asian_F3.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_F3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_ASIA/Settlers_Asian_F4.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_F4",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_ASIA/Settlers_Asian_M1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_M1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_ASIA/Settlers_Asian_M2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_M2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_ASIA/Settlers_Asian_M3.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_M3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Settler/Settler_ASIA/Settlers_Asian_M4.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_M4",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/GreatPeople/Artist/Late/GreatArtist_Late.fxsxml",
+        "Scale": 0.10000000149011612,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATARTIST_LATE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/GreatPeople/Engineer/Late/GreatEngineer_Late.fxsxml",
+        "Scale": 0.09000000357627869,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATENGINEER_LATE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/GreatPeople/General/Late/GreatGeneral_Late.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATGENERAL_LATE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/GreatPeople/Merchant/Late/GreatMerchant_Late.fxsxml",
+        "Scale": 0.10999999940395355,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATMERCHANT_LATE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/GreatPeople/Scientist/Late/GreatScientist_Late.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATSCIENTIST_LATE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Assets/Units/Workboat/WorkBoat_Industrial.fxsxml",
+        "Scale": 0.07000000029802322,
+        "Type": "ART_DEF_UNIT_MEMBER_WORKBOAT_INDUSTRIAL",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "GreatGeneral_Early_Khan.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREATGENERAL_KHAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Mongolian_Keshik.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_MONGOLIAN_KESHIK",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "U_Spanish_Conquistador.fxsxml",
+        "Scale": 0.12999999523162842,
+        "Type": "ART_DEF_UNIT_MEMBER_U_SPANISH_CONQUISTADOR",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Incan_Slinger.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_INCAN_SLINGER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "",
+        "Model": "U_Spanish_Galleon.fxsxml",
+        "Scale": 0.15000000596046448,
+        "Type": "ART_DEF_UNIT_MEMBER_U_SPANISH_GALLEON",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "U_Spanish_Terico_Arcabucero.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_SPANISH_TERCIO_ARCABUCERO",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "U_Spanish_Terico_Piquero.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_SPANISH_TERCIO_PIQUERO",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Spanish_Treasure_Cart.fxsxml",
+        "Scale": 0.06300000101327896,
+        "Type": "ART_DEF_UNIT_MEMBER_U_SPANISH_TREASURE_CART",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Privateer.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_PRIVATEER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "U_Polynesian_War_Canoe.fxsxml",
+        "Scale": 0.07000000029802322,
+        "Type": "ART_DEF_UNIT_MEMBER_U_POLYNESIAN_WAR_CANOE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Polynesian_Maori_Warrior.fxsxml",
+        "Scale": 0.12999999523162842,
+        "Type": "ART_DEF_UNIT_MEMBER_U_POLYNESIAN_MAORI_WARRIOR",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Denmark_Berserker.fxsxml",
+        "Scale": 0.1599999964237213,
+        "Type": "ART_DEF_UNIT_MEMBER_U_DANISH_BERSERKER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Denmark_Ski_Infantry.fxsxml",
+        "Scale": 0.12999999523162842,
+        "Type": "ART_DEF_UNIT_MEMBER_U_DANISH_SKY_INFANTRY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "U_Denmark_Longboat.fxsxml",
+        "Scale": 0.10000000149011612,
+        "Type": "ART_DEF_UNIT_MEMBER_U_DANISH_LONGBOAT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "U_Saxon_Huscarl.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_SAXON_HUSCARL",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "WOODMED",
+        "MaterialTypeTag": "WOOD",
+        "Model": "U_Korean_Hwacha.fxsxml",
+        "Scale": 0.12999999523162842,
+        "Type": "ART_DEF_UNIT_MEMBER_U_KOREAN_HWACHA",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "U_Korean_Turtle_Ship.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_KOREAN_TURTLESHIP",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "WOODSM",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Hititte_War_Chariot.fxsxml",
+        "Scale": 0.14499999582767487,
+        "Type": "ART_DEF_UNIT_MEMBER_U_HITTITE_WARCHARIOT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Sumerian_Phalanx.fxsxml",
+        "Scale": 0.12999999523162842,
+        "Type": "ART_DEF_UNIT_MEMBER_U_SUMERIAN_PHALANX",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Mayan_Atlalist.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_MAYAN_ATLALIST",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "U_Dutch_Sea_Beggar.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_DUTCH_SEA_BEGGARS",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Babylonian_Bowman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_BABYLONIAN_BOWMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Austrian_Hussar.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_AUSTRIAN_HUSSAR",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "U_Byzantium_Cataphract.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_BYZANTIUM_CATAPHRACT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "U_Byzantium_Dromon.fxsxml",
+        "Scale": 0.1599999964237213,
+        "Type": "ART_DEF_UNIT_MEMBER_U_BYZANTIUM_DROMON",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Carthage_AfricanForest_Elephant.fxsxml",
+        "Scale": 0.12999999523162842,
+        "Type": "ART_DEF_UNIT_MEMBER_U_CARTHAGE_AFRICANFOREST_ELEPHANT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "U_Carthage_Quinquereme.fxsxml",
+        "Scale": 0.07500000298023224,
+        "Type": "ART_DEF_UNIT_MEMBER_U_CARTHAGE_QUINQUEREME",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Celt_PictishWarrior.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_CELT_PICTISH_WARRIOR",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Ethiopian_Mehal_Sefari.fxsxml",
+        "Scale": 0.12999999523162842,
+        "Type": "ART_DEF_UNIT_MEMBER_U_ETHIOPIA_MEHAL_SEFARI",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Galleass.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_GALLEASS",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Prophet.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_PROPHET",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Prophet_F1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_PROPHET_MALE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Prophet_F2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_PROPHET_FEMALE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Inquisitor.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_INQUISITOR",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Inquisitor_01.fxsxml",
+        "Scale": 0.125,
+        "Type": "ART_DEF_UNIT_MEMBER_INQUISITOR_01",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Inquisitor_02.fxsxml",
+        "Scale": 0.12999999523162842,
+        "Type": "ART_DEF_UNIT_MEMBER_INQUISITOR_02",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Missionary.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_MISSIONARY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Missionary_01.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_MISSIONARY_01",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Missionary_02.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_MISSIONARY_02",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Great_Admiral_Early.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_ADMIRAL",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Great_Admiral_Late.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_ADMIRAL_LATE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "XP_Privateer.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_XP_PRIVATEER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "U_Huns_Battering_Ram.fxsxml",
+        "Scale": 0.11500000208616257,
+        "Type": "ART_DEF_UNIT_MEMBER_U_HUNS_BATTERING_RAM",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Huns_HorseArcher.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_HUNS_HORSE_ARCHER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Marine.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_MARINE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Composite_Bowman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_COMPOSITE_BOWMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "WW1_Machinegun.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_MACHINEGUN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Swedish_Carolean.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_SWEDISH_CAROLEAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "U_Swedish_Hakkapelitta.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_SWEDISH_HAKKAPELITTA",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Air",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "WW1_Bomber.fxsxml",
+        "Scale": 0.07999999821186066,
+        "Type": "ART_DEF_UNIT_MEMBER_WW1_BOMBER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Air",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "WW1_Fighter.fxsxml",
+        "Scale": 0.09000000357627869,
+        "Type": "ART_DEF_UNIT_MEMBER_WW1_FIGHTER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "WW1_Infantry.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_WW1_INFANTRY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "WW1_Tank.fxsxml",
+        "Scale": 0.10999999940395355,
+        "Type": "ART_DEF_UNIT_MEMBER_WW1_TANK",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "WW2_Infantry.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_WW2_INFANTRY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "Gatling_Gun.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GATLINGGUN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "WOODSM",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Confederate_Artillery_Napoleon.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_CONFEDERATE_ARTILLERY_NAPOLEON",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "WOODSM",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Confederate_Artillery_Parrott.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_CONFEDERATE_ARTILLERY_PARROTT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Confederate_Ironclad.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_CONFEDERATE_IRONCLAD",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Confederate_Rifleman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Confederate_Cavalry_Carbine.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_CONFEDERATE_CAVALRY_CARBINE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Confederate_Cavalry_Pistol.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_CONFEDERATE_CAVALRY_PISTOL",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "WOODSM",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Union_Artillery_Napoleon.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_UNION_ARTILLERY_NAPOLEON",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "WOODSM",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Union_Artillery_Parrott.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_UNION_ARTILLERY_PARROTT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Union_Ironclad.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_UNION_IRONCLAD",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Union_Rifleman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_UNION_RIFLEMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Union_Cavalry_Carbine.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_UNION_CAVALRY_CARBINE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Union_Cavalry_Pistol.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_UNION_CAVALRY_PISTOL",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "Smokey_Landship_Level3.fxsxml",
+        "Scale": 0.20000000298023224,
+        "Type": "ART_DEF_UNIT_MEMBER_SMOKEY_LANDSHIP_LEVEL_3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "Smokey_Landship_Level2.fxsxml",
+        "Scale": 0.15000000596046448,
+        "Type": "ART_DEF_UNIT_MEMBER_SMOKEY_LANDSHIP_LEVEL_2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALSM",
+        "MaterialTypeTag": "METAL",
+        "Model": "Smokey_Landship_Level1.fxsxml",
+        "Scale": 0.1599999964237213,
+        "Type": "ART_DEF_UNIT_MEMBER_SMOKEY_LANDSHIP_LEVEL_1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Air",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Steam_Fighter.fxsxml",
+        "Scale": 0.09000000357627869,
+        "Type": "ART_DEF_UNIT_MEMBER_SMOKEY_STEAM_FIGHTER",
+        "ZOffset": 10.0
+    },
+    {
+        "Domain": "Hover",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Steam_Airship.fxsxml",
+        "Scale": 0.20999999344348907,
+        "Type": "ART_DEF_UNIT_MEMBER_SMOKEY_BLIMP",
+        "ZOffset": 10.0
+    },
+    {
+        "Domain": "Hover",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Steam_Airship_Level1.fxsxml",
+        "Scale": 0.20999999344348907,
+        "Type": "ART_DEF_UNIT_MEMBER_SMOKEY_AIRSHIP_LEVEL_1",
+        "ZOffset": 12.0
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Gadrauhts_Swordsman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_GADRAUHTS_SWORDSMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Confederate_Rifleman_V1.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN_V1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Confederate_Rifleman_V2.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN_V2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Caravan_Early.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_CARAVAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Caravan_Early_F1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_CARAVAN_F1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Caravan_Early_F2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_CARAVAN_F2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Caravan_Late.fxsxml",
+        "Scale": 0.03999999910593033,
+        "Type": "ART_DEF_UNIT_MEMBER_CARAVAN_LATE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Caravan_Late_F1.fxsxml",
+        "Scale": 0.03999999910593033,
+        "Type": "ART_DEF_UNIT_MEMBER_CARAVAN_LATE_F1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Caravan_Late_F2.fxsxml",
+        "Scale": 0.03999999910593033,
+        "Type": "ART_DEF_UNIT_MEMBER_CARAVAN_LATE_F2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Cargo_Ship_Early.fxsxml",
+        "Scale": 0.1599999964237213,
+        "Type": "ART_DEF_UNIT_MEMBER_CARGO_SHIP",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Cargo_Ship_Middle.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_CARGO_SHIP_MID",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "Cargo_Ship_Late.fxsxml",
+        "Scale": 0.07999999821186066,
+        "Type": "ART_DEF_UNIT_MEMBER_CARGO_SHIP_LATE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Explorer.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_EXPLORER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Explorer_F1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_EXPLORER_F1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Explorer_F2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_EXPLORER_F2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Archeologist.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_ARCHAEOLOGIST",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Archeologist_F1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_ARCHAEOLOGIST_F1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Archeologist_F2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_ARCHAEOLOGIST_F2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Bazooka_Infantry.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_BAZOOKA_INFANTRY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Writer_Early.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_WRITER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Writer_Early_F1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_WRITER_F1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Writer_Early_F2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_WRITER_F2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Writer_Late.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_WRITER_LATE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Writer_Late_F1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_WRITER_LATE_F1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Writer_Late_F2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_WRITER_LATE_F2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Artist_Early.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_ARTIST",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Artist_Early_F1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_ARTIST_F1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Artist_Early_F2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_ARTIST_F2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Artist_Late.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_ARTIST_LATE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Artist_Late_F1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_ARTIST_LATE_F1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Artist_Late_F2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_ARTIST_LATE_F2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Musician_Early.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Musician_Early_F1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN_F1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Musician_Early_F2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN_F2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Musician_Late.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN_LATE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Musician_Late_F1.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN_LATE_F1",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Great_Musician_Late_F2.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN_LATE_F2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Hand_Axe_Barbarian.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_HAND_AXE_BARBARIAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "WOODMED",
+        "MaterialTypeTag": "WOOD",
+        "Model": "U_Assyrian_Siege_Tower.fxsxml",
+        "Scale": 0.10000000149011612,
+        "Type": "ART_DEF_UNIT_MEMBER_U_ASSYRIAN_SIEGE_TOWER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Brazil_Pracinhas.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_BRAZILIAN_PRACINHAS",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Indonesian_Kris_Swordsman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_INDONESIAN_KRIS_SWORDSMAN",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Morocco_Berber.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_MORROCAN_BERBER_CAVALRY",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "ARMOR",
+        "MaterialTypeTag": "ARMOR",
+        "Model": "U_Polish_Winged_Hussar.fxsxml",
+        "Scale": 0.12999999523162842,
+        "Type": "ART_DEF_UNIT_MEMBER_U_POLISH_WINGED_HUSSAR",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "U_Portugal_Carrack.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_PORTUGUESE_CARRACK",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Shosone_Pathfinder.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_SHOSHONE_PATHFINDER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Shosone_Comanche_Rider.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_SHOSHONE_COMANCHE_RIDERS",
+        "ZOffset": null
+    },
+    {
+        "Domain": "Sea",
+        "MaterialTypeSoundOverrideTag": "WOODLRG",
+        "MaterialTypeTag": "WOOD",
+        "Model": "U_Venetian_Galleass.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_VENETIAN_GALLEASS",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Venice_Merchant_of_Venice.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_U_VENETIAN_MERCHANT",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "METALLRG",
+        "MaterialTypeTag": "METAL",
+        "Model": "Heavy_Infantry_XCOM.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_XCOM_SQUAD",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Zulu_Warrior_V1.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_ZULU_IMPI_WARRIOR",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Zulu_Warrior_V2.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_ZULU_IMPI_WARRIOR_V2",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "U_Zulu_Warrior_V3.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_U_ZULU_IMPI_WARRIOR_V3",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Civil_War_Engineer.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_MILITARY_ENGINEER",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "CW_Great_General_Confederate.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_CONFEDERATE_GREAT_GENERAL",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "CW_Great_General_Union.fxsxml",
+        "Scale": 0.11999999731779099,
+        "Type": "ART_DEF_UNIT_MEMBER_UNION_GREAT_GENERAL",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/U_French_ForeignLegion/U_French_ForeignLegion.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_SCRAMBLE_FORCE_PUBLIQUE",
+        "ZOffset": null
+    },
+    {
+        "Domain": "",
+        "MaterialTypeSoundOverrideTag": "FLESH",
+        "MaterialTypeTag": "CLOTH",
+        "Model": "Assets/Units/Rifleman/Rifleman.fxsxml",
+        "Scale": 0.14000000059604645,
+        "Type": "ART_DEF_UNIT_MEMBER_SCRAMBLE_FOREIGN_VOLUNTEERS",
+        "ZOffset": null
+    }
+]

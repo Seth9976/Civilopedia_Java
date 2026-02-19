@@ -1,0 +1,32 @@
+[
+    {
+        "BuildOnlyWithUnit": 0,
+        "BuildWithUnitChargeCost": 1,
+        "PrereqTech": null,
+        "RouteType": "ROUTE_ANCIENT_ROAD"
+    },
+    {
+        "BuildOnlyWithUnit": 0,
+        "BuildWithUnitChargeCost": 1,
+        "PrereqTech": null,
+        "RouteType": "ROUTE_MEDIEVAL_ROAD"
+    },
+    {
+        "BuildOnlyWithUnit": 0,
+        "BuildWithUnitChargeCost": 1,
+        "PrereqTech": null,
+        "RouteType": "ROUTE_INDUSTRIAL_ROAD"
+    },
+    {
+        "BuildOnlyWithUnit": 0,
+        "BuildWithUnitChargeCost": 1,
+        "PrereqTech": null,
+        "RouteType": "ROUTE_MODERN_ROAD"
+    },
+    {
+        "BuildOnlyWithUnit": 1,
+        "BuildWithUnitChargeCost": 0,
+        "PrereqTech": "TECH_STEAM_POWER",
+        "RouteType": "ROUTE_RAILROAD"
+    }
+]

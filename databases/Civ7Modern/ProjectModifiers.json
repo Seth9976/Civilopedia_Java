@@ -1,0 +1,34 @@
+[
+    {
+        "ModifierId": "FORT_HEALING_FROM_PROJECT",
+        "ProjectType": "PROJECT_TOWN_FORT"
+    },
+    {
+        "ModifierId": "URBAN_YIELDS_FROM_PROJECT",
+        "ProjectType": "PROJECT_TOWN_URBAN_CENTER"
+    },
+    {
+        "ModifierId": "RESORT_BONUSES_FROM_PROJECT",
+        "ProjectType": "PROJECT_TOWN_RESORT"
+    },
+    {
+        "ModifierId": "GRANARY_WAREHOUSE_FROM_PROJECT",
+        "ProjectType": "PROJECT_TOWN_GRANARY"
+    },
+    {
+        "ModifierId": "FISHING_WAREHOUSE_FROM_PROJECT",
+        "ProjectType": "PROJECT_TOWN_FISHING"
+    },
+    {
+        "ModifierId": "PRODUCTION_WAREHOUSE_FROM_PROJECT",
+        "ProjectType": "PROJECT_TOWN_PRODUCTION"
+    },
+    {
+        "ModifierId": "FACTORY_MODS_FROM_PROJECT",
+        "ProjectType": "PROJECT_TOWN_FACTORY"
+    },
+    {
+        "ModifierId": "INFLUENCE_ON_INNS_IN_CITY_FROM_PROJECT",
+        "ProjectType": "PROJECT_TOWN_INN"
+    }
+]

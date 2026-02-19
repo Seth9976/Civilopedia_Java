@@ -1,0 +1,332 @@
+[
+    {
+        "Description": "LOC_LEADER_RANDOM_DESCRIPTION",
+        "Domain": "StandardLeaders",
+        "Icon": "LEADER_RANDOM",
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_LEADER_RANDOM_NAME",
+        "SortIndex": -1000,
+        "Value": "RANDOM"
+    },
+    {
+        "Description": "LOC_TURNLIMIT_NONE_DESCRIPTION",
+        "Domain": "StandardTurnLimits",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_TURNLIMIT_NONE_NAME",
+        "SortIndex": 10,
+        "Value": "TURNLIMIT_NONE"
+    },
+    {
+        "Description": "LOC_TURNLIMIT_GAMESPEED_DESCRIPTION",
+        "Domain": "StandardTurnLimits",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_TURNLIMIT_GAMESPEED_NAME",
+        "SortIndex": 20,
+        "Value": "TURNLIMIT_GAMESPEED"
+    },
+    {
+        "Description": "LOC_TURNLIMIT_CUSTOM_DESCRIPTION",
+        "Domain": "StandardTurnLimits",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_TURNLIMIT_CUSTOM_NAME",
+        "SortIndex": 30,
+        "Value": "TURNLIMIT_CUSTOM"
+    },
+    {
+        "Description": null,
+        "Domain": "StandardCalendars",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "Standard Calendar",
+        "SortIndex": 1,
+        "Value": "CALENDAR_STANDARD"
+    },
+    {
+        "Description": "LOC_ADVANCED_OPTIONS_ABBREVIATED_DESC",
+        "Domain": "StandardAgeLengths",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_ADVANCED_OPTIONS_ABBREVIATED",
+        "SortIndex": 10,
+        "Value": "AGE_LENGTH_ABBREVIATED"
+    },
+    {
+        "Description": "LOC_ADVANCED_OPTIONS_STANDARD_DESC",
+        "Domain": "StandardAgeLengths",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_ADVANCED_OPTIONS_STANDARD",
+        "SortIndex": 20,
+        "Value": "AGE_LENGTH_STANDARD"
+    },
+    {
+        "Description": "LOC_ADVANCED_OPTIONS_LONG_DESC",
+        "Domain": "StandardAgeLengths",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_ADVANCED_OPTIONS_LONG",
+        "SortIndex": 30,
+        "Value": "AGE_LENGTH_LONG"
+    },
+    {
+        "Description": null,
+        "Domain": "AgeCountdownLengths",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_ADVANCED_OPTIONS_COUNTDOWN_NONE",
+        "SortIndex": 10,
+        "Value": "AGE_COUNTDOWN_LENGTH_NONE"
+    },
+    {
+        "Description": null,
+        "Domain": "AgeCountdownLengths",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_ADVANCED_OPTIONS_COUNTDOWN_STANDARD",
+        "SortIndex": 20,
+        "Value": "AGE_COUNTDOWN_LENGTH_STANDARD"
+    },
+    {
+        "Description": null,
+        "Domain": "AgeCountdownLengths",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_ADVANCED_OPTIONS_COUNTDOWN_LONG",
+        "SortIndex": 30,
+        "Value": "AGE_COUNTDOWN_LENGTH_LONG"
+    },
+    {
+        "Description": null,
+        "Domain": "StandardDisasterIntensities",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_ADVANCED_OPTIONS_LIGHT",
+        "SortIndex": 10,
+        "Value": "REALISM_SETTING_LIGHT"
+    },
+    {
+        "Description": null,
+        "Domain": "StandardDisasterIntensities",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_ADVANCED_OPTIONS_MODERATE",
+        "SortIndex": 20,
+        "Value": "REALISM_SETTING_MODERATE"
+    },
+    {
+        "Description": null,
+        "Domain": "StandardDisasterIntensities",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_ADVANCED_OPTIONS_CATASTROPHIC",
+        "SortIndex": 30,
+        "Value": "REALISM_SETTING_HEAVY"
+    },
+    {
+        "Description": "LOC_INDEPENDENT_HOSTILITY_FRIENDLY_DESCRIPTION",
+        "Domain": "StandardIndependentHostilities",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_INDEPENDENT_HOSTILITY_FRIENDLY",
+        "SortIndex": 10,
+        "Value": "INDEPENDENT_HOSTILITY_FRIENDLY"
+    },
+    {
+        "Description": "LOC_INDEPENDENT_HOSTILITY_DEFAULT_DESCRIPTION",
+        "Domain": "StandardIndependentHostilities",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_INDEPENDENT_HOSTILITY_DEFAULT",
+        "SortIndex": 20,
+        "Value": "INDEPENDENT_HOSTILITY_DEFAULT"
+    },
+    {
+        "Description": "LOC_INDEPENDENT_HOSTILITY_HOSTILE_DESCRIPTION",
+        "Domain": "StandardIndependentHostilities",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_INDEPENDENT_HOSTILITY_HOSTILE",
+        "SortIndex": 30,
+        "Value": "INDEPENDENT_HOSTILITY_HOSTILE"
+    },
+    {
+        "Description": "LOC_MAP_START_POSITION_BALANCED_DESCRIPTION",
+        "Domain": "StandardMapStartPositions",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_MAP_START_POSITION_BALANCED_NAME",
+        "SortIndex": 10,
+        "Value": "START_POSITION_BALANCED"
+    },
+    {
+        "Description": "LOC_MAP_START_POSITION_STANDARD_DESCRIPTION",
+        "Domain": "StandardMapStartPositions",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_MAP_START_POSITION_STANDARD_NAME",
+        "SortIndex": 20,
+        "Value": "START_POSITION_STANDARD"
+    },
+    {
+        "Description": "LOC_AGE_TRANSITION_SETTING_KEEP_MORE_DESCRIPTION",
+        "Domain": "AgeTransitionSettings",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_AGE_TRANSITION_SETTING_KEEP_MORE_NAME",
+        "SortIndex": 1,
+        "Value": "AGE_TRANSITION_SETTING_KEEP_MORE"
+    },
+    {
+        "Description": "LOC_AGE_TRANSITION_SETTING_ORIGINAL_DESCRIPTION",
+        "Domain": "AgeTransitionSettings",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_AGE_TRANSITION_SETTING_ORIGINAL_NAME",
+        "SortIndex": 2,
+        "Value": "AGE_TRANSITION_SETTING_ORIGINAL"
+    },
+    {
+        "Description": "LOC_DIFFICULTY_SETTLER_DESCRIPTION",
+        "Domain": "StandardDifficultiesNoCustom",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_DIFFICULTY_SETTLER_NAME",
+        "SortIndex": 10,
+        "Value": "DIFFICULTY_SETTLER"
+    },
+    {
+        "Description": "LOC_DIFFICULTY_PRINCE_DESCRIPTION",
+        "Domain": "StandardDifficultiesNoCustom",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_DIFFICULTY_PRINCE_NAME",
+        "SortIndex": 20,
+        "Value": "DIFFICULTY_PRINCE"
+    },
+    {
+        "Description": "LOC_DIFFICULTY_KING_DESCRIPTION",
+        "Domain": "StandardDifficultiesNoCustom",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_DIFFICULTY_KING_NAME",
+        "SortIndex": 30,
+        "Value": "DIFFICULTY_KING"
+    },
+    {
+        "Description": "LOC_DIFFICULTY_EMPEROR_DESCRIPTION",
+        "Domain": "StandardDifficultiesNoCustom",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_DIFFICULTY_EMPEROR_NAME",
+        "SortIndex": 40,
+        "Value": "DIFFICULTY_EMPEROR"
+    },
+    {
+        "Description": "LOC_DIFFICULTY_IMMORTAL_DESCRIPTION",
+        "Domain": "StandardDifficultiesNoCustom",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_DIFFICULTY_IMMORTAL_NAME",
+        "SortIndex": 50,
+        "Value": "DIFFICULTY_IMMORTAL"
+    },
+    {
+        "Description": "LOC_DIFFICULTY_DEITY_DESCRIPTION",
+        "Domain": "StandardDifficultiesNoCustom",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_DIFFICULTY_DEITY_NAME",
+        "SortIndex": 60,
+        "Value": "DIFFICULTY_DEITY"
+    },
+    {
+        "Description": "LOC_MEMENTO_NONE_DESCRIPTION",
+        "Domain": "StandardMementos",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_MEMENTO_NONE_NAME",
+        "SortIndex": -1000,
+        "Value": "NONE"
+    },
+    {
+        "Description": null,
+        "Domain": "StandardMementoSlots",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_MEMENTO_NONE_NAME",
+        "SortIndex": -1000,
+        "Value": "NONE"
+    },
+    {
+        "Description": "LOC_CIVILIZATION_RANDOM_DESCRIPTION",
+        "Domain": "AntiquityAgeCivilizations",
+        "Icon": "civ_sym_unknown.png",
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_CIVILIZATION_RANDOM_NAME",
+        "SortIndex": -1000,
+        "Value": "RANDOM"
+    },
+    {
+        "Description": "LOC_CIVILIZATION_RANDOM_DESCRIPTION",
+        "Domain": "ExplorationAgeCivilizations",
+        "Icon": "civ_sym_unknown.png",
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_CIVILIZATION_RANDOM_NAME",
+        "SortIndex": -1000,
+        "Value": "RANDOM"
+    },
+    {
+        "Description": "LOC_CIVILIZATION_RANDOM_DESCRIPTION",
+        "Domain": "ModernAgeCivilizations",
+        "Icon": "civ_sym_unknown.png",
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_CIVILIZATION_RANDOM_NAME",
+        "SortIndex": -1000,
+        "Value": "RANDOM"
+    },
+    {
+        "Description": "LOC_MEMENTO_NONE_DESCRIPTION",
+        "Domain": "StandardMementos",
+        "Icon": null,
+        "Key1": null,
+        "Key2": null,
+        "Name": "LOC_MEMENTO_NONE_NAME",
+        "SortIndex": -1000,
+        "Value": "NONE"
+    }
+]

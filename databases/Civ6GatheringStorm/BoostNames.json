@@ -1,0 +1,258 @@
+[
+    {
+        "BoostType": "BOOST_TRIGGER_MEET_CIV",
+        "BoostValue": 0
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_ENCOUNTER_UNIT",
+        "BoostValue": 1
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_TRAIN_UNIT",
+        "BoostValue": 2
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_OWN_TWO_UNIT_TYPES",
+        "BoostValue": 3
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_CONSTRUCT_BUILDING",
+        "BoostValue": 4
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_KILL_WITH",
+        "BoostValue": 5
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_CLEAR_CAMP",
+        "BoostValue": 6
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_SETTLE_COAST",
+        "BoostValue": 7
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_FIND_NATURAL_WONDER",
+        "BoostValue": 8
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_OWN_X_UNITS_OF_TYPE",
+        "BoostValue": 9
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_RESEARCH_TECH",
+        "BoostValue": 10
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_IMPROVE_SPECIFIC_RESOURCE",
+        "BoostValue": 11
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_NUM_IMPROVED_TILES",
+        "BoostValue": 12
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_MEET_X_PERCENT_CIVS_HAVE_DISTRICT",
+        "BoostValue": 13
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_GOLD_PROFIT",
+        "BoostValue": 14
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_X_GOLD_HAVE_X_UNIT",
+        "BoostValue": 15
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_X_BUILDINGS",
+        "BoostValue": 16
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_PILLAGE",
+        "BoostValue": 17
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_REPAIR",
+        "BoostValue": 18
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_MAINTAIN_X_TRADE_ROUTES",
+        "BoostValue": 19
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_X_DISTRICTS",
+        "BoostValue": 20
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_X_IMPROVEMENTS",
+        "BoostValue": 21
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_NUM_CITIES",
+        "BoostValue": 22
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_LAND_UNIT_LEVEL",
+        "BoostValue": 23
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_NAVAL_UNIT_LEVEL",
+        "BoostValue": 24
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_CONQUER_CITY",
+        "BoostValue": 25
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_X_POLICY_SLOTS",
+        "BoostValue": 26
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_RECEIVE_DOW",
+        "BoostValue": 27
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_X_LAND_UNITS",
+        "BoostValue": 28
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_EMPIRE_POPULATION",
+        "BoostValue": 29
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_CITY_POPULATION",
+        "BoostValue": 30
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_X_WONDERS",
+        "BoostValue": 31
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_CREATE_PANTHEON",
+        "BoostValue": 32
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_X_UNIQUE_SPECIALTY_DISTRICTS",
+        "BoostValue": 33
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_DISCOVER_CONTINENT",
+        "BoostValue": 34
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_MEET_X_CITY_STATES",
+        "BoostValue": 35
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_FOUND_RELIGION",
+        "BoostValue": 36
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_NUM_BARBS_KILLED",
+        "BoostValue": 37
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_REQUIERMENTSET",
+        "BoostValue": 38
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_CULTURVATE_CIVIC",
+        "BoostValue": 39
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_POLICY_TYPE",
+        "BoostValue": 40
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_BUILDING_MOUNTAIN",
+        "BoostValue": 41
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_WONDER_PAST_X_ERA",
+        "BoostValue": 42
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_ARTIFACT_EXTRACTED",
+        "BoostValue": 43
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_AN_ALLIANCE",
+        "BoostValue": 44
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_X_CITIES_FOLLOWING_YOUR_RELIGION",
+        "BoostValue": 45
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_DISTRICT_APPEAL_LEVEL_MINIMUM_X",
+        "BoostValue": 46
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_X_CORPS",
+        "BoostValue": 47
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_NONE_LATE_GAME_CRITICAL_TECH",
+        "BoostValue": 48
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_KILL_SPECIFIC_UNIT",
+        "BoostValue": 49
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_RESEARCH_AGREEMENT",
+        "BoostValue": 50
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_CREATED_NATIONAL_PARK",
+        "BoostValue": 51
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_X_THEMED_BUILDINGS",
+        "BoostValue": 52
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_DOW_CASUS_BELLI",
+        "BoostValue": 53
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_AIRBASE_FOREIGN_CONTINENT",
+        "BoostValue": 54
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_X_GREAT_PEOPLE",
+        "BoostValue": 55
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_MAJORITY_RELIGION",
+        "BoostValue": 56
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_TURN_NUMBER",
+        "BoostValue": 57
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_REVEAL_X_OF_RESOURCE",
+        "BoostValue": 58
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_SUZERAIN_X_CITY_STATES",
+        "BoostValue": 59
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_UNIT_AND_IMPROVEMENT",
+        "BoostValue": 60
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_X_ARMIES",
+        "BoostValue": 61
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_ALLIANCE_LEVEL_X",
+        "BoostValue": 62
+    },
+    {
+        "BoostType": "BOOST_TRIGGER_HAVE_GOVERNMENT_TIER",
+        "BoostValue": 63
+    }
+]

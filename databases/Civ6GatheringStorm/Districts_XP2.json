@@ -1,0 +1,74 @@
+[
+    {
+        "AttackRange": 2,
+        "Canal": 0,
+        "DistrictType": "DISTRICT_IKANDA",
+        "OnePerRiver": 0,
+        "PreventsDrought": 0,
+        "PreventsFloods": 0
+    },
+    {
+        "AttackRange": 0,
+        "Canal": 0,
+        "DistrictType": "DISTRICT_AQUEDUCT",
+        "OnePerRiver": 0,
+        "PreventsDrought": 1,
+        "PreventsFloods": 0
+    },
+    {
+        "AttackRange": 0,
+        "Canal": 0,
+        "DistrictType": "DISTRICT_BATH",
+        "OnePerRiver": 0,
+        "PreventsDrought": 1,
+        "PreventsFloods": 0
+    },
+    {
+        "AttackRange": 0,
+        "Canal": 1,
+        "DistrictType": "DISTRICT_CANAL",
+        "OnePerRiver": 0,
+        "PreventsDrought": 0,
+        "PreventsFloods": 0
+    },
+    {
+        "AttackRange": 0,
+        "Canal": 0,
+        "DistrictType": "DISTRICT_DAM",
+        "OnePerRiver": 1,
+        "PreventsDrought": 1,
+        "PreventsFloods": 1
+    },
+    {
+        "AttackRange": 2,
+        "Canal": 0,
+        "DistrictType": "DISTRICT_CITY_CENTER",
+        "OnePerRiver": 0,
+        "PreventsDrought": 0,
+        "PreventsFloods": 0
+    },
+    {
+        "AttackRange": 2,
+        "Canal": 0,
+        "DistrictType": "DISTRICT_ENCAMPMENT",
+        "OnePerRiver": 0,
+        "PreventsDrought": 0,
+        "PreventsFloods": 0
+    },
+    {
+        "AttackRange": 2,
+        "Canal": 0,
+        "DistrictType": "DISTRICT_OPPIDUM",
+        "OnePerRiver": 0,
+        "PreventsDrought": 0,
+        "PreventsFloods": 0
+    },
+    {
+        "AttackRange": 2,
+        "Canal": 0,
+        "DistrictType": "DISTRICT_THANH",
+        "OnePerRiver": 0,
+        "PreventsDrought": 0,
+        "PreventsFloods": 0
+    }
+]

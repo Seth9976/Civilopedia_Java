@@ -1,0 +1,232 @@
+[
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 0.5,
+        "OperationName": "Attack Barb Camp",
+        "SafeRallyPoint": 0,
+        "TeamName": "Simple Early Attack Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 1.0,
+        "OperationName": "Barb Camp Tech Boost",
+        "SafeRallyPoint": 0,
+        "TeamName": "Simple Early Attack Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 1.5,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 3.0,
+        "OperationName": "Attack Enemy City",
+        "SafeRallyPoint": 0,
+        "TeamName": "Simple City Attack Force"
+    },
+    {
+        "Condition": "IsCoastalTarget",
+        "InitialStrengthAdvantage": -5.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 2.0,
+        "OperationName": "Attack Enemy City",
+        "SafeRallyPoint": 0,
+        "TeamName": "City Naval Attack Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.5,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 3.0,
+        "OperationName": "Wartime Attack Enemy City",
+        "SafeRallyPoint": 0,
+        "TeamName": "Simple City Attack Force"
+    },
+    {
+        "Condition": "IsCoastalTarget",
+        "InitialStrengthAdvantage": -5.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 2.0,
+        "OperationName": "Wartime Attack Enemy City",
+        "SafeRallyPoint": 0,
+        "TeamName": "City Naval Attack Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 2.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 4.0,
+        "OperationName": "Attack Walled City",
+        "SafeRallyPoint": 0,
+        "TeamName": "City Attack Force"
+    },
+    {
+        "Condition": "IsCoastalTarget",
+        "InitialStrengthAdvantage": -5.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 3.0,
+        "OperationName": "Attack Walled City",
+        "SafeRallyPoint": 0,
+        "TeamName": "City Naval Attack Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 1.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 6.0,
+        "OperationName": "Wartime Attack Walled City",
+        "SafeRallyPoint": 0,
+        "TeamName": "City Attack Force"
+    },
+    {
+        "Condition": "IsCoastalTarget",
+        "InitialStrengthAdvantage": -5.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 3.0,
+        "OperationName": "Wartime Attack Walled City",
+        "SafeRallyPoint": 0,
+        "TeamName": "City Naval Attack Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 0.5,
+        "OperationName": "Barbarian Builder Capture",
+        "SafeRallyPoint": 0,
+        "TeamName": "Barbarian Builder Capture"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 0.5,
+        "OperationName": "Civilian Builder Capture",
+        "SafeRallyPoint": 0,
+        "TeamName": "Civilian Builder Capture"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 1.0,
+        "OperationName": "Settle New City",
+        "SafeRallyPoint": 1,
+        "TeamName": "Settle City Team"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": -1.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 1.0,
+        "OperationName": "City Defense",
+        "SafeRallyPoint": 0,
+        "TeamName": "City Defense"
+    },
+    {
+        "Condition": "IsCoastalTarget",
+        "InitialStrengthAdvantage": -5.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 1.0,
+        "OperationName": "City Defense",
+        "SafeRallyPoint": 0,
+        "TeamName": "City Naval Defense"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": -1.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": -1.0,
+        "OperationName": "Barbarian Attack",
+        "SafeRallyPoint": 0,
+        "TeamName": "Barbarian Raid"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": -1.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": -1.0,
+        "OperationName": "Barbarian City Assault",
+        "SafeRallyPoint": 0,
+        "TeamName": "Barbarian Raid"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": -1.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 0.0,
+        "OperationName": "Nuclear Assault",
+        "SafeRallyPoint": 0,
+        "TeamName": "Nuclear Attack"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": -2.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 0.0,
+        "OperationName": "Aid Ally",
+        "SafeRallyPoint": 0,
+        "TeamName": "Aid Ally Attack Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 3.0,
+        "OperationName": "Naval Superiority",
+        "SafeRallyPoint": 0,
+        "TeamName": "Naval Superiority Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": -40.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 0.0,
+        "OperationName": "Free Cities Raid",
+        "SafeRallyPoint": 0,
+        "TeamName": "Free Cities Assault Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 1.0,
+        "OperationName": "Wartime Use Soothsayer",
+        "SafeRallyPoint": 1,
+        "TeamName": "Soothsayer Team"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 0.0,
+        "OperationName": "Soothsayer Scored Competition",
+        "SafeRallyPoint": 1,
+        "TeamName": "Soothsayer Competition Team"
+    }
+]

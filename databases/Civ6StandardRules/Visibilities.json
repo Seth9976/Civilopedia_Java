@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "LOC_VISIBILITY_NONE_NAME",
+        "RevealAgendas": 0,
+        "VisibilityType": "VISIBILITY_NONE"
+    },
+    {
+        "Name": "LOC_VISIBILITY_LIMITED_NAME",
+        "RevealAgendas": 0,
+        "VisibilityType": "VISIBILITY_LIMITED"
+    },
+    {
+        "Name": "LOC_VISIBILITY_FULL_NAME",
+        "RevealAgendas": 1,
+        "VisibilityType": "VISIBILITY_FULL"
+    },
+    {
+        "Name": "LOC_VISIBILITY_SECRET_NAME",
+        "RevealAgendas": 0,
+        "VisibilityType": "VISIBILITY_SECRET"
+    },
+    {
+        "Name": "LOC_VISIBILITY_TOP_SECRET_NAME",
+        "RevealAgendas": 0,
+        "VisibilityType": "VISIBILITY_TOP_SECRET"
+    }
+]

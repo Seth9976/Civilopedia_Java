@@ -1,0 +1,72 @@
+[
+    {
+        "Accumulate": 1,
+        "BaseExtractionRate": 0,
+        "CO2perkWh": 820,
+        "ImprovedExtractionRate": 3,
+        "ObsoleteTech": null,
+        "PowerProvided": 4,
+        "ResourceType": "RESOURCE_COAL",
+        "StockpileCap": 50
+    },
+    {
+        "Accumulate": 1,
+        "BaseExtractionRate": 0,
+        "CO2perkWh": 490,
+        "ImprovedExtractionRate": 3,
+        "ObsoleteTech": null,
+        "PowerProvided": 4,
+        "ResourceType": "RESOURCE_OIL",
+        "StockpileCap": 50
+    },
+    {
+        "Accumulate": 1,
+        "BaseExtractionRate": 0,
+        "CO2perkWh": 48,
+        "ImprovedExtractionRate": 3,
+        "ObsoleteTech": null,
+        "PowerProvided": 16,
+        "ResourceType": "RESOURCE_URANIUM",
+        "StockpileCap": 50
+    },
+    {
+        "Accumulate": 1,
+        "BaseExtractionRate": 0,
+        "CO2perkWh": 0,
+        "ImprovedExtractionRate": 2,
+        "ObsoleteTech": null,
+        "PowerProvided": 0,
+        "ResourceType": "RESOURCE_HORSES",
+        "StockpileCap": 50
+    },
+    {
+        "Accumulate": 1,
+        "BaseExtractionRate": 0,
+        "CO2perkWh": 0,
+        "ImprovedExtractionRate": 2,
+        "ObsoleteTech": null,
+        "PowerProvided": 0,
+        "ResourceType": "RESOURCE_IRON",
+        "StockpileCap": 50
+    },
+    {
+        "Accumulate": 1,
+        "BaseExtractionRate": 0,
+        "CO2perkWh": 0,
+        "ImprovedExtractionRate": 2,
+        "ObsoleteTech": null,
+        "PowerProvided": 0,
+        "ResourceType": "RESOURCE_NITER",
+        "StockpileCap": 50
+    },
+    {
+        "Accumulate": 1,
+        "BaseExtractionRate": 0,
+        "CO2perkWh": 0,
+        "ImprovedExtractionRate": 2,
+        "ObsoleteTech": null,
+        "PowerProvided": 0,
+        "ResourceType": "RESOURCE_ALUMINUM",
+        "StockpileCap": 50
+    }
+]

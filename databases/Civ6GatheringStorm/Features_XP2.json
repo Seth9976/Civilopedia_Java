@@ -1,0 +1,130 @@
+[
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_EYJAFJALLAJOKULL",
+        "ValidDistrictPlacement": 0,
+        "ValidForReplacement": 0,
+        "ValidWonderPlacement": 0,
+        "Volcano": 1
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_VESUVIUS",
+        "ValidDistrictPlacement": 0,
+        "ValidForReplacement": 0,
+        "ValidWonderPlacement": 0,
+        "Volcano": 1
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_KILIMANJARO",
+        "ValidDistrictPlacement": 0,
+        "ValidForReplacement": 0,
+        "ValidWonderPlacement": 0,
+        "Volcano": 1
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "ValidDistrictPlacement": 1,
+        "ValidForReplacement": 1,
+        "ValidWonderPlacement": 1,
+        "Volcano": 0
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "ValidDistrictPlacement": 1,
+        "ValidForReplacement": 1,
+        "ValidWonderPlacement": 1,
+        "Volcano": 0
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "ValidDistrictPlacement": 1,
+        "ValidForReplacement": 1,
+        "ValidWonderPlacement": 1,
+        "Volcano": 0
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_VOLCANO",
+        "ValidDistrictPlacement": 0,
+        "ValidForReplacement": 0,
+        "ValidWonderPlacement": 0,
+        "Volcano": 1
+    },
+    {
+        "Eruptable": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ValidDistrictPlacement": 1,
+        "ValidForReplacement": 1,
+        "ValidWonderPlacement": 1,
+        "Volcano": 0
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_JUNGLE",
+        "ValidDistrictPlacement": 0,
+        "ValidForReplacement": 1,
+        "ValidWonderPlacement": 0,
+        "Volcano": 0
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_FOREST",
+        "ValidDistrictPlacement": 0,
+        "ValidForReplacement": 1,
+        "ValidWonderPlacement": 0,
+        "Volcano": 0
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_OASIS",
+        "ValidDistrictPlacement": 0,
+        "ValidForReplacement": 1,
+        "ValidWonderPlacement": 0,
+        "Volcano": 0
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_MARSH",
+        "ValidDistrictPlacement": 0,
+        "ValidForReplacement": 1,
+        "ValidWonderPlacement": 0,
+        "Volcano": 0
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_BURNING_FOREST",
+        "ValidDistrictPlacement": 0,
+        "ValidForReplacement": 1,
+        "ValidWonderPlacement": 0,
+        "Volcano": 0
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_BURNT_FOREST",
+        "ValidDistrictPlacement": 0,
+        "ValidForReplacement": 1,
+        "ValidWonderPlacement": 0,
+        "Volcano": 0
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_BURNING_JUNGLE",
+        "ValidDistrictPlacement": 0,
+        "ValidForReplacement": 1,
+        "ValidWonderPlacement": 0,
+        "Volcano": 0
+    },
+    {
+        "Eruptable": 0,
+        "FeatureType": "FEATURE_BURNT_JUNGLE",
+        "ValidDistrictPlacement": 0,
+        "ValidForReplacement": 1,
+        "ValidWonderPlacement": 0,
+        "Volcano": 0
+    }
+]

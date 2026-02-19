@@ -1,0 +1,42 @@
+[
+    {
+        "ActiveSegmentType": "TURNSEG_SINGLEPLAYER",
+        "ID": 1,
+        "InactiveSegmentType": null,
+        "PhaseOrder": 0,
+        "TurnMode": "TURNMODE_SEQUENTIAL",
+        "TurnPhaseType": "TURNPHASE_SINGLEPLAYER"
+    },
+    {
+        "ActiveSegmentType": "TURNSEG_SINGLEPHASE",
+        "ID": 2,
+        "InactiveSegmentType": null,
+        "PhaseOrder": 0,
+        "TurnMode": "TURNMODE_SIMULTANEOUS",
+        "TurnPhaseType": "TURNPHASE_SIMULTANEOUS"
+    },
+    {
+        "ActiveSegmentType": "TURNSEG_SINGLEPHASE",
+        "ID": 3,
+        "InactiveSegmentType": null,
+        "PhaseOrder": 0,
+        "TurnMode": "TURNMODE_DYNAMIC",
+        "TurnPhaseType": "TURNPHASE_DYNAMIC"
+    },
+    {
+        "ActiveSegmentType": "TURNSEG_TACTICAL",
+        "ID": 4,
+        "InactiveSegmentType": null,
+        "PhaseOrder": 0,
+        "TurnMode": "TURNMODE_DYNAMIC",
+        "TurnPhaseType": "TURNPHASE_TWOPHASE"
+    },
+    {
+        "ActiveSegmentType": "TURNSEG_STRATEGIC",
+        "ID": 5,
+        "InactiveSegmentType": null,
+        "PhaseOrder": 1,
+        "TurnMode": "TURNMODE_SIMULTANEOUS",
+        "TurnPhaseType": "TURNPHASE_TWOPHASE"
+    }
+]

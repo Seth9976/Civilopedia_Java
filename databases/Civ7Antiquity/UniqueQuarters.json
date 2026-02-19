@@ -1,0 +1,83 @@
+[
+    {
+        "BuildingType1": "BUILDING_ODEON",
+        "BuildingType2": "BUILDING_PARTHENON",
+        "Description": "LOC_QUARTER_ACROPOLIS_DESCRIPTION",
+        "Name": "LOC_QUARTER_ACROPOLIS_NAME",
+        "Tooltip": "LOC_QUARTER_ACROPOLIS_TOOLTIP",
+        "TraitType": "TRAIT_GREECE",
+        "UniqueQuarterType": "QUARTER_ACROPOLIS"
+    },
+    {
+        "BuildingType1": "BUILDING_BASILICA",
+        "BuildingType2": "BUILDING_TEMPLE_OF_JUPITER",
+        "Description": "LOC_QUARTER_FORUM_DESCRIPTION",
+        "Name": "LOC_QUARTER_FORUM_NAME",
+        "Tooltip": "LOC_QUARTER_FORUM_TOOLTIP",
+        "TraitType": "TRAIT_ROME",
+        "UniqueQuarterType": "QUARTER_FORUM"
+    },
+    {
+        "BuildingType1": "BUILDING_DHARAMSHALA",
+        "BuildingType2": "BUILDING_VIHARA",
+        "Description": "LOC_QUARTER_MATHA_DESCRIPTION",
+        "Name": "LOC_QUARTER_MATHA_NAME",
+        "Tooltip": "LOC_QUARTER_MATHA_TOOLTIP",
+        "TraitType": "TRAIT_MAURYA",
+        "UniqueQuarterType": "QUARTER_MATHA"
+    },
+    {
+        "BuildingType1": "BUILDING_MASTABA",
+        "BuildingType2": "BUILDING_MORTUARY_TEMPLE",
+        "Description": "LOC_QUARTER_NECROPOLIS_DESCRIPTION",
+        "Name": "LOC_QUARTER_NECROPOLIS_NAME",
+        "Tooltip": "LOC_QUARTER_NECROPOLIS_TOOLTIP",
+        "TraitType": "TRAIT_EGYPT",
+        "UniqueQuarterType": "QUARTER_NECROPOLIS"
+    },
+    {
+        "BuildingType1": "BUILDING_JALAW",
+        "BuildingType2": "BUILDING_KUH_NAH",
+        "Description": "LOC_QUARTER_UWAYBIL_KUH_DESCRIPTION",
+        "Name": "LOC_QUARTER_UWAYBIL_KUH_NAME",
+        "Tooltip": "LOC_QUARTER_UWAYBIL_KUH_TOOLTIP",
+        "TraitType": "TRAIT_MAYA",
+        "UniqueQuarterType": "QUARTER_UWAYBIL_KUH"
+    },
+    {
+        "BuildingType1": "BUILDING_COTHON",
+        "BuildingType2": "BUILDING_DOCKYARD",
+        "Description": "LOC_QUARTER_PUNIC_PORT_DESCRIPTION",
+        "Name": "LOC_QUARTER_PUNIC_PORT_NAME",
+        "Tooltip": "LOC_QUARTER_PUNIC_PORT_TOOLTIP",
+        "TraitType": "TRAIT_CARTHAGE",
+        "UniqueQuarterType": "QUARTER_PUNIC_PORT"
+    },
+    {
+        "BuildingType1": "BUILDING_LECTURE_HALL",
+        "BuildingType2": "BUILDING_PAGODA",
+        "Description": "LOC_QUARTER_DRAGON_TEMPLE_DESCRIPTION",
+        "Name": "LOC_QUARTER_DRAGON_TEMPLE_NAME",
+        "Tooltip": "LOC_QUARTER_DRAGON_TEMPLE_TOOLTIP",
+        "TraitType": "TRAIT_SILLA",
+        "UniqueQuarterType": "QUARTER_DRAGON_TEMPLE"
+    },
+    {
+        "BuildingType1": "BUILDING_LANGI",
+        "BuildingType2": "BUILDING_VAI_KAUKAU",
+        "Description": "LOC_QUARTER_TOFI_A_DESCRIPTION",
+        "Name": "LOC_QUARTER_TOFI_A_NAME",
+        "Tooltip": "LOC_QUARTER_TOFI_A_TOOLTIP",
+        "TraitType": "TRAIT_TONGA",
+        "UniqueQuarterType": "QUARTER_TOFI_A"
+    },
+    {
+        "BuildingType1": "BUILDING_CITADEL",
+        "BuildingType2": "BUILDING_ROYAL_LIBRARY",
+        "Description": "LOC_QUARTER_EKALLU_DESCRIPTION",
+        "Name": "LOC_QUARTER_EKALLU_NAME",
+        "Tooltip": "LOC_QUARTER_EKALLU_TOOLTIP",
+        "TraitType": "TRAIT_ASSYRIA",
+        "UniqueQuarterType": "QUARTER_EKALLU"
+    }
+]

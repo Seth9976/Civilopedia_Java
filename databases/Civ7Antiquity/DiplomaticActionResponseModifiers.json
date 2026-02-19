@@ -1,0 +1,240 @@
+[
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FORM_ALLIANCE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ALLIANCE_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FORM_ALLIANCE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ALLIANCE_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_OPEN_BORDERS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_OPEN_BORDERS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_OPEN_BORDERS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_RESEARCH_COLLABORATION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_RESEARCH_COLLABORATION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CULTURAL_EXCHANGE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CULTURAL_EXCHANGE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_MINOR_TRADE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_MINOR_TRADE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_LOCAL_FESTIVALS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_LOCAL_FESTIVALS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_TRADE_MAP",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_TRADE_MAP",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FARMERS_MARKET",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FARMERS_MARKET",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_MILITARY_AID",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_MILITARY_AID",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_IMPROVE_TRADE_RELATIONS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_IMPROVE_TRADE_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_IMPROVE_TRADE_RELATIONS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GINSING_AGREEMENT",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GINSING_AGREEMENT",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GRANT_POLICY_SLOT",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GRANT_POLICY_SLOT",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FRIEND_OF_WA",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FRIEND_OF_WA",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SEND_DELEGATION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SEND_DELEGATION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_WONDER_CONSTRUCTION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_WONDER_CONSTRUCTION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SEND_DELEGATION_DIPLOMATIC_CITY_STATE_BONUS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SEND_DELEGATION_DIPLOMATIC_CITY_STATE_BONUS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GIFT_GURKHA",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_BOTH",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GIFT_GURKHA",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "ModifierId": "PLAYER_DIPLOMACY_GRIEVANCES_FOR_ACTION_REJECTION",
+        "ModifierTarget": "DIPLOMACY_MODIFIER_TARGET_INITIAL",
+        "ModifierType": "DIPLOMACY_MODIFIER_TYPE_ACTION"
+    }
+]

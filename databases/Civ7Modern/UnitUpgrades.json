@@ -1,0 +1,190 @@
+[
+    {
+        "Unit": "UNIT_LINE_INFANTRY",
+        "UpgradeUnit": "UNIT_RIFLEMAN"
+    },
+    {
+        "Unit": "UNIT_FIELD_CANNON",
+        "UpgradeUnit": "UNIT_FIELD_GUN"
+    },
+    {
+        "Unit": "UNIT_CUIRASSIER",
+        "UpgradeUnit": "UNIT_LANDSHIP"
+    },
+    {
+        "Unit": "UNIT_MORTAR",
+        "UpgradeUnit": "UNIT_HEAVY_ARTILLERY"
+    },
+    {
+        "Unit": "UNIT_IRONCLAD",
+        "UpgradeUnit": "UNIT_CRUISER"
+    },
+    {
+        "Unit": "UNIT_FRIGATE",
+        "UpgradeUnit": "UNIT_DREADNOUGHT"
+    },
+    {
+        "Unit": "UNIT_RIFLEMAN",
+        "UpgradeUnit": "UNIT_INFANTRY_COMPANY"
+    },
+    {
+        "Unit": "UNIT_FIELD_GUN",
+        "UpgradeUnit": "UNIT_AT_GUN"
+    },
+    {
+        "Unit": "UNIT_LANDSHIP",
+        "UpgradeUnit": "UNIT_TANK"
+    },
+    {
+        "Unit": "UNIT_HEAVY_ARTILLERY",
+        "UpgradeUnit": "UNIT_ASSAULT_GUN"
+    },
+    {
+        "Unit": "UNIT_CRUISER",
+        "UpgradeUnit": "UNIT_DESTROYER"
+    },
+    {
+        "Unit": "UNIT_DREADNOUGHT",
+        "UpgradeUnit": "UNIT_BATTLESHIP"
+    },
+    {
+        "Unit": "UNIT_BIPLANE",
+        "UpgradeUnit": "UNIT_FIGHTER"
+    },
+    {
+        "Unit": "UNIT_TRENCH_FIGHTER",
+        "UpgradeUnit": "UNIT_DIVEBOMBER"
+    },
+    {
+        "Unit": "UNIT_BOMBER",
+        "UpgradeUnit": "UNIT_HEAVY_BOMBER"
+    },
+    {
+        "Unit": "UNIT_ABAMBOWA",
+        "UpgradeUnit": "UNIT_ABAMBOWA_2"
+    },
+    {
+        "Unit": "UNIT_ABAMBOWA_2",
+        "UpgradeUnit": "UNIT_ABAMBOWA_3"
+    },
+    {
+        "Unit": "UNIT_CHANG_BEUN",
+        "UpgradeUnit": "UNIT_CHANG_BEUN_2"
+    },
+    {
+        "Unit": "UNIT_CHANG_BEUN_2",
+        "UpgradeUnit": "UNIT_CHANG_BEUN_3"
+    },
+    {
+        "Unit": "UNIT_COSSACK",
+        "UpgradeUnit": "UNIT_COSSACK_2"
+    },
+    {
+        "Unit": "UNIT_COSSACK_2",
+        "UpgradeUnit": "UNIT_COSSACK_3"
+    },
+    {
+        "Unit": "UNIT_GARDE_IMPERIALE",
+        "UpgradeUnit": "UNIT_GARDE_IMPERIALE_2"
+    },
+    {
+        "Unit": "UNIT_GARDE_IMPERIALE_2",
+        "UpgradeUnit": "UNIT_GARDE_IMPERIALE_3"
+    },
+    {
+        "Unit": "UNIT_HUSSAR",
+        "UpgradeUnit": "UNIT_HUSSAR_2"
+    },
+    {
+        "Unit": "UNIT_HUSSAR_2",
+        "UpgradeUnit": "UNIT_HUSSAR_3"
+    },
+    {
+        "Unit": "UNIT_GUSA",
+        "UpgradeUnit": "UNIT_GUSA_2"
+    },
+    {
+        "Unit": "UNIT_GUSA_2",
+        "UpgradeUnit": "UNIT_GUSA_3"
+    },
+    {
+        "Unit": "UNIT_KATYUSHA",
+        "UpgradeUnit": "UNIT_KATYUSHA_2"
+    },
+    {
+        "Unit": "UNIT_MARINE",
+        "UpgradeUnit": "UNIT_MARINE_2"
+    },
+    {
+        "Unit": "UNIT_MIKASA",
+        "UpgradeUnit": "UNIT_MIKASA_2"
+    },
+    {
+        "Unit": "UNIT_SEPOY",
+        "UpgradeUnit": "UNIT_SEPOY_2"
+    },
+    {
+        "Unit": "UNIT_SEPOY_2",
+        "UpgradeUnit": "UNIT_SEPOY_3"
+    },
+    {
+        "Unit": "UNIT_SOLDADERAS",
+        "UpgradeUnit": "UNIT_SOLDADERAS_2"
+    },
+    {
+        "Unit": "UNIT_SOLDADERAS_2",
+        "UpgradeUnit": "UNIT_SOLDADERAS_3"
+    },
+    {
+        "Unit": "UNIT_STUKA",
+        "UpgradeUnit": "UNIT_STUKA_2"
+    },
+    {
+        "Unit": "UNIT_ZERO",
+        "UpgradeUnit": "UNIT_ZERO_2"
+    },
+    {
+        "Unit": "UNIT_PARTISAN",
+        "UpgradeUnit": "UNIT_PARTISAN_2"
+    },
+    {
+        "Unit": "UNIT_PARTISAN_2",
+        "UpgradeUnit": "UNIT_PARTISAN_3"
+    },
+    {
+        "Unit": "UNIT_JANISSARY",
+        "UpgradeUnit": "UNIT_JANISSARY_2"
+    },
+    {
+        "Unit": "UNIT_JANISSARY_2",
+        "UpgradeUnit": "UNIT_JANISSARY_3"
+    },
+    {
+        "Unit": "UNIT_BARBARY_CORSAIR",
+        "UpgradeUnit": "UNIT_BARBARY_CORSAIR_2"
+    },
+    {
+        "Unit": "UNIT_BARBARY_CORSAIR_2",
+        "UpgradeUnit": "UNIT_BARBARY_CORSAIR_3"
+    },
+    {
+        "Unit": "UNIT_REVENGE",
+        "UpgradeUnit": "UNIT_REVENGE_2"
+    },
+    {
+        "Unit": "UNIT_GURKHA",
+        "UpgradeUnit": "UNIT_GURKHA_2"
+    },
+    {
+        "Unit": "UNIT_GURKHA_2",
+        "UpgradeUnit": "UNIT_GURKHA_3"
+    },
+    {
+        "Unit": "UNIT_GHILMAN",
+        "UpgradeUnit": "UNIT_GHILMAN_2"
+    },
+    {
+        "Unit": "UNIT_GHILMAN_2",
+        "UpgradeUnit": "UNIT_GHILMAN_3"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "Description": "UNITAI_UNKNOWN",
+        "ID": 0,
+        "Type": "UNITAI_UNKNOWN"
+    },
+    {
+        "Description": "UNITAI_SETTLE",
+        "ID": 1,
+        "Type": "UNITAI_SETTLE"
+    },
+    {
+        "Description": "UNITAI_WORKER",
+        "ID": 2,
+        "Type": "UNITAI_WORKER"
+    },
+    {
+        "Description": "UNITAI_ATTACK",
+        "ID": 3,
+        "Type": "UNITAI_ATTACK"
+    },
+    {
+        "Description": "UNITAI_CITY_BOMBARD",
+        "ID": 4,
+        "Type": "UNITAI_CITY_BOMBARD"
+    },
+    {
+        "Description": "UNITAI_FAST_ATTACK",
+        "ID": 5,
+        "Type": "UNITAI_FAST_ATTACK"
+    },
+    {
+        "Description": "UNITAI_DEFENSE",
+        "ID": 6,
+        "Type": "UNITAI_DEFENSE"
+    },
+    {
+        "Description": "UNITAI_COUNTER",
+        "ID": 7,
+        "Type": "UNITAI_COUNTER"
+    },
+    {
+        "Description": "UNITAI_RANGED",
+        "ID": 8,
+        "Type": "UNITAI_RANGED"
+    },
+    {
+        "Description": "UNITAI_CITY_SPECIAL",
+        "ID": 9,
+        "Type": "UNITAI_CITY_SPECIAL"
+    },
+    {
+        "Description": "UNITAI_EXPLORE",
+        "ID": 10,
+        "Type": "UNITAI_EXPLORE"
+    },
+    {
+        "Description": "UNITAI_ARTIST",
+        "ID": 11,
+        "Type": "UNITAI_ARTIST"
+    },
+    {
+        "Description": "UNITAI_SCIENTIST",
+        "ID": 12,
+        "Type": "UNITAI_SCIENTIST"
+    },
+    {
+        "Description": "UNITAI_GENERAL",
+        "ID": 13,
+        "Type": "UNITAI_GENERAL"
+    },
+    {
+        "Description": "UNITAI_MERCHANT",
+        "ID": 14,
+        "Type": "UNITAI_MERCHANT"
+    },
+    {
+        "Description": "UNITAI_ENGINEER",
+        "ID": 15,
+        "Type": "UNITAI_ENGINEER"
+    },
+    {
+        "Description": "UNITAI_ICBM",
+        "ID": 16,
+        "Type": "UNITAI_ICBM"
+    },
+    {
+        "Description": "UNITAI_WORKER_SEA",
+        "ID": 17,
+        "Type": "UNITAI_WORKER_SEA"
+    },
+    {
+        "Description": "UNITAI_ATTACK_SEA",
+        "ID": 18,
+        "Type": "UNITAI_ATTACK_SEA"
+    },
+    {
+        "Description": "UNITAI_RESERVE_SEA",
+        "ID": 19,
+        "Type": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "Description": "UNITAI_ESCORT_SEA",
+        "ID": 20,
+        "Type": "UNITAI_ESCORT_SEA"
+    },
+    {
+        "Description": "UNITAI_EXPLORE_SEA",
+        "ID": 21,
+        "Type": "UNITAI_EXPLORE_SEA"
+    },
+    {
+        "Description": "UNITAI_ASSAULT_SEA",
+        "ID": 22,
+        "Type": "UNITAI_ASSAULT_SEA"
+    },
+    {
+        "Description": "UNITAI_SETTLER_SEA",
+        "ID": 23,
+        "Type": "UNITAI_SETTLER_SEA"
+    },
+    {
+        "Description": "UNITAI_CARRIER_SEA",
+        "ID": 24,
+        "Type": "UNITAI_CARRIER_SEA"
+    },
+    {
+        "Description": "UNITAI_MISSILE_CARRIER_SEA",
+        "ID": 25,
+        "Type": "UNITAI_MISSILE_CARRIER_SEA"
+    },
+    {
+        "Description": "UNITAI_PIRATE_SEA",
+        "ID": 26,
+        "Type": "UNITAI_PIRATE_SEA"
+    },
+    {
+        "Description": "UNITAI_ATTACK_AIR",
+        "ID": 27,
+        "Type": "UNITAI_ATTACK_AIR"
+    },
+    {
+        "Description": "UNITAI_DEFENSE_AIR",
+        "ID": 28,
+        "Type": "UNITAI_DEFENSE_AIR"
+    },
+    {
+        "Description": "UNITAI_CARRIER_AIR",
+        "ID": 29,
+        "Type": "UNITAI_CARRIER_AIR"
+    },
+    {
+        "Description": "UNITAI_MISSILE_AIR",
+        "ID": 30,
+        "Type": "UNITAI_MISSILE_AIR"
+    },
+    {
+        "Description": "UNITAI_PARADROP",
+        "ID": 31,
+        "Type": "UNITAI_PARADROP"
+    },
+    {
+        "Description": "UNITAI_SPACESHIP_PART",
+        "ID": 32,
+        "Type": "UNITAI_SPACESHIP_PART"
+    },
+    {
+        "Description": "UNITAI_TREASURE",
+        "ID": 33,
+        "Type": "UNITAI_TREASURE"
+    },
+    {
+        "Description": "UNITAI_PROPHET",
+        "ID": 34,
+        "Type": "UNITAI_PROPHET"
+    },
+    {
+        "Description": "UNITAI_MISSIONARY",
+        "ID": 35,
+        "Type": "UNITAI_MISSIONARY"
+    },
+    {
+        "Description": "UNITAI_INQUISITOR",
+        "ID": 36,
+        "Type": "UNITAI_INQUISITOR"
+    },
+    {
+        "Description": "UNITAI_ADMIRAL",
+        "ID": 37,
+        "Type": "UNITAI_ADMIRAL"
+    },
+    {
+        "Description": "UNITAI_TRADE_UNIT",
+        "ID": 38,
+        "Type": "UNITAI_TRADE_UNIT"
+    },
+    {
+        "Description": "UNITAI_ARCHAEOLOGIST",
+        "ID": 39,
+        "Type": "UNITAI_ARCHAEOLOGIST"
+    },
+    {
+        "Description": "UNITAI_WRITER",
+        "ID": 40,
+        "Type": "UNITAI_WRITER"
+    },
+    {
+        "Description": "UNITAI_MUSICIAN",
+        "ID": 41,
+        "Type": "UNITAI_MUSICIAN"
+    }
+]

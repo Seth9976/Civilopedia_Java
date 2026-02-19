@@ -1,0 +1,362 @@
+[
+    {
+        "Description": "LOC_GOSSIPDESC_ALLIED",
+        "GossipType": "GOSSIP_ALLIED",
+        "Message": "LOC_GOSSIP_ALLIED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_ANARCHY_BEGINS",
+        "Message": "LOC_GOSSIP_ANARCHY_BEGINS"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_ARMY_FILLED",
+        "Message": "LOC_GOSSIP_ARMY_FILLED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_ARTIFACT_EXTRACTED",
+        "Message": "LOC_GOSSIP_ARTIFACT_EXTRACTED"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_ATTACK_LAUNCHED",
+        "GossipType": "GOSSIP_ATTACK_LAUNCHED",
+        "Message": "LOC_GOSSIP_LAUNCHING_ATTACK"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_BECOME_SUZERAIN",
+        "Message": "LOC_GOSSIP_BECOME_SUZERAIN"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_BELIEF_ADDED",
+        "Message": "LOC_GOSSIP_BELIEF_ADDED"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_CHANGE_GOVERNMENT",
+        "GossipType": "GOSSIP_CHANGE_GOVERNMENT",
+        "Message": "LOC_GOSSIP_CHANGE_GOVERNMENT"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_CITY_BESIEGED",
+        "Message": "LOC_GOSSIP_CITY_BESIEGED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_CITY_LIBERATED",
+        "Message": "LOC_GOSSIP_CITY_LIBERATED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_CITY_RAZED",
+        "Message": "LOC_GOSSIP_CITY_RAZED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_CITY_POPULATION_HEIGHT_CHANGED",
+        "Message": "LOC_GOSSIP_CITY_POPULATION_HEIGHT_CHANGED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_COMPLETED_PROGRESSION_TREE_NODE",
+        "Message": "LOC_GOSSIP_COMPLETED_PROGRESSION_TREE_NODE"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_CONQUER_CITY",
+        "GossipType": "GOSSIP_CONQUER_CITY",
+        "Message": "LOC_GOSSIP_CONQUER_CITY"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_CONSTRUCT_BUILDING",
+        "Message": "LOC_GOSSIP_CONSTRUCT_BUILDING"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_CONSTRUCTIBLE_DAMAGED",
+        "Message": "LOC_GOSSIP_CONSTRUCTIBLE_DAMAGED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_CREATE_PANTHEON",
+        "Message": "LOC_GOSSIP_CREATE_PANTHEON"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_FIND_CONTINENT",
+        "Message": "LOC_GOSSIP_FIND_CONTINENT"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_FIND_NATURAL_WONDER",
+        "Message": "LOC_GOSSIP_FIND_NATURAL_WONDER"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_FIND_RIVER",
+        "Message": "LOC_GOSSIP_FIND_RIVER"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_FIND_VOLCANO",
+        "Message": "LOC_GOSSIP_FIND_VOLCANO"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_FOUND_CITY",
+        "GossipType": "GOSSIP_FOUND_CITY",
+        "Message": "LOC_GOSSIP_FOUND_CITY"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_FOUND_RELIGION",
+        "GossipType": "GOSSIP_FOUND_RELIGION",
+        "Message": "LOC_GOSSIP_FOUND_RELIGION"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_GATHER_RESOURCE",
+        "Message": "LOC_GOSSIP_GATHER_RESOURCE"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_GOLDEN_AGE",
+        "Message": "LOC_GOSSIP_GOLDEN_AGE"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_GREATPERSON_CREATED",
+        "GossipType": "GOSSIP_GREATPERSON_CREATED",
+        "Message": "LOC_GOSSIP_GREATPERSON_CREATED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_INDEPENDENT_ASSAULT",
+        "Message": "LOC_GOSSIP_INDEPENDENT_ASSAULT"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_INDEPENDENT_INFLUENCE",
+        "GossipType": "GOSSIP_INDEPENDENT_INFLUENCE",
+        "Message": "LOC_GOSSIP_INDEPENDENT_INFLUENCE"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_INDEPENDENT_DISPERSE",
+        "Message": "LOC_GOSSIP_INDEPENDENT_DISPERSE"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_LOST_WONDER_RACE",
+        "Message": "LOC_GOSSIP_LOST_WONDER_RACE"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_MAKE_DOW",
+        "GossipType": "GOSSIP_MAKE_DOW",
+        "Message": "LOC_GOSSIP_MAKE_DOW"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_MAKE_PEACE",
+        "GossipType": "GOSSIP_MAKE_PEACE",
+        "Message": "LOC_GOSSIP_MAKE_PEACE"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_MEET_INDEPENDENT",
+        "Message": "LOC_GOSSIP_MEET_INDEPENDENT"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_NEW_RELIGIOUS_MAJORITY",
+        "Message": "LOC_GOSSIP_NEW_RELIGIOUS_MAJORITY"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_PILLAGE",
+        "Message": "LOC_GOSSIP_PILLAGE"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_PLAYERS_MEET",
+        "Message": "LOC_GOSSIP_PLAYERS_MEET"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_RANDOM_EVENT_DAMAGE",
+        "Message": "LOC_GOSSIP_RANDOM_EVENT_DAMAGE"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_RELIC_RECEIVED",
+        "Message": "LOC_GOSSIP_RELIC_RECEIVED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_TRAIN_UNIT",
+        "Message": "LOC_GOSSIP_TRAIN_UNIT"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_TRADITION_ACTIVATED",
+        "Message": "LOC_GOSSIP_TRADITION_ACTIVATED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_TRADITION_DEACTIVATED",
+        "Message": "LOC_GOSSIP_TRADITION_DEACTIVATED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_UNIT_COMBAT_DEATH",
+        "Message": "LOC_GOSSIP_UNIT_COMBAT_DEATHT"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_VICTORY_STRATEGY_CHANGED",
+        "GossipType": "GOSSIP_VICTORY_STRATEGY_CHANGED",
+        "Message": "LOC_GOSSIP_START_VICTORY_STRATEGY"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_WAR_PREPARATION",
+        "GossipType": "GOSSIP_WAR_PREPARATION",
+        "Message": "LOC_GOSSIP_WAR_PREPARATION"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_WMD_BUILT",
+        "GossipType": "GOSSIP_WMD_BUILT",
+        "Message": "LOC_GOSSIP_WMD_BUILT"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_WMD_STRIKE",
+        "GossipType": "GOSSIP_WMD_STRIKE",
+        "Message": "LOC_GOSSIP_WMD_STRIKE"
+    },
+    {
+        "Description": "LOC_GOSSIPDESC_WONDER_STARTED",
+        "GossipType": "GOSSIP_WONDER_STARTED",
+        "Message": "LOC_GOSSIP_WONDER_STARTED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_TRADE_ROUTE_STARTED",
+        "Message": "LOC_GOSSIP_TRADE_ROUTE_STARTED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_PLAYER_DEFEATED_INDEPENDENT_RAID",
+        "Message": "LOC_GOSSIP_PLAYER_DEFEATED_INDEPENDENT_RAID"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_CITY_UNREST",
+        "Message": "LOC_GOSSIP_CITY_UNREST"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_PLACED_WORKER",
+        "Message": "LOC_GOSSIP_PLACED_WORKER"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_URBAN_CONTROL_CHANGED",
+        "Message": "LOC_GOSSIP_URBAN_CONTROL_CHANGED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_PLUNDER_TRADE_ROUTE",
+        "Message": "LOC_GOSSIP_PLUNDER_TRADE_ROUTE"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_ACTIVATE_GREAT_PERSON",
+        "Message": "LOC_GOSSIP_ACTIVATE_GREAT_PERSON"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_CREATE_GREAT_PERSON",
+        "Message": "LOC_GOSSIP_CREATE_GREAT_PERSON"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_DIPLOMACY_ACTION_STARTED",
+        "Message": "LOC_GOSSIP_DIPLOMACY_ACTION_STARTED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_SCORED_VP",
+        "Message": "LOC_GOSSIP_SCORED_VP"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_DISBANDED_UNIT",
+        "Message": "LOC_DISBANDED_UNIT"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_DIPLOMACY_RESPONSE",
+        "Message": "LOC_GOSSIP_DIPLOMACY_RESPONSE"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_RELATIONSHIP_CHANGED",
+        "Message": "LOC_GOSSIP_RELATIONSHIP_CHANGED_RESPONSE"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_CONSTRUCTIBLE_REPAIRED",
+        "Message": "LOC_GOSSIP_CONSTRUCTIBLE_REPAIRED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_RANDOM_EVENT_DAMAGED_CONSTRUCTIBLE",
+        "Message": "LOC_GOSSIP_RANDOM_EVENT_DAMAGED_CONSTRUCTIBLE"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_RANDOM_EVENT_UNIT_KILLED",
+        "Message": "LOC_GOSSIP_RANDOM_EVENT_UNIT_KILLED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_CITY_REVOLTED",
+        "Message": "LOC_GOSSIP_CITY_REVOLTED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_UNIT_DESTROYED",
+        "Message": "LOC_GOSSIP_UNIT_DESTROYED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_BANKRUPT_UNIT_DISBAND",
+        "Message": "LOC_GOSSIP_UNIT_DESTROYED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_UNIT_USES_ABILITY_CHARGE",
+        "Message": "LOC_GOSSIP_UNIT_DESTROYED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_REJECT_DEAL",
+        "Message": "LOC_GOSSIP_REJECT_DEAL"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_SCORE_DISBAND_UNIT",
+        "Message": "LOC_GOSSIP_SCORE_DISBAND_UNIT"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_POLICY_SLOTS_CHANGED",
+        "Message": "LOC_GOSSIP_POLICY_SLOTS_CHANGED"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_UNIT_PROMOTION",
+        "Message": "LOC_GOSSIP_UNIT_PROMOTION"
+    },
+    {
+        "Description": null,
+        "GossipType": "GOSSIP_CONVERT_CITY",
+        "Message": "LOC_GOSSIP_CONVERT_CITY"
+    }
+]

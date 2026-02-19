@@ -1,0 +1,37 @@
+[
+    {
+        "MinimumPlayerInstances": 1,
+        "PrereqProjectType": "PROJECT_LAUNCH_EARTH_SATELLITE",
+        "ProjectType": "PROJECT_LAUNCH_MOON_LANDING"
+    },
+    {
+        "MinimumPlayerInstances": 1,
+        "PrereqProjectType": "PROJECT_LAUNCH_MOON_LANDING",
+        "ProjectType": "PROJECT_LAUNCH_MARS_REACTOR"
+    },
+    {
+        "MinimumPlayerInstances": 1,
+        "PrereqProjectType": "PROJECT_LAUNCH_MOON_LANDING",
+        "ProjectType": "PROJECT_LAUNCH_MARS_HABITATION"
+    },
+    {
+        "MinimumPlayerInstances": 1,
+        "PrereqProjectType": "PROJECT_LAUNCH_MOON_LANDING",
+        "ProjectType": "PROJECT_LAUNCH_MARS_HYDROPONICS"
+    },
+    {
+        "MinimumPlayerInstances": 1,
+        "PrereqProjectType": "PROJECT_MANHATTAN_PROJECT",
+        "ProjectType": "PROJECT_BUILD_NUCLEAR_DEVICE"
+    },
+    {
+        "MinimumPlayerInstances": 1,
+        "PrereqProjectType": "PROJECT_OPERATION_IVY",
+        "ProjectType": "PROJECT_BUILD_THERMONUCLEAR_DEVICE"
+    },
+    {
+        "MinimumPlayerInstances": 1,
+        "PrereqProjectType": "PROJECT_MANHATTAN_PROJECT",
+        "ProjectType": "PROJECT_OPERATION_IVY"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "EspionageViewAll": 0,
+        "EspionageViewCapital": 0,
+        "VisibilityType": "VISIBILITY_NONE"
+    },
+    {
+        "EspionageViewAll": 0,
+        "EspionageViewCapital": 0,
+        "VisibilityType": "VISIBILITY_LIMITED"
+    },
+    {
+        "EspionageViewAll": 0,
+        "EspionageViewCapital": 0,
+        "VisibilityType": "VISIBILITY_FULL"
+    },
+    {
+        "EspionageViewAll": 0,
+        "EspionageViewCapital": 1,
+        "VisibilityType": "VISIBILITY_SECRET"
+    },
+    {
+        "EspionageViewAll": 1,
+        "EspionageViewCapital": 0,
+        "VisibilityType": "VISIBILITY_TOP_SECRET"
+    }
+]

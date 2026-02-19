@@ -1,0 +1,797 @@
+[
+    {
+        "Name": "AdvisorWarningTriggered"
+    },
+    {
+        "Name": "AgeOver"
+    },
+    {
+        "Name": "AnarchyBegins"
+    },
+    {
+        "Name": "AnarchyEnds"
+    },
+    {
+        "Name": "AttributeNodeCompleted"
+    },
+    {
+        "Name": "AttributePointsChanged"
+    },
+    {
+        "Name": "AutoplayEnded"
+    },
+    {
+        "Name": "AutoplayStarted"
+    },
+    {
+        "Name": "BarbarianRaidStarted"
+    },
+    {
+        "Name": "BarbarianSpottedCity"
+    },
+    {
+        "Name": "BeliefAdded"
+    },
+    {
+        "Name": "CacheUpdate"
+    },
+    {
+        "Name": "CapitalCityChanged"
+    },
+    {
+        "Name": "CityAddedToMap"
+    },
+    {
+        "Name": "CityCommandStarted"
+    },
+    {
+        "Name": "CityDefenseStatusChanged"
+    },
+    {
+        "Name": "CityFocusChanged"
+    },
+    {
+        "Name": "CityGrowthModeChanged"
+    },
+    {
+        "Name": "CityInitialized"
+    },
+    {
+        "Name": "CityLiberated"
+    },
+    {
+        "Name": "CityMadePurchase"
+    },
+    {
+        "Name": "CityNameChanged"
+    },
+    {
+        "Name": "CityOccupationChanged"
+    },
+    {
+        "Name": "CityPopulationChanged"
+    },
+    {
+        "Name": "CityProductionChanged"
+    },
+    {
+        "Name": "CityProductionCompleted"
+    },
+    {
+        "Name": "CityProductionQueueChanged"
+    },
+    {
+        "Name": "CityProductionUpdated"
+    },
+    {
+        "Name": "CityProjectCompleted"
+    },
+    {
+        "Name": "CityProjectCompletedNarrative"
+    },
+    {
+        "Name": "CityPropertyChanged"
+    },
+    {
+        "Name": "CityReligionChanged"
+    },
+    {
+        "Name": "CityReligionFollowersChanged"
+    },
+    {
+        "Name": "CityRemovedFromMap"
+    },
+    {
+        "Name": "CitySiegeStatusChanged"
+    },
+    {
+        "Name": "CityTileOwnershipChanged"
+    },
+    {
+        "Name": "CityTradePowerChanged"
+    },
+    {
+        "Name": "CityTradePowerUnlockChanged"
+    },
+    {
+        "Name": "CityTransfered"
+    },
+    {
+        "Name": "CityRazingStarted"
+    },
+    {
+        "Name": "CityRazingStopped"
+    },
+    {
+        "Name": "CityUnitsChanged"
+    },
+    {
+        "Name": "CityVisibilityChanged"
+    },
+    {
+        "Name": "CityWorkerChanged"
+    },
+    {
+        "Name": "CityYieldChanged"
+    },
+    {
+        "Name": "CliffAddedToMap"
+    },
+    {
+        "Name": "CliffRemovedFromMap"
+    },
+    {
+        "Name": "Combat"
+    },
+    {
+        "Name": "ConstructibleActivated"
+    },
+    {
+        "Name": "ConstructibleAddedToMap"
+    },
+    {
+        "Name": "ConstructibleBuildCompleted"
+    },
+    {
+        "Name": "ConstructibleChanged"
+    },
+    {
+        "Name": "ConstructibleDamaged"
+    },
+    {
+        "Name": "ConstructibleEffectAdded"
+    },
+    {
+        "Name": "ConstructibleEffectChanged"
+    },
+    {
+        "Name": "ConstructibleEffectRemoved"
+    },
+    {
+        "Name": "ConstructibleOwnershipChanged"
+    },
+    {
+        "Name": "ConstructibleRemovedFromMap"
+    },
+    {
+        "Name": "ConstructibleVisibilityChanged"
+    },
+    {
+        "Name": "CultureNodeCompleted"
+    },
+    {
+        "Name": "CultureTreeChanged"
+    },
+    {
+        "Name": "CultureTargetChanged"
+    },
+    {
+        "Name": "CultureTreeRevealed"
+    },
+    {
+        "Name": "CultureYieldChanged"
+    },
+    {
+        "Name": "DiplomacyDealEnacted"
+    },
+    {
+        "Name": "DiplomacyDealExpired"
+    },
+    {
+        "Name": "DiplomacyDeclareWar"
+    },
+    {
+        "Name": "DiplomacyEventCanceled"
+    },
+    {
+        "Name": "DiplomacyEventStarted"
+    },
+    {
+        "Name": "DiplomacyEventEnded"
+    },
+    {
+        "Name": "DiplomacyEventResponse"
+    },
+    {
+        "Name": "DiplomacyEventSupportChanged"
+    },
+    {
+        "Name": "DiplomacyFavorsChanged"
+    },
+    {
+        "Name": "DiplomacyGlobalTokensChanged"
+    },
+    {
+        "Name": "DiplomacyGrievancesChanged"
+    },
+    {
+        "Name": "DiplomacyIncomingDeal"
+    },
+    {
+        "Name": "DiplomacyMakePeace"
+    },
+    {
+        "Name": "DiplomacyMeet"
+    },
+    {
+        "Name": "DiplomacyMeetIndependents"
+    },
+    {
+        "Name": "DiplomacyMeetMajorMinor"
+    },
+    {
+        "Name": "DiplomacyMeetMajors"
+    },
+    {
+        "Name": "DiplomacyRefusePeace"
+    },
+    {
+        "Name": "DiplomacyRelationshipChanged"
+    },
+    {
+        "Name": "DiplomacyRelationshipStatusChanged"
+    },
+    {
+        "Name": "DiplomacySessionClosed"
+    },
+    {
+        "Name": "DiplomacyStatement"
+    },
+    {
+        "Name": "DiplomacyTreasuryChanged"
+    },
+    {
+        "Name": "DistrictAddedToMap"
+    },
+    {
+        "Name": "DistrictBuildProgressChanged"
+    },
+    {
+        "Name": "DistrictBuildingRestore"
+    },
+    {
+        "Name": "DistrictChanged"
+    },
+    {
+        "Name": "DistrictCombatChanged"
+    },
+    {
+        "Name": "DistrictControlChanged"
+    },
+    {
+        "Name": "DistrictDamageChanged"
+    },
+    {
+        "Name": "DistrictRemovedFromMap"
+    },
+    {
+        "Name": "DistrictUnitsChanged"
+    },
+    {
+        "Name": "DistrictVisibilityChanged"
+    },
+    {
+        "Name": "EndTurnBlockingChanged"
+    },
+    {
+        "Name": "EndTurnDirty"
+    },
+    {
+        "Name": "EventPopupRequest"
+    },
+    {
+        "Name": "EventPopupResponse"
+    },
+    {
+        "Name": "EventSoundRequest"
+    },
+    {
+        "Name": "FeatureAddedToMap"
+    },
+    {
+        "Name": "FeatureChanged"
+    },
+    {
+        "Name": "FeatureRemovedFromMap"
+    },
+    {
+        "Name": "FeatureVisibilityChanged"
+    },
+    {
+        "Name": "GameAgeChanged"
+    },
+    {
+        "Name": "GamePropertyChanged"
+    },
+    {
+        "Name": "GoodyHutReward"
+    },
+    {
+        "Name": "GovernmentChanged"
+    },
+    {
+        "Name": "GovernmentPolicyChanged"
+    },
+    {
+        "Name": "GovernmentPolicyObsoleted"
+    },
+    {
+        "Name": "GreatPeoplePointsChanged"
+    },
+    {
+        "Name": "GreatPeopleTimelineChanged"
+    },
+    {
+        "Name": "GreatWorkCreated"
+    },
+    {
+        "Name": "GreatWorkMoved"
+    },
+    {
+        "Name": "ImprovementActivated"
+    },
+    {
+        "Name": "ImprovementAddedToMap"
+    },
+    {
+        "Name": "ImprovementChanged"
+    },
+    {
+        "Name": "ImprovementOwnershipChanged"
+    },
+    {
+        "Name": "ImprovementRemovedFromMap"
+    },
+    {
+        "Name": "ImprovementVisibilityChanged"
+    },
+    {
+        "Name": "InfluenceChanged"
+    },
+    {
+        "Name": "InfluenceGiven"
+    },
+    {
+        "Name": "LevyCounterChanged"
+    },
+    {
+        "Name": "LocalPlayerChanged"
+    },
+    {
+        "Name": "LocalPlayerTurnBegin"
+    },
+    {
+        "Name": "LocalPlayerTurnEnd"
+    },
+    {
+        "Name": "LocalPlayerTurnUnready"
+    },
+    {
+        "Name": "MapYieldsChanged"
+    },
+    {
+        "Name": "NarrativeStateEvent"
+    },
+    {
+        "Name": "NaturalWonderRevealed"
+    },
+    {
+        "Name": "NaturalWonderRevealedNarrative"
+    },
+    {
+        "Name": "NotificationActivated"
+    },
+    {
+        "Name": "NotificationAdded"
+    },
+    {
+        "Name": "NotificationDismissed"
+    },
+    {
+        "Name": "NotificationRefreshRequested"
+    },
+    {
+        "Name": "NuclearReactorChanged"
+    },
+    {
+        "Name": "ObjectPairing"
+    },
+    {
+        "Name": "OnAiAdvisorUpdated"
+    },
+    {
+        "Name": "PantheonFounded"
+    },
+    {
+        "Name": "PhaseBegin"
+    },
+    {
+        "Name": "PhaseEnd"
+    },
+    {
+        "Name": "PlayerAgeChanged"
+    },
+    {
+        "Name": "PlayerAgeTransitionComplete"
+    },
+    {
+        "Name": "PlayerAgeTransitionBegins"
+    },
+    {
+        "Name": "PlayerBordersChanged"
+    },
+    {
+        "Name": "PlayerSettlementCapChanged"
+    },
+    {
+        "Name": "PlayerCultureChanged"
+    },
+    {
+        "Name": "PlayerDefeat"
+    },
+    {
+        "Name": "PlayerDestroyed"
+    },
+    {
+        "Name": "PlayerOperationComplete"
+    },
+    {
+        "Name": "PlayerResourceChanged"
+    },
+    {
+        "Name": "PlayerRestored"
+    },
+    {
+        "Name": "PlayerRevived"
+    },
+    {
+        "Name": "PlayerTurnActivated"
+    },
+    {
+        "Name": "PlayerTurnDeactivated"
+    },
+    {
+        "Name": "PlotAppealChanged"
+    },
+    {
+        "Name": "PlotMarkerChanged"
+    },
+    {
+        "Name": "PlotOwnershipChanged"
+    },
+    {
+        "Name": "PlotPropertyChanged"
+    },
+    {
+        "Name": "PlotVisibilityChanged"
+    },
+    {
+        "Name": "PlotYieldChanged"
+    },
+    {
+        "Name": "PreTurnBegin"
+    },
+    {
+        "Name": "QuestChanged"
+    },
+    {
+        "Name": "QueueFlushed"
+    },
+    {
+        "Name": "ReligionFounded"
+    },
+    {
+        "Name": "UrbanReligionChanged"
+    },
+    {
+        "Name": "RuralReligionChanged"
+    },
+    {
+        "Name": "RemotePlayerTurnBegin"
+    },
+    {
+        "Name": "RemotePlayerTurnEnd"
+    },
+    {
+        "Name": "RemotePlayerTurnUnready"
+    },
+    {
+        "Name": "ResourceAddedToMap"
+    },
+    {
+        "Name": "ResourceChanged"
+    },
+    {
+        "Name": "ResourceRemovedFromMap"
+    },
+    {
+        "Name": "ResourceVisibilityChanged"
+    },
+    {
+        "Name": "RiverAddedToMap"
+    },
+    {
+        "Name": "RiverRemovedFromMap"
+    },
+    {
+        "Name": "RouteAddedToMap"
+    },
+    {
+        "Name": "RouteChanged"
+    },
+    {
+        "Name": "RouteRemovedFromMap"
+    },
+    {
+        "Name": "ScienceYieldChanged"
+    },
+    {
+        "Name": "SendScriptEventToApp"
+    },
+    {
+        "Name": "SpyAdded"
+    },
+    {
+        "Name": "SpyMissionCompleted"
+    },
+    {
+        "Name": "SpyMissionUpdated"
+    },
+    {
+        "Name": "SpyRemoved"
+    },
+    {
+        "Name": "SpyUpdated"
+    },
+    {
+        "Name": "StatusMessage"
+    },
+    {
+        "Name": "TeamVictory"
+    },
+    {
+        "Name": "TeamVictoryProgress"
+    },
+    {
+        "Name": "TechNodeCompleted"
+    },
+    {
+        "Name": "TechTreeChanged"
+    },
+    {
+        "Name": "TechTargetChanged"
+    },
+    {
+        "Name": "TerrainStateChanged"
+    },
+    {
+        "Name": "TerrainSubTypeChanged"
+    },
+    {
+        "Name": "TerrainTypeChanged"
+    },
+    {
+        "Name": "TradeRouteAddedToMap"
+    },
+    {
+        "Name": "TradeRouteChanged"
+    },
+    {
+        "Name": "TradeRouteRemovedFromMap"
+    },
+    {
+        "Name": "TraditionChanged"
+    },
+    {
+        "Name": "TraditionSlotsAdded"
+    },
+    {
+        "Name": "TraditionUnlocked"
+    },
+    {
+        "Name": "TreasuryChanged"
+    },
+    {
+        "Name": "TurnBegin"
+    },
+    {
+        "Name": "TurnEnd"
+    },
+    {
+        "Name": "UnitAbilityGained"
+    },
+    {
+        "Name": "UnitAbilityLost"
+    },
+    {
+        "Name": "UnitActivate"
+    },
+    {
+        "Name": "UnitActivityChanged"
+    },
+    {
+        "Name": "UnitAddedToArmy"
+    },
+    {
+        "Name": "UnitAddedToMap"
+    },
+    {
+        "Name": "UnitAirlifted"
+    },
+    {
+        "Name": "UnitArmyZOCChanged"
+    },
+    {
+        "Name": "UnitArtifactChanged"
+    },
+    {
+        "Name": "UnitAttacksRemainingChanged"
+    },
+    {
+        "Name": "UnitCaptured"
+    },
+    {
+        "Name": "UnitChargesChanged"
+    },
+    {
+        "Name": "UnitCommandStarted"
+    },
+    {
+        "Name": "UnitDamageChanged"
+    },
+    {
+        "Name": "UnitEmbarkedStateChanged"
+    },
+    {
+        "Name": "UnitEnterFormation"
+    },
+    {
+        "Name": "UnitExitFormation"
+    },
+    {
+        "Name": "UnitFormationChanged"
+    },
+    {
+        "Name": "UnitFortificationChanged"
+    },
+    {
+        "Name": "UnitGreatPersonActivated"
+    },
+    {
+        "Name": "UnitGreatPersonChanged"
+    },
+    {
+        "Name": "UnitGreatPersonCreated"
+    },
+    {
+        "Name": "UnitJumped"
+    },
+    {
+        "Name": "UnitKilledInCombat"
+    },
+    {
+        "Name": "UnitDestroyed"
+    },
+    {
+        "Name": "UnitMoveComplete"
+    },
+    {
+        "Name": "UnitMoved"
+    },
+    {
+        "Name": "UnitMovementPointsChanged"
+    },
+    {
+        "Name": "UnitMovementPointsCleared"
+    },
+    {
+        "Name": "UnitMovementPointsRestored"
+    },
+    {
+        "Name": "UnitOperationAdded"
+    },
+    {
+        "Name": "UnitOperationDeactivated"
+    },
+    {
+        "Name": "UnitOperationSegmentComplete"
+    },
+    {
+        "Name": "UnitOperationStarted"
+    },
+    {
+        "Name": "UnitOperationsCleared"
+    },
+    {
+        "Name": "UnitParadropped"
+    },
+    {
+        "Name": "UnitPromoted"
+    },
+    {
+        "Name": "UnitPropertyChanged"
+    },
+    {
+        "Name": "UnitRemovedFromArmy"
+    },
+    {
+        "Name": "UnitRemovedFromMap"
+    },
+    {
+        "Name": "UnitTeleported"
+    },
+    {
+        "Name": "UnitBermudaTeleported"
+    },
+    {
+        "Name": "UnitTradeChanged"
+    },
+    {
+        "Name": "UnitUpgraded"
+    },
+    {
+        "Name": "UnitVisibilityChanged"
+    },
+    {
+        "Name": "WMDCountChanged"
+    },
+    {
+        "Name": "WMDDetonated"
+    },
+    {
+        "Name": "WorkerSlotCreated"
+    },
+    {
+        "Name": "WorkerNewWorkerAvailable"
+    },
+    {
+        "Name": "WorkerAdded"
+    },
+    {
+        "Name": "WorkerRemoved"
+    },
+    {
+        "Name": "WonderCompleted"
+    },
+    {
+        "Name": "WonderCompletedNarrative"
+    },
+    {
+        "Name": "WorldBuilderBlockBegin"
+    },
+    {
+        "Name": "WorldBuilderBlockEnd"
+    },
+    {
+        "Name": "WorldTextMessage"
+    },
+    {
+        "Name": "CityAgeChanged"
+    },
+    {
+        "Name": "CityGovernmentLevelChanged"
+    },
+    {
+        "Name": "PlayerYieldsChanged"
+    }
+]

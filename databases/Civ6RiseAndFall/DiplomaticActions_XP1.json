@@ -1,0 +1,66 @@
+[
+    {
+        "AllianceType": "ALLIANCE_RESEARCH",
+        "DiplomaticActionType": "DIPLOACTION_ALLIANCE_RESEARCH",
+        "RequiresAllianceSoonToEnd": 0,
+        "RequiresBrokenPromise": 0,
+        "RequiresDifferentLateGovernment": 0,
+        "RequiresGoldenAgeCommemorationType": null
+    },
+    {
+        "AllianceType": "ALLIANCE_MILITARY",
+        "DiplomaticActionType": "DIPLOACTION_ALLIANCE_MILITARY",
+        "RequiresAllianceSoonToEnd": 0,
+        "RequiresBrokenPromise": 0,
+        "RequiresDifferentLateGovernment": 0,
+        "RequiresGoldenAgeCommemorationType": null
+    },
+    {
+        "AllianceType": "ALLIANCE_ECONOMIC",
+        "DiplomaticActionType": "DIPLOACTION_ALLIANCE_ECONOMIC",
+        "RequiresAllianceSoonToEnd": 0,
+        "RequiresBrokenPromise": 0,
+        "RequiresDifferentLateGovernment": 0,
+        "RequiresGoldenAgeCommemorationType": null
+    },
+    {
+        "AllianceType": "ALLIANCE_CULTURAL",
+        "DiplomaticActionType": "DIPLOACTION_ALLIANCE_CULTURAL",
+        "RequiresAllianceSoonToEnd": 0,
+        "RequiresBrokenPromise": 0,
+        "RequiresDifferentLateGovernment": 0,
+        "RequiresGoldenAgeCommemorationType": null
+    },
+    {
+        "AllianceType": "ALLIANCE_RELIGIOUS",
+        "DiplomaticActionType": "DIPLOACTION_ALLIANCE_RELIGIOUS",
+        "RequiresAllianceSoonToEnd": 0,
+        "RequiresBrokenPromise": 0,
+        "RequiresDifferentLateGovernment": 0,
+        "RequiresGoldenAgeCommemorationType": null
+    },
+    {
+        "AllianceType": null,
+        "DiplomaticActionType": "DIPLOACTION_RENEW_ALLIANCE",
+        "RequiresAllianceSoonToEnd": 1,
+        "RequiresBrokenPromise": 0,
+        "RequiresDifferentLateGovernment": 0,
+        "RequiresGoldenAgeCommemorationType": null
+    },
+    {
+        "AllianceType": null,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_WAR_OF_RETRIBUTION",
+        "RequiresAllianceSoonToEnd": 0,
+        "RequiresBrokenPromise": 1,
+        "RequiresDifferentLateGovernment": 0,
+        "RequiresGoldenAgeCommemorationType": null
+    },
+    {
+        "AllianceType": null,
+        "DiplomaticActionType": "DIPLOACTION_DECLARE_IDEOLOGICAL_WAR",
+        "RequiresAllianceSoonToEnd": 0,
+        "RequiresBrokenPromise": 0,
+        "RequiresDifferentLateGovernment": 1,
+        "RequiresGoldenAgeCommemorationType": null
+    }
+]

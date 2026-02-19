@@ -1,0 +1,730 @@
+[
+    {
+        "ActionId": "accept",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_A",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "camera-pan",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_RTHUMB_AXIS",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "camera-pan",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_LTHUMB_AXIS",
+        "GestureType": "Hybrid",
+        "Index": 0
+    },
+    {
+        "ActionId": "camera-rotate",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_TOUCH_ROTATE",
+        "GestureType": "Touch",
+        "Index": 0
+    },
+    {
+        "ActionId": "camera-zoom-in",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_RTRIGGER",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "camera-zoom-out",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_LTRIGGER",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "cancel",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_B",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "center-plot-cursor",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_RTHUMB_PRESS",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "force-end-turn",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_RETURN+KEY_SHIFT",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "keyboard-camera-modifier",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_ALT",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "keyboard-enter",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_RETURN",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "keyboard-enter",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_E",
+        "GestureType": "KBMouse",
+        "Index": 1
+    },
+    {
+        "ActionId": "keyboard-escape",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_ESCAPE",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "keyboard-nav-down",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_DOWN",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "keyboard-nav-down",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_S",
+        "GestureType": "KBMouse",
+        "Index": 1
+    },
+    {
+        "ActionId": "keyboard-nav-left",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_LEFT",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "keyboard-nav-left",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_A",
+        "GestureType": "KBMouse",
+        "Index": 1
+    },
+    {
+        "ActionId": "keyboard-nav-right",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_RIGHT",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "keyboard-nav-right",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_D",
+        "GestureType": "KBMouse",
+        "Index": 1
+    },
+    {
+        "ActionId": "keyboard-nav-up",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_UP",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "keyboard-nav-up",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_W",
+        "GestureType": "KBMouse",
+        "Index": 1
+    },
+    {
+        "ActionId": "mousebutton-left",
+        "ContextOverrideId": null,
+        "GestureData": "MOUSE_L",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "mousebutton-left",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_RSHOULDER",
+        "GestureType": "Hybrid",
+        "Index": 0
+    },
+    {
+        "ActionId": "mousebutton-middle",
+        "ContextOverrideId": null,
+        "GestureData": "MOUSE_M",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "mousebutton-right",
+        "ContextOverrideId": null,
+        "GestureData": "MOUSE_R",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "mousebutton-right",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_CONTROL+MOUSE_R",
+        "GestureType": "KBMouse",
+        "Index": 1
+    },
+    {
+        "ActionId": "mousebutton-right",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_RTRIGGER",
+        "GestureType": "Hybrid",
+        "Index": 0
+    },
+    {
+        "ActionId": "mousewheel-down",
+        "ContextOverrideId": null,
+        "GestureData": "MOUSE_WHEEL DW",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "mousewheel-up",
+        "ContextOverrideId": null,
+        "GestureData": "MOUSE_WHEEL UP",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "mousewheel-left",
+        "ContextOverrideId": null,
+        "GestureData": "MOUSE_WHEEL LT",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "mousewheel-right",
+        "ContextOverrideId": null,
+        "GestureData": "MOUSE_WHEEL RT",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "cycle-next",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_PERIOD",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "cycle-prev",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_COMMA",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "cycle-next",
+        "ContextOverrideId": null,
+        "GestureData": "MOUSE_X1",
+        "GestureType": "KBMouse",
+        "Index": 1
+    },
+    {
+        "ActionId": "cycle-prev",
+        "ContextOverrideId": null,
+        "GestureData": "MOUSE_X2",
+        "GestureType": "KBMouse",
+        "Index": 1
+    },
+    {
+        "ActionId": "cycle-next",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_LSHOULDER",
+        "GestureType": "Hybrid",
+        "Index": 0
+    },
+    {
+        "ActionId": "cycle-prev",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_LTRIGGER",
+        "GestureType": "Hybrid",
+        "Index": 0
+    },
+    {
+        "ActionId": "nav-down",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_DPAD_DOWN",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "nav-left",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_DPAD_LEFT",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "nav-move",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_LTHUMB_AXIS",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "nav-next",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_RSHOULDER",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "nav-previous",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_LSHOULDER",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "nav-right",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_DPAD_RIGHT",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "nav-shell-next",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_RTRIGGER",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "nav-shell-previous",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_LTRIGGER",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "scroll-pan",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_RTHUMB_AXIS",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "scroll-pan",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_RTHUMB_AXIS",
+        "GestureType": "Hybrid",
+        "Index": 0
+    },
+    {
+        "ActionId": "nav-up",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_DPAD_UP",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "navigate-yields",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_DPAD_RIGHT",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "next-action",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_Y",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "next-action",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_Y",
+        "GestureType": "Hybrid",
+        "Index": 0
+    },
+    {
+        "ActionId": "notification",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_X",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "swap-plot-selection",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_X",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "open-attributes",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_P",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "open-civics",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_C",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "open-greatworks",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_O",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "open-rankings",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_F1",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "open-techs",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_T",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "open-traditions",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_L",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "open-civilopedia",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_F9",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "plot-move",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_LTHUMB_AXIS",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "quick-load",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_F6",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "quick-save",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_F5",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "toggle-grid-layer",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_G",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "toggle-yields-layer",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_Y",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "toggle-resources-layer",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_Q",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "shell-action-1",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_X",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "shell-action-2",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_Y",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "shell-action-3",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_RTHUMB_PRESS",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "shell-action-5",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_BACK",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "squeeze-move-left",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_XR_LSQUEEZE",
+        "GestureType": "XR",
+        "Index": 0
+    },
+    {
+        "ActionId": "squeeze-move-right",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_XR_RSQUEEZE",
+        "GestureType": "XR",
+        "Index": 0
+    },
+    {
+        "ActionId": "sys-menu",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_START",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "toggle-diplo",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_DPAD_UP",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "toggle-chat",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_DPAD_LEFT",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "toggle-quest",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_DPAD_DOWN",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "toggle-radial-menu",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_RSHOULDER",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "open-lens-panel",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_LSHOULDER",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "toggle-tooltip",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_LTHUMB_PRESS",
+        "GestureType": "Controller",
+        "Index": 0
+    },
+    {
+        "ActionId": "touch-complete",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_TOUCH_COMPLETE",
+        "GestureType": "Touch",
+        "Index": 0
+    },
+    {
+        "ActionId": "touch-pan",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_TOUCH_PAN",
+        "GestureType": "Touch",
+        "Index": 0
+    },
+    {
+        "ActionId": "touch-press",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_TOUCH_PRESS",
+        "GestureType": "Touch",
+        "Index": 0
+    },
+    {
+        "ActionId": "touch-swipe",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_TOUCH_SWIPE",
+        "GestureType": "Touch",
+        "Index": 0
+    },
+    {
+        "ActionId": "touch-tap",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_TOUCH_TAP",
+        "GestureType": "Touch",
+        "Index": 0
+    },
+    {
+        "ActionId": "touch-touch",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_TOUCH_TOUCH",
+        "GestureType": "Touch",
+        "Index": 0
+    },
+    {
+        "ActionId": "touch-pinch-in",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_TOUCH_PINCH_IN",
+        "GestureType": "Touch",
+        "Index": 0
+    },
+    {
+        "ActionId": "touch-pinch-out",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_TOUCH_PINCH_OUT",
+        "GestureType": "Touch",
+        "Index": 0
+    },
+    {
+        "ActionId": "touch-pinch-direct",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_TOUCH_PINCH_DIRECT",
+        "GestureType": "Touch",
+        "Index": 0
+    },
+    {
+        "ActionId": "trigger-accept-dip",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_XR_RTRIGGER",
+        "GestureType": "XR",
+        "Index": 0
+    },
+    {
+        "ActionId": "unit-move",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_M",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "unit-ranged-attack",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_R",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "unit-skip-turn",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_SPACE",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "unit-skip-turn",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_PAD_X",
+        "GestureType": "Hybrid",
+        "Index": 0
+    },
+    {
+        "ActionId": "unit-sleep",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_Z",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "unit-heal",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_H",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "unit-fortify",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_F",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "unit-alert",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_V",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "unit-auto-explore",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_X",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "text-to-speech-keyboard",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_N",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "toggle-frame-stats",
+        "ContextOverrideId": null,
+        "GestureData": "KEY_ALT+KEY_F1",
+        "GestureType": "KBMouse",
+        "Index": 0
+    },
+    {
+        "ActionId": "xr-game-camera-pan",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_XR_LTHUMB_AXIS",
+        "GestureType": "XR",
+        "Index": 0
+    },
+    {
+        "ActionId": "xr-game-camera-pan",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_XR_RTHUMB_AXIS",
+        "GestureType": "XR",
+        "Index": 1
+    },
+    {
+        "ActionId": "xr-trigger-accept",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_XR_LTRIGGER",
+        "GestureType": "XR",
+        "Index": 0
+    },
+    {
+        "ActionId": "xr-trigger-accept",
+        "ContextOverrideId": null,
+        "GestureData": "LOC_OPTIONS_XR_RTRIGGER",
+        "GestureType": "XR",
+        "Index": 1
+    }
+]

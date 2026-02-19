@@ -1,0 +1,152 @@
+[
+    {
+        "BuildingType": "BUILDING_MINT",
+        "ResourceType": "RESOURCE_GOLD",
+        "Yield": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_MINT",
+        "ResourceType": "RESOURCE_SILVER",
+        "Yield": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_GRANARY",
+        "ResourceType": "RESOURCE_WHEAT",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_STABLE",
+        "ResourceType": "RESOURCE_SHEEP",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_GRANARY",
+        "ResourceType": "RESOURCE_BANANA",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_STABLE",
+        "ResourceType": "RESOURCE_HORSE",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_GRANARY",
+        "ResourceType": "RESOURCE_DEER",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_STABLE",
+        "ResourceType": "RESOURCE_COW",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_LIGHTHOUSE",
+        "ResourceType": "RESOURCE_FISH",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_FORGE",
+        "ResourceType": "RESOURCE_IRON",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_STONE_WORKS",
+        "ResourceType": "RESOURCE_MARBLE",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_STONE_WORKS",
+        "ResourceType": "RESOURCE_STONE",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_BAZAAR",
+        "ResourceType": "RESOURCE_OIL",
+        "Yield": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_MONASTERY",
+        "ResourceType": "RESOURCE_INCENSE",
+        "Yield": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_MONASTERY",
+        "ResourceType": "RESOURCE_WINE",
+        "Yield": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_MONASTERY",
+        "ResourceType": "RESOURCE_INCENSE",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MONASTERY",
+        "ResourceType": "RESOURCE_WINE",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MAUSOLEUM_HALICARNASSUS",
+        "ResourceType": "RESOURCE_MARBLE",
+        "Yield": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_MAUSOLEUM_HALICARNASSUS",
+        "ResourceType": "RESOURCE_STONE",
+        "Yield": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_DUCAL_STABLE",
+        "ResourceType": "RESOURCE_SHEEP",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_DUCAL_STABLE",
+        "ResourceType": "RESOURCE_HORSE",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_DUCAL_STABLE",
+        "ResourceType": "RESOURCE_COW",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_DUCAL_STABLE",
+        "ResourceType": "RESOURCE_SHEEP",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_DUCAL_STABLE",
+        "ResourceType": "RESOURCE_HORSE",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_DUCAL_STABLE",
+        "ResourceType": "RESOURCE_COW",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    }
+]

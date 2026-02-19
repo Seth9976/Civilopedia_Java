@@ -1,0 +1,194 @@
+[
+    {
+        "UnitAbilityType": "ABILITY_FLEET_COMMANDER_MOVEMENT",
+        "UnitClassType": "UNIT_CLASS_FLEET_COMMANDER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_EMBED_LOOKOUT_RECON",
+        "UnitClassType": "UNIT_CLASS_RECON_ABILITIES"
+    },
+    {
+        "UnitAbilityType": "ABILITY_RESETTLE",
+        "UnitClassType": "UNIT_CLASS_POPULATION"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SHOCK_ATTACK",
+        "UnitClassType": "UNIT_CLASS_CAVALRY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SKIRMISH",
+        "UnitClassType": "UNIT_CLASS_SKIRMISH"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SKIRMISH",
+        "UnitClassType": "UNIT_CLASS_LIGHT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SWIFT",
+        "UnitClassType": "UNIT_CLASS_MOUNTED"
+    },
+    {
+        "UnitAbilityType": "ABILITY_STEALTH",
+        "UnitClassType": "UNIT_CLASS_STEALTH"
+    },
+    {
+        "UnitAbilityType": "ABILITY_ENTER_FOREIGN_LANDS",
+        "UnitClassType": "UNIT_CLASS_MAKE_TRADE_ROUTE"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SEE_HIDDEN_UNIT",
+        "UnitClassType": "UNIT_CLASS_SEE_HIDDEN"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HILLFORT",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_APERAL_CAVALRY_COMBAT_STRENGTH",
+        "UnitClassType": "UNIT_CLASS_CAVALRY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_KHAY_MEDJAY_COMBAT_STRENGTH",
+        "UnitClassType": "UNIT_CLASS_MEDJAY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_XENOPHON_HOPLITE_COMBAT_STRENGTH",
+        "UnitClassType": "UNIT_CLASS_HOPLITE"
+    },
+    {
+        "UnitAbilityType": "ABILITY_BURNING_ARROW",
+        "UnitClassType": "UNIT_CLASS_BURNING_ARROW"
+    },
+    {
+        "UnitAbilityType": "ABILITY_DANTINAS_TATHA",
+        "UnitClassType": "UNIT_CLASS_DANTINAS_TATHA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_DHOW",
+        "UnitClassType": "UNIT_CLASS_DHOW"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HAMARANA_COUNCIL",
+        "UnitClassType": "UNIT_CLASS_INFANTRY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HAN_YI",
+        "UnitClassType": "UNIT_CLASS_NU"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HAZARAPATIS",
+        "UnitClassType": "UNIT_CLASS_HAZARAPATIS"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HOPLITE",
+        "UnitClassType": "UNIT_CLASS_HOPLITE"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HULCHE",
+        "UnitClassType": "UNIT_CLASS_HULCHE"
+    },
+    {
+        "UnitAbilityType": "ABILITY_IMMORTAL",
+        "UnitClassType": "UNIT_CLASS_IMMORTAL"
+    },
+    {
+        "UnitAbilityType": "ABILITY_LEGION",
+        "UnitClassType": "UNIT_CLASS_LEGION"
+    },
+    {
+        "UnitAbilityType": "ABILITY_MEDJAY",
+        "UnitClassType": "UNIT_CLASS_MEDJAY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_NU",
+        "UnitClassType": "UNIT_CLASS_NU"
+    },
+    {
+        "UnitAbilityType": "ABILITY_PURABHETTARAH",
+        "UnitClassType": "UNIT_CLASS_PURABHETTARAH"
+    },
+    {
+        "UnitAbilityType": "ABILITY_STONE_TRAP",
+        "UnitClassType": "UNIT_CLASS_JAGUAR_SLAYER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_FOEDERATI",
+        "UnitClassType": "UNIT_CLASS_FOEDERATI"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SEARCH_RECON",
+        "UnitClassType": "UNIT_CLASS_RECON_ABILITIES"
+    },
+    {
+        "UnitAbilityType": "ABILITY_LEGATUS",
+        "UnitClassType": "UNIT_CLASS_LEGATUS"
+    },
+    {
+        "UnitAbilityType": "ABILITY_TANKWA",
+        "UnitClassType": "UNIT_CLASS_TANKWA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_VAISHYA",
+        "UnitClassType": "UNIT_CLASS_VAISHYA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_WATONATHI",
+        "UnitClassType": "UNIT_CLASS_WATONATHI"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HALICARNASSUS",
+        "UnitClassType": "UNIT_CLASS_CAVALRY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_NUMIDIAN_CAVALRY",
+        "UnitClassType": "UNIT_CLASS_NUMIDIAN_CAVALRY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_COLONIST",
+        "UnitClassType": "UNIT_CLASS_COLONIST"
+    },
+    {
+        "UnitAbilityType": "ABILITY_TECUMSEH_SUZERAIN",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HWARANG",
+        "UnitClassType": "UNIT_CLASS_HWARANG"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HWARANG_CULTURE",
+        "UnitClassType": "UNIT_CLASS_HWARANG"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SANGDAEDEUNG",
+        "UnitClassType": "UNIT_CLASS_SANGDAEDEUNG"
+    },
+    {
+        "UnitAbilityType": "ABILITY_KALIA",
+        "UnitClassType": "UNIT_CLASS_KALIA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_TEHINA",
+        "UnitClassType": "UNIT_CLASS_TEHINA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_GENGHIS_KHAN_ARMY_COMMANDER",
+        "UnitClassType": "UNIT_CLASS_ARMY_COMMANDER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_MAGARRU",
+        "UnitClassType": "UNIT_CLASS_MAGARRU"
+    },
+    {
+        "UnitAbilityType": "ABILITY_TURTANU",
+        "UnitClassType": "UNIT_CLASS_TURTANU"
+    },
+    {
+        "UnitAbilityType": "ABILITY_KIBRAT_ARBA_I",
+        "UnitClassType": "UNIT_CLASS_TURTANU"
+    },
+    {
+        "UnitAbilityType": "ABILITY_KIBRAT_ARBA_I_COMBAT",
+        "UnitClassType": "UNIT_CLASS_MAGARRU"
+    }
+]

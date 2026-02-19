@@ -1,0 +1,832 @@
+[
+    {
+        "DefaultUnit": "UNIT_SETTLER",
+        "Description": "TXT_KEY_UNIT_SETTLER",
+        "ID": 0,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_SETTLER"
+    },
+    {
+        "DefaultUnit": "UNIT_WORKER",
+        "Description": "TXT_KEY_UNIT_WORKER",
+        "ID": 1,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_WORKER"
+    },
+    {
+        "DefaultUnit": "UNIT_WARRIOR",
+        "Description": "TXT_KEY_UNIT_WARRIOR",
+        "ID": 2,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_WARRIOR"
+    },
+    {
+        "DefaultUnit": "UNIT_SCOUT",
+        "Description": "TXT_KEY_UNIT_SCOUT",
+        "ID": 3,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_SCOUT"
+    },
+    {
+        "DefaultUnit": "UNIT_ARCHER",
+        "Description": "TXT_KEY_UNIT_ARCHER",
+        "ID": 4,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_ARCHER"
+    },
+    {
+        "DefaultUnit": "UNIT_SPEARMAN",
+        "Description": "TXT_KEY_UNIT_SPEARMAN",
+        "ID": 5,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_SPEARMAN"
+    },
+    {
+        "DefaultUnit": "UNIT_CHARIOT_ARCHER",
+        "Description": "Chariot Archers",
+        "ID": 6,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_CHARIOT_ARCHER"
+    },
+    {
+        "DefaultUnit": "UNIT_SWORDSMAN",
+        "Description": "TXT_KEY_UNIT_SWORDSMAN",
+        "ID": 7,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_SWORDSMAN"
+    },
+    {
+        "DefaultUnit": "UNIT_HORSEMAN",
+        "Description": "Horsemen",
+        "ID": 8,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_HORSEMAN"
+    },
+    {
+        "DefaultUnit": "UNIT_CATAPULT",
+        "Description": "TXT_KEY_UNIT_CATAPULT",
+        "ID": 9,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_CATAPULT"
+    },
+    {
+        "DefaultUnit": "UNIT_KNIGHT",
+        "Description": "TXT_KEY_UNIT_KNIGHT",
+        "ID": 10,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_KNIGHT"
+    },
+    {
+        "DefaultUnit": "UNIT_CROSSBOWMAN",
+        "Description": "TXT_KEY_UNIT_CROSSBOWMAN",
+        "ID": 11,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_CROSSBOWMAN"
+    },
+    {
+        "DefaultUnit": "UNIT_PIKEMAN",
+        "Description": "TXT_KEY_UNIT_PIKEMAN",
+        "ID": 12,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_PIKEMAN"
+    },
+    {
+        "DefaultUnit": "UNIT_TREBUCHET",
+        "Description": "TXT_KEY_UNIT_TREBUCHET",
+        "ID": 13,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_TREBUCHET"
+    },
+    {
+        "DefaultUnit": "UNIT_LONGSWORDSMAN",
+        "Description": "Longswordsmen",
+        "ID": 14,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_LONGSWORDSMAN"
+    },
+    {
+        "DefaultUnit": "UNIT_MUSKETMAN",
+        "Description": "TXT_KEY_UNIT_MUSKETMAN",
+        "ID": 15,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_MUSKETMAN"
+    },
+    {
+        "DefaultUnit": "UNIT_CANNON",
+        "Description": "TXT_KEY_UNIT_CANNON",
+        "ID": 16,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_CANNON"
+    },
+    {
+        "DefaultUnit": "UNIT_LANCER",
+        "Description": "Lancers",
+        "ID": 17,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_LANCER"
+    },
+    {
+        "DefaultUnit": "UNIT_RIFLEMAN",
+        "Description": "TXT_KEY_UNIT_RIFLEMAN",
+        "ID": 18,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_RIFLEMAN"
+    },
+    {
+        "DefaultUnit": "UNIT_CAVALRY",
+        "Description": "TXT_KEY_UNIT_CAVALRY",
+        "ID": 19,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_CAVALRY"
+    },
+    {
+        "DefaultUnit": "UNIT_INFANTRY",
+        "Description": "TXT_KEY_UNIT_INFANTRY",
+        "ID": 20,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_INFANTRY"
+    },
+    {
+        "DefaultUnit": "UNIT_ARTILLERY",
+        "Description": "TXT_KEY_UNIT_ARTILLERY",
+        "ID": 21,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_ARTILLERY"
+    },
+    {
+        "DefaultUnit": "UNIT_TANK",
+        "Description": "TXT_KEY_UNIT_TANK",
+        "ID": 22,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_TANK"
+    },
+    {
+        "DefaultUnit": "UNIT_ANTI_TANK_GUN",
+        "Description": "Anti-Tank Guns",
+        "ID": 23,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_ANTI_TANK_GUN"
+    },
+    {
+        "DefaultUnit": "UNIT_ANTI_AIRCRAFT_GUN",
+        "Description": "Anti-Aircraft Guns",
+        "ID": 24,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_ANTI_AIRCRAFT_GUN"
+    },
+    {
+        "DefaultUnit": "UNIT_PARATROOPER",
+        "Description": "TXT_KEY_UNIT_PARATROOPER",
+        "ID": 25,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_PARATROOPER"
+    },
+    {
+        "DefaultUnit": "UNIT_FIGHTER",
+        "Description": "TXT_KEY_UNIT_FIGHTER",
+        "ID": 26,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_FIGHTER"
+    },
+    {
+        "DefaultUnit": "UNIT_BOMBER",
+        "Description": "TXT_KEY_UNIT_BOMBER",
+        "ID": 27,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_BOMBER"
+    },
+    {
+        "DefaultUnit": "UNIT_ATOMIC_BOMB",
+        "Description": "Atomic Bomb",
+        "ID": 28,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_ATOMIC_BOMB"
+    },
+    {
+        "DefaultUnit": "UNIT_ROCKET_ARTILLERY",
+        "Description": "Rocket Artillery",
+        "ID": 29,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_ROCKET_ARTILLERY"
+    },
+    {
+        "DefaultUnit": "UNIT_MECHANIZED_INFANTRY",
+        "Description": "TXT_KEY_UNIT_MECHANIZED_INFANTRY",
+        "ID": 30,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_MECHANIZED_INFANTRY"
+    },
+    {
+        "DefaultUnit": "UNIT_MODERN_ARMOR",
+        "Description": "TXT_KEY_UNIT_MODERN_ARMOR",
+        "ID": 31,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_MODERN_ARMOR"
+    },
+    {
+        "DefaultUnit": "UNIT_HELICOPTER_GUNSHIP",
+        "Description": "Helicopter Gunships",
+        "ID": 32,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_HELICOPTER_GUNSHIP"
+    },
+    {
+        "DefaultUnit": "UNIT_MOBILE_SAM",
+        "Description": "TXT_KEY_UNIT_MOBILE_SAM",
+        "ID": 33,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_MOBILE_SAM"
+    },
+    {
+        "DefaultUnit": "UNIT_GUIDED_MISSILE",
+        "Description": "TXT_KEY_UNIT_GUIDED_MISSILE",
+        "ID": 34,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_GUIDED_MISSILE"
+    },
+    {
+        "DefaultUnit": "UNIT_JET_FIGHTER",
+        "Description": "TXT_KEY_UNIT_JET_FIGHTER",
+        "ID": 35,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_JET_FIGHTER"
+    },
+    {
+        "DefaultUnit": "UNIT_STEALTH_BOMBER",
+        "Description": "TXT_KEY_UNIT_STEALTH_BOMBER",
+        "ID": 36,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_STEALTH_BOMBER"
+    },
+    {
+        "DefaultUnit": "UNIT_NUCLEAR_MISSILE",
+        "Description": "TXT_KEY_UNIT_NUCLEAR_MISSILE",
+        "ID": 37,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_NUCLEAR_MISSILE"
+    },
+    {
+        "DefaultUnit": "UNIT_MECH",
+        "Description": "TXT_KEY_UNIT_MECH",
+        "ID": 38,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_MECH"
+    },
+    {
+        "DefaultUnit": "UNIT_WORKBOAT",
+        "Description": "TXT_KEY_UNIT_WORK_BOAT",
+        "ID": 39,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_WORKBOAT"
+    },
+    {
+        "DefaultUnit": "NONE",
+        "Description": "TXT_KEY_UNIT_GALLEY",
+        "ID": 40,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_GALLEY"
+    },
+    {
+        "DefaultUnit": "UNIT_TRIREME",
+        "Description": "TXT_KEY_UNIT_TRIREME",
+        "ID": 41,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_TRIREME"
+    },
+    {
+        "DefaultUnit": "UNIT_CARAVEL",
+        "Description": "TXT_KEY_UNIT_CARAVEL",
+        "ID": 42,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_CARAVEL"
+    },
+    {
+        "DefaultUnit": "UNIT_FRIGATE",
+        "Description": "TXT_KEY_UNIT_FRIGATE",
+        "ID": 43,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_FRIGATE"
+    },
+    {
+        "DefaultUnit": "UNIT_IRONCLAD",
+        "Description": "TXT_KEY_UNIT_IRONCLAD",
+        "ID": 44,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_IRONCLAD"
+    },
+    {
+        "DefaultUnit": "UNIT_DESTROYER",
+        "Description": "TXT_KEY_UNIT_DESTROYER",
+        "ID": 45,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_DESTROYER"
+    },
+    {
+        "DefaultUnit": "UNIT_BATTLESHIP",
+        "Description": "TXT_KEY_UNIT_BATTLESHIP",
+        "ID": 46,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_BATTLESHIP"
+    },
+    {
+        "DefaultUnit": "UNIT_SUBMARINE",
+        "Description": "TXT_KEY_UNIT_SUBMARINE",
+        "ID": 47,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_SUBMARINE"
+    },
+    {
+        "DefaultUnit": "UNIT_CARRIER",
+        "Description": "TXT_KEY_UNIT_CARRIER",
+        "ID": 48,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_CARRIER"
+    },
+    {
+        "DefaultUnit": "UNIT_NUCLEAR_SUBMARINE",
+        "Description": "TXT_KEY_UNIT_NUCLEAR_SUBMARINE",
+        "ID": 49,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_NUCLEAR_SUBMARINE"
+    },
+    {
+        "DefaultUnit": "UNIT_MISSILE_CRUISER",
+        "Description": "TXT_KEY_UNIT_MISSILE_CRUISER",
+        "ID": 50,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_MISSILE_CRUISER"
+    },
+    {
+        "DefaultUnit": "UNIT_ARTIST",
+        "Description": "TXT_KEY_UNIT_GREAT_ARTIST",
+        "ID": 51,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_ARTIST"
+    },
+    {
+        "DefaultUnit": "UNIT_SCIENTIST",
+        "Description": "TXT_KEY_UNIT_GREAT_SCIENTIST",
+        "ID": 52,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_SCIENTIST"
+    },
+    {
+        "DefaultUnit": "UNIT_MERCHANT",
+        "Description": "TXT_KEY_UNIT_GREAT_MERCHANT",
+        "ID": 53,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_MERCHANT"
+    },
+    {
+        "DefaultUnit": "UNIT_ENGINEER",
+        "Description": "TXT_KEY_UNIT_GREAT_ENGINEER",
+        "ID": 54,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_ENGINEER"
+    },
+    {
+        "DefaultUnit": "UNIT_GREAT_GENERAL",
+        "Description": "TXT_KEY_UNIT_GREAT_GENERAL",
+        "ID": 55,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_GREAT_GENERAL"
+    },
+    {
+        "DefaultUnit": "UNIT_SS_COCKPIT",
+        "Description": "TXT_KEY_SS_COCKPIT",
+        "ID": 56,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": 1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_SS_COCKPIT"
+    },
+    {
+        "DefaultUnit": "UNIT_SS_STASIS_CHAMBER",
+        "Description": "TXT_KEY_SS_STASIS_CHAMBER",
+        "ID": 57,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": 1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_SS_STASIS_CHAMBER"
+    },
+    {
+        "DefaultUnit": "UNIT_SS_ENGINE",
+        "Description": "TXT_KEY_SS_ENGINE",
+        "ID": 58,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": 1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_SS_ENGINE"
+    },
+    {
+        "DefaultUnit": "UNIT_SS_BOOSTER",
+        "Description": "TXT_KEY_SS_BOOSTER",
+        "ID": 59,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": 3,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_SS_BOOSTER"
+    },
+    {
+        "DefaultUnit": "UNIT_PROPHET",
+        "Description": "TXT_KEY_UNIT_PROPHET",
+        "ID": 74,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_PROPHET"
+    },
+    {
+        "DefaultUnit": "UNIT_MISSIONARY",
+        "Description": "TXT_KEY_UNIT_MISSIONARY",
+        "ID": 75,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_MISSIONARY"
+    },
+    {
+        "DefaultUnit": "UNIT_COMPOSITE_BOWMAN",
+        "Description": "TXT_KEY_UNIT_COMPOSITE_BOWMAN",
+        "ID": 76,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_COMPOSITE_BOWMAN"
+    },
+    {
+        "DefaultUnit": "UNIT_GATLINGGUN",
+        "Description": "TXT_KEY_UNIT_GATLINGGUN",
+        "ID": 77,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_GATLINGGUN"
+    },
+    {
+        "DefaultUnit": "UNIT_GALLEASS",
+        "Description": "TXT_KEY_UNIT_GALLEASS",
+        "ID": 78,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_GALLEASS"
+    },
+    {
+        "DefaultUnit": "UNIT_GREAT_WAR_INFANTRY",
+        "Description": "TXT_KEY_UNIT_GREAT_WAR_INFANTRY",
+        "ID": 79,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_GREAT_WAR_INFANTRY"
+    },
+    {
+        "DefaultUnit": "UNIT_MARINE",
+        "Description": "TXT_KEY_UNIT_MARINE",
+        "ID": 80,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_MARINE"
+    },
+    {
+        "DefaultUnit": "UNIT_TRIPLANE",
+        "Description": "TXT_KEY_UNIT_TRIPLANE",
+        "ID": 81,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_TRIPLANE"
+    },
+    {
+        "DefaultUnit": "UNIT_WWI_BOMBER",
+        "Description": "TXT_KEY_UNIT_WWI_BOMBER",
+        "ID": 82,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_WWI_BOMBER"
+    },
+    {
+        "DefaultUnit": "UNIT_WWI_TANK",
+        "Description": "TXT_KEY_UNIT_WWI_TANK",
+        "ID": 83,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_WWI_TANK"
+    },
+    {
+        "DefaultUnit": "UNIT_MACHINE_GUN",
+        "Description": "TXT_KEY_UNIT_MACHINE_GUN",
+        "ID": 84,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_MACHINE_GUN"
+    },
+    {
+        "DefaultUnit": "UNIT_PRIVATEER",
+        "Description": "TXT_KEY_UNIT_PRIVATEER",
+        "ID": 85,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_PRIVATEER"
+    },
+    {
+        "DefaultUnit": "UNIT_INQUISITOR",
+        "Description": "TXT_KEY_UNIT_INQUISITOR",
+        "ID": 86,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_INQUISITOR"
+    },
+    {
+        "DefaultUnit": "UNIT_GREAT_ADMIRAL",
+        "Description": "TXT_KEY_UNIT_GREAT_ADMIRAL",
+        "ID": 87,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_GREAT_ADMIRAL"
+    },
+    {
+        "DefaultUnit": "UNIT_CARGO_SHIP",
+        "Description": "TXT_KEY_UNIT_CARGO_SHIP",
+        "ID": 88,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_CARGO_SHIP"
+    },
+    {
+        "DefaultUnit": "UNIT_CARAVAN",
+        "Description": "TXT_KEY_UNIT_CARAVAN",
+        "ID": 89,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_CARAVAN"
+    },
+    {
+        "DefaultUnit": "UNIT_WRITER",
+        "Description": "TXT_KEY_UNIT_GREAT_WRITER",
+        "ID": 90,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_WRITER"
+    },
+    {
+        "DefaultUnit": "UNIT_MUSICIAN",
+        "Description": "TXT_KEY_UNIT_GREAT_MUSICIAN",
+        "ID": 91,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_MUSICIAN"
+    },
+    {
+        "DefaultUnit": "UNIT_ARCHAEOLOGIST",
+        "Description": "TXT_KEY_UNIT_ARCHAEOLOGIST",
+        "ID": 92,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_ARCHAEOLOGIST"
+    },
+    {
+        "DefaultUnit": "UNIT_BAZOOKA",
+        "Description": "TXT_KEY_UNIT_BAZOOKA",
+        "ID": 93,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_BAZOOKA"
+    },
+    {
+        "DefaultUnit": "UNIT_XCOM_SQUAD",
+        "Description": "TXT_KEY_UNIT_XCOM_SQUAD",
+        "ID": 94,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_XCOM_SQUAD"
+    },
+    {
+        "DefaultUnit": "UNIT_FRENCH_FOREIGNLEGION",
+        "Description": "TXT_KEY_UNIT_FRENCH_FOREIGNLEGION",
+        "ID": 95,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_FOREIGNLEGION"
+    },
+    {
+        "DefaultUnit": "UNIT_GERMAN_LANDSKNECHT",
+        "Description": "TXT_KEY_UNIT_GERMAN_LANDSKNECHT",
+        "ID": 96,
+        "InstanceCostModifier": 0,
+        "MaxGlobalInstances": -1,
+        "MaxPlayerInstances": -1,
+        "MaxTeamInstances": -1,
+        "Type": "UNITCLASS_LANDSKNECHT"
+    }
+]

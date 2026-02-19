@@ -1,0 +1,44 @@
+[
+    {
+        "CostPerPlayer": 850,
+        "Description": "TXT_KEY_LEAGUE_PROJECT_INTERNATIONAL_SPACE_STATION",
+        "Help": "TXT_KEY_LEAGUE_PROJECT_INTERNATIONAL_SPACE_STATION_SPLASH",
+        "ID": 0,
+        "IconAtlas": "INTL_PROJECT_ATLAS_EXP2",
+        "PortraitIndex": 0,
+        "Process": "PROCESS_INTERNATIONAL_SPACE_STATION",
+        "ProjectSplashImage": "International_SpaceStation_939x614.dds",
+        "RewardTier1": "LEAGUE_PROJECT_REWARD_ISS_1",
+        "RewardTier2": "LEAGUE_PROJECT_REWARD_ISS_2",
+        "RewardTier3": "LEAGUE_PROJECT_REWARD_ISS_3",
+        "Type": "LEAGUE_PROJECT_INTERNATIONAL_SPACE_STATION"
+    },
+    {
+        "CostPerPlayer": 350,
+        "Description": "TXT_KEY_LEAGUE_PROJECT_WORLD_FAIR",
+        "Help": "TXT_KEY_LEAGUE_PROJECT_WORLD_FAIR_SPLASH",
+        "ID": 1,
+        "IconAtlas": "INTL_PROJECT_ATLAS_EXP2",
+        "PortraitIndex": 0,
+        "Process": "PROCESS_WORLD_FAIR",
+        "ProjectSplashImage": "International_WorldsFair_939x614.dds",
+        "RewardTier1": "LEAGUE_PROJECT_REWARD_WORLD_FAIR_1",
+        "RewardTier2": "LEAGUE_PROJECT_REWARD_WORLD_FAIR_2",
+        "RewardTier3": "LEAGUE_PROJECT_REWARD_WORLD_FAIR_3",
+        "Type": "LEAGUE_PROJECT_WORLD_FAIR"
+    },
+    {
+        "CostPerPlayer": 720,
+        "Description": "TXT_KEY_LEAGUE_PROJECT_WORLD_GAMES",
+        "Help": "TXT_KEY_LEAGUE_PROJECT_WORLD_GAMES_SPLASH",
+        "ID": 2,
+        "IconAtlas": "INTL_PROJECT_ATLAS_EXP2",
+        "PortraitIndex": 0,
+        "Process": "PROCESS_WORLD_GAMES",
+        "ProjectSplashImage": "International_Games_939x614.dds",
+        "RewardTier1": "LEAGUE_PROJECT_REWARD_WORLD_GAMES_1",
+        "RewardTier2": "LEAGUE_PROJECT_REWARD_WORLD_GAMES_2",
+        "RewardTier3": "LEAGUE_PROJECT_REWARD_WORLD_GAMES_3",
+        "Type": "LEAGUE_PROJECT_WORLD_GAMES"
+    }
+]

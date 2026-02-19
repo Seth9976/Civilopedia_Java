@@ -1,0 +1,51 @@
+[
+    {
+        "DefaultValue": 1.0,
+        "IconString": "ICON_FOOD",
+        "Name": "LOC_YIELD_FOOD",
+        "OccupiedCityChange": 0.0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DefaultValue": 1.0,
+        "IconString": "ICON_PRODUCTION",
+        "Name": "LOC_YIELD_PRODUCTION",
+        "OccupiedCityChange": 0.0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DefaultValue": 1.0,
+        "IconString": "ICON_GOLD",
+        "Name": "LOC_YIELD_GOLD",
+        "OccupiedCityChange": 0.0,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "DefaultValue": 1.0,
+        "IconString": "ICON_SCIENCE",
+        "Name": "LOC_YIELD_SCIENCE",
+        "OccupiedCityChange": 0.0,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "DefaultValue": 1.0,
+        "IconString": "ICON_CULTURE",
+        "Name": "LOC_YIELD_CULTURE",
+        "OccupiedCityChange": 0.0,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "DefaultValue": 1.0,
+        "IconString": "ICON_HAPPINESS",
+        "Name": "LOC_YIELD_HAPPINESS",
+        "OccupiedCityChange": 0.0,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "DefaultValue": 1.0,
+        "IconString": "ICON_DIPLOMACY",
+        "Name": "LOC_YIELD_DIPLOMACY",
+        "OccupiedCityChange": 0.0,
+        "YieldType": "YIELD_DIPLOMACY"
+    }
+]

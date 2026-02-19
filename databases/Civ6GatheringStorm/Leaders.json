@@ -1,0 +1,1372 @@
+[
+    {
+        "InheritFrom": null,
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_DEFAULT",
+        "Name": "LOC_EMPTY",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_BARBAROSSA",
+        "Name": "LOC_LEADER_BARBAROSSA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_CATHERINE_DE_MEDICI",
+        "Name": "LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_CLEOPATRA",
+        "Name": "LOC_LEADER_CLEOPATRA_ORIGINAL_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_GANDHI",
+        "Name": "LOC_LEADER_GANDHI_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_GILGAMESH",
+        "Name": "LOC_LEADER_GILGAMESH_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_GORGO",
+        "Name": "LOC_LEADER_GORGO_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_HARDRADA",
+        "Name": "LOC_LEADER_HARDRADA_ORIGINAL_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_HOJO",
+        "Name": "LOC_LEADER_HOJO_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MVEMBA",
+        "Name": "LOC_LEADER_MVEMBA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_PEDRO",
+        "Name": "LOC_LEADER_PEDRO_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_PERICLES",
+        "Name": "LOC_LEADER_PERICLES_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_PETER_GREAT",
+        "Name": "LOC_LEADER_PETER_GREAT_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_PHILIP_II",
+        "Name": "LOC_LEADER_PHILIP_II_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_QIN",
+        "Name": "LOC_LEADER_QIN_ORIGINAL_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_SALADIN",
+        "Name": "LOC_LEADER_SALADIN_ORIGINAL_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_TOMYRIS",
+        "Name": "LOC_LEADER_TOMYRIS_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_TRAJAN",
+        "Name": "LOC_LEADER_TRAJAN_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_T_ROOSEVELT",
+        "Name": "LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_VICTORIA",
+        "Name": "LOC_LEADER_VICTORIA_ORIGINAL_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": null,
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_DEFAULT",
+        "Name": "LOC_EMPTY",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_SCIENTIFIC",
+        "Name": "LOC_EMPTY",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_RELIGIOUS",
+        "Name": "LOC_EMPTY",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_TRADE",
+        "Name": "LOC_EMPTY",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_CULTURAL",
+        "Name": "LOC_EMPTY",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_MILITARISTIC",
+        "Name": "LOC_EMPTY",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_INDUSTRIAL",
+        "Name": "LOC_EMPTY",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_INDUSTRIAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_BRUSSELS",
+        "Name": "LOC_CIVILIZATION_BRUSSELS_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_INDUSTRIAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_BUENOS_AIRES",
+        "Name": "LOC_CIVILIZATION_BUENOS_AIRES_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_MILITARISTIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_CARTHAGE",
+        "Name": "LOC_CIVILIZATION_CARTHAGE_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_SCIENTIFIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_GENEVA",
+        "Name": "LOC_CIVILIZATION_GENEVA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_SCIENTIFIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_HATTUSA",
+        "Name": "LOC_CIVILIZATION_HATTUSA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_INDUSTRIAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_HONG_KONG",
+        "Name": "LOC_CIVILIZATION_HONG_KONG_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_TRADE",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_JAKARTA",
+        "Name": "LOC_CIVILIZATION_BANDAR_BRUNEI_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_RELIGIOUS",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_JERUSALEM",
+        "Name": "LOC_CIVILIZATION_JERUSALEM_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_MILITARISTIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_KABUL",
+        "Name": "LOC_CIVILIZATION_KABUL_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_RELIGIOUS",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_KANDY",
+        "Name": "LOC_CIVILIZATION_KANDY_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_CULTURAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_KUMASI",
+        "Name": "LOC_CIVILIZATION_KUMASI_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_RELIGIOUS",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_LA_VENTA",
+        "Name": "LOC_CIVILIZATION_LA_VENTA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_TRADE",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_LISBON",
+        "Name": "LOC_CIVILIZATION_LISBON_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_CULTURAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_MOHENJO_DARO",
+        "Name": "LOC_CIVILIZATION_MOHENJO_DARO_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_CULTURAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_NAN_MADOL",
+        "Name": "LOC_CIVILIZATION_NAN_MADOL_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_MILITARISTIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_PRESLAV",
+        "Name": "LOC_CIVILIZATION_PRESLAV_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_SCIENTIFIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_STOCKHOLM",
+        "Name": "LOC_CIVILIZATION_STOCKHOLM_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_MILITARISTIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_VALLETTA",
+        "Name": "LOC_CIVILIZATION_VALLETTA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_CULTURAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_VILNIUS",
+        "Name": "LOC_CIVILIZATION_VILNIUS_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_RELIGIOUS",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_YEREVAN",
+        "Name": "LOC_CIVILIZATION_YEREVAN_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_TRADE",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_ZANZIBAR",
+        "Name": "LOC_CIVILIZATION_ZANZIBAR_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": null,
+        "IsBarbarianLeader": 1,
+        "LeaderType": "LEADER_BARBARIAN",
+        "Name": "LOC_CIVILIZATION_BARBARIAN_NAME",
+        "OperationList": "Barbarian Ops",
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MONTEZUMA",
+        "Name": "LOC_LEADER_MONTEZUMA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_GITARJA",
+        "Name": "LOC_LEADER_GITARJA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_JAYAVARMAN",
+        "Name": "LOC_LEADER_JAYAVARMAN_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_INDUSTRIAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_AUCKLAND",
+        "Name": "LOC_CIVILIZATION_AUCKLAND_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_CULTURAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_ANTANANARIVO",
+        "Name": "LOC_CIVILIZATION_ANTANANARIVO_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_RELIGIOUS",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_ARMAGH",
+        "Name": "LOC_CIVILIZATION_ARMAGH_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_MILITARISTIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_GRANADA",
+        "Name": "LOC_CIVILIZATION_GRANADA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_TRADE",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_MUSCAT",
+        "Name": "LOC_CIVILIZATION_MUSCAT_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_SCIENTIFIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_PALENQUE",
+        "Name": "LOC_CIVILIZATION_MITLA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_JADWIGA",
+        "Name": "LOC_LEADER_JADWIGA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_AMANITORE",
+        "Name": "LOC_LEADER_AMANITORE_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_ALEXANDER",
+        "Name": "LOC_LEADER_ALEXANDER_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 50,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_CYRUS",
+        "Name": "LOC_LEADER_CYRUS_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_JOHN_CURTIN",
+        "Name": "LOC_LEADER_JOHN_CURTIN_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_CHANDRAGUPTA",
+        "Name": "LOC_LEADER_CHANDRAGUPTA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_GENGHIS_KHAN",
+        "Name": "LOC_LEADER_GENGHIS_KHAN_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_LAUTARO",
+        "Name": "LOC_LEADER_LAUTARO_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_POUNDMAKER",
+        "Name": "LOC_LEADER_POUNDMAKER_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_ROBERT_THE_BRUCE",
+        "Name": "LOC_LEADER_ROBERT_THE_BRUCE_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_SEONDEOK",
+        "Name": "LOC_LEADER_SEONDEOK_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_SHAKA",
+        "Name": "LOC_LEADER_SHAKA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_TAMAR",
+        "Name": "LOC_LEADER_TAMAR_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_WILHELMINA",
+        "Name": "LOC_LEADER_WILHELMINA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_TRADE",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_ANTIOCH",
+        "Name": "LOC_CIVILIZATION_ANTIOCH_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_SCIENTIFIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_BABYLON",
+        "Name": "LOC_CIVILIZATION_BABYLON_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": null,
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_FREE_CITIES",
+        "Name": "LOC_LEADER_FREE_CITIES_NAME",
+        "OperationList": "Free Cities Operations",
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_MILITARISTIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_AKKAD",
+        "Name": "LOC_CIVILIZATION_AKKAD_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_SCIENTIFIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_BOLOGNA",
+        "Name": "LOC_CIVILIZATION_BOLOGNA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_TRADE",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_CAHOKIA",
+        "Name": "LOC_CIVILIZATION_CAHOKIA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_INDUSTRIAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_CARDIFF",
+        "Name": "LOC_CIVILIZATION_CARDIFF_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_SCIENTIFIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_FEZ",
+        "Name": "LOC_CIVILIZATION_FEZ_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_INDUSTRIAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_MEXICO_CITY",
+        "Name": "LOC_CIVILIZATION_MEXICO_CITY_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_RELIGIOUS",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_NAZCA",
+        "Name": "LOC_CIVILIZATION_NAZCA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_MILITARISTIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_NGAZARGAMU",
+        "Name": "LOC_CIVILIZATION_NGAZARGAMU_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_CULTURAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_RAPA_NUI",
+        "Name": "LOC_CIVILIZATION_RAPA_NUI_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_DIDO",
+        "Name": "LOC_LEADER_DIDO_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_ELEANOR_ENGLAND",
+        "Name": "LOC_LEADER_ELEANOR_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_ELEANOR_FRANCE",
+        "Name": "LOC_LEADER_ELEANOR_FRANCE_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_KRISTINA",
+        "Name": "LOC_LEADER_KRISTINA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_KUPE",
+        "Name": "LOC_LEADER_KUPE_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_LAURIER",
+        "Name": "LOC_LEADER_LAURIER_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MANSA_MUSA",
+        "Name": "LOC_LEADER_MANSA_MUSA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MATTHIAS_CORVINUS",
+        "Name": "LOC_LEADER_MATTHIAS_CORVINUS_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_PACHACUTI",
+        "Name": "LOC_LEADER_PACHACUTI_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_SULEIMAN",
+        "Name": "LOC_LEADER_SULEIMAN_ORIGINAL_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_T_ROOSEVELT_ROUGHRIDER",
+        "Name": "LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_ELIZABETH",
+        "Name": "LOC_LEADER_ELIZABETH_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_HARALD_ALT",
+        "Name": "LOC_LEADER_HARALD_ALT_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_VICTORIA_ALT",
+        "Name": "LOC_LEADER_VICTORIA_ALT_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_ABRAHAM_LINCOLN",
+        "Name": "LOC_LEADER_ABRAHAM_LINCOLN_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_NZINGA_MBANDE",
+        "Name": "LOC_LEADER_NZINGA_MBANDE_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_SALADIN_ALT",
+        "Name": "LOC_LEADER_SALADIN_ALT_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_YONGLE",
+        "Name": "LOC_LEADER_YONGLE_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_WU_ZETIAN",
+        "Name": "LOC_LEADER_WU_ZETIAN_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_QIN_ALT",
+        "Name": "LOC_LEADER_QIN_ALT_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_RAMSES",
+        "Name": "LOC_LEADER_RAMSES_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_CLEOPATRA_ALT",
+        "Name": "LOC_LEADER_CLEOPATRA_ALT_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_SUNDIATA_KEITA",
+        "Name": "LOC_LEADER_SUNDIATA_KEITA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_SIMON_BOLIVAR",
+        "Name": "LOC_LEADER_SIMON_BOLIVAR_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_LADY_SIX_SKY",
+        "Name": "LOC_LEADER_LADY_SIX_SKY_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_CULTURAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_CAGUANA",
+        "Name": "LOC_CIVILIZATION_CAGUANA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_TRADE",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_HUNZA",
+        "Name": "LOC_CIVILIZATION_HUNZA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_MILITARISTIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_LAHORE",
+        "Name": "LOC_CIVILIZATION_LAHORE_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_INDUSTRIAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_SINGAPORE",
+        "Name": "LOC_CIVILIZATION_SINGAPORE_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_SCIENTIFIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_TARUGA",
+        "Name": "LOC_CIVILIZATION_TARUGA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_RELIGIOUS",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_VATICAN_CITY",
+        "Name": "LOC_CIVILIZATION_VATICAN_CITY_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_JULIUS_CAESAR",
+        "Name": "LOC_LEADER_JULIUS_CAESAR_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_AMBIORIX",
+        "Name": "LOC_LEADER_AMBIORIX_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_BASIL",
+        "Name": "LOC_LEADER_BASIL_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_KUBLAI_KHAN_CHINA",
+        "Name": "LOC_LEADER_KUBLAI_KHAN_C_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_LADY_TRIEU",
+        "Name": "LOC_LEADER_LADY_TRIEU_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Female"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_KUBLAI_KHAN_MONGOLIA",
+        "Name": "LOC_LEADER_KUBLAI_KHAN_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_CATHERINE_DE_MEDICI_ALT",
+        "Name": "LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_TOKUGAWA",
+        "Name": "LOC_LEADER_TOKUGAWA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_NADER_SHAH",
+        "Name": "LOC_LEADER_NADER_SHAH_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_SULEIMAN_ALT",
+        "Name": "LOC_LEADER_SULEIMAN_ALT_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MENELIK",
+        "Name": "LOC_LEADER_MENELIK_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_HAMMURABI",
+        "Name": "LOC_LEADER_HAMMURABI_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_CULTURAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_AYUTTHAYA",
+        "Name": "LOC_CIVILIZATION_AYUTTHAYA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_RELIGIOUS",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_CHINGUETTI",
+        "Name": "LOC_CIVILIZATION_CHINGUETTI_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_INDUSTRIAL",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_JOHANNESBURG",
+        "Name": "LOC_CIVILIZATION_JOHANNESBURG_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_SCIENTIFIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_NALANDA",
+        "Name": "LOC_CIVILIZATION_NALANDA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_TRADE",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_SAMARKAND",
+        "Name": "LOC_CIVILIZATION_SAMARKAND_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_MINOR_CIV_MILITARISTIC",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_MINOR_CIV_WOLIN",
+        "Name": "LOC_CIVILIZATION_WOLIN_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 0,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_LUDWIG",
+        "Name": "LOC_LEADER_LUDWIG_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_THEODORA",
+        "Name": "LOC_LEADER_THEODORA_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_SEJONG",
+        "Name": "LOC_LEADER_SEJONG_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    },
+    {
+        "InheritFrom": "LEADER_DEFAULT",
+        "IsBarbarianLeader": 0,
+        "LeaderType": "LEADER_JOAO_III",
+        "Name": "LOC_LEADER_JOAO_III_NAME",
+        "OperationList": null,
+        "SameSexPercentage": 0,
+        "SceneLayers": 4,
+        "Sex": "Male"
+    }
+]

@@ -1,0 +1,622 @@
+[
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "TraitType": "TRAIT_BARBARIAN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "TraitType": "TRAIT_BARBARIAN_BUT_SHOWS_UP_IN_PEDIA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "TraitType": "TRAIT_CIVILIZATION_FOUNDING_FATHERS"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_FILM_STUDIO"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_AMERICAN_P51"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ARABIA",
+        "TraitType": "TRAIT_CIVILIZATION_LAST_PROPHET"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ARABIA",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_MADRASA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ARABIA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_ARABIAN_MAMLUK"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BRAZIL",
+        "TraitType": "TRAIT_CIVILIZATION_AMAZON"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BRAZIL",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_BRAZILIAN_MINAS_GERAES"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BRAZIL",
+        "TraitType": "TRAIT_CIVILIZATION_STREET_CARNIVAL"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "TraitType": "TRAIT_CIVILIZATION_DYNASTIC_CYCLE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_GREAT_WALL"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_CHINESE_CROUCHING_TIGER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_SPHINX"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_ENGLISH_SEADOG"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "TraitType": "TRAIT_CIVILIZATION_ROYAL_NAVY_DOCKYARD"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_FRANCE",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_CHATEAU"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_FRANCE",
+        "TraitType": "TRAIT_CIVILIZATION_WONDER_TOURISM"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_FRANCE",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_FRENCH_GARDE_IMPERIALE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GERMANY",
+        "TraitType": "TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GERMANY",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_HANSA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GERMANY",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_GERMAN_UBOAT"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "TraitType": "TRAIT_CIVILIZATION_PLATOS_REPUBLIC"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_GREEK_HOPLITE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INDIA",
+        "TraitType": "TRAIT_CIVILIZATION_DHARMA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INDIA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_STEPWELL"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INDIA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_INDIAN_VARU"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_JAPAN",
+        "TraitType": "TRAIT_CIVILIZATION_ADJACENT_DISTRICTS"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_JAPAN",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_ELECTRONICS_FACTORY"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_JAPAN",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_JAPANESE_SAMURAI"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KONGO",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KONGO",
+        "TraitType": "TRAIT_CIVILIZATION_MBANZA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KONGO",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_KONGO_SHIELD_BEARER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NORWAY",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_STAVE_CHURCH"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NORWAY",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_NORWEGIAN_BERSERKER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NORWAY",
+        "TraitType": "TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ROME",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_BATH"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ROME",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_ROMAN_LEGION"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ROME",
+        "TraitType": "TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "TraitType": "TRAIT_CIVILIZATION_MOTHER_RUSSIA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_LAVRA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SCYTHIA",
+        "TraitType": "TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SCYTHIA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_KURGAN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SCYTHIA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_SCYTHIAN_HORSE_ARCHER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_MISSION"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SUMERIA",
+        "TraitType": "TRAIT_CIVILIZATION_FIRST_CIVILIZATION"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SUMERIA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_ZIGGURAT"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SUMERIA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_SUMERIAN_WAR_CART"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AZTEC",
+        "TraitType": "TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AZTEC",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_TLACHTLI"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AZTEC",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_AZTEC_EAGLE_WARRIOR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INDONESIA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INDONESIA",
+        "TraitType": "TRAIT_CIVILIZATION_INDONESIA_NUSANTARA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INDONESIA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "TraitType": "TRAIT_CIVILIZATION_KHMER_BARAYS"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_PRASAT"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_POLAND",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_SUKIENNICE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_POLAND",
+        "TraitType": "TRAIT_CIVILIZATION_GOLDEN_LIBERTY"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_POLAND",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_POLISH_HUSSAR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NUBIA",
+        "TraitType": "TRAIT_CIVILIZATION_TA_SETI"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NUBIA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_PYRAMID"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NUBIA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_NUBIAN_PITATI"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MACEDON",
+        "TraitType": "TRAIT_CIVILIZATION_HELLENISTIC_FUSION"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MACEDON",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_BASILIKOI_PAIDES"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MACEDON",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_HYPASPIST"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "TraitType": "TRAIT_CIVILIZATION_SATRAPIES"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_PAIRIDAEZA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_IMMORTAL"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AUSTRALIA",
+        "TraitType": "TRAIT_CIVILIZATION_LAND_DOWN_UNDER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AUSTRALIA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_OUTBACK_STATION"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AUSTRALIA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_DIGGER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CREE",
+        "TraitType": "TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CREE",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_MEKEWAP"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CREE",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_CREE_OKIHTCITAW"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "TraitType": "TRAIT_CIVILIZATION_THREE_KINGDOMS"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_SEOWON"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_KOREAN_HWACHA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GEORGIA",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_TSIKHE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GEORGIA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_GEORGIAN_KHEVSURETI"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAPUCHE",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_CHEMAMULL"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAPUCHE",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_MAPUCHE_MALON_RAIDER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAPUCHE",
+        "TraitType": "TRAIT_CIVILIZATION_MAPUCHE_TOQUI"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "TraitType": "TRAIT_CIVILIZATION_MONGOLIAN_ORTOO"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_ORDU"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_MONGOLIAN_KESHIG"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NETHERLANDS",
+        "TraitType": "TRAIT_CIVILIZATION_GROTE_RIVIEREN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NETHERLANDS",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_POLDER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NETHERLANDS",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_DUTCH_ZEVEN_PROVINCIEN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SCOTLAND",
+        "TraitType": "TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SCOTLAND",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_GOLF_COURSE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SCOTLAND",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_SCOTTISH_HIGHLANDER"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ZULU",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_IKANDA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ZULU",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_ZULU_IMPI"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ZULU",
+        "TraitType": "TRAIT_CIVILIZATION_ZULU_ISIBONGO"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "TraitType": "TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CANADA",
+        "TraitType": "TRAIT_CIVILIZATION_FACES_OF_PEACE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CANADA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_ICE_HOCKEY_RINK"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CANADA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_CANADA_MOUNTIE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_HUNGARY",
+        "TraitType": "TRAIT_CIVILIZATION_PEARL_DANUBE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_HUNGARY",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_THERMAL_BATH"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_HUNGARY",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_HUNGARY_HUSZAR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INCA",
+        "TraitType": "TRAIT_CIVILIZATION_GREAT_MOUNTAINS"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INCA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_TERRACE_FARM"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INCA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_INCA_WARAKAQ"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MALI",
+        "TraitType": "TRAIT_CIVILIZATION_MALI_GOLD_DESERT"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MALI",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_SUGUBA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MALI",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_MALI_MANDEKALU_CAVALRY"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAORI",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_MARAE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAORI",
+        "TraitType": "TRAIT_CIVILIZATION_MAORI_MANA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAORI",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_MAORI_PA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAORI",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_MAORI_TOA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_OTTOMAN",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_GRAND_BAZAAR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_OTTOMAN",
+        "TraitType": "TRAIT_CIVILIZATION_GREAT_TURKISH_BOMBARD"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_OTTOMAN",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_OTTOMAN_BARBARY_CORSAIR"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_PHOENICIA",
+        "TraitType": "TRAIT_CIVILIZATION_MEDITERRANEAN_COLONIES"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_PHOENICIA",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_COTHON"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_PHOENICIA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_PHOENICIA_BIREME"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SWEDEN",
+        "TraitType": "TRAIT_CIVILIZATION_NOBEL_PRIZE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SWEDEN",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_OPEN_AIR_MUSEUM"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SWEDEN",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_SWEDEN_CAROLEAN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GRAN_COLOMBIA",
+        "TraitType": "TRAIT_CIVILIZATION_EJERCITO_PATRIOTA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GRAN_COLOMBIA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_HACIENDA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GRAN_COLOMBIA",
+        "TraitType": "TRAIT_CIVILIZATION_COMANDANTE_GENERAL"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GRAN_COLOMBIA",
+        "TraitType": "TRAIT_CIVILIZATION_LLANERO"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "TraitType": "TRAIT_CIVILIZATION_MAYAB"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_OBSERVATORY"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "TraitType": "TRAIT_CIVILIZATION_HULCHE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BYZANTIUM",
+        "TraitType": "TRAIT_CIVILIZATION_BYZANTIUM"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BYZANTIUM",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_HIPPODROME"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BYZANTIUM",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_BYZANTINE_DROMON"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GAUL",
+        "TraitType": "TRAIT_CIVILIZATION_GAUL"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GAUL",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_OPPIDUM"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GAUL",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_GAUL_GAESATAE"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GEORGIA",
+        "TraitType": "TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NEW"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_VIETNAM",
+        "TraitType": "TRAIT_CIVILIZATION_VIETNAM"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_VIETNAM",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_THANH"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_VIETNAM",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_VIETNAMESE_VOI_CHIEN"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "TraitType": "TRAIT_CIVILIZATION_ETHIOPIA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_ROCK_HEWN_CHURCH"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_ETHIOPIAN_OROMO_CAVALRY"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BABYLON_STK",
+        "TraitType": "TRAIT_CIVILIZATION_BABYLON"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BABYLON_STK",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_PALGUM"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_BABYLON_STK",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_BABYLONIAN_SABUM_KIBITTUM"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_PORTUGAL",
+        "TraitType": "TRAIT_CIVILIZATION_PORTUGAL"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_PORTUGAL",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_NAVIGATION_SCHOOL"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_PORTUGAL",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_FEITORIA"
+    },
+    {
+        "CivilizationType": "CIVILIZATION_PORTUGAL",
+        "TraitType": "TRAIT_CIVILIZATION_UNIT_PORTUGUESE_NAU"
+    }
+]

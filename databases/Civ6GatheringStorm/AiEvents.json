@@ -1,0 +1,32 @@
+[
+    {
+        "EventType": "AI_EVENT_GAIN_TECH"
+    },
+    {
+        "EventType": "AI_EVENT_GAIN_CIVIC"
+    },
+    {
+        "EventType": "AI_EVENT_UNIT_CAPTURED"
+    },
+    {
+        "EventType": "AI_EVENT_DESIRE_SETTLE"
+    },
+    {
+        "EventType": "AI_EVENT_MANAGE_ARCHAEOLOGIST"
+    },
+    {
+        "EventType": "AI_EVENT_GREAT_PERSON_GAINED"
+    },
+    {
+        "EventType": "AI_EVENT_MANAGE_SPY"
+    },
+    {
+        "EventType": "AI_EVENT_RELIGIOUS_CITY_CONVERTED"
+    },
+    {
+        "EventType": "AI_EVENT_FOUNDED_RELIGION"
+    },
+    {
+        "EventType": "AI_EVENT_NEEDS_RAILROAD"
+    }
+]

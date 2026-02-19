@@ -1,0 +1,12 @@
+[
+    {
+        "AddDelay": 14.0,
+        "PlotEffectSource": "WMD_NUCLEAR_DEVICE",
+        "PlotEffectType": "PLOTEFFECT_RADIOACTIVE_FALLOUT"
+    },
+    {
+        "AddDelay": 14.0,
+        "PlotEffectSource": "WMD_THERMONUCLEAR_DEVICE",
+        "PlotEffectType": "PLOTEFFECT_RADIOACTIVE_FALLOUT"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "Building": "BUILDING_STABLE",
+        "MutuallyExclusiveBuilding": "BUILDING_BARRACKS"
+    },
+    {
+        "Building": "BUILDING_BARRACKS",
+        "MutuallyExclusiveBuilding": "BUILDING_STABLE"
+    },
+    {
+        "Building": "BUILDING_MUSEUM_ART",
+        "MutuallyExclusiveBuilding": "BUILDING_MUSEUM_ARTIFACT"
+    },
+    {
+        "Building": "BUILDING_MUSEUM_ARTIFACT",
+        "MutuallyExclusiveBuilding": "BUILDING_MUSEUM_ART"
+    },
+    {
+        "Building": "BUILDING_SMALL_ROCKET",
+        "MutuallyExclusiveBuilding": "BUILDING_MEDIUM_ROCKET"
+    },
+    {
+        "Building": "BUILDING_SMALL_ROCKET",
+        "MutuallyExclusiveBuilding": "BUILDING_LARGE_ROCKET"
+    },
+    {
+        "Building": "BUILDING_MEDIUM_ROCKET",
+        "MutuallyExclusiveBuilding": "BUILDING_SMALL_ROCKET"
+    },
+    {
+        "Building": "BUILDING_MEDIUM_ROCKET",
+        "MutuallyExclusiveBuilding": "BUILDING_LARGE_ROCKET"
+    },
+    {
+        "Building": "BUILDING_LARGE_ROCKET",
+        "MutuallyExclusiveBuilding": "BUILDING_SMALL_ROCKET"
+    },
+    {
+        "Building": "BUILDING_LARGE_ROCKET",
+        "MutuallyExclusiveBuilding": "BUILDING_MEDIUM_ROCKET"
+    },
+    {
+        "Building": "BUILDING_BASILIKOI_PAIDES",
+        "MutuallyExclusiveBuilding": "BUILDING_STABLE"
+    },
+    {
+        "Building": "BUILDING_ORDU",
+        "MutuallyExclusiveBuilding": "BUILDING_BARRACKS"
+    },
+    {
+        "Building": "BUILDING_FOOD_MARKET",
+        "MutuallyExclusiveBuilding": "BUILDING_SHOPPING_MALL"
+    },
+    {
+        "Building": "BUILDING_SHOPPING_MALL",
+        "MutuallyExclusiveBuilding": "BUILDING_FOOD_MARKET"
+    },
+    {
+        "Building": "BUILDING_GOV_TALL",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_WIDE"
+    },
+    {
+        "Building": "BUILDING_GOV_TALL",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_CONQUEST"
+    },
+    {
+        "Building": "BUILDING_GOV_WIDE",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_TALL"
+    },
+    {
+        "Building": "BUILDING_GOV_WIDE",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_CONQUEST"
+    },
+    {
+        "Building": "BUILDING_GOV_CONQUEST",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_TALL"
+    },
+    {
+        "Building": "BUILDING_GOV_CONQUEST",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_WIDE"
+    },
+    {
+        "Building": "BUILDING_GOV_CITYSTATES",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_SPIES"
+    },
+    {
+        "Building": "BUILDING_GOV_CITYSTATES",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_FAITH"
+    },
+    {
+        "Building": "BUILDING_GOV_SPIES",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_CITYSTATES"
+    },
+    {
+        "Building": "BUILDING_GOV_SPIES",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_FAITH"
+    },
+    {
+        "Building": "BUILDING_GOV_FAITH",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_CITYSTATES"
+    },
+    {
+        "Building": "BUILDING_GOV_FAITH",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_SPIES"
+    },
+    {
+        "Building": "BUILDING_GOV_MILITARY",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_CULTURE"
+    },
+    {
+        "Building": "BUILDING_GOV_MILITARY",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_SCIENCE"
+    },
+    {
+        "Building": "BUILDING_GOV_CULTURE",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_MILITARY"
+    },
+    {
+        "Building": "BUILDING_GOV_CULTURE",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_SCIENCE"
+    },
+    {
+        "Building": "BUILDING_GOV_SCIENCE",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_MILITARY"
+    },
+    {
+        "Building": "BUILDING_GOV_SCIENCE",
+        "MutuallyExclusiveBuilding": "BUILDING_GOV_CULTURE"
+    }
+]

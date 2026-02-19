@@ -1,0 +1,32 @@
+[
+    {
+        "Age": "AGE_EXPLORATION",
+        "CityCountOnTransition": 0,
+        "CommanderCountOnTransition": 1,
+        "DefaultGoldOnTransition": 3000,
+        "GoldGainOnTransition": 0,
+        "Setting": "AGE_TRANSITION_SETTING_MIN",
+        "SettlementCountOnTransition": 3,
+        "WonderCountOnTransition": 0
+    },
+    {
+        "Age": "AGE_EXPLORATION",
+        "CityCountOnTransition": 0,
+        "CommanderCountOnTransition": 1,
+        "DefaultGoldOnTransition": 3000,
+        "GoldGainOnTransition": 0,
+        "Setting": "AGE_TRANSITION_SETTING_DEFAULT",
+        "SettlementCountOnTransition": 5,
+        "WonderCountOnTransition": 0
+    },
+    {
+        "Age": "AGE_EXPLORATION",
+        "CityCountOnTransition": 100,
+        "CommanderCountOnTransition": 1,
+        "DefaultGoldOnTransition": 1000000,
+        "GoldGainOnTransition": 0,
+        "Setting": "AGE_TRANSITION_SETTING_UNLIMITED",
+        "SettlementCountOnTransition": 100,
+        "WonderCountOnTransition": 100
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "Age": "AGE_MODERN",
+        "DiplomacyYieldValue": 75,
+        "MaintenanceYieldValue": 1000,
+        "ProgressionYieldValue": 500,
+        "Type": "REWARD_TYPE_MINOR_EARLY"
+    },
+    {
+        "Age": "AGE_MODERN",
+        "DiplomacyYieldValue": 150,
+        "MaintenanceYieldValue": 1100,
+        "ProgressionYieldValue": 550,
+        "Type": "REWARD_TYPE_MEDIUM_EARLY"
+    },
+    {
+        "Age": "AGE_MODERN",
+        "DiplomacyYieldValue": 225,
+        "MaintenanceYieldValue": 1200,
+        "ProgressionYieldValue": 600,
+        "Type": "REWARD_TYPE_MAJOR_EARLY"
+    },
+    {
+        "Age": "AGE_MODERN",
+        "DiplomacyYieldValue": 300,
+        "MaintenanceYieldValue": 1600,
+        "ProgressionYieldValue": 800,
+        "Type": "REWARD_TYPE_MINOR_LATE"
+    },
+    {
+        "Age": "AGE_MODERN",
+        "DiplomacyYieldValue": 450,
+        "MaintenanceYieldValue": 1800,
+        "ProgressionYieldValue": 900,
+        "Type": "REWARD_TYPE_MEDIUM_LATE"
+    },
+    {
+        "Age": "AGE_MODERN",
+        "DiplomacyYieldValue": 600,
+        "MaintenanceYieldValue": 2000,
+        "ProgressionYieldValue": 1000,
+        "Type": "REWARD_TYPE_MAJOR_LATE"
+    }
+]

@@ -1,0 +1,826 @@
+[
+    {
+        "LeaderType": "LEADER_BARBARIAN",
+        "TraitType": "TRAIT_LEADER_BARBARIAN"
+    },
+    {
+        "LeaderType": "LEADER_DEFAULT",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_BARBAROSSA",
+        "TraitType": "TRAIT_LEADER_HOLY_ROMAN_EMPEROR"
+    },
+    {
+        "LeaderType": "LEADER_CATHERINE_DE_MEDICI",
+        "TraitType": "FLYING_SQUADRON_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_CATHERINE_DE_MEDICI",
+        "TraitType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_CLEOPATRA",
+        "TraitType": "TRAIT_LEADER_MEDITERRANEAN"
+    },
+    {
+        "LeaderType": "LEADER_GANDHI",
+        "TraitType": "TRAIT_LEADER_SATYAGRAHA"
+    },
+    {
+        "LeaderType": "LEADER_GANDHI",
+        "TraitType": "TRAIT_LEADER_RELIGIOUS_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_GANDHI",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_GILGAMESH",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_GILGAMESH",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_GILGAMESH",
+        "TraitType": "TRAIT_LEADER_SCIENCE_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_GORGO",
+        "TraitType": "CULTURE_KILLS_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_GORGO",
+        "TraitType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_GORGO",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_HARDRADA",
+        "TraitType": "TRAIT_LEADER_MELEE_COASTAL_RAIDS"
+    },
+    {
+        "LeaderType": "LEADER_HARDRADA",
+        "TraitType": "TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP"
+    },
+    {
+        "LeaderType": "LEADER_HOJO",
+        "TraitType": "TRAIT_LEADER_DIVINE_WIND"
+    },
+    {
+        "LeaderType": "LEADER_MVEMBA",
+        "TraitType": "TRAIT_LEADER_RELIGIOUS_CONVERT"
+    },
+    {
+        "LeaderType": "LEADER_MVEMBA",
+        "TraitType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_PEDRO",
+        "TraitType": "TRAIT_LEADER_MAGNANIMOUS"
+    },
+    {
+        "LeaderType": "LEADER_PEDRO",
+        "TraitType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_PERICLES",
+        "TraitType": "TRAIT_LEADER_SURROUNDED_BY_GLORY"
+    },
+    {
+        "LeaderType": "LEADER_PERICLES",
+        "TraitType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_PERICLES",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_PETER_GREAT",
+        "TraitType": "TRAIT_LEADER_GRAND_EMBASSY"
+    },
+    {
+        "LeaderType": "LEADER_PETER_GREAT",
+        "TraitType": "TRAIT_LEADER_RELIGIOUS_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_PHILIP_II",
+        "TraitType": "TRAIT_LEADER_RELIGIOUS_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_PHILIP_II",
+        "TraitType": "TRAIT_LEADER_EL_ESCORIAL"
+    },
+    {
+        "LeaderType": "LEADER_QIN",
+        "TraitType": "FIRST_EMPEROR_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_QIN",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_QIN",
+        "TraitType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_SALADIN",
+        "TraitType": "TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH"
+    },
+    {
+        "LeaderType": "LEADER_SALADIN",
+        "TraitType": "TRAIT_LEADER_RELIGIOUS_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_TOMYRIS",
+        "TraitType": "TRAIT_LEADER_KILLER_OF_CYRUS"
+    },
+    {
+        "LeaderType": "LEADER_TRAJAN",
+        "TraitType": "TRAJANS_COLUMN_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_TRAJAN",
+        "TraitType": "TRAIT_LEADER_EXPANSIONIST"
+    },
+    {
+        "LeaderType": "LEADER_TRAJAN",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_T_ROOSEVELT",
+        "TraitType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_T_ROOSEVELT",
+        "TraitType": "TRAIT_LEADER_NONRELIGIOUS_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_T_ROOSEVELT",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_T_ROOSEVELT",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_VICTORIA",
+        "TraitType": "TRAIT_LEADER_PAX_BRITANNICA"
+    },
+    {
+        "LeaderType": "LEADER_VICTORIA",
+        "TraitType": "TRAIT_LEADER_UNIT_ENGLISH_REDCOAT"
+    },
+    {
+        "LeaderType": "LEADER_VICTORIA",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_DEFAULT",
+        "TraitType": "MINOR_CIV_DEFAULT_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_SCIENTIFIC",
+        "TraitType": "MINOR_CIV_SCIENTIFIC_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_RELIGIOUS",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_TRADE",
+        "TraitType": "MINOR_CIV_TRADE_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_CULTURAL",
+        "TraitType": "MINOR_CIV_CULTURAL_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_MILITARISTIC",
+        "TraitType": "MINOR_CIV_MILITARISTIC_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_INDUSTRIAL",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_BRUSSELS",
+        "TraitType": "MINOR_CIV_BRUSSELS_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_BUENOS_AIRES",
+        "TraitType": "MINOR_CIV_BUENOS_AIRES_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_GENEVA",
+        "TraitType": "MINOR_CIV_GENEVA_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_HATTUSA",
+        "TraitType": "MINOR_CIV_HATTUSA_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_HONG_KONG",
+        "TraitType": "MINOR_CIV_HONG_KONG_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_JAKARTA",
+        "TraitType": "MINOR_CIV_JAKARTA_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_KABUL",
+        "TraitType": "MINOR_CIV_KABUL_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_KANDY",
+        "TraitType": "MINOR_CIV_KANDY_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_KUMASI",
+        "TraitType": "MINOR_CIV_KUMASI_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_LA_VENTA",
+        "TraitType": "MINOR_CIV_LA_VENTA_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_LISBON",
+        "TraitType": "MINOR_CIV_LISBON_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_MOHENJO_DARO",
+        "TraitType": "MINOR_CIV_MOHENJO_DARO_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_NAN_MADOL",
+        "TraitType": "MINOR_CIV_NAN_MADOL_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_VALLETTA",
+        "TraitType": "MINOR_CIV_VALLETTA_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_YEREVAN",
+        "TraitType": "MINOR_CIV_YEREVAN_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_ZANZIBAR",
+        "TraitType": "MINOR_CIV_ZANZIBAR_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MONTEZUMA",
+        "TraitType": "TRAIT_LEADER_GIFTS_FOR_TLATOANI"
+    },
+    {
+        "LeaderType": "LEADER_MONTEZUMA",
+        "TraitType": "TRAIT_LEADER_AGGRESSIVE_MILITARY"
+    },
+    {
+        "LeaderType": "LEADER_JAYAVARMAN",
+        "TraitType": "TRAIT_LEADER_MONASTERIES_KING"
+    },
+    {
+        "LeaderType": "LEADER_JAYAVARMAN",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_JAYAVARMAN",
+        "TraitType": "TRAIT_LEADER_RELIGIOUS_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_GITARJA",
+        "TraitType": "TRAIT_LEADER_EXALTED_GODDESS"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_AUCKLAND",
+        "TraitType": "MINOR_CIV_AUCKLAND_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_ANTANANARIVO",
+        "TraitType": "MINOR_CIV_ANTANANARIVO_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_ARMAGH",
+        "TraitType": "MINOR_CIV_ARMAGH_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_GRANADA",
+        "TraitType": "MINOR_CIV_GRANADA_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_MUSCAT",
+        "TraitType": "MINOR_CIV_MUSCAT_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_PALENQUE",
+        "TraitType": "MINOR_CIV_PALENQUE_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_JADWIGA",
+        "TraitType": "TRAIT_LEADER_RELIGIOUS_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_JADWIGA",
+        "TraitType": "TRAIT_LEADER_LITHUANIAN_UNION"
+    },
+    {
+        "LeaderType": "LEADER_JADWIGA",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_AMANITORE",
+        "TraitType": "TRAIT_LEADER_KANDAKE_OF_MEROE"
+    },
+    {
+        "LeaderType": "LEADER_AMANITORE",
+        "TraitType": "TRAIT_LEADER_SCIENCE_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_SIMON_BOLIVAR",
+        "TraitType": "TRAIT_LEADER_CAMPANA_ADMIRABLE"
+    },
+    {
+        "LeaderType": "LEADER_LADY_SIX_SKY",
+        "TraitType": "TRAIT_LEADER_MUTAL"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_CAGUANA",
+        "TraitType": "MINOR_CIV_CAGUANA_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_HUNZA",
+        "TraitType": "MINOR_CIV_HUNZA_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_LAHORE",
+        "TraitType": "MINOR_CIV_LAHORE_NIHANG_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_SINGAPORE",
+        "TraitType": "MINOR_CIV_SINGAPORE_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_TARUGA",
+        "TraitType": "MINOR_CIV_TARUGA_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_VATICAN_CITY",
+        "TraitType": "MINOR_CIV_VATICAN_CITY_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_ALEXANDER",
+        "TraitType": "TRAIT_LEADER_TO_WORLDS_END"
+    },
+    {
+        "LeaderType": "LEADER_ALEXANDER",
+        "TraitType": "TRAIT_LEADER_UNIT_HETAIROI"
+    },
+    {
+        "LeaderType": "LEADER_ALEXANDER",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_CYRUS",
+        "TraitType": "TRAIT_LEADER_FALL_BABYLON"
+    },
+    {
+        "LeaderType": "LEADER_ALEXANDER",
+        "TraitType": "TRAIT_LEADER_AGGRESSIVE_MILITARY"
+    },
+    {
+        "LeaderType": "LEADER_CYRUS",
+        "TraitType": "TRAIT_LEADER_AGGRESSIVE_MILITARY"
+    },
+    {
+        "LeaderType": "LEADER_JOHN_CURTIN",
+        "TraitType": "TRAIT_LEADER_CITADEL_CIVILIZATION"
+    },
+    {
+        "LeaderType": "LEADER_JOHN_CURTIN",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_JOHN_CURTIN",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_JOHN_CURTIN",
+        "TraitType": "TRAIT_LEADER_SCIENCE_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_CHANDRAGUPTA",
+        "TraitType": "TRAIT_LEADER_ARTHASHASTRA"
+    },
+    {
+        "LeaderType": "LEADER_CHANDRAGUPTA",
+        "TraitType": "TRAIT_LEADER_AGGRESSIVE_MILITARY"
+    },
+    {
+        "LeaderType": "LEADER_ROBERT_THE_BRUCE",
+        "TraitType": "TRAIT_LEADER_BANNOCKBURN"
+    },
+    {
+        "LeaderType": "LEADER_ROBERT_THE_BRUCE",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_ROBERT_THE_BRUCE",
+        "TraitType": "TRAIT_LEADER_SCIENCE_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_SEONDEOK",
+        "TraitType": "TRAIT_LEADER_HWARANG"
+    },
+    {
+        "LeaderType": "LEADER_SEONDEOK",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_SEONDEOK",
+        "TraitType": "TRAIT_LEADER_SCIENCE_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_SHAKA",
+        "TraitType": "TRAIT_LEADER_AMABUTHO"
+    },
+    {
+        "LeaderType": "LEADER_SHAKA",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_SHAKA",
+        "TraitType": "TRAIT_LEADER_AGGRESSIVE_MILITARY"
+    },
+    {
+        "LeaderType": "LEADER_TAMAR",
+        "TraitType": "TRAIT_LEADER_RELIGION_CITY_STATES"
+    },
+    {
+        "LeaderType": "LEADER_TAMAR",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_TAMAR",
+        "TraitType": "TRAIT_LEADER_RELIGIOUS_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_POUNDMAKER",
+        "TraitType": "TRAIT_LEADER_ALLIANCE_AND_TRADE"
+    },
+    {
+        "LeaderType": "LEADER_POUNDMAKER",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_WILHELMINA",
+        "TraitType": "TRAIT_RADIO_ORANJE"
+    },
+    {
+        "LeaderType": "LEADER_LAUTARO",
+        "TraitType": "TRAIT_LEADER_LAUTARO_ABILITY"
+    },
+    {
+        "LeaderType": "LEADER_LAUTARO",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_GENGHIS_KHAN",
+        "TraitType": "TRAIT_LEADER_GENGHIS_KHAN_ABILITY"
+    },
+    {
+        "LeaderType": "LEADER_GENGHIS_KHAN",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_GENGHIS_KHAN",
+        "TraitType": "TRAIT_LEADER_AGGRESSIVE_MILITARY"
+    },
+    {
+        "LeaderType": "LEADER_GORGO",
+        "TraitType": "TRAIT_LEADER_AGGRESSIVE_MILITARY"
+    },
+    {
+        "LeaderType": "LEADER_HARDRADA",
+        "TraitType": "TRAIT_LEADER_AGGRESSIVE_MILITARY"
+    },
+    {
+        "LeaderType": "LEADER_FREE_CITIES",
+        "TraitType": "TRAIT_LEADER_FREE_CITIES"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_ANTIOCH",
+        "TraitType": "MINOR_CIV_ANTIOCH_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_BABYLON",
+        "TraitType": "MINOR_CIV_BABYLON_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_CARTHAGE",
+        "TraitType": "MINOR_CIV_CARTHAGE_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_JERUSALEM",
+        "TraitType": "MINOR_CIV_JERUSALEM_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_PRESLAV",
+        "TraitType": "MINOR_CIV_PRESLAV_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_STOCKHOLM",
+        "TraitType": "MINOR_CIV_STOCKHOLM_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_TORONTO",
+        "TraitType": "MINOR_CIV_TORONTO_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_VILNIUS",
+        "TraitType": "MINOR_CIV_VILNIUS_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_T_ROOSEVELT",
+        "TraitType": "TRAIT_LEADER_ANTIQUES_AND_PARKS"
+    },
+    {
+        "LeaderType": "LEADER_T_ROOSEVELT_ROUGHRIDER",
+        "TraitType": "TRAIT_LEADER_ROOSEVELT_COROLLARY"
+    },
+    {
+        "LeaderType": "LEADER_T_ROOSEVELT_ROUGHRIDER",
+        "TraitType": "TRAIT_LEADER_UNIT_AMERICAN_ROUGH_RIDER"
+    },
+    {
+        "LeaderType": "LEADER_T_ROOSEVELT_ROUGHRIDER",
+        "TraitType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_T_ROOSEVELT_ROUGHRIDER",
+        "TraitType": "TRAIT_LEADER_NONRELIGIOUS_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_T_ROOSEVELT_ROUGHRIDER",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_T_ROOSEVELT_ROUGHRIDER",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_MENELIK",
+        "TraitType": "TRAIT_LEADER_MENELIK"
+    },
+    {
+        "LeaderType": "LEADER_ELIZABETH",
+        "TraitType": "TRAIT_LEADER_ELIZABETH"
+    },
+    {
+        "LeaderType": "LEADER_HARALD_ALT",
+        "TraitType": "TRAIT_LEADER_HARALD_ALT"
+    },
+    {
+        "LeaderType": "LEADER_HARALD_ALT",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_VICTORIA_ALT",
+        "TraitType": "TRAIT_LEADER_VICTORIA_ALT"
+    },
+    {
+        "LeaderType": "LEADER_VICTORIA_ALT",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_HARALD_ALT",
+        "TraitType": "TRAIT_LEADER_AGGRESSIVE_MILITARY"
+    },
+    {
+        "LeaderType": "LEADER_ABRAHAM_LINCOLN",
+        "TraitType": "TRAIT_LEADER_LINCOLN"
+    },
+    {
+        "LeaderType": "LEADER_ABRAHAM_LINCOLN",
+        "TraitType": "TRAIT_LEADER_NONRELIGIOUS_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_ABRAHAM_LINCOLN",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_ABRAHAM_LINCOLN",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_SALADIN_ALT",
+        "TraitType": "TRAIT_LEADER_RELIGIOUS_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_SALADIN_ALT",
+        "TraitType": "TRAIT_LEADER_SALADIN_ALT"
+    },
+    {
+        "LeaderType": "LEADER_NZINGA_MBANDE",
+        "TraitType": "TRAIT_LEADER_NZINGA_MBANDE"
+    },
+    {
+        "LeaderType": "LEADER_NZINGA_MBANDE",
+        "TraitType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_YONGLE",
+        "TraitType": "TRAIT_LEADER_SCIENCE_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_YONGLE",
+        "TraitType": "TRAIT_LEADER_YONGLE"
+    },
+    {
+        "LeaderType": "LEADER_WU_ZETIAN",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_WU_ZETIAN",
+        "TraitType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_WU_ZETIAN",
+        "TraitType": "TRAIT_LEADER_WU_ZETIAN"
+    },
+    {
+        "LeaderType": "LEADER_QIN_ALT",
+        "TraitType": "TRAIT_LEADER_QIN"
+    },
+    {
+        "LeaderType": "LEADER_QIN_ALT",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_QIN_ALT",
+        "TraitType": "TRAIT_LEADER_AGGRESSIVE_MILITARY"
+    },
+    {
+        "LeaderType": "LEADER_RAMSES",
+        "TraitType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_RAMSES",
+        "TraitType": "TRAIT_LEADER_RAMSES"
+    },
+    {
+        "LeaderType": "LEADER_CLEOPATRA_ALT",
+        "TraitType": "TRAIT_LEADER_CLEOPATRA_ALT"
+    },
+    {
+        "LeaderType": "LEADER_CLEOPATRA_ALT",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_HAMMURABI",
+        "TraitType": "TRAIT_LEADER_HAMMURABI"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_AYUTTHAYA",
+        "TraitType": "MINOR_CIV_AYUTTHAYA_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_CHINGUETTI",
+        "TraitType": "MINOR_CIV_CHINGUETTI_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_JOHANNESBURG",
+        "TraitType": "MINOR_CIV_JOHANNESBURG_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_NALANDA",
+        "TraitType": "MINOR_CIV_NALANDA_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_SAMARKAND",
+        "TraitType": "MINOR_CIV_SAMARKAND_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_MINOR_CIV_WOLIN",
+        "TraitType": "MINOR_CIV_WOLIN_TRAIT"
+    },
+    {
+        "LeaderType": "LEADER_GILGAMESH",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "LeaderType": "LEADER_JULIUS_CAESAR",
+        "TraitType": "TRAIT_LEADER_CAESAR"
+    },
+    {
+        "LeaderType": "LEADER_JULIUS_CAESAR",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_JULIUS_CAESAR",
+        "TraitType": "TRAIT_LEADER_AGGRESSIVE_MILITARY"
+    },
+    {
+        "LeaderType": "LEADER_AMBIORIX",
+        "TraitType": "TRAIT_LEADER_AMBIORIX"
+    },
+    {
+        "LeaderType": "LEADER_AMBIORIX",
+        "TraitType": "TRAIT_LEADER_AGGRESSIVE_MILITARY"
+    },
+    {
+        "LeaderType": "LEADER_BASIL",
+        "TraitType": "TRAIT_LEADER_BASIL"
+    },
+    {
+        "LeaderType": "LEADER_BASIL",
+        "TraitType": "TRAIT_LEADER_UNIT_BYZANTINE_TAGMA"
+    },
+    {
+        "LeaderType": "LEADER_KUBLAI_KHAN_CHINA",
+        "TraitType": "TRAIT_LEADER_KUBLAI"
+    },
+    {
+        "LeaderType": "LEADER_LADY_TRIEU",
+        "TraitType": "TRAIT_LEADER_TRIEU"
+    },
+    {
+        "LeaderType": "LEADER_KUBLAI_KHAN_MONGOLIA",
+        "TraitType": "TRAIT_LEADER_KUBLAI"
+    },
+    {
+        "LeaderType": "LEADER_CATHERINE_DE_MEDICI_ALT",
+        "TraitType": "TRAIT_LEADER_MAGNIFICENCES"
+    },
+    {
+        "LeaderType": "LEADER_CATHERINE_DE_MEDICI_ALT",
+        "TraitType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_TOKUGAWA",
+        "TraitType": "TRAIT_LEADER_TOKUGAWA"
+    },
+    {
+        "LeaderType": "LEADER_TOKUGAWA",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_TOKUGAWA",
+        "TraitType": "TRAIT_LEADER_SCIENCE_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_NADER_SHAH",
+        "TraitType": "TRAIT_LEADER_NADER_SHAH"
+    },
+    {
+        "LeaderType": "LEADER_NADER_SHAH",
+        "TraitType": "TRAIT_LEADER_AGGRESSIVE_MILITARY"
+    },
+    {
+        "LeaderType": "LEADER_JOAO_III",
+        "TraitType": "TRAIT_LEADER_JOAO_III"
+    },
+    {
+        "LeaderType": "LEADER_LUDWIG",
+        "TraitType": "TRAIT_LEADER_LUDWIG"
+    },
+    {
+        "LeaderType": "LEADER_LUDWIG",
+        "TraitType": "TRAIT_LEADER_NONRELIGIOUS_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_LUDWIG",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_LUDWIG",
+        "TraitType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR"
+    },
+    {
+        "LeaderType": "LEADER_LUDWIG",
+        "TraitType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_THEODORA",
+        "TraitType": "TRAIT_LEADER_THEODORA"
+    },
+    {
+        "LeaderType": "LEADER_THEODORA",
+        "TraitType": "TRAIT_LEADER_RELIGIOUS_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_SEJONG",
+        "TraitType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"
+    },
+    {
+        "LeaderType": "LEADER_SEJONG",
+        "TraitType": "TRAIT_LEADER_SCIENCE_MAJOR_CIV"
+    },
+    {
+        "LeaderType": "LEADER_SEJONG",
+        "TraitType": "TRAIT_LEADER_SEJONG"
+    }
+]

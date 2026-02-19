@@ -1,0 +1,47 @@
+[
+    {
+        "ActionIcon": "action_greatperson",
+        "AvailableInTimeline": 0,
+        "CityStatesSuzerained": 0,
+        "ConstructibleType": null,
+        "GenerateDuplicateIndividuals": 1,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_LOGIOS",
+        "IconString": "unitflag_logios",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_UNIT_LOGIOS_NAME",
+        "PopulationRequired": 0,
+        "PseudoYieldType": "PSEUDOYIELD_STANDING_ARMY_COMMANDER",
+        "UniqueQuarterType": "QUARTER_ACROPOLIS",
+        "UnitType": "UNIT_LOGIOS"
+    },
+    {
+        "ActionIcon": "action_greatperson",
+        "AvailableInTimeline": 0,
+        "CityStatesSuzerained": 0,
+        "ConstructibleType": "BUILDING_PALACE",
+        "GenerateDuplicateIndividuals": 1,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_SHI_DAFU",
+        "IconString": "unitflag_shi_dafu",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_UNIT_SHI_DAFU_NAME",
+        "PopulationRequired": 10,
+        "PseudoYieldType": "PSEUDOYIELD_STANDING_ARMY_COMMANDER",
+        "UniqueQuarterType": null,
+        "UnitType": "UNIT_SHI_DAFU"
+    },
+    {
+        "ActionIcon": "sction_greatperson",
+        "AvailableInTimeline": 0,
+        "CityStatesSuzerained": 0,
+        "ConstructibleType": null,
+        "GenerateDuplicateIndividuals": 1,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_TJATY",
+        "IconString": "unitflag_tjaty",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_UNIT_TJATY_NAME",
+        "PopulationRequired": 0,
+        "PseudoYieldType": "PSEUDOYIELD_STANDING_ARMY_COMMANDER",
+        "UniqueQuarterType": "QUARTER_NECROPOLIS",
+        "UnitType": "UNIT_TJATY"
+    }
+]

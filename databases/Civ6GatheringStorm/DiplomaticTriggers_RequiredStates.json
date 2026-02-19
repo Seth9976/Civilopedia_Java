@@ -1,0 +1,30 @@
+[
+    {
+        "RequiredState": "DIPLO_STATE_DENOUNCED",
+        "TriggerType": "DENOUNCE_EXPIRES"
+    },
+    {
+        "RequiredState": "DIPLO_STATE_DECLARED_FRIEND",
+        "TriggerType": "DECLARE_FRIENDSHIP_EXPIRES"
+    },
+    {
+        "RequiredState": "DIPLO_STATE_ALLIED",
+        "TriggerType": "LEAVE_ALLIANCE"
+    },
+    {
+        "RequiredState": "DIPLO_STATE_WAR",
+        "TriggerType": "MAKE_PEACE"
+    },
+    {
+        "RequiredState": "DIPLO_STATE_WAR_WITH_MINOR",
+        "TriggerType": "MAKE_PEACE"
+    },
+    {
+        "RequiredState": "DIPLO_STATE_WAR_WITH_MAJOR",
+        "TriggerType": "MAKE_PEACE"
+    },
+    {
+        "RequiredState": "DIPLO_STATE_MINOR_MINOR_WAR",
+        "TriggerType": "MAKE_PEACE"
+    }
+]

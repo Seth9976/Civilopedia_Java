@@ -1,0 +1,20 @@
+[
+    {
+        "AdditionalCutAmount": 0,
+        "AgeType": "AGE_ANTIQUITY",
+        "MaxResourceTypes": 25,
+        "ResourceTypeMaxPerHemisphere": 8
+    },
+    {
+        "AdditionalCutAmount": 2,
+        "AgeType": "AGE_EXPLORATION",
+        "MaxResourceTypes": 25,
+        "ResourceTypeMaxPerHemisphere": 10
+    },
+    {
+        "AdditionalCutAmount": 0,
+        "AgeType": "AGE_MODERN",
+        "MaxResourceTypes": 27,
+        "ResourceTypeMaxPerHemisphere": 10
+    }
+]

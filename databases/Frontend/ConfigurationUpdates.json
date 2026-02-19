@@ -1,0 +1,44 @@
+[
+    {
+        "Defer": 0,
+        "Hash": 1,
+        "Key1": null,
+        "Key2": null,
+        "Recursive": 1,
+        "SourceGroup": "Game",
+        "SourceKey": "RuleSet",
+        "SourceValue": "RULESET_STANDARD",
+        "Static": 0,
+        "TargetGroup": "Game",
+        "TargetKey": "TurnLimitType",
+        "TargetValue": "TURNLIMIT_GAMESPEED"
+    },
+    {
+        "Defer": 0,
+        "Hash": 1,
+        "Key1": null,
+        "Key2": null,
+        "Recursive": 1,
+        "SourceGroup": "Game",
+        "SourceKey": "MaxTurns",
+        "SourceValue": 0,
+        "Static": 0,
+        "TargetGroup": "Game",
+        "TargetKey": "TurnLimitType",
+        "TargetValue": "TURNLIMIT_NONE"
+    },
+    {
+        "Defer": 0,
+        "Hash": 0,
+        "Key1": null,
+        "Key2": null,
+        "Recursive": 1,
+        "SourceGroup": "Game",
+        "SourceKey": "TurnTimerTime",
+        "SourceValue": 0,
+        "Static": 0,
+        "TargetGroup": "Game",
+        "TargetKey": "TurnTimerTime",
+        "TargetValue": 180
+    }
+]

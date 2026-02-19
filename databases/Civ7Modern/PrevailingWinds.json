@@ -1,0 +1,134 @@
+[
+    {
+        "DirectionType": "DIRECTION_NORTHWEST",
+        "MaximumLatitude": 90,
+        "MinimumLatitude": 60,
+        "Weight": 1
+    },
+    {
+        "DirectionType": "DIRECTION_WEST",
+        "MaximumLatitude": 90,
+        "MinimumLatitude": 60,
+        "Weight": 2
+    },
+    {
+        "DirectionType": "DIRECTION_SOUTHWEST",
+        "MaximumLatitude": 90,
+        "MinimumLatitude": 60,
+        "Weight": 2
+    },
+    {
+        "DirectionType": "DIRECTION_NORTHEAST",
+        "MaximumLatitude": 60,
+        "MinimumLatitude": 30,
+        "Weight": 2
+    },
+    {
+        "DirectionType": "DIRECTION_EAST",
+        "MaximumLatitude": 60,
+        "MinimumLatitude": 30,
+        "Weight": 2
+    },
+    {
+        "DirectionType": "DIRECTION_SOUTHEAST",
+        "MaximumLatitude": 60,
+        "MinimumLatitude": 30,
+        "Weight": 1
+    },
+    {
+        "DirectionType": "DIRECTION_NORTHWEST",
+        "MaximumLatitude": 30,
+        "MinimumLatitude": 5,
+        "Weight": 2
+    },
+    {
+        "DirectionType": "DIRECTION_WEST",
+        "MaximumLatitude": 30,
+        "MinimumLatitude": 5,
+        "Weight": 2
+    },
+    {
+        "DirectionType": "DIRECTION_SOUTHWEST",
+        "MaximumLatitude": 30,
+        "MinimumLatitude": 5,
+        "Weight": 1
+    },
+    {
+        "DirectionType": "DIRECTION_NORTHWEST",
+        "MaximumLatitude": 5,
+        "MinimumLatitude": 0,
+        "Weight": 1
+    },
+    {
+        "DirectionType": "DIRECTION_WEST",
+        "MaximumLatitude": 5,
+        "MinimumLatitude": 0,
+        "Weight": 1
+    },
+    {
+        "DirectionType": "DIRECTION_WEST",
+        "MaximumLatitude": 0,
+        "MinimumLatitude": -5,
+        "Weight": 1
+    },
+    {
+        "DirectionType": "DIRECTION_SOUTHWEST",
+        "MaximumLatitude": 0,
+        "MinimumLatitude": -5,
+        "Weight": 1
+    },
+    {
+        "DirectionType": "DIRECTION_NORTHWEST",
+        "MaximumLatitude": -5,
+        "MinimumLatitude": -30,
+        "Weight": 1
+    },
+    {
+        "DirectionType": "DIRECTION_WEST",
+        "MaximumLatitude": -5,
+        "MinimumLatitude": -30,
+        "Weight": 2
+    },
+    {
+        "DirectionType": "DIRECTION_SOUTHWEST",
+        "MaximumLatitude": -5,
+        "MinimumLatitude": -30,
+        "Weight": 2
+    },
+    {
+        "DirectionType": "DIRECTION_NORTHEAST",
+        "MaximumLatitude": -30,
+        "MinimumLatitude": -60,
+        "Weight": 1
+    },
+    {
+        "DirectionType": "DIRECTION_EAST",
+        "MaximumLatitude": -30,
+        "MinimumLatitude": -60,
+        "Weight": 2
+    },
+    {
+        "DirectionType": "DIRECTION_SOUTHEAST",
+        "MaximumLatitude": -30,
+        "MinimumLatitude": -60,
+        "Weight": 2
+    },
+    {
+        "DirectionType": "DIRECTION_NORTHWEST",
+        "MaximumLatitude": -60,
+        "MinimumLatitude": -90,
+        "Weight": 2
+    },
+    {
+        "DirectionType": "DIRECTION_WEST",
+        "MaximumLatitude": -60,
+        "MinimumLatitude": -90,
+        "Weight": 2
+    },
+    {
+        "DirectionType": "DIRECTION_SOUTHWEST",
+        "MaximumLatitude": -60,
+        "MinimumLatitude": -90,
+        "Weight": 1
+    }
+]

@@ -1,0 +1,554 @@
+[
+    {
+        "AgendaType": "AGENDA_AIRPOWER",
+        "Description": "LOC_AGENDA_AIRPOWER_DESCRIPTION",
+        "Name": "LOC_AGENDA_AIRPOWER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_BARBARIAN_LOVER",
+        "Description": "LOC_AGENDA_BARBARIAN_LOVER_DESCRIPTION",
+        "Name": "LOC_AGENDA_BARBARIAN_LOVER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_CITY_STATE_PROTECTOR",
+        "Description": "LOC_AGENDA_CITY_STATE_PROTECTOR_DESCRIPTION",
+        "Name": "LOC_AGENDA_CITY_STATE_PROTECTOR_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_CIVILIZED",
+        "Description": "LOC_AGENDA_CIVILIZED_DESCRIPTION",
+        "Name": "LOC_AGENDA_CIVILIZED_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_CULTURED",
+        "Description": "LOC_AGENDA_CULTURED_DESCRIPTION",
+        "Name": "LOC_AGENDA_CULTURED_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_DARWINIST",
+        "Description": "LOC_AGENDA_DARWINIST_DESCRIPTION",
+        "Name": "LOC_AGENDA_DARWINIST_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_DEVOUT",
+        "Description": "LOC_AGENDA_DEVOUT_DESCRIPTION",
+        "Name": "LOC_AGENDA_DEVOUT_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_ENVIRONMENTALIST",
+        "Description": "LOC_AGENDA_ENVIRONMENTALIST_DESCRIPTION",
+        "Name": "LOC_AGENDA_ENVIRONMENTALIST_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_EXPLOITATIVE",
+        "Description": "LOC_AGENDA_EXPLOITATIVE_DESCRIPTION",
+        "Name": "LOC_AGENDA_EXPLOITATIVE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_EXPLORER",
+        "Description": "LOC_AGENDA_EXPLORER_DESCRIPTION",
+        "Name": "LOC_AGENDA_EXPLORER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_FUN_LOVING",
+        "Description": "LOC_AGENDA_FUN_LOVING_DESCRIPTION",
+        "Name": "LOC_AGENDA_FUN_LOVING_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_GREAT_PERSON_ADVOCATE",
+        "Description": "LOC_AGENDA_GREAT_PERSON_OBSESSED_DESCRIPTION",
+        "Name": "LOC_AGENDA_GREAT_PERSON_ADVOCATE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_IDEOLOGUE",
+        "Description": "LOC_AGENDA_IDEOLOGUE_DESCRIPTION",
+        "Name": "LOC_AGENDA_IDEOLOGUE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_INDUSTRIALIST",
+        "Description": "LOC_AGENDA_INDUSTRIALIST_DESCRIPTION",
+        "Name": "LOC_AGENDA_INDUSTRIALIST_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_MONEY_GRUBBER",
+        "Description": "LOC_AGENDA_MONEY_GRUBBER_DESCRIPTION",
+        "Name": "LOC_AGENDA_MONEY_GRUBBER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_NATURALIST",
+        "Description": "LOC_AGENDA_NATURALIST_DESCRIPTION",
+        "Name": "LOC_AGENDA_NATURALIST_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_NUKE_LOVER",
+        "Description": "LOC_AGENDA_NUKE_LOVER_DESCRIPTION",
+        "Name": "LOC_AGENDA_NUKE_LOVER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_PARANOID",
+        "Description": "LOC_AGENDA_PARANOID_DESCRIPTION",
+        "Name": "LOC_AGENDA_PARANOID_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_POPULOUS",
+        "Description": "LOC_AGENDA_POPULOUS_DESCRIPTION",
+        "Name": "LOC_AGENDA_POPULOUS_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_STANDING_ARMY",
+        "Description": "LOC_AGENDA_STANDING_ARMY_DESCRIPTION",
+        "Name": "LOC_AGENDA_STANDING_ARMY_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_TECHNOPHILE",
+        "Description": "LOC_AGENDA_TECHNOPHILE_DESCRIPTION",
+        "Name": "LOC_AGENDA_TECHNOPHILE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_WONDER_ADVOCATE",
+        "Description": "LOC_AGENDA_WONDER_OBSESSED_DESCRIPTION",
+        "Name": "LOC_AGENDA_WONDER_ADVOCATE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_ALLY_OF_ENKIDU",
+        "Description": "LOC_AGENDA_ALLY_OF_ENKIDU_DESCRIPTION",
+        "Name": "LOC_AGENDA_ALLY_OF_ENKIDU_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_AYYUBID_DYNASTY",
+        "Description": "LOC_AGENDA_AYYUBID_DYNASTY_DESCRIPTION",
+        "Name": "LOC_AGENDA_AYYUBID_DYNASTY_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_BACKSTAB_AVERSE",
+        "Description": "LOC_AGENDA_BACKSTAB_AVERSE_DESCRIPTION",
+        "Name": "LOC_AGENDA_BACKSTAB_AVERSE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_BIG_STICK_POLICY",
+        "Description": "LOC_AGENDA_BIG_STICK_POLICY_DESCRIPTION",
+        "Name": "LOC_AGENDA_BIG_STICK_POLICY_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_BLACK_QUEEN",
+        "Description": "LOC_AGENDA_BLACK_QUEEN_DESCRIPTION",
+        "Name": "LOC_AGENDA_BLACK_QUEEN_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_BUSHIDO",
+        "Description": "LOC_AGENDA_BUSHIDO_DESCRIPTION",
+        "Name": "LOC_AGENDA_BUSHIDO_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_CITY_STATE_ALLY",
+        "Description": "LOC_AGENDA_CITY_STATE_ALLY_DESCRIPTION",
+        "Name": "LOC_AGENDA_CITY_STATE_ALLY_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_COUNTER_REFORMER",
+        "Description": "LOC_AGENDA_COUNTER_REFORMER_DESCRIPTION",
+        "Name": "LOC_AGENDA_COUNTER_REFORMER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_DELIAN_LEAGUE",
+        "Description": "LOC_AGENDA_DELIAN_LEAGUE_DESCRIPTION",
+        "Name": "LOC_AGENDA_DELIAN_LEAGUE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_ENTHUSIASTIC_DISCIPLE",
+        "Description": "LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_DESCRIPTION",
+        "Name": "LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_GREAT_PERSON_OBSESSED",
+        "Description": "LOC_AGENDA_GREAT_PERSON_OBSESSED_DESCRIPTION",
+        "Name": "LOC_AGENDA_GREAT_PERSON_OBSESSED_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_IRON_CROWN",
+        "Description": "LOC_AGENDA_IRON_CROWN_DESCRIPTION",
+        "Name": "LOC_AGENDA_IRON_CROWN_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_LAST_VIKING_KING",
+        "Description": "LOC_AGENDA_LAST_VIKING_KING_DESCRIPTION",
+        "Name": "LOC_AGENDA_LAST_VIKING_KING_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_OPTIMUS_PRINCEPS",
+        "Description": "LOC_AGENDA_OPTIMUS_PRINCEPS_DESCRIPTION",
+        "Name": "LOC_AGENDA_OPTIMUS_PRINCEPS_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_PEACEKEEPER",
+        "Description": "LOC_AGENDA_PEACEKEEPER_DESCRIPTION",
+        "Name": "LOC_AGENDA_PEACEKEEPER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_QUEEN_OF_NILE",
+        "Description": "LOC_AGENDA_QUEEN_OF_THE_NILE_DESCRIPTION",
+        "Name": "LOC_AGENDA_QUEEN_OF_THE_NILE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_SUN_NEVER_SETS",
+        "Description": "LOC_AGENDA_SUN_NEVER_SETS_DESCRIPTION",
+        "Name": "LOC_AGENDA_SUN_NEVER_SETS_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_TLATOANI",
+        "Description": "LOC_AGENDA_TLATOANI_DESCRIPTION",
+        "Name": "LOC_AGENDA_TLATOANI_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_WESTERNIZER",
+        "Description": "LOC_AGENDA_WESTERNIZER_DESCRIPTION",
+        "Name": "LOC_AGENDA_WESTERNIZER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_WITH_YOUR_SHIELD_OR_ON_IT",
+        "Description": "LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION",
+        "Name": "LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_WONDER_OBSESSED",
+        "Description": "LOC_AGENDA_WONDER_OBSESSED_DESCRIPTION",
+        "Name": "LOC_AGENDA_WONDER_OBSESSED_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_ARCHIPELAGIC_STATE",
+        "Description": "LOC_AGENDA_ARCHIPELAGIC_STATE_DESCRIPTION",
+        "Name": "LOC_AGENDA_ARCHIPELAGIC_STATE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_END_TO_SUFFERING",
+        "Description": "LOC_AGENDA_END_TO_SUFFERING_DESCRIPTION",
+        "Name": "LOC_AGENDA_END_TO_SUFFERING_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_SAINT",
+        "Description": "LOC_AGENDA_SAINT_DESCRIPTION",
+        "Name": "LOC_AGENDA_SAINT_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_CITY_PLANNER",
+        "Description": "LOC_AGENDA_CITY_PLANNER_DESCRIPTION",
+        "Name": "LOC_AGENDA_CITY_PLANNER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_LADY_SIX_SKY",
+        "Description": "LOC_AGENDA_LADY_SIX_SKY_DESCRIPTION",
+        "Name": "LOC_AGENDA_LADY_SIX_SKY_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_SIMON_BOLIVAR",
+        "Description": "LOC_AGENDA_SIMON_BOLIVAR_DESCRIPTION",
+        "Name": "LOC_AGENDA_SIMON_BOLIVAR_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_SHORT_LIFE_GLORY",
+        "Description": "LOC_AGENDA_SHORT_LIFE_GLORY_DESCRIPTION",
+        "Name": "LOC_AGENDA_SHORT_LIFE_GLORY_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_BACKSTABBER",
+        "Description": "LOC_AGENDA_BACKSTABBER_DESCRIPTION",
+        "Name": "LOC_AGENDA_BACKSTABBER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_PERPETUALLY_ON_GUARD",
+        "Description": "LOC_AGENDA_PERPETUALLY_ON_GUARD_DESCRIPTION",
+        "Name": "LOC_AGENDA_PERPETUALLY_ON_GUARD_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_BILLIONAIRE",
+        "Description": "LOC_AGENDA_BILLIONAIRE_DESCRIPTION",
+        "Name": "LOC_AGENDA_BILLIONAIRE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_CHEOMSEONGDAE",
+        "Description": "LOC_AGENDA_CHEOMSEONGDAE_DESCRIPTION",
+        "Name": "LOC_AGENDA_CHEOMSEONGDAE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_FLOWER_OF_SCOTLAND",
+        "Description": "LOC_AGENDA_FLOWER_OF_SCOTLAND_DESCRIPTION",
+        "Name": "LOC_AGENDA_FLOWER_OF_SCOTLAND_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_HORSE_LORD",
+        "Description": "LOC_AGENDA_HORSE_LORD_DESCRIPTION",
+        "Name": "LOC_AGENDA_HORSE_LORD_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_HORN_CHEST_LOINS",
+        "Description": "LOC_AGENDA_HORN_CHEST_LOINS_DESCRIPTION",
+        "Name": "LOC_AGENDA_HORN_CHEST_LOINS_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_IRON_CONFEDERACY",
+        "Description": "LOC_AGENDA_IRON_CONFEDERACY_DESCRIPTION",
+        "Name": "LOC_AGENDA_IRON_CONFEDERACY_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_MAURYA_EMPIRE",
+        "Description": "LOC_AGENDA_MAURYA_EMPIRE_DESCRIPTION",
+        "Name": "LOC_AGENDA_MAURYA_EMPIRE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_NARIKALA_FORTRESS",
+        "Description": "LOC_AGENDA_NARIKALA_FORTRESS_DESCRIPTION",
+        "Name": "LOC_AGENDA_NARIKALA_FORTRESS_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_SPIRIT_OF_TUCAPEL",
+        "Description": "LOC_AGENDA_SPIRIT_OF_TUCAPEL_DESCRIPTION",
+        "Name": "LOC_AGENDA_SPIRIT_OF_TUCAPEL_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_CURMUDGEON",
+        "Description": "LOC_AGENDA_UNKNOWN_DESCRIPTION",
+        "Name": "LOC_AGENDA_UNKNOWN_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_FLIRTATIOUS",
+        "Description": "LOC_AGENDA_UNKNOWN_DESCRIPTION",
+        "Name": "LOC_AGENDA_UNKNOWN_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_GOSSIP",
+        "Description": "LOC_AGENDA_GOSSIP_DESCRIPTION",
+        "Name": "LOC_AGENDA_GOSSIP_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_SYCOPHANT",
+        "Description": "LOC_AGENDA_SYCOPHANT_DESCRIPTION",
+        "Name": "LOC_AGENDA_SYCOPHANT_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_SYMPATHIZER",
+        "Description": "LOC_AGENDA_SYMPATHIZER_DESCRIPTION",
+        "Name": "LOC_AGENDA_SYMPATHIZER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_BULL_MOOSE",
+        "Description": "LOC_AGENDA_BULL_MOOSE_DESCRIPTION",
+        "Name": "LOC_AGENDA_BULL_MOOSE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_ETHIOPIAN_HIGHLANDS",
+        "Description": "LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION",
+        "Name": "LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_TRADE_AGREEMENT",
+        "Description": "LOC_AGENDA_TRADE_AGREEMENT_DESCRIPTION",
+        "Name": "LOC_AGENDA_TRADE_AGREEMENT_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_SAGA",
+        "Description": "LOC_AGENDA_SAGA_DESCRIPTION",
+        "Name": "LOC_AGENDA_SAGA_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_INDUSTRIAL_REVOLUTION",
+        "Description": "LOC_AGENDA_INDUSTRIAL_REVOLUTION_DESCRIPTION",
+        "Name": "LOC_AGENDA_INDUSTRIAL_REVOLUTION_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_PRESERVER_OF_THE_UNION",
+        "Description": "LOC_AGENDA_PRESERVER_OF_THE_UNION_DESCRIPTION",
+        "Name": "LOC_AGENDA_PRESERVER_OF_THE_UNION_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_SULTAN",
+        "Description": "LOC_AGENDA_SULTAN_DESCRIPTION",
+        "Name": "LOC_AGENDA_SULTAN_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_DECOLONIZATION",
+        "Description": "LOC_AGENDA_DECOLONIZATION_DESCRIPTION",
+        "Name": "LOC_AGENDA_DECOLONIZATION_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_SIHAI",
+        "Description": "LOC_AGENDA_SIHAI_DESCRIPTION",
+        "Name": "LOC_AGENDA_SIHAI_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_YINDING",
+        "Description": "LOC_AGENDA_YINDING_DESCRIPTION",
+        "Name": "LOC_AGENDA_YINDING_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_COURT_INTRIGUE",
+        "Description": "LOC_AGENDA_COURT_INTRIGUE_DESCRIPTION",
+        "Name": "LOC_AGENDA_COURT_INTRIGUE_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_MAAT",
+        "Description": "LOC_AGENDA_MAAT_DESCRIPTION",
+        "Name": "LOC_AGENDA_MAAT_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_PREFER_FOOD",
+        "Description": "LOC_AGENDA_PREFER_FOOD_DESCRIPTION",
+        "Name": "LOC_AGENDA_PREFER_FOOD_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_HAMMURABI_DISTRICTS",
+        "Description": "LOC_AGENDA_HAMMURABI_DISTRICTS_DESCRIPTION",
+        "Name": "LOC_AGENDA_HAMMURABI_DISTRICTS_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_GALLIC_WARS",
+        "Description": "LOC_AGENDA_GALLIC_WARS_DESCRIPTION",
+        "Name": "LOC_AGENDA_GALLIC_WARS_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_BASIL_ZEALOT",
+        "Description": "LOC_AGENDA_BASIL_ZEALOT_DESCRIPTION",
+        "Name": "LOC_AGENDA_BASIL_ZEALOT_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_AMBIORIX_ARMY",
+        "Description": "LOC_AGENDA_AMBIORIX_ARMY_DESCRIPTION",
+        "Name": "LOC_AGENDA_AMBIORIX_ARMY_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_TRIEU_DEFENDER",
+        "Description": "LOC_AGENDA_TRIEU_DEFENDER_DESCRIPTION",
+        "Name": "LOC_AGENDA_TRIEU_DEFENDER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_KUBLAI_PAX",
+        "Description": "LOC_AGENDA_KUBLAI_PAX_DESCRIPTION",
+        "Name": "LOC_AGENDA_KUBLAI_PAX_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_MAGNIFICENCES",
+        "Description": "LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION",
+        "Name": "LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_SAKOKU",
+        "Description": "LOC_AGENDA_SAKOKU_DESCRIPTION",
+        "Name": "LOC_AGENDA_SAKOKU_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_PREFER_LANDPOWER",
+        "Description": "LOC_AGENDA_PREFER_LANDPOWER_DESCRIPTION",
+        "Name": "LOC_AGENDA_PREFER_LANDPOWER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_JOAO_EXPLORER",
+        "Description": "LOC_AGENDA_JOAO_EXPLORER_DESCRIPTION",
+        "Name": "LOC_AGENDA_JOAO_EXPLORER_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_ETERNAL",
+        "Description": "LOC_AGENDA_ETERNAL_DESCRIPTION",
+        "Name": "LOC_AGENDA_ETERNAL_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_NEW_ROME",
+        "Description": "LOC_AGENDA_NEW_ROME_DESCRIPTION",
+        "Name": "LOC_AGENDA_NEW_ROME_NAME",
+        "OperationList": null
+    },
+    {
+        "AgendaType": "AGENDA_SEJONG",
+        "Description": "LOC_AGENDA_SEJONG_DESCRIPTION",
+        "Name": "LOC_AGENDA_SEJONG_NAME",
+        "OperationList": null
+    }
+]

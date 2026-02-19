@@ -1,0 +1,1136 @@
+[
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_RANGER_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_RANGER_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RECON",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_RANGER"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_ALPINE_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_ALPINE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RECON",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_ALPINE"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_SENTRY_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_SENTRY_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RECON",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SENTRY"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_GUERRILLA_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_GUERRILLA_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RECON",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_GUERRILLA"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_SPYGLASS_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_SPYGLASS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RECON",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPYGLASS"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_AMBUSH_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_AMBUSH_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RECON",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_AMBUSH"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_CAMOUFLAGE_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_CAMOUFLAGE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RECON",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_CAMOUFLAGE"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_BATTLECRY_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_BATTLECRY_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_BATTLECRY"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_TORTOISE_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_TORTOISE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_TORTOISE"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_COMMANDO_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_COMMANDO_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_COMMANDO"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_AMPHIBIOUS_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_AMPHIBIOUS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_AMPHIBIOUS"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_ZWEIHANDER_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_ZWEIHANDER_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_ZWEIHANDER"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_URBAN_WARFARE_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_URBAN_WARFARE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_URBAN_WARFARE"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_ELITE_GUARD_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_ELITE_GUARD_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_ELITE_GUARD"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_VOLLEY_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_VOLLEY_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_VOLLEY"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_GARRISON_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_GARRISON_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_GARRISON"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_ARROW_STORM_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_ARROW_STORM_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_ARROW_STORM"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_INCENDIARIES_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_INCENDIARIES_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_INCENDIARIES"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_SUPPRESSION_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_SUPPRESSION_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SUPPRESSION"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_EMPLACEMENT_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_EMPLACEMENT_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_EMPLACEMENT"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_EXPERT_MARKSMAN_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_EXPERT_MARKSMAN_NAME",
+        "PromotionClass": "PROMOTION_CLASS_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_EXPERT_MARKSMAN"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_GRAPE_SHOT_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_GRAPE_SHOT_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SIEGE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_GRAPE_SHOT"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_CREW_WEAPONS_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_CREW_WEAPONS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SIEGE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_CREW_WEAPONS"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_SHRAPNEL_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_SHRAPNEL_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SIEGE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SHRAPNEL"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_SHELLS_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_SHELLS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SIEGE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SHELLS"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_ADVANCED_RANGEFINDING_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_ADVANCED_RANGEFINDING_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SIEGE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_ADVANCED_RANGEFINDING"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_EXPERT_CREW_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_EXPERT_CREW_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SIEGE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_EXPERT_CREW"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_FORWARD_OBSERVERS_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_FORWARD_OBSERVERS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SIEGE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_FORWARD_OBSERVERS"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_ECHELON_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_ECHELON_NAME",
+        "PromotionClass": "PROMOTION_CLASS_ANTI_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_ECHELON"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_THRUST_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_THRUST_NAME",
+        "PromotionClass": "PROMOTION_CLASS_ANTI_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_THRUST"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_SQUARE_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_SQUARE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_ANTI_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SQUARE"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_SCHILTRON_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_SCHILTRON_NAME",
+        "PromotionClass": "PROMOTION_CLASS_ANTI_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SCHILTRON"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_REDEPLOY_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_REDEPLOY_NAME",
+        "PromotionClass": "PROMOTION_CLASS_ANTI_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_REDEPLOY"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_CHOKE_POINTS_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_CHOKE_POINTS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_ANTI_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_CHOKE_POINTS"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_HOLD_THE_LINE_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_HOLD_THE_LINE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_ANTI_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_HOLD_THE_LINE"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_CAPARISON_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_CAPARISON_NAME",
+        "PromotionClass": "PROMOTION_CLASS_LIGHT_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_CAPARISON"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_COURSERS_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_COURSERS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_LIGHT_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_COURSERS"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_DEPREDATION_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_DEPREDATION_NAME",
+        "PromotionClass": "PROMOTION_CLASS_LIGHT_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_DEPREDATION"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_DOUBLE_ENVELOPMENT_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_DOUBLE_ENVELOPMENT_NAME",
+        "PromotionClass": "PROMOTION_CLASS_LIGHT_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_DOUBLE_ENVELOPMENT"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_SPIKING_THE_GUNS_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_SPIKING_THE_GUNS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_LIGHT_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPIKING_THE_GUNS"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_PURSUIT_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_PURSUIT_NAME",
+        "PromotionClass": "PROMOTION_CLASS_LIGHT_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_PURSUIT"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_ESCORT_MOBILITY_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_ESCORT_MOBILITY_NAME",
+        "PromotionClass": "PROMOTION_CLASS_LIGHT_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_ESCORT_MOBILITY"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_CHARGE_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_CHARGE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_HEAVY_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_CHARGE"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_BARDING_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_BARDING_NAME",
+        "PromotionClass": "PROMOTION_CLASS_HEAVY_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_BARDING"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_MARAUDING_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_MARAUDING_NAME",
+        "PromotionClass": "PROMOTION_CLASS_HEAVY_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_MARAUDING"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_ROUT_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_ROUT_NAME",
+        "PromotionClass": "PROMOTION_CLASS_HEAVY_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_ROUT"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_ARMOR_PIERCING_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_ARMOR_PIERCING_NAME",
+        "PromotionClass": "PROMOTION_CLASS_HEAVY_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_ARMOR_PIERCING"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_REACTIVE_ARMOR_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_REACTIVE_ARMOR_NAME",
+        "PromotionClass": "PROMOTION_CLASS_HEAVY_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_REACTIVE_ARMOR"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_BREAKTHROUGH_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_BREAKTHROUGH_NAME",
+        "PromotionClass": "PROMOTION_CLASS_HEAVY_CAVALRY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_BREAKTHROUGH"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_DOGFIGHTING_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_DOGFIGHTING_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_FIGHTER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_DOGFIGHTING"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_COCKPIT_ARMOR_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_COCKPIT_ARMOR_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_FIGHTER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_COCKPIT_ARMOR"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_INTERCEPTOR_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_INTERCEPTOR_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_FIGHTER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_INTERCEPTOR"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_STRAFE_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_STRAFE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_FIGHTER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_STRAFE"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_GROUND_CREWS_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_GROUND_CREWS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_FIGHTER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_GROUND_CREWS"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_TANK_BUSTER_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_TANK_BUSTER_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_FIGHTER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_TANK_BUSTER"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_DROP_TANKS_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_DROP_TANKS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_FIGHTER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_DROP_TANKS"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_BOX_FORMATION_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_BOX_FORMATION_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_BOMBER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_BOX_FORMATION"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_EVASIVE_MANEUVERS_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_EVASIVE_MANEUVERS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_BOMBER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_EVASIVE_MANEUVERS"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_TORPEDO_BOMBER_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_TORPEDO_BOMBER_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_BOMBER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_TORPEDO_BOMBER"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_CLOSE_AIR_SUPPORT_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_CLOSE_AIR_SUPPORT_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_BOMBER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_CLOSE_AIR_SUPPORT"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_TACTICAL_MAINTENANCE_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_TACTICAL_MAINTENANCE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_BOMBER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_TACTICAL_MAINTENANCE"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_LONG_RANGE_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_LONG_RANGE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_BOMBER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_LONG_RANGE"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_SUPERFORTRESS_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_SUPERFORTRESS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_AIR_BOMBER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SUPERFORTRESS"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_EMBOLON_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_EMBOLON_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_EMBOLON"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_HELMSMAN_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_HELMSMAN_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_HELMSMAN"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_REINFORCED_HULL_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_REINFORCED_HULL_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_REINFORCED_HULL"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_RUTTER_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_RUTTER_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_RUTTER"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_AUXILIARY_SHIPS_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_AUXILIARY_SHIPS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_AUXILIARY_SHIPS"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_CONVOY_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_CONVOY_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_CONVOY"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_CREEPING_ATTACK_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_CREEPING_ATTACK_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_MELEE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_CREEPING_ATTACK"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_LINE_OF_BATTLE_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_LINE_OF_BATTLE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_LINE_OF_BATTLE"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_BOMBARDMENT_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_BOMBARDMENT_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_BOMBARDMENT"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_PREPARATORY_FIRE_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_PREPARATORY_FIRE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_PREPARATORY_FIRE"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_ROLLING_BARRAGE_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_ROLLING_BARRAGE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_ROLLING_BARRAGE"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_SUPPLY_FLEET_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_SUPPLY_FLEET_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SUPPLY_FLEET"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_PROXIMITY_FUSES_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_PROXIMITY_FUSES_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_PROXIMITY_FUSES"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_COINCIDENCE_RANGEFINDING_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_COINCIDENCE_RANGEFINDING_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RANGED",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_COINCIDENCE_RANGEFINDING"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_FLIGHT_DECK_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_FLIGHT_DECK_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_CARRIER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_FLIGHT_DECK"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_HANGAR_DECK_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_HANGAR_DECK_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_CARRIER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_HANGAR_DECK"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_FOLDING_WINGS_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_FOLDING_WINGS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_CARRIER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_FOLDING_WINGS"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_SCOUT_PLANES_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SCOUT_PLANES_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_CARRIER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SCOUT_PLANES"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_ADVANCED_ENGINES_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_ADVANCED_ENGINES_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_CARRIER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_ADVANCED_ENGINES"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_DECK_CREWS_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_DECK_CREWS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_CARRIER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_DECK_CREWS"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_SUPER_CARRIER_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_SUPER_CARRIER_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_CARRIER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SUPER_CARRIER"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_LOOT_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_LOOT_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RAIDER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_LOOT"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_BOARDING_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_BOARDING_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RAIDER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_BOARDING"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_SWIFT_KEEL_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_SWIFT_KEEL_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RAIDER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SWIFT_KEEL"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_HOMING_TORPEDOES_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_HOMING_TORPEDOES_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RAIDER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_HOMING_TORPEDOES"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_OBSERVATION_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_OBSERVATION_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RAIDER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_OBSERVATION"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_SILENT_RUNNING_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_SILENT_RUNNING_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RAIDER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SILENT_RUNNING"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_WOLFPACK_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_WOLFPACK_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NAVAL_RAIDER",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_WOLFPACK"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_ORATOR_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_ORATOR_NAME",
+        "PromotionClass": "PROMOTION_CLASS_APOSTLE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_ORATOR"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_PROSELYTIZER_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_PROSELYTIZER_NAME",
+        "PromotionClass": "PROMOTION_CLASS_APOSTLE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_PROSELYTIZER"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_TRANSLATOR_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_TRANSLATOR_NAME",
+        "PromotionClass": "PROMOTION_CLASS_APOSTLE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_TRANSLATOR"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_PILGRIM_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_PILGRIM_NAME",
+        "PromotionClass": "PROMOTION_CLASS_APOSTLE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_PILGRIM"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_INDULGENCE_VENDOR_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_INDULGENCE_VENDOR_NAME",
+        "PromotionClass": "PROMOTION_CLASS_APOSTLE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_INDULGENCE_VENDOR"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_HEATHEN_CONVERSION_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_HEATHEN_CONVERSION_NAME",
+        "PromotionClass": "PROMOTION_CLASS_APOSTLE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_HEATHEN_CONVERSION"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_DEBATER_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_DEBATER_NAME",
+        "PromotionClass": "PROMOTION_CLASS_APOSTLE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_DEBATER"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_MARTYR_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_MARTYR_NAME",
+        "PromotionClass": "PROMOTION_CLASS_APOSTLE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_MARTYR"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_CHAPLAIN_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_CHAPLAIN_NAME",
+        "PromotionClass": "PROMOTION_CLASS_APOSTLE",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_CHAPLAIN"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_MONK_SHADOW_STRIKE_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_MONK_SHADOW_STRIKE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MONK",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_MONK_SHADOW_STRIKE"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_MONK_TWILIGHT_VEIL_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_MONK_TWILIGHT_VEIL_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MONK",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_MONK_TWILIGHT_VEIL"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_MONK_EXPLODING_PALMS_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_MONK_EXPLODING_PALMS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MONK",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_MONK_EXPLODING_PALMS"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_MONK_DISCIPLES_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_MONK_DISCIPLES_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MONK",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_MONK_DISCIPLES"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_MONK_SWEEPING_WIND_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_MONK_SWEEPING_WIND_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MONK",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_MONK_SWEEPING_WIND"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_MONK_DANCING_CRANE_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_MONK_DANCING_CRANE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MONK",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_MONK_DANCING_CRANE"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_MONK_COBRA_STRIKE_DESCRIPTION",
+        "Level": 4,
+        "Name": "LOC_PROMOTION_MONK_COBRA_STRIKE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_MONK",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_MONK_COBRA_STRIKE"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_TECHNOLOGIST_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_TECHNOLOGIST_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_TECHNOLOGIST"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_CAT_BURGLAR_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_CAT_BURGLAR_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_CAT_BURGLAR"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_DEMOLITIONS_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_DEMOLITIONS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_DEMOLITIONS"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_CON_ARTIST_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_CON_ARTIST_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_CON_ARTIST"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_GUERILLA_LEADER_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_GUERILLA_LEADER_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_GUERILLA_LEADER"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_ROCKET_SCIENTIST_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_ROCKET_SCIENTIST_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_ROCKET_SCIENTIST"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_SEDUCTION_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_SEDUCTION_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_SEDUCTION"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_DISGUISE_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_DISGUISE_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_DISGUISE"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_LINGUIST_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_LINGUIST_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_LINGUIST"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_QUARTERMASTER_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_QUARTERMASTER_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_QUARTERMASTER"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_ACE_DRIVER_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_ACE_DRIVER_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_ACE_DRIVER"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_NIHANG_FLANKED_BONUS_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_NIHANG_FLANKED_BONUS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NIHANG",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_NIHANG_FLANKED_BONUS"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_NIHANG_FAITH_FOR_VICTORIES_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_NIHANG_FAITH_FOR_VICTORIES_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NIHANG",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_NIHANG_FAITH_FOR_VICTORIES"
+    },
+    {
+        "Column": 1,
+        "Description": "LOC_PROMOTION_NIHANG_MOVEMENT_BONUS_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_NIHANG_MOVEMENT_BONUS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NIHANG",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_NIHANG_MOVEMENT_BONUS"
+    },
+    {
+        "Column": 3,
+        "Description": "LOC_PROMOTION_NIHANG_NO_WOUNDED_PENALTY_DESCRIPTION",
+        "Level": 2,
+        "Name": "LOC_PROMOTION_NIHANG_NO_WOUNDED_PENALTY_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NIHANG",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_NIHANG_NO_WOUNDED_PENALTY"
+    },
+    {
+        "Column": 2,
+        "Description": "LOC_PROMOTION_NIHANG_SUZERAIN_COMBAT_BONUS_DESCRIPTION",
+        "Level": 3,
+        "Name": "LOC_PROMOTION_NIHANG_SUZERAIN_COMBAT_BONUS_NAME",
+        "PromotionClass": "PROMOTION_CLASS_NIHANG",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_NIHANG_SUZERAIN_COMBAT_BONUS"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_SMEAR_CAMPAIGN"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_COVERT_ACTION_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_COVERT_ACTION_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_COVERT_ACTION"
+    },
+    {
+        "Column": 0,
+        "Description": "LOC_PROMOTION_SPY_LICENSE_TO_KILL_DESCRIPTION",
+        "Level": 1,
+        "Name": "LOC_PROMOTION_SPY_LICENSE_TO_KILL_NAME",
+        "PromotionClass": "PROMOTION_CLASS_SPY",
+        "Specialization": null,
+        "UnitPromotionType": "PROMOTION_SPY_LICENSE_TO_KILL"
+    }
+]

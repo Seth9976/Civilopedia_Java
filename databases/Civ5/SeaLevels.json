@@ -1,0 +1,20 @@
+[
+    {
+        "Description": "TXT_KEY_SEALEVEL_LOW",
+        "ID": 0,
+        "SeaLevelChange": -8,
+        "Type": "SEALEVEL_LOW"
+    },
+    {
+        "Description": "TXT_KEY_SEALEVEL_MEDIUM",
+        "ID": 1,
+        "SeaLevelChange": 0,
+        "Type": "SEALEVEL_MEDIUM"
+    },
+    {
+        "Description": "TXT_KEY_SEALEVEL_HIGH",
+        "ID": 2,
+        "SeaLevelChange": 6,
+        "Type": "SEALEVEL_HIGH"
+    }
+]

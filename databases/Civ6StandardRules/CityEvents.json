@@ -1,0 +1,20 @@
+[
+    {
+        "EventType": "CITY_EVENT_DEFAULT"
+    },
+    {
+        "EventType": "CITY_EVENT_UNIT_OR_BUILDING"
+    },
+    {
+        "EventType": "CITY_EVENT_DISTRICT"
+    },
+    {
+        "EventType": "CITY_EVENT_IMPROVEMENT"
+    },
+    {
+        "EventType": "CITY_EVENT_WONDER"
+    },
+    {
+        "EventType": "CITY_UNDER_THREAT"
+    }
+]

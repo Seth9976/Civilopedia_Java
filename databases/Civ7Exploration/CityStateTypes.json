@@ -1,0 +1,44 @@
+[
+    {
+        "CityStateType": "CULTURAL",
+        "DisperseRewardAmount": 100,
+        "Name": "LOC_CULTURAL_NAME",
+        "Weight": 100,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "CityStateType": "ECONOMIC",
+        "DisperseRewardAmount": 100,
+        "Name": "LOC_ECONOMIC_NAME",
+        "Weight": 100,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "CityStateType": "MILITARISTIC",
+        "DisperseRewardAmount": 100,
+        "Name": "LOC_MILITARISTIC_NAME",
+        "Weight": 100,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "CityStateType": "SCIENTIFIC",
+        "DisperseRewardAmount": 100,
+        "Name": "LOC_SCIENTIFIC_NAME",
+        "Weight": 100,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "CityStateType": "EXPANSIONIST",
+        "DisperseRewardAmount": 100,
+        "Name": "LOC_EXPANSIONIST_NAME",
+        "Weight": 100,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "CityStateType": "DIPLOMATIC",
+        "DisperseRewardAmount": 30,
+        "Name": "LOC_DIPLOMATIC_NAME",
+        "Weight": 100,
+        "YieldType": "YIELD_DIPLOMACY"
+    }
+]

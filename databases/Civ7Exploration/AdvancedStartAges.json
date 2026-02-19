@@ -1,0 +1,38 @@
+[
+    {
+        "AdvancedStartRevealPastOcean": 0,
+        "AdvancedStartVisibilityRadius": 1,
+        "AgeType": "AGE_ANTIQUITY",
+        "Gold": 0,
+        "GoldCityState": 150,
+        "NewTownRuralPlots": 1,
+        "ObsoleteBuildingReplacementRewardWorkers": 1,
+        "StartCities": 1,
+        "StartingWorkersMajor": 0,
+        "Year": -4000
+    },
+    {
+        "AdvancedStartRevealPastOcean": 0,
+        "AdvancedStartVisibilityRadius": 4,
+        "AgeType": "AGE_EXPLORATION",
+        "Gold": 0,
+        "GoldCityState": 250,
+        "NewTownRuralPlots": 1,
+        "ObsoleteBuildingReplacementRewardWorkers": 1,
+        "StartCities": 3,
+        "StartingWorkersMajor": 0,
+        "Year": 400
+    },
+    {
+        "AdvancedStartRevealPastOcean": 1,
+        "AdvancedStartVisibilityRadius": 4,
+        "AgeType": "AGE_MODERN",
+        "Gold": 0,
+        "GoldCityState": 250,
+        "NewTownRuralPlots": 1,
+        "ObsoleteBuildingReplacementRewardWorkers": 2,
+        "StartCities": 3,
+        "StartingWorkersMajor": 0,
+        "Year": 1750
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "AllowStrategicCommands": 1,
+        "AllowTacticalCommands": 1,
+        "AllowTurnUnready": 1,
+        "Name": null,
+        "Sound": null,
+        "TimeLimit_Base": 30,
+        "TimeLimit_PerCity": 10,
+        "TimeLimit_PerUnit": 5,
+        "TurnSegmentType": "TURNSEG_SINGLEPLAYER"
+    },
+    {
+        "AllowStrategicCommands": 1,
+        "AllowTacticalCommands": 1,
+        "AllowTurnUnready": 1,
+        "Name": null,
+        "Sound": "Play_MP_Strategic_Turn_Start",
+        "TimeLimit_Base": 30,
+        "TimeLimit_PerCity": 10,
+        "TimeLimit_PerUnit": 5,
+        "TurnSegmentType": "TURNSEG_SINGLEPHASE"
+    },
+    {
+        "AllowStrategicCommands": 0,
+        "AllowTacticalCommands": 1,
+        "AllowTurnUnready": 1,
+        "Name": "LOC_TACTICAL_PHASE",
+        "Sound": "Play_MP_Tactical_Turn_Start",
+        "TimeLimit_Base": 10,
+        "TimeLimit_PerCity": 0,
+        "TimeLimit_PerUnit": 5,
+        "TurnSegmentType": "TURNSEG_TACTICAL"
+    },
+    {
+        "AllowStrategicCommands": 1,
+        "AllowTacticalCommands": 0,
+        "AllowTurnUnready": 1,
+        "Name": "LOC_STRATEGIC_PHASE",
+        "Sound": "Play_MP_Strategic_Turn_Start",
+        "TimeLimit_Base": 20,
+        "TimeLimit_PerCity": 10,
+        "TimeLimit_PerUnit": 0,
+        "TurnSegmentType": "TURNSEG_STRATEGIC"
+    },
+    {
+        "AllowStrategicCommands": 0,
+        "AllowTacticalCommands": 0,
+        "AllowTurnUnready": 0,
+        "Name": "LOC_TURNSEG_WORLDCONGRESS_1",
+        "Sound": null,
+        "TimeLimit_Base": 60,
+        "TimeLimit_PerCity": 0,
+        "TimeLimit_PerUnit": 0,
+        "TurnSegmentType": "TURNSEG_WORLDCONGRESS_1"
+    },
+    {
+        "AllowStrategicCommands": 0,
+        "AllowTacticalCommands": 0,
+        "AllowTurnUnready": 0,
+        "Name": "LOC_TURNSEG_WORLDCONGRESS_2",
+        "Sound": null,
+        "TimeLimit_Base": 60,
+        "TimeLimit_PerCity": 0,
+        "TimeLimit_PerUnit": 0,
+        "TurnSegmentType": "TURNSEG_WORLDCONGRESS_2"
+    },
+    {
+        "AllowStrategicCommands": 0,
+        "AllowTacticalCommands": 0,
+        "AllowTurnUnready": 0,
+        "Name": "LOC_TURNSEG_WORLDCONGRESS_RESOLUTION",
+        "Sound": null,
+        "TimeLimit_Base": 60,
+        "TimeLimit_PerCity": 0,
+        "TimeLimit_PerUnit": 0,
+        "TurnSegmentType": "TURNSEG_WORLDCONGRESS_RESOLUTION"
+    }
+]

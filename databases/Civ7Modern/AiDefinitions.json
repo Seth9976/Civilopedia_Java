@@ -1,0 +1,272 @@
+[
+    {
+        "AiComponent": "AI_Victory",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "BehaviorTreeManager",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Culture",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "DiplomaticActionBroker",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Economic",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Government",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "FreeUnitPool",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "GrandStrategic",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "GreatPeople",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "GreatWorks",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Homeland",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Happiness",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "LandDevelopment",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Leader",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Narrative",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "ResearchBroker",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Technology",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Tactical",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Trade",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Planning",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Production",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Religion",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "UnitBroker",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "ScriptConsumer",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "ConstructibleBroker",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "ProjectBroker",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "BehaviorTreeManager",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "CityStateCulture",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "Economic",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "Government",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "FreeUnitPool",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "GrandStrategic",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "Homeland",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "LandDevelopment",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "Military",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "CityStateTechnology",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "Tactical",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "Planning",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "Production",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "UnitBroker",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "ScriptConsumer",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "ConstructibleBroker",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "BehaviorTreeManager",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_INDEPENDENT"
+    },
+    {
+        "AiComponent": "IndependentStrategic",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_INDEPENDENT"
+    },
+    {
+        "AiComponent": "IndependentTactical",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_INDEPENDENT"
+    },
+    {
+        "AiComponent": "Military",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_INDEPENDENT"
+    },
+    {
+        "AiComponent": "Planning",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_INDEPENDENT"
+    },
+    {
+        "AiComponent": "Tribe_AI",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_INDEPENDENT"
+    },
+    {
+        "AiComponent": "Targets_Antiquity",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Targets_Antiquity",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MINOR_CIV"
+    },
+    {
+        "AiComponent": "Targets_Antiquity",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_INDEPENDENT"
+    },
+    {
+        "AiComponent": "Military_Modern",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Diplomatic_Modern",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "AiComponent": "Archaeology",
+        "ComponentPriority": null,
+        "LeaderTrait": "TRAIT_LEADER_MAJOR_CIV"
+    }
+]

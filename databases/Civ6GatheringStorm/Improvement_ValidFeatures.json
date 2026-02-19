@@ -1,0 +1,284 @@
+[
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_JUNGLE",
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_MARSH",
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "ImprovementType": "IMPROVEMENT_LUMBER_MILL",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_JUNGLE",
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_MARSH",
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "ImprovementType": "IMPROVEMENT_PYRAMID",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_JUNGLE",
+        "ImprovementType": "IMPROVEMENT_LUMBER_MILL",
+        "PrereqCivic": "CIVIC_MERCANTILISM",
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_GEOTHERMAL_FISSURE",
+        "ImprovementType": "IMPROVEMENT_GEOTHERMAL_PLANT",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ImprovementType": "IMPROVEMENT_MOAI",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "ImprovementType": "IMPROVEMENT_MOUND",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "ImprovementType": "IMPROVEMENT_MOUND",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "ImprovementType": "IMPROVEMENT_MOUND",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ImprovementType": "IMPROVEMENT_AIRSTRIP",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ImprovementType": "IMPROVEMENT_BEACH_RESORT",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ImprovementType": "IMPROVEMENT_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ImprovementType": "IMPROVEMENT_COLOSSAL_HEAD",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ImprovementType": "IMPROVEMENT_MISSILE_SILO",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ImprovementType": "IMPROVEMENT_ROMAN_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "ImprovementType": "IMPROVEMENT_ZIGGURAT",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "ImprovementType": "IMPROVEMENT_ZIGGURAT",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "ImprovementType": "IMPROVEMENT_ZIGGURAT",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ImprovementType": "IMPROVEMENT_TERRACE_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "ImprovementType": "IMPROVEMENT_METEOR_GOODY",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_JUNGLE",
+        "ImprovementType": "IMPROVEMENT_METEOR_GOODY",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_MARSH",
+        "ImprovementType": "IMPROVEMENT_METEOR_GOODY",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "ImprovementType": "IMPROVEMENT_ROCK_HEWN_CHURCH",
+        "PrereqCivic": null,
+        "PrereqTech": null
+    }
+]

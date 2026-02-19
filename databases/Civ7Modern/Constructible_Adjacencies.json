@@ -1,0 +1,1508 @@
+[
+    {
+        "ConstructibleType": "BUILDING_PALACE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "QuarterCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_PALACE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "QuarterScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_ACADEMY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_ACADEMY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_ACADEMY",
+        "Name": "",
+        "RequiresActivation": 1,
+        "YieldChangeId": "HanUrbanScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_ARENA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_ARENA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_ARENA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_AMPHITHEATER",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_AMPHITHEATER",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_AMPHITHEATER",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_BARRACKS",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_BARRACKS",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_BATH",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_BATH",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_BATH",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_BLACKSMITH",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_BLACKSMITH",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_GARDEN",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_GARDEN",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_GARDEN",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_LIBRARY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_LIBRARY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_LIBRARY",
+        "Name": "",
+        "RequiresActivation": 1,
+        "YieldChangeId": "HanUrbanScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_LIGHTHOUSE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_LIGHTHOUSE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_LIGHTHOUSE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_MARKET",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_MARKET",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_MARKET",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_MONUMENT",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_MONUMENT",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_MONUMENT",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_VILLA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_VILLA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_VILLA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_MASTABA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MastabaDesertGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_MASTABA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MastabaNavigableRiverGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_MASTABA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_MORTUARY_TEMPLE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MortuaryTempleRiverHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_MORTUARY_TEMPLE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_ODEON",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "OdeonUrbanCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_ODEON",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_PARTHENON",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_DHARAMSHALA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "DharamshalaUrbanScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_DHARAMSHALA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_VIHARA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ViharaMountainCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_VIHARA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_JALAW",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "JalawUrbanCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_JALAW",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_KUH_NAH",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_BASILICA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "BasilicaCultureGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_BASILICA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_TEMPLE_OF_JUPITER",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "TempleOfJupiterHappinessCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_TEMPLE_OF_JUPITER",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HAN_GREAT_WALL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HanGreatWallChainHappiness"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HAWELT",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaweltChainCulture"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HAWELT",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HaweltWonderCulture"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_POTKOP",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "PotkopResourceFood"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_PAIRIDAEZA",
+        "Name": "",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PairidaezaUrbanHappiness"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_PAIRIDAEZA",
+        "Name": "",
+        "RequiresActivation": 1,
+        "YieldChangeId": "PairidaezaUrbanCulture"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MEGALITH",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MegalithCulture"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_ZIGGURAT",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ZigguratScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_ARMORER",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_ARMORER",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_BANK",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_BANK",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_BANK",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_BAZAAR",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_BAZAAR",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_BAZAAR",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_DUNGEON",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_DUNGEON",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_GUILDHALL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_GUILDHALL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_GUILDHALL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_HOSPITAL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_HOSPITAL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_HOSPITAL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_KILN",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_KILN",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_KILN",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_MENAGERIE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_MENAGERIE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_MENAGERIE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_OBSERVATORY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_OBSERVATORY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_PAVILION",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_PAVILION",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_PAVILION",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_SHIPYARD",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_SHIPYARD",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_TAVERN",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_TAVERN",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_TAVERN",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_TEMPLE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_TEMPLE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_TEMPLE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_UNIVERSITY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_UNIVERSITY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_WHARF",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_WHARF",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_WHARF",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_MADRASA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MadrasaUrbanScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_MADRASA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MadrasaScienceScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_MADRASA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_MOSQUE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MosqueCultureHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_MOSQUE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_MOSQUE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MosqueHappinessCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_MOSQUE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_ANJUVANNAM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "AnjuvannamCoastGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_ANJUVANNAM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "AnjuvannamRiverGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_ANJUVANNAM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_MANIGRAMAM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ManigramamTradeHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_MANIGRAMAM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_MANIGRAMAM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ManigramamUrbanGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_MANIGRAMAM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_CANDI_BENTAR",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CandiBentarRiverCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_CANDI_BENTAR",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CandiBentarCoastCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_CANDI_BENTAR",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_MERU",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MeruMountainHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_MERU",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_BAILEY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "BaileyWallCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_BAILEY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_MOTTE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_CASA_DE_CONTRATACION",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CasadeContratacionRiverGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_CASA_DE_CONTRATACION",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CasadeContratacionResourceGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_CASA_DE_CONTRATACION",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_CASA_CONSISTORIAL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CasaConsistorialUrbanCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_CASA_CONSISTORIAL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_LO_I_KALO",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "LoiKaloFishingBoatCulture"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MING_GREAT_WALL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MingGreatWallChainGold"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_CARAVANSERAI",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CaravansariResourceGold"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_CARAVANSERAI",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CaravansariRiverGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_ACADEMY_EX",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_ACADEMY_EX",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_AMPHITHEATER_EX",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_AMPHITHEATER_EX",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_AMPHITHEATER_EX",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_CANNERY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_CANNERY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_CANNERY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_CITY_PARK",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_CITY_PARK",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_CITY_PARK",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_DEPARTMENT_STORE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_DEPARTMENT_STORE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_DEPARTMENT_STORE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_FACTORY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_LABORATORY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_LABORATORY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_MILITARY_ACADEMY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_MILITARY_ACADEMY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_MUSEUM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_MUSEUM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_MUSEUM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_OPERA_HOUSE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_OPERA_HOUSE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_OPERA_HOUSE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_PORT",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_PORT",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_PORT",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_RADIO_STATION",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MountainHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_RADIO_STATION",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NaturalWonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_RADIO_STATION",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_SCHOOLHOUSE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_SCHOOLHOUSE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_STOCK_EXCHANGE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_STOCK_EXCHANGE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_STOCK_EXCHANGE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_TENEMENT",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_TENEMENT",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_TENEMENT",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_RAILYARD",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RailyardUrbanProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_RAILYARD",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_STEEL_MILL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "SteelMillResourceGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_STEEL_MILL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_GINKO",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "GinkoGoldGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_GINKO",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_JUKOGYO",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "JukogyoCoastProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_JUKOGYO",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_FORMAL_GARDEN",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "FormalGardenCultureHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_FORMAL_GARDEN",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_SALON",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "SalonHappinessCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_SALON",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_CATEDRAL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CatedralCultureHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_CATEDRAL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_PORTAL_DE_MERCADERES",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "PortalGoldGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_PORTAL_DE_MERCADERES",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_EXAMINATION_HALL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ExaminationHallHappinessHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_EXAMINATION_HALL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_MONEY_SHOP",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MoneyShopGoldGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_MONEY_SHOP",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_STEPWELL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "StepwellFarmFood"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_FARM",
+        "Name": "",
+        "RequiresActivation": 1,
+        "YieldChangeId": "JinsiKamilFarmPlantationFood"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_PLANTATION",
+        "Name": "",
+        "RequiresActivation": 1,
+        "YieldChangeId": "JinsiKamilPlantationFarmFood"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_FARM",
+        "Name": "",
+        "RequiresActivation": 1,
+        "YieldChangeId": "JinsiKamilFarmPlantationGold"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_PLANTATION",
+        "Name": "",
+        "RequiresActivation": 1,
+        "YieldChangeId": "JinsiKamilPlantationFarmGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_UNIVERSITY_MO",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ResourceScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_UNIVERSITY_MO",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_PLAGUE_HOSPITAL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CoastFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_PLAGUE_HOSPITAL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_PLAGUE_HOSPITAL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderFood"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "OpenAirMuseumCulture"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "OpenAirMuseumGold"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "OpenAirMuseumScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_FACTORY",
+        "Name": "",
+        "RequiresActivation": 1,
+        "YieldChangeId": "CityStateFactoryUrbanProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_RAIL_STATION",
+        "Name": "",
+        "RequiresActivation": 1,
+        "YieldChangeId": "RailStationUrbanProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_IRONWORKS",
+        "Name": "",
+        "RequiresActivation": 1,
+        "YieldChangeId": "CityStateSteelworksUrbanProduction"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HIDDEN_FORTRESS",
+        "Name": "",
+        "RequiresActivation": 1,
+        "YieldChangeId": "TsartvieHiddenFortressMountainCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_COTHON",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CothonCoastProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_COTHON",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CothonRiverProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_COTHON",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_DOCKYARD",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "DockyardDistrictFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_DOCKYARD",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "DockyardResourcesFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_DOCKYARD",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderFood"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_THING",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ThingWetCulture"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_THING",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ThingVolcanoCulture"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_THING",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ThingFloodPlainCulture"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_THING",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ThingFloodVegetatedCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_CAMII",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "CamiiScienceBuildingHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_CAMII",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_HAMMAM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "HammamCultureBuildingGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_HAMMAM",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_NAVAL_ARSENAL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NavalArsenalResourceGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_NAVAL_ARSENAL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_NAVAL_STATION",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NavalStationMilitaryProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_NAVAL_STATION",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "NavalStationGoldProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_NAVAL_STATION",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderProduction"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MAWASKAWE_SKOTE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "MawaskaweResourceGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_PAGODA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "PagodaMountainDiplomacy"
+    },
+    {
+        "ConstructibleType": "BUILDING_PAGODA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "PagodaNaturalWonderDiplomacy"
+    },
+    {
+        "ConstructibleType": "BUILDING_PAGODA",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderDiplomacy"
+    },
+    {
+        "ConstructibleType": "BUILDING_LECTURE_HALL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_LANGI",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "LangiResourceFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_LANGI",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderFood"
+    },
+    {
+        "ConstructibleType": "BUILDING_VAI_KAUKAU",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "VaiKaukauCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_VAI_KAUKAU",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_ROYAL_EXCHANGE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RoyalExchangeGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_ROYAL_EXCHANGE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_MANUFACTORY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "ManufactoryResourceProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_MANUFACTORY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RiverGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_MANUFACTORY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_ROYAL_LIBRARY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "RoyalLibraryRiverScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_ROYAL_LIBRARY",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderScience"
+    },
+    {
+        "ConstructibleType": "BUILDING_CITADEL",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderProduction"
+    },
+    {
+        "ConstructibleType": "BUILDING_GHAHVE_KHANE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "GhahveKhanehHappinessGold"
+    },
+    {
+        "ConstructibleType": "BUILDING_GHAHVE_KHANE",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderHappiness"
+    },
+    {
+        "ConstructibleType": "BUILDING_TAKYEH",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "TakyehDiplomacyCulture"
+    },
+    {
+        "ConstructibleType": "BUILDING_TAKYEH",
+        "Name": "",
+        "RequiresActivation": 0,
+        "YieldChangeId": "WonderDiplomacy"
+    }
+]

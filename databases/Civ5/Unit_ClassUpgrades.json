@@ -1,0 +1,426 @@
+[
+    {
+        "UnitClassType": "UNITCLASS_BATTLESHIP",
+        "UnitType": "UNIT_ENGLISH_SHIPOFTHELINE"
+    },
+    {
+        "UnitClassType": "UNITCLASS_BATTLESHIP",
+        "UnitType": "UNIT_FRIGATE"
+    },
+    {
+        "UnitClassType": "UNITCLASS_IRONCLAD",
+        "UnitType": "UNIT_CARAVEL"
+    },
+    {
+        "UnitClassType": "UNITCLASS_NUCLEAR_SUBMARINE",
+        "UnitType": "UNIT_SUBMARINE"
+    },
+    {
+        "UnitClassType": "UNITCLASS_CARAVEL",
+        "UnitType": "UNIT_TRIREME"
+    },
+    {
+        "UnitClassType": "UNITCLASS_TRIREME",
+        "UnitType": "UNIT_GALLEY"
+    },
+    {
+        "UnitClassType": "UNITCLASS_SWORDSMAN",
+        "UnitType": "UNIT_WARRIOR"
+    },
+    {
+        "UnitClassType": "UNITCLASS_SWORDSMAN",
+        "UnitType": "UNIT_AZTEC_JAGUAR"
+    },
+    {
+        "UnitClassType": "UNITCLASS_SWORDSMAN",
+        "UnitType": "UNIT_BARBARIAN_WARRIOR"
+    },
+    {
+        "UnitClassType": "UNITCLASS_COMPOSITE_BOWMAN",
+        "UnitType": "UNIT_ARCHER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_COMPOSITE_BOWMAN",
+        "UnitType": "UNIT_BARBARIAN_ARCHER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_PIKEMAN",
+        "UnitType": "UNIT_SPEARMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_PIKEMAN",
+        "UnitType": "UNIT_BARBARIAN_SPEARMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_PIKEMAN",
+        "UnitType": "UNIT_GREEK_HOPLITE"
+    },
+    {
+        "UnitClassType": "UNITCLASS_PIKEMAN",
+        "UnitType": "UNIT_PERSIAN_IMMORTAL"
+    },
+    {
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_CHARIOT_ARCHER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_EGYPTIAN_WARCHARIOT"
+    },
+    {
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_INDIAN_WARELEPHANT"
+    },
+    {
+        "UnitClassType": "UNITCLASS_LONGSWORDSMAN",
+        "UnitType": "UNIT_SWORDSMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_LONGSWORDSMAN",
+        "UnitType": "UNIT_BARBARIAN_SWORDSMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_LONGSWORDSMAN",
+        "UnitType": "UNIT_IROQUOIAN_MOHAWKWARRIOR"
+    },
+    {
+        "UnitClassType": "UNITCLASS_LONGSWORDSMAN",
+        "UnitType": "UNIT_ROMAN_LEGION"
+    },
+    {
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_HORSEMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_GREEK_COMPANIONCAVALRY"
+    },
+    {
+        "UnitClassType": "UNITCLASS_TREBUCHET",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "UnitClassType": "UNITCLASS_TREBUCHET",
+        "UnitType": "UNIT_ROMAN_BALLISTA"
+    },
+    {
+        "UnitClassType": "UNITCLASS_CAVALRY",
+        "UnitType": "UNIT_KNIGHT"
+    },
+    {
+        "UnitClassType": "UNITCLASS_CAVALRY",
+        "UnitType": "UNIT_ARABIAN_CAMELARCHER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_CAVALRY",
+        "UnitType": "UNIT_SIAMESE_WARELEPHANT"
+    },
+    {
+        "UnitClassType": "UNITCLASS_CAVALRY",
+        "UnitType": "UNIT_SONGHAI_MUSLIMCAVALRY"
+    },
+    {
+        "UnitClassType": "UNITCLASS_WWI_TANK",
+        "UnitType": "UNIT_CAVALRY"
+    },
+    {
+        "UnitClassType": "UNITCLASS_WWI_TANK",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "UnitClassType": "UNITCLASS_ANTI_TANK_GUN",
+        "UnitType": "UNIT_OTTOMAN_SIPAHI"
+    },
+    {
+        "UnitClassType": "UNITCLASS_ANTI_TANK_GUN",
+        "UnitType": "UNIT_LANCER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_GATLINGGUN",
+        "UnitType": "UNIT_CROSSBOWMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_GATLINGGUN",
+        "UnitType": "UNIT_CHINESE_CHUKONU"
+    },
+    {
+        "UnitClassType": "UNITCLASS_GATLINGGUN",
+        "UnitType": "UNIT_ENGLISH_LONGBOWMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_LANCER",
+        "UnitType": "UNIT_PIKEMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_LANCER",
+        "UnitType": "UNIT_GERMAN_LANDSKNECHT"
+    },
+    {
+        "UnitClassType": "UNITCLASS_CANNON",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "UnitClassType": "UNITCLASS_MUSKETMAN",
+        "UnitType": "UNIT_LONGSWORDSMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_RIFLEMAN",
+        "UnitType": "UNIT_JAPANESE_SAMURAI"
+    },
+    {
+        "UnitClassType": "UNITCLASS_RIFLEMAN",
+        "UnitType": "UNIT_MUSKETMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_RIFLEMAN",
+        "UnitType": "UNIT_AMERICAN_MINUTEMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_RIFLEMAN",
+        "UnitType": "UNIT_FRENCH_MUSKETEER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_RIFLEMAN",
+        "UnitType": "UNIT_OTTOMAN_JANISSARY"
+    },
+    {
+        "UnitClassType": "UNITCLASS_ARTILLERY",
+        "UnitType": "UNIT_CANNON"
+    },
+    {
+        "UnitClassType": "UNITCLASS_GREAT_WAR_INFANTRY",
+        "UnitType": "UNIT_RIFLEMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_DESTROYER",
+        "UnitType": "UNIT_IRONCLAD"
+    },
+    {
+        "UnitClassType": "UNITCLASS_MECHANIZED_INFANTRY",
+        "UnitType": "UNIT_INFANTRY"
+    },
+    {
+        "UnitClassType": "UNITCLASS_INFANTRY",
+        "UnitType": "UNIT_FRENCH_FOREIGNLEGION"
+    },
+    {
+        "UnitClassType": "UNITCLASS_ROCKET_ARTILLERY",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "UnitClassType": "UNITCLASS_MODERN_ARMOR",
+        "UnitType": "UNIT_TANK"
+    },
+    {
+        "UnitClassType": "UNITCLASS_MODERN_ARMOR",
+        "UnitType": "UNIT_GERMAN_PANZER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_HELICOPTER_GUNSHIP",
+        "UnitType": "UNIT_ANTI_TANK_GUN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_MOBILE_SAM",
+        "UnitType": "UNIT_ANTI_AIRCRAFT_GUN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_JET_FIGHTER",
+        "UnitType": "UNIT_FIGHTER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_JET_FIGHTER",
+        "UnitType": "UNIT_JAPANESE_ZERO"
+    },
+    {
+        "UnitClassType": "UNITCLASS_STEALTH_BOMBER",
+        "UnitType": "UNIT_BOMBER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_STEALTH_BOMBER",
+        "UnitType": "UNIT_AMERICAN_B17"
+    },
+    {
+        "UnitClassType": "UNITCLASS_MECH",
+        "UnitType": "UNIT_MODERN_ARMOR"
+    },
+    {
+        "UnitClassType": "UNITCLASS_XCOM_SQUAD",
+        "UnitType": "UNIT_PARATROOPER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_CAVALRY",
+        "UnitType": "UNIT_MONGOLIAN_KESHIK"
+    },
+    {
+        "UnitClassType": "UNITCLASS_COMPOSITE_BOWMAN",
+        "UnitType": "UNIT_INCAN_SLINGER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_SWORDSMAN",
+        "UnitType": "UNIT_POLYNESIAN_MAORI_WARRIOR"
+    },
+    {
+        "UnitClassType": "UNITCLASS_MUSKETMAN",
+        "UnitType": "UNIT_DANISH_BERSERKER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_GREAT_WAR_INFANTRY",
+        "UnitType": "UNIT_DANISH_SKI_INFANTRY"
+    },
+    {
+        "UnitClassType": "UNITCLASS_IRONCLAD",
+        "UnitType": "UNIT_KOREAN_TURTLE_SHIP"
+    },
+    {
+        "UnitClassType": "UNITCLASS_CANNON",
+        "UnitType": "UNIT_KOREAN_HWACHA"
+    },
+    {
+        "UnitClassType": "UNITCLASS_COMPOSITE_BOWMAN",
+        "UnitType": "UNIT_BABYLONIAN_BOWMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_PIKEMAN",
+        "UnitType": "UNIT_CELT_PICTISH_WARRIOR"
+    },
+    {
+        "UnitClassType": "UNITCLASS_COMPOSITE_BOWMAN",
+        "UnitType": "UNIT_MAYAN_ATLATLIST"
+    },
+    {
+        "UnitClassType": "UNITCLASS_GALLEASS",
+        "UnitType": "UNIT_BYZANTINE_DROMON"
+    },
+    {
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_BYZANTINE_CATAPHRACT"
+    },
+    {
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_CARTHAGINIAN_FOREST_ELEPHANT"
+    },
+    {
+        "UnitClassType": "UNITCLASS_CARAVEL",
+        "UnitType": "UNIT_CARTHAGINIAN_QUINQUEREME"
+    },
+    {
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_HUN_HORSE_ARCHER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_TREBUCHET",
+        "UnitType": "UNIT_HUN_BATTERING_RAM"
+    },
+    {
+        "UnitClassType": "UNITCLASS_WWI_TANK",
+        "UnitType": "UNIT_AUSTRIAN_HUSSAR"
+    },
+    {
+        "UnitClassType": "UNITCLASS_GREAT_WAR_INFANTRY",
+        "UnitType": "UNIT_SWEDISH_CAROLEAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_ANTI_TANK_GUN",
+        "UnitType": "UNIT_SWEDISH_HAKKAPELIITTA"
+    },
+    {
+        "UnitClassType": "UNITCLASS_TANK",
+        "UnitType": "UNIT_WWI_TANK"
+    },
+    {
+        "UnitClassType": "UNITCLASS_DESTROYER",
+        "UnitType": "UNIT_DUTCH_SEA_BEGGAR"
+    },
+    {
+        "UnitClassType": "UNITCLASS_RIFLEMAN",
+        "UnitType": "UNIT_SPANISH_TERCIO"
+    },
+    {
+        "UnitClassType": "UNITCLASS_CAVALRY",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "UnitClassType": "UNITCLASS_CROSSBOWMAN",
+        "UnitType": "UNIT_COMPOSITE_BOWMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_MACHINE_GUN",
+        "UnitType": "UNIT_GATLINGGUN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_FRIGATE",
+        "UnitType": "UNIT_GALLEASS"
+    },
+    {
+        "UnitClassType": "UNITCLASS_INFANTRY",
+        "UnitType": "UNIT_GREAT_WAR_INFANTRY"
+    },
+    {
+        "UnitClassType": "UNITCLASS_FIGHTER",
+        "UnitType": "UNIT_TRIPLANE"
+    },
+    {
+        "UnitClassType": "UNITCLASS_BOMBER",
+        "UnitType": "UNIT_WWI_BOMBER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_TANK",
+        "UnitType": "UNIT_WWI_TANK"
+    },
+    {
+        "UnitClassType": "UNITCLASS_BAZOOKA",
+        "UnitType": "UNIT_MACHINE_GUN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_DESTROYER",
+        "UnitType": "UNIT_PRIVATEER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_GREAT_WAR_INFANTRY",
+        "UnitType": "UNIT_ETHIOPIAN_MEHAL_SEFARI"
+    },
+    {
+        "UnitClassType": "UNITCLASS_RIFLEMAN",
+        "UnitType": "UNIT_ZULU_IMPI"
+    },
+    {
+        "UnitClassType": "UNITCLASS_ANTI_TANK_GUN",
+        "UnitType": "UNIT_POLISH_WINGED_HUSSAR"
+    },
+    {
+        "UnitClassType": "UNITCLASS_TREBUCHET",
+        "UnitType": "UNIT_ASSYRIAN_SIEGE_TOWER"
+    },
+    {
+        "UnitClassType": "UNITCLASS_MECHANIZED_INFANTRY",
+        "UnitType": "UNIT_BRAZILIAN_PRACINHA"
+    },
+    {
+        "UnitClassType": "UNITCLASS_IRONCLAD",
+        "UnitType": "UNIT_PORTUGUESE_NAU"
+    },
+    {
+        "UnitClassType": "UNITCLASS_WWI_TANK",
+        "UnitType": "UNIT_BERBER_CAVALRY"
+    },
+    {
+        "UnitClassType": "UNITCLASS_FRIGATE",
+        "UnitType": "UNIT_VENETIAN_GALLEASS"
+    },
+    {
+        "UnitClassType": "UNITCLASS_WWI_TANK",
+        "UnitType": "UNIT_SHOSHONE_COMANCHE_RIDERS"
+    },
+    {
+        "UnitClassType": "UNITCLASS_LONGSWORDSMAN",
+        "UnitType": "UNIT_KRIS_SWORDSMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_BARBARIAN_HORSEMAN"
+    },
+    {
+        "UnitClassType": "UNITCLASS_KNIGHT",
+        "UnitType": "UNIT_BARBARIAN_AXMAN"
+    }
+]

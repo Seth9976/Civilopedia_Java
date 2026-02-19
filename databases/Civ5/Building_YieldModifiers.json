@@ -1,0 +1,87 @@
+[
+    {
+        "BuildingType": "BUILDING_FLOATING_GARDENS",
+        "Yield": 15,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_WORKSHOP",
+        "Yield": 10,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_FACTORY",
+        "Yield": 10,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_SOLAR_PLANT",
+        "Yield": 15,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_NUCLEAR_PLANT",
+        "Yield": 15,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_MARKET",
+        "Yield": 25,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_BAZAAR",
+        "Yield": 25,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_SATRAPS_COURT",
+        "Yield": 25,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_BANK",
+        "Yield": 25,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_STOCK_EXCHANGE",
+        "Yield": 25,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_UNIVERSITY",
+        "Yield": 33,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_OBSERVATORY",
+        "Yield": 50,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_LABORATORY",
+        "Yield": 50,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_WAT",
+        "Yield": 33,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_NATIONAL_COLLEGE",
+        "Yield": 50,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_COFFEE_HOUSE",
+        "Yield": 5,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_HANSE",
+        "Yield": 25,
+        "YieldType": "YIELD_GOLD"
+    }
+]

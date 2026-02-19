@@ -1,0 +1,42 @@
+[
+    {
+        "InitialUnitAmount": 1,
+        "MaxUnitAmount": 1,
+        "TribeTagName": "DEFAULT_SCOUT_TAGS"
+    },
+    {
+        "InitialUnitAmount": 4,
+        "MaxUnitAmount": 4,
+        "TribeTagName": "DEFAULT_DEFENDER_TAGS"
+    },
+    {
+        "InitialUnitAmount": 0,
+        "MaxUnitAmount": 5,
+        "TribeTagName": "DEFAULT_COMBAT_TAGS"
+    },
+    {
+        "InitialUnitAmount": 0,
+        "MaxUnitAmount": 0,
+        "TribeTagName": "DEFAULT_COMMANDER_TAGS"
+    },
+    {
+        "InitialUnitAmount": 0,
+        "MaxUnitAmount": 5,
+        "TribeTagName": "NAVAL_COMBAT_TAGS"
+    },
+    {
+        "InitialUnitAmount": 0,
+        "MaxUnitAmount": 3,
+        "TribeTagName": "NAVAL_LAND_COMBAT_TAGS"
+    },
+    {
+        "InitialUnitAmount": 0,
+        "MaxUnitAmount": 0,
+        "TribeTagName": "NAVAL_COMMANDER_TAGS"
+    },
+    {
+        "InitialUnitAmount": 0,
+        "MaxUnitAmount": 7,
+        "TribeTagName": "CRISIS_COMBAT_UNITS"
+    }
+]

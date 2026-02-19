@@ -1,0 +1,32 @@
+[
+    {
+        "BeliefType": "BELIEF_GODDESS_HUNT",
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BeliefType": "BELIEF_GOD_SEA",
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BeliefType": "BELIEF_STONE_CIRCLES",
+        "ImprovementType": "IMPROVEMENT_QUARRY",
+        "Yield": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BeliefType": "BELIEF_ORAL_TRADITION",
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BeliefType": "BELIEF_OPEN_SKY",
+        "ImprovementType": "IMPROVEMENT_PASTURE",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    }
+]

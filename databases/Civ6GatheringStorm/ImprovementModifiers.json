@@ -1,0 +1,278 @@
+[
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "ModifierID": "MISSION_NEWCONTINENT_FAITH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "ModifierID": "MISSION_NEWCONTINENT_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "ModifierID": "MISSION_NEWCONTINENT_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "ModifierID": "SPHINX_WONDERADJACENCY_FAITH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_STEPWELL",
+        "ModifierID": "STEPWELL_FARMADJACENCY_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_STEPWELL",
+        "ModifierID": "STEPWELL_HOLYSITEADJACENCY_FAITH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_STEPWELL",
+        "ModifierID": "STEPWELL_HOUSING_WITHTECH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ZIGGURAT",
+        "ModifierID": "ZIGGURAT_RIVERADJACENCY_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_KAMPUNG",
+        "ModifierID": "KAMPUNG_HOUSING_WITHTECH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MONASTERY",
+        "ModifierID": "MONASTERY_HOUSING"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "ModifierID": "TEMPLE_ARTEMIS_CAMP_AMENITY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PASTURE",
+        "ModifierID": "TEMPLE_ARTEMIS_PASTURE_AMENITY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "ModifierID": "TEMPLE_ARTEMIS_PLANTATION_AMENITY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOLF_COURSE",
+        "ModifierID": "GOLFCOURSE_AMENITY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOLF_COURSE",
+        "ModifierID": "GOLFCOURSE_HOUSING_WITHGLOBLIZATION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "ModifierID": "MEKEWAP_HOUSING_WITHCIVILSERVICE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "ModifierID": "MEKEWAP_LUXURY_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOLF_COURSE",
+        "ModifierID": "GOLFCOURSE_AMENITIES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHERY",
+        "ModifierID": "FISHERY_GOVERNOR_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CITY_PARK",
+        "ModifierID": "CITY_PARK_GOVERNOR_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CITY_PARK",
+        "ModifierID": "CITY_PARK_WATER_AMENITY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SOLAR_FARM",
+        "ModifierID": "SOLAR_FARM_GENERATE_POWER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_WIND_FARM",
+        "ModifierID": "WIND_FARM_GENERATE_POWER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GEOTHERMAL_PLANT",
+        "ModifierID": "GEOTHERMAL_GENERATE_POWER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OFFSHORE_WIND_FARM",
+        "ModifierID": "OFFSHORE_WIND_FARM_GENERATE_POWER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOAI",
+        "ModifierID": "MOAI_COASTADJACENCY_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOAI",
+        "ModifierID": "MOAI_VOLCANICADJACENCY_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_NAZCA_LINE",
+        "ModifierID": "NAZCA_LINE_ADJACENCY_FAITH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_NAZCA_LINE",
+        "ModifierID": "NAZCA_LINE_ADJACENCY_FAITH_RESOURCE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_NAZCA_LINE",
+        "ModifierID": "NAZCA_LINE_ADJACENCY_FOOD_DESERT_CIVIL_SERVICE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_NAZCA_LINE",
+        "ModifierID": "NAZCA_LINE_ADJACENCY_FOOD_DESERT_HILLS_CIVIL_SERVICE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_NAZCA_LINE",
+        "ModifierID": "NAZCA_LINE_ADJACENCY_PRODUCTION_FLAT_MASS_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUND",
+        "ModifierID": "MOUND_AMENITY_MAX_ONE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUND",
+        "ModifierID": "MOUND_AMENITY_MAX_TWO"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUND",
+        "ModifierID": "MOUND_HOUSING"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SKI_RESORT",
+        "ModifierID": "SKI_RESORT_AMENITY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_TUNNEL",
+        "ModifierID": "MOUNTAIN_PORTAL"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "ModifierID": "SPHINX_FLOODPLAINS_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SOLAR_FARM",
+        "ModifierID": "MERCHANT_RENEWABLE_ENERGY_SOLAR_FARM_GENERATE_POWER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_WIND_FARM",
+        "ModifierID": "MERCHANT_RENEWABLE_ENERGY_WIND_FARM_GENERATE_POWER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GEOTHERMAL_PLANT",
+        "ModifierID": "MERCHANT_RENEWABLE_ENERGY_GEOTHERMAL_GENERATE_POWER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OFFSHORE_WIND_FARM",
+        "ModifierID": "MERCHANT_RENEWABLE_ENERGY_OFFSHORE_WIND_FARM_GENERATE_POWER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ICE_HOCKEY_RINK",
+        "ModifierID": "ICEHOCKEYRINK_CULTURE_STADIUM"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ICE_HOCKEY_RINK",
+        "ModifierID": "ICEHOCKEYRINK_AMENITY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TERRACE_FARM",
+        "ModifierID": "TERRACE_FARM_PRODUCTION_FRESH_WATER_NO_AQUEDUCT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "ModifierID": "OPEN_AIR_MUSEUM_LOYALTY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "ModifierID": "OPEN_AIR_MUSEUM_CULTURE_FOR_TERRAIN_CLASS_CITIES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_ROAD",
+        "ModifierID": "MOUNTAIN_PORTAL"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "ModifierID": "PLANTATION_NEGATIVE_LOYALTY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "ModifierID": "FARM_HOUSING_WITH_MAYAB_TRAIT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "ModifierID": "INDUSTRY_CITY_GROWTH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "ModifierID": "INDUSTRY_CITY_GROWTH_HOUSING"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "ModifierID": "INDUSTRY_MILITARY_UNIT_DISCOUNT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "ModifierID": "INDUSTRY_CIVILIAN_UNIT_DISCOUNT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "ModifierID": "INDUSTRY_BUILDING_DISCOUNT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "ModifierID": "INDUSTRY_GOLD_YIELD_BONUS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "ModifierID": "INDUSTRY_FAITH_YIELD_BONUS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "ModifierID": "INDUSTRY_SCIENCE_YIELD_BONUS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "ModifierID": "INDUSTRY_CULTURE_YIELD_BONUS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "ModifierID": "INDUSTRY_GREAT_MERCHANT_POINTS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "ModifierID": "CORPORATION_CITY_GROWTH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "ModifierID": "CORPORATION_CITY_GROWTH_HOUSING"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "ModifierID": "CORPORATION_MILITARY_UNIT_DISCOUNT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "ModifierID": "CORPORATION_CIVILIAN_UNIT_DISCOUNT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "ModifierID": "CORPORATION_BUILDING_DISCOUNT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "ModifierID": "CORPORATION_GOLD_YIELD_BONUS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "ModifierID": "CORPORATION_FAITH_YIELD_BONUS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "ModifierID": "CORPORATION_SCIENCE_YIELD_BONUS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "ModifierID": "CORPORATION_CULTURE_YIELD_BONUS"
+    }
+]

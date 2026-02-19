@@ -1,0 +1,1230 @@
+[
+    {
+        "PromotionType": "PROMOTION_JAGUAR",
+        "UnitType": "UNIT_AZTEC_JAGUAR"
+    },
+    {
+        "PromotionType": "PROMOTION_WOODSMAN",
+        "UnitType": "UNIT_AZTEC_JAGUAR"
+    },
+    {
+        "PromotionType": "PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY",
+        "UnitType": "UNIT_AZTEC_JAGUAR"
+    },
+    {
+        "PromotionType": "PROMOTION_IGNORE_TERRAIN_COST",
+        "UnitType": "UNIT_SCOUT"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_ARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_BARBARIAN_ARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_MOUNTED_I",
+        "UnitType": "UNIT_SPEARMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_MOUNTED_I",
+        "UnitType": "UNIT_BARBARIAN_SPEARMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_MOUNTED_I",
+        "UnitType": "UNIT_GREEK_HOPLITE"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_MOUNTED_I",
+        "UnitType": "UNIT_PERSIAN_IMMORTAL"
+    },
+    {
+        "PromotionType": "PROMOTION_FASTER_HEAL",
+        "UnitType": "UNIT_PERSIAN_IMMORTAL"
+    },
+    {
+        "PromotionType": "PROMOTION_ROUGH_TERRAIN_ENDS_TURN",
+        "UnitType": "UNIT_CHARIOT_ARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_CHARIOT_ARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_CHARIOT_ARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_ROUGH_TERRAIN_ENDS_TURN",
+        "UnitType": "UNIT_EGYPTIAN_WARCHARIOT"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_EGYPTIAN_WARCHARIOT"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_EGYPTIAN_WARCHARIOT"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_INDIAN_WARELEPHANT"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_INDIAN_WARELEPHANT"
+    },
+    {
+        "PromotionType": "PROMOTION_MOHAWK",
+        "UnitType": "UNIT_IROQUOIAN_MOHAWKWARRIOR"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_HORSEMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_HORSEMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_HORSEMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_GREEK_COMPANIONCAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_GREEK_COMPANIONCAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_SPAWN_GENERALS_I",
+        "UnitType": "UNIT_GREEK_COMPANIONCAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_GREEK_COMPANIONCAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_SIEGE",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "PromotionType": "PROMOTION_MUST_SET_UP",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "PromotionType": "PROMOTION_SIGHT_PENALTY",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_ROMAN_BALLISTA"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_SIEGE",
+        "UnitType": "UNIT_ROMAN_BALLISTA"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_ROMAN_BALLISTA"
+    },
+    {
+        "PromotionType": "PROMOTION_MUST_SET_UP",
+        "UnitType": "UNIT_ROMAN_BALLISTA"
+    },
+    {
+        "PromotionType": "PROMOTION_SIGHT_PENALTY",
+        "UnitType": "UNIT_ROMAN_BALLISTA"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_KNIGHT"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_KNIGHT"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_KNIGHT"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_ARABIAN_CAMELARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_ARABIAN_CAMELARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_ARABIAN_CAMELARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_SIAMESE_WARELEPHANT"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_MOUNTED_I",
+        "UnitType": "UNIT_SIAMESE_WARELEPHANT"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_SIAMESE_WARELEPHANT"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_SIAMESE_WARELEPHANT"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_SONGHAI_MUSLIMCAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_SONGHAI_MUSLIMCAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_CROSSBOWMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_CHINESE_CHUKONU"
+    },
+    {
+        "PromotionType": "PROMOTION_SECOND_ATTACK",
+        "UnitType": "UNIT_CHINESE_CHUKONU"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_ENGLISH_LONGBOWMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_RANGE",
+        "UnitType": "UNIT_ENGLISH_LONGBOWMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_MOUNTED_I",
+        "UnitType": "UNIT_PIKEMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_MOUNTED_I",
+        "UnitType": "UNIT_GERMAN_LANDSKNECHT"
+    },
+    {
+        "PromotionType": "PROMOTION_FREE_PILLAGE_MOVES",
+        "UnitType": "UNIT_GERMAN_LANDSKNECHT"
+    },
+    {
+        "PromotionType": "PROMOTION_DOUBLE_PLUNDER",
+        "UnitType": "UNIT_GERMAN_LANDSKNECHT"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_SIEGE",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "PromotionType": "PROMOTION_MUST_SET_UP",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "PromotionType": "PROMOTION_SIGHT_PENALTY",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "PromotionType": "PROMOTION_SHOCK_1",
+        "UnitType": "UNIT_JAPANESE_SAMURAI"
+    },
+    {
+        "PromotionType": "PROMOTION_SPAWN_GENERALS_II",
+        "UnitType": "UNIT_JAPANESE_SAMURAI"
+    },
+    {
+        "PromotionType": "PROMOTION_IGNORE_TERRAIN_COST",
+        "UnitType": "UNIT_AMERICAN_MINUTEMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_DRILL_1",
+        "UnitType": "UNIT_AMERICAN_MINUTEMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_GOLDEN_AGE_POINTS",
+        "UnitType": "UNIT_AMERICAN_MINUTEMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_HEAL_IF_DESTROY_ENEMY",
+        "UnitType": "UNIT_OTTOMAN_JANISSARY"
+    },
+    {
+        "PromotionType": "PROMOTION_ATTACK_BONUS",
+        "UnitType": "UNIT_OTTOMAN_JANISSARY"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_CANNON"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_SIEGE",
+        "UnitType": "UNIT_CANNON"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_CANNON"
+    },
+    {
+        "PromotionType": "PROMOTION_MUST_SET_UP",
+        "UnitType": "UNIT_CANNON"
+    },
+    {
+        "PromotionType": "PROMOTION_SIGHT_PENALTY",
+        "UnitType": "UNIT_CANNON"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_LANCER"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_LANCER"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_LANCER"
+    },
+    {
+        "PromotionType": "PROMOTION_FORMATION_1",
+        "UnitType": "UNIT_LANCER"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_OTTOMAN_SIPAHI"
+    },
+    {
+        "PromotionType": "PROMOTION_FREE_PILLAGE_MOVES",
+        "UnitType": "UNIT_OTTOMAN_SIPAHI"
+    },
+    {
+        "PromotionType": "PROMOTION_EXTRA_SIGHT_I",
+        "UnitType": "UNIT_OTTOMAN_SIPAHI"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_OTTOMAN_SIPAHI"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_OTTOMAN_SIPAHI"
+    },
+    {
+        "PromotionType": "PROMOTION_FORMATION_1",
+        "UnitType": "UNIT_OTTOMAN_SIPAHI"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_CAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_CAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_CAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "PromotionType": "PROMOTION_STRONGER_VS_DAMAGED",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "PromotionType": "PROMOTION_FOREIGN_LANDS",
+        "UnitType": "UNIT_FRENCH_FOREIGNLEGION"
+    },
+    {
+        "PromotionType": "PROMOTION_INDIRECT_FIRE",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_SIEGE",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "PromotionType": "PROMOTION_MUST_SET_UP",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "PromotionType": "PROMOTION_SIGHT_PENALTY",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_TANK"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_TANK"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_GERMAN_PANZER"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_GERMAN_PANZER"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_TANK",
+        "UnitType": "UNIT_ANTI_TANK_GUN"
+    },
+    {
+        "PromotionType": "PROMOTION_INTERCEPTION_IV",
+        "UnitType": "UNIT_ANTI_AIRCRAFT_GUN"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_AIR",
+        "UnitType": "UNIT_ANTI_AIRCRAFT_GUN"
+    },
+    {
+        "PromotionType": "PROMOTION_PARADROP",
+        "UnitType": "UNIT_PARATROOPER"
+    },
+    {
+        "PromotionType": "PROMOTION_FREE_PILLAGE_MOVES",
+        "UnitType": "UNIT_PARATROOPER"
+    },
+    {
+        "PromotionType": "PROMOTION_INTERCEPTION_IV",
+        "UnitType": "UNIT_FIGHTER"
+    },
+    {
+        "PromotionType": "PROMOTION_AIR_SWEEP",
+        "UnitType": "UNIT_FIGHTER"
+    },
+    {
+        "PromotionType": "PROMOTION_AIR_RECON",
+        "UnitType": "UNIT_FIGHTER"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_AIR_II",
+        "UnitType": "UNIT_FIGHTER"
+    },
+    {
+        "PromotionType": "PROMOTION_INTERCEPTION_IV",
+        "UnitType": "UNIT_JAPANESE_ZERO"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_FIGHTER",
+        "UnitType": "UNIT_JAPANESE_ZERO"
+    },
+    {
+        "PromotionType": "PROMOTION_AIR_SWEEP",
+        "UnitType": "UNIT_JAPANESE_ZERO"
+    },
+    {
+        "PromotionType": "PROMOTION_AIR_RECON",
+        "UnitType": "UNIT_JAPANESE_ZERO"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_AIR_II",
+        "UnitType": "UNIT_JAPANESE_ZERO"
+    },
+    {
+        "PromotionType": "PROMOTION_EVASION",
+        "UnitType": "UNIT_AMERICAN_B17"
+    },
+    {
+        "PromotionType": "PROMOTION_AIR_SIEGE_1",
+        "UnitType": "UNIT_AMERICAN_B17"
+    },
+    {
+        "PromotionType": "PROMOTION_EVASION_I",
+        "UnitType": "UNIT_ATOMIC_BOMB"
+    },
+    {
+        "PromotionType": "PROMOTION_INDIRECT_FIRE",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_SIEGE",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "PromotionType": "PROMOTION_SIGHT_PENALTY",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_MODERN_ARMOR"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_MODERN_ARMOR"
+    },
+    {
+        "PromotionType": "PROMOTION_FLAT_MOVEMENT_COST",
+        "UnitType": "UNIT_HELICOPTER_GUNSHIP"
+    },
+    {
+        "PromotionType": "PROMOTION_HOVERING_UNIT",
+        "UnitType": "UNIT_HELICOPTER_GUNSHIP"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_TANK",
+        "UnitType": "UNIT_HELICOPTER_GUNSHIP"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_HELICOPTER_GUNSHIP"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_CAPTURE",
+        "UnitType": "UNIT_HELICOPTER_GUNSHIP"
+    },
+    {
+        "PromotionType": "PROMOTION_INTERCEPTION_IV",
+        "UnitType": "UNIT_MOBILE_SAM"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_AIR",
+        "UnitType": "UNIT_MOBILE_SAM"
+    },
+    {
+        "PromotionType": "PROMOTION_EVASION_II",
+        "UnitType": "UNIT_GUIDED_MISSILE"
+    },
+    {
+        "PromotionType": "PROMOTION_INTERCEPTION_IV",
+        "UnitType": "UNIT_JET_FIGHTER"
+    },
+    {
+        "PromotionType": "PROMOTION_AIR_SWEEP",
+        "UnitType": "UNIT_JET_FIGHTER"
+    },
+    {
+        "PromotionType": "PROMOTION_AIR_RECON",
+        "UnitType": "UNIT_JET_FIGHTER"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_AIR_II",
+        "UnitType": "UNIT_JET_FIGHTER"
+    },
+    {
+        "PromotionType": "PROMOTION_EVASION_II",
+        "UnitType": "UNIT_STEALTH_BOMBER"
+    },
+    {
+        "PromotionType": "PROMOTION_AIR_RECON",
+        "UnitType": "UNIT_STEALTH_BOMBER"
+    },
+    {
+        "PromotionType": "PROMOTION_EVASION_I",
+        "UnitType": "UNIT_NUCLEAR_MISSILE"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_MECH"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_MECH"
+    },
+    {
+        "PromotionType": "PROMOTION_OCEAN_IMPASSABLE_UNTIL_ASTRONOMY",
+        "UnitType": "UNIT_WORKBOAT"
+    },
+    {
+        "PromotionType": "PROMOTION_OCEAN_IMPASSABLE",
+        "UnitType": "UNIT_GALLEY"
+    },
+    {
+        "PromotionType": "PROMOTION_OCEAN_IMPASSABLE",
+        "UnitType": "UNIT_TRIREME"
+    },
+    {
+        "PromotionType": "PROMOTION_EXTRA_SIGHT_I",
+        "UnitType": "UNIT_CARAVEL"
+    },
+    {
+        "PromotionType": "PROMOTION_WITHDRAW_BEFORE_MELEE",
+        "UnitType": "UNIT_CARAVEL"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_FRIGATE"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_ENGLISH_SHIPOFTHELINE"
+    },
+    {
+        "PromotionType": "PROMOTION_EXTRA_SIGHT_I",
+        "UnitType": "UNIT_ENGLISH_SHIPOFTHELINE"
+    },
+    {
+        "PromotionType": "PROMOTION_STEAM_POWERED",
+        "UnitType": "UNIT_IRONCLAD"
+    },
+    {
+        "PromotionType": "PROMOTION_FIRE_SUPPORT",
+        "UnitType": "UNIT_IRONCLAD"
+    },
+    {
+        "PromotionType": "PROMOTION_SEE_INVISIBLE_SUBMARINE",
+        "UnitType": "UNIT_DESTROYER"
+    },
+    {
+        "PromotionType": "PROMOTION_INTERCEPTION_II",
+        "UnitType": "UNIT_DESTROYER"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_SUBMARINE_II",
+        "UnitType": "UNIT_DESTROYER"
+    },
+    {
+        "PromotionType": "PROMOTION_WITHDRAW_BEFORE_MELEE",
+        "UnitType": "UNIT_DESTROYER"
+    },
+    {
+        "PromotionType": "PROMOTION_INVISIBLE_SUBMARINE",
+        "UnitType": "UNIT_SUBMARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_SEE_INVISIBLE_SUBMARINE",
+        "UnitType": "UNIT_SUBMARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_IMPASSABLE",
+        "UnitType": "UNIT_SUBMARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_SUBMARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_SILENT_HUNTER",
+        "UnitType": "UNIT_SUBMARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_INDIRECT_FIRE",
+        "UnitType": "UNIT_BATTLESHIP"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_BATTLESHIP"
+    },
+    {
+        "PromotionType": "PROMOTION_CARGO_II",
+        "UnitType": "UNIT_CARRIER"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_CARRIER"
+    },
+    {
+        "PromotionType": "PROMOTION_INVISIBLE_SUBMARINE",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_SEE_INVISIBLE_SUBMARINE",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_CARGO_II",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_IMPASSABLE",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_SILENT_HUNTER",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_EXTRA_SIGHT_I",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_SEE_INVISIBLE_SUBMARINE",
+        "UnitType": "UNIT_MISSILE_CRUISER"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_SUBMARINE_II",
+        "UnitType": "UNIT_MISSILE_CRUISER"
+    },
+    {
+        "PromotionType": "PROMOTION_CARGO_III",
+        "UnitType": "UNIT_MISSILE_CRUISER"
+    },
+    {
+        "PromotionType": "PROMOTION_INTERCEPTION_IV",
+        "UnitType": "UNIT_MISSILE_CRUISER"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_MISSILE_CRUISER"
+    },
+    {
+        "PromotionType": "PROMOTION_GREAT_GENERAL",
+        "UnitType": "UNIT_GREAT_GENERAL"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_MONGOLIAN_KESHIK"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_MONGOLIAN_KESHIK"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_MONGOLIAN_KESHIK"
+    },
+    {
+        "PromotionType": "PROMOTION_SPAWN_GENERALS_I",
+        "UnitType": "UNIT_MONGOLIAN_KESHIK"
+    },
+    {
+        "PromotionType": "PROMOTION_GAIN_EXPERIENCE",
+        "UnitType": "UNIT_MONGOLIAN_KESHIK"
+    },
+    {
+        "PromotionType": "PROMOTION_MEDIC_GENERAL",
+        "UnitType": "UNIT_MONGOLIAN_KHAN"
+    },
+    {
+        "PromotionType": "PROMOTION_GREAT_GENERAL",
+        "UnitType": "UNIT_MONGOLIAN_KHAN"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_INCAN_SLINGER"
+    },
+    {
+        "PromotionType": "PROMOTION_WITHDRAW_BEFORE_MELEE",
+        "UnitType": "UNIT_INCAN_SLINGER"
+    },
+    {
+        "PromotionType": "PROMOTION_HAKA_WAR_DANCE",
+        "UnitType": "UNIT_POLYNESIAN_MAORI_WARRIOR"
+    },
+    {
+        "PromotionType": "PROMOTION_AMPHIBIOUS",
+        "UnitType": "UNIT_DANISH_BERSERKER"
+    },
+    {
+        "PromotionType": "PROMOTION_SKI_INFANTRY",
+        "UnitType": "UNIT_DANISH_SKI_INFANTRY"
+    },
+    {
+        "PromotionType": "PROMOTION_OCEAN_IMPASSABLE",
+        "UnitType": "UNIT_KOREAN_TURTLE_SHIP"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_KOREAN_HWACHA"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_KOREAN_HWACHA"
+    },
+    {
+        "PromotionType": "PROMOTION_MUST_SET_UP",
+        "UnitType": "UNIT_KOREAN_HWACHA"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_BABYLONIAN_BOWMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_FOREIGN_LANDS",
+        "UnitType": "UNIT_CELT_PICTISH_WARRIOR"
+    },
+    {
+        "PromotionType": "PROMOTION_FREE_PILLAGE_MOVES",
+        "UnitType": "UNIT_CELT_PICTISH_WARRIOR"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_MAYAN_ATLATLIST"
+    },
+    {
+        "PromotionType": "PROMOTION_OCEAN_IMPASSABLE",
+        "UnitType": "UNIT_BYZANTINE_DROMON"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_BYZANTINE_DROMON"
+    },
+    {
+        "PromotionType": "PROMOTION_NAVAL_BONUS",
+        "UnitType": "UNIT_BYZANTINE_DROMON"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_BYZANTINE_CATAPHRACT"
+    },
+    {
+        "PromotionType": "PROMOTION_SMALL_CITY_PENALTY",
+        "UnitType": "UNIT_BYZANTINE_CATAPHRACT"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_CARTHAGINIAN_FOREST_ELEPHANT"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_CARTHAGINIAN_FOREST_ELEPHANT"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_CARTHAGINIAN_FOREST_ELEPHANT"
+    },
+    {
+        "PromotionType": "PROMOTION_FEARED_ELEPHANT",
+        "UnitType": "UNIT_CARTHAGINIAN_FOREST_ELEPHANT"
+    },
+    {
+        "PromotionType": "PROMOTION_SPAWN_GENERALS_II",
+        "UnitType": "UNIT_CARTHAGINIAN_FOREST_ELEPHANT"
+    },
+    {
+        "PromotionType": "PROMOTION_OCEAN_IMPASSABLE",
+        "UnitType": "UNIT_CARTHAGINIAN_QUINQUEREME"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_HUN_HORSE_ARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_HUN_HORSE_ARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_ACCURACY_1",
+        "UnitType": "UNIT_HUN_HORSE_ARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_ASSAULT",
+        "UnitType": "UNIT_HUN_BATTERING_RAM"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_HUN_BATTERING_RAM"
+    },
+    {
+        "PromotionType": "PROMOTION_DEFENSE_PENALTY",
+        "UnitType": "UNIT_HUN_BATTERING_RAM"
+    },
+    {
+        "PromotionType": "PROMOTION_SIGHT_PENALTY",
+        "UnitType": "UNIT_HUN_BATTERING_RAM"
+    },
+    {
+        "PromotionType": "PROMOTION_COVER_1",
+        "UnitType": "UNIT_HUN_BATTERING_RAM"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_ATTACKS_CITIES",
+        "UnitType": "UNIT_HUN_BATTERING_RAM"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_AUSTRIAN_HUSSAR"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_AUSTRIAN_HUSSAR"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_AUSTRIAN_HUSSAR"
+    },
+    {
+        "PromotionType": "PROMOTION_EXTRA_SIGHT_I",
+        "UnitType": "UNIT_AUSTRIAN_HUSSAR"
+    },
+    {
+        "PromotionType": "PROMOTION_FLANK_ATTACK_BONUS",
+        "UnitType": "UNIT_AUSTRIAN_HUSSAR"
+    },
+    {
+        "PromotionType": "PROMOTION_MARCH",
+        "UnitType": "UNIT_SWEDISH_CAROLEAN"
+    },
+    {
+        "PromotionType": "PROMOTION_MOVEMENT_TO_GENERAL",
+        "UnitType": "UNIT_SWEDISH_HAKKAPELIITTA"
+    },
+    {
+        "PromotionType": "PROMOTION_GENERAL_STACKING",
+        "UnitType": "UNIT_SWEDISH_HAKKAPELIITTA"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_SWEDISH_HAKKAPELIITTA"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_SWEDISH_HAKKAPELIITTA"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_SWEDISH_HAKKAPELIITTA"
+    },
+    {
+        "PromotionType": "PROMOTION_FORMATION_1",
+        "UnitType": "UNIT_SWEDISH_HAKKAPELIITTA"
+    },
+    {
+        "PromotionType": "PROMOTION_COASTAL_RAIDER_1",
+        "UnitType": "UNIT_DUTCH_SEA_BEGGAR"
+    },
+    {
+        "PromotionType": "PROMOTION_COASTAL_RAIDER_2",
+        "UnitType": "UNIT_DUTCH_SEA_BEGGAR"
+    },
+    {
+        "PromotionType": "PROMOTION_PRIZE_SHIPS",
+        "UnitType": "UNIT_DUTCH_SEA_BEGGAR"
+    },
+    {
+        "PromotionType": "PROMOTION_SUPPLY",
+        "UnitType": "UNIT_DUTCH_SEA_BEGGAR"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_MOUNTED_I",
+        "UnitType": "UNIT_SPANISH_TERCIO"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "PromotionType": "PROMOTION_EXTRA_SIGHT_II",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "PromotionType": "PROMOTION_DEFENSIVE_EMBARKATION",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "PromotionType": "PROMOTION_RIVAL_TERRITORY",
+        "UnitType": "UNIT_PROPHET"
+    },
+    {
+        "PromotionType": "PROMOTION_SIGHT_PENALTY",
+        "UnitType": "UNIT_PROPHET"
+    },
+    {
+        "PromotionType": "PROMOTION_RIVAL_TERRITORY",
+        "UnitType": "UNIT_MISSIONARY"
+    },
+    {
+        "PromotionType": "PROMOTION_SIGHT_PENALTY",
+        "UnitType": "UNIT_MISSIONARY"
+    },
+    {
+        "PromotionType": "PROMOTION_UNWELCOME_EVANGELIST",
+        "UnitType": "UNIT_MISSIONARY"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_COMPOSITE_BOWMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_OCEAN_IMPASSABLE",
+        "UnitType": "UNIT_GALLEASS"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_GALLEASS"
+    },
+    {
+        "PromotionType": "PROMOTION_AMPHIBIOUS",
+        "UnitType": "UNIT_MARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_EMBARKED_SIGHT",
+        "UnitType": "UNIT_MARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_DEFENSIVE_EMBARKATION",
+        "UnitType": "UNIT_MARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_INTERCEPTION_III",
+        "UnitType": "UNIT_TRIPLANE"
+    },
+    {
+        "PromotionType": "PROMOTION_AIR_SWEEP",
+        "UnitType": "UNIT_TRIPLANE"
+    },
+    {
+        "PromotionType": "PROMOTION_AIR_RECON",
+        "UnitType": "UNIT_TRIPLANE"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_AIR_II",
+        "UnitType": "UNIT_TRIPLANE"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_WWI_TANK"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_WWI_TANK"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_GATLINGGUN"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_MACHINE_GUN"
+    },
+    {
+        "PromotionType": "PROMOTION_COASTAL_RAIDER_1",
+        "UnitType": "UNIT_PRIVATEER"
+    },
+    {
+        "PromotionType": "PROMOTION_PRIZE_SHIPS",
+        "UnitType": "UNIT_PRIVATEER"
+    },
+    {
+        "PromotionType": "PROMOTION_EXTRA_SIGHT_I",
+        "UnitType": "UNIT_INQUISITOR"
+    },
+    {
+        "PromotionType": "PROMOTION_GREAT_ADMIRAL",
+        "UnitType": "UNIT_GREAT_ADMIRAL"
+    },
+    {
+        "PromotionType": "PROMOTION_DRILL_1",
+        "UnitType": "UNIT_ETHIOPIAN_MEHAL_SEFARI"
+    },
+    {
+        "PromotionType": "PROMOTION_DEFEND_NEAR_CAPITAL",
+        "UnitType": "UNIT_ETHIOPIAN_MEHAL_SEFARI"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_MOUNTED_I",
+        "UnitType": "UNIT_ZULU_IMPI"
+    },
+    {
+        "PromotionType": "PROMOTION_ANTI_GUNPOWDER",
+        "UnitType": "UNIT_ZULU_IMPI"
+    },
+    {
+        "PromotionType": "PROMOTION_TRADE_MISSION_BONUS",
+        "UnitType": "UNIT_VENETIAN_MERCHANT"
+    },
+    {
+        "PromotionType": "PROMOTION_SIGHT_PENALTY",
+        "UnitType": "UNIT_CARGO_SHIP"
+    },
+    {
+        "PromotionType": "PROMOTION_SIGHT_PENALTY",
+        "UnitType": "UNIT_CARAVAN"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_POLISH_WINGED_HUSSAR"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_POLISH_WINGED_HUSSAR"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_POLISH_WINGED_HUSSAR"
+    },
+    {
+        "PromotionType": "PROMOTION_HEAVY_CHARGE",
+        "UnitType": "UNIT_POLISH_WINGED_HUSSAR"
+    },
+    {
+        "PromotionType": "PROMOTION_SHOCK_1",
+        "UnitType": "UNIT_POLISH_WINGED_HUSSAR"
+    },
+    {
+        "PromotionType": "PROMOTION_FORMATION_1",
+        "UnitType": "UNIT_POLISH_WINGED_HUSSAR"
+    },
+    {
+        "PromotionType": "PROMOTION_SAPPER",
+        "UnitType": "UNIT_ASSYRIAN_SIEGE_TOWER"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_SIEGE",
+        "UnitType": "UNIT_ASSYRIAN_SIEGE_TOWER"
+    },
+    {
+        "PromotionType": "PROMOTION_COVER_1",
+        "UnitType": "UNIT_ASSYRIAN_SIEGE_TOWER"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_ATTACKS_CITIES",
+        "UnitType": "UNIT_ASSYRIAN_SIEGE_TOWER"
+    },
+    {
+        "PromotionType": "PROMOTION_EXTRA_SIGHT_I",
+        "UnitType": "UNIT_ASSYRIAN_SIEGE_TOWER"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_ASSYRIAN_SIEGE_TOWER"
+    },
+    {
+        "PromotionType": "PROMOTION_GOLDEN_AGE_POINTS",
+        "UnitType": "UNIT_BRAZILIAN_PRACINHA"
+    },
+    {
+        "PromotionType": "PROMOTION_SELL_EXOTIC_GOODS",
+        "UnitType": "UNIT_PORTUGUESE_NAU"
+    },
+    {
+        "PromotionType": "PROMOTION_EXTRA_SIGHT_I",
+        "UnitType": "UNIT_PORTUGUESE_NAU"
+    },
+    {
+        "PromotionType": "PROMOTION_WITHDRAW_BEFORE_MELEE",
+        "UnitType": "UNIT_PORTUGUESE_NAU"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_BERBER_CAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_BERBER_CAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_BERBER_CAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_DESERT_WARRIOR",
+        "UnitType": "UNIT_BERBER_CAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_HOMELAND_GUARDIAN",
+        "UnitType": "UNIT_BERBER_CAVALRY"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_SHOSHONE_COMANCHE_RIDERS"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_SHOSHONE_COMANCHE_RIDERS"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_SHOSHONE_COMANCHE_RIDERS"
+    },
+    {
+        "PromotionType": "PROMOTION_MOON_STRIKER",
+        "UnitType": "UNIT_SHOSHONE_COMANCHE_RIDERS"
+    },
+    {
+        "PromotionType": "PROMOTION_GOODY_HUT_PICKER",
+        "UnitType": "UNIT_SHOSHONE_PATHFINDER"
+    },
+    {
+        "PromotionType": "PROMOTION_IGNORE_TERRAIN_COST",
+        "UnitType": "UNIT_SHOSHONE_PATHFINDER"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_BAZOOKA"
+    },
+    {
+        "PromotionType": "PROMOTION_MYSTIC_BLADE",
+        "UnitType": "UNIT_KRIS_SWORDSMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_NO_DEFENSIVE_BONUSES",
+        "UnitType": "UNIT_BARBARIAN_HORSEMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+        "UnitType": "UNIT_BARBARIAN_HORSEMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_CITY_PENALTY",
+        "UnitType": "UNIT_BARBARIAN_HORSEMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_VENETIAN_GALLEASS"
+    },
+    {
+        "PromotionType": "PROMOTION_OCEAN_IMPASSABLE",
+        "UnitType": "UNIT_VENETIAN_GALLEASS"
+    },
+    {
+        "PromotionType": "PROMOTION_ONLY_DEFENSIVE",
+        "UnitType": "UNIT_BARBARIAN_AXMAN"
+    },
+    {
+        "PromotionType": "PROMOTION_EXTENDED_PARADROP",
+        "UnitType": "UNIT_XCOM_SQUAD"
+    }
+]

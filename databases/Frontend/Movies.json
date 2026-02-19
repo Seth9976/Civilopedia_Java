@@ -1,0 +1,62 @@
+[
+    {
+        "Audio": "frontend_logos",
+        "Locale": "en_US",
+        "MovieType": "MOVIE_BASE_LOGOTRAIN",
+        "Resolution": 720,
+        "StopAudio": "stop_frontend_logos",
+        "Subtitles": null,
+        "Url": "fs://game/core/movies/720/civ7-logos.webm",
+        "UseCoverFitMode": 0
+    },
+    {
+        "Audio": "frontend_logos",
+        "Locale": "en_US",
+        "MovieType": "MOVIE_BASE_LOGOTRAIN",
+        "Resolution": 1080,
+        "StopAudio": "stop_frontend_logos",
+        "Subtitles": null,
+        "Url": "fs://game/core/movies/1080/civ7-logos.webm",
+        "UseCoverFitMode": 0
+    },
+    {
+        "Audio": "frontend_intel",
+        "Locale": "en_US",
+        "MovieType": "MOVIE_BASE_INTELARC",
+        "Resolution": 720,
+        "StopAudio": "stop_frontend_intel",
+        "Subtitles": null,
+        "Url": "fs://game/core/movies/720/intel-arc.webm",
+        "UseCoverFitMode": 0
+    },
+    {
+        "Audio": "frontend_intel",
+        "Locale": "en_US",
+        "MovieType": "MOVIE_BASE_INTELARC",
+        "Resolution": 1080,
+        "StopAudio": "stop_frontend_intel",
+        "Subtitles": null,
+        "Url": "fs://game/core/movies/1080/intel-arc.webm",
+        "UseCoverFitMode": 0
+    },
+    {
+        "Audio": "frontend_intro",
+        "Locale": "en_US",
+        "MovieType": "MOVIE_BASE_INTRO",
+        "Resolution": 720,
+        "StopAudio": "stop_frontend_intro",
+        "Subtitles": "fs://game/base-standard/movies/intro.vtt",
+        "Url": "fs://game/core/movies/720/civ7-cinematic.webm",
+        "UseCoverFitMode": 0
+    },
+    {
+        "Audio": "frontend_intro",
+        "Locale": "en_US",
+        "MovieType": "MOVIE_BASE_INTRO",
+        "Resolution": 1080,
+        "StopAudio": "stop_frontend_intro",
+        "Subtitles": "fs://game/base-standard/movies/intro.vtt",
+        "Url": "fs://game/core/movies/1080/civ7-cinematic.webm",
+        "UseCoverFitMode": 0
+    }
+]

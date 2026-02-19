@@ -1,0 +1,942 @@
+[
+    {
+        "ConstructibleType": "BUILDING_PALACE",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_PALACE",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_CITY_HALL",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_CITY_HALL",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_VILLAGE",
+        "DistrictType": "DISTRICT_WILDERNESS"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_ENCAMPMENT",
+        "DistrictType": "DISTRICT_WILDERNESS"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_FARM",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MINE",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MINE_RESOURCE",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_CLAY_PIT",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_CLAY_PIT_RESOURCE",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_WOODCUTTER",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_WOODCUTTER_RESOURCE",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_FISHING_BOAT",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_FISHING_BOAT_RESOURCE",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_CAMP",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_PASTURE",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_PLANTATION",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_QUARRY",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_OIL_RIG",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_EXPEDITION_BASE",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "BUILDING_ACADEMY",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_ACADEMY",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_ALTAR",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_AMPHITHEATER",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_AMPHITHEATER",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_ANCIENT_BRIDGE",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_ANCIENT_WALLS",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_ANCIENT_WALLS",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_ARENA",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_ARENA",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_BARRACKS",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_BARRACKS",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_BATH",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_BATH",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_BLACKSMITH",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_BLACKSMITH",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_BRICKYARD",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_BRICKYARD",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_GARDEN",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_GARDEN",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_LIBRARY",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_LIBRARY",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_LIGHTHOUSE",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_LIGHTHOUSE",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_MARKET",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_MARKET",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_MONUMENT",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_MONUMENT",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_SAW_PIT",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_SAW_PIT",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_VILLA",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_VILLA",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_HARBOR",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_HARBOR",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_MASTABA",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_MASTABA",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_MORTUARY_TEMPLE",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_MORTUARY_TEMPLE",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_ODEON",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_ODEON",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_PARTHENON",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_PARTHENON",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_DHARAMSHALA",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_DHARAMSHALA",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_VIHARA",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_VIHARA",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_JALAW",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_JALAW",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_KUH_NAH",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_KUH_NAH",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_BASILICA",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_BASILICA",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_TEMPLE_OF_JUPITER",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_TEMPLE_OF_JUPITER",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_BARAY",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HAN_GREAT_WALL",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HAWELT",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_PAIRIDAEZA",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_POTKOP",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HILLFORT",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MEGALITH",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_SOUQ",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_ZIGGURAT",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_ICE_HOUSE",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_FESTIVAL_GROUNDS",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "WONDER_ANGKOR_WAT",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_COLOSSEUM",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_COLOSSUS",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_DUR_SHARRUKIN",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_EMILE_BELL",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_GATE_OF_ALL_NATIONS",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_GREAT_STELE",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_HA_AMONGA_A_MAUI",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_HANGING_GARDENS",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_MAUSOLEUM_OF_THEODORIC",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_MONKS_MOUND",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_MUNDO_PERDIDO",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_NALANDA",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_ORACLE",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_PETRA",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_PYRAMID_OF_THE_SUN",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_PYRAMIDS",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_SANCHI_STUPA",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_TERRACOTTA_ARMY",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_WEIYANG_PALACE",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_GREAT_LIBRARY",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "BUILDING_ARMORER",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_ARMORER",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_BANK",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_BANK",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_BAZAAR",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_BAZAAR",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_DUNGEON",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_DUNGEON",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRISTMILL",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_GRISTMILL",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_GUILDHALL",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_GUILDHALL",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_HOSPITAL",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_HOSPITAL",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_KILN",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_KILN",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_MEDIEVAL_BRIDGE",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_MEDIEVAL_WALLS",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_MEDIEVAL_WALLS",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_MENAGERIE",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_MENAGERIE",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_OBSERVATORY",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_OBSERVATORY",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_PAVILION",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_PAVILION",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_SAWMILL",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_SAWMILL",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_SHIPYARD",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_SHIPYARD",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_STONECUTTER",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_STONECUTTER",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_TAVERN",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_TAVERN",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_TEMPLE",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_TEMPLE",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_UNIVERSITY",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_UNIVERSITY",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_WHARF",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_WHARF",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_MADRASA",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_MADRASA",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_MOSQUE",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_MOSQUE",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_ANJUVANNAM",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_ANJUVANNAM",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_MANIGRAMAM",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_MANIGRAMAM",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_CANDI_BENTAR",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_CANDI_BENTAR",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_MERU",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_MERU",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_BAILEY",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_BAILEY",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_MOTTE",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_MOTTE",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_CASA_CONSISTORIAL",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_CASA_CONSISTORIAL",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_CASA_DE_CONTRATACION",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_CASA_DE_CONTRATACION",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_CARAVANSERAI",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_LO_I_KALO",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MING_GREAT_WALL",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HAWAII_FISHING_BOAT",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_INCA_MOUNTAIN",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_ORTOO",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_TERRACE_FARM",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_KASBAH",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_STONE_HEAD",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_TRADING_FACTORY",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MONASTERY",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_SAQIYA",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MINOR_EMBASSY",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "WONDER_BOROBUDUR",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_BRIHADEESWARAR_TEMPLE",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_EL_ESCORIAL",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_ERDENE_ZUU",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_FORBIDDEN_CITY",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_HALE_O_KEAWE",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_HOUSE_OF_WISDOM",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_MACHU_PIKCHU",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_NOTRE_DAME",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_SHWEDAGON_ZEDI_DAW",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_TOMB_OF_ASKIA",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_WHITE_TOWER",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "BUILDING_ACADEMY_EX",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_ACADEMY_EX",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_AMPHITHEATER_EX",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_AMPHITHEATER_EX",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "WONDER_MAUSOLEUM_AT_HALICARNASSUS",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_GRAND_BAZAAR",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_WAT_XIENG_THONG",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_HIDDEN_FORTRESS",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "WONDER_RILA_MONASTERY",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "BUILDING_COTHON",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_COTHON",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_DOCKYARD",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_DOCKYARD",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "WONDER_BYRSA",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_WATER_PUPPET_THEATER",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "WONDER_THANH_HUE",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_THING",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "WONDER_REYKHOLT",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "BUILDING_NAVAL_ARSENAL",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_NAVAL_ARSENAL",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_NAVAL_STATION",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_NAVAL_STATION",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "WONDER_HAVANA_HARBOR",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "IMPROVEMENT_MAWASKAWE_SKOTE",
+        "DistrictType": "DISTRICT_RURAL"
+    },
+    {
+        "ConstructibleType": "WONDER_SERPENT_MOUND",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "BUILDING_LECTURE_HALL",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_LECTURE_HALL",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_PAGODA",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_PAGODA",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_LANGI",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_LANGI",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_VAI_KAUKAU",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_VAI_KAUKAU",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "WONDER_GREAT_LIGHTHOUSE",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "WONDER_NAN_MADOL",
+        "DistrictType": "DISTRICT_WONDER"
+    },
+    {
+        "ConstructibleType": "BUILDING_CITADEL",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_CITADEL",
+        "DistrictType": "DISTRICT_URBAN"
+    },
+    {
+        "ConstructibleType": "BUILDING_ROYAL_LIBRARY",
+        "DistrictType": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "ConstructibleType": "BUILDING_ROYAL_LIBRARY",
+        "DistrictType": "DISTRICT_URBAN"
+    }
+]

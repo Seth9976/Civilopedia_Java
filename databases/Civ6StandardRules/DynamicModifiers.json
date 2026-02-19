@@ -1,0 +1,2842 @@
+[
+    {
+        "CollectionType": "COLLECTION_ALL_PLAYERS",
+        "EffectType": "EFFECT_ATTACH_MODIFIER",
+        "ModifierType": "MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_CITIES",
+        "EffectType": "EFFECT_ATTACH_MODIFIER",
+        "ModifierType": "MODIFIER_ALL_CITIES_ATTACH_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_CITIES",
+        "EffectType": "EFFECT_ADJUST_BUILDING_PRODUCTION",
+        "ModifierType": "MODIFIER_ALL_CITIES_ADJUST_BUILDING_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_BUILDING_PRODUCTION",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_BUILDING_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_YIELD_CHANGE",
+        "ModifierType": "MODIFIER_ALL_CITIES_ADJUST_CITY_YIELD_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_GROWTH",
+        "ModifierType": "MODIFIER_ALL_CITIES_ADJUST_CITY_GROWTH"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_CULTURE_BORDER_EXPANSION",
+        "ModifierType": "MODIFIER_ALL_CITIES_CULTURE_BORDER_EXPANSION"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_CITIES",
+        "EffectType": "EFFECT_FEATURE_ADJACENCY",
+        "ModifierType": "MODIFIER_ALL_CITIES_FEATURE_ADJACENCY"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_DISTRICTS",
+        "EffectType": "EFFECT_ATTACH_MODIFIER",
+        "ModifierType": "MODIFIER_ALL_DISTRICTS_ATTACH_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_YIELD_BASED_ON_ADJACENCY_BONUS",
+        "ModifierType": "MODIFIER_ALL_DISTRICTS_ADJUST_YIELD_BASED_ON_ADJACENCY_BONUS"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_ZEALOT",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_ZEALOT"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_CITIES",
+        "EffectType": "EFFECT_TERRAIN_ADJACENCY",
+        "ModifierType": "MODIFIER_ALL_CITIES_TERRAIN_ADJACENCY"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_HEALING_MODIFIERS",
+        "ModifierType": "MODIFIER_ALL_UNITS_ADJUST_HEAL_PER_TURN"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_UNITS",
+        "EffectType": "EFFECT_ATTACH_MODIFIER",
+        "ModifierType": "MODIFIER_ALL_UNITS_ATTACH_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_UNITS",
+        "EffectType": "EFFECT_GRANT_ABILITY",
+        "ModifierType": "MODIFIER_ALL_UNITS_GRANT_ABILITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_CITY_TILES",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_CITY_TILES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_BUILDING_YIELD_CHANGE",
+        "ModifierType": "MODIFIER_BUILDING_YIELD_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_FOLLOWER_YIELD_MODIFIER",
+        "ModifierType": "MODIFIER_FOLLOWER_YIELD_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADD_PLAYER_BELIEF_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_RELIGION_ADD_PLAYER_BELIEF_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADD_RELIGIOUS_BELIEF_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_RELIGION_ADD_RELIGIOUS_BELIEF_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADD_RELIGIOUS_BUILDING",
+        "ModifierType": "MODIFIER_PLAYER_RELIGION_ADD_RELIGIOUS_BUILDING"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADD_RELIGIOUS_UNIT",
+        "ModifierType": "MODIFIER_PLAYER_RELIGION_ADD_RELIGIOUS_UNIT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_RELIGIOUS_COMBAT_LOSS",
+        "ModifierType": "MODIFIER_PLAYER_RELIGION_ADJUST_COMBAT_LOSS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_RELIGIOUS_SPREAD_DISTANCE",
+        "ModifierType": "MODIFIER_PLAYER_RELIGION_ADJUST_RELIGIOUS_SPREAD_DISTANCE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_RELIGIOUS_SPREAD_STRENGTH",
+        "ModifierType": "MODIFIER_PLAYER_RELIGION_ADJUST_RELIGIOUS_SPREAD_STRENGTH"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ENABLE_RELIGION_AUTO_SPREAD",
+        "ModifierType": "MODIFIER_PLAYER_RELIGION_ENABLE_AUTO_SPREAD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ENABLE_RELIGION_AWARDS_ENVOY",
+        "ModifierType": "MODIFIER_PLAYER_RELIGION_ENABLE_AWARDS_ENVOY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ENABLE_BUILDING_FAITH_PURCHASE",
+        "ModifierType": "MODIFIER_CITY_ENABLE_BUILDING_FAITH_PURCHASE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ENABLE_UNIT_FAITH_PURCHASE",
+        "ModifierType": "MODIFIER_CITY_ENABLE_UNIT_FAITH_PURCHASE"
+    },
+    {
+        "CollectionType": "COLLECTION_CITY_PLOT_YIELDS",
+        "EffectType": "EFFECT_ADJUST_PLOT_YIELD",
+        "ModifierType": "MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADD_BELIEF",
+        "ModifierType": "MODIFIER_PLAYER_ADD_BELIEF"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADD_CULTURE_BOMB_TRIGGER",
+        "ModifierType": "MODIFIER_PLAYER_ADD_CULTURE_BOMB_TRIGGER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADD_DIPLO_VISIBILITY",
+        "ModifierType": "MODIFIER_PLAYER_ADD_DIPLO_VISIBILITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADD_DIPLOMATIC_MOVEMENT_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_ADD_DIPLOMATIC_MOVEMENT_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADD_DIPLOMATIC_YIELD_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_ADD_DIPLOMATIC_YIELD_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADD_RELIGIOUS_BUILDING_MULTIPLIER",
+        "ModifierType": "MODIFIER_PLAYER_ADD_RELIGIOUS_BUILDING_MULTIPLIER"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_PLAYERS",
+        "EffectType": "EFFECT_ADJUST_DIPLOMATIC_ACTION_PREFERENCE",
+        "ModifierType": "MODIFIER_ADJUST_DIPLOMATIC_ACTION_PREFERENCE"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_PLAYERS",
+        "EffectType": "EFFECT_ADJUST_PLAYER_OPEN_BORDERS_FROM_INFLUENCE",
+        "ModifierType": "MODIFIER_ADJUST_OPEN_BORDERS_FROM_INFLUENCE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_ALLIED_WAR_DISCOUNT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_ALLIED_WAR_DISCOUNT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_MAX_WARMONGER_PERCENT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_MAX_WARMONGER_PERCENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_AUTO_THEMED_BUILDING",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_AUTO_THEMED_BUILDING"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CULTURE_BOMB_CONVERTS_CITY",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_CULTURE_BOMB_CONVERTS_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_FREE_CIVIC_BOOST_WONDER_ERA",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_FREE_CIVIC_BOOST_WONDER_ERA"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_FREE_GREAT_PERSON_POINTS",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_FREE_GREAT_PERSON_POINTS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_FREE_RESOURCE_IMPORT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_FREE_RESOURCE_IMPORT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_FREE_TECH_BOOST_WONDER_ERA",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_FREE_TECH_BOOST_WONDER_ERA"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_STATE_TRADE_ROUTE_FLAT_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTES_CITY_STATE_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CAPITAL_CITY",
+        "EffectType": "EFFECT_ADJUST_CITY_GROWTH",
+        "ModifierType": "MODIFIER_PLAYER_CAPITAL_CITY_ADJUST_CITY_GROWTH"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CAPITAL_CITY",
+        "EffectType": "EFFECT_ADJUST_CITY_PRODUCTION_UNIT",
+        "ModifierType": "MODIFIER_PLAYER_CAPITAL_CITY_ADJUST_UNIT_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CAPITAL_CITY",
+        "EffectType": "EFFECT_ADJUST_CITY_PRODUCTION_BUILDING",
+        "ModifierType": "MODIFIER_PLAYER_CAPITAL_CITY_ADJUST_BUILDING_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CAPITAL_CITY",
+        "EffectType": "EFFECT_ADJUST_CITY_PRODUCTION_DISTRICT",
+        "ModifierType": "MODIFIER_PLAYER_CAPITAL_CITY_ADJUST_DISTRICT_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CAPITAL_CITY",
+        "EffectType": "EFFECT_ADJUST_CITY_YIELD_CHANGE",
+        "ModifierType": "MODIFIER_PLAYER_CAPITAL_CITY_ADJUST_CITY_YIELD_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CAPITAL_CITY",
+        "EffectType": "EFFECT_ADJUST_CITY_YIELD_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_CAPITAL_CITY_ADJUST_CITY_YIELD_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ATTACH_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ATTACH_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADD_EXPENDED_GREAT_PERSON_TILES",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADD_EXPENDED_GREAT_PERSON_TILES"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_POPULATION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADD_POPULATION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_ALL_DISTRICTS_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_ALL_DISTRICTS_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_ALL_PROJECTS_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_ALL_PROJECTS_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_BUILDING_HOUSING",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_HOUSING"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_BUILDING_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_BUILDING_YIELD_CHANGE",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_BUILDING_YIELD_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_AMENITIES_FROM_CITY_STATES",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_CITY_AMENITIES_FROM_CITY_STATES"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_APPEAL",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_CITY_APPEAL"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_GROWTH",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_CITY_GROWTH"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_YIELD_CHANGE",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_CITY_YIELD_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_IMPROVEMENT_HOUSING",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_IMPROVEMENT_HOUSING"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_STATE_TRADE_ROUTE_DISTRICT_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_CITY_STATE_TRADE_ROUTE_DISTRICT_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_YIELD_PER_DISTRICT",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_CITY_YIELD_PER_DISTRICT"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_DISTRICT_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_EXTRA_GREAT_WORK_SLOTS",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_EXTRA_GREAT_WORK_SLOTS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_EXTRA_UNIT_COPY",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_EXTRA_UNIT_COPY"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_EXTRA_UNIT_COPY_TAG",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_EXTRA_UNIT_COPY_TAG"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_FEATURE_APPEAL_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_FEATURE_APPEAL_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_GREATWORK_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_GREATWORK_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_GREAT_PERSON_POINTS",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_GREAT_PERSON_POINT_BASE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_INNER_DEFENSE",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_INNER_DEFENSE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_ALL_MILITARY_UNITS_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_MILITARY_UNITS_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_ALL_MILITARY_UNITS_PRODUCTION",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_MILITARY_UNITS_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_NUM_UNITS_SUPPORTED",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_NUM_UNITS_SUPPORTED"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_OUTER_DEFENSE",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_OUTER_DEFENSE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_HIT_POINTS",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_CITY_HIT_POINTS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_PLOT_PURCHASE_COST",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_PLOT_PURCHASE_COST"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_POLICY_AMENITY",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_POLICY_AMENITY"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_POLICY_HOUSING",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_POLICY_HOUSING"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_PROJECT_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_PROJECT_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_RANGED_STRIKE",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_RANGED_STRIKE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_RIVER_DISTRICT_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_RIVER_DISTRICT_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_RIVER_WONDER_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_RIVER_WONDER_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_SPACE_RACE_PROJECTS_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_SPACE_RACE_PROJECTS_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_TRADE_ROUTE_YIELD_TO_OTHERS",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_TRADE_ROUTE_YIELD_TO_OTHERS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_TRADE_ROUTE_YIELD_FROM_OTHERS",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_TRADE_ROUTE_YIELD_FROM_OTHERS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_TRADE_ROUTE_YIELD_PER_DESTINATION_LUXURY_RESOURCE_FOR_INTERNATIONAL",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_TRADE_ROUTE_YIELD_PER_DESTINATION_LUXURY_FOR_INTERNATIONAL"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_TRADE_ROUTE_YIELD_PER_DESTINATION_STRATEGIC_RESOURCE_FOR_DOMESTIC",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_TRADE_ROUTE_YIELD_PER_DESTINATION_STRATEGIC_FOR_DOMESTIC"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_TRADE_ROUTE_YIELD_PER_DESTINATION_STRATEGIC_RESOURCE_FOR_INTERNATIONAL",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_TRADE_ROUTE_YIELD_PER_DESTINATION_STRATEGIC_FOR_INTERNATIONAL"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_TOURISM",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_TOURISM"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_UNIT_MAX_LEVEL",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_UNIT_MAX_LEVEL"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_UNIT_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_UNIT_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_PRODUCTION",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_UNIT_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_BUILDING_PURCHASE_COST",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_PURCHASE_COST"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_UNIT_PURCHASE_COST",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_UNIT_PURCHASE_COST"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_PURCHASE_COST",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_UNIT_PURCHASE_COST"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_UNIT_TAG_ERA_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_UNIT_TAG_ERA_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_VALID_FEATURES_DISTRICTS",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_VALID_FEATURES_DISTRICTS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_VALID_FEATURES_WONDERS",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_VALID_FEATURES_WONDERS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_WATER_HOUSING",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_WATER_HOUSING"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_WONDER_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_WONDER_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_WONDER_ERA_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_WONDER_ERA_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_YIELD_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_CITY_YIELD_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ENABLE_BUILDING_FAITH_PURCHASE",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ENABLE_BUILDING_FAITH_PURCHASE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ENABLE_UNIT_FAITH_PURCHASE",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ENABLE_UNIT_FAITH_PURCHASE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_EXTRA_DISTRICTS",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_EXTRA_DISTRICT"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_FEATURE_ADJACENCY",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_FEATURE_ADJACENCY"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_DISTRICT_ADJACENCY",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_DISTRICT_ADJACENCY"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_TERRAIN_ADJACENCY",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_TERRAIN_ADJACENCY"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_GRANT_CHEAPEST_BUILDING_IN_CITY",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_GRANT_CHEAPEST_BUILDING_IN_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_GRANT_CITY_ROAD_TO_CAPITAL",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_GRANT_ROAD_TO_CAPITAL"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_GRANT_CITY_TRADING_POST",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_GRANT_TRADING_POST"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_GRANT_UNIT_BY_CLASS",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_GRANT_UNIT_BY_CLASS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_ENFORCE_BORDERS",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_ENFORCE_BORDERS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_FAITH_PEACEFUL_FOUNDERS",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_FAITH_PEACEFUL_FOUNDERS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_FAITH_FROM_DISPERSAL",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_FAITH_FROM_DISPERSAL"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_FULL_ACCESS_ONE_STRATEGIC",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_FULL_ACCESS_ONE_STRATEGIC"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_GOLD_INTEREST_PERCENT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_GOLD_INTEREST_PERCENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_IMPROVED_ROUTE_LEVEL",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_IMPROVED_ROUTE_LEVEL"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_IMPROVEMENT_GOODY_HUT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_IMPROVEMENT_GOODY_HUT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_LEVY_DISCOUNT_PERCENT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_LEVY_DISCOUNT_PERCENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_NATURAL_WONDER_RELIC",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_NATURAL_WONDER_RELIC"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_STEAL_TECH_BOOSTS",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_STEAL_TECH_BOOSTS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_SPY_BONUS",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_SPY_BONUS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TARGET_CITY_SPY_YIELD_PERCENT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TARGET_CITY_SPY_YIELD_PERCENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TOKEN_ON_TRADE_ROUTE_STARTED",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TOKEN_ON_TRADE_ROUTE_STARTED"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_UNIT_DISTRICT_PERCENT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_UNIT_DISTRICT_PERCENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_UNIT_WONDER_PERCENT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_UNIT_WONDER_PERCENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_UNIT_UPGRADE_DISCOUNT_PERCENT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_UNIT_UPGRADE_DISCOUNT_PERCENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_VALID_BUILDING",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_VALID_BUILDING"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_VALID_IMPROVEMENT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_VALID_IMPROVEMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_VALID_UNIT_BUILD",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_VALID_UNIT_BUILD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_WAR_WEARINESS",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_WAR_WEARINESS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_YIELD_CHANGE",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_YIELD_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_YIELD_CHANGE_PER_TRIBUTARY",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_YIELD_CHANGE_PER_TRIBUTARY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_YIELD_CHANGE_PER_USED_INFLUENCE_TOKEN",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_YIELD_CHANGE_PER_USED_INFLUENCE_TOKEN"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_YIELD_MODIFIER_PER_EARNED_GREAT_PERSON",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_YIELD_MODIFIER_PER_EARNED_GREAT_PERSON"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_YIELD_MODIFIER_PER_TRIBUTARY",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_YIELD_MODIFIER_PER_TRIBUTARY"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CAPTURED_CITIES",
+        "EffectType": "EFFECT_ATTACH_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_CAPTURED_CITY_ATTACH_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CORPS_ARMY_PREREQ",
+        "ModifierType": "MODIFIER_PLAYER_CORPS_ARMY_PREREQ"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_GOVERNMENT_SLOT_TYPE",
+        "ModifierType": "MODIFIER_PLAYER_CULTURE_ADJUST_GOVERNMENT_SLOTS_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_REPLACE_PLAYER_GOVERNMENT_SLOT_TYPE",
+        "ModifierType": "MODIFIER_PLAYER_CULTURE_REPLACE_GOVERNMENT_SLOTS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_UNIT_YIELD_ADJACENT_FEATURES",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_GRANT_ADJACENT_FEATURE_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_UNIT_YIELD_ADJACENT_NATURAL_WONDERS",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_GRANT_ADJACENT_NATURAL_WONDER_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_UNIT_YIELD_ADJACENT_TERRAINS",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_GRANT_ADJACENT_TERRAIN_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_EXPERIENCE_LEVEL",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_EXPERIENCE_LEVEL"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_ERA_STRENGTH_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_ERA_STRENGTH_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_WMD_PROTECTION",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_WMD_RESISTANCE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_WATER_DAMAGE_PROTECTION",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_WATER_DAMAGE_RESISTANCE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_IGNORE_RESOURCE_MAINTENANCE",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_IGNORE_RESOURCE_MAINTENANCE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_COMBAT",
+        "EffectType": "EFFECT_ADJUST_UNIT_POST_COMBAT_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_POST_COMBAT_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_UNIT_COMBAT",
+        "EffectType": "EFFECT_ADJUST_UNIT_POST_COMBAT_YIELD",
+        "ModifierType": "MODIFIER_UNIT_ADJUST_POST_COMBAT_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_EXTRA_REGIONAL_ENTERTAINMENT",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_EXTRA_REGIONAL_ENTERTAINMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_EXTRA_ENTERTAINMENT",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_EXTRA_ENTERTAINMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_EXTRA_REGIONAL_RANGE",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_EXTRA_REGIONAL_RANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_EXTRA_REGIONAL_RANGE",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_EXTRA_REGIONAL_RANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_EXTRA_REGIONAL_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_EXTRA_REGIONAL_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_GREAT_PERSON_POINTS",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_GREAT_PERSON_POINTS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_GREAT_PERSON_POINTS",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_GREAT_PERSON_POINTS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_HOUSING",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_HOUSING"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_TOURISM_CHANGE",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_TOURISM_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_TOURISM_CHANGE",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_TOURISM_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_YIELD_BASED_ON_ADJACENCY_BONUS",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_YIELD_BASED_ON_ADJACENCY_BONUS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_YIELD_BASED_ON_APPEAL",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_YIELD_BASED_ON_APPEAL"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_BASE_YIELD_CHANGE",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_BASE_YIELD_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_YIELD_CHANGE",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_YIELD_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_YIELD_CHANGE",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_YIELD_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_YIELD_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_YIELD_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_CITY_PRODUCTION_DISTRICT",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_DISTRICT_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_CITY_PRODUCTION_BUILDING",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_BUILDING_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_CITY_PRODUCTION_UNIT",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_UNIT_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_GAINS_ALL_FOLLOWER_BELIEFS",
+        "ModifierType": "MODIFIER_PLAYER_GAINS_ALL_FOLLOWER_BELIEFS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_GAINS_FOUNDER_BELIEF_MAJORITY_RELIGION",
+        "ModifierType": "MODIFIER_PLAYER_GAINS_FOUNDER_BELIEF_MAJORITY_RELIGION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_ACCUMULATING_BONUS",
+        "ModifierType": "MODIFIER_PLAYER_GOVERNMENT_ACCUMULATING_BONUS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_FLAT_BONUS",
+        "ModifierType": "MODIFIER_PLAYER_GOVERNMENT_FLAT_BONUS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_BONUS_RATE",
+        "ModifierType": "MODIFIER_PLAYER_GOVERNMENT_ADJUST_BONUS_RATE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_OTHER_GOVERNMENT_INTOLERANCE",
+        "ModifierType": "MODIFIER_PLAYER_GOVERNMENT_ADJUST_OTHER_GOVERNMENT_INTOLERANCE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CAPITAL_CITY",
+        "EffectType": "EFFECT_GRANT_UNIT_IN_CITY",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_UNIT_IN_CAPITAL"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_GRANT_UNIT_IN_CITY",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_GRANT_UNIT_IN_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_UNIT_NEAREST_OWNER_CITY",
+        "EffectType": "EFFECT_ADJUST_CITY_POPULATION",
+        "ModifierType": "MODIFIER_PLAYER_NEAREST_CITY_ADD_POPULATION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_OWNED_BONUS_RESOURCE_EXTRA_AMENITIES",
+        "ModifierType": "MODIFIER_PLAYER_OWNED_BONUS_RESOURCE_EXTRA_AMENITIES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_OWNED_LUXURY_EXTRA_AMENITIES",
+        "ModifierType": "MODIFIER_PLAYER_OWNED_LUXURY_EXTRA_AMENITIES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_MAINTENANCE_DISCOUNT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_UNIT_MAINTENANCE_DISCOUNT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_WMD_COUNT",
+        "ModifierType": "MODIFIER_PLAYER_CREATE_WMD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_RANDOM_BASE_PROMOTION",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_GRANT_RANDOM_BASE_PROMOTION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_CITY_REMOVE_OTHER_RELIGIONS",
+        "ModifierType": "MODIFIER_PLAYER_CITY_REMOVE_OTHER_RELIGIONS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_PROPERTY",
+        "ModifierType": "MODIFIER_UNIT_ADJUST_PROPERTY"
+    },
+    {
+        "CollectionType": "COLLECTION_UNIT_COMBAT",
+        "EffectType": "EFFECT_ADJUST_PLAYER_STRENGTH_MODIFIER",
+        "ModifierType": "MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_COMBAT_STRENGTH",
+        "ModifierType": "MODIFIER_UNIT_ADJUST_BASE_COMBAT_STRENGTH"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_ATTACK_RANGE",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_ATTACK_RANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_ATTACK_RANGE",
+        "ModifierType": "MODIFIER_UNIT_ADJUST_ATTACK_RANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_PLOT",
+        "ModifierType": "MODIFIER_UNIT_GRANT_PLOT"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_ATTACK_EXPERIENCE_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_UNIT_ATTACK_EXPERIENCE_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_EXPERIENCE_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_UNIT_EXPERIENCE_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_EXPERIENCE_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_UNIT_EXPERIENCE_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_COMBAT_CAPTURE",
+        "ModifierType": "MODIFIER_UNIT_ADJUST_COMBAT_CAPTURE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_CLEAR_TERRAIN_START_MOVEMENT",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_CLEAR_TERRAIN_START_MOVEMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_ENTER_FOREIGN_LANDS",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_ENTER_FOREIGN_LANDS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_IGNORE_TERRAIN_COST",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_IGNORE_TERRAIN_COST"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_SEE_THROUGH_FEATURES",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_SEE_THROUGH_FEATURES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_SEE_THROUGH_TERRAIN",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_SEE_THROUGH_TERRAIN"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_TRADE_ROUTE_PLUNDER_IMMUNITY",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_TRADE_ROUTE_PLUNDER_IMMUNITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_HEAL_AFTER_ACTION",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_GRANT_HEAL_AFTER_ACTION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_AIR_SLOTS",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_GRANT_AIR_SLOTS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_UNIT_WITH_EXPERIENCE",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_GRANT_UNIT_WITH_EXPERIENCE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_UNIT_BY_DOMAIN",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_GRANT_UNIT_BY_DOMAIN"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_DAMAGE",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_DAMAGE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_DAMAGE",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_DAMAGE"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_DAMAGE",
+        "ModifierType": "MODIFIER_WORLD_UNITS_ADJUST_DAMAGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_GRANT_EXPERIENCE",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_GRANT_EXPERIENCE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_GRANT_EXPERIENCE",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_GRANT_EXPERIENCE"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_GRANT_EXPERIENCE",
+        "ModifierType": "MODIFIER_UNITS_ADJUST_GRANT_EXPERIENCE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_HEAL",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_HEAL"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_HEALING_MODIFIERS",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_HEAL_PER_TURN"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_HEALING_MODIFIERS",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_HEAL_PER_TURN"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_HEALING_RELIGION_MODIFIERS",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_HEAL_RELIGION_PER_TURN"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_HIDDEN_VISIBILITY",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_HIDDEN_VISIBILITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_SEE_HIDDEN",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_SEE_HIDDEN"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_IGNORE_ZOC",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_IGNORE_ZOC"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_EXERT_ZOC",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_EXERT_ZOC"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_EXTRACT_SEA_ARTIFACTS",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_EXTRACT_SEA_ARTIFACTS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_MOVE_AND_ATTACK",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_MOVE_AND_ATTACK"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_ATTACK_AND_MOVE",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_ATTACK_AND_MOVE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_EXTRA_UNIT_COPY",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_EXTRA_UNIT_COPY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_EXTRA_UNIT_COPY_TAG",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_EXTRA_UNIT_COPY_TAG"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_HEAL_CHARGES",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_HEAL_CHARGES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_LAND_VICTORY_SPREAD",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_LAND_VICTORY_SPREAD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_NO_FOREIGN_SPREAD",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_NO_FOREIGN_SPREAD"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_VALID_TERRAIN",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_VALID_TERRAIN"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_MOVEMENT",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_MOVEMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_SEA_MOVEMENT",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_SEA_MOVEMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_SIGHT",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_SIGHT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_SPREAD_CHARGES",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_SPREAD_CHARGES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_SPY_OPERATION_CHANCE",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_SPY_OPERATION_CHANCE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_SPY_ESTABLISH_TIME",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_SPY_ESTABLISH_TIME"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_SPY_OPERATION_TIME",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_SPY_OPERATION_TIME"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_SPY_OPERATION_TIME",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_SPY_OPERATION_TIME"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CIVIC_BOOST",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_CIVIC_BOOST"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_TECHNOLOGY_BOOST",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TECHNOLOGY_BOOST"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_WARMONGER_MULTIPLIER",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_WARMONGER_MULTIPLIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_EVICT_PERCENT",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_EVICT_PERCENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_FOREIGN_SPREAD_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_FOREIGN_SPREAD_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_NATURAL_WONDER_DEFERRED_CHARGES",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_NATURAL_WONDER_DEFERRED_CHARGES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_CONVERTS_BARBARIANS",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_CONVERTS_BARBARIANS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_RELIC_UPON_DEATH",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_RELIC_UPON_DEATH"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_INITIATION_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_INITIATION_GOLD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_UPGRADE_GOODY_HUT",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_UPGRADE_GOODY_HUT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_IGNORE_RIVERS",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_IGNORE_RIVERS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_IGNORE_RIVERS",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_IGNORE_RIVERS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_IGNORE_CLIFF_WALLS",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_IGNORE_CLIFF_WALLS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_IGNORE_SHORES",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_IGNORE_SHORES"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_IGNORE_SHORES",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_IGNORE_SHORES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_SUPPORT_BONUS_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_SUPPORT_BONUS_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_FLANKING_BONUS_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_FLANKING_BONUS_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_FLANKING_BONUS_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_FLANKING_BONUS_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_ADVANCED_PILLAGING",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_ADVANCED_PILLAGING"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_VALID_TERRAIN",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_VALID_TERRAIN"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_RAIDING",
+        "ModifierType": "MODIFIER_UNIT_ADJUST_RAIDING"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_ESCORT_MOBILITY",
+        "ModifierType": "MODIFIER_UNIT_ADJUST_ESCORT_MOBILITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_BYPASS_COMBAT_UNIT",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_BYPASS_COMBAT_UNIT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_PLUNDER_YIELDS",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_PLUNDER_YIELDS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_PLUNDER_YIELDS",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_PLUNDER_YIELDS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_MILITARY_FORMATION",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_MILITARY_FORMATION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_UNIT_TYPE_UNLIMITED_PROMOTION_CHOICES",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_GRANT_UNLIMITED_PROMOTION_CHOICES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_BYPASS_WALLS",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_BYPASS_WALLS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_CANNOT_ATTACK",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_CANNOT_ATTACK"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_NO_REDUCTION_DAMAGE",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_NO_REDUCTION_DAMAGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_FRIENDLY_TERRITORY_COMBAT",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_FRIENDLY_TERRITORY_COMBAT"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_FRIENDLY_TERRITORY_START_MOVEMENT",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_FRIENDLY_TERRITORY_START_MOVEMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_STRENGTH_REDUCTION_FOR_DAMAGE_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_STRENGTH_REDUCTION_FOR_DAMAGE_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_RELIGION_ON_CAPTURE",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_CITY_ON_CAPTURE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_ENABLE_WALL_ATTACK",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_ENABLE_WALL_ATTACK"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_BOOST_ALL_SPIES",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_BOOST_ALL_SPIES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_ESCAPE_BOOST",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ESCAPE_BOOST"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ATTACH_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_RESTORE_UNIT_MOVEMENT",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_RESET_MOVES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ATTACH_MODIFIER",
+        "ModifierType": "MODIFIER_SINGLE_UNIT_ATTACH_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_GRANT_ABILITY",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_GRANT_ABILITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_ABILITY",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_GRANT_ABILITY"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_GRANT_PROMOTION",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_GRANT_PROMOTION"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_UNITS",
+        "EffectType": "EFFECT_GRANT_PROMOTION",
+        "ModifierType": "MODIFIER_UNITS_GRANT_PROMOTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_PER_LUXURY_ATTACK_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_PER_LUXURY_ATTACK_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_PER_LUXURY_ATTACK_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_PER_LUXURY_ATTACK_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_MILITARY_POLICIES_COMBAT_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_PER_MILITARY_POLICIES_COMBAT_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_BARBARIAN_COMBAT",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_BARBARIAN_COMBAT"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_BUILD_CHARGES",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_BUILDER_CHARGES"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_GREAT_PERSON_CHARGES",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_GREAT_PERSON_CHARGES"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_OWNER",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_OWNER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_COMBAT",
+        "EffectType": "EFFECT_ADJUST_PLAYER_STRENGTH_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_COMBAT_DIFFICULTY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_PRODUCTION",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_UNIT_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_PILLAGE_DISTRICT_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_DISTRICT_PILLAGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_PILLAGE_IMPROVEMENT_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_IMPROVEMENT_PILLAGE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_SPREAD_CHARGES",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_SPREAD_CHARGES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_GREAT_PEOPLE_POINTS_PER_KILL",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_GREAT_PEOPLE_POINTS_PER_KILL"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_POST_COMBAT_HEAL",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_HEAL_FROM_COMBAT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_POST_COMBAT_HEAL",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_HEAL_FROM_COMBAT"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_MOVEMENT",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_MOVEMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_NUM_ATTACKS",
+        "ModifierType": "MODIFIER_UNIT_ADJUST_NUM_ATTACKS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_FORCE_RETREAT",
+        "ModifierType": "MODIFIER_UNIT_ADJUST_FORCE_RETREAT"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_SEA_MOVEMENT",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_SEA_MOVEMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_COMBAT",
+        "EffectType": "EFFECT_ADJUST_PLAYER_STRENGTH_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_COMBAT_STRENGTH"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_ACTIVE_BUILDING_PRODUCTION",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_ACTIVE_BUILDING_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_APPEAL",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_CITY_APPEAL"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_AMENITIES_FROM_GREAT_PEOPLE",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_CITY_AMENITIES_FROM_GREAT_PEOPLE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_YIELD_FROM_FOREIGN_TRADE_ROUTES_PASSING_THROUGH",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_YIELD_FROM_FOREIGN_TRADE_ROUTES_PASSING_THROUGH"
+    },
+    {
+        "CollectionType": "COLLECTION_CITY_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_CITY_AMENITIES_FROM_RELIGION",
+        "ModifierType": "MODIFIER_CITY_DISTRICTS_ADJUST_CITY_AMENITIES_FROM_RELIGION"
+    },
+    {
+        "CollectionType": "COLLECTION_CITY_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_TOURISM_ADJACENCY_YIELD_MOFIFIER",
+        "ModifierType": "MODIFIER_CITY_DISTRICTS_ADJUST_TOURISM_ADJACENCY_YIELD_MOFIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_CITY_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_TOURISM_CHANGE",
+        "ModifierType": "MODIFIER_CITY_DISTRICTS_ADJUST_TOURISM_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_BUILDING_HOUSING",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_BUILDING_HOUSING"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_AMENITIES_FROM_RELIGION",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_CITY_AMENITIES_FROM_RELIGION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_ALL_DISTRICT_PRODUCTION_MODIFIER",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_DISTRICT_PRODUCTION_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_ENTERTAINMENT_FROM_WONDER_ADJACENT_TO_LAKE",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_LAKE_ENTERTAINMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_GREATWORK_YIELD",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_GREATWORK_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_TOURISM_LATE_ERAS",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_TOURISM_LATE_ERAS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_TRADE_ROUTE_YIELD_TO_OTHERS",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_TRADE_ROUTE_YIELD_TO_OTHERS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_TRADE_ROUTE_YIELD_FROM_OTHERS",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_TRADE_ROUTE_YIELD_FROM_OTHERS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_TRADE_ROUTE_YIELD_FOR_DOMESTIC",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_TRADE_ROUTE_YIELD_FOR_DOMESTIC"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_TRADE_ROUTE_YIELD_FOR_INTERNATIONAL",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_TRADE_ROUTE_YIELD_FOR_INTERNATIONAL"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_TRADE_ROUTE_YIELD_PER_LOCAL_BONUS_RESOURCE_FOR_DOMESTIC",
+        "ModifierType": "MODIFIER_PLAYER_CITY_TRADE_ROUTE_YIELD_PER_LOCAL_BONUS_RESOURCE_FOR_DOMESTIC"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_TRADE_ROUTE_YIELD_PER_LOCAL_BONUS_RESOURCE_FOR_INTERNATIONAL",
+        "ModifierType": "MODIFIER_PLAYER_CITY_TRADE_ROUTE_YIELD_PER_LOCAL_BONUS_RESOURCE_FOR_INTERNATIONAL"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_GROWTH",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_CITY_GROWTH"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_HOUSING_FROM_GREAT_PEOPLE",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_CITY_HOUSING_FROM_GREAT_PEOPLE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_HOUSING_FROM_GREAT_WORKS",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_CITY_HOUSING_FROM_GREAT_WORKS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_UNIT_MAX_LEVEL",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_CITY_UNIT_MAX_LEVEL"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_YIELD_MODIFIER",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_CITY_YIELD_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_EXTRA_GREAT_WORK_SLOTS",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_EXTRA_GREAT_WORK_SLOTS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_TOURISM",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_TOURISM"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_WONDER_YIELD_CHANGE",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_WONDER_YIELD_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_WONDER_YIELD_CHANGE",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_WONDER_YIELD_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_YIELD_CHANGE",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_YIELD_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ATTACH_MODIFIER",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ATTACH_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_CITY_TRAINED_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_BUILD_CHARGES",
+        "ModifierType": "MODIFIER_SINGLE_CITY_BUILDER_CHARGES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_FEATURE_ADJACENCY",
+        "ModifierType": "MODIFIER_SINGLE_CITY_FEATURE_ADJACENCY"
+    },
+    {
+        "CollectionType": "COLLECTION_CITY_TRAINED_UNITS",
+        "EffectType": "EFFECT_GRANT_ABILITY",
+        "ModifierType": "MODIFIER_SINGLE_CITY_GRANT_ABILITY_FOR_TRAINED_UNITS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_BUILDING_IN_CITY",
+        "ModifierType": "MODIFIER_SINGLE_CITY_GRANT_BUILDING_IN_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_BUILDING_IN_CITY_IGNORE",
+        "ModifierType": "MODIFIER_SINGLE_CITY_GRANT_BUILDING_IN_CITY_IGNORE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_PRODUCTION_IN_CITY",
+        "ModifierType": "MODIFIER_SINGLE_CITY_GRANT_PRODUCTION_IN_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_FREE_RESOURCE_IN_CITY",
+        "ModifierType": "MODIFIER_SINGLE_CITY_GRANT_RESOURCE_IN_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_UNIT_IN_CITY",
+        "ModifierType": "MODIFIER_SINGLE_CITY_GRANT_UNIT_IN_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_UNIT_NEAREST_OWNER_CITY",
+        "EffectType": "EFFECT_GRANT_UNIT_IN_CITY",
+        "ModifierType": "MODIFIER_SINGLE_CITY_GRANT_UNIT_IN_NEAREST_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_UNIT_NEAREST_OWNER_CITY",
+        "EffectType": "EFFECT_GRANT_UNIT_BY_CLASS",
+        "ModifierType": "MODIFIER_SINGLE_CITY_GRANT_UNIT_BY_CLASS_IN_NEAREST_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_GREAT_PERSON_CLASS_IN_CITY",
+        "ModifierType": "MODIFIER_SINGLE_CITY_GRANT_GREAT_PERSON_CLASS_IN_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_YIELD_PER_GREAT_WORK_IN_CITY",
+        "ModifierType": "MODIFIER_SINGLE_CITY_GRANT_YIELD_PER_GREAT_WORK"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_CITY_YIELD_PERCENT_UNIT_CREATED_COST",
+        "ModifierType": "MODIFIER_SINGLE_CITY_GRANT_YIELD_PER_UNIT_COST"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_EXTRA_DISTRICTS",
+        "ModifierType": "MODIFIER_SINGLE_CITY_EXTRA_DISTRICT"
+    },
+    {
+        "CollectionType": "COLLECTION_CITY_TRAINED_UNITS",
+        "EffectType": "EFFECT_ADJUST_HEAL_CHARGES",
+        "ModifierType": "MODIFIER_SINGLE_CITY_HEAL_SPREADS"
+    },
+    {
+        "CollectionType": "COLLECTION_CITY_TRAINED_UNITS",
+        "EffectType": "EFFECT_ADJUST_BUILDING_SPREAD_CHARGES",
+        "ModifierType": "MODIFIER_SINGLE_CITY_RELIGIOUS_SPREADS"
+    },
+    {
+        "CollectionType": "COLLECTION_CITY_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_GREAT_PERSON_POINTS",
+        "ModifierType": "MODIFIER_SINGLE_CITY_DISTRICTS_ADJUST_GREAT_PERSON_POINTS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_PROPERTY",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_PROPERTY"
+    },
+    {
+        "CollectionType": "COLLECTION_SINGLE_PLOT_YIELDS",
+        "EffectType": "EFFECT_ADJUST_PLOT_YIELD",
+        "ModifierType": "MODIFIER_SINGLE_PLOT_ADJUST_PLOT_YIELDS"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_ARCHAEOLOGY",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_ARCHAEOLOGY"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_BROKEN_PROMISE",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_BROKEN_PROMISE"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_ESPIONAGE",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_ESPIONAGE"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_GOVERNMENTS",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_GOVERNMENTS"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_FORCE_INCURSION",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_INCURSION"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_KEPT_PROMISE",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_KEPT_PROMISE"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_NO_PROMISE",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_NO_PROMISE"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_ONE_SIDED_TRADES",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_ONE_SIDED_TRADES"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_SIMPLE_EFFECT",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_PEACEFUL"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_RANDOM",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_RANDOM"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_SETTLED_CITIES",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_SETTLED_CITIES"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_SIMPLE_EFFECT",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_THIRD_PARTY_EFFECTS",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_THIRD_PARTY_EFFECTS"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_TRADE_RELATIONS",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_TRADE_RELATIONS"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_NEW_WARMONGER",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_NEW_WARMONGER"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_ARCHIPELAGIC_STATE",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_ARCHIPELAGIC_STATE"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_AYYUBID_DYNASTY",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_AYYUBID_DYNASTY"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_BLACK_QUEEN",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_BLACK_QUEEN"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_BULL_MOOSE",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_BULL_MOOSE"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_BUSHIDO",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_BUSHIDO"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_END_TO_SUFFERING",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_END_TO_SUFFERING"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_ENVIRONMENT",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_ENVIRONMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_EXPLOITATIVE",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_EXPLOITATIVE"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_LAST_VIKING_KING",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_LAST_VIKING_KING"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_MAGNIFICENCES",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_MAGNIFICENCES"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_OPPORTUNIST",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_OPPORTUNIST"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_OPTIMUS_PRINCEPS",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_OPTIMUS_PRINCEPS"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_PARANOID",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_PARANOID"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_PERPETUALLY_ON_GUARD",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_PERPETUALLY_ON_GUARD"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_QUEEN_OF_NILE",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_QUEEN_OF_NILE"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_SHORT_LIFE_GLORY",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_SHORT_LIFE_GLORY"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_WITH_SHIELD_OR_ON_IT",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_WITH_SHIELD_OR_ON_IT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_ALL_TECHNOLOGY_BOOST_BY_ERA",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_ALL_TECHNOLOGY_BOOST_BY_ERA"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_PLAYER_RANDOM_TECHNOLOGY",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_RANDOM_TECHNOLOGY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_RANDOM_TECHNOLOGY_BOOST_BY_ERA",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_RANDOM_TECHNOLOGY_BOOST_BY_ERA"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_RANDOM_TECHNOLOGY_BOOST_ON_NEW_ERA",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_RANDOM_TECHNOLOGY_BOOST_ON_NEW_ERA"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_RANDOM_TECHNOLOGY_BOOST_GOODY_HUT",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_RANDOM_TECHNOLOGY_BOOST_GOODY_HUT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_PLAYER_RANDOM_CIVIC",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_RANDOM_CIVIC"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_RANDOM_CIVIC_BOOST_BY_ERA",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_RANDOM_CIVIC_BOOST_BY_ERA"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_RANDOM_CIVIC_BOOST_ON_NEW_ERA",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_RANDOM_CIVIC_BOOST_ON_NEW_ERA"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_RANDOM_CIVIC_BOOST_GOODY_HUT",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_RANDOM_CIVIC_BOOST_GOODY_HUT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_PLAYER_SPECIFIC_TECH_BOOST_GREAT_PERSON",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_SPECIFIC_TECH_BOOST"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_INFLUENCE_TOKEN",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_INFLUENCE_TOKEN"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_CITY_OWNER_INFLUENCE_TOKEN_WONDER",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_INFLUENCE_TOKEN_FROM_CITY_WONDER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_COMBAT_ADJACENCY",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_COMBAT_ADJACENCY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_PLAYER_FAITH_FROM_HARVEST",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_FAITH_FROM_HARVEST"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_PLAYER_FAITH_FROM_REMOVE_FEATURE",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_FAITH_FROM_REMOVE_FEATURE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_RELIC",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_RELIC"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_SPY",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_SPY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_PLAYER_YIELD_PERCENT_UNIT_COST",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_YIELD_PERCENT_UNIT_COST"
+    },
+    {
+        "CollectionType": "COLLECTION_UNIT_COMBAT",
+        "EffectType": "EFFECT_GRANT_STRENGTH_PER_ADJACENT_UNIT_TYPE",
+        "ModifierType": "GRANT_STRENGTH_PER_ADJACENT_UNIT_TYPE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_MULTIPLY_TREASURY",
+        "ModifierType": "MODIFIER_PLAYER_MULTIPLY_TREASURY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_ALWAYS_FULL_RELIGIOUS_TOURISM",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_ALWAYS_FULL_RELIGIOUS_TOURISM"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_NO_OCCUPATION_PENALTIES",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_NO_OCCUPATION_PENALTIES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_RELIGION_BUILDING_DISCOUNT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_RELIGION_BUILDING_DISCOUNT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_RELIGIOUS_TOURISM_REDUCTION",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_RELIGIOUS_TOURISM_REDUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_INFLUENCE_POINTS_PER_TURN",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_INFLUENCE_POINTS_PER_TURN"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_PROGRESS_DIFF_TRADE_BONUS",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_PROGRESS_DIFF_TRADE_BONUS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_PLOT_YIELDS",
+        "EffectType": "EFFECT_ADJUST_PLOT_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_PLOT_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_TRADE_ROUTE_CAPACITY",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_TRADE_ROUTE_CAPACITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_TRADE_ROUTE_CAPACITY",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_CAPACITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_TRADE_ROUTE_WATER_RANGE",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_WATER_RANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_TRADE_ROUTE_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_TRADE_ROUTE_YIELD_FOR_DOMESTIC",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_FOR_DOMESTIC"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_TRADE_ROUTE_YIELD_PER_SPECIALTY_DISTRICT_FOR_DOMESTIC",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_PER_SPECIALTY_DISTRICT_FOR_DOMESTIC"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_TRADE_ROUTE_YIELD_FOR_INTERNATIONAL",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_FOR_INTERNATIONAL"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_GOLD_DISPERSAL",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_GOLD_DISPERSAL"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_GREAT_PERSON_PATRONAGE_DISCOUNT_PERCENT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_GREAT_PERSON_PATRONAGE_DISCOUNT_PERCENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_GREAT_PERSON_POINTS",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_GREAT_PERSON_POINTS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_GREAT_PERSON_GUARANTEE",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_GREAT_PERSON_GUARANTEE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_GREAT_PERSON_POINTS_PERCENT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_GREAT_PERSON_POINTS_PERCENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_GREAT_PERSON_POINTS_REFUND_PERCENT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_GREAT_PERSON_POINTS_REFUND_PERCENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DUPLICATE_FIRST_INFLUENCE_TOKEN",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_DUPLICATE_FIRST_INFLUENCE_TOKEN"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DUPLICATE_INFLUENCE_TOKEN_WHEN_RIVAL_GOVERNMENT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_DUPLICATE_INFLUENCE_TOKEN_WHEN_RIVAL_GOVERNMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_JOINTWAR_EXPERIENCE",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_JOINTWAR_EXPERIENCE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_JOINTWAR_PLUNDER",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_JOINTWAR_PLUNDER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TOURISM",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TOURISM"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_EMBARKED_UNIT_MOVEMENT",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_EMBARKED_MOVEMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_PROPERTY",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_PROPERTY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TRADE_ROUTE_DESTINATION_YIELD_FOR_ALLY_ROUTE",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_DESTINATION_YIELD_FOR_ALLY_ROUTE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TRADE_ROUTE_ORIGIN_YIELD_FOR_ALLY_ROUTE",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_ORIGIN_YIELD_FOR_ALLY_ROUTE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TRADE_ROUTE_DESTINATION_YIELD_FOR_SUZERAIN_ROUTE",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_DESTINATION_YIELD_FOR_SUZERAIN_ROUTE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TRADE_ROUTE_ORIGIN_YIELD_FOR_SUZERAIN_ROUTE",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_ORIGIN_YIELD_FOR_SUZERAIN_ROUTE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TRADE_ROUTE_TOURISM_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_TOURISM_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TRADE_ROUTE_YIELD_PER_POST_IN_FOREIGN_CITY",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_PER_POST_IN_FOREIGN_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TRADE_ROUTE_YIELD_PER_POST_IN_OWN_CITY",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_PER_POST_IN_OWN_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_DISTRICT_CREATE_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_CREATE_YIELD"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_DISTRICT_CREATE_UNIT",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_CREATE_UNIT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_DISTRICT_AIR_SLOTS",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_GRANT_AIR_SLOTS"
+    },
+    {
+        "CollectionType": "COLLECTION_CITY_TRAINED_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_EXPERIENCE_MODIFIER",
+        "ModifierType": "MODIFIER_CITY_TRAINED_UNITS_ADJUST_XP_BONUS"
+    },
+    {
+        "CollectionType": "COLLECTION_CITY_TRAINED_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_SEA_MOVEMENT",
+        "ModifierType": "MODIFIER_CITY_TRAINED_UNITS_ADJUST_MOVEMENT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_CORPS_ARMY_PRODUCTION",
+        "ModifierType": "MODIFIER_CITY_CORPS_ARMY_ADJUST_DISCOUNT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITIES_FRESHWATER_HOUSING_BONUS",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_CITIES_FRESHWATER_HOUSING_BONUS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITIES_HAS_URBAN_DEFENSES",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_CITIES_URBAN_DEFENSES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADOPT_ALLY_FOUNDED_RELIGIONS",
+        "ModifierType": "MODIFIER_PLAYER_ADOPT_ALLY_FOUNDED_RELIGIONS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_TREAT_CAPITAL_AS_HOLY_CITY",
+        "ModifierType": "MODIFIER_PLAYER_TREAT_CAPITAL_AS_HOLY_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_FREE_RESOURCE_FROM_UNIT_PLOT",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_FREE_RESOURCE_FROM_UNIT_PLOT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_FREE_RESOURCE_VISIBILITY",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_FREE_RESOURCE_VISIBILITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_TRIGGER_GAME_MECHANIC",
+        "ModifierType": "MODIFIER_GAME_TRIGGER_MECHANIC"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_EXPLORE_ENTIRE_MAP",
+        "ModifierType": "MODIFIER_PLAYER_EXPLORE_ENTIRE_MAP"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_YIELD_BASED_ON_CURRENT_YIELD_RATE",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_YIELD_BASED_ON_CURRENT_YIELD_RATE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_RELIGION_EXTRA_PROMOTIONS",
+        "ModifierType": "MODIFIER_SINGLE_CITY_RELIGION_EXTRA_PROMOTIONS_SCENARIO"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_TRAINED_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_BUILD_CHARGES",
+        "ModifierType": "MODIFIER_PLAYER_TRAINED_UNITS_ADJUST_BUILDER_CHARGES"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_TRAINED_UNITS",
+        "EffectType": "EFFECT_GRANT_ABILITY",
+        "ModifierType": "MODIFIER_PLAYER_TRAINED_UNITS_GRANT_ABILITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_BUILD_CHARGES",
+        "ModifierType": "MODIFIER_UNIT_ADJUST_BUILDER_CHARGES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_CITY_GRANT_RANDOM_RESOURCE_PRODUCT",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_RANDOM_RESOURCE_PRODUCT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DUPLICATE_INFLUENCE_TOKEN_WHEN_TRADE_ROUTE_TO",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_DUPLICATE_INFLUENCE_TOKEN_WHEN_TRADE_ROUTE_TO"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_DISTRICT_AND_BUILDINGS_CREATE_UNIT_WITH_ABILITY_BY_CLASS",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_PLAYER_DISTRICT_AND_BUILDINGS_CREATE_UNIT_WITH_ABILITY_BY_CLASS_GREAT_NEGOTIATORS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_AMENITY",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_DISTRICT_AMENITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_BUILDING_SPREAD_CHARGES",
+        "ModifierType": "MODIFIER_SINGLE_UNIT_RELIGIOUS_SPREADS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADD_PLAYER_PROJECT_AVAILABILITY",
+        "ModifierType": "MODIFIER_PLAYER_ALLOW_PROJECT_CHINA"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_GRANT_CITY_YIELD_PERCENT_BUILDING_CREATED_COST",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_GRANT_YIELD_PER_BUILDING_COST_SAHARA"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_PLOT_YIELDS",
+        "EffectType": "EFFECT_ADJUST_PLOT_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_PLOT_YIELD_GRANCOLOMBIA_MAYA"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_ADD_AMENITY_PER_ADJACENT_LUXURY",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADD_AMENITY_PER_ADJACENT_LUXURY"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_NO_FRESH_WATER_HOUSING",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_NO_FRESH_WATER_HOUSING"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_PROMOTE_NO_FINISH_MOVES",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_PROMOTE_NO_FINISH_MOVES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_IMPROVEMENT_HOUSING",
+        "ModifierType": "MODIFIER_SINGLE_CITY_ADJUST_IMPROVEMENT_HOUSING_GRANCOLOMBIA_MAYA"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_CITY_YIELD_PERCENT_BUILDING_CREATED_COST",
+        "ModifierType": "MODIFIER_SINGLE_CITY_GRANT_YIELD_PER_BUILDING_COST_GRANCOLOMBIA_MAYA"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_TRADE_ROUTE_YIELD_FOR_INTERNATIONAL",
+        "ModifierType": "MODIFIER_ALL_CITIES_ADJUST_TRADE_ROUTE_YIELD_FOR_INTERNATIONAL"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_YIELD_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_CITY_YIELD_MODIFIER_GRANCOLOMBIA_MAYA"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_PLAYER_RELIGIOUS_PRESSURE_GREAT_PERSON_ACTIVATED",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_RELIGIOUS_PRESSURE_GREAT_PERSON_ACTIVATED"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_GRANT_ABILITY",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_GRANT_ABILITY_GRANCOLOMBIA_MAYA"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TRADE_ROUTE_YIELD_PER_PATH_TILE",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_PER_PATH_TILE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_YIELD_PER_MAJOR_TRADE_PARTNER",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_CITY_YIELD_PER_MAJOR_TRADE_PARTNER"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_UNITS",
+        "EffectType": "EFFECT_UNIT_TELEPORT",
+        "ModifierType": "MODIFIER_UNIT_TELEPORT"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_SIMON_BOLIVAR",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_SIMON_BOLIVAR"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_GRANT_RANDOM_BASE_PROMOTION",
+        "ModifierType": "MODIFIER_MAJOR_PLAYERS_GRANT_BASE_PROMOTION"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_GRANT_UNIT_IN_CITY",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_GRANT_UNIT_IN_CITY_GRANCOLOMBIA_MAYA"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_NO_BARB_XP_LIMIT",
+        "ModifierType": "MODIFIER_PLAYER_UNITS_ADJUST_UNIT_NO_BARB_XP_LIMIT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_FEATURE_APPEAL_MODIFIER",
+        "ModifierType": "MODIFIER_CITY_ADJUST_FEATURE_APPEAL_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_YIELD_PER_FEATURE_IN_CITY",
+        "ModifierType": "MODIFIER_CITY_GRANT_YIELD_PER_FEATURE_TYPE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_SPECIALTY_DISTRICT_CANNOT_BE_BUILT_ADJACENT_TO_CITY",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_SPECIALTY_DISTRICT_CANNOT_BE_BUILT_ADJACENT_TO_CITY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_HOLY_CITIES_COMBAT_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_COMBAT_FOR_NUMBER_HOLY_CITIES"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_IMPROVEMENT_ADJACENCY",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_IMPROVEMENT_ADJACENCY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_DISTRICT_AND_BUILDINGS_CREATE_UNIT_WITH_ABILITY_BY_CLASS",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_PLAYER_DISTRICT_AND_BUILDINGS_CREATE_UNIT_WITH_ABILITY_BY_CLASS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_PLAYER_SPECIFIC_TECHNOLOGY",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_SPECIFIC_TECHNOLOGY_GAUL"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_GRANT_CITY_YIELD_PERCENT_UNIT_CREATED_COST",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_GRANT_YIELD_PER_UNIT_COST"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_NEIGHBOR_COMBAT_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_UNIT_ADJUST_COMBAT_FOR_NUMBER_NEIGHBORS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_ENABLE_WALL_ATTACK_WHOLE_GAME_SAME_RELIGION",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_ENABLE_WALL_ATTACK_WHOLE_GAME_SAME_RELIGION"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_PLAYER_DIPLOMACY_AGENDA_COMPARE_ARMY_SIZE",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_AMBIORIX_ARMY"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_TRAINED_UNITS",
+        "EffectType": "EFFECT_ADJUST_BUILDING_SPREAD_CHARGES",
+        "ModifierType": "MODIFIER_PLAYER_TRAINED_UNITS_ADJUST_RELIGIOUS_CHARGES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_UNIT_ENABLE_WALL_ATTACK_WHOLE_GAME_SAME_RELIGION_PROMOTION_CLASS",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_ENABLE_WALL_ATTACK_WHOLE_GAME_SAME_RELIGION_PROMOTION_CLASS"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_ADD_CULTURE_BOMB_TRIGGER",
+        "ModifierType": "MODIFIER_ALL_PLAYERS_ADD_CULTURE_BOMB_TRIGGER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_FEAUTE_REQUIRED_FOR_SPECIALTY_DISTRICTS",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_FEAUTE_REQUIRED_FOR_SPECIALTY_DISTRICTS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_BUILDING_FEATURE_YIELD_CHANGE",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_FEATURE_YIELD_CHANGE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_FEATURE_PREREQ",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_FEATURE_UNLOCK"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_TOURISM_ADJACENCY_YIELD_MOFIFIER",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_TOURISM_ADJACENCY_YIELD_MOFIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_FREE_CIVIC_BOOST_FIRST_TRADING_POST_EACH_CIV",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_FREE_CIVIC_BOOST_FIRST_TRADING_POST_EACH_CIV"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_FREE_TECH_BOOST_FIRST_TRADING_POST_EACH_CIV",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_FREE_TECH_BOOST_FIRST_TRADING_POST_EACH_CIV"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_TRIEU_DEFENDER",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_TRIEU_DEFENDER"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_KUBLAI_PAX",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_KUBLAI_PAX"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_TOURISM_PER_EXCESS_LUXURIES",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_TOURISM_PER_EXCESS_LUXURIES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_YIELD_PER_EXCESS_LUXURIES",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_YIELD_PER_EXCESS_LUXURIES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADD_PLAYER_PROJECT_AVAILABILITY",
+        "ModifierType": "MODIFIER_PLAYER_ALLOW_PROJECT_CATHERINE"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_PRODUCTION_BUILDING",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_PRODUCTION_CHANGE_ETHIOPIA"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_PRODUCTION_DISTRICT",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_DISTRICT_PRODUCTION_CHANGE_ETHIOPIA"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_PRODUCTION_UNIT",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_UNIT_PRODUCTION_CHANGE_ETHIOPIA"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_RESOURCE_YIELD_BY_COUNT",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_RESOURCE_YIELD_BY_COUNT"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_TRADE_ROUTE_YIELD_PER_LOCAL_BONUS_RESOURCE_FOR_INTERNATIONAL",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_TRADE_ROUTE_YIELD_PER_LOCAL_BONUS_RESOURCE_FOR_INTERNATIONAL"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_TRADE_ROUTE_YIELD_PER_LOCAL_LUXURY_RESOURCE_FOR_INTERNATIONAL",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_TRADE_ROUTE_YIELD_PER_LOCAL_LUXURY_RESOURCE_FOR_INTERNATIONAL"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_TRADE_ROUTE_YIELD_PER_LOCAL_STRATEGIC_RESOURCE_FOR_INTERNATIONAL",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_TRADE_ROUTE_YIELD_PER_LOCAL_STRATEGIC_RESOURCE_FOR_INTERNATIONAL"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ENABLE_SPECIFIC_BUILDING_FAITH_PURCHASE",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ENABLE_SPECIFIC_BUILDING_FAITH_PURCHASE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_WITHIN_ONE_HEX_ESPIONAGE_DEFENSE_BONUS",
+        "ModifierType": "MODIFIER_DISTRICT_ADJUST_WITHIN_ONE_HEX_ESPIONAGE_DEFENSE_BONUS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_COUNTER_SPY_YIELD_AWARD_PER_LEVEL",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_COUNTER_SPY_AWARD_YIELD_PER_LEVEL"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_PLAYER_ADJUST_YIELD_FROM_DELEGATIONS",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_YIELD_FROM_DELEGATIONS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_PLAYER_ADJUST_YIELD_FROM_EMBASSIES",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_YIELD_FROM_EMBASSIES"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_SPY_BONUS",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_SPY_BONUS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_YIELD_MODIFIER_FROM_FAITH",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_YIELD_MODIFIER_FROM_FAITH"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_ETHIOPIAN_HIGHLANDS",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_ETHIOPIAN_HIGHLANDS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_UNIT_IN_EACH_DISTRICT",
+        "ModifierType": "MODIFIER_GRANT_UNITS_IN_DISTRICTS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_AMENITY",
+        "ModifierType": "MODIFIER_ADJUST_AMENITIES_IN_DISTRICT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_HOUSING",
+        "ModifierType": "MODIFIER_ADJUST_HOUSING_IN_DISTRICT"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_HAPPINESS_YIELD",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_HAPPINESS_YIELD_BAB"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_UNIT_OF_CLASS_AND_APPLY_ABILITY",
+        "ModifierType": "MODIFIER_PLAYER_GRANT_UNIT_OF_ABILITY_WITH_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_BECOME_CITY_SUZERAIN",
+        "ModifierType": "MODIFIER_UNIT_BECOME_CITY_SUZERAIN"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_PURCHASE_PRODUCTION_IN_CITY",
+        "ModifierType": "MODIFIER_CITY_PURCHASE_PRODUCTION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_GRANT_FREE_ENVOYS_HERE",
+        "ModifierType": "MODIFIER_CITY_GRANT_FREE_ENVOYS_HERE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_UNIT_TRANSFER_CITY_AS_GIFT_AND_APPLY_MODIFIER",
+        "ModifierType": "MODIFIER_UNIT_ABSORB_CITY_STATE_AS_GIFT_AND_APPLY_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_GRANT_CITY_YIELD_PERCENT_BUILDING_CREATED_COST",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_GRANT_YIELD_PER_BUILDING_COST"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_YIELD_BY_NUMBER_OF_RESOURCES",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_YIELD_BY_NUMBER_RESOURCES"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_ADJUST_ENVOYS_NON_SPECIALTY",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_PLAYER_ENVOYS_NON_SPECIALTY"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_FREE_BUILDING_WHEN_SPECIALTY_DISTRICT_CONSTRUCTED",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_FREE_BUILDING_WHEN_SPECIALTY_DISTRICT_CONSTRUCTED"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_FREE_BUILDING_WHEN_SPECIALTY_DISTRICT_CONSTRUCTED_EXCEPT",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_FREE_BUILDING_WHEN_SPECIALTY_DISTRICT_CONSTRUCTED_EXCEPT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_SPECIFIC_DISTRICT_GRANT_ENVOYS",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICT_ADJUST_SPECIFIC_DISTRICT_GRANT_ENVOYS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TRADE_ROUTE_YIELD_PER_FOLLOWER",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_PER_FOLLOWER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_INTERNATIONAL_TRADE_ROUTE_YIELD_PER_IMPROVEMENT_IN_ORIGIN_CITY",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_PER_IMPROVEMENT_AT_LOCATION_BABYLON"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_GREAT_PEOPLE_POINTS_PER_KILL_BY_DEFEATED_STRENGTH",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_UNITS_GREAT_PEOPLE_POINTS_PER_KILL_BY_DEFEATED_STRENGTH"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_PLAYER_DIPLOMACY_AGENDA_DISTRICT_SPREAD",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_HAMMURABI_DISTRICTS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_CITY_GRANT_HERO",
+        "ModifierType": "MODIFIER_CITY_GRANT_HERO"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_PLAYER_DISCOVER_HERO",
+        "ModifierType": "MODIFIER_PLAYER_DISCOVER_HERO"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_UNITS",
+        "EffectType": "EFFECT_ADJUST_UNIT_COMBAT_STRENGTH_FOR_ERA",
+        "ModifierType": "MODIFIER_ADJUST_COMBAT_STRENGTH_FOR_ERA"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_YIELD_BASED_ON_ADJACENCY_BONUS",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_YIELD_BASED_ON_ADJACENCY_BONUS_BUILDER"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_DISTRICTS",
+        "EffectType": "EFFECT_ADJUST_DISTRICT_TOURISM_ADJACENCY_YIELD_MOFIFIER",
+        "ModifierType": "MODIFIER_PLAYER_DISTRICTS_ADJUST_TOURISM_ADJACENCY_YIELD_MOFIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_INTERNATIONAL_TRADE_ROUTE_YIELD_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_INTERNATIONAL_TRADE_ROUTE_YIELD_MODIFIER_WARLORDS"
+    },
+    {
+        "CollectionType": "COLLECTION_PLAYER_CITIES",
+        "EffectType": "EFFECT_ADJUST_CITY_TRADE_ROUTE_YIELD_FOR_DOMESTIC",
+        "ModifierType": "MODIFIER_PLAYER_CITIES_ADJUST_TRADE_ROUTE_YIELD_FOR_DOMESTIC_WARLORDS"
+    },
+    {
+        "CollectionType": "COLLECTION_MAJOR_PLAYERS",
+        "EffectType": "EFFECT_DIPLOMACY_AGENDA_TURTLER",
+        "ModifierType": "MODIFIER_PLAYER_DIPLOMACY_AGENDA_SAKOKU_TURTLER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_YIELD_PER_TERRAIN_TYPE",
+        "ModifierType": "MODIFIER_CITY_ADJUST_CITY_YIELD_PER_TERRAIN_TYPE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_CITY_TRADE_ROUTE_YIELD_PER_DESTINATION_LUXURY_RESOURCE_FOR_INTERNATIONAL",
+        "ModifierType": "MODIFIER_CITY_ADJUST_TRADE_ROUTE_YIELD_PER_DESTINATION_LUXURY_FOR_INTERNATIONAL"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_FORBID_LAND_ROUTE",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_FORBID_LAND_ROUTE"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_INTERNATIONAL_TRADE_ROUTE_YIELD_MODIFIER",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_INTERNATIONAL_TRADE_ROUTE_YIELD_MODIFIER"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_EMBARK_UNIT_PASS",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_EMBARK_UNIT_PASS"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TRADE_ROUTE_YIELD_PER_IMPROVEMENT_IN_TARGET_CITY",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_PER_IMPROVEMENT_AT_LOCATION"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TOKEN_ON_FIRST_MEETING",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TOKEN_ON_FIRST_MEETING"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_ADJUST_PLAYER_TRADE_ROUTE_CAPACITY_ON_MEETING",
+        "ModifierType": "MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_CAPACITY_ON_MEETING"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_ARTIFACT_EXTRACTIONS",
+        "EffectType": "EFFECT_GRANT_FREE_UNIT_ON_PLOT",
+        "ModifierType": "MODIFIER_ALL_ARTIFACT_EXTRACTIONS_SPAWN_UNIT"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_UNIT_DEATHS",
+        "EffectType": "EFFECT_GRANT_FREE_UNIT_ON_PLOT",
+        "ModifierType": "MODIFIER_ALL_UNIT_DEATHS_SPAWN_UNIT"
+    },
+    {
+        "CollectionType": "COLLECTION_ALL_UNIT_DEATHS",
+        "EffectType": "EFFECT_ADJUST_GAME_PROPERTY",
+        "ModifierType": "MODIFIER_ALL_UNIT_DEATHS_ADJUST_GAME_PROPERTY"
+    },
+    {
+        "CollectionType": "COLLECTION_COMBAT_RESULTS",
+        "EffectType": "EFFECT_GRANT_FREE_UNIT_ON_PLOT",
+        "ModifierType": "MODIFIER_ALL_COMBAT_RESULTS_SPAWN_UNIT"
+    },
+    {
+        "CollectionType": "COLLECTION_COMBAT_RESULTS",
+        "EffectType": "EFFECT_ADJUST_POPULATION_FROM_PLOT",
+        "ModifierType": "MODIFIER_ALL_COMBAT_RESULTS_ADJUST_POPULATION"
+    },
+    {
+        "CollectionType": "COLLECTION_COMBAT_RESULTS",
+        "EffectType": "EFFECT_STEAL_POP_ON_PLOT_TO_CREATE_UNIT",
+        "ModifierType": "MODIFIER_ALL_COMBAT_RESULTS_STEAL_POPULATION_AND_SPAWN_UNIT"
+    },
+    {
+        "CollectionType": "COLLECTION_OWNER",
+        "EffectType": "EFFECT_CITY_LEVY_UNITS_IN_TERRITORY",
+        "ModifierType": "MODIFIER_CITY_LEVY_UNITS"
+    }
+]

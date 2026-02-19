@@ -1,0 +1,308 @@
+[
+    {
+        "ConditionFunction": "HasFoodLessThan",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "CITY_STRATEGY_EARLY_FOOD",
+        "StringValue": null,
+        "ThresholdValue": 10
+    },
+    {
+        "ConditionFunction": "HasFoodLessThan",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "CITY_STRATEGY_EARLY_FOOD",
+        "StringValue": null,
+        "ThresholdValue": 15
+    },
+    {
+        "ConditionFunction": "HasFoodGreaterThan",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "CITY_STRATEGY_EARLY_FOOD",
+        "StringValue": null,
+        "ThresholdValue": 14
+    },
+    {
+        "ConditionFunction": "HasRuralPopGreaterThan",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "CITY_STRATEGY_EARLY_FOOD",
+        "StringValue": null,
+        "ThresholdValue": 5
+    },
+    {
+        "ConditionFunction": "HasRuralPopGreaterThan",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "CITY_STRATEGY_PRODUCTION_BIAS",
+        "StringValue": null,
+        "ThresholdValue": 4
+    },
+    {
+        "ConditionFunction": "HasHappinessLessThan",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "CITY_STRATEGY_STAY_HAPPY",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "TopMilitaryPercent",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IDEOLOGY",
+        "StringValue": null,
+        "ThresholdValue": 50
+    },
+    {
+        "ConditionFunction": "TopMilitaryPercent",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IDEOLOGY",
+        "StringValue": null,
+        "ThresholdValue": 25
+    },
+    {
+        "ConditionFunction": "NumCommanders",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IDEOLOGY",
+        "StringValue": null,
+        "ThresholdValue": 4
+    },
+    {
+        "ConditionFunction": "NumConqueredCities",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IDEOLOGY",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "GovernmentMatches",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IDEOLOGY",
+        "StringValue": "GOVERNMENT_AUTHORITARIANISM",
+        "ThresholdValue": 25
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IDEOLOGY",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_MILITARISTIC",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IDEOLOGY",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_POLITICAL",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 1,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IDEOLOGY",
+        "StringValue": "TRAIT_MO_MILITARY_VICTORY",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "GovernmentMatches",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SPACE_RACE",
+        "StringValue": "GOVERNMENT_ELECTIVE_REPUBLIC",
+        "ThresholdValue": 25
+    },
+    {
+        "ConditionFunction": "TopSciencePercent",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SPACE_RACE",
+        "StringValue": null,
+        "ThresholdValue": 25
+    },
+    {
+        "ConditionFunction": "TopSciencePercent",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SPACE_RACE",
+        "StringValue": null,
+        "ThresholdValue": 50
+    },
+    {
+        "ConditionFunction": "VictoryPoints",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SPACE_RACE",
+        "StringValue": "VICTORY_MODERN_SCIENCE",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SPACE_RACE",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_SCIENTIFIC",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SPACE_RACE",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_MILITARISTIC",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 1,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SPACE_RACE",
+        "StringValue": "TRAIT_MO_SCIENCE_VICTORY",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "GovernmentMatches",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_RAILROAD_TYCOON",
+        "StringValue": "GOVERNMENT_BUREAUCRATIC_MONARCHY",
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "YieldIncome",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_RAILROAD_TYCOON",
+        "StringValue": "YIELD_PRODUCTION",
+        "ThresholdValue": 60
+    },
+    {
+        "ConditionFunction": "NumCities",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_RAILROAD_TYCOON",
+        "StringValue": null,
+        "ThresholdValue": 4
+    },
+    {
+        "ConditionFunction": "VictoryPoints",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_RAILROAD_TYCOON",
+        "StringValue": "VICTORY_MODERN_ECONOMIC",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_RAILROAD_TYCOON",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_ECONOMIC",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_RAILROAD_TYCOON",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_EXPANSIONIST",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 1,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_RAILROAD_TYCOON",
+        "StringValue": "TRAIT_MO_ECONOMIC_VICTORY",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "GovernmentMatches",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_ARTIFACTS",
+        "StringValue": "GOVERNMENT_ELECTIVE_REPUBLIC",
+        "ThresholdValue": 25
+    },
+    {
+        "ConditionFunction": "NumGreatWorks",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_ARTIFACTS",
+        "StringValue": null,
+        "ThresholdValue": 3
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_ARTIFACTS",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_CULTURAL",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_ARTIFACTS",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_POLITICAL",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 1,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_ARTIFACTS",
+        "StringValue": "TRAIT_MO_CULTURE_VICTORY",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasReachedLegacyPathMilestone",
+        "Disqualifier": 0,
+        "Exclusive": 1,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_MODERN_ECONOMIC",
+        "StringValue": "MODERN_ECONOMIC_MILESTONE_2",
+        "ThresholdValue": 1
+    }
+]

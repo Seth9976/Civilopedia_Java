@@ -1,0 +1,30 @@
+[
+    {
+        "HappinessType": "HAPPINESS_REVOLT",
+        "IdentityPerTurnChange": -6
+    },
+    {
+        "HappinessType": "HAPPINESS_UNREST",
+        "IdentityPerTurnChange": -6
+    },
+    {
+        "HappinessType": "HAPPINESS_UNHAPPY",
+        "IdentityPerTurnChange": -6
+    },
+    {
+        "HappinessType": "HAPPINESS_DISPLEASED",
+        "IdentityPerTurnChange": -3
+    },
+    {
+        "HappinessType": "HAPPINESS_CONTENT",
+        "IdentityPerTurnChange": 0
+    },
+    {
+        "HappinessType": "HAPPINESS_HAPPY",
+        "IdentityPerTurnChange": 3
+    },
+    {
+        "HappinessType": "HAPPINESS_ECSTATIC",
+        "IdentityPerTurnChange": 6
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "AdvancedStartCost": 12,
+        "Civilopedia": "TXT_KEY_CIV5_IMPROVEMENTS_ROAD_TEXT",
+        "Description": "TXT_KEY_ROUTE_ROAD",
+        "FlatMovement": 30,
+        "GoldMaintenance": 1,
+        "ID": 0,
+        "IconAtlas": "TERRAIN_ATLAS",
+        "Industrial": 0,
+        "Movement": 30,
+        "PortraitIndex": 40,
+        "Type": "ROUTE_ROAD",
+        "Value": 1
+    },
+    {
+        "AdvancedStartCost": 18,
+        "Civilopedia": "TXT_KEY_CIV5_IMPROVEMENTS_RAILROAD_TEXT",
+        "Description": "TXT_KEY_ROUTE_RAILROAD",
+        "FlatMovement": 6,
+        "GoldMaintenance": 2,
+        "ID": 1,
+        "IconAtlas": "TERRAIN_ATLAS",
+        "Industrial": 1,
+        "Movement": 20,
+        "PortraitIndex": 41,
+        "Type": "ROUTE_RAILROAD",
+        "Value": 2
+    }
+]

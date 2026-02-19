@@ -1,0 +1,191 @@
+[
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_TITLE",
+        "PageGroupID": "CONCEPTS",
+        "SectionID": "CONCEPTS",
+        "SortIndex": 5,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_PAGEGROUP_CITIES_NAME",
+        "PageGroupID": "CITIES",
+        "SectionID": "CONCEPTS",
+        "SortIndex": 10,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_ARMY_TITLE",
+        "PageGroupID": "ARMY",
+        "SectionID": "CONCEPTS",
+        "SortIndex": 20,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_COMBAT_TITLE",
+        "PageGroupID": "COMBAT",
+        "SectionID": "CONCEPTS",
+        "SortIndex": 25,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_BUILDINGS_TITLE",
+        "PageGroupID": "BUILDINGS",
+        "SectionID": "CONCEPTS",
+        "SortIndex": 30,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_STATEHOOD_TITLE",
+        "PageGroupID": "STATEHOOD",
+        "SectionID": "CONCEPTS",
+        "SortIndex": 40,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_SETTLEMENTS_TITLE",
+        "PageGroupID": "SETTLEMENTS",
+        "SectionID": "CONCEPTS",
+        "SortIndex": 50,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_DIPLOMACY_TITLE",
+        "PageGroupID": "DIPLOMACY",
+        "SectionID": "CONCEPTS",
+        "SortIndex": 60,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_LEGENDS_TITLE",
+        "PageGroupID": "LEGENDS",
+        "SectionID": "CONCEPTS",
+        "SortIndex": 70,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_CONCEPTS_TITLE",
+        "PageGroupID": "CONCEPTS",
+        "SectionID": "AGES",
+        "SortIndex": 100,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_LEGACY_TITLE",
+        "PageGroupID": "LEGACY",
+        "SectionID": "AGES",
+        "SortIndex": 110,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_BUILDINGS_NAME",
+        "PageGroupID": "BUILDINGS",
+        "SectionID": "BUILDINGS",
+        "SortIndex": 10,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_UNIQUE_QUARTERS_NAME",
+        "PageGroupID": "UNIQUE_QUARTERS",
+        "SectionID": "BUILDINGS",
+        "SortIndex": 20,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_CIVICS_NAME",
+        "PageGroupID": "CIVICS",
+        "SectionID": "CULTURE",
+        "SortIndex": 10,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_BIOMES_NAME",
+        "PageGroupID": "BIOMES",
+        "SectionID": "MAP",
+        "SortIndex": 10,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_FEATURES_NAME",
+        "PageGroupID": "FEATURES",
+        "SectionID": "MAP",
+        "SortIndex": 20,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_NATURAL_WONDERS_NAME",
+        "PageGroupID": "NATURAL_WONDERS",
+        "SectionID": "MAP",
+        "SortIndex": 30,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_RESOURCES_NAME",
+        "PageGroupID": "RESOURCES",
+        "SectionID": "MAP",
+        "SortIndex": 40,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_TERRAIN_NAME",
+        "PageGroupID": "TERRAIN",
+        "SectionID": "MAP",
+        "SortIndex": 40,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_BELIEFS_NAME",
+        "PageGroupID": "BELIEFS",
+        "SectionID": "RELIGION",
+        "SortIndex": 10,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_CIVILIAN_UNITS_NAME",
+        "PageGroupID": "CIVILIAN_UNITS",
+        "SectionID": "UNITS",
+        "SortIndex": 10,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_LAND_COMBAT_UNITS_NAME",
+        "PageGroupID": "LAND_COMBAT_UNITS",
+        "SectionID": "UNITS",
+        "SortIndex": 20,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_NAVAL_COMBAT_UNITS_NAME",
+        "PageGroupID": "NAVAL_COMBAT_UNITS",
+        "SectionID": "UNITS",
+        "SortIndex": 30,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_AIR_COMBAT_UNITS_NAME",
+        "PageGroupID": "AIR_COMBAT_UNITS",
+        "SectionID": "UNITS",
+        "SortIndex": 40,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_COMMAND_UNITS_NAME",
+        "PageGroupID": "COMMAND_UNITS",
+        "SectionID": "UNITS",
+        "SortIndex": 50,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_UNIQUE_CIVILIAN_UNITS_NAME",
+        "PageGroupID": "UNIQUE_CIVILIAN_UNITS",
+        "SectionID": "UNITS",
+        "SortIndex": 60,
+        "VisibleIfEmpty": 0
+    },
+    {
+        "Name": "LOC_PEDIA_PAGEGROUP_UNIQUE_MILITARY_UNITS_NAME",
+        "PageGroupID": "UNIQUE_MILITARY_UNITS",
+        "SectionID": "UNITS",
+        "SortIndex": 70,
+        "VisibleIfEmpty": 0
+    }
+]

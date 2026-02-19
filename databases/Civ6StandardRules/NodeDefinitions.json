@@ -1,0 +1,434 @@
+[
+    {
+        "Description": "Logical And node. Runs all children until it reaches a FAILURE (can allow multiple failures if desired.)",
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "ShapeId": 0
+    },
+    {
+        "Description": "Logical Or node. Runs all children until it reaches a SUCCESS or RUNNING",
+        "NodeId": 1,
+        "NodeType": "Priority",
+        "ShapeId": 0
+    },
+    {
+        "Description": "Special logical And node. Stops on FAILURE, but also stops on RUNNING. Resumes next turn on RUNNING node.",
+        "NodeId": 2,
+        "NodeType": "Sequence",
+        "ShapeId": 0
+    },
+    {
+        "Description": "Given a list of units, buildings, or techs, asks Research AI to work on them",
+        "NodeId": 3,
+        "NodeType": "Add Goal Tech",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Given a list of units and/or buildings and a city, builds 'best' unit at the city when queue is availble.",
+        "NodeId": 4,
+        "NodeType": "Build Unit",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Given a list of units, finds first unit of matching type that can get to location",
+        "NodeId": 5,
+        "NodeType": "Find Available Unit",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Sends notice back to the owning player or any other listener, with an optional integral payload.",
+        "NodeId": 6,
+        "NodeType": "Notify Owner",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Change the spawn rate of a barbarian tribe to prepare for raid/invasion.",
+        "NodeId": 7,
+        "NodeType": "Barbarian Spawn Change",
+        "ShapeId": 1
+    },
+    {
+        "Description": "DEPRECATED - DO NOT USE. Runs a behavior tree defined elsewhere. You can change data for that sub-tree, but not its structure.",
+        "NodeId": 8,
+        "NodeType": "Run Behavior Tree",
+        "ShapeId": 4
+    },
+    {
+        "Description": "Moves operation to the rally point.",
+        "NodeId": 9,
+        "NodeType": "Operation Move",
+        "ShapeId": 1
+    },
+    {
+        "Description": "For temporary trees only. Take the trigger you want to meet and extract information for use elsewhere.",
+        "NodeId": 10,
+        "NodeType": "Decode Trigger",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Given a list of buildings, pick the best city to make a building. Output city and needed improvement.",
+        "NodeId": 11,
+        "NodeType": "Choose City",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Given a worker, location, and improvement, build the improvement.",
+        "NodeId": 12,
+        "NodeType": "Build Improvement",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Given a unit ID and a location, give the unit a move order. Report RUNNING until it reaches destination.",
+        "NodeId": 13,
+        "NodeType": "Move Unit",
+        "ShapeId": 1
+    },
+    {
+        "Description": "As part of an operation, attack the target.",
+        "NodeId": 14,
+        "NodeType": "Operation Attack",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Decorator that turns SUCCESS and RUNNING to FAILURE and vice versa. Does not reverse ERROR.",
+        "NodeId": 15,
+        "NodeType": "Not",
+        "ShapeId": 3
+    },
+    {
+        "Description": "Purchase a plot for a city.",
+        "NodeId": 16,
+        "NodeType": "Purchase Plot",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Recruit units for a defined operation. OPERATION USE ONLY.",
+        "NodeId": 17,
+        "NodeType": "Recruit Units",
+        "ShapeId": 2
+    },
+    {
+        "Description": "As part of an operation, attack enemy units during a move.",
+        "NodeId": 18,
+        "NodeType": "Operation Attack Units",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Given a list of improvement types, chooses a specific improvement to build, preferably around a city",
+        "NodeId": 19,
+        "NodeType": "Choose Improvement",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Check the score of a barbarian raid",
+        "NodeId": 20,
+        "NodeType": "Barbarian Raid Check",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Decorator that runs if owner's difficulty is within range. Optionally target difficulty, optionally fail if outside.",
+        "NodeId": 21,
+        "NodeType": "In Difficulty Range",
+        "ShapeId": 3
+    },
+    {
+        "Description": "Tells a unit to perform the settle action. FAILS if no unit is able to do so.",
+        "NodeId": 22,
+        "NodeType": "Settle",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Checks if you can build the requested building or district on that location. Outputs an offending resource or feature if it fails",
+        "NodeId": 23,
+        "NodeType": "Check Plot",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Orders a unit to clear the current tile. FAILS if no unit is able to do so.",
+        "NodeId": 24,
+        "NodeType": "Clear Plot",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Recruit members from a tribe for a raid or invasion.",
+        "NodeId": 25,
+        "NodeType": "Barbarian Recruit",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Lets a child run for n turns before rechecking it",
+        "NodeId": 26,
+        "NodeType": "Interval",
+        "ShapeId": 3
+    },
+    {
+        "Description": "As part of an operation, protect your units that might otherwise be destroyed.",
+        "NodeId": 27,
+        "NodeType": "Operation Defend Units",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Only lets a child node run for a limited number of turns before failing.",
+        "NodeId": 28,
+        "NodeType": "Turn Limiter",
+        "ShapeId": 3
+    },
+    {
+        "Description": "As part of an operation, if you can't take the current target, find a new one or give up.",
+        "NodeId": 29,
+        "NodeType": "Operation Change Target",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Manages a contract, can limit turns until it is run.",
+        "NodeId": 30,
+        "NodeType": "Contract Manager Decorator",
+        "ShapeId": 3
+    },
+    {
+        "Description": "As part of an operation, attack a city",
+        "NodeId": 31,
+        "NodeType": "Operation Attack City",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Create (or destroy) a formation of units",
+        "NodeId": 32,
+        "NodeType": "Make Formation",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Keep a non-operation unit safe if its health is below specified fraction",
+        "NodeId": 33,
+        "NodeType": "Protect Unit",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Cities attack enemy units within range, with preferences as described (none required)",
+        "NodeId": 34,
+        "NodeType": "City Attack",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Reserve a city plot so that other trees will leave it alone",
+        "NodeId": 35,
+        "NodeType": "Reserve Plot",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Pillage nearby improvements and districts",
+        "NodeId": 36,
+        "NodeType": "Operation Pillage",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Pillage nearby improvements and districts",
+        "NodeId": 37,
+        "NodeType": "Operation Siege City",
+        "ShapeId": 1
+    },
+    {
+        "Description": "As part of an operation, garrison a unit in a friendly city",
+        "NodeId": 38,
+        "NodeType": "Garrison City",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Tell if city that is operation target is still threatened",
+        "NodeId": 39,
+        "NodeType": "Is City Threatened",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Tell if player is at war",
+        "NodeId": 40,
+        "NodeType": "Is At War",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Find places for all owned units to go",
+        "NodeId": 41,
+        "NodeType": "Find Unit Targets",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Upgrade any upgradeable units",
+        "NodeId": 42,
+        "NodeType": "Upgrade Units",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Succeeds if the tree has a great person of the appropriate type",
+        "NodeId": 43,
+        "NodeType": "Has Great Person",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Uses the great person ability, including founding a religion",
+        "NodeId": 44,
+        "NodeType": "Use Great Person",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Cancel a tagged contract",
+        "NodeId": 45,
+        "NodeType": "Cancel Contract",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Allow / disallow units to be recruited off the team",
+        "NodeId": 46,
+        "NodeType": "Lock Units",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Diplomatic actions and tests",
+        "NodeId": 47,
+        "NodeType": "Operation Diplomacy",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Choose a spy mission for the spy's current city",
+        "NodeId": 48,
+        "NodeType": "SPY: Choose Mission",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Execute the spy's current mission",
+        "NodeId": 49,
+        "NodeType": "SPY: Do Operation",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Move the spy to the chosen city (or home)",
+        "NodeId": 50,
+        "NodeType": "SPY: Travel",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Have an archaeologist dig at the specified location",
+        "NodeId": 51,
+        "NodeType": "ARCHAEOLOGY: Dig",
+        "ShapeId": 1
+    },
+    {
+        "Description": "An archaeologist moves to his home and donates any carried artifact to his museum",
+        "NodeId": 52,
+        "NodeType": "ARCHAEOLOGY: Donate",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Recruit naval escorts to an operation and ferry units across the waters",
+        "NodeId": 53,
+        "NodeType": "Operation Naval Escort",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Decorator that checks for player ability before handing control to child",
+        "NodeId": 54,
+        "NodeType": "Has Player Ability",
+        "ShapeId": 3
+    },
+    {
+        "Description": "Use a builder charge to accelerate a wonder or district (if allowed)",
+        "NodeId": 55,
+        "NodeType": "Build Production",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Returns true if the specified player has launched an inquisition",
+        "NodeId": 56,
+        "NodeType": "Has Inquisition",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Launches an inquisition using an attached unit, if possible",
+        "NodeId": 57,
+        "NodeType": "Launch Inquisition",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Checks if the AI is willing to use nukes against his opponent (Gandhi always will)",
+        "NodeId": 58,
+        "NodeType": "Will use nukes",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Launch nuke at target",
+        "NodeId": 59,
+        "NodeType": "Operation Launch nuke",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Checks if the associated operation is ready",
+        "NodeId": 60,
+        "NodeType": "Operation Is Ready",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Build an improvement outside your own territory (usually in an operation)",
+        "NodeId": 61,
+        "NodeType": "Build Military Improvement",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Launcher bombers against target city",
+        "NodeId": 62,
+        "NodeType": "Operation Air Assault",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Choose a naval superiority target. If none available, don't run child.",
+        "NodeId": 63,
+        "NodeType": "Naval Choose Target",
+        "ShapeId": 3
+    },
+    {
+        "Description": "Choose a naval patrol target and move accordingly.",
+        "NodeId": 64,
+        "NodeType": "Naval Patrol",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Opportunistically attack districts and land units (naval raiding to come).",
+        "NodeId": 65,
+        "NodeType": "Naval Pillage",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Checks that unit assigned target remains valid. Removes units with invalid targets from tree.",
+        "NodeId": 66,
+        "NodeType": "Has Valid Target",
+        "ShapeId": 2
+    },
+    {
+        "Description": "For shortcutting a city attack. Check if you can do 50%+ garrison damage or defense units are worth ignoring.",
+        "NodeId": 67,
+        "NodeType": "Can Alpha City",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Returns true if any unit is within range of fallout and puts all such members in the Endangered list (if there is an operation)",
+        "NodeId": 69,
+        "NodeType": "Is Near Fallout",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Run a lua script function that returns a boolean value. Only the player is passed in to the script",
+        "NodeId": 70,
+        "NodeType": "LUA Script Condition",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Within an operation, attempt to combine units into corps and armies",
+        "NodeId": 71,
+        "NodeType": "Operation Military Formation",
+        "ShapeId": 1
+    },
+    {
+        "Description": "If they have an available scripted command, try to use it",
+        "NodeId": 72,
+        "NodeType": "Use Scripted Command",
+        "ShapeId": 1
+    }
+]

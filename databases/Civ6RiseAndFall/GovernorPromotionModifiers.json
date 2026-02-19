@@ -1,0 +1,418 @@
+[
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_REDOUBT",
+        "ModifierId": "DEFENDER_ADJUST_CITY_DEFENSE_STRENGTH"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EMBRASURE",
+        "ModifierId": "CITY_DEFENDER_ADJUST_ATTACKS_PER_TURN"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_GARRISON_COMMANDER",
+        "ModifierId": "GARRISON_COMMANDER_ADJUST_CITY_COMBAT_BONUS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_DEFENSE_LOGISTICS",
+        "ModifierId": "DEFENSE_LOGISTICS_SIEGE_PROTECTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE",
+        "ModifierId": "AIR_DEFENSE_INITIATIVE_ANTI_AIR_BONUS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SECURITY_EXPERT",
+        "ModifierId": "SECURITY_EXPERT_SPY_DEFENSE_BONUS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER",
+        "ModifierId": "MESSENGER_GRANT_FREE_ENVOYS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY",
+        "ModifierId": "EMISSARY_IDENTITY_PRESSURE_TO_FOREIGN_CITIES"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE",
+        "ModifierId": "PRESTIGE_IDENTITY_PRESSURE_TO_DOMESTIC_CITIES"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE",
+        "ModifierId": "AFFLUENCE_COPY_LUXURIES_FOR_IMPORT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER",
+        "ModifierId": "PROMOTER_ADDITIONAL_CITY_AMENITIES"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER",
+        "ModifierId": "AMBASSADOR_ADJUST_CITY_ENVOY_MODIFIER"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_BISHOP",
+        "ModifierId": "CARDINAL_BISHOP_PRESSURE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR",
+        "ModifierId": "CARDINAL_GRAND_INQUISITOR_COMBAT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT",
+        "ModifierId": "CARDINAL_FASTER_HOLY_SITE_BUILDING_CONSTRUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS",
+        "ModifierId": "CARDINAL_LAYING_ON_OF_HANDS_HEAL"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD",
+        "ModifierId": "CARDINAL_CITADEL_OF_GOD_PRESSURE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD",
+        "ModifierId": "CARDINAL_CITADEL_OF_GOD_COMBAT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT",
+        "ModifierId": "CARDINAL_PATRON_SAINT_PROMOTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER",
+        "ModifierId": "GROUNDBREAKER_BONUS_HARVEST_YIELDS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS",
+        "ModifierId": "SURPLUS_LOGISTICS_EXTRA_GROWTH"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS",
+        "ModifierId": "SURPLUS_LOGISTICS_TRADE_ROUTE_FOOD"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER",
+        "ModifierId": "BLACK_MARKETEER_IGNORE_STRATEGIC_RESOURCE_REQUIREMENT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION",
+        "ModifierId": "EXPEDITION_ADJUST_SETTLERS_CONSUME_POPULATION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION",
+        "ModifierId": "EXPEDITION_FASTER_INDUSTRIAL_DISTRICT_BUILDING_CONSTRUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST",
+        "ModifierId": "INDUSTRIALIST_PRODUCTION_FROM_STRATEGIC_RESOURCES"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION",
+        "ModifierId": "VERTICAL_INTEGRATION_PRODUCTION_REGIONAL_STACKING"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_BUILDER_GUILDMASTER",
+        "ModifierId": "GUILDMASTER_ADDITIONAL_BUILDER_CHARGES"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_INFRASTRUCTURE",
+        "ModifierId": "INFRASTRUCTURE_FASTER_MONUMENT_CONSTRUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_INFRASTRUCTURE",
+        "ModifierId": "INFRASTRUCTURE_FASTER_GRANARY_CONSTRUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_INFRASTRUCTURE",
+        "ModifierId": "INFRASTRUCTURE_FASTER_WATER_MILL_CONSTRUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_INFRASTRUCTURE",
+        "ModifierId": "INFRASTRUCTURE_FASTER_SEWER_CONSTRUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_INFRASTRUCTURE",
+        "ModifierId": "INFRASTRUCTURE_FASTER_GOVERNMENT_BUILDING_CONSTRUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AQUACULTURE",
+        "ModifierId": "AQUACULTURE_CAN_BUILD_FISHERY"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_ZONING_COMMISSIONER",
+        "ModifierId": "ZONING_COMMISSIONER_FASTER_DISTRICT_CONSTRUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_ARCHITECT",
+        "ModifierId": "ARCHITECT_FASTER_ENTERTAINMENT_COMPLEX_BUILDING_CONSTRUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_ARCHITECT",
+        "ModifierId": "ARCHITECT_FASTER_WATER_ENTERTAINMENT_COMPLEX_BUILDING_CONSTRUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_PARKS_RECREATION",
+        "ModifierId": "PARKS_RECREATION_CAN_BUILD_CITY_PARK"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN",
+        "ModifierId": "LIBRARIAN_SCIENCE_YIELD_BONUS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN",
+        "ModifierId": "LIBRARIAN_CULTURE_YIELD_BONUS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR",
+        "ModifierId": "CONNOISSEUR_FASTER_THEATER_DISTRICT_BUILDING_CONSTRUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER",
+        "ModifierId": "RESEARCHER_FASTER_CAMPUS_BUILDING_CONSTRUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_GRANTS",
+        "ModifierId": "EDUCATOR_INCREASE_CITY_GREAT_PERSON_POINT_BONUS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT",
+        "ModifierId": "EDUCATOR_FASTER_MANHATTAN_PROJECT_RESEARCH"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT",
+        "ModifierId": "EDUCATOR_FASTER_OPERATION_IVY_RESEARCH"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT",
+        "ModifierId": "EDUCATOR_FASTER_NUCLEAR_DEVICE_PRODUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT",
+        "ModifierId": "EDUCATOR_FASTER_THERMONUCLEAR_DEVICE_PRODUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE",
+        "ModifierId": "EDUCATOR_FASTER_LAUNCH_EARTH_SATELLITE_PRODUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE",
+        "ModifierId": "EDUCATOR_FASTER_LAUNCH_MOON_LANDING_PRODUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE",
+        "ModifierId": "EDUCATOR_FASTER_LAUNCH_MARS_REACTOR_PRODUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE",
+        "ModifierId": "EDUCATOR_FASTER_LAUNCH_MARS_HABITATION_PRODUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE",
+        "ModifierId": "EDUCATOR_FASTER_LAUNCH_MARS_HYDROPONICS_PRODUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION",
+        "ModifierId": "LAND_ACQUISITION_FASTER_PLOT_ANNEXING"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER",
+        "ModifierId": "HARBORMASTER_BONUS_COMMERCIAL_HUB_ADJACENCY"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER",
+        "ModifierId": "HARBORMASTER_BONUS_HARBOR_ADJACENCY"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE",
+        "ModifierId": "FOREIGN_EXCHANGE_GOLD_FROM_FOREIGN_TRADE_PASSING_THROUGH"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR",
+        "ModifierId": "TAX_COLLECTOR_ADJUST_CITIZEN_GPT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR",
+        "ModifierId": "CONTRACTOR_ENABLE_DISTRICT_PURCHASE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_CURATOR",
+        "ModifierId": "CURATOR_DOUBLE_SCULPTURE_TOURISM"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_CURATOR",
+        "ModifierId": "CURATOR_DOUBLE_PORTRAIT_TOURISM"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_CURATOR",
+        "ModifierId": "CURATOR_DOUBLE_LANDSCAPE_TOURISM"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_CURATOR",
+        "ModifierId": "CURATOR_DOUBLE_RELIGIOUS_TOURISM"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_CURATOR",
+        "ModifierId": "CURATOR_DOUBLE_WRITING_TOURISM"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_CURATOR",
+        "ModifierId": "CURATOR_DOUBLE_MUSIC_TOURISM"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_1",
+        "ModifierId": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_1_ECONOMIC_POLICY_SLOT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_1",
+        "ModifierId": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_1_ENVOY_FROM_TRADE_ROUTE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_2",
+        "ModifierId": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_2_UNLOCK_GILDED_VAULT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3",
+        "ModifierId": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3_WILDCARD_POLICY_SLOT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3",
+        "ModifierId": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3_LOYALTY_FROM_COUNTERSPY"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3",
+        "ModifierId": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3_AMENITY_FROM_COUNTERSPY"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3",
+        "ModifierId": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3_SPY_CAPACITY"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4",
+        "ModifierId": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4_SPY_SUCCESS_GRANTS_SCIENCE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4",
+        "ModifierId": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4_SPY_SUCCESS_GRANTS_CULTURE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4",
+        "ModifierId": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4_SPY_SUCCESS_GRANTS_GOLD"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4",
+        "ModifierId": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4_SPY_SUCCESS_GRANTS_FAITH"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4",
+        "ModifierId": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4_GOLD_INTEREST"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_1",
+        "ModifierId": "GOVERNOR_PROMOTION_HERMETIC_ORDER_1_UNLOCK_LEY_LINE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_2",
+        "ModifierId": "GOVERNOR_PROMOTION_HERMETIC_ORDER_2_UNLOCK_ALCHEMICAL_SOCIETY"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_3",
+        "ModifierId": "HERMETIC_ORDER_GREAT_ARTIST_LEY_LINE_CULTURE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_3",
+        "ModifierId": "HERMETIC_ORDER_GREAT_ADMIRAL_LEY_LINE_SCIENCE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_3",
+        "ModifierId": "HERMETIC_ORDER_GREAT_ENGINEER_LEY_LINE_PRODUCTION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_3",
+        "ModifierId": "HERMETIC_ORDER_GREAT_GENERAL_LEY_LINE_SCIENCE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_3",
+        "ModifierId": "HERMETIC_ORDER_GREAT_MERCHANT_LEY_LINE_GOLD"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_3",
+        "ModifierId": "HERMETIC_ORDER_GREAT_MUSICIAN_LEY_LINE_CULTURE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_3",
+        "ModifierId": "HERMETIC_ORDER_GREAT_PROPHET_LEY_LINE_FAITH"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_3",
+        "ModifierId": "HERMETIC_ORDER_GREAT_SCIENTIST_LEY_LINE_SCIENCE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_3",
+        "ModifierId": "HERMETIC_ORDER_GREAT_WRITER_LEY_LINE_CULTURE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_4",
+        "ModifierId": "HERMETIC_ORDER_ALLOW_PROJECT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_VOIDSINGERS_1",
+        "ModifierId": "GOVERNOR_PROMOTION_VOIDSINGERS_1_UNLOCK_OLD_GOD_OBELISK"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_VOIDSINGERS_2",
+        "ModifierId": "GOVERNOR_PROMOTION_VOIDSINGERS_2_GOLD_FROM_FAITH"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_VOIDSINGERS_2",
+        "ModifierId": "GOVERNOR_PROMOTION_VOIDSINGERS_2_SCIENCE_FROM_FAITH"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_VOIDSINGERS_2",
+        "ModifierId": "GOVERNOR_PROMOTION_VOIDSINGERS_2_CULTURE_FROM_FAITH"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_VOIDSINGERS_3",
+        "ModifierId": "SECRET_SOCIETY_UNLOCK_CULTIST_UNIT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_VOIDSINGERS_4",
+        "ModifierId": "VOIDSINGERS_ALLOW_PROJECT_DARK_SUMMONING"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_1",
+        "ModifierId": "SECRET_SOCIETY_GRANT_VAMPIRE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_2",
+        "ModifierId": "SECRET_SOCIETY_GRANT_VAMPIRE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_2",
+        "ModifierId": "SECRET_SOCIETY_GRANT_TWO_VAMPIRE_BUILDS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_3",
+        "ModifierId": "SECRET_SOCIETY_INTIMIDATE_ENEMIES_ATTACHMENT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_3",
+        "ModifierId": "SECRET_SOCIETY_VAMPIRES_ADVANCED_PILLAGING"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_3",
+        "ModifierId": "SECRET_SOCIETY_GRANT_VAMPIRE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_3",
+        "ModifierId": "SECRET_SOCIETY_GRANT_ONE_VAMPIRE_BUILD"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_4",
+        "ModifierId": "SECRET_SOCIETY_GRANT_VAMPIRE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_4",
+        "ModifierId": "SECRET_SOCIETY_GRANT_ONE_VAMPIRE_BUILD"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_4",
+        "ModifierId": "SECRET_SOCIETIES_ATTACH_PLAYER_CASTLES_TELEPORT"
+    }
+]

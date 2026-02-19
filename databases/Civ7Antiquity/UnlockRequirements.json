@@ -1,0 +1,2242 @@
+[
+    {
+        "Description": "LOC_UNLOCK_CAMELS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_CAMELS_ABBASIDS_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_X_CAMELS_IMPROVED",
+        "ToolTip": "LOC_UNLOCK_CAMELS_ABBASIDS_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ABBASID"
+    },
+    {
+        "Description": "LOC_UNLOCK_PORT_SETTLEMENTS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_PORT_SETTLEMENTS_CHOLA_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_3_COAST_SETTLEMENTS",
+        "ToolTip": "LOC_UNLOCK_PORT_SETTLEMENTS_CHOLA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_CHOLA"
+    },
+    {
+        "Description": "LOC_UNLOCK_ISLAND_SETTLEMENTS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_ISLAND_SETTLEMENTS_HAWAII_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_2_ISLAND_SETTLEMENTS",
+        "ToolTip": "LOC_UNLOCK_ISLAND_SETTLEMENTS_HAWAII_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_HAWAII"
+    },
+    {
+        "Description": "LOC_UNLOCK_MOUNTAIN_SETTLEMENTS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_MOUNTAIN_SETTLEMENTS_INCA_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_3_MOUNTAINS_SETTLEMENTS",
+        "ToolTip": "LOC_UNLOCK_MOUNTAIN_SETTLEMENTS_INCA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_INCA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PEARLS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_PEARLS_MAJAPAHIT_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_X_PEARLS_IMPROVED",
+        "ToolTip": "LOC_UNLOCK_PEARLS_MAJAPAHIT_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MAJAPAHIT"
+    },
+    {
+        "Description": "LOC_UNLOCK_3_NAVAL_TRADE_ROUTES_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_3_NAVAL_TRADE_ROUTES_MAJAPAHIT_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_3_NAVAL_TRADE_ROUTES",
+        "ToolTip": "LOC_UNLOCK_3_NAVAL_TRADE_ROUTES_MAJAPAHIT_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MAJAPAHIT"
+    },
+    {
+        "Description": "LOC_UNLOCK_SILK_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_SILK_MING_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_X_SILK_IMPROVED",
+        "ToolTip": "LOC_UNLOCK_SILK_MING_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MING"
+    },
+    {
+        "Description": "LOC_UNLOCK_RESOURCES_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_RESOURCES_MING_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_8_RESOURCES",
+        "ToolTip": "LOC_UNLOCK_RESOURCES_MING_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MING"
+    },
+    {
+        "Description": "LOC_UNLOCK_SIEGE_UNITS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_SIEGE_UNITS_MONGOLIA_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_3_SIEGE_UNITS",
+        "ToolTip": "LOC_UNLOCK_SIEGE_UNITS_MONGOLIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MONGOLIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_HORSES_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_HORSES_MONGOLIA_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_X_HORSES_IMPROVED",
+        "ToolTip": "LOC_UNLOCK_HORSES_MONGOLIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MONGOLIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_IRON_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_IRON_NORMANS_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_X_IRON_IMPROVED",
+        "ToolTip": "LOC_UNLOCK_IRON_NORMANS_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_WALLS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_WALLS_NORMANS_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_5_WALLS",
+        "ToolTip": "LOC_UNLOCK_WALLS_NORMANS_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_NAVIGABLE_RIVER_SETTLEMENT_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_NAVIGABLE_RIVER_SETTLEMENT_SONGHAI_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_3_NAVIGABLE_RIVER_SETTLEMENT",
+        "ToolTip": "LOC_UNLOCK_NAVIGABLE_RIVER_SETTLEMENT_SONGHAI_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SONGHAI"
+    },
+    {
+        "Description": "LOC_UNLOCK_RECONQUER_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_RECONQUER_SPAIN_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_RECONQUERED",
+        "ToolTip": "LOC_UNLOCK_RECONQUER_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_3_DISTANT_LANDS_PLAINS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_3_DISTANT_LANDS_PLAINS_AMERICA_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_3_DISTANT_LAND_PLAINS_OR_GRASSLANDS",
+        "ToolTip": "LOC_UNLOCK_3_DISTANT_LANDS_PLAINS_AMERICA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_AMERICA"
+    },
+    {
+        "Description": "LOC_UNLOCK_LAKE_SETTLEMENTS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_LAKE_SETTLEMENTS_BUGANDA_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_2_LAKE_SETTLEMENTS",
+        "ToolTip": "LOC_UNLOCK_LAKE_SETTLEMENTS_BUGANDA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_BUGANDA"
+    },
+    {
+        "Description": "LOC_UNLOCK_WINE_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_WINE_FRENCH_EMPIRE_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_X_WINE_IMPROVED",
+        "ToolTip": "LOC_UNLOCK_WINE_FRENCH_EMPIRE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_TEA_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_TEA_MEIJI_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_X_TEA_IMPROVED",
+        "ToolTip": "LOC_UNLOCK_TEA_MEIJI_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEIJI"
+    },
+    {
+        "Description": "LOC_UNLOCK_3_DISTANT_LANDS_DESERT_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_3_DISTANT_LANDS_DESERT_MEXICO_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_3_DISTANT_LAND_DESERT_OR_TROPICAL",
+        "ToolTip": "LOC_UNLOCK_3_DISTANT_LANDS_DESERT_MEXICO_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEXICO"
+    },
+    {
+        "Description": "LOC_UNLOCK_SALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_PLAYER_HAS_X_SALT_IMPROVED",
+        "ToolTip": "LOC_UNLOCK_SALT_MUGHAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MUGHAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_4_TRADE_ROUTES_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_4_TRADE_ROUTES_MUGHAL_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_4_PLAYER_TRADE_ROUTES",
+        "ToolTip": "LOC_UNLOCK_4_TRADE_ROUTES_MUGHAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MUGHAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_ARMY_COMMANDERS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_ARMY_COMMANDERS_PRUSSIA_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_3_ARMY_COMMANDERS",
+        "ToolTip": "LOC_UNLOCK_ARMY_COMMANDERS_PRUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PRUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_NITER_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_NITER_PRUSSIA_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_X_NITER_IMPROVED",
+        "ToolTip": "LOC_UNLOCK_NITER_PRUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PRUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_JADE_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_JADE_QING_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_X_JADE_IMPROVED",
+        "ToolTip": "LOC_UNLOCK_JADE_QING_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_QING"
+    },
+    {
+        "Description": "LOC_UNLOCK_TUNDRA_SETTLEMENTS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_TUNDRA_SETTLEMENTS_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_3_TUNDRA_SETTLEMENTS",
+        "ToolTip": "LOC_UNLOCK_TUNDRA_SETTLEMENTS_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_RUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_TEMPLES_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_TEMPLES_SIAM_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_4_TEMPLES",
+        "ToolTip": "LOC_UNLOCK_TEMPLES_SIAM_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SIAM"
+    },
+    {
+        "Description": "LOC_UNLOCK_IVORY_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_IVORY_SIAM_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_X_IVORY_IMPROVED",
+        "ToolTip": "LOC_UNLOCK_IVORY_SIAM_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SIAM"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_IBN_BATTUTA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_ABBASIDS_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ABBASID"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_AMINA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_AMINA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_AMINA_ABBASIDS_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ABBASID"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_AUGUSTUS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_AUGUSTUS",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_AUGUSTUS_ABBASID_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ABBASID"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HATSHEPSUT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HATSHEPSUT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HATSHEPSUT_ABBASID_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ABBASID"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ISABELLA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ISABELLA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ISABELLA_ABBASID_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ABBASID"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_XERXES_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_XERXES",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_XERXES_ABBASID_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ABBASID"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ASHOKA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ASHOKA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ASHOKA_CHOLA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_CHOLA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_TRUNG_TRAC_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_TRUNG_TRAC",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_TRUNG_TRAC_CHOLA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_CHOLA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_JOSE_RIZAL_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_JOSE_RIZAL",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_JOSE_RIZAL_HAWAII_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_HAWAII"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ASHOKA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ASHOKA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ASHOKA_HAWAII_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_HAWAII"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HIMIKO_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HIMIKO",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HIMIKO_HAWAII_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_HAWAII"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_PACHACUTI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_PACHACUTI",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_PACHACUTI_HAWAII_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_HAWAII"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_PACHACUTI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_PACHACUTI",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_PACHACUTI_INCA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_INCA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HARRIET_TUBMAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_INCA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_INCA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_TRUNG_TRAC_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_TRUNG_TRAC",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_TRUNG_TRAC_MAJAPAHIT_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MAJAPAHIT"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HIMIKO_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HIMIKO",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HIMIKO_MAJAPAHIT_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MAJAPAHIT"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_JOSE_RIZAL_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_JOSE_RIZAL",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_JOSE_RIZAL_MAJAPAHIT_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MAJAPAHIT"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CONFUCIUS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_CONFUCIUS",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CONFUCIUS_MING_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MING"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_XERXES_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_XERXES",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_XERXES_MONGOLIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MONGOLIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CATHERINE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_CATHERINE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CATHERINE_MONGOLIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MONGOLIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CONFUCIUS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_CONFUCIUS",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CONFUCIUS_MONGOLIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MONGOLIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_CHARLEMAGNE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_NORMANS_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_BENJAMIN_FRANKLIN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_NORMAN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CATHERINE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_CATHERINE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CATHERINE_NORMAN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_FRIEDRICH",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_NORMAN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_LAFAYETTE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_LAFAYETTE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_LAFAYETTE_NORMAN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_MACHIAVELLI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_MACHIAVELLI",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_MACHIAVELLI_NORMAN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_AMINA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_AMINA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_AMINA_SONGHAI_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SONGHAI"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HARRIET_TUBMAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_SONGHAI_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SONGHAI"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HATSHEPSUT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HATSHEPSUT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HATSHEPSUT_SONGHAI_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SONGHAI"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_IBN_BATTUTA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_SONGHAI_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SONGHAI"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ISABELLA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ISABELLA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ISABELLA_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_LAFAYETTE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_LAFAYETTE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_LAFAYETTE_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_AUGUSTUS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_AUGUSTUS",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_AUGUSTUS_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_BENJAMIN_FRANKLIN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_CHARLEMAGNE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_FRIEDRICH",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_MACHIAVELLI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_MACHIAVELLI",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_MACHIAVELLI_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_BENJAMIN_FRANKLIN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_AMERICA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_AMERICA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HARRIET_TUBMAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_AMERICA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_AMERICA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_LAFAYETTE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_LAFAYETTE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_LAFAYETTE_AMERICA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_AMERICA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_PACHACUTI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_PACHACUTI",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_PACHACUTI_AMERICA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_AMERICA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_AMINA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_AMINA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_AMINA_BUGANDA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_BUGANDA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HARRIET_TUBMAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_BUGANDA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_BUGANDA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HATSHEPSUT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HATSHEPSUT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HATSHEPSUT_BUGANDA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_BUGANDA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_IBN_BATTUTA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_BUGANDA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_BUGANDA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_AUGUSTUS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_AUGUSTUS",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_AUGUSTUS_FRENCH_EMPIRE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_LAFAYETTE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_LAFAYETTE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_LAFAYETTE_FRENCH_EMPIRE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_FRIEDRICH",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_FRENCH_EMPIRE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_BENJAMIN_FRANKLIN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_FRENCH_EMPIRE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_CHARLEMAGNE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_FRENCH_EMPIRE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ISABELLA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ISABELLA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ISABELLA_FRENCH_EMPIRE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_MACHIAVELLI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_MACHIAVELLI",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_MACHIAVELLI_FRENCH_EMPIRE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HIMIKO_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HIMIKO",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HIMIKO_MEIJI_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEIJI"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_JOSE_RIZAL_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_JOSE_RIZAL",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_JOSE_RIZAL_MEIJI_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEIJI"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_TRUNG_TRAC_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_TRUNG_TRAC",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_TRUNG_TRAC_MEIJI_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEIJI"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_AMINA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_AMINA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_AMINA_MEXICO_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEXICO"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ISABELLA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ISABELLA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ISABELLA_MEXICO_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEXICO"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_PACHACUTI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_PACHACUTI",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_PACHACUTI_MEXICO_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEXICO"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ASHOKA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ASHOKA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ASHOKA_MUGHAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MUGHAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_XERXES_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_XERXES",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_XERXES_MUGHAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MUGHAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HATSHEPSUT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HATSHEPSUT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HATSHEPSUT_MUGHAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MUGHAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_IBN_BATTUTA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_MUGHAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MUGHAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_AUGUSTUS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_AUGUSTUS",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_AUGUSTUS_PRUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PRUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CATHERINE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_CATHERINE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CATHERINE_PRUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PRUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_CHARLEMAGNE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_PRUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PRUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_FRIEDRICH",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_PRUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PRUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CONFUCIUS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_CONFUCIUS",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CONFUCIUS_QING_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_QING"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CATHERINE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_CATHERINE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CATHERINE_RUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_RUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_XERXES_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_XERXES",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_XERXES_RUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_RUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_MACHIAVELLI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_MACHIAVELLI",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_MACHIAVELLI_RUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_RUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ASHOKA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ASHOKA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ASHOKA_SIAM_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SIAM"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HIMIKO_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HIMIKO",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HIMIKO_SIAM_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SIAM"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_JOSE_RIZAL_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_JOSE_RIZAL",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_JOSE_RIZAL_SIAM_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SIAM"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_TRUNG_TRAC_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_TRUNG_TRAC",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_TRUNG_TRAC_SIAM_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SIAM"
+    },
+    {
+        "Description": "LOC_UNLOCK_INVASION_WALLS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_INVASION_WALLS",
+        "ToolTip": "LOC_UNLOCK_INVASION_WALLS_TOOLTIP",
+        "UnlockType": "UNLOCK_INVASION_WALLS"
+    },
+    {
+        "Description": "LOC_UNLOCK_INVASION_CONFEDERATION_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_INVASION_CONFEDERATION",
+        "ToolTip": "LOC_UNLOCK_INVASION_CONFEDERATION_TOOLTIP",
+        "UnlockType": "UNLOCK_INVASION_CONFEDERATION"
+    },
+    {
+        "Description": "LOC_UNLOCK_INVASION_NOBLES_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_INVASION_NOBLES",
+        "ToolTip": "LOC_UNLOCK_INVASION_NOBLES_TOOLTIP",
+        "UnlockType": "UNLOCK_INVASION_NOBLES"
+    },
+    {
+        "Description": "LOC_UNLOCK_LOYALTY_IMPERIAL_AMBITION_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REVOLTS_IMPERIAL_AMBITION",
+        "ToolTip": "LOC_UNLOCK_LOYALTY_IMPERIAL_AMBITION_TOOLTIP",
+        "UnlockType": "UNLOCK_REVOLTS_IMPERIAL_AMBITION"
+    },
+    {
+        "Description": "LOC_UNLOCK_INWARD_PERFECTION_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REVOLTS_INWARD_PERFECTION",
+        "ToolTip": "LOC_UNLOCK_INWARD_PERFECTION_TOOLTIP",
+        "UnlockType": "UNLOCK_REVOLTS_INWARD_PERFECTION"
+    },
+    {
+        "Description": "LOC_UNLOCK_AQ_PLAGUE_MINISTER_SICK_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_AQ_PLAGUE_MINISTER_SICK",
+        "ToolTip": "LOC_UNLOCK_AQ_PLAGUE_MINISTER_SICK_TOOLTIP",
+        "UnlockType": "UNLOCK_AQ_PLAGUE_MINISTER_SICK"
+    },
+    {
+        "Description": "LOC_UNLOCK_AQ_PLAGUE_LABOR_SHORTAGE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_AQ_PLAGUE_LABOR_SHORTAGE",
+        "ToolTip": "LOC_UNLOCK_AQ_PLAGUE_MINISTER_SICK_TOOLTIP",
+        "UnlockType": "UNLOCK_AQ_PLAGUE_LABOR_SHORTAGE"
+    },
+    {
+        "Description": "LOC_UNLOCK_REVOLUTION_SPECIALISTS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REVOLUTION_SPECIALISTS",
+        "ToolTip": "LOC_UNLOCK_REVOLUTION_SPECIALISTS_TOOLTIP",
+        "UnlockType": "UNLOCK_REVOLUTION_SPECIALISTS"
+    },
+    {
+        "Description": "LOC_UNLOCK_REVOLUTION_WAR_SUPPORT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REVOLUTION_WAR_SUPPORT",
+        "ToolTip": "LOC_UNLOCK_REVOLUTION_WAR_SUPPORT_TOOLTIP",
+        "UnlockType": "UNLOCK_REVOLUTION_WAR_SUPPORT"
+    },
+    {
+        "Description": "LOC_UNLOCK_REVOLUTION_ALLIES_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REVOLUTION_ALLIES",
+        "ToolTip": "LOC_UNLOCK_REVOLUTION_ALLIES_TOOLTIP",
+        "UnlockType": "UNLOCK_REVOLUTION_ALLIES"
+    },
+    {
+        "Description": "LOC_UNLOCK_RELIGIOUS_TOLERANCE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_RELIGION_TOLERANCE",
+        "ToolTip": "LOC_UNLOCK_RELIGIOUS_TOLERANCE_TOOLTIP",
+        "UnlockType": "UNLOCK_RELIGION_TOLERANCE"
+    },
+    {
+        "Description": "LOC_UNLOCK_WESTPHALIAN_SOVEREIGNTY_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_RELIGION_WESTPHALIAN_SOVEREIGNTY",
+        "ToolTip": "LOC_UNLOCK_WESTPHALIAN_SOVEREIGNTY_TOOLTIP",
+        "UnlockType": "UNLOCK_RELIGION_WESTPHALIAN_SOVEREIGNTY"
+    },
+    {
+        "Description": "LOC_UNLOCK_EX_PLAGUE_EARLY_INDUSTRIALIZATION_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_EX_PLAGUE_EARLY_INDUSTRIALIZATION",
+        "ToolTip": "LOC_UNLOCK_EX_PLAGUE_EARLY_INDUSTRIALIZATION_TOOLTIP",
+        "UnlockType": "UNLOCK_EX_PLAGUE_EARLY_INDUSTRIALIZATION"
+    },
+    {
+        "Description": "LOC_UNLOCK_EX_PLAGUE_CONTAGION_THEORY_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_EX_PLAGUE_CONTAGION_THEORY",
+        "ToolTip": "LOC_UNLOCK_EX_PLAGUE_CONTAGION_THEORY_TOOLTIP",
+        "UnlockType": "UNLOCK_EX_PLAGUE_CONTAGION_THEORY"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_AMINA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_AMINA",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_AMINA"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_ASHOKA_RENOUNCER_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_ASHOKA_RENOUNCER",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_ASHOKA_RENOUNCER"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_AUGUSTUS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_AUGUSTUS",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_AUGUSTUS"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_FRANKLIN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_FRANKLIN",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_FRANKLIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_CATHERINE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_CATHERINE",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_CATHERINE"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_CHARLEMAGNE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_CHARLEMAGNE",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_CHARLEMAGNE"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_CONFUCIUS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_CONFUCIUS",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_CONFUCIUS"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_FRIEDRICH_OBLIQUE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_FRIEDRICH_OBLIQUE",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_FRIEDRICH_OBLIQUE"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_TUBMAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_TUBMAN",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_TUBMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_HATSHEPSUT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_HATSHEPSUT",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_HATSHEPSUT"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_HIMIKO_QUEEN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_HIMIKO_QUEEN",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_HIMIKO_QUEEN"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_BATTUTA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_BATTUTA",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_BATTUTA"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_ISABELLA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_ISABELLA",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_ISABELLA"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_RIZAL_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_RIZAL",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_RIZAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_LAFAYETTE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_LAFAYETTE",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_LAFAYETTE"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_MACHIAVELLI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_MACHIAVELLI",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_MACHIAVELLI"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_PACHACUTI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_PACHACUTI",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_PACHACUTI"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_TRUNG_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_TRUNG",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_TRUNG"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_XERXES_KING_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_XERXES_KING",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_XERXES_KING"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_AMINA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_AMINA",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_AMINA"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_ASHOKA_RENOUNCER_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_ASHOKA_RENOUNCER",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_ASHOKA_RENOUNCER"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_AUGUSTUS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_AUGUSTUS",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_AUGUSTUS"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_FRANKLIN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_FRANKLIN",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_FRANKLIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_CATHERINE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_CATHERINE",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_CATHERINE"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_CHARLEMAGNE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_CHARLEMAGNE",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_CHARLEMAGNE"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_CONFUCIUS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_CONFUCIUS",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_CONFUCIUS"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_FRIEDRICH_OBLIQUE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_FRIEDRICH_OBLIQUE",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_FRIEDRICH_OBLIQUE"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_TUBMAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_TUBMAN",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_TUBMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_HATSHEPSUT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_HATSHEPSUT",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_HATSHEPSUT"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_HIMIKO_QUEEN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_HIMIKO_QUEEN",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_HIMIKO_QUEEN"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_BATTUTA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_BATTUTA",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_BATTUTA"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_ISABELLA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_ISABELLA",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_ISABELLA"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_RIZAL_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_RIZAL",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_RIZAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_LAFAYETTE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_LAFAYETTE",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_LAFAYETTE"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_MACHIAVELLI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_MACHIAVELLI",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_MACHIAVELLI"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_PACHACUTI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_PACHACUTI",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_PACHACUTI"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_TRUNG_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_TRUNG",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_TRUNG"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_XERXES_KING_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_XERXES_KING",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_XERXES_KING"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_EGYPT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_EGYPT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_EGYPT_ABBASID_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ABBASID"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_PERSIA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_PERSIA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_PERSIA_ABBASID_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ABBASID"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_KHMER_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_KHMER",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_KHMER_CHOLA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_CHOLA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_MAURYA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_MAURYA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_MAURYA_CHOLA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_CHOLA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_MISSISSIPPIAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_MISSISSIPPIAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_MISSISSIPPIAN_HAWAII_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_HAWAII"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_MAYA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_MAYA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_MAYA_HAWAII_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_HAWAII"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_MISSISSIPPIAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_MISSISSIPPIAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_MISSISSIPPIAN_INCA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_INCA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_MAYA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_MAYA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_MAYA_INCA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_INCA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_KHMER_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_KHMER",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_KHMER_MAJAPAHIT_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MAJAPAHIT"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_MAURYA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_MAURYA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_MAURYA_MAJAPAHIT_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MAJAPAHIT"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_HAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HAN_MING_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MING"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_HAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HAN_MONGOLIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MONGOLIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_PERSIA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_PERSIA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_PERSIA_MONGOLIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MONGOLIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_GREECE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_GREECE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_GREECE_NORMAN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ROME_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_ROME",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ROME_NORMAN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_AKSUM_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_AKSUM",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_AKSUM_SONGHAI_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SONGHAI"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_EGYPT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_EGYPT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_EGYPT_SONGHAI_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SONGHAI"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_GREECE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_GREECE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_GREECE_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ROME_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_ROME",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ROME_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ROME_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_ROME",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ROME_AMERICA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_AMERICA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ROME_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_ROME",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ROME_FRENCH_EMPIRE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_KHMER_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_KHMER",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_KHMER_MEIJI_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEIJI"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_MAYA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_MAYA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_MAYA_MEXICO_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEXICO"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_PERSIA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_PERSIA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_PERSIA_MUGHAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MUGHAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ROME_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_ROME",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ROME_PRUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PRUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_HAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HAN_QING_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_QING"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_GREECE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_GREECE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_GREECE_RUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_RUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_KHMER_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_KHMER",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_KHMER_SIAM_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SIAM"
+    },
+    {
+        "Description": "LOC_VICTORY_REQUNLOCK_ANTIQUITY_MILITARY_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REACHED_ANTIQUITY_MILITARY_MILESTONE_3",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_WON_MILITARISTIC_VICTORY_1"
+    },
+    {
+        "Description": "LOC_VICTORY_REQUNLOCK_ANTIQUITY_CULTURE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REACHED_ANTIQUITY_CULTURE_MILESTONE_3",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_WON_CULTURAL_VICTORY_1"
+    },
+    {
+        "Description": "LOC_VICTORY_REQUNLOCK_ANTIQUITY_ECONOMIC_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REACHED_ANTIQUITY_ECONOMIC_MILESTONE_3",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_WON_ECONOMIC_VICTORY_1"
+    },
+    {
+        "Description": "LOC_VICTORY_REQUNLOCK_ANTIQUITY_SCIENCE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REACHED_ANTIQUITY_SCIENCE_MILESTONE_3",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_WON_SCIENTIFIC_VICTORY_1"
+    },
+    {
+        "Description": "LOC_SECOND_REQUNLOCK_ANTIQUITY_MILITARY_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REACHED_ANTIQUITY_MILITARY_MILESTONE_2",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_AT_LEAST_SECOND_MILITARISTIC_VICTORY_1"
+    },
+    {
+        "Description": "LOC_SECOND_REQUNLOCK_ANTIQUITY_CULTURE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REACHED_ANTIQUITY_CULTURE_MILESTONE_2",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_AT_LEAST_SECOND_CULTURAL_VICTORY_1"
+    },
+    {
+        "Description": "LOC_SECOND_REQUNLOCK_ANTIQUITY_ECONOMIC_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REACHED_ANTIQUITY_ECONOMIC_MILESTONE_2",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_AT_LEAST_SECOND_ECONOMIC_VICTORY_1"
+    },
+    {
+        "Description": "LOC_SECOND_REQUNLOCK_ANTIQUITY_SCIENCE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REACHED_ANTIQUITY_SCIENCE_MILESTONE_2",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_AT_LEAST_SECOND_SCIENTIFIC_VICTORY_1"
+    },
+    {
+        "Description": "LOC_THIRD_REQUNLOCK_ANTIQUITY_MILITARY_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REACHED_ANTIQUITY_MILITARY_MILESTONE_1",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_AT_LEAST_THIRD_MILITARISTIC_VICTORY_1"
+    },
+    {
+        "Description": "LOC_THIRD_REQUNLOCK_ANTIQUITY_CULTURE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REACHED_ANTIQUITY_CULTURE_MILESTONE_1",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_AT_LEAST_THIRD_CULTURAL_VICTORY_1"
+    },
+    {
+        "Description": "LOC_THIRD_REQUNLOCK_ANTIQUITY_ECONOMIC_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REACHED_ANTIQUITY_ECONOMIC_MILESTONE_1",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_AT_LEAST_THIRD_ECONOMIC_VICTORY_1"
+    },
+    {
+        "Description": "LOC_THIRD_REQUNLOCK_ANTIQUITY_SCIENCE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_REACHED_ANTIQUITY_SCIENCE_MILESTONE_1",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_AT_LEAST_THIRD_SCIENTIFIC_VICTORY_1"
+    },
+    {
+        "Description": "LOC_DARK_AGE_REQUNLOCK_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_DARK_AGE_MILITARISTIC_1",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_DARK_AGE_MILITARISTIC_1"
+    },
+    {
+        "Description": "LOC_DARK_AGE_REQUNLOCK_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_DARK_AGE_CULTURAL_1",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_DARK_AGE_CULTURAL_1"
+    },
+    {
+        "Description": "LOC_DARK_AGE_REQUNLOCK_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_DARK_AGE_ECONOMIC_1",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_DARK_AGE_ECONOMIC_1"
+    },
+    {
+        "Description": "LOC_DARK_AGE_REQUNLOCK_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_DARK_AGE_SCIENTIFIC_1",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_DARK_AGE_SCIENTIFIC_1"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ADA_LOVELACE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ADA_LOVELACE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ADA_LOVELACE_ABBASID_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ABBASID"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ADA_LOVELACE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ADA_LOVELACE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ADA_LOVELACE_NORMAN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ADA_LOVELACE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ADA_LOVELACE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ADA_LOVELACE_RUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_RUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_ADA_LOVELACE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_ADA_LOVELACE",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_ADA_LOVELACE"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_ADA_LOVELACE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_ADA_LOVELACE",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_ADA_LOVELACE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ASHOKA_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_CHOLA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_CHOLA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ASHOKA_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_HAWAII_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_HAWAII"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ASHOKA_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_MUGHAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MUGHAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ASHOKA_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_SIAM_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SIAM"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HIMIKO_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_HAWAII_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_HAWAII"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HIMIKO_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_MAJAPAHIT_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MAJAPAHIT"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HIMIKO_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_MEIJI_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEIJI"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_HIMIKO_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_SIAM_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SIAM"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_ASHOKA_CONQUEROR",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_ASHOKA_CONQUEROR"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_HIMIKO_SHAMAN",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_HIMIKO_SHAMAN"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_ASHOKA_CONQUEROR",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_ASHOKA_CONQUEROR"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_HIMIKO_SHAMAN",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_HIMIKO_SHAMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_BOLIVAR_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_BOLIVAR",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_BOLIVAR_INCA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_INCA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_BOLIVAR_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_BOLIVAR",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_BOLIVAR_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_BOLIVAR_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_BOLIVAR",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_BOLIVAR_FRANCE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_BOLIVAR_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_BOLIVAR",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_BOLIVAR_MEXICO_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEXICO"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_BOLIVAR",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_BOLIVAR"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_BOLIVAR",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_BOLIVAR"
+    },
+    {
+        "Description": "LOC_UNLOCK_ALTARS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_ALTARS_BULGARIA_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_3_ALTARS",
+        "ToolTip": "LOC_UNLOCK_ALTARS_BULGARIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_BULGARIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_GREECE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_GREECE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_GREECE_BULGARIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_BULGARIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_PERSIA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_PERSIA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_PERSIA_BULGARIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_BULGARIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_AUGUSTUS_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_AUGUSTUS",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_AUGUSTUS_BULGARIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_BULGARIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CATHERINE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_CATHERINE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CATHERINE_BULGARIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_BULGARIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_CHARLEMAGNE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_BULGARIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_BULGARIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_GENGHIS_KHAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_GENGHIS_KHAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_GENGHIS_KHAN_BULGARIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_BULGARIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CARTHAGE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_CARTHAGE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CARTHAGE_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_TROPICAL_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_TROPICAL_DAI_VIET_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_3_TROPICAL",
+        "ToolTip": "LOC_UNLOCK_TROPICAL_DAI_VIET_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_DAI_VIET"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_TRUNG_TRAC_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_TRUNG_TRAC",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_TRUNG_TRAC_DAI_VIET_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_DAI_VIET"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_KHMER_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_KHMER",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_KHMER_DAI_VIET_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_DAI_VIET"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_LAKSHMIBAI",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_DAI_VIET_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_DAI_VIET"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_EDWARD_TEACH",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_FRENCH_EMPIRE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_4_EDWARD_TEACH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_EDWARD_TEACH",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_EDWARD_TEACH"
+    },
+    {
+        "Description": "LOC_UNLOCK_LEGEND_LEVEL_8_EDWARD_TEACH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_EDWARD_TEACH",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_EDWARD_TEACH"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_FRIEDRICH_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_ALT_NORMAN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_FRIEDRICH_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_ALT_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_FRIEDRICH_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_ALT_FRENCH_EMPIRE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_FRIEDRICH_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_ALT_PRUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PRUSSIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_XERXES_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_ABBASID_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ABBASID"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_XERXES_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_MONGOLIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MONGOLIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_XERXES_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_MUGHAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MUGHAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_XERXES_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_RUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_RUSSIA"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_FRIEDRICH_BAROQUE",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_FRIEDRICH_BAROQUE"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_XERXES_ACHAEMENID",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_XERXES_ACHAEMENID"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_FRIEDRICH_BAROQUE",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_FRIEDRICH_BAROQUE"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_XERXES_ACHAEMENID",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_XERXES_ACHAEMENID"
+    },
+    {
+        "Description": "LOC_UNLOCK_NATURAL_WONDERS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_NATURAL_WONDERS_ICELAND_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_DISCOVERED_NATURAL_WONDER_FIRST",
+        "ToolTip": "LOC_UNLOCK_NATURAL_WONDERS_ICELAND_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ICELAND"
+    },
+    {
+        "Description": "LOC_UNLOCK_COASTAL_RAID_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_COASTAL_RAID_ICELAND_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_COASTAL_RAIDED_5_TIMES",
+        "ToolTip": "LOC_UNLOCK_COASTAL_RAID_ICELAND_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ICELAND"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_JOSE_RIZAL_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_JOSE_RIZAL",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_JOSE_RIZAL_ICELAND_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ICELAND"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ISABELLA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ISABELLA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ISABELLA_ICELAND_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ICELAND"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ROME_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_ROME",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ROME_ICELAND_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ICELAND"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_EDWARD_TEACH",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_ICELAND_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ICELAND"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_NAPOLEON_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_NAPOLEON",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_NAPOLEON_NORMAN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_NAPOLEON_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_NAPOLEON",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_NAPOLEON_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_NAPOLEON_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_NAPOLEON",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_NAPOLEON_FRENCH_EMPIRE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_NAPOLEON_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_NAPOLEON",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_NAPOLEON_PRUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PRUSSIA"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_NAPOLEON_EMPEROR",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_NAPOLEON_EMPEROR"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_NAPOLEON_EMPEROR",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_NAPOLEON_EMPEROR"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_NAPOLEON_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_NAPOLEON_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_NAPOLEON_ALT_NORMAN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NORMAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_NAPOLEON_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_NAPOLEON_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_NAPOLEON_ALT_SPAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SPAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_NAPOLEON_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_NAPOLEON_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_NAPOLEON_ALT_FRENCH_EMPIRE_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_FRENCH_EMPIRE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_NAPOLEON_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_NAPOLEON_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_NAPOLEON_ALT_PRUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PRUSSIA"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_NAPOLEON_REVOLUTIONARY",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_NAPOLEON_REVOLUTIONARY"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_NAPOLEON_REVOLUTIONARY",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_NAPOLEON_REVOLUTIONARY"
+    },
+    {
+        "Description": "LOC_UNLOCK_CONQUERED_CAPITAL_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_CONQUERED_CAPITAL_OTTOMANS_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_1_CONQUERED_CAPITAL",
+        "ToolTip": "LOC_UNLOCK_CONQUERED_CAPITAL_OTTOMANS_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_OTTOMANS"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_IBN_BATTUTA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_OTTOMANS_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_OTTOMANS"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_SAYYIDA_AL_HURRA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_SAYYIDA_AL_HURRA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_SAYYIDA_AL_HURRA_OTTOMANS_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_OTTOMANS"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_EGYPT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_EGYPT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_EGYPT_OTTOMANS_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_OTTOMANS"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ROME_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_ROME",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ROME_OTTOMANS_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_OTTOMANS"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLUNDERS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_PLUNDERS_PIRATE_REPUBLIC_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_2_PLUNDERS",
+        "ToolTip": "LOC_UNLOCK_PLUNDERS_PIRATE_REPUBLIC_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PIRATE_REPUBLIC"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_AKSUM_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_AKSUM",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_AKSUM_PIRATE_REPUBLIC_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PIRATE_REPUBLIC"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_AMINA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_AMINA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_AMINA_PIRATE_REPUBLIC_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PIRATE_REPUBLIC"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_CARTHAGE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_CARTHAGE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_CARTHAGE_PIRATE_REPUBLIC_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PIRATE_REPUBLIC"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_EDWARD_TEACH",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_PIRATE_REPUBLIC_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PIRATE_REPUBLIC"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_SAYYIDA_AL_HURRA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_SAYYIDA_AL_HURRA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_SAYYIDA_AL_HURRA_PIRATE_REPUBLIC_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PIRATE_REPUBLIC"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_SAYYIDA_AL_HURRA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_SAYYIDA_AL_HURRA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_SAYYIDA_AL_HURRA_ABBASID_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ABBASID"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_SAYYIDA_AL_HURRA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_SAYYIDA_AL_HURRA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_SAYYIDA_AL_HURRA_MUGHAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MUGHAL"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_SAYYIDA_AL_HURRA",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_SAYYIDA_AL_HURRA"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_SAYYIDA_AL_HURRA",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_SAYYIDA_AL_HURRA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_TECUMSEH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_TECUMSEH",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_TECUMSEH_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SHAWNEE"
+    },
+    {
+        "Description": "LOC_UNLOCK_HIDES_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_HIDES_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_3_HIDES_IMPROVED",
+        "ToolTip": "LOC_UNLOCK_HIDES_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SHAWNEE"
+    },
+    {
+        "Description": "LOC_UNLOCK_CITY_STATES_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_CITY_STATES_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_2_TRIBUTARIES",
+        "ToolTip": "LOC_UNLOCK_CITY_STATES_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_SHAWNEE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_TECUMSEH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_TECUMSEH",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_TECUMSEH_AMERICA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_AMERICA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_SHAWNEE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIVILIZATION_IS_SHAWNEE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_SHAWNEE_AMERICA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_AMERICA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_SHAWNEE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIVILIZATION_IS_SHAWNEE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_SHAWNEE_MEXICO_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEXICO"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_TECUMSEH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_TECUMSEH",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_TECUMSEH_MEXICO_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MEXICO"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_TECUMSEH",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_TECUMSEH"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_TECUMSEH",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_TECUMSEH"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_TECUMSEH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_TECUMSEH",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_TECUMSEH_HAWAII_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_HAWAII"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_MISSISSIPPIAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_MISSISSIPPIAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_MISSISSIPPI_SHAWNEE_DESCRIPTION",
+        "UnlockType": "UNLOCK_CIVILIZATION_SHAWNEE"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_SILLA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_SILLA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_SILLA_MONGOLIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MONGOLIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_TONGA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_TONGA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_TONGA_HAWAII_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_HAWAII"
+    },
+    {
+        "Description": "LOC_UNLOCK_FLEET_COMMANDERS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_FLEET_COMMANDERS_GREAT_BRITAIN_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_2_FLEET_COMMANDERS",
+        "ToolTip": "LOC_UNLOCK_FLEET_COMMANDERS_GREAT_BRITAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_GREAT_BRITAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_BENJAMIN_FRANKLIN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_GREAT_BRITAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_GREAT_BRITAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ADA_LOVELACE_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ADA_LOVELACE",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ADA_LOVELACE_GREAT_BRITAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_GREAT_BRITAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_EDWARD_TEACH",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_GREAT_BRITAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_GREAT_BRITAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ROME_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_ROME",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ROME_GREAT_BRITAIN_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_GREAT_BRITAIN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ASHOKA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ASHOKA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ASHOKA_NEPAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NEPAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_PACHACUTI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_PACHACUTI",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_PACHACUTI_NEPAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NEPAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_MOUNTAIN_5_SETTLEMENTS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_MOUNTAIN_SETTLEMENTS_NEPAL_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_5_MOUNTAINS_SETTLEMENTS",
+        "ToolTip": "LOC_UNLOCK_MOUNTAIN_SETTLEMENTS_NEPAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NEPAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_MAURYA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_MAURYA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_MAURYA_CHOLA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NEPAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_ASHOKA_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_NEPAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NEPAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_LAKSHMIBAI",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_NEPAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_NEPAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_GENGHIS_KHAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_GENGHIS_KHAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_GENGHIS_KHAN_MONGOLIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MONGOLIA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_GENGHIS_KHAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_GENGHIS_KHAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_GENGHIS_KHAN_MUGHAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MUGHAL"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_GENGHIS_KHAN_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_GENGHIS_KHAN",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_GENGHIS_KHAN_PRUSSIA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_PRUSSIA"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_GENGHIS_KHAN",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_GENGHIS_KHAN"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_GENGHIS_KHAN",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_GENGHIS_KHAN"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ASSYRIA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_ASSYRIA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ASSYRIA_ABBASID_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_ABBASID"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_LAKSHMIBAI",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_CHOLA_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_CHOLA"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_LAKSHMIBAI",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_MUGHAL_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_MUGHAL"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_4_LAKSHMIBAI",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_4_LAKSHMIBAI"
+    },
+    {
+        "Description": null,
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEGEND_LEVEL_8_LAKSHMIBAI",
+        "ToolTip": null,
+        "UnlockType": "UNLOCK_LEGEND_LEVEL_8_LAKSHMIBAI"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_XERXES_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_XERXES_QAJAR",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_XERXES_QAJAR_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_QAJAR"
+    },
+    {
+        "Description": "LOC_UNLOCK_5_CITY_WORKERS_DESCRIPTION",
+        "NarrativeText": "LOC_UNLOCK_CITY_WORKERS_QAJAR_NARRATIVE",
+        "RequirementSetId": "REQSET_PLAYER_HAS_5_CITY_WORKERS",
+        "ToolTip": "LOC_UNLOCK_CITY_WORKERS_QAJAR_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_QAJAR"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_LEADER_IS_XERXES_ALT",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_QAJAR_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_QAJAR"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_PERSIA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_PERSIA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_PERSIA_QAJAR_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_QAJAR"
+    },
+    {
+        "Description": "LOC_UNLOCK_PLAY_AS_ASSYRIA_DESCRIPTION",
+        "NarrativeText": null,
+        "RequirementSetId": "REQSET_CIV_IS_ASSYRIA",
+        "ToolTip": "LOC_UNLOCK_PLAY_AS_ASSYRIA_QAJAR_TOOLTIP",
+        "UnlockType": "UNLOCK_CIVILIZATION_QAJAR"
+    }
+]

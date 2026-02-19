@@ -1,0 +1,237 @@
+[
+    {
+        "Percentage": 25,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MODERATE",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 35,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MAJOR",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 50,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_1000_YEAR",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 35,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_KILIMAJARO",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 25,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_GENTLE",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 35,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_CATASTROPHIC",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 50,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MEGACOLOSSAL",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 35,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_THERA",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_SIGNIFICANT",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_CRIPPLING",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_GRADIENT",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_HABOOB",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_TORNADO_FAMILY",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_TORNADO_OUTBREAK",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_THUNDERSTORM_SQUALL_LINE",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_THUNDERSTORM_SUPERCELL",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_4",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_5",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MODERATE",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MAJOR",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_1000_YEAR",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_KILIMAJARO",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_GENTLE",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_CATASTROPHIC",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MEGACOLOSSAL",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_THERA",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_SIGNIFICANT",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_CRIPPLING",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_GRADIENT",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_HABOOB",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 5,
+        "RandomEventType": "RANDOM_EVENT_TORNADO_FAMILY",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_TORNADO_OUTBREAK",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_THUNDERSTORM_SQUALL_LINE",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_THUNDERSTORM_SUPERCELL",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_4",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_5",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 5,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_GENTLE",
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_CATASTROPHIC",
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MEGACOLOSSAL",
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_THERA",
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_PLAGUE_MINOR",
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_PLAGUE_MAJOR",
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_PLAGUE_MINOR",
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_PLAGUE_MAJOR",
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MOUNT_FUJI",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MOUNT_FUJI",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MOUNT_FUJI",
+        "YieldType": "YIELD_CULTURE"
+    }
+]

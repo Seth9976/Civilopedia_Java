@@ -1,0 +1,2024 @@
+[
+    {
+        "DnaId": "b080d242-7291-4913-813e-d4a40f70cc2d",
+        "LegendPathType": "LEGEND_PATH_AMINA",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "1472eb3b-fb4a-4a6a-9f30-e1834b3dbb22",
+        "LegendPathType": "LEGEND_PATH_AMINA",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "6d344dd0-50f8-4aeb-a048-d184f9e5baa4",
+        "LegendPathType": "LEGEND_PATH_AMINA",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "d0df066f-ea57-42f6-954c-883f67e15e41",
+        "LegendPathType": "LEGEND_PATH_AMINA",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "6287aa07-0039-4b3f-9a7d-c8eb365d3612",
+        "LegendPathType": "LEGEND_PATH_AMINA",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "9af14eff-11b8-4d8d-b262-4d7f46c76868",
+        "LegendPathType": "LEGEND_PATH_AMINA",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "b0a5f3f9-b0b6-42a5-a363-db296ceb3d22",
+        "LegendPathType": "LEGEND_PATH_AMINA",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "3b2c4ef3-a6cb-4ae2-a834-3d8641c00623",
+        "LegendPathType": "LEGEND_PATH_AMINA",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "1584d3ee-7ef9-4189-adbb-0de7d19c388c",
+        "LegendPathType": "LEGEND_PATH_AMINA",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "f7d21772-4bc9-4352-b46d-9efc49f188cf",
+        "LegendPathType": "LEGEND_PATH_ASHOKA",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "635fa312-f0ae-4091-8a26-6935cfdf7823",
+        "LegendPathType": "LEGEND_PATH_ASHOKA",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "0d18e995-9578-4e8a-b64b-8cf8aeb82c8c",
+        "LegendPathType": "LEGEND_PATH_ASHOKA",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "d5d78065-f352-43c0-a25d-a1bab00ef927",
+        "LegendPathType": "LEGEND_PATH_ASHOKA",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "fcbfdf91-3703-4494-8429-686e971e4c0a",
+        "LegendPathType": "LEGEND_PATH_ASHOKA",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "fe98331b-1d41-4e94-a208-2f3c1ba49067",
+        "LegendPathType": "LEGEND_PATH_ASHOKA",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "f9388ea2-dd9e-449b-aba6-a2f30327dd90",
+        "LegendPathType": "LEGEND_PATH_ASHOKA",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "22402443-d0e4-4247-96e7-cb82a1981a88",
+        "LegendPathType": "LEGEND_PATH_ASHOKA",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "a7b1c1f5-b0aa-4484-94df-eaee1580c2dc",
+        "LegendPathType": "LEGEND_PATH_ASHOKA",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "cc2989a9-5fbb-4d17-845c-26629f1fd205",
+        "LegendPathType": "LEGEND_PATH_AUGUSTUS",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "0a436a73-7548-4006-86ee-83a3e427db94",
+        "LegendPathType": "LEGEND_PATH_AUGUSTUS",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "21c90a3f-07a1-48ab-a2e7-5c85ea9a4473",
+        "LegendPathType": "LEGEND_PATH_AUGUSTUS",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "fbd04ab5-8f7b-4a6e-8b63-bb34055f84d7",
+        "LegendPathType": "LEGEND_PATH_AUGUSTUS",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "5cc6ace3-1f3d-4e05-b29d-d58daba138aa",
+        "LegendPathType": "LEGEND_PATH_AUGUSTUS",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "113edc17-fca9-47de-9679-a68ef083076e",
+        "LegendPathType": "LEGEND_PATH_AUGUSTUS",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "1547ebd0-77e2-4832-ad36-9bf1349b900f",
+        "LegendPathType": "LEGEND_PATH_AUGUSTUS",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "40537913-8ec5-4372-b6dc-d906a540ac62",
+        "LegendPathType": "LEGEND_PATH_AUGUSTUS",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "6814d69c-58a3-453c-a382-a99da63b1c05",
+        "LegendPathType": "LEGEND_PATH_AUGUSTUS",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "4d0924ae-63eb-4aad-983e-870556e816d5",
+        "LegendPathType": "LEGEND_PATH_BENJAMIN_FRANKLIN",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "21aeae9e-1c77-4f6b-944b-c2eeb212ab00",
+        "LegendPathType": "LEGEND_PATH_BENJAMIN_FRANKLIN",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "7e1e6cd6-5fa6-4991-b805-38a0fa463b5a",
+        "LegendPathType": "LEGEND_PATH_BENJAMIN_FRANKLIN",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "7f9f7d03-9374-479f-8c09-efb89af3e075",
+        "LegendPathType": "LEGEND_PATH_BENJAMIN_FRANKLIN",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "a9a77b32-1672-43d8-bdfd-880ef34c37f2",
+        "LegendPathType": "LEGEND_PATH_BENJAMIN_FRANKLIN",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "b223c3c6-8ef2-4039-b161-bce3016b8fbe",
+        "LegendPathType": "LEGEND_PATH_BENJAMIN_FRANKLIN",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "7176a41b-b64b-431a-b08b-b7676ac80972",
+        "LegendPathType": "LEGEND_PATH_BENJAMIN_FRANKLIN",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "3779318f-ac54-4900-b8df-00f85bc876d1",
+        "LegendPathType": "LEGEND_PATH_BENJAMIN_FRANKLIN",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "2e97b279-ff83-4cde-8983-e8a46f42496c",
+        "LegendPathType": "LEGEND_PATH_BENJAMIN_FRANKLIN",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "9db7786e-8ad5-4d0b-8591-91ef17f69012",
+        "LegendPathType": "LEGEND_PATH_CATHERINE",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "9d77b54c-dc0b-4441-9c85-d692da4c3cdc",
+        "LegendPathType": "LEGEND_PATH_CATHERINE",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "2e4fc0a1-cf19-46e9-acd7-840e40809ef3",
+        "LegendPathType": "LEGEND_PATH_CATHERINE",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "9759a78a-e84e-4db2-8825-b856b1784074",
+        "LegendPathType": "LEGEND_PATH_CATHERINE",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "6e92abbb-66ed-4cbb-9f2d-87afb72f4ad4",
+        "LegendPathType": "LEGEND_PATH_CATHERINE",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "35cd285b-f8b5-4c2e-be01-ec2b2099d17b",
+        "LegendPathType": "LEGEND_PATH_CATHERINE",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "8815d69e-ae46-4caa-97e0-4091abe4ebe1",
+        "LegendPathType": "LEGEND_PATH_CATHERINE",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "4568ba00-b2d4-4842-9bcf-c4149ac2c715",
+        "LegendPathType": "LEGEND_PATH_CATHERINE",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "f57448ea-8046-49dc-9b29-60eff64fe202",
+        "LegendPathType": "LEGEND_PATH_CATHERINE",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "ba1c47f8-8a3e-483f-aed7-6f66f9797724",
+        "LegendPathType": "LEGEND_PATH_CHARLEMAGNE",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "66c87c44-c309-49e9-9510-57084ddcd079",
+        "LegendPathType": "LEGEND_PATH_CHARLEMAGNE",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "4b5a5db0-eddb-47c5-97a3-f249e3f962db",
+        "LegendPathType": "LEGEND_PATH_CHARLEMAGNE",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "80ec53ed-5ac1-4c76-b450-9e61f54e136f",
+        "LegendPathType": "LEGEND_PATH_CHARLEMAGNE",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "12b84dc3-fd66-4569-8cbe-b40a75d13c99",
+        "LegendPathType": "LEGEND_PATH_CHARLEMAGNE",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "40e9e7aa-3200-4091-904b-4b2816e35c9c",
+        "LegendPathType": "LEGEND_PATH_CHARLEMAGNE",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "a0a5c906-e8b0-4d37-bead-71b4b5ea1fda",
+        "LegendPathType": "LEGEND_PATH_CHARLEMAGNE",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "331e5c02-d38f-46c6-a6d1-0c1cf0473229",
+        "LegendPathType": "LEGEND_PATH_CHARLEMAGNE",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "fe9d15f0-f9b7-45ee-a4f0-15001f38dff5",
+        "LegendPathType": "LEGEND_PATH_CHARLEMAGNE",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "25edc782-4ba0-44f6-aecb-738fe79ae11a",
+        "LegendPathType": "LEGEND_PATH_CONFUCIUS",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "2315d458-4a94-4f79-9ae8-6b992ae900d9",
+        "LegendPathType": "LEGEND_PATH_CONFUCIUS",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "866dc333-2557-47d6-84f1-4d9fcb7c09cc",
+        "LegendPathType": "LEGEND_PATH_CONFUCIUS",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "7190beef-94dc-4a7d-b028-d4fee2a8b041",
+        "LegendPathType": "LEGEND_PATH_CONFUCIUS",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "306104d6-47d5-4d50-90b0-675f7c1c7590",
+        "LegendPathType": "LEGEND_PATH_CONFUCIUS",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "71dbb3fe-1ebf-463a-8942-bf910be7caf2",
+        "LegendPathType": "LEGEND_PATH_CONFUCIUS",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "599a697c-56c3-468e-9438-7a9d6f31b618",
+        "LegendPathType": "LEGEND_PATH_CONFUCIUS",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "4f388695-48f6-466c-bcf6-378398f4b86e",
+        "LegendPathType": "LEGEND_PATH_CONFUCIUS",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "cd878fc9-29ee-42b2-9428-027f29f16c44",
+        "LegendPathType": "LEGEND_PATH_CONFUCIUS",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "499fae84-8d0c-49f6-ad9f-a465e98b0bec",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "4bc20f41-67ec-4a13-98c6-9b0c3b8d2832",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "d6f5a241-e072-4f83-81e6-390f2b4b2dd1",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "ac85fb3d-dabc-4cb1-a03c-9be64913d39e",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "65352b04-4906-4a6d-8abb-239d1c55c1f1",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "fda4321d-8971-45f2-aaf9-a20b528a79cd",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "c090ac1f-880b-49c3-837f-3561248ee8cf",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "ebfb2efd-b3f8-4390-8e65-6d6a58969826",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "df2600eb-cbe5-44f6-a116-f2fb057fac1f",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "02b4b2ce-4038-41b0-814e-c5419a9af9a2",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 11,
+        "Threshold": 1500
+    },
+    {
+        "DnaId": "9c858178-50dc-41ca-b0cc-2950c4dbeaec",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 12,
+        "Threshold": 1700
+    },
+    {
+        "DnaId": "296b3a38-d2e5-415f-ab1c-928cf4d27bc7",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 13,
+        "Threshold": 1900
+    },
+    {
+        "DnaId": "dd5eea43-8687-44b0-abd5-b279b99e7e6e",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 14,
+        "Threshold": 2100
+    },
+    {
+        "DnaId": "fee96108-cf47-48ec-bcfc-084b1f99e25a",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 15,
+        "Threshold": 2300
+    },
+    {
+        "DnaId": "b47d0d09-dc63-4e5f-99a7-af9947712691",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 16,
+        "Threshold": 2500
+    },
+    {
+        "DnaId": "2f036999-83a5-4dce-a9cf-082933cda296",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 17,
+        "Threshold": 2700
+    },
+    {
+        "DnaId": "5eb6f39b-e9cf-4257-8547-817bb2941fbc",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 18,
+        "Threshold": 2900
+    },
+    {
+        "DnaId": "db59facb-1f10-4058-bf2f-9632439dd20e",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 19,
+        "Threshold": 3100
+    },
+    {
+        "DnaId": "78b7d0dd-75f9-408c-9e9d-3bf03143681e",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 20,
+        "Threshold": 3300
+    },
+    {
+        "DnaId": "9547c7fb-dbaf-460f-9e78-31f204c59304",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 21,
+        "Threshold": 3600
+    },
+    {
+        "DnaId": "0e35fb45-a35b-4def-937f-a58f38b7fecd",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 22,
+        "Threshold": 3900
+    },
+    {
+        "DnaId": "856b77b5-2045-4fdd-a6aa-169b8bfb891f",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 23,
+        "Threshold": 4200
+    },
+    {
+        "DnaId": "f71a71a5-43be-4b7a-9d90-f0f5e37e6ef9",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 24,
+        "Threshold": 4500
+    },
+    {
+        "DnaId": "1a1cd3b8-b669-45c5-8439-03a83c2d47ff",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 25,
+        "Threshold": 4800
+    },
+    {
+        "DnaId": "54d490ef-0ba1-43d5-924a-3cba86013962",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 26,
+        "Threshold": 5100
+    },
+    {
+        "DnaId": "51c96287-c619-49dc-9f01-179b94813a6c",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 27,
+        "Threshold": 5400
+    },
+    {
+        "DnaId": "f2ca9f20-fa7b-4fc8-b5b7-8f2e04017b26",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 28,
+        "Threshold": 5700
+    },
+    {
+        "DnaId": "e31472b3-1c69-449f-87aa-ff1ffefee070",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 29,
+        "Threshold": 6000
+    },
+    {
+        "DnaId": "83e65d3f-d1e0-41a3-afe7-ede9540392bd",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 30,
+        "Threshold": 6300
+    },
+    {
+        "DnaId": "ef9751bc-24fd-4b67-b5c2-78159a2d382c",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 31,
+        "Threshold": 6600
+    },
+    {
+        "DnaId": "67d4e60d-40b2-42db-a022-0748057a03fd",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 32,
+        "Threshold": 6900
+    },
+    {
+        "DnaId": "9dd17c2a-d7f6-4438-8dc7-ef68e887209c",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 33,
+        "Threshold": 7200
+    },
+    {
+        "DnaId": "0bdba1af-892f-4aca-98ad-3104dd269407",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 34,
+        "Threshold": 7500
+    },
+    {
+        "DnaId": "77eb9f2b-ccdc-47fb-97f4-cccfcd5c36e1",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 35,
+        "Threshold": 7800
+    },
+    {
+        "DnaId": "35f134db-fc59-48d6-a286-f7e0d0b2714f",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 36,
+        "Threshold": 8100
+    },
+    {
+        "DnaId": "c0768b9c-f9f7-415a-ae6f-7127e5d52910",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 37,
+        "Threshold": 8400
+    },
+    {
+        "DnaId": "99938640-06ff-4d95-bc57-230f8fca32b1",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 38,
+        "Threshold": 8700
+    },
+    {
+        "DnaId": "bc2f535f-9222-4f9d-a237-f53bf57ca02f",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 39,
+        "Threshold": 9000
+    },
+    {
+        "DnaId": "84ddfe92-3a96-4e90-8a66-7d41fb1f1c68",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 40,
+        "Threshold": 9300
+    },
+    {
+        "DnaId": "8bfb2ca2-6b0e-4ab7-a39d-b6e9acb1f063",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 41,
+        "Threshold": 9600
+    },
+    {
+        "DnaId": "52658b0d-b83d-498c-a814-952e17237186",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 42,
+        "Threshold": 9900
+    },
+    {
+        "DnaId": "4f5ec3ca-c11f-4380-8f4b-9e0bd7042ac0",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 43,
+        "Threshold": 10200
+    },
+    {
+        "DnaId": "68b18353-ace2-490a-972e-afa912bbbef5",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 44,
+        "Threshold": 10500
+    },
+    {
+        "DnaId": "9672a275-1711-489b-8cc6-4088a115b266",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 45,
+        "Threshold": 10800
+    },
+    {
+        "DnaId": "5c583a9c-e573-4c64-9611-db3a8805cc23",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 46,
+        "Threshold": 11100
+    },
+    {
+        "DnaId": "5817e86a-d2b4-481e-bdee-b08a9cb5296a",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 47,
+        "Threshold": 11400
+    },
+    {
+        "DnaId": "cc40f07f-fe80-4f48-986a-d5b0b3a8637d",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 48,
+        "Threshold": 11700
+    },
+    {
+        "DnaId": "148ac63b-1f36-40cc-acb6-12e7c7c74acb",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 49,
+        "Threshold": 12000
+    },
+    {
+        "DnaId": "a2f7963e-d2da-49b2-84ca-93a02750cded",
+        "LegendPathType": "LEGEND_PATH_FOUNDATION",
+        "Level": 50,
+        "Threshold": 12300
+    },
+    {
+        "DnaId": "dc155628-187e-47d6-a61b-a5aeb08b986a",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "1d38f860-40f1-4459-9507-485914d9f6db",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "2a54f5b6-33b6-4efb-80cf-85a10da2d215",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "08ae89fc-b11b-4ba9-a384-9e7881d753d7",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "716a9d41-3317-419e-bb9a-a3e154c3a41d",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "c1bb4597-0106-45d4-ae7b-260a3c0a4272",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "7dc24be9-68e0-4fa2-9fea-541b9196c433",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "71b4567e-1892-4dc5-a359-190cc9ae314f",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "e45a7433-b4de-419b-b019-39d4086abb32",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "f8472d53-89eb-4605-be48-4d7325fb4c6d",
+        "LegendPathType": "LEGEND_PATH_HARRIET_TUBMAN",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "b80511f2-1b41-41ae-8673-5dc457aec9f7",
+        "LegendPathType": "LEGEND_PATH_HARRIET_TUBMAN",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "de32fadc-135f-46a6-bd42-f94170250844",
+        "LegendPathType": "LEGEND_PATH_HARRIET_TUBMAN",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "eade2f81-d3ed-4534-8328-0de6f03a4180",
+        "LegendPathType": "LEGEND_PATH_HARRIET_TUBMAN",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "f546510a-1a52-47f8-a209-3d052dcceb10",
+        "LegendPathType": "LEGEND_PATH_HARRIET_TUBMAN",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "8f243eb8-8634-40bb-86f5-e5aa00bd37a6",
+        "LegendPathType": "LEGEND_PATH_HARRIET_TUBMAN",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "9f0baf7d-b328-415e-8f61-5d3e05fa3b5c",
+        "LegendPathType": "LEGEND_PATH_HARRIET_TUBMAN",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "4fb249ac-93c1-44c6-9428-e9994c022dce",
+        "LegendPathType": "LEGEND_PATH_HARRIET_TUBMAN",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "291428bf-d45b-4577-9965-41baa606cee0",
+        "LegendPathType": "LEGEND_PATH_HARRIET_TUBMAN",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "2f9c4c11-3dae-46ef-b559-28b5da739d65",
+        "LegendPathType": "LEGEND_PATH_HATSHEPSUT",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "8dbcb00f-251a-44c9-bd12-1c379c39d277",
+        "LegendPathType": "LEGEND_PATH_HATSHEPSUT",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "5d178fd5-012d-486e-b63a-57d5c32b3228",
+        "LegendPathType": "LEGEND_PATH_HATSHEPSUT",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "dcd584e2-61ce-45a0-9aac-c301f130a575",
+        "LegendPathType": "LEGEND_PATH_HATSHEPSUT",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "689275c5-aa4c-4ad3-9f64-050a041ab976",
+        "LegendPathType": "LEGEND_PATH_HATSHEPSUT",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "d1618528-3dc9-46db-98d3-0267eb6e1a59",
+        "LegendPathType": "LEGEND_PATH_HATSHEPSUT",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "e5fa4762-b2c4-4155-836a-443d2d70dbb0",
+        "LegendPathType": "LEGEND_PATH_HATSHEPSUT",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "0e7a3cd5-6db2-4b5e-820c-3ec20c37a77b",
+        "LegendPathType": "LEGEND_PATH_HATSHEPSUT",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "755fab96-6686-47b2-b93f-9ed33e14c333",
+        "LegendPathType": "LEGEND_PATH_HATSHEPSUT",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "0079df93-11ac-4334-bb1b-96f83d8f979c",
+        "LegendPathType": "LEGEND_PATH_HIMIKO",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "d5cabb35-b38d-4458-8ea0-96bc9b6932bf",
+        "LegendPathType": "LEGEND_PATH_HIMIKO",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "7eb9c6e0-0d0a-4eb0-976c-4c4355a3afee",
+        "LegendPathType": "LEGEND_PATH_HIMIKO",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "d6cf31e9-7b1d-4d90-844e-feaae8bbbd70",
+        "LegendPathType": "LEGEND_PATH_HIMIKO",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "f5022301-eff3-4c47-a9c2-b1eb30e2e104",
+        "LegendPathType": "LEGEND_PATH_HIMIKO",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "d87c4a19-242b-4bbf-a84f-ed003e496f2b",
+        "LegendPathType": "LEGEND_PATH_HIMIKO",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "42c19345-eb47-45ff-bafa-749b87a03367",
+        "LegendPathType": "LEGEND_PATH_HIMIKO",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "f9ddf710-9645-4253-bb4b-e78649fc00e5",
+        "LegendPathType": "LEGEND_PATH_HIMIKO",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "076ca538-3e05-41e9-b4ff-8a30cfc6e949",
+        "LegendPathType": "LEGEND_PATH_HIMIKO",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "96a843df-0d0a-4fa8-b953-a1e5e235a3f4",
+        "LegendPathType": "LEGEND_PATH_IBN_BATTUTA",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "e5998dbc-a40c-4249-8fd0-b34e777f5ac9",
+        "LegendPathType": "LEGEND_PATH_IBN_BATTUTA",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "2a7d2f5d-a9a1-4393-933f-1176a0b19bf8",
+        "LegendPathType": "LEGEND_PATH_IBN_BATTUTA",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "36977715-f92a-4e37-87d6-c1bb26efd708",
+        "LegendPathType": "LEGEND_PATH_IBN_BATTUTA",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "c03ac6f5-39b5-4ba7-91cb-3437722d53de",
+        "LegendPathType": "LEGEND_PATH_IBN_BATTUTA",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "ffb7d0c4-1e36-4f3e-ac74-38433604f2bd",
+        "LegendPathType": "LEGEND_PATH_IBN_BATTUTA",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "f8a2b9c1-ad7c-4e6c-aa09-de2af8a0c3bb",
+        "LegendPathType": "LEGEND_PATH_IBN_BATTUTA",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "e231b925-444e-47c1-aba3-af4dfd8d79aa",
+        "LegendPathType": "LEGEND_PATH_IBN_BATTUTA",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "89e5bfdc-5c5e-4723-80da-ae0e92afb85c",
+        "LegendPathType": "LEGEND_PATH_IBN_BATTUTA",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "26d21ce4-7baa-4e62-bb1b-4c379928137f",
+        "LegendPathType": "LEGEND_PATH_ISABELLA",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "fc60a816-ca9d-4bb0-98d6-6c8fd1a736a7",
+        "LegendPathType": "LEGEND_PATH_ISABELLA",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "0875de4f-ef13-447d-8c2c-05999732e274",
+        "LegendPathType": "LEGEND_PATH_ISABELLA",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "93381359-92cd-4f68-a792-c53a223ca50d",
+        "LegendPathType": "LEGEND_PATH_ISABELLA",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "668d2718-0591-45b0-ad50-7d00af519a5e",
+        "LegendPathType": "LEGEND_PATH_ISABELLA",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "11a30893-bbfb-41b6-bb79-9001f189c631",
+        "LegendPathType": "LEGEND_PATH_ISABELLA",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "07f35b2c-dab2-4f35-aa67-604816140fe5",
+        "LegendPathType": "LEGEND_PATH_ISABELLA",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "21933709-fc48-43aa-8c18-c881533a60a2",
+        "LegendPathType": "LEGEND_PATH_ISABELLA",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "9bc97e03-7b56-4ca8-b062-277bd2ee97fd",
+        "LegendPathType": "LEGEND_PATH_ISABELLA",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "2089a6ba-76e8-47d9-95d0-32f4fe93abaa",
+        "LegendPathType": "LEGEND_PATH_JOSE_RIZAL",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "a026af4a-06fc-407f-b92f-5f7c33b8923f",
+        "LegendPathType": "LEGEND_PATH_JOSE_RIZAL",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "6fef7ec7-14d3-4be2-b9cd-500f02db9a5a",
+        "LegendPathType": "LEGEND_PATH_JOSE_RIZAL",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "f2a4c727-9a65-4963-8dc7-622f5b3c22a9",
+        "LegendPathType": "LEGEND_PATH_JOSE_RIZAL",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "7af77bab-87ad-4915-b644-d4c761aecd16",
+        "LegendPathType": "LEGEND_PATH_JOSE_RIZAL",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "40641b8a-8242-4611-be91-0f749bae8bc8",
+        "LegendPathType": "LEGEND_PATH_JOSE_RIZAL",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "a271c128-ebe3-4132-9aee-f498c3811a0d",
+        "LegendPathType": "LEGEND_PATH_JOSE_RIZAL",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "d54f5edd-8202-4748-b866-5fad7fd3bfb5",
+        "LegendPathType": "LEGEND_PATH_JOSE_RIZAL",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "cd4b765e-abe0-4252-a45f-377acddf5e4f",
+        "LegendPathType": "LEGEND_PATH_JOSE_RIZAL",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "45a41da9-2a2e-4df9-bafe-831b222238eb",
+        "LegendPathType": "LEGEND_PATH_LAFAYETTE",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "f84d5544-0292-4699-b8b7-b355c383eae2",
+        "LegendPathType": "LEGEND_PATH_LAFAYETTE",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "540d82b2-8cf5-4196-ba79-3a48632949be",
+        "LegendPathType": "LEGEND_PATH_LAFAYETTE",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "5e9659e3-4206-4b34-b856-050e3e6ff178",
+        "LegendPathType": "LEGEND_PATH_LAFAYETTE",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "f9260d73-68e1-4ab0-95f2-c4f2c832f507",
+        "LegendPathType": "LEGEND_PATH_LAFAYETTE",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "bc6dd716-7ff9-4392-9ab7-1797ac546822",
+        "LegendPathType": "LEGEND_PATH_LAFAYETTE",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "6b6b20bc-7e63-439b-b015-80bf16556bf8",
+        "LegendPathType": "LEGEND_PATH_LAFAYETTE",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "21253ba7-f0fe-4fcb-94c1-0f06cca87597",
+        "LegendPathType": "LEGEND_PATH_LAFAYETTE",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "63d928c7-eac9-421b-9047-4b9dbc49ee6c",
+        "LegendPathType": "LEGEND_PATH_LAFAYETTE",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "2eb47e6b-f8db-41b2-ab72-9c7da8b351b4",
+        "LegendPathType": "LEGEND_PATH_MACHIAVELLI",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "d3e61a0a-493f-4488-add1-4f667e62ba70",
+        "LegendPathType": "LEGEND_PATH_MACHIAVELLI",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "787d578d-b124-42c7-aec0-c594d2b559c4",
+        "LegendPathType": "LEGEND_PATH_MACHIAVELLI",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "325d5519-f4d0-4dc7-bb70-3bce25a3eb62",
+        "LegendPathType": "LEGEND_PATH_MACHIAVELLI",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "ebe5f474-9a85-495f-b7b6-71030aa1ed31",
+        "LegendPathType": "LEGEND_PATH_MACHIAVELLI",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "2659b939-e4a3-4a01-8eb5-2dcfe2846189",
+        "LegendPathType": "LEGEND_PATH_MACHIAVELLI",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "dc2c83b1-86b8-41d4-bdbf-802dd9ab933a",
+        "LegendPathType": "LEGEND_PATH_MACHIAVELLI",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "1d62dd06-2924-4afe-b22f-8993ed3ab2b5",
+        "LegendPathType": "LEGEND_PATH_MACHIAVELLI",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "9aae32b6-4a14-4252-83f3-1f194fc3a0b4",
+        "LegendPathType": "LEGEND_PATH_MACHIAVELLI",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "1fb17b0e-7ac5-400a-af97-9efa6107bd83",
+        "LegendPathType": "LEGEND_PATH_PACHACUTI",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "100bc8e8-8ae8-475d-ab14-6dc933c2a2d3",
+        "LegendPathType": "LEGEND_PATH_PACHACUTI",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "ea295448-8c5e-4ea4-89ca-01ddd8d15b19",
+        "LegendPathType": "LEGEND_PATH_PACHACUTI",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "858b60ff-0fe7-4043-a0bc-f9079f6e8ae9",
+        "LegendPathType": "LEGEND_PATH_PACHACUTI",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "67a5c9ae-f10d-4f30-acc7-a470168978d2",
+        "LegendPathType": "LEGEND_PATH_PACHACUTI",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "f3903dc8-0bfd-4ed7-9b00-beb7420c0195",
+        "LegendPathType": "LEGEND_PATH_PACHACUTI",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "eadb49a2-870e-44fd-9a04-bfa10688f257",
+        "LegendPathType": "LEGEND_PATH_PACHACUTI",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "115410cb-a991-4488-8589-299d977d3499",
+        "LegendPathType": "LEGEND_PATH_PACHACUTI",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "784861c0-4983-484a-9e8a-2a7cd777ad94",
+        "LegendPathType": "LEGEND_PATH_PACHACUTI",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "d7cbbb56-274e-4cfd-a5ac-fc77d5168d15",
+        "LegendPathType": "LEGEND_PATH_TRUNG_TRAC",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "f116753b-cd2d-47c7-90ca-a5b427c75a71",
+        "LegendPathType": "LEGEND_PATH_TRUNG_TRAC",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "aa42db81-3531-4d88-8a24-21e07e92e926",
+        "LegendPathType": "LEGEND_PATH_TRUNG_TRAC",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "e6ac9248-66cc-4b9e-bbb7-2b24b09f5349",
+        "LegendPathType": "LEGEND_PATH_TRUNG_TRAC",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "06e869f0-dfd0-4732-9aa2-fc5848a4a2e5",
+        "LegendPathType": "LEGEND_PATH_TRUNG_TRAC",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "18244f11-d36f-4dc6-9c6e-05a51b11a61e",
+        "LegendPathType": "LEGEND_PATH_TRUNG_TRAC",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "6a8d2ea9-e17a-4fd4-b4b3-391cfb2cbad8",
+        "LegendPathType": "LEGEND_PATH_TRUNG_TRAC",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "8fc53f9b-dd78-4ec7-9bdf-5bd6d19b5f4f",
+        "LegendPathType": "LEGEND_PATH_TRUNG_TRAC",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "613678b3-437d-4c77-ada5-c3dd20a8fb15",
+        "LegendPathType": "LEGEND_PATH_TRUNG_TRAC",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "190a3190-282d-42ef-9606-5301a602b7a2",
+        "LegendPathType": "LEGEND_PATH_XERXES",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "245cb3a6-3bc2-4740-8b75-e30d65194986",
+        "LegendPathType": "LEGEND_PATH_XERXES",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "ddf5403c-5ca2-449b-a850-6857492dcf5a",
+        "LegendPathType": "LEGEND_PATH_XERXES",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "fd659d62-a5d4-4bd3-b282-05a00a8f48fc",
+        "LegendPathType": "LEGEND_PATH_XERXES",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "54092813-2006-4f63-a063-81b4b181d411",
+        "LegendPathType": "LEGEND_PATH_XERXES",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "b3c9b4a2-68a3-44a7-b38a-f2b8f5127f12",
+        "LegendPathType": "LEGEND_PATH_XERXES",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "1f4a4d97-4358-4ca4-90c9-031e97ba4c47",
+        "LegendPathType": "LEGEND_PATH_XERXES",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "0523f71c-603a-4a9e-a2b0-5548a593d12c",
+        "LegendPathType": "LEGEND_PATH_XERXES",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "d5b6f0da-972b-49b9-ad48-a39007698699",
+        "LegendPathType": "LEGEND_PATH_XERXES",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "763c25f6-e8f4-4412-b8ce-5a23c878e398",
+        "LegendPathType": "LEGEND_PATH_ADA_LOVELACE",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "726e8f24-f4a0-4a6e-8309-fdcbd92841a9",
+        "LegendPathType": "LEGEND_PATH_ADA_LOVELACE",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "5d628c8f-c8a2-40f2-ae55-02f8f497a454",
+        "LegendPathType": "LEGEND_PATH_ADA_LOVELACE",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "5a5f24a0-c6c2-4c6d-a394-872737f1d82b",
+        "LegendPathType": "LEGEND_PATH_ADA_LOVELACE",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "8642d749-9478-4da4-936c-23b544553a7d",
+        "LegendPathType": "LEGEND_PATH_ADA_LOVELACE",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "a1ed4f8b-1bdf-4d10-9e63-b1a130531bee",
+        "LegendPathType": "LEGEND_PATH_ADA_LOVELACE",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "f7012bd7-dfba-49f0-a189-f8e4d25bbcee",
+        "LegendPathType": "LEGEND_PATH_ADA_LOVELACE",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "79373ffe-2123-4b2a-a743-6c27762af908",
+        "LegendPathType": "LEGEND_PATH_ADA_LOVELACE",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "fa6111c6-f1cb-4f01-897d-ef29de3596be",
+        "LegendPathType": "LEGEND_PATH_ADA_LOVELACE",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "3f7ad18d-e607-46d2-82d3-747ef899b658",
+        "LegendPathType": "LEGEND_PATH_ASHOKA_ALT",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "9a983603-67e3-45c4-bc35-f7ac229a270e",
+        "LegendPathType": "LEGEND_PATH_ASHOKA_ALT",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "009f5e31-a982-4a25-8355-fafa808a5953",
+        "LegendPathType": "LEGEND_PATH_ASHOKA_ALT",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "d359f439-edbe-4efd-8f49-2a950910fd67",
+        "LegendPathType": "LEGEND_PATH_ASHOKA_ALT",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "2de8709a-a2fd-49ab-b9e5-e547571d0629",
+        "LegendPathType": "LEGEND_PATH_ASHOKA_ALT",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "b7dee148-fe9d-4504-a5a9-c11bfcc04f55",
+        "LegendPathType": "LEGEND_PATH_ASHOKA_ALT",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "0f45da1d-d1f4-4a25-9879-a602611c54cb",
+        "LegendPathType": "LEGEND_PATH_ASHOKA_ALT",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "d96d5c53-9614-4c63-9780-d716dd6e70c3",
+        "LegendPathType": "LEGEND_PATH_ASHOKA_ALT",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "5dd3ae13-259e-474c-8165-80049b1af79f",
+        "LegendPathType": "LEGEND_PATH_ASHOKA_ALT",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "98e5aaff-4bc2-48c2-98c7-b60afafa8e8c",
+        "LegendPathType": "LEGEND_PATH_HIMIKO_ALT",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "8f3a4011-cf6f-42ed-9634-2a75bef9ce3f",
+        "LegendPathType": "LEGEND_PATH_HIMIKO_ALT",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "c87e025f-6904-48b7-9c67-c12f4399a7f6",
+        "LegendPathType": "LEGEND_PATH_HIMIKO_ALT",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "32d2442b-dd5e-4d35-ba7c-d69be6548d15",
+        "LegendPathType": "LEGEND_PATH_HIMIKO_ALT",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "595ad1f8-a592-40cf-97ec-5362b832de90",
+        "LegendPathType": "LEGEND_PATH_HIMIKO_ALT",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "2be88315-4719-4e22-9f32-14f4f216ba8f",
+        "LegendPathType": "LEGEND_PATH_HIMIKO_ALT",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "fe5303ed-7acb-4162-8d4f-8f49edaf3fc5",
+        "LegendPathType": "LEGEND_PATH_HIMIKO_ALT",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "6db1a641-0723-4c04-865f-321fc49ef75f",
+        "LegendPathType": "LEGEND_PATH_HIMIKO_ALT",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "3576df21-4601-4615-8922-8741a9e6a244",
+        "LegendPathType": "LEGEND_PATH_HIMIKO_ALT",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "6313fbfd-fca9-4d2f-8965-37f5289a02eb",
+        "LegendPathType": "LEGEND_PATH_BOLIVAR",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "825dba98-71f8-4c48-b538-b5389e5c0773",
+        "LegendPathType": "LEGEND_PATH_BOLIVAR",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "d2eb847e-d794-4a53-8ec3-dfd943aede24",
+        "LegendPathType": "LEGEND_PATH_BOLIVAR",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "218fa22f-0256-4073-960b-cae3a8394346",
+        "LegendPathType": "LEGEND_PATH_BOLIVAR",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "f2fa8942-ceab-4513-b959-3cb4b1bea048",
+        "LegendPathType": "LEGEND_PATH_BOLIVAR",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "e40abaa2-862b-4df0-a1db-1b700aa3bf4e",
+        "LegendPathType": "LEGEND_PATH_BOLIVAR",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "b31245d5-7732-445d-a5a8-6f3a32801e82",
+        "LegendPathType": "LEGEND_PATH_BOLIVAR",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "274b9451-0b04-4bc9-807c-e4e8b8a8a76d",
+        "LegendPathType": "LEGEND_PATH_BOLIVAR",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "0bbe0f18-645c-4dc4-83e8-d2eac30b1574",
+        "LegendPathType": "LEGEND_PATH_BOLIVAR",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "ed1956de-5996-4e5b-b8d3-c2ce2ab104bd",
+        "LegendPathType": "LEGEND_PATH_EDWARD_TEACH",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "06a09cbd-7c8e-4669-93b7-864e907dbef5",
+        "LegendPathType": "LEGEND_PATH_EDWARD_TEACH",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "17012060-e730-4b52-838e-0a45a49f3dfc",
+        "LegendPathType": "LEGEND_PATH_EDWARD_TEACH",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "5640fbd5-cc9c-4b55-97a4-8e3f2a73b047",
+        "LegendPathType": "LEGEND_PATH_EDWARD_TEACH",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "1b232492-413e-467b-89fd-b673361c2f40",
+        "LegendPathType": "LEGEND_PATH_EDWARD_TEACH",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "73a60899-cdea-4961-a510-e1ce90f2857d",
+        "LegendPathType": "LEGEND_PATH_EDWARD_TEACH",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "a940f6b1-2af8-4532-8f4f-c78b1bc5d513",
+        "LegendPathType": "LEGEND_PATH_EDWARD_TEACH",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "ca3281e7-fb86-4f8a-ad6e-688f7510a040",
+        "LegendPathType": "LEGEND_PATH_EDWARD_TEACH",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "e5248c09-f00d-4a54-ac25-ff95de7558d9",
+        "LegendPathType": "LEGEND_PATH_EDWARD_TEACH",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "4277f935-1e14-4044-bac8-2c13bacebc27",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH_ALT",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "69b484cd-6872-4601-80ae-39e32abc371b",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH_ALT",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "34191def-3c36-408f-b230-c0a98780f738",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH_ALT",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "e5a75b60-feb7-4e1c-8bb4-253ee9adbc84",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH_ALT",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "60fae5a5-62eb-4932-b586-622e34a2ae04",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH_ALT",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "948a6b76-c609-44ca-a2ef-38b5cadf458f",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH_ALT",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "a35a42e8-aca9-4bae-b00c-9709b5f34ebc",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH_ALT",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "859b4b3b-a3fd-434b-909a-9268beb0b4a9",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH_ALT",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "43fa1cb4-ae78-4940-b9e9-211b9dee7732",
+        "LegendPathType": "LEGEND_PATH_FRIEDRICH_ALT",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "a9bd10ce-64fd-4392-9797-e6db18bbf230",
+        "LegendPathType": "LEGEND_PATH_XERXES_ALT",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "73edee0a-5c20-45f3-8630-d601565affeb",
+        "LegendPathType": "LEGEND_PATH_XERXES_ALT",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "0a2befcd-9c74-414f-8dfd-1246d682ad38",
+        "LegendPathType": "LEGEND_PATH_XERXES_ALT",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "2cbae3ba-666d-47ea-8011-0ff02f0c300d",
+        "LegendPathType": "LEGEND_PATH_XERXES_ALT",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "a8a96419-4a02-4f96-b352-0c2e996eeb40",
+        "LegendPathType": "LEGEND_PATH_XERXES_ALT",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "0029c9b4-c06b-4cfe-87d3-f50be86faf7c",
+        "LegendPathType": "LEGEND_PATH_XERXES_ALT",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "c391a64e-e0c9-4946-bb8f-af4c259f75ae",
+        "LegendPathType": "LEGEND_PATH_XERXES_ALT",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "00faa9fa-c0fe-4dcd-b5eb-42e6e3d46dfe",
+        "LegendPathType": "LEGEND_PATH_XERXES_ALT",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "4df62c75-0b59-4b24-b1fb-a2bee12446f6",
+        "LegendPathType": "LEGEND_PATH_XERXES_ALT",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "f6865976-0334-4712-8b1e-c0c08fb86824",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "5e8680a9-ebe1-4c24-a008-e152b262682e",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "f53f34ce-e17c-425d-bb5b-7c15d35f974c",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "2a5fe500-7977-4787-b379-5287017fccc0",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "6395ceb4-9e8d-4ea2-bed9-46e7a8ca2b7e",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "c76857fd-33db-4df0-aad5-490b05cb7c19",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "da2a9dc8-9b0c-4aaa-b5e1-f53b81f36cc6",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "31ba3950-594f-44ca-955a-41e2c93ae4e8",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "a8728a03-b3dc-40fd-b3ef-05bf38b3522c",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "574e64fd-49d9-422f-8e20-e75dfca1c8d7",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON_ALT",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "3f97d9d7-4f88-4425-9d66-a33df86d630e",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON_ALT",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "196a7c3d-6a08-4844-b4d8-c26de9ba0f06",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON_ALT",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "85783d2f-abce-4f17-a14e-11084169fe63",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON_ALT",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "9a7c3a0c-ea18-4691-bf39-b80606648886",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON_ALT",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "9b290b91-2f4e-4a75-855c-80b4e4c87e41",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON_ALT",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "281809b6-2cbe-4e2c-8b27-1173f50a7cff",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON_ALT",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "29c53aa8-90f9-4529-a5c5-6f09f582352a",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON_ALT",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "900ef954-6af2-4d2a-b6f3-409fdeb5199a",
+        "LegendPathType": "LEGEND_PATH_NAPOLEON_ALT",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "1a5ad5d2-241b-4820-8623-1579843a9e5c",
+        "LegendPathType": "LEGEND_PATH_SAYYIDA_AL_HURRA",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "cf800ff5-6fdd-4fe5-9c9a-89e75c73e9b9",
+        "LegendPathType": "LEGEND_PATH_SAYYIDA_AL_HURRA",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "af50c66f-1461-4683-97e3-5128a5c20190",
+        "LegendPathType": "LEGEND_PATH_SAYYIDA_AL_HURRA",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "5d36601a-6622-4765-ac6f-ba914072aa07",
+        "LegendPathType": "LEGEND_PATH_SAYYIDA_AL_HURRA",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "7d458c84-36d7-494d-81b1-2bc80c271b55",
+        "LegendPathType": "LEGEND_PATH_SAYYIDA_AL_HURRA",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "d763d53c-d4b5-4f8e-964e-8e15cc258063",
+        "LegendPathType": "LEGEND_PATH_SAYYIDA_AL_HURRA",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "c8d5b735-c407-4302-b533-7d5a7a0ed3a0",
+        "LegendPathType": "LEGEND_PATH_SAYYIDA_AL_HURRA",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "64819c75-4388-4d13-a5ea-b9cae65fb9e0",
+        "LegendPathType": "LEGEND_PATH_SAYYIDA_AL_HURRA",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "8ffe2d82-1921-4ba2-9db6-689b76cd8b06",
+        "LegendPathType": "LEGEND_PATH_SAYYIDA_AL_HURRA",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "b2a9eb50-efe4-4904-9fcf-05e5b53ff6f7",
+        "LegendPathType": "LEGEND_PATH_TECUMSEH",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "5b44955e-a219-4a9a-971f-f58f852bfb1a",
+        "LegendPathType": "LEGEND_PATH_TECUMSEH",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "5c2381e1-bc8a-4977-b061-dd593799f5c2",
+        "LegendPathType": "LEGEND_PATH_TECUMSEH",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "7a84b8a1-c420-4f2d-a2dc-4aecfdeeafec",
+        "LegendPathType": "LEGEND_PATH_TECUMSEH",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "427d0d06-9868-417b-8e9d-df7aac3a8f7e",
+        "LegendPathType": "LEGEND_PATH_TECUMSEH",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "518a96ff-f602-4124-85ff-8db2e6badebf",
+        "LegendPathType": "LEGEND_PATH_TECUMSEH",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "e98ab5ae-3984-4413-8052-478f6360fd9d",
+        "LegendPathType": "LEGEND_PATH_TECUMSEH",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "3c2e4d0e-9a92-40d4-a7af-1752dabb6b5d",
+        "LegendPathType": "LEGEND_PATH_TECUMSEH",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "93b69f11-cb95-480f-8ead-c7e2feac05d6",
+        "LegendPathType": "LEGEND_PATH_TECUMSEH",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "d974dec0-1e5d-4a51-ae88-d12944bc1603",
+        "LegendPathType": "LEGEND_PATH_GENGHIS_KHAN",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "399cd61a-55fe-4221-85fd-d5a9ebbd036a",
+        "LegendPathType": "LEGEND_PATH_GENGHIS_KHAN",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "e5abe87d-ae60-4921-bc60-180dfc64df19",
+        "LegendPathType": "LEGEND_PATH_GENGHIS_KHAN",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "bc6a6a6b-5729-409d-b593-92e1d94fbd44",
+        "LegendPathType": "LEGEND_PATH_GENGHIS_KHAN",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "341a9dca-54ad-42c7-acfa-cf49216de83d",
+        "LegendPathType": "LEGEND_PATH_GENGHIS_KHAN",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "cf93aedd-cd82-44ef-af08-b4dc67be3e8a",
+        "LegendPathType": "LEGEND_PATH_GENGHIS_KHAN",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "5eed6836-b8a8-499a-a209-ee23d96c4460",
+        "LegendPathType": "LEGEND_PATH_GENGHIS_KHAN",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "e33787ef-ff79-4afc-8576-d97ebc9f0ad1",
+        "LegendPathType": "LEGEND_PATH_GENGHIS_KHAN",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "2b8ccd21-1202-4342-acd2-ac3a0e377dbf",
+        "LegendPathType": "LEGEND_PATH_GENGHIS_KHAN",
+        "Level": 10,
+        "Threshold": 1300
+    },
+    {
+        "DnaId": "72fb9020-4e2a-4086-9972-64404db96e85",
+        "LegendPathType": "LEGEND_PATH_LAKSHMIBAI",
+        "Level": 2,
+        "Threshold": 100
+    },
+    {
+        "DnaId": "79059fca-9525-4fcf-818f-f6c2e63d4af9",
+        "LegendPathType": "LEGEND_PATH_LAKSHMIBAI",
+        "Level": 3,
+        "Threshold": 250
+    },
+    {
+        "DnaId": "f93a8437-7dc4-40f0-9fbd-8faf67ab8da4",
+        "LegendPathType": "LEGEND_PATH_LAKSHMIBAI",
+        "Level": 4,
+        "Threshold": 400
+    },
+    {
+        "DnaId": "ba02b4b3-4c06-4112-bc0f-fb79675b11fa",
+        "LegendPathType": "LEGEND_PATH_LAKSHMIBAI",
+        "Level": 5,
+        "Threshold": 550
+    },
+    {
+        "DnaId": "1110102a-cb37-4237-920c-e2596a1c3d9b",
+        "LegendPathType": "LEGEND_PATH_LAKSHMIBAI",
+        "Level": 6,
+        "Threshold": 700
+    },
+    {
+        "DnaId": "f9851f4f-974e-419a-9dbc-a598b680575d",
+        "LegendPathType": "LEGEND_PATH_LAKSHMIBAI",
+        "Level": 7,
+        "Threshold": 850
+    },
+    {
+        "DnaId": "309df464-00cf-4f77-bc27-429ee070a71d",
+        "LegendPathType": "LEGEND_PATH_LAKSHMIBAI",
+        "Level": 8,
+        "Threshold": 1000
+    },
+    {
+        "DnaId": "dfc7a00d-8ac6-4c80-965e-b6b5e66eb955",
+        "LegendPathType": "LEGEND_PATH_LAKSHMIBAI",
+        "Level": 9,
+        "Threshold": 1150
+    },
+    {
+        "DnaId": "d5adbc40-6c77-4530-adf0-c67a2ee592ba",
+        "LegendPathType": "LEGEND_PATH_LAKSHMIBAI",
+        "Level": 10,
+        "Threshold": 1300
+    }
+]

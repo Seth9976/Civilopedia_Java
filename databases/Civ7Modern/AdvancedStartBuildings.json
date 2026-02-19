@@ -1,0 +1,236 @@
+[
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_SAW_PIT",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_STONECUTTER",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_UNIVERSITY",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_PAVILION",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_SAWMILL",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_GRISTMILL",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_SHIPYARD",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_WHARF",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_TEMPLE",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_BANK",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_BAZAAR",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_OBSERVATORY",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_MENAGERIE",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_HOSPITAL",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 1
+    },
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_SAW_PIT",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_STONECUTTER",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_UNIVERSITY",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_PAVILION",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_SAWMILL",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_GRISTMILL",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_SHIPYARD",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_WHARF",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_TEMPLE",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_BANK",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_BAZAAR",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_OBSERVATORY",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_MENAGERIE",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_HOSPITAL",
+        "MinimumAdjacency": 0,
+        "Placement": "AVOID_STACKING",
+        "TownID": 2
+    },
+    {
+        "ConstructibleType": "BUILDING_STONECUTTER",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 3
+    },
+    {
+        "ConstructibleType": "BUILDING_GRANARY",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 3
+    },
+    {
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 3
+    },
+    {
+        "ConstructibleType": "BUILDING_SAWMILL",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 3
+    },
+    {
+        "ConstructibleType": "BUILDING_GRISTMILL",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 3
+    },
+    {
+        "ConstructibleType": "BUILDING_SAW_PIT",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 3
+    },
+    {
+        "ConstructibleType": "BUILDING_BRICKYARD",
+        "MinimumAdjacency": 0,
+        "Placement": "PREFERS_STACKED",
+        "TownID": 3
+    }
+]

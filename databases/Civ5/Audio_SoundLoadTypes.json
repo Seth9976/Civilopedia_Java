@@ -1,0 +1,18 @@
+[
+    {
+        "SoundLoadType": "None",
+        "Value": -1
+    },
+    {
+        "SoundLoadType": "Resident",
+        "Value": 0
+    },
+    {
+        "SoundLoadType": "DynamicResident",
+        "Value": 1
+    },
+    {
+        "SoundLoadType": "Streamed",
+        "Value": 2
+    }
+]

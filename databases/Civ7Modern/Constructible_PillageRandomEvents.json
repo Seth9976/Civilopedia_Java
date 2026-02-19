@@ -1,0 +1,17 @@
+[
+    {
+        "ConstructibleType": "BUILDING_ANCIENT_BRIDGE",
+        "EventClass": "CLASS_FLOOD",
+        "PercentChance": 100
+    },
+    {
+        "ConstructibleType": "BUILDING_HARBOR",
+        "EventClass": "CLASS_GOLD",
+        "PercentChance": 50
+    },
+    {
+        "ConstructibleType": "BUILDING_MODERN_BRIDGE",
+        "EventClass": "CLASS_FLOOD",
+        "PercentChance": 0
+    }
+]

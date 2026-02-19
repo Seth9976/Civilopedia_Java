@@ -1,0 +1,77 @@
+[
+    {
+        "Definition": null,
+        "KindOf": "Class",
+        "Type": "DynamicAdjacencyBonus"
+    },
+    {
+        "Definition": null,
+        "KindOf": "Enum",
+        "Type": "PlayerTypes"
+    },
+    {
+        "Definition": null,
+        "KindOf": "Enum",
+        "Type": "DirectionTypes"
+    },
+    {
+        "Definition": "Biomes",
+        "KindOf": "Enum",
+        "Type": "BiomeTypes"
+    },
+    {
+        "Definition": "Civilizations",
+        "KindOf": "Enum",
+        "Type": "CivilizationTypes"
+    },
+    {
+        "Definition": "Constructibles",
+        "KindOf": "Enum",
+        "Type": "ConstructibleTypes"
+    },
+    {
+        "Definition": "Continents",
+        "KindOf": "Enum",
+        "Type": "ContinentTypes"
+    },
+    {
+        "Definition": "Ages",
+        "KindOf": "Enum",
+        "Type": "AgeTypes"
+    },
+    {
+        "Definition": "Features",
+        "KindOf": "Enum",
+        "Type": "FeatureTypes"
+    },
+    {
+        "Definition": "Leaders",
+        "KindOf": "Enum",
+        "Type": "LeaderTypes"
+    },
+    {
+        "Definition": "ProgressionTrees",
+        "KindOf": "Enum",
+        "Type": "ProgressionTreeTypes"
+    },
+    {
+        "Definition": "Resources",
+        "KindOf": "Enum",
+        "Type": "ResourceTypes"
+    },
+    {
+        "Definition": "Terrains",
+        "KindOf": "Enum",
+        "Type": "TerrainTypes"
+    },
+    {
+        "Definition": "Units",
+        "KindOf": "Enum",
+        "Type": "UnitTypes"
+    },
+    {
+        "Definition": "Yields",
+        "KindOf": "Enum",
+        "Type": "YieldTypes"
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "CapitalName": "LOC_CITY_NAME_WASHINGTON",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "LeaderType": "LEADER_T_ROOSEVELT"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_CAIRO",
+        "CivilizationType": "CIVILIZATION_ARABIA",
+        "LeaderType": "LEADER_SALADIN"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_RIO_DE_JANEIRO",
+        "CivilizationType": "CIVILIZATION_BRAZIL",
+        "LeaderType": "LEADER_PEDRO"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_XIAN",
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "LeaderType": "LEADER_QIN"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_RA_KEDET",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "LeaderType": "LEADER_CLEOPATRA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_LONDON",
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "LeaderType": "LEADER_VICTORIA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_PARIS",
+        "CivilizationType": "CIVILIZATION_FRANCE",
+        "LeaderType": "LEADER_CATHERINE_DE_MEDICI"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_AACHEN",
+        "CivilizationType": "CIVILIZATION_GERMANY",
+        "LeaderType": "LEADER_BARBAROSSA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_SPARTA",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "LeaderType": "LEADER_GORGO"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_ATHENS",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "LeaderType": "LEADER_PERICLES"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_DELHI",
+        "CivilizationType": "CIVILIZATION_INDIA",
+        "LeaderType": "LEADER_GANDHI"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_KYOTO",
+        "CivilizationType": "CIVILIZATION_JAPAN",
+        "LeaderType": "LEADER_HOJO"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_MBANZA_KONGO",
+        "CivilizationType": "CIVILIZATION_KONGO",
+        "LeaderType": "LEADER_MVEMBA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_NIDAROS",
+        "CivilizationType": "CIVILIZATION_NORWAY",
+        "LeaderType": "LEADER_HARDRADA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_ROME",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "LeaderType": "LEADER_TRAJAN"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_ST_PETERSBURG",
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "LeaderType": "LEADER_PETER_GREAT"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_POKROVKA",
+        "CivilizationType": "CIVILIZATION_SCYTHIA",
+        "LeaderType": "LEADER_TOMYRIS"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_MADRID",
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "LeaderType": "LEADER_PHILIP_II"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_URUK",
+        "CivilizationType": "CIVILIZATION_SUMERIA",
+        "LeaderType": "LEADER_GILGAMESH"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_BRUSSELS",
+        "CivilizationType": "CIVILIZATION_BRUSSELS",
+        "LeaderType": "LEADER_MINOR_CIV_BRUSSELS"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_BUENOS_AIRES",
+        "CivilizationType": "CIVILIZATION_BUENOS_AIRES",
+        "LeaderType": "LEADER_MINOR_CIV_BUENOS_AIRES"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_CARTHAGE",
+        "CivilizationType": "CIVILIZATION_CARTHAGE",
+        "LeaderType": "LEADER_MINOR_CIV_CARTHAGE"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_GENEVA",
+        "CivilizationType": "CIVILIZATION_GENEVA",
+        "LeaderType": "LEADER_MINOR_CIV_GENEVA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_HATTUSA",
+        "CivilizationType": "CIVILIZATION_HATTUSA",
+        "LeaderType": "LEADER_MINOR_CIV_HATTUSA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_HONG_KONG",
+        "CivilizationType": "CIVILIZATION_HONG_KONG",
+        "LeaderType": "LEADER_MINOR_CIV_HONG_KONG"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_BANDAR_BRUNEI",
+        "CivilizationType": "CIVILIZATION_JAKARTA",
+        "LeaderType": "LEADER_MINOR_CIV_JAKARTA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_JERUSALEM",
+        "CivilizationType": "CIVILIZATION_JERUSALEM",
+        "LeaderType": "LEADER_MINOR_CIV_JERUSALEM"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_KABUL",
+        "CivilizationType": "CIVILIZATION_KABUL",
+        "LeaderType": "LEADER_MINOR_CIV_KABUL"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_KANDY",
+        "CivilizationType": "CIVILIZATION_KANDY",
+        "LeaderType": "LEADER_MINOR_CIV_KANDY"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_KUMASI",
+        "CivilizationType": "CIVILIZATION_KUMASI",
+        "LeaderType": "LEADER_MINOR_CIV_KUMASI"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_LA_VENTA",
+        "CivilizationType": "CIVILIZATION_LA_VENTA",
+        "LeaderType": "LEADER_MINOR_CIV_LA_VENTA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_LISBON",
+        "CivilizationType": "CIVILIZATION_LISBON",
+        "LeaderType": "LEADER_MINOR_CIV_LISBON"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_MOHENJO_DARO",
+        "CivilizationType": "CIVILIZATION_MOHENJO_DARO",
+        "LeaderType": "LEADER_MINOR_CIV_MOHENJO_DARO"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_NAN_MADOL",
+        "CivilizationType": "CIVILIZATION_NAN_MADOL",
+        "LeaderType": "LEADER_MINOR_CIV_NAN_MADOL"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_PRESLAV",
+        "CivilizationType": "CIVILIZATION_PRESLAV",
+        "LeaderType": "LEADER_MINOR_CIV_PRESLAV"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_STOCKHOLM",
+        "CivilizationType": "CIVILIZATION_STOCKHOLM",
+        "LeaderType": "LEADER_MINOR_CIV_STOCKHOLM"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_TORONTO",
+        "CivilizationType": "CIVILIZATION_TORONTO",
+        "LeaderType": "LEADER_MINOR_CIV_TORONTO"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_VALLETTA",
+        "CivilizationType": "CIVILIZATION_VALLETTA",
+        "LeaderType": "LEADER_MINOR_CIV_VALLETTA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_VILNIUS",
+        "CivilizationType": "CIVILIZATION_VILNIUS",
+        "LeaderType": "LEADER_MINOR_CIV_VILNIUS"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_YEREVAN",
+        "CivilizationType": "CIVILIZATION_YEREVAN",
+        "LeaderType": "LEADER_MINOR_CIV_YEREVAN"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_ZANZIBAR",
+        "CivilizationType": "CIVILIZATION_ZANZIBAR",
+        "LeaderType": "LEADER_MINOR_CIV_ZANZIBAR"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_TENOCHTITLAN",
+        "CivilizationType": "CIVILIZATION_AZTEC",
+        "LeaderType": "LEADER_MONTEZUMA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_MAJAPAHIT",
+        "CivilizationType": "CIVILIZATION_INDONESIA",
+        "LeaderType": "LEADER_GITARJA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_ANGKOR_THOM",
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "LeaderType": "LEADER_JAYAVARMAN"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_AUCKLAND",
+        "CivilizationType": "CIVILIZATION_AUCKLAND",
+        "LeaderType": "LEADER_MINOR_CIV_AUCKLAND"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_ANTANANARIVO",
+        "CivilizationType": "CIVILIZATION_ANTANANARIVO",
+        "LeaderType": "LEADER_MINOR_CIV_ANTANANARIVO"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_ARMAGH",
+        "CivilizationType": "CIVILIZATION_ARMAGH",
+        "LeaderType": "LEADER_MINOR_CIV_ARMAGH"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_GRANADA",
+        "CivilizationType": "CIVILIZATION_GRANADA",
+        "LeaderType": "LEADER_MINOR_CIV_GRANADA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_MUSCAT",
+        "CivilizationType": "CIVILIZATION_MUSCAT",
+        "LeaderType": "LEADER_MINOR_CIV_MUSCAT"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_PALENQUE",
+        "CivilizationType": "CIVILIZATION_PALENQUE",
+        "LeaderType": "LEADER_MINOR_CIV_PALENQUE"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_KRAKOW",
+        "CivilizationType": "CIVILIZATION_POLAND",
+        "LeaderType": "LEADER_JADWIGA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_MEROE",
+        "CivilizationType": "CIVILIZATION_NUBIA",
+        "LeaderType": "LEADER_AMANITORE"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_BOGOTA",
+        "CivilizationType": "CIVILIZATION_GRAN_COLOMBIA",
+        "LeaderType": "LEADER_SIMON_BOLIVAR"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_NARANJO",
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "LeaderType": "LEADER_LADY_SIX_SKY"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_CAGUANA",
+        "CivilizationType": "CIVILIZATION_CAGUANA",
+        "LeaderType": "LEADER_MINOR_CIV_CAGUANA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_HUNZA",
+        "CivilizationType": "CIVILIZATION_HUNZA",
+        "LeaderType": "LEADER_MINOR_CIV_HUNZA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_LAHORE",
+        "CivilizationType": "CIVILIZATION_LAHORE",
+        "LeaderType": "LEADER_MINOR_CIV_LAHORE"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_SINGAPORE",
+        "CivilizationType": "CIVILIZATION_SINGAPORE",
+        "LeaderType": "LEADER_MINOR_CIV_SINGAPORE"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_TARUGA",
+        "CivilizationType": "CIVILIZATION_TARUGA",
+        "LeaderType": "LEADER_MINOR_CIV_TARUGA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_VATICAN_CITY",
+        "CivilizationType": "CIVILIZATION_VATICAN_CITY",
+        "LeaderType": "LEADER_MINOR_CIV_VATICAN_CITY"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_PELLA",
+        "CivilizationType": "CIVILIZATION_MACEDON",
+        "LeaderType": "LEADER_ALEXANDER"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_PASARGADAE",
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "LeaderType": "LEADER_CYRUS"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_CANBERRA",
+        "CivilizationType": "CIVILIZATION_AUSTRALIA",
+        "LeaderType": "LEADER_JOHN_CURTIN"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_MIKISIW_WACIHK",
+        "CivilizationType": "CIVILIZATION_CREE",
+        "LeaderType": "LEADER_POUNDMAKER"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_TBILISI",
+        "CivilizationType": "CIVILIZATION_GEORGIA",
+        "LeaderType": "LEADER_TAMAR"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_PATNA",
+        "CivilizationType": "CIVILIZATION_INDIA",
+        "LeaderType": "LEADER_CHANDRAGUPTA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_GYEONGJU",
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "LeaderType": "LEADER_SEONDEOK"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_NGULU_MAPU",
+        "CivilizationType": "CIVILIZATION_MAPUCHE",
+        "LeaderType": "LEADER_LAUTARO"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_QARAQORUM",
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "LeaderType": "LEADER_GENGHIS_KHAN"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_AMSTERDAM",
+        "CivilizationType": "CIVILIZATION_NETHERLANDS",
+        "LeaderType": "LEADER_WILHELMINA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_STIRLING",
+        "CivilizationType": "CIVILIZATION_SCOTLAND",
+        "LeaderType": "LEADER_ROBERT_THE_BRUCE"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_ULUNDI",
+        "CivilizationType": "CIVILIZATION_ZULU",
+        "LeaderType": "LEADER_SHAKA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_ANTIOCH",
+        "CivilizationType": "CIVILIZATION_ANTIOCH",
+        "LeaderType": "LEADER_MINOR_CIV_ANTIOCH"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_BABYLON",
+        "CivilizationType": "CIVILIZATION_BABYLON",
+        "LeaderType": "LEADER_MINOR_CIV_BABYLON"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_ULUNDI",
+        "CivilizationType": "CIVILIZATION_FREE_CITIES",
+        "LeaderType": "LEADER_FREE_CITIES"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_WASHINGTON",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "LeaderType": "LEADER_T_ROOSEVELT_ROUGHRIDER"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_ADDIS_ABABA",
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "LeaderType": "LEADER_MENELIK"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_LONDON",
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "LeaderType": "LEADER_VICTORIA_ALT"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_LONDON",
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "LeaderType": "LEADER_ELIZABETH"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_NIDAROS",
+        "CivilizationType": "CIVILIZATION_NORWAY",
+        "LeaderType": "LEADER_HARALD_ALT"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_WASHINGTON",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "LeaderType": "LEADER_ABRAHAM_LINCOLN"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_KABASA",
+        "CivilizationType": "CIVILIZATION_KONGO",
+        "LeaderType": "LEADER_NZINGA_MBANDE"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_CAIRO",
+        "CivilizationType": "CIVILIZATION_ARABIA",
+        "LeaderType": "LEADER_SALADIN_ALT"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_BEIJING",
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "LeaderType": "LEADER_YONGLE"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_SHEN_DU",
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "LeaderType": "LEADER_WU_ZETIAN"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_XIAN",
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "LeaderType": "LEADER_QIN_ALT"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_THEBES",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "LeaderType": "LEADER_RAMSES"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_RA_KEDET",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "LeaderType": "LEADER_CLEOPATRA_ALT"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_BABYLON_STK",
+        "CivilizationType": "CIVILIZATION_BABYLON_STK",
+        "LeaderType": "LEADER_HAMMURABI"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_AYUTTHAYA",
+        "CivilizationType": "CIVILIZATION_AYUTTHAYA",
+        "LeaderType": "LEADER_MINOR_CIV_AYUTTHAYA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_CHINGUETTI",
+        "CivilizationType": "CIVILIZATION_CHINGUETTI",
+        "LeaderType": "LEADER_MINOR_CIV_CHINGUETTI"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_JOHANNESBURG",
+        "CivilizationType": "CIVILIZATION_JOHANNESBURG",
+        "LeaderType": "LEADER_MINOR_CIV_JOHANNESBURG"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_NALANDA",
+        "CivilizationType": "CIVILIZATION_NALANDA",
+        "LeaderType": "LEADER_MINOR_CIV_NALANDA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_SAMARKAND",
+        "CivilizationType": "CIVILIZATION_SAMARKAND",
+        "LeaderType": "LEADER_MINOR_CIV_SAMARKAND"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_WOLIN",
+        "CivilizationType": "CIVILIZATION_WOLIN",
+        "LeaderType": "LEADER_MINOR_CIV_WOLIN"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_ROME",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "LeaderType": "LEADER_JULIUS_CAESAR"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_CONSTANTINOPLE",
+        "CivilizationType": "CIVILIZATION_BYZANTIUM",
+        "LeaderType": "LEADER_BASIL"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_ADUATUCA",
+        "CivilizationType": "CIVILIZATION_GAUL",
+        "LeaderType": "LEADER_AMBIORIX"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_BEIJING",
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "LeaderType": "LEADER_KUBLAI_KHAN_CHINA"
+    },
+    {
+        "CapitalName": "LOC_CITY_HA_NOI",
+        "CivilizationType": "CIVILIZATION_VIETNAM",
+        "LeaderType": "LEADER_LADY_TRIEU"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_XANADU",
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "LeaderType": "LEADER_KUBLAI_KHAN_MONGOLIA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_PARIS",
+        "CivilizationType": "CIVILIZATION_FRANCE",
+        "LeaderType": "LEADER_CATHERINE_DE_MEDICI_ALT"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_TOKYO",
+        "CivilizationType": "CIVILIZATION_JAPAN",
+        "LeaderType": "LEADER_TOKUGAWA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_MASHHAD",
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "LeaderType": "LEADER_NADER_SHAH"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_LISBON_STK",
+        "CivilizationType": "CIVILIZATION_PORTUGAL",
+        "LeaderType": "LEADER_JOAO_III"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_MUNICH_CAPITAL",
+        "CivilizationType": "CIVILIZATION_GERMANY",
+        "LeaderType": "LEADER_LUDWIG"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_CONSTANTINOPLE",
+        "CivilizationType": "CIVILIZATION_BYZANTIUM",
+        "LeaderType": "LEADER_THEODORA"
+    },
+    {
+        "CapitalName": "LOC_CITY_NAME_SEOUL",
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "LeaderType": "LEADER_SEJONG"
+    }
+]

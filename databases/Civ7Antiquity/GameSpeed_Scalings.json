@@ -1,0 +1,50 @@
+[
+    {
+        "DefaultCostMultiplier": 200,
+        "GameSpeedScalingType": "MARATHON_HALF",
+        "GameSpeedType": "GAMESPEED_MARATHON",
+        "ScalingType": "SCALING_HALF"
+    },
+    {
+        "DefaultCostMultiplier": 125,
+        "GameSpeedScalingType": "EPIC_HALF",
+        "GameSpeedType": "GAMESPEED_EPIC",
+        "ScalingType": "SCALING_HALF"
+    },
+    {
+        "DefaultCostMultiplier": 87,
+        "GameSpeedScalingType": "QUICK_HALF",
+        "GameSpeedType": "GAMESPEED_QUICK",
+        "ScalingType": "SCALING_HALF"
+    },
+    {
+        "DefaultCostMultiplier": 66,
+        "GameSpeedScalingType": "ONLINE_HALF",
+        "GameSpeedType": "GAMESPEED_ONLINE",
+        "ScalingType": "SCALING_HALF"
+    },
+    {
+        "DefaultCostMultiplier": 120,
+        "GameSpeedScalingType": "MARATHON_SLIGHT",
+        "GameSpeedType": "GAMESPEED_MARATHON",
+        "ScalingType": "SCALING_SLIGHT"
+    },
+    {
+        "DefaultCostMultiplier": 110,
+        "GameSpeedScalingType": "EPIC_SLIGHT",
+        "GameSpeedType": "GAMESPEED_EPIC",
+        "ScalingType": "SCALING_SLIGHT"
+    },
+    {
+        "DefaultCostMultiplier": 90,
+        "GameSpeedScalingType": "QUICK_SLIGHT",
+        "GameSpeedType": "GAMESPEED_QUICK",
+        "ScalingType": "SCALING_SLIGHT"
+    },
+    {
+        "DefaultCostMultiplier": 80,
+        "GameSpeedScalingType": "ONLINE_SLIGHT",
+        "GameSpeedType": "GAMESPEED_ONLINE",
+        "ScalingType": "SCALING_SLIGHT"
+    }
+]

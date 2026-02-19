@@ -1,0 +1,38 @@
+[
+    {
+        "Amount": 2,
+        "Domain": "DOMAIN_LAND",
+        "ResourceCount": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "Amount": 4,
+        "Domain": "DOMAIN_LAND",
+        "ResourceCount": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "Amount": 6,
+        "Domain": "DOMAIN_LAND",
+        "ResourceCount": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "Amount": 4,
+        "Domain": "DOMAIN_SEA",
+        "ResourceCount": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "Amount": 8,
+        "Domain": "DOMAIN_SEA",
+        "ResourceCount": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "Amount": 12,
+        "Domain": "DOMAIN_SEA",
+        "ResourceCount": 3,
+        "YieldType": "YIELD_GOLD"
+    }
+]

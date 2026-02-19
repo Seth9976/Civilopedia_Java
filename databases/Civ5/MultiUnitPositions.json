@@ -1,0 +1,26 @@
+[
+    {
+        "Description": "MUPOSITION_FRONT_LINE",
+        "ID": 0,
+        "Name": "Front Line",
+        "Type": "MUPOSITION_FRONT_LINE"
+    },
+    {
+        "Description": "MUPOSITION_BOMBARD",
+        "ID": 1,
+        "Name": "Bombard",
+        "Type": "MUPOSITION_BOMBARD"
+    },
+    {
+        "Description": "MUPOSITION_CIVILIAN_SUPPORT",
+        "ID": 2,
+        "Name": "Civilian Support",
+        "Type": "MUPOSITION_CIVILIAN_SUPPORT"
+    },
+    {
+        "Description": "MUPOSITION_NAVAL_ESCORT",
+        "ID": 3,
+        "Name": "Naval Escort",
+        "Type": "MUPOSITION_NAVAL_ESCORT"
+    }
+]

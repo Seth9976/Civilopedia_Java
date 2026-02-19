@@ -1,0 +1,57 @@
+[
+    {
+        "Description": "LOC_ROUTE_ANCIENT_ROAD_DESCRIPTION",
+        "MovementCost": 1.0,
+        "Name": "LOC_ROUTE_ANCIENT_ROAD_NAME",
+        "PlacementRequiresOwnedTile": 0,
+        "PlacementRequiresRoutePresent": 0,
+        "PlacementValue": 1,
+        "PrereqEra": null,
+        "RouteType": "ROUTE_ANCIENT_ROAD",
+        "SupportsBridges": 0
+    },
+    {
+        "Description": "LOC_ROUTE_MEDIEVAL_ROAD_DESCRIPTION",
+        "MovementCost": 1.0,
+        "Name": "LOC_ROUTE_MEDIEVAL_ROAD_NAME",
+        "PlacementRequiresOwnedTile": 0,
+        "PlacementRequiresRoutePresent": 0,
+        "PlacementValue": 2,
+        "PrereqEra": "ERA_CLASSICAL",
+        "RouteType": "ROUTE_MEDIEVAL_ROAD",
+        "SupportsBridges": 1
+    },
+    {
+        "Description": "LOC_ROUTE_INDUSTRIAL_ROAD_DESCRIPTION",
+        "MovementCost": 0.75,
+        "Name": "LOC_ROUTE_INDUSTRIAL_ROAD_NAME",
+        "PlacementRequiresOwnedTile": 0,
+        "PlacementRequiresRoutePresent": 0,
+        "PlacementValue": 3,
+        "PrereqEra": "ERA_INDUSTRIAL",
+        "RouteType": "ROUTE_INDUSTRIAL_ROAD",
+        "SupportsBridges": 1
+    },
+    {
+        "Description": "LOC_ROUTE_MODERN_ROAD_DESCRIPTION",
+        "MovementCost": 0.5,
+        "Name": "LOC_ROUTE_MODERN_ROAD_NAME",
+        "PlacementRequiresOwnedTile": 0,
+        "PlacementRequiresRoutePresent": 0,
+        "PlacementValue": 4,
+        "PrereqEra": "ERA_MODERN",
+        "RouteType": "ROUTE_MODERN_ROAD",
+        "SupportsBridges": 1
+    },
+    {
+        "Description": "LOC_ROUTE_RAILROAD_DESCRIPTION",
+        "MovementCost": 0.25,
+        "Name": "LOC_ROUTE_RAILROAD_NAME",
+        "PlacementRequiresOwnedTile": 0,
+        "PlacementRequiresRoutePresent": 0,
+        "PlacementValue": 5,
+        "PrereqEra": null,
+        "RouteType": "ROUTE_RAILROAD",
+        "SupportsBridges": 1
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "AdvancedRaidOperation": "Independent Large Raid",
+        "AssaultOperation": "Independent Assault",
+        "CampConstructibleType": null,
+        "CanBeBefriended": 1,
+        "DefenderTagSet": "DEFAULT_DEFENDER_TAGS",
+        "IgnoreSpacing": 0,
+        "NumNormalRaids": 1,
+        "RaidOperation": "Independent Raid",
+        "RespawnTime": -1,
+        "TribeType": "TRIBE_DEFAULT",
+        "UnitBuildTime": 8
+    },
+    {
+        "AdvancedRaidOperation": null,
+        "AssaultOperation": "Independent Assault",
+        "CampConstructibleType": null,
+        "CanBeBefriended": 1,
+        "DefenderTagSet": "DEFAULT_DEFENDER_TAGS",
+        "IgnoreSpacing": 0,
+        "NumNormalRaids": 1,
+        "RaidOperation": "Independent Raid",
+        "RespawnTime": -1,
+        "TribeType": "TRIBE_NAVAL",
+        "UnitBuildTime": 8
+    },
+    {
+        "AdvancedRaidOperation": null,
+        "AssaultOperation": "Independent Assault",
+        "CampConstructibleType": "IMPROVEMENT_ENCAMPMENT",
+        "CanBeBefriended": 0,
+        "DefenderTagSet": "DEFAULT_DEFENDER_TAGS",
+        "IgnoreSpacing": 1,
+        "NumNormalRaids": 1,
+        "RaidOperation": "Independent Large Raid",
+        "RespawnTime": 6,
+        "TribeType": "TRIBE_CRISIS",
+        "UnitBuildTime": 8
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "DistrictType": "DISTRICT_ACROPOLIS",
+        "ModifierId": "CIVIC_AWARD_ONE_INFLUENCE_TOKEN"
+    },
+    {
+        "DistrictType": "DISTRICT_COMMERCIAL_HUB",
+        "ModifierId": "COMMERCIAL_HUB_TRADE_ROUTE_CAPACITY"
+    },
+    {
+        "DistrictType": "DISTRICT_HARBOR",
+        "ModifierId": "HARBOR_TRADE_ROUTE_CAPACITY"
+    },
+    {
+        "DistrictType": "DISTRICT_ROYAL_NAVY_DOCKYARD",
+        "ModifierId": "ROYAL_NAVY_DOCKYARD_TRADE_ROUTE_CAPACITY"
+    },
+    {
+        "DistrictType": "DISTRICT_ROYAL_NAVY_DOCKYARD",
+        "ModifierId": "ROYAL_NAVY_DOCKYARD_GRANT_MOVEMENT_BONUS"
+    },
+    {
+        "DistrictType": "DISTRICT_ROYAL_NAVY_DOCKYARD",
+        "ModifierId": "ROYAL_NAVY_DOCKYARD_GOLD_FROM_FOREIGN_CONTINENT"
+    },
+    {
+        "DistrictType": "DISTRICT_MBANZA",
+        "ModifierId": "MBANZA_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_MBANZA",
+        "ModifierId": "MBANZA_GOLD"
+    },
+    {
+        "DistrictType": "DISTRICT_OPPIDUM",
+        "ModifierId": "OPPIDUM_GRANT_TECH_APPRENTICESHIP"
+    },
+    {
+        "DistrictType": "DISTRICT_THANH",
+        "ModifierId": "THANH_TOURISM_CULTURE"
+    },
+    {
+        "DistrictType": "DISTRICT_DIPLOMATIC_QUARTER",
+        "ModifierId": "DIPLOMATIC_QUARTER_DELEGATION_CULTURE"
+    },
+    {
+        "DistrictType": "DISTRICT_DIPLOMATIC_QUARTER",
+        "ModifierId": "DIPLOMATIC_QUARTER_EMBASSY_CULTURE"
+    },
+    {
+        "DistrictType": "DISTRICT_DIPLOMATIC_QUARTER",
+        "ModifierId": "DIPLOMATIC_QUARTER_ESPIONAGE_BONUS"
+    },
+    {
+        "DistrictType": "DISTRICT_DIPLOMATIC_QUARTER",
+        "ModifierId": "DIPLOMATIC_QUARTER_AWARD_ONE_INFLUENCE_TOKEN"
+    }
+]

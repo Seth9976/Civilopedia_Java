@@ -1,0 +1,850 @@
+[
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_02",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_01"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_03",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_01"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_04",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_02"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_05",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_02"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_05",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_06",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_07",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_04"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_07",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_08",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_09",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_09",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_06"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_10",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_07"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_10",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_08"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_10",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_09"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_POLITICAL_03",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_01"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_POLITICAL_04",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_01"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_POLITICAL_04",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_02"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_POLITICAL_05",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_02"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_POLITICAL_06",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_POLITICAL_07",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_04"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_POLITICAL_08",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_POLITICAL_09",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_06"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_POLITICAL_09",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_07"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_POLITICAL_09",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_08"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_POLITICAL_10",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_09"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_02",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_01"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_03",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_01"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_04",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_02"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_05",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_02"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_05",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_06",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_07",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_04"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_08",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_09",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_06"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_10",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_07"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_10",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_08"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_10",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_09"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_02",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_01"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_03",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_01"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_04",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_02"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_05",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_06",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_04"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_07",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_08",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_06"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_09",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_07"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_10",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_06"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_10",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_07"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_03",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_01"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_04",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_01"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_04",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_02"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_05",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_02"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_06",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_07",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_04"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_08",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_09",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_06"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_09",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_07"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_09",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_08"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_10",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_09"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_02",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_01"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_03",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_01"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_04",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_02"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_05",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_02"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_05",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_06",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_07",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_04"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_07",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_08",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_09",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_09",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_06"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_10",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_07"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_10",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_08"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_10",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_09"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_LEGEND_AUGUSTUS_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_LEGEND_CATHERINE_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_LEGEND_HATSHEPSUT_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_LEGEND_JOSE_RIZAL_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_LEGEND_LAFAYETTE_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_DIPLOMATIC_LEGEND_ASHOKA_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_DIPLOMATIC_LEGEND_BENJAMIN_FRANKLIN_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_DIPLOMATIC_LEGEND_HARRIET_TUBMAN_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_DIPLOMATIC_LEGEND_HIMIKO_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_DIPLOMATIC_LEGEND_JOSE_RIZAL_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_DIPLOMATIC_LEGEND_LAFAYETTE_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_DIPLOMATIC_LEGEND_MACHIAVELLI_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_LEGEND_AMINA_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_LEGEND_HATSHEPSUT_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_LEGEND_IBN_BATTUTA_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_LEGEND_ISABELLA_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_LEGEND_MACHIAVELLI_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_LEGEND_PACHACUTI_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_LEGEND_XERXES_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_LEGEND_ASHOKA_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_LEGEND_AUGUSTUS_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_LEGEND_CONFUCIUS_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_LEGEND_IBN_BATTUTA_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_LEGEND_ISABELLA_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_LEGEND_PACHACUTI_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_AMINA_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_CHARLEMAGNE_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_FRIEDRICH_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_HARRIET_TUBMAN_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_TRUNG_TRAC_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_XERXES_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_LEGEND_BENJAMIN_FRANKLIN_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_LEGEND_CATHERINE_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_LEGEND_CHARLEMAGNE_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_LEGEND_CONFUCIUS_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_LEGEND_FRIEDRICH_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_LEGEND_HIMIKO_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_LEGEND_TRUNG_TRAC_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_03"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_MERCANTILISM",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_ECONOMICS"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_AUTHORITY",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_ECONOMICS"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_AUTHORITY",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_PIETY"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_INSPIRATION",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_PIETY"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_COLONIALISM",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_MERCANTILISM"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_BUREAUCRACY",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_AUTHORITY"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_DIPLOMATIC_SERVICE",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_AUTHORITY"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_SOCIETY",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_INSPIRATION"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_IMPERIALISM",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_COLONIALISM"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_IMPERIALISM",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_BUREAUCRACY"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_SOVEREIGNTY",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_BUREAUCRACY"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_SOVEREIGNTY",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_DIPLOMATIC_SERVICE"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_SOCIAL_CLASS",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_DIPLOMATIC_SERVICE"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_SOCIAL_CLASS",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_SOCIETY"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_FUTURE_CIVIC",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_IMPERIALISM"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_FUTURE_CIVIC",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_SOVEREIGNTY"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAIN_FUTURE_CIVIC",
+        "PrereqNode": "NODE_CIVIC_EX_MAIN_SOCIAL_CLASS"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_BRANCH_REFORMATION",
+        "PrereqNode": "NODE_CIVIC_EX_BRANCH_THEOLOGY"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_ABBASID_AL_JABR",
+        "PrereqNode": "NODE_CIVIC_EX_ABBASID_ROUND_CITY"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_ABBASID_AL_JABR",
+        "PrereqNode": "NODE_CIVIC_EX_ABBASID_MAWLA"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_CHOLA_KANAKAM",
+        "PrereqNode": "NODE_CIVIC_EX_CHOLA_NAGARAM"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_CHOLA_DIGVIJAYA",
+        "PrereqNode": "NODE_CIVIC_EX_CHOLA_NAGARAM"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_CHOLA_MONSOON_WINDS",
+        "PrereqNode": "NODE_CIVIC_EX_CHOLA_DIGVIJAYA"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_CHOLA_MONSOON_WINDS",
+        "PrereqNode": "NODE_CIVIC_EX_CHOLA_KANAKAM"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_HAWAII_HE_E_NALU",
+        "PrereqNode": "NODE_CIVIC_EX_HAWAII_MANA"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_HAWAII_HE_E_NALU",
+        "PrereqNode": "NODE_CIVIC_EX_HAWAII_OHANA"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_INCA_AYLLU",
+        "PrereqNode": "NODE_CIVIC_EX_INCA_MITA"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_INCA_QHAPAQ_NAN",
+        "PrereqNode": "NODE_CIVIC_EX_INCA_MITA"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA",
+        "PrereqNode": "NODE_CIVIC_EX_MAJAPAHIT_WAYANG"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA",
+        "PrereqNode": "NODE_CIVIC_EX_MAJAPAHIT_ALIRAN_KEPERCAYAAN"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MAJAPAHIT_GAMELAN",
+        "PrereqNode": "NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MING_LIJIA",
+        "PrereqNode": "NODE_CIVIC_EX_MING_NINE_GARRISONS"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MING_DA_MING_LU",
+        "PrereqNode": "NODE_CIVIC_EX_MING_NINE_GARRISONS"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MONGOLIA_FOUR_HOUNDS",
+        "PrereqNode": "NODE_CIVIC_EX_MONGOLIA_ULUS"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_MONGOLIA_YASSA",
+        "PrereqNode": "NODE_CIVIC_EX_MONGOLIA_FOUR_HOUNDS"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_NORMAN_COMMON_LAW",
+        "PrereqNode": "NODE_CIVIC_EX_NORMAN_CONSUETUDINES_ET_JUSTICIE"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK",
+        "PrereqNode": "NODE_CIVIC_EX_NORMAN_COMMON_LAW"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_SONGHAI_KANTA",
+        "PrereqNode": "NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_SONGHAI_KANTA",
+        "PrereqNode": "NODE_CIVIC_EX_SONGHAI_HI_KOI"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_SPAIN_ARMADA",
+        "PrereqNode": "NODE_CIVIC_EX_SPAIN_COUNCIL_OF_THE_INDIES"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES",
+        "PrereqNode": "NODE_CIVIC_EX_SPAIN_COUNCIL_OF_THE_INDIES"
+    },
+    {
+        "Node": "NODE_TECH_EX_GUILDS",
+        "PrereqNode": "NODE_TECH_EX_CARTOGRAPHY"
+    },
+    {
+        "Node": "NODE_TECH_EX_FEUDALISM",
+        "PrereqNode": "NODE_TECH_EX_CARTOGRAPHY"
+    },
+    {
+        "Node": "NODE_TECH_EX_FEUDALISM",
+        "PrereqNode": "NODE_TECH_EX_ASTRONOMY"
+    },
+    {
+        "Node": "NODE_TECH_EX_HERALDRY",
+        "PrereqNode": "NODE_TECH_EX_ASTRONOMY"
+    },
+    {
+        "Node": "NODE_TECH_EX_HERALDRY",
+        "PrereqNode": "NODE_TECH_EX_MACHINERY"
+    },
+    {
+        "Node": "NODE_TECH_EX_CASTLES",
+        "PrereqNode": "NODE_TECH_EX_MACHINERY"
+    },
+    {
+        "Node": "NODE_TECH_EX_EDUCATION",
+        "PrereqNode": "NODE_TECH_EX_GUILDS"
+    },
+    {
+        "Node": "NODE_TECH_EX_EDUCATION",
+        "PrereqNode": "NODE_TECH_EX_FEUDALISM"
+    },
+    {
+        "Node": "NODE_TECH_EX_SHIPBUILDING",
+        "PrereqNode": "NODE_TECH_EX_FEUDALISM"
+    },
+    {
+        "Node": "NODE_TECH_EX_SHIPBUILDING",
+        "PrereqNode": "NODE_TECH_EX_HERALDRY"
+    },
+    {
+        "Node": "NODE_TECH_EX_METALLURGY",
+        "PrereqNode": "NODE_TECH_EX_HERALDRY"
+    },
+    {
+        "Node": "NODE_TECH_EX_METALLURGY",
+        "PrereqNode": "NODE_TECH_EX_CASTLES"
+    },
+    {
+        "Node": "NODE_TECH_EX_ARCHITECTURE",
+        "PrereqNode": "NODE_TECH_EX_EDUCATION"
+    },
+    {
+        "Node": "NODE_TECH_EX_ARCHITECTURE",
+        "PrereqNode": "NODE_TECH_EX_SHIPBUILDING"
+    },
+    {
+        "Node": "NODE_TECH_EX_METAL_CASTING",
+        "PrereqNode": "NODE_TECH_EX_SHIPBUILDING"
+    },
+    {
+        "Node": "NODE_TECH_EX_METAL_CASTING",
+        "PrereqNode": "NODE_TECH_EX_METALLURGY"
+    },
+    {
+        "Node": "NODE_TECH_EX_URBAN_PLANNING",
+        "PrereqNode": "NODE_TECH_EX_ARCHITECTURE"
+    },
+    {
+        "Node": "NODE_TECH_EX_GUNPOWDER",
+        "PrereqNode": "NODE_TECH_EX_METAL_CASTING"
+    },
+    {
+        "Node": "NODE_TECH_EX_FUTURE_TECH",
+        "PrereqNode": "NODE_TECH_EX_URBAN_PLANNING"
+    },
+    {
+        "Node": "NODE_TECH_EX_FUTURE_TECH",
+        "PrereqNode": "NODE_TECH_EX_GUNPOWDER"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_LEGEND_ADA_LOVELACE_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_SCIENTIFIC_LEGEND_ADA_LOVELACE_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_SCIENTIFIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_LEGEND_HIMIKO_ALT_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_DIPLOMATIC_LEGEND_ASHOKA_ALT_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_DIPLOMATIC_LEGEND_HIMIKO_ALT_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_ASHOKA_ALT_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_LEGEND_BOLIVAR_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_BOLIVAR_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_BULGARIA_TARNOVO_SCHOOLS",
+        "PrereqNode": "NODE_CIVIC_EX_BULGARIA_SEVEN_TRIBES"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_BULGARIA_TSARSTVIE",
+        "PrereqNode": "NODE_CIVIC_EX_BULGARIA_SEVEN_TRIBES"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_DAI_VIET_TU_DAN",
+        "PrereqNode": "NODE_CIVIC_EX_DAI_VIET_CAM_QUAN"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_DAI_VIET_TU_DAN",
+        "PrereqNode": "NODE_CIVIC_EX_DAI_VIET_CHU_NOM"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_DAI_VIET_TU_DAN",
+        "PrereqNode": "NODE_CIVIC_EX_DAI_VIET_THANH_HOANG"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_LEGEND_EDWARD_TEACH_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_EDWARD_TEACH_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_LEGEND_FRIEDRICH_ALT_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_LEGEND_XERXES_ALT_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_LEGEND_XERXES_ALT_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_FRIEDRICH_ALT_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_ICELAND_HUGINS_DREKKA",
+        "PrereqNode": "NODE_CIVIC_EX_ICELAND_LANDNAMABOK"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_ICELAND_VAERINGJAR",
+        "PrereqNode": "NODE_CIVIC_EX_ICELAND_LANDNAMABOK"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_ICELAND_THJODVELDID",
+        "PrereqNode": "NODE_CIVIC_EX_ICELAND_HUGINS_DREKKA"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_ICELAND_THJODVELDID",
+        "PrereqNode": "NODE_CIVIC_EX_ICELAND_VAERINGJAR"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_DIPLOMATIC_LEGEND_NAPOLEON_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_ECONOMIC_LEGEND_NAPOLEON_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_ECONOMIC_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_CULTURAL_LEGEND_NAPOLEON_ALT_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_CULTURAL_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_NAPOLEON_ALT_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_PIRATE_REPUBLIC_PORTS_OF_CALL",
+        "PrereqNode": "NODE_CIVIC_EX_PIRATE_REPUBLIC_ARTICLES_OF_AGREEMENT"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_PIRATE_REPUBLIC_ENEMY_OF_ALL_NATIONS",
+        "PrereqNode": "NODE_CIVIC_EX_PIRATE_REPUBLIC_PORTS_OF_CALL"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_DIPLOMATIC_LEGEND_SAYYIDA_AL_HURRA_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_SAYYIDA_AL_HURRA_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_DIPLOMATIC_LEGEND_TECUMSEH_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_TECUMSEH_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_SHAWNEE_MIYASKA_LATOWEKI",
+        "PrereqNode": "NODE_CIVIC_EX_SHAWNEE_WYEHI_SIMEKOFI"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_SHAWNEE_TELWATIKI",
+        "PrereqNode": "NODE_CIVIC_EX_SHAWNEE_WYEHI_SIMEKOFI"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_SHAWNEE_MALEKI_KINTAKE",
+        "PrereqNode": "NODE_CIVIC_EX_SHAWNEE_MIYASKA_LATOWEKI"
+    },
+    {
+        "Node": "NODE_CIVIC_EX_SHAWNEE_MALEKI_KINTAKE",
+        "PrereqNode": "NODE_CIVIC_EX_SHAWNEE_TELWATIKI"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_EXPANSIONIST_LEGEND_GENGHIS_KHAN_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_EXPANSIONIST_03"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_GENGHIS_KHAN_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_DIPLOMATIC_LEGEND_LAKSHMIBAI_L1",
+        "PrereqNode": "NODE_ATTRIBUTE_POLITICAL_05"
+    },
+    {
+        "Node": "NODE_ATTRIBUTE_MILITARISTIC_LEGEND_LAKSHMIBAI_L2",
+        "PrereqNode": "NODE_ATTRIBUTE_MILITARISTIC_05"
+    }
+]

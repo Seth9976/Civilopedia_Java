@@ -1,0 +1,1208 @@
+[
+    {
+        "GameDataType": "UNIT_AZTEC_EAGLE_WARRIOR",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Aztec.dds"
+    },
+    {
+        "GameDataType": "BUILDING_TLACHTLI",
+        "MomentDataType": "MOMENT_DATA_BUILDING",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_BUILDING",
+        "Texture": "CHM_Moment_Infrastructure_Aztec.dds"
+    },
+    {
+        "GameDataType": "UNIT_INDONESIAN_JONG",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Indonesia.dds"
+    },
+    {
+        "GameDataType": "UNIT_KHMER_DOMREY",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Khmer.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_KAMPUNG",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_Indonesia.dds"
+    },
+    {
+        "GameDataType": "BUILDING_PRASAT",
+        "MomentDataType": "MOMENT_DATA_BUILDING",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_BUILDING",
+        "Texture": "CHM_Moment_Infrastructure_Khmer.dds"
+    },
+    {
+        "GameDataType": "FEATURE_HA_LONG_BAY",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_Naturalwonder_HaLongBay.dds"
+    },
+    {
+        "GameDataType": "FEATURE_EYJAFJALLAJOKULL",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_Eyjafjallajokull.dds"
+    },
+    {
+        "GameDataType": "FEATURE_GIANTS_CAUSEWAY",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_Naturalwonder_GiantsCauseway.dds"
+    },
+    {
+        "GameDataType": "FEATURE_LYSEFJORDEN",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_Naturalwonder_Lyseford.dds"
+    },
+    {
+        "GameDataType": "UNIT_POLISH_HUSSAR",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Poland.dds"
+    },
+    {
+        "GameDataType": "BUILDING_SUKIENNICE",
+        "MomentDataType": "MOMENT_DATA_BUILDING",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_BUILDING",
+        "Texture": "CHM_Moment_Infrastructure_Poland.dds"
+    },
+    {
+        "GameDataType": "UNIT_NUBIAN_PITATI",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Nubia.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_PYRAMID",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_Nubia.dds"
+    },
+    {
+        "GameDataType": "UNIT_MAYAN_HULCHE",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_MomentSTK_Hulche.dds"
+    },
+    {
+        "GameDataType": "UNIT_COMANDANTE_GENERAL",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_MomentSTK_ComandanteGeneral.dds"
+    },
+    {
+        "GameDataType": "UNIT_COLOMBIAN_LLANERO",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_MomentSTK_Llanero.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_OBSERVATORY",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_MomentSTK_Observatory.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_HACIENDA",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_MomentSTK_Hacienda.dds"
+    },
+    {
+        "GameDataType": "FEATURE_BERMUDA_TRIANGLE",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_MomentSTK_BermudaTriangle.dds"
+    },
+    {
+        "GameDataType": "FEATURE_FOUNTAIN_OF_YOUTH",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_MomentSTK_FountainOfYouth.dds"
+    },
+    {
+        "GameDataType": "FEATURE_PAITITI",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_MomentSTK_Paititi.dds"
+    },
+    {
+        "GameDataType": "UNIT_MACEDONIAN_HETAIROI",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Macedon_Hetairoi.dds"
+    },
+    {
+        "GameDataType": "UNIT_MACEDONIAN_HYPASPIST",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Macedon_Hypaspist.dds"
+    },
+    {
+        "GameDataType": "UNIT_PERSIAN_IMMORTAL",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Persia.dds"
+    },
+    {
+        "GameDataType": "BUILDING_BASILIKOI_PAIDES",
+        "MomentDataType": "MOMENT_DATA_BUILDING",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_BUILDING",
+        "Texture": "CHM_Moment_Infrastructure_Macedon.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_PAIRIDAEZA",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_Persia.dds"
+    },
+    {
+        "GameDataType": "UNIT_DIGGER",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Australia.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_OUTBACK_STATION",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_Australia.dds"
+    },
+    {
+        "GameDataType": "FEATURE_ULURU",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_Naturalwonder_Uluru.dds"
+    },
+    {
+        "GameDataType": "UNIT_CREE_OKIHTCITAW",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Cree.dds"
+    },
+    {
+        "GameDataType": "UNIT_DE_ZEVEN_PROVINCIEN",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Netherlands.dds"
+    },
+    {
+        "GameDataType": "UNIT_GEORGIAN_KHEVSURETI",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Georgia.dds"
+    },
+    {
+        "GameDataType": "UNIT_KOREAN_HWACHA",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Korea.dds"
+    },
+    {
+        "GameDataType": "UNIT_MAPUCHE_MALON_RAIDER",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Mapuche.dds"
+    },
+    {
+        "GameDataType": "UNIT_MONGOLIAN_KESHIG",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Mongolia.dds"
+    },
+    {
+        "GameDataType": "UNIT_SCOTTISH_HIGHLANDER",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Scotland.dds"
+    },
+    {
+        "GameDataType": "UNIT_ZULU_IMPI",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Zulu.dds"
+    },
+    {
+        "GameDataType": "BUILDING_TSIKHE",
+        "MomentDataType": "MOMENT_DATA_BUILDING",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_BUILDING",
+        "Texture": "CHM_Moment_Infrastructure_Georgia.dds"
+    },
+    {
+        "GameDataType": "BUILDING_ORDU",
+        "MomentDataType": "MOMENT_DATA_BUILDING",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_BUILDING",
+        "Texture": "CHM_Moment_Infrastructure_Mongolia.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_SEOWON",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_Moment_Infrastructure_Korea.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_IKANDA",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_Moment_Infrastructure_Zulu.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_MEKEWAP",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_Cree.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_CHEMAMULL",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_Mapuche.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_POLDER",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_Netherlands.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_GOLF_COURSE",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_Scotland.dds"
+    },
+    {
+        "GameDataType": "FEATURE_DELICATE_ARCH",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_DelicateArch.dds"
+    },
+    {
+        "GameDataType": "FEATURE_EYE_OF_THE_SAHARA",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_EyeoftheSahara.dds"
+    },
+    {
+        "GameDataType": "FEATURE_LAKE_RETBA",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_Naturalwonder_Retba.dds"
+    },
+    {
+        "GameDataType": "FEATURE_MATTERHORN",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_Matterhorn.dds"
+    },
+    {
+        "GameDataType": "FEATURE_RORAIMA",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_Roraima.dds"
+    },
+    {
+        "GameDataType": "FEATURE_UBSUNUR_HOLLOW",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_Ubsunur.dds"
+    },
+    {
+        "GameDataType": "FEATURE_ZHANGYE_DANXIA",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_Zhangye.dds"
+    },
+    {
+        "GameDataType": "RELIGION_PANTHEON",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Pantheon"
+    },
+    {
+        "GameDataType": "RELIGION_BUDDHISM",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Buddhism"
+    },
+    {
+        "GameDataType": "RELIGION_CATHOLICISM",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Catholicism"
+    },
+    {
+        "GameDataType": "RELIGION_CONFUCIANISM",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Confucianism"
+    },
+    {
+        "GameDataType": "RELIGION_HINDUISM",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Hinduism"
+    },
+    {
+        "GameDataType": "RELIGION_ISLAM",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Islam"
+    },
+    {
+        "GameDataType": "RELIGION_JUDAISM",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Judaism"
+    },
+    {
+        "GameDataType": "RELIGION_ORTHODOXY",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Orthodoxy"
+    },
+    {
+        "GameDataType": "RELIGION_PROTESTANTISM",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Protestantism"
+    },
+    {
+        "GameDataType": "RELIGION_SHINTO",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Shinto"
+    },
+    {
+        "GameDataType": "RELIGION_SIKHISM",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Sikhism"
+    },
+    {
+        "GameDataType": "RELIGION_TAOISM",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Taoism"
+    },
+    {
+        "GameDataType": "RELIGION_ZOROASTRIANISM",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Zoroastrianism"
+    },
+    {
+        "GameDataType": "RELIGION_CUSTOM_1",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Custom1"
+    },
+    {
+        "GameDataType": "RELIGION_CUSTOM_2",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Custom2"
+    },
+    {
+        "GameDataType": "RELIGION_CUSTOM_3",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Custom3"
+    },
+    {
+        "GameDataType": "RELIGION_CUSTOM_4",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Custom4"
+    },
+    {
+        "GameDataType": "RELIGION_CUSTOM_5",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Custom5"
+    },
+    {
+        "GameDataType": "RELIGION_CUSTOM_6",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Custom6"
+    },
+    {
+        "GameDataType": "RELIGION_CUSTOM_7",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Custom7"
+    },
+    {
+        "GameDataType": "RELIGION_CUSTOM_8",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Custom8"
+    },
+    {
+        "GameDataType": "RELIGION_CUSTOM_9",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Custom9"
+    },
+    {
+        "GameDataType": "RELIGION_CUSTOM_10",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Custom10"
+    },
+    {
+        "GameDataType": "RELIGION_CUSTOM_11",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Custom11"
+    },
+    {
+        "GameDataType": "RELIGION_CUSTOM_12",
+        "MomentDataType": "MOMENT_DATA_RELIGION",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_RELIGION",
+        "Texture": "PM_FoundedReligion_Custom12"
+    },
+    {
+        "GameDataType": "ERA_ANCIENT",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_CIVIC_ERA",
+        "Texture": "CHM_Moment_CompleteCivicClassical.dds"
+    },
+    {
+        "GameDataType": "ERA_CLASSICAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_CIVIC_ERA",
+        "Texture": "CHM_Moment_CompleteCivicClassical.dds"
+    },
+    {
+        "GameDataType": "ERA_MEDIEVAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_CIVIC_ERA",
+        "Texture": "CHM_Moment_CompleteCivicMedieval.dds"
+    },
+    {
+        "GameDataType": "ERA_RENAISSANCE",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_CIVIC_ERA",
+        "Texture": "CHM_Moment_CompleteCivicRenaissance.dds"
+    },
+    {
+        "GameDataType": "ERA_INDUSTRIAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_CIVIC_ERA",
+        "Texture": "CHM_Moment_CompleteCivicIndustrial.dds"
+    },
+    {
+        "GameDataType": "ERA_MODERN",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_CIVIC_ERA",
+        "Texture": "CHM_Moment_CompleteCivicModern.dds"
+    },
+    {
+        "GameDataType": "ERA_ATOMIC",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_CIVIC_ERA",
+        "Texture": "CHM_Moment_CompleteCivicAtomic.dds"
+    },
+    {
+        "GameDataType": "ERA_INFORMATION",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_CIVIC_ERA",
+        "Texture": "CHM_Moment_CompleteCivicInformation.dds"
+    },
+    {
+        "GameDataType": "ERA_ANCIENT",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_TECHNOLOGY_ERA",
+        "Texture": "CHM_Moment_CompleteTech_Classical.dds"
+    },
+    {
+        "GameDataType": "ERA_CLASSICAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_TECHNOLOGY_ERA",
+        "Texture": "CHM_Moment_CompleteTech_Classical.dds"
+    },
+    {
+        "GameDataType": "ERA_MEDIEVAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_TECHNOLOGY_ERA",
+        "Texture": "CHM_Moment_CompleteTech_Medieval.dds"
+    },
+    {
+        "GameDataType": "ERA_RENAISSANCE",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_TECHNOLOGY_ERA",
+        "Texture": "CHM_Moment_CompleteTech_Renaissance.dds"
+    },
+    {
+        "GameDataType": "ERA_INDUSTRIAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_TECHNOLOGY_ERA",
+        "Texture": "CHM_Moment_CompleteTech_Industrial.dds"
+    },
+    {
+        "GameDataType": "ERA_MODERN",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_TECHNOLOGY_ERA",
+        "Texture": "CHM_Moment_CompleteTech_Modern.dds"
+    },
+    {
+        "GameDataType": "ERA_ATOMIC",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_TECHNOLOGY_ERA",
+        "Texture": "CHM_Moment_CompleteTech_Atomic.dds"
+    },
+    {
+        "GameDataType": "ERA_INFORMATION",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_TECHNOLOGY_ERA",
+        "Texture": "CHM_Moment_CompleteTech_Information.dds"
+    },
+    {
+        "GameDataType": "ERA_ANCIENT",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_AIR_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstAirUnitEarlyGame.dds"
+    },
+    {
+        "GameDataType": "ERA_CLASSICAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_AIR_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstAirUnitEarlyGame.dds"
+    },
+    {
+        "GameDataType": "ERA_MEDIEVAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_AIR_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstAirUnitEarlyGame.dds"
+    },
+    {
+        "GameDataType": "ERA_RENAISSANCE",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_AIR_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstAirUnitEarlyGame.dds"
+    },
+    {
+        "GameDataType": "ERA_INDUSTRIAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_AIR_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstAirUnitEarlyGame.dds"
+    },
+    {
+        "GameDataType": "ERA_MODERN",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_AIR_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstAirUnitEarlyGame.dds"
+    },
+    {
+        "GameDataType": "ERA_ATOMIC",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_AIR_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstAirUnitLateGame.dds"
+    },
+    {
+        "GameDataType": "ERA_INFORMATION",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_AIR_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstAirUnitLateGame.dds"
+    },
+    {
+        "GameDataType": "ERA_ANCIENT",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_SEA_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstSeaUnitEarly.dds"
+    },
+    {
+        "GameDataType": "ERA_CLASSICAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_SEA_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstSeaUnitEarly.dds"
+    },
+    {
+        "GameDataType": "ERA_MEDIEVAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_SEA_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstSeaUnitEarly.dds"
+    },
+    {
+        "GameDataType": "ERA_RENAISSANCE",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_SEA_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstSeaUnitMid.dds"
+    },
+    {
+        "GameDataType": "ERA_INDUSTRIAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_SEA_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstSeaUnitMid.dds"
+    },
+    {
+        "GameDataType": "ERA_MODERN",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_SEA_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstSeaUnitMid.dds"
+    },
+    {
+        "GameDataType": "ERA_ATOMIC",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_SEA_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstSeaUnitMid.dds"
+    },
+    {
+        "GameDataType": "ERA_INFORMATION",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_SEA_UNIT_ERA",
+        "Texture": "CHM_Moment_FirstSeaUnitMid.dds"
+    },
+    {
+        "GameDataType": "UNIT_AMERICAN_P51",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_America_Mustang.dds"
+    },
+    {
+        "GameDataType": "UNIT_ARABIAN_MAMLUK",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Arab.dds"
+    },
+    {
+        "GameDataType": "UNIT_BRAZILIAN_MINAS_GERAES",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Brazil.dds"
+    },
+    {
+        "GameDataType": "UNIT_CHINESE_CROUCHING_TIGER",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_China.dds"
+    },
+    {
+        "GameDataType": "UNIT_EGYPTIAN_CHARIOT_ARCHER",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Egypt.dds"
+    },
+    {
+        "GameDataType": "UNIT_ENGLISH_REDCOAT",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_England_Redcoats.dds"
+    },
+    {
+        "GameDataType": "UNIT_ENGLISH_SEADOG",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_England_Seadog.dds"
+    },
+    {
+        "GameDataType": "UNIT_FRENCH_GARDE_IMPERIALE",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_France_GardeImperiale.dds"
+    },
+    {
+        "GameDataType": "UNIT_GERMAN_UBOAT",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Germany_UBoat.dds"
+    },
+    {
+        "GameDataType": "UNIT_GREEK_HOPLITE",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Greece.dds"
+    },
+    {
+        "GameDataType": "UNIT_INDIAN_VARU",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_India.dds"
+    },
+    {
+        "GameDataType": "UNIT_JAPANESE_SAMURAI",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Japan.dds"
+    },
+    {
+        "GameDataType": "UNIT_KONGO_SHIELD_BEARER",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Konga.dds"
+    },
+    {
+        "GameDataType": "UNIT_NORWEGIAN_BERSERKER",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Norway_Berserker.dds"
+    },
+    {
+        "GameDataType": "UNIT_NORWEGIAN_LONGSHIP",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Norway_Longship.dds"
+    },
+    {
+        "GameDataType": "UNIT_ROMAN_LEGION",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Rome.dds"
+    },
+    {
+        "GameDataType": "UNIT_RUSSIAN_COSSACK",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Russia.dds"
+    },
+    {
+        "GameDataType": "UNIT_SCYTHIAN_HORSE_ARCHER",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Scythia.dds"
+    },
+    {
+        "GameDataType": "UNIT_SPANISH_CONQUISTADOR",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Spain.dds"
+    },
+    {
+        "GameDataType": "UNIT_SUMERIAN_WAR_CART",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_Sumerian.dds"
+    },
+    {
+        "GameDataType": "GOVERNOR_THE_AMBASSADOR",
+        "MomentDataType": "MOMENT_DATA_GOVERNOR",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNOR",
+        "Texture": "CHM_Moment_PromoteGovernor_Ambassador.dds"
+    },
+    {
+        "GameDataType": "GOVERNOR_THE_BUILDER",
+        "MomentDataType": "MOMENT_DATA_GOVERNOR",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNOR",
+        "Texture": "CHM_Moment_PromoteGovernor_Builder.dds"
+    },
+    {
+        "GameDataType": "GOVERNOR_THE_CARDINAL",
+        "MomentDataType": "MOMENT_DATA_GOVERNOR",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNOR",
+        "Texture": "CHM_Moment_PromoteGovernor_Cardinal.dds"
+    },
+    {
+        "GameDataType": "GOVERNOR_THE_DEFENDER",
+        "MomentDataType": "MOMENT_DATA_GOVERNOR",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNOR",
+        "Texture": "CHM_Moment_PromoteGovernor_Defender.dds"
+    },
+    {
+        "GameDataType": "GOVERNOR_THE_EDUCATOR",
+        "MomentDataType": "MOMENT_DATA_GOVERNOR",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNOR",
+        "Texture": "CHM_Moment_PromoteGovernor_Educator.dds"
+    },
+    {
+        "GameDataType": "GOVERNOR_THE_MERCHANT",
+        "MomentDataType": "MOMENT_DATA_GOVERNOR",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNOR",
+        "Texture": "CHM_Moment_PromoteGovernor_Merchant.dds"
+    },
+    {
+        "GameDataType": "GOVERNOR_THE_RESOURCE_MANAGER",
+        "MomentDataType": "MOMENT_DATA_GOVERNOR",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNOR",
+        "Texture": "CHM_Moment_PromoteGovernor_ResourceManager.dds"
+    },
+    {
+        "GameDataType": "GOVERNMENT_AUTOCRACY",
+        "MomentDataType": "MOMENT_DATA_GOVERNMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNMENT",
+        "Texture": "CHM_Moment_Government_Autocracy.dds"
+    },
+    {
+        "GameDataType": "GOVERNMENT_OLIGARCHY",
+        "MomentDataType": "MOMENT_DATA_GOVERNMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNMENT",
+        "Texture": "CHM_Moment_Government_Oligarchy.dds"
+    },
+    {
+        "GameDataType": "GOVERNMENT_CLASSICAL_REPUBLIC",
+        "MomentDataType": "MOMENT_DATA_GOVERNMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNMENT",
+        "Texture": "CHM_Moment_Government_ClassicalRepublic.dds"
+    },
+    {
+        "GameDataType": "GOVERNMENT_MONARCHY",
+        "MomentDataType": "MOMENT_DATA_GOVERNMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNMENT",
+        "Texture": "CHM_Moment_Government_Monarchy.dds"
+    },
+    {
+        "GameDataType": "GOVERNMENT_THEOCRACY",
+        "MomentDataType": "MOMENT_DATA_GOVERNMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNMENT",
+        "Texture": "CHM_Moment_Government_Theocracy.dds"
+    },
+    {
+        "GameDataType": "GOVERNMENT_MERCHANT_REPUBLIC",
+        "MomentDataType": "MOMENT_DATA_GOVERNMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNMENT",
+        "Texture": "CHM_Moment_Government_Merchant.dds"
+    },
+    {
+        "GameDataType": "GOVERNMENT_FASCISM",
+        "MomentDataType": "MOMENT_DATA_GOVERNMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNMENT",
+        "Texture": "CHM_Moment_Government_Fascism.dds"
+    },
+    {
+        "GameDataType": "GOVERNMENT_COMMUNISM",
+        "MomentDataType": "MOMENT_DATA_GOVERNMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNMENT",
+        "Texture": "CHM_Moment_Government_Communism.dds"
+    },
+    {
+        "GameDataType": "GOVERNMENT_DEMOCRACY",
+        "MomentDataType": "MOMENT_DATA_GOVERNMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GOVERNMENT",
+        "Texture": "CHM_Moment_Government_Democracy.dds"
+    },
+    {
+        "GameDataType": "ERA_ANCIENT",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GAME_ERA",
+        "Texture": "CHM_Moment_EraEntry_Ancient.dds"
+    },
+    {
+        "GameDataType": "ERA_CLASSICAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GAME_ERA",
+        "Texture": "CHM_Moment_EraEntry_Classical.dds"
+    },
+    {
+        "GameDataType": "ERA_MEDIEVAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GAME_ERA",
+        "Texture": "CHM_Moment_EraEntry_Medieval.dds"
+    },
+    {
+        "GameDataType": "ERA_RENAISSANCE",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GAME_ERA",
+        "Texture": "CHM_Moment_EraEntry_Renaissance.dds"
+    },
+    {
+        "GameDataType": "ERA_INDUSTRIAL",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GAME_ERA",
+        "Texture": "CHM_Moment_EraEntry_Industrial.dds"
+    },
+    {
+        "GameDataType": "ERA_MODERN",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GAME_ERA",
+        "Texture": "CHM_Moment_EraEntry_Modern.dds"
+    },
+    {
+        "GameDataType": "ERA_ATOMIC",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GAME_ERA",
+        "Texture": "CHM_Moment_EraEntry_Atomic.dds"
+    },
+    {
+        "GameDataType": "ERA_INFORMATION",
+        "MomentDataType": "MOMENT_DATA_PLAYER_ERA",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_GAME_ERA",
+        "Texture": "CHM_Moment_EraEntry_Information.dds"
+    },
+    {
+        "GameDataType": "BUILDING_FILM_STUDIO",
+        "MomentDataType": "MOMENT_DATA_BUILDING",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_BUILDING",
+        "Texture": "CHM_Moment_Infrastructure_America.dds"
+    },
+    {
+        "GameDataType": "BUILDING_MADRASA",
+        "MomentDataType": "MOMENT_DATA_BUILDING",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_BUILDING",
+        "Texture": "CHM_Moment_Infrastructure_Arabia.dds"
+    },
+    {
+        "GameDataType": "BUILDING_ELECTRONICS_FACTORY",
+        "MomentDataType": "MOMENT_DATA_BUILDING",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_BUILDING",
+        "Texture": "CHM_Moment_Infrastructure_Japan.dds"
+    },
+    {
+        "GameDataType": "BUILDING_STAVE_CHURCH",
+        "MomentDataType": "MOMENT_DATA_BUILDING",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_BUILDING",
+        "Texture": "CHM_Moment_Infrastructure_Norway.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_STREET_CARNIVAL",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_Moment_Infrastructure_Brazil.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_WATER_STREET_CARNIVAL",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_Moment_Infrastructure_Brazil.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_ROYAL_NAVY_DOCKYARD",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_Moment_Infrastructure_England.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_HANSA",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_Moment_Infrastructure_Germany.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_ACROPOLIS",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_Moment_Infrastructure_Greece.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_MBANZA",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_Moment_Infrastructure_Kongo.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_BATH",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_Moment_Infrastructure_Rome.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_LAVRA",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_Moment_Infrastructure_Russia.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_GREAT_WALL",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_China.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_SPHINX",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_Egypt.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_CHATEAU",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_France.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_STEPWELL",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_India.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_KURGAN",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_Scythia.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_MISSION",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_Spanish.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_ZIGGURAT",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_Moment_Infrastructure_Ziggurat.dds"
+    },
+    {
+        "GameDataType": "FEATURE_BARRIER_REEF",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_Naturalwonder_BarrierReef.dds"
+    },
+    {
+        "GameDataType": "FEATURE_CLIFFS_DOVER",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_CliffsOfDover.dds"
+    },
+    {
+        "GameDataType": "FEATURE_CRATER_LAKE",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_Naturalwonder_CraterLake.dds"
+    },
+    {
+        "GameDataType": "FEATURE_DEAD_SEA",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_DeadSea.dds"
+    },
+    {
+        "GameDataType": "FEATURE_EVEREST",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_Everest.dds"
+    },
+    {
+        "GameDataType": "FEATURE_GALAPAGOS",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_Galapagos.dds"
+    },
+    {
+        "GameDataType": "FEATURE_KILIMANJARO",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_Kilimanjaro.dds"
+    },
+    {
+        "GameDataType": "FEATURE_PANTANAL",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_Pantanal.dds"
+    },
+    {
+        "GameDataType": "FEATURE_PIOPIOTAHI",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_Piopiotahi.dds"
+    },
+    {
+        "GameDataType": "FEATURE_TORRES_DEL_PAINE",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_Torres.dds"
+    },
+    {
+        "GameDataType": "FEATURE_TSINGY",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_Tsingy.dds"
+    },
+    {
+        "GameDataType": "FEATURE_YOSEMITE",
+        "MomentDataType": "MOMENT_DATA_FEATURE",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_NATURAL_WONDER",
+        "Texture": "CHM_Moment_NaturalWonder_Yosemite.dds"
+    },
+    {
+        "GameDataType": "UNIT_AMERICAN_ROUGH_RIDER",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_Moment_UniqueUnit_America_Roughrider.dds"
+    },
+    {
+        "GameDataType": "UNIT_ETHIOPIAN_OROMO_CAVALRY",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_MomentSTK_OromoCavalry.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_ROCK_HEWN_CHURCH",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_MomentSTK_RockHewnChurch.dds"
+    },
+    {
+        "GameDataType": "UNIT_BABYLONIAN_SABUM_KIBITTUM",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_MomentSTK_Sabum.dds"
+    },
+    {
+        "GameDataType": "BUILDING_PALGUM",
+        "MomentDataType": "MOMENT_DATA_BUILDING",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_BUILDING",
+        "Texture": "CHM_MomentSTK_Palgum.dds"
+    },
+    {
+        "GameDataType": "UNIT_BYZANTINE_DROMON",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_MomentSTK_DromonShip.dds"
+    },
+    {
+        "GameDataType": "UNIT_BYZANTINE_TAGMA",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_MomentSTK_Tagma.dds"
+    },
+    {
+        "GameDataType": "UNIT_GAUL_GAESATAE",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_MomentSTK_Gaestae.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_HIPPODROME",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_MomentSTK_Hippodrome.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_OPPIDUM",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_MomentSTK_Oppidum.dds"
+    },
+    {
+        "GameDataType": "UNIT_VIETNAMESE_VOI_CHIEN",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_MomentSTK_VoiChien.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_THANH",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "CHM_MomentSTK_Thanh.dds"
+    },
+    {
+        "GameDataType": "DISTRICT_PRESERVE",
+        "MomentDataType": "MOMENT_DATA_DISTRICT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_DISTRICT",
+        "Texture": "MomentSTK_Preserve.dds"
+    },
+    {
+        "GameDataType": "BUILDING_NAVIGATION_SCHOOL",
+        "MomentDataType": "MOMENT_DATA_BUILDING",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_BUILDING",
+        "Texture": "CHM_MomentSTK_NavigationSchool.dds"
+    },
+    {
+        "GameDataType": "IMPROVEMENT_FEITORIA",
+        "MomentDataType": "MOMENT_DATA_IMPROVEMENT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT",
+        "Texture": "CHM_MomentSTK_Feitoria.dds"
+    },
+    {
+        "GameDataType": "UNIT_PORTUGUESE_NAU",
+        "MomentDataType": "MOMENT_DATA_UNIT",
+        "MomentIllustrationType": "MOMENT_ILLUSTRATION_UNIQUE_UNIT",
+        "Texture": "CHM_MomentSTK_Nau.dds"
+    }
+]

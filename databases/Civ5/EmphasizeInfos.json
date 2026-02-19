@@ -1,0 +1,42 @@
+[
+    {
+        "AvoidGrowth": null,
+        "Description": "TXT_KEY_EMPHASIZE_FOOD",
+        "GreatPeople": null,
+        "ID": 0,
+        "Strategy": "TXT_KEY_EMPHASIZE_FOOD_STRATEGY",
+        "Type": "EMPHASIZE_FOOD"
+    },
+    {
+        "AvoidGrowth": null,
+        "Description": "TXT_KEY_EMPHASIZE_PRODUCTION",
+        "GreatPeople": null,
+        "ID": 1,
+        "Strategy": "TXT_KEY_EMPHASIZE_PRODUCTION_STRATEGY",
+        "Type": "EMPHASIZE_PRODUCTION"
+    },
+    {
+        "AvoidGrowth": null,
+        "Description": "TXT_KEY_EMPHASIZE_RESEARCH",
+        "GreatPeople": null,
+        "ID": 2,
+        "Strategy": "TXT_KEY_EMPHASIZE_RESEARCH_STRATEGY",
+        "Type": "EMPHASIZE_RESEARCH"
+    },
+    {
+        "AvoidGrowth": null,
+        "Description": "TXT_KEY_EMPHASIZE_GREAT_PEOPLE",
+        "GreatPeople": 1,
+        "ID": 3,
+        "Strategy": "TXT_KEY_EMPHASIZE_GREAT_PEOPLE_STRATEGY",
+        "Type": "EMPHASIZE_GREAT_PEOPLE"
+    },
+    {
+        "AvoidGrowth": 1,
+        "Description": "TXT_KEY_EMPHASIZE_AVOID_GROWTH",
+        "GreatPeople": null,
+        "ID": 4,
+        "Strategy": "TXT_KEY_EMPHASIZE_AVOID_GROWTH_STRATEGY",
+        "Type": "EMPHASIZE_AVOID_GROWTH"
+    }
+]

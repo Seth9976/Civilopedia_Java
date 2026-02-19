@@ -1,0 +1,62 @@
+[
+    {
+        "AppealChange": 2,
+        "Description": "LOC_TOOLTIP_APPEAL_BREATHTAKING",
+        "DistrictType": "DISTRICT_NEIGHBORHOOD",
+        "MinimumValue": 4
+    },
+    {
+        "AppealChange": 1,
+        "Description": "LOC_TOOLTIP_APPEAL_CHARMING",
+        "DistrictType": "DISTRICT_NEIGHBORHOOD",
+        "MinimumValue": 2
+    },
+    {
+        "AppealChange": 0,
+        "Description": "LOC_TOOLTIP_APPEAL_AVERAGE",
+        "DistrictType": "DISTRICT_NEIGHBORHOOD",
+        "MinimumValue": -1
+    },
+    {
+        "AppealChange": -1,
+        "Description": "LOC_TOOLTIP_APPEAL_UNINVITING",
+        "DistrictType": "DISTRICT_NEIGHBORHOOD",
+        "MinimumValue": -3
+    },
+    {
+        "AppealChange": -2,
+        "Description": "LOC_TOOLTIP_APPEAL_DISGUSTING",
+        "DistrictType": "DISTRICT_NEIGHBORHOOD",
+        "MinimumValue": -100
+    },
+    {
+        "AppealChange": 2,
+        "Description": "LOC_TOOLTIP_APPEAL_BREATHTAKING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MinimumValue": 4
+    },
+    {
+        "AppealChange": 1,
+        "Description": "LOC_TOOLTIP_APPEAL_CHARMING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MinimumValue": 2
+    },
+    {
+        "AppealChange": 0,
+        "Description": "LOC_TOOLTIP_APPEAL_AVERAGE",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MinimumValue": -1
+    },
+    {
+        "AppealChange": -1,
+        "Description": "LOC_TOOLTIP_APPEAL_UNINVITING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MinimumValue": -3
+    },
+    {
+        "AppealChange": -1,
+        "Description": "LOC_TOOLTIP_APPEAL_DISGUSTING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MinimumValue": -100
+    }
+]

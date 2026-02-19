@@ -1,0 +1,22 @@
+[
+    {
+        "BuildingType": "BUILDING_HYDRO_PLANT",
+        "Cost": 1,
+        "ResourceType": "RESOURCE_ALUMINUM"
+    },
+    {
+        "BuildingType": "BUILDING_FACTORY",
+        "Cost": 1,
+        "ResourceType": "RESOURCE_COAL"
+    },
+    {
+        "BuildingType": "BUILDING_NUCLEAR_PLANT",
+        "Cost": 1,
+        "ResourceType": "RESOURCE_URANIUM"
+    },
+    {
+        "BuildingType": "BUILDING_SPACESHIP_FACTORY",
+        "Cost": 1,
+        "ResourceType": "RESOURCE_ALUMINUM"
+    }
+]

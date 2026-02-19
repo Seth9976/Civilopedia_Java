@@ -1,0 +1,126 @@
+[
+    {
+        "PolicyType": "POLICY_COLLECTIVE_RULE",
+        "PrereqPolicy": "POLICY_REPUBLIC"
+    },
+    {
+        "PolicyType": "POLICY_REPRESENTATION",
+        "PrereqPolicy": "POLICY_CITIZENSHIP"
+    },
+    {
+        "PolicyType": "POLICY_MERITOCRACY",
+        "PrereqPolicy": "POLICY_CITIZENSHIP"
+    },
+    {
+        "PolicyType": "POLICY_LEGALISM",
+        "PrereqPolicy": "POLICY_OLIGARCHY"
+    },
+    {
+        "PolicyType": "POLICY_LANDED_ELITE",
+        "PrereqPolicy": "POLICY_LEGALISM"
+    },
+    {
+        "PolicyType": "POLICY_MONARCHY",
+        "PrereqPolicy": "POLICY_LEGALISM"
+    },
+    {
+        "PolicyType": "POLICY_MILITARY_TRADITION",
+        "PrereqPolicy": "POLICY_WARRIOR_CODE"
+    },
+    {
+        "PolicyType": "POLICY_MILITARY_CASTE",
+        "PrereqPolicy": "POLICY_DISCIPLINE"
+    },
+    {
+        "PolicyType": "POLICY_PROFESSIONAL_ARMY",
+        "PrereqPolicy": "POLICY_MILITARY_CASTE"
+    },
+    {
+        "PolicyType": "POLICY_THEOCRACY",
+        "PrereqPolicy": "POLICY_ORGANIZED_RELIGION"
+    },
+    {
+        "PolicyType": "POLICY_FREE_RELIGION",
+        "PrereqPolicy": "POLICY_ORGANIZED_RELIGION"
+    },
+    {
+        "PolicyType": "POLICY_REFORMATION",
+        "PrereqPolicy": "POLICY_FREE_RELIGION"
+    },
+    {
+        "PolicyType": "POLICY_SCHOLASTICISM",
+        "PrereqPolicy": "POLICY_PHILANTHROPY"
+    },
+    {
+        "PolicyType": "POLICY_CULTURAL_DIPLOMACY",
+        "PrereqPolicy": "POLICY_SCHOLASTICISM"
+    },
+    {
+        "PolicyType": "POLICY_MERCHANT_CONFEDERACY",
+        "PrereqPolicy": "POLICY_SCHOLASTICISM"
+    },
+    {
+        "PolicyType": "POLICY_MERCHANT_CONFEDERACY",
+        "PrereqPolicy": "POLICY_CONSULATES"
+    },
+    {
+        "PolicyType": "POLICY_ARTISTIC_GENIUS",
+        "PrereqPolicy": "POLICY_FINE_ARTS"
+    },
+    {
+        "PolicyType": "POLICY_FLOURISHING_OF_ARTS",
+        "PrereqPolicy": "POLICY_CULTURAL_CENTERS"
+    },
+    {
+        "PolicyType": "POLICY_FLOURISHING_OF_ARTS",
+        "PrereqPolicy": "POLICY_FINE_ARTS"
+    },
+    {
+        "PolicyType": "POLICY_ETHICS",
+        "PrereqPolicy": "POLICY_FLOURISHING_OF_ARTS"
+    },
+    {
+        "PolicyType": "POLICY_ENTREPRENEURSHIP",
+        "PrereqPolicy": "POLICY_CARAVANS"
+    },
+    {
+        "PolicyType": "POLICY_MERCANTILISM",
+        "PrereqPolicy": "POLICY_TRADE_UNIONS"
+    },
+    {
+        "PolicyType": "POLICY_PROTECTIONISM",
+        "PrereqPolicy": "POLICY_MERCANTILISM"
+    },
+    {
+        "PolicyType": "POLICY_PROTECTIONISM",
+        "PrereqPolicy": "POLICY_ENTREPRENEURSHIP"
+    },
+    {
+        "PolicyType": "POLICY_MERCHANT_NAVY",
+        "PrereqPolicy": "POLICY_NAVAL_TRADITION"
+    },
+    {
+        "PolicyType": "POLICY_MERCHANT_NAVY",
+        "PrereqPolicy": "POLICY_MARITIME_INFRASTRUCTURE"
+    },
+    {
+        "PolicyType": "POLICY_NAVIGATION_SCHOOL",
+        "PrereqPolicy": "POLICY_NAVAL_TRADITION"
+    },
+    {
+        "PolicyType": "POLICY_TREASURE_FLEETS",
+        "PrereqPolicy": "POLICY_MERCHANT_NAVY"
+    },
+    {
+        "PolicyType": "POLICY_FREE_THOUGHT",
+        "PrereqPolicy": "POLICY_HUMANISM"
+    },
+    {
+        "PolicyType": "POLICY_SOVEREIGNTY",
+        "PrereqPolicy": "POLICY_SECULARISM"
+    },
+    {
+        "PolicyType": "POLICY_SCIENTIFIC_REVOLUTION",
+        "PrereqPolicy": "POLICY_SOVEREIGNTY"
+    }
+]

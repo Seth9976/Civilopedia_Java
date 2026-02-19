@@ -1,0 +1,950 @@
+[
+    {
+        "Name": "ADVISOR_WARNING_TRIGGERED"
+    },
+    {
+        "Name": "AGE_OVER"
+    },
+    {
+        "Name": "AI_ADVISOR_UPDATED"
+    },
+    {
+        "Name": "ALLIANCE_AVAILABLE"
+    },
+    {
+        "Name": "ALLIANCE_ENDED"
+    },
+    {
+        "Name": "ANARCHY_BEGINS"
+    },
+    {
+        "Name": "ANARCHY_ENDS"
+    },
+    {
+        "Name": "APP_SCRIPT_EVENT"
+    },
+    {
+        "Name": "APPEAL_CHANGED_NEAR"
+    },
+    {
+        "Name": "ATTRIBUTE_NODE_COMPLETED"
+    },
+    {
+        "Name": "ATTRIBUTE_POINTS_CHANGED"
+    },
+    {
+        "Name": "BARBARIAN_RAID_STARTED"
+    },
+    {
+        "Name": "BARBARIAN_SPOTTED_CITY"
+    },
+    {
+        "Name": "BELIEF_ADDED"
+    },
+    {
+        "Name": "CAPITAL_CITY_CHANGED"
+    },
+    {
+        "Name": "CARBON_SEQUESTERED"
+    },
+    {
+        "Name": "CITY_ADDED_TO_MAP"
+    },
+    {
+        "Name": "CITY_CHANGED"
+    },
+    {
+        "Name": "CITY_COMMAND_STARTED"
+    },
+    {
+        "Name": "CITY_DEFENSE_STATUS_CHANGED"
+    },
+    {
+        "Name": "CITY_FOCUS_CHANGED"
+    },
+    {
+        "Name": "CITY_FORCE_WORKER"
+    },
+    {
+        "Name": "CITY_GROWTH_MODE_CHANGED"
+    },
+    {
+        "Name": "CITY_INITIALIZED"
+    },
+    {
+        "Name": "CITY_LIBERATED"
+    },
+    {
+        "Name": "CITY_LOYALTY_CHANGED"
+    },
+    {
+        "Name": "CITY_MADE_PURCHASE"
+    },
+    {
+        "Name": "CITY_NAME_CHANGED"
+    },
+    {
+        "Name": "CITY_OCCUPATION_CHANGED"
+    },
+    {
+        "Name": "CITY_OPERATION_STARTED"
+    },
+    {
+        "Name": "CITY_POPULATION_CHANGED"
+    },
+    {
+        "Name": "CITY_POWER_CHANGED"
+    },
+    {
+        "Name": "CITY_PRODUCTION_CHANGED"
+    },
+    {
+        "Name": "CITY_PRODUCTION_COMPLETED"
+    },
+    {
+        "Name": "CITY_PRODUCTION_QUEUE_CHANGED"
+    },
+    {
+        "Name": "CITY_PRODUCTION_UPDATED"
+    },
+    {
+        "Name": "CITY_PROPERTY_CHANGED"
+    },
+    {
+        "Name": "CITY_RELIGION_CHANGED"
+    },
+    {
+        "Name": "CITY_RELIGION_FOLLOWERS_CHANGED"
+    },
+    {
+        "Name": "CITY_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "CITY_SIEGE_STATUS_CHANGED"
+    },
+    {
+        "Name": "CITY_TILE_OWNERSHIP_CHANGED"
+    },
+    {
+        "Name": "CITY_TRANSFERED"
+    },
+    {
+        "Name": "CITY_RAZING_STARTED"
+    },
+    {
+        "Name": "CITY_RAZING_STOPPED"
+    },
+    {
+        "Name": "CITY_VISIBILITY_CHANGED"
+    },
+    {
+        "Name": "CITY_WORKING_PLOT_CHANGED"
+    },
+    {
+        "Name": "CITY_YIELD_CHANGED"
+    },
+    {
+        "Name": "CITY_YIELD_GRANTED"
+    },
+    {
+        "Name": "CITY_YIELD_MODIFIER_CHANGED"
+    },
+    {
+        "Name": "CLIFF_ADDED_TO_MAP"
+    },
+    {
+        "Name": "CLIFF_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "CLIMATE_CHANGE_EVENT"
+    },
+    {
+        "Name": "COMBAT"
+    },
+    {
+        "Name": "CONSTRUCTIBLE_ACTIVATED"
+    },
+    {
+        "Name": "CONSTRUCTIBLE_ADDED_TO_MAP"
+    },
+    {
+        "Name": "CONSTRUCTIBLE_CHANGED"
+    },
+    {
+        "Name": "CONSTRUCTIBLE_EFFECT_ADDED"
+    },
+    {
+        "Name": "CONSTRUCTIBLE_EFFECT_CHANGED"
+    },
+    {
+        "Name": "CONSTRUCTIBLE_EFFECT_REMOVED"
+    },
+    {
+        "Name": "CONSTRUCTIBLE_OWNERSHIP_CHANGED"
+    },
+    {
+        "Name": "CONSTRUCTIBLE_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "CONSTRUCTIBLE_VISIBILITY_CHANGED"
+    },
+    {
+        "Name": "CULTURAL_IDENTITY_CITIZEN_CONVERTED"
+    },
+    {
+        "Name": "CULTURAL_IDENTITY_CITY_CONVERTED"
+    },
+    {
+        "Name": "CULTURAL_IDENTITY_CONVERSION_OUTCOME_CHANGED"
+    },
+    {
+        "Name": "CULTURAL_IDENTITY_PER_TURN_FROM_MODIFIERS_CHANGED"
+    },
+    {
+        "Name": "CULTURE_CHANGED"
+    },
+    {
+        "Name": "CULTURE_NODE_COMPLETED"
+    },
+    {
+        "Name": "CULTURE_TREE_CHANGED"
+    },
+    {
+        "Name": "CULTURE_TARGET_CHANGED"
+    },
+    {
+        "Name": "CULTURE_TREE_REVEALED"
+    },
+    {
+        "Name": "CULTURE_YIELD_CHANGED"
+    },
+    {
+        "Name": "DIPLOMACY_DEAL_ENACTED"
+    },
+    {
+        "Name": "DIPLOMACY_DEAL_EXPIRED"
+    },
+    {
+        "Name": "DIPLOMACY_DECLARE_WAR"
+    },
+    {
+        "Name": "DIPLOMACY_EVENT_CANCELED"
+    },
+    {
+        "Name": "DIPLOMACY_EVENT_ENDED"
+    },
+    {
+        "Name": "DIPLOMACY_EVENT_STARTED"
+    },
+    {
+        "Name": "DIPLOMACY_EVENT_RESPONSE"
+    },
+    {
+        "Name": "DIPLOMACY_EVENT_SUPPORT_CHANGED"
+    },
+    {
+        "Name": "DIPLOMACY_FAVOR_CHANGED"
+    },
+    {
+        "Name": "DIPLOMACY_GLOBAL_TOKENS_CHANGED"
+    },
+    {
+        "Name": "DIPLOMACY_GRIEVANCES_CHANGED"
+    },
+    {
+        "Name": "DIPLOMACY_INCOMING_DEAL"
+    },
+    {
+        "Name": "DIPLOMACY_MAKE_PEACE"
+    },
+    {
+        "Name": "DIPLOMACY_MEET_BARBARIANS"
+    },
+    {
+        "Name": "DIPLOMACY_MEET_INDEPENDENTS"
+    },
+    {
+        "Name": "DIPLOMACY_MEET_MAJOR_MINOR"
+    },
+    {
+        "Name": "DIPLOMACY_MEET_MAJORS"
+    },
+    {
+        "Name": "DIPLOMACY_MEET"
+    },
+    {
+        "Name": "DIPLOMACY_REFUSE_PEACE"
+    },
+    {
+        "Name": "DIPLOMACY_RELATIONSHIP_CHANGED"
+    },
+    {
+        "Name": "DIPLOMACY_RELATIONSHIP_LEVEL_CHANGED"
+    },
+    {
+        "Name": "DIPLOMACY_RELATIONSHIP_STATUS_CHANGED"
+    },
+    {
+        "Name": "DIPLOMACY_REQUEST_BROKEN"
+    },
+    {
+        "Name": "DIPLOMACY_REQUEST_CANCELED"
+    },
+    {
+        "Name": "DIPLOMACY_REQUEST_CHANGED"
+    },
+    {
+        "Name": "DIPLOMACY_REQUEST_MADE"
+    },
+    {
+        "Name": "DIPLOMACY_SESSION_CLOSED"
+    },
+    {
+        "Name": "DIPLOMACY_STATMENT"
+    },
+    {
+        "Name": "DIPLOMACY_TREASURY_CHANGED"
+    },
+    {
+        "Name": "DIPLOMACY_VISIBILITY_CHANGED"
+    },
+    {
+        "Name": "DISTRICT_ADDED_TO_MAP"
+    },
+    {
+        "Name": "DISTRICT_BUILDING_RESTORE"
+    },
+    {
+        "Name": "DISTRICT_CHANGED"
+    },
+    {
+        "Name": "DISTRICT_COMBAT_CHANGED"
+    },
+    {
+        "Name": "DISTRICT_CONTROL_CHANGED"
+    },
+    {
+        "Name": "DISTRICT_DAMAGE_CHANGED"
+    },
+    {
+        "Name": "DISTRICT_PROPERTY_CHANGED"
+    },
+    {
+        "Name": "DISTRICT_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "DISTRICT_VISIBILITY_CHANGED"
+    },
+    {
+        "Name": "DROUGHT_ADDED_TO_MAP"
+    },
+    {
+        "Name": "DROUGHT_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "EMERGENCIES_UPDATED"
+    },
+    {
+        "Name": "EMERGENCY_AVAILABLE_PARTICIPANT"
+    },
+    {
+        "Name": "EMERGENCY_AVAILABLE"
+    },
+    {
+        "Name": "EMERGENCY_COMPLETE_PARTICIPANTS"
+    },
+    {
+        "Name": "EMERGENCY_COMPLETE"
+    },
+    {
+        "Name": "EMERGENCY_PLAYER_SCORE_CHANGED"
+    },
+    {
+        "Name": "EMERGENCY_REJECTED"
+    },
+    {
+        "Name": "EMERGENCY_STARTED"
+    },
+    {
+        "Name": "EVENT_POPUP_REQUEST"
+    },
+    {
+        "Name": "EVENT_POPUP_RESPONSE"
+    },
+    {
+        "Name": "EVENT_SOUND_REQUEST"
+    },
+    {
+        "Name": "FEATURE_ADDED_TO_MAP"
+    },
+    {
+        "Name": "FEATURE_CHANGED"
+    },
+    {
+        "Name": "FEATURE_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "FEATURE_VISIBILITY_CHANGED"
+    },
+    {
+        "Name": "FERTILITY_CHANGED"
+    },
+    {
+        "Name": "FLOOD_MITIGATED"
+    },
+    {
+        "Name": "FLOOD_OCCURED"
+    },
+    {
+        "Name": "FLOODPLAIN_REVEALED"
+    },
+    {
+        "Name": "GAME_ERA_CHANGED"
+    },
+    {
+        "Name": "GAME_HISTORY_MOMENT_RECORDED"
+    },
+    {
+        "Name": "GAME_PAUSE_CHANGED"
+    },
+    {
+        "Name": "GAME_PROPERTY_CHANGED"
+    },
+    {
+        "Name": "GAMEQUERY_RESULT"
+    },
+    {
+        "Name": "GEOTHERMAL_FISSURE_REVEALED"
+    },
+    {
+        "Name": "GLOBAL_DEFEAT"
+    },
+    {
+        "Name": "GOODY_HUT_REWARD"
+    },
+    {
+        "Name": "GOVERNMENT_CHANGED"
+    },
+    {
+        "Name": "GREAT_PEOPLE_POINTS_CHANGED"
+    },
+    {
+        "Name": "GREAT_PEOPLE_TIMELINE_CHANGED"
+    },
+    {
+        "Name": "GREAT_WORK_CREATED"
+    },
+    {
+        "Name": "GREAT_WORK_MOVED"
+    },
+    {
+        "Name": "HOLY_CITY_ADDED"
+    },
+    {
+        "Name": "IDEOLOGY_ADOPTED"
+    },
+    {
+        "Name": "IMPROVEMENT_ACTIVATED"
+    },
+    {
+        "Name": "IMPROVEMENT_ADDED_TO_MAP"
+    },
+    {
+        "Name": "IMPROVEMENT_CHANGED"
+    },
+    {
+        "Name": "IMPROVEMENT_OWNERSHIP_CHANGED"
+    },
+    {
+        "Name": "IMPROVEMENT_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "IMPROVEMENT_VISIBILITY_CHANGED"
+    },
+    {
+        "Name": "INDEPENDENT_DISPERSED"
+    },
+    {
+        "Name": "INFLUENCE_CHANGED"
+    },
+    {
+        "Name": "INFLUENCE_GIVEN"
+    },
+    {
+        "Name": "LEVY_COUNTER_CHANGED"
+    },
+    {
+        "Name": "LOCAL_PLAYER_CHANGED"
+    },
+    {
+        "Name": "LOCAL_PLAYER_END_TURN_BLOCKING_CHANGED"
+    },
+    {
+        "Name": "LOCAL_PLAYER_TURN_BEGIN"
+    },
+    {
+        "Name": "LOCAL_PLAYER_TURN_END"
+    },
+    {
+        "Name": "LOCAL_PLAYER_TURN_UNREADY"
+    },
+    {
+        "Name": "MAP_YIELDS_CHANGED"
+    },
+    {
+        "Name": "MESSAGES_PROCESSED"
+    },
+    {
+        "Name": "NATURAL_WONDER_REVEALED"
+    },
+    {
+        "Name": "NARRATIVE_CHOICE_MADE"
+    },
+    {
+        "Name": "NARRATIVE_TAG_CHANGED"
+    },
+    {
+        "Name": "NOTIFICATION_ACTIVATED"
+    },
+    {
+        "Name": "NOTIFICATION_ADDED"
+    },
+    {
+        "Name": "NOTIFICATION_DISMISSED"
+    },
+    {
+        "Name": "NOTIFICATION_REFRESH_REQUESTED"
+    },
+    {
+        "Name": "NUCLEAR_REACTOR_CHANGED"
+    },
+    {
+        "Name": "OBJECT_PAIRING"
+    },
+    {
+        "Name": "PANTHEON_FOUNDED"
+    },
+    {
+        "Name": "PHASE_BEGIN"
+    },
+    {
+        "Name": "PHASE_END"
+    },
+    {
+        "Name": "PLAYER_AGENDA_ADDED"
+    },
+    {
+        "Name": "PLAYER_ALIVE_CHANGED"
+    },
+    {
+        "Name": "PLAYER_BORDERS_CHANGED"
+    },
+    {
+        "Name": "PLAYER_CONNECTED"
+    },
+    {
+        "Name": "PLAYER_DEFEAT"
+    },
+    {
+        "Name": "PLAYER_DISCONNECTED"
+    },
+    {
+        "Name": "PLAYER_ERA_CHANGED"
+    },
+    {
+        "Name": "PLAYER_GOLDEN_AGE_CHANGED"
+    },
+    {
+        "Name": "PLAYER_INITIALIZED"
+    },
+    {
+        "Name": "PLAYER_OPERATION_COMPLETE"
+    },
+    {
+        "Name": "PLAYER_PROPERTY_CHANGED"
+    },
+    {
+        "Name": "PLAYER_RESOURCE_ALLOCATION_CHANGED"
+    },
+    {
+        "Name": "PLAYER_RESOURCE_CHANGED"
+    },
+    {
+        "Name": "PLAYER_RESTORED"
+    },
+    {
+        "Name": "PLAYER_TURN_ACTIVATED"
+    },
+    {
+        "Name": "PLAYER_TURN_DEACTIVATED"
+    },
+    {
+        "Name": "PLAYER_UNINITIALIZED"
+    },
+    {
+        "Name": "PLAYER_UNLOCK_CHANGED"
+    },
+    {
+        "Name": "PLAYER_UNLOCK_PROGRESS_CHANGED"
+    },
+    {
+        "Name": "PLAYER_LEGACY_PATH_PROGRESS_CHANGED"
+    },
+    {
+        "Name": "PLAYER_VISIBILITY_CHANGED"
+    },
+    {
+        "Name": "PLAYER_YIELD_CHANGED"
+    },
+    {
+        "Name": "PLAYER_YIELD_GRANTED"
+    },
+    {
+        "Name": "PLOT_EFFECT_ADDED_TO_MAP"
+    },
+    {
+        "Name": "PLOT_EFFECT_CHANGED"
+    },
+    {
+        "Name": "PLOT_EFFECT_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "PLOT_EFFECT_VISBILITY_CHANGED"
+    },
+    {
+        "Name": "PLOT_MARKER_CHANGED"
+    },
+    {
+        "Name": "PLOT_OWNERSHIP_CHANGED"
+    },
+    {
+        "Name": "PLOT_PASSABILITY_CHANGED"
+    },
+    {
+        "Name": "PLOT_PROPERTY_CHANGED"
+    },
+    {
+        "Name": "PLOT_STATE_CHANGED"
+    },
+    {
+        "Name": "PLOT_VISIBILITY_CHANGED"
+    },
+    {
+        "Name": "PLOT_YIELD_CHANGED"
+    },
+    {
+        "Name": "POWER_GENERATED_FROM_RESOURCE"
+    },
+    {
+        "Name": "PRE_TURN_BEGIN"
+    },
+    {
+        "Name": "QUEST_CHANGED"
+    },
+    {
+        "Name": "RANDOM_EVENT_OCCURRED"
+    },
+    {
+        "Name": "RELIGION_FOUNDED"
+    },
+    {
+        "Name": "REMOTE_PLAYER_TURN_BEGIN"
+    },
+    {
+        "Name": "REMOTE_PLAYER_TURN_END"
+    },
+    {
+        "Name": "REMOTE_PLAYER_TURN_UNREADY"
+    },
+    {
+        "Name": "RESEARCH_QUEUE_CHANGED"
+    },
+    {
+        "Name": "RESOURCE_ADDED_TO_MAP"
+    },
+    {
+        "Name": "RESOURCE_AMOUNT_CHANGED"
+    },
+    {
+        "Name": "RESOURCE_CAP_CHANGED"
+    },
+    {
+        "Name": "RESOURCE_CHANGED"
+    },
+    {
+        "Name": "RESOURCE_CONSUMED"
+    },
+    {
+        "Name": "RESOURCE_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "RESOURCE_VISIBILITY_CHANGED"
+    },
+    {
+        "Name": "RIVER_ADDED_TO_MAP"
+    },
+    {
+        "Name": "RIVER_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "ROUTE_ADDED_TO_MAP"
+    },
+    {
+        "Name": "ROUTE_CHANGED"
+    },
+    {
+        "Name": "ROUTE_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "RURAL_RELIGION_CHANGED"
+    },
+    {
+        "Name": "SCIENCE_YIELD_CHANGED"
+    },
+    {
+        "Name": "SPY_ADDED"
+    },
+    {
+        "Name": "SPY_MISSION_COMPLETED"
+    },
+    {
+        "Name": "SPY_MISSION_UPDATED"
+    },
+    {
+        "Name": "SPY_REMOVED"
+    },
+    {
+        "Name": "SPY_UPDATED"
+    },
+    {
+        "Name": "STORM_ADDED_TO_MAP"
+    },
+    {
+        "Name": "STORM_CHANGED"
+    },
+    {
+        "Name": "STORM_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "TEAM_VICTORY"
+    },
+    {
+        "Name": "TECH_NODE_COMPLETED"
+    },
+    {
+        "Name": "TECH_TREE_CHANGED"
+    },
+    {
+        "Name": "TECH_TARGET_CHANGED"
+    },
+    {
+        "Name": "TERRAIN_STATE_CHANGED"
+    },
+    {
+        "Name": "TERRAIN_SUBTYPE_CHANGED"
+    },
+    {
+        "Name": "TERRAIN_TYPE_CHANGED"
+    },
+    {
+        "Name": "TRADE_ROUTE_ADDED_TO_MAP"
+    },
+    {
+        "Name": "TRADE_ROUTE_CHANGED"
+    },
+    {
+        "Name": "TRADE_ROUTE_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "TRADITION_CHANGED"
+    },
+    {
+        "Name": "TRADITION_SLOTS_ADDED"
+    },
+    {
+        "Name": "TRADITION_UNLOCKED"
+    },
+    {
+        "Name": "TREASURY_CHANGED"
+    },
+    {
+        "Name": "TURN_BEGIN"
+    },
+    {
+        "Name": "TURN_END"
+    },
+    {
+        "Name": "UNIT_ABILITY_GAINED"
+    },
+    {
+        "Name": "UNIT_ABILITY_LOST"
+    },
+    {
+        "Name": "UNIT_ACTIVATE"
+    },
+    {
+        "Name": "UNIT_ACTIVITY_CHANGED"
+    },
+    {
+        "Name": "UNIT_ADDED_TO_ARMY"
+    },
+    {
+        "Name": "UNIT_ADDED_TO_MAP"
+    },
+    {
+        "Name": "UNIT_AI_COMPLETE"
+    },
+    {
+        "Name": "UNIT_AIRLIFTED"
+    },
+    {
+        "Name": "UNIT_ARMY_ZOC_CHANGED"
+    },
+    {
+        "Name": "UNIT_ARRIVED_AT_CITY"
+    },
+    {
+        "Name": "UNIT_ARRIVED_AT_DISTRICT"
+    },
+    {
+        "Name": "UNIT_ARTIFACT_CHANGED"
+    },
+    {
+        "Name": "UNIT_ATTACKS_REMAINING_CHANGED"
+    },
+    {
+        "Name": "UNIT_CAPTURED"
+    },
+    {
+        "Name": "UNIT_CHARGES_CHANGED"
+    },
+    {
+        "Name": "UNIT_COMMAND_STARTED"
+    },
+    {
+        "Name": "UNIT_DAMAGE_CHANGED"
+    },
+    {
+        "Name": "UNIT_EMBARK_CHANGED"
+    },
+    {
+        "Name": "UNIT_ENTER_FORMATION"
+    },
+    {
+        "Name": "UNIT_EXIT_FORMATION"
+    },
+    {
+        "Name": "UNIT_FORMATION_CHANGED"
+    },
+    {
+        "Name": "UNIT_FORMATION_MOVE_INTO_ZOC_CHANGED"
+    },
+    {
+        "Name": "UNIT_FORMATION_MOVEMENT_POINTS_CHANGED"
+    },
+    {
+        "Name": "UNIT_FORTIFICATION_CHANGED"
+    },
+    {
+        "Name": "UNIT_GREATPERSON_ACTIVATED"
+    },
+    {
+        "Name": "UNIT_GREATPERSON_CHANGED"
+    },
+    {
+        "Name": "UNIT_GREATPERSON_CREATED"
+    },
+    {
+        "Name": "UNIT_JUMPED"
+    },
+    {
+        "Name": "UNIT_KILLED_IN_COMBAT"
+    },
+    {
+        "Name": "UNIT_DESTROYED"
+    },
+    {
+        "Name": "UNIT_LEFT_CITY"
+    },
+    {
+        "Name": "UNIT_LEFT_DISTRICT"
+    },
+    {
+        "Name": "UNIT_MOVE_COMPLETE"
+    },
+    {
+        "Name": "UNIT_MOVED"
+    },
+    {
+        "Name": "UNIT_MOVEMENT_POINTS_CHANGED"
+    },
+    {
+        "Name": "UNIT_MOVEMENT_POINTS_CLEARED"
+    },
+    {
+        "Name": "UNIT_MOVEMENT_POINTS_RESTORED"
+    },
+    {
+        "Name": "UNIT_OPERATION_ADDED_BY_LOCAL_PLAYER"
+    },
+    {
+        "Name": "UNIT_OPERATION_ADDED"
+    },
+    {
+        "Name": "UNIT_OPERATION_DEACTIVATED"
+    },
+    {
+        "Name": "UNIT_OPERATION_SEGMENT_COMPLETE"
+    },
+    {
+        "Name": "UNIT_OPERATION_STARTED"
+    },
+    {
+        "Name": "UNIT_OPERATIONS_CLEARED"
+    },
+    {
+        "Name": "UNIT_PARADROPPED"
+    },
+    {
+        "Name": "UNIT_PROMOTED"
+    },
+    {
+        "Name": "UNIT_PROPERTY_CHANGED"
+    },
+    {
+        "Name": "UNIT_REMOVED_FROM_ARMY"
+    },
+    {
+        "Name": "UNIT_REMOVED_FROM_MAP"
+    },
+    {
+        "Name": "UNIT_TELEPORTED"
+    },
+    {
+        "Name": "UNIT_TRADE_CHANGED"
+    },
+    {
+        "Name": "UNIT_UPGRADED"
+    },
+    {
+        "Name": "UNIT_VISIBILITY_CHANGED"
+    },
+    {
+        "Name": "UNIT_WORK_CHANGED"
+    },
+    {
+        "Name": "URBAN_RELIGION_CHANGED"
+    },
+    {
+        "Name": "VOLCANO_REVEALED"
+    },
+    {
+        "Name": "WMD_COUNT_CHANGED"
+    },
+    {
+        "Name": "WMD_DETONATED"
+    },
+    {
+        "Name": "WORLD_TEXT_MESSAGE"
+    }
+]

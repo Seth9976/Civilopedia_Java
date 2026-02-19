@@ -1,0 +1,422 @@
+[
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "HANDICAP_ARMY_XP"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": 1,
+        "HandicapSystemType": "HANDICAP_ARMY_XP"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": 3,
+        "HandicapSystemType": "HANDICAP_ARMY_XP"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 4,
+        "HandicapSystemType": "HANDICAP_ARMY_XP"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 5,
+        "HandicapSystemType": "HANDICAP_ARMY_XP"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 6,
+        "HandicapSystemType": "HANDICAP_ARMY_XP"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "HANDICAP_BUILDINGS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": 1,
+        "HandicapSystemType": "HANDICAP_BUILDINGS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": 2,
+        "HandicapSystemType": "HANDICAP_BUILDINGS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 3,
+        "HandicapSystemType": "HANDICAP_BUILDINGS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 4,
+        "HandicapSystemType": "HANDICAP_BUILDINGS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 5,
+        "HandicapSystemType": "HANDICAP_BUILDINGS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": -4,
+        "HandicapSystemType": "HANDICAP_COMBAT"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "HANDICAP_COMBAT"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": 1,
+        "HandicapSystemType": "HANDICAP_COMBAT"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 3,
+        "HandicapSystemType": "HANDICAP_COMBAT"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 5,
+        "HandicapSystemType": "HANDICAP_COMBAT"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 8,
+        "HandicapSystemType": "HANDICAP_COMBAT"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "HANDICAP_CULTURE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": 1,
+        "HandicapSystemType": "HANDICAP_CULTURE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": 2,
+        "HandicapSystemType": "HANDICAP_CULTURE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 3,
+        "HandicapSystemType": "HANDICAP_CULTURE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 4,
+        "HandicapSystemType": "HANDICAP_CULTURE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 5,
+        "HandicapSystemType": "HANDICAP_CULTURE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": -20,
+        "HandicapSystemType": "HANDICAP_GOLD"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "HANDICAP_GOLD"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": 20,
+        "HandicapSystemType": "HANDICAP_GOLD"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 40,
+        "HandicapSystemType": "HANDICAP_GOLD"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 60,
+        "HandicapSystemType": "HANDICAP_GOLD"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 80,
+        "HandicapSystemType": "HANDICAP_GOLD"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": -30,
+        "HandicapSystemType": "HANDICAP_HAPPINESS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "HANDICAP_HAPPINESS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": 20,
+        "HandicapSystemType": "HANDICAP_HAPPINESS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 40,
+        "HandicapSystemType": "HANDICAP_HAPPINESS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 60,
+        "HandicapSystemType": "HANDICAP_HAPPINESS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 80,
+        "HandicapSystemType": "HANDICAP_HAPPINESS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": -6,
+        "HandicapSystemType": "HANDICAP_INDEPENDENTS_COMBAT"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": -3,
+        "HandicapSystemType": "HANDICAP_INDEPENDENTS_COMBAT"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": -3,
+        "HandicapSystemType": "HANDICAP_INDEPENDENTS_COMBAT"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "HANDICAP_INDEPENDENTS_COMBAT"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "HANDICAP_INDEPENDENTS_COMBAT"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "HANDICAP_INDEPENDENTS_COMBAT"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "HANDICAP_SCIENCE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": 1,
+        "HandicapSystemType": "HANDICAP_SCIENCE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": 2,
+        "HandicapSystemType": "HANDICAP_SCIENCE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 3,
+        "HandicapSystemType": "HANDICAP_SCIENCE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 4,
+        "HandicapSystemType": "HANDICAP_SCIENCE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 5,
+        "HandicapSystemType": "HANDICAP_SCIENCE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "HANDICAP_UNITS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": 1,
+        "HandicapSystemType": "HANDICAP_UNITS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": 2,
+        "HandicapSystemType": "HANDICAP_UNITS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 3,
+        "HandicapSystemType": "HANDICAP_UNITS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 4,
+        "HandicapSystemType": "HANDICAP_UNITS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 5,
+        "HandicapSystemType": "HANDICAP_UNITS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": 25,
+        "HandicapSystemType": "HANDICAP_WATER_DAMAGE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": 33,
+        "HandicapSystemType": "HANDICAP_WATER_DAMAGE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": 40,
+        "HandicapSystemType": "HANDICAP_WATER_DAMAGE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 45,
+        "HandicapSystemType": "HANDICAP_WATER_DAMAGE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 50,
+        "HandicapSystemType": "HANDICAP_WATER_DAMAGE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 80,
+        "HandicapSystemType": "HANDICAP_WATER_DAMAGE"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "HANDICAP_TECH_COST"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": 1,
+        "HandicapSystemType": "HANDICAP_TECH_COST"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": 2,
+        "HandicapSystemType": "HANDICAP_TECH_COST"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 3,
+        "HandicapSystemType": "HANDICAP_TECH_COST"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 4,
+        "HandicapSystemType": "HANDICAP_TECH_COST"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 5,
+        "HandicapSystemType": "HANDICAP_TECH_COST"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "HANDICAP_CIVIC_COST"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": 1,
+        "HandicapSystemType": "HANDICAP_CIVIC_COST"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": 2,
+        "HandicapSystemType": "HANDICAP_CIVIC_COST"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 3,
+        "HandicapSystemType": "HANDICAP_CIVIC_COST"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 4,
+        "HandicapSystemType": "HANDICAP_CIVIC_COST"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 5,
+        "HandicapSystemType": "HANDICAP_CIVIC_COST"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "MO_HANDICAP_CITY_WALLS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "MO_HANDICAP_CITY_WALLS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": 1,
+        "HandicapSystemType": "MO_HANDICAP_CITY_WALLS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 2,
+        "HandicapSystemType": "MO_HANDICAP_CITY_WALLS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 3,
+        "HandicapSystemType": "MO_HANDICAP_CITY_WALLS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 4,
+        "HandicapSystemType": "MO_HANDICAP_CITY_WALLS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "MO_HANDICAP_TOWN_WALLS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "MO_HANDICAP_TOWN_WALLS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_KING",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "MO_HANDICAP_TOWN_WALLS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "HandicapLevel": 0,
+        "HandicapSystemType": "MO_HANDICAP_TOWN_WALLS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "HandicapLevel": 1,
+        "HandicapSystemType": "MO_HANDICAP_TOWN_WALLS"
+    },
+    {
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "HandicapLevel": 1,
+        "HandicapSystemType": "MO_HANDICAP_TOWN_WALLS"
+    }
+]

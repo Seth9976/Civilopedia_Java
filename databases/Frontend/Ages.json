@@ -1,0 +1,44 @@
+[
+    {
+        "AgeType": "AGE_ANTIQUITY",
+        "Banner": "age-sel_antiquity_full",
+        "DefeatDomain": "AntiquityDefeats",
+        "Description": "LOC_AGE_ANTIQUITY_DESCRIPTION",
+        "Domain": "StandardAges",
+        "FixedMaxTurns": 0,
+        "MapSizeDomain": "DistantLandsMapSizes",
+        "MaxTurns": null,
+        "Name": "LOC_AGE_ANTIQUITY_NAME",
+        "PlayerCivilizationDomain": "AntiquityAgeCivilizations",
+        "SortIndex": 10,
+        "VictoryDomain": "AntiquityVictories"
+    },
+    {
+        "AgeType": "AGE_EXPLORATION",
+        "Banner": "age-sel_exploration_full",
+        "DefeatDomain": "ExplorationDefeats",
+        "Description": "LOC_AGE_EXPLORATION_DESCRIPTION",
+        "Domain": "StandardAges",
+        "FixedMaxTurns": 0,
+        "MapSizeDomain": "DistantLandsMapSizes",
+        "MaxTurns": null,
+        "Name": "LOC_AGE_EXPLORATION_NAME",
+        "PlayerCivilizationDomain": "ExplorationAgeCivilizations",
+        "SortIndex": 20,
+        "VictoryDomain": "ExplorationVictories"
+    },
+    {
+        "AgeType": "AGE_MODERN",
+        "Banner": "age-sel_modern_full",
+        "DefeatDomain": "ModernDefeats",
+        "Description": "LOC_AGE_MODERN_DESCRIPTION",
+        "Domain": "StandardAges",
+        "FixedMaxTurns": 0,
+        "MapSizeDomain": "StandardMapSizes",
+        "MaxTurns": null,
+        "Name": "LOC_AGE_MODERN_NAME",
+        "PlayerCivilizationDomain": "ModernAgeCivilizations",
+        "SortIndex": 30,
+        "VictoryDomain": "ModernVictories"
+    }
+]

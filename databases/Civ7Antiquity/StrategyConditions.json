@@ -1,0 +1,299 @@
+[
+    {
+        "ConditionFunction": "HasFoodLessThan",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "CITY_STRATEGY_EARLY_FOOD",
+        "StringValue": null,
+        "ThresholdValue": 10
+    },
+    {
+        "ConditionFunction": "HasFoodLessThan",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "CITY_STRATEGY_EARLY_FOOD",
+        "StringValue": null,
+        "ThresholdValue": 15
+    },
+    {
+        "ConditionFunction": "HasFoodGreaterThan",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "CITY_STRATEGY_EARLY_FOOD",
+        "StringValue": null,
+        "ThresholdValue": 14
+    },
+    {
+        "ConditionFunction": "HasRuralPopGreaterThan",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "CITY_STRATEGY_EARLY_FOOD",
+        "StringValue": null,
+        "ThresholdValue": 5
+    },
+    {
+        "ConditionFunction": "HasRuralPopGreaterThan",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "CITY_STRATEGY_PRODUCTION_BIAS",
+        "StringValue": null,
+        "ThresholdValue": 4
+    },
+    {
+        "ConditionFunction": "HasHappinessLessThan",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "CITY_STRATEGY_STAY_HAPPY",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "HasProductionGreaterThan",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "CITY_STRATEGY_WONDERS",
+        "StringValue": null,
+        "ThresholdValue": 20
+    },
+    {
+        "ConditionFunction": "GovernmentMatches",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION",
+        "StringValue": "GOVERNMENT_DESPOTISM",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "NumCities",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION",
+        "StringValue": null,
+        "ThresholdValue": 4
+    },
+    {
+        "ConditionFunction": "NumConqueredCities",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "TopMilitaryPercent",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION",
+        "StringValue": null,
+        "ThresholdValue": 25
+    },
+    {
+        "ConditionFunction": "NumCommanders",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION",
+        "StringValue": null,
+        "ThresholdValue": 2
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_MILITARISTIC",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_EXPANSIONIST",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 1,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION",
+        "StringValue": "TRAIT_AQ_MILITARY_VICTORY",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "GovernmentMatches",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SCIENCE",
+        "StringValue": "GOVERNMENT_DESPOTISM",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "NumCities",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SCIENCE",
+        "StringValue": null,
+        "ThresholdValue": 3
+    },
+    {
+        "ConditionFunction": "TopSciencePercent",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SCIENCE",
+        "StringValue": null,
+        "ThresholdValue": 33
+    },
+    {
+        "ConditionFunction": "NumGreatWorks",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SCIENCE",
+        "StringValue": null,
+        "ThresholdValue": 2
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SCIENCE",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_SCIENTIFIC",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 1,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SCIENCE",
+        "StringValue": "TRAIT_AQ_SCIENCE_VICTORY",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "GovernmentMatches",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_WONDERS",
+        "StringValue": "GOVERNMENT_CLASSICAL_REPUBLIC",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "TopYieldPercent",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_WONDERS",
+        "StringValue": "YIELD_PRODUCTION",
+        "ThresholdValue": 33
+    },
+    {
+        "ConditionFunction": "NumWonders",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_WONDERS",
+        "StringValue": null,
+        "ThresholdValue": 2
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_WONDERS",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_CULTURAL",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 1,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_WONDERS",
+        "StringValue": "TRAIT_AQ_CULTURE_VICTORY",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "GovernmentMatches",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IMPORTS",
+        "StringValue": "GOVERNMENT_OLIGARCHY",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "NumMajorsMet",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IMPORTS",
+        "StringValue": null,
+        "ThresholdValue": 2
+    },
+    {
+        "ConditionFunction": "LimitedWars",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IMPORTS",
+        "StringValue": null,
+        "ThresholdValue": 2
+    },
+    {
+        "ConditionFunction": "VictoryPoints",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IMPORTS",
+        "StringValue": "VICTORY_ANTIQUITY_ECONOMIC",
+        "ThresholdValue": 3
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IMPORTS",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_POLITICAL",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IMPORTS",
+        "StringValue": "TRAIT_LEADER_ATTRIBUTE_ECONOMIC",
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "HasLeaderTrait",
+        "Disqualifier": 0,
+        "Exclusive": 1,
+        "Forbidden": 0,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IMPORTS",
+        "StringValue": "TRAIT_AQ_ECONOMIC_VICTORY",
+        "ThresholdValue": 1
+    }
+]

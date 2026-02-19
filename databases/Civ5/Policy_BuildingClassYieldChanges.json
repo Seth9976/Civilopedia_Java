@@ -1,0 +1,92 @@
+[
+    {
+        "BuildingClassType": "BUILDINGCLASS_SHRINE",
+        "PolicyType": "POLICY_ORGANIZED_RELIGION",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_TEMPLE",
+        "PolicyType": "POLICY_ORGANIZED_RELIGION",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_MINT",
+        "PolicyType": "POLICY_MERCANTILISM",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_MARKET",
+        "PolicyType": "POLICY_MERCANTILISM",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_BANK",
+        "PolicyType": "POLICY_MERCANTILISM",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_STOCK_EXCHANGE",
+        "PolicyType": "POLICY_MERCANTILISM",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_HARBOR",
+        "PolicyType": "POLICY_MERCHANT_NAVY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_SEAPORT",
+        "PolicyType": "POLICY_MERCHANT_NAVY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_LIGHTHOUSE",
+        "PolicyType": "POLICY_MERCHANT_NAVY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_NATIONAL_TREASURY",
+        "PolicyType": "POLICY_MERCHANT_NAVY",
+        "YieldChange": 4,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_LIBRARY",
+        "PolicyType": "POLICY_SOVEREIGNTY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_UNIVERSITY",
+        "PolicyType": "POLICY_SOVEREIGNTY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_OBSERVATORY",
+        "PolicyType": "POLICY_SOVEREIGNTY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_LABORATORY",
+        "PolicyType": "POLICY_SOVEREIGNTY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_PUBLIC_SCHOOL",
+        "PolicyType": "POLICY_SOVEREIGNTY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    }
+]

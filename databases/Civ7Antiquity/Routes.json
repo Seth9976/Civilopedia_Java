@@ -1,0 +1,14 @@
+[
+    {
+        "Description": "LOC_ROUTE_ROAD_DESCRIPTION",
+        "MovementCost": 1.0,
+        "Name": "LOC_ROUTE_ROAD_NAME",
+        "PlacementRequiresOwnedTile": 0,
+        "PlacementRequiresRoutePresent": 0,
+        "PlacementValue": 1,
+        "PrereqAge": null,
+        "RequiredConstructible": null,
+        "RouteType": "ROUTE_ROAD",
+        "TraitType": null
+    }
+]

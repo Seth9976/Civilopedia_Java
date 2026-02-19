@@ -1,0 +1,227 @@
+[
+    {
+        "DependsOnCapability": "CAPABILITY_CULTURE",
+        "GameCapability": "CAPABILITY_CIVICS",
+        "ID": 1
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_CIVICS",
+        "GameCapability": "CAPABILITY_CIVICS_CHOOSER",
+        "ID": 2
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_CIVICS",
+        "GameCapability": "CAPABILITY_CIVICS_TREE",
+        "ID": 3
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_SCIENCE",
+        "GameCapability": "CAPABILITY_TECHNOLOGIES",
+        "ID": 4
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_TECHNOLOGIES",
+        "GameCapability": "CAPABILITY_TECH_CHOOSER",
+        "ID": 5
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_TECHNOLOGIES",
+        "GameCapability": "CAPABILITY_TECH_TREE",
+        "ID": 6
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_CULTURE",
+        "GameCapability": "CAPABILITY_CULTURE_BORDER_GROWTH",
+        "ID": 7
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_TRADE",
+        "GameCapability": "CAPABILITY_TRADE_VIEW",
+        "ID": 8
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_DIPLOMACY",
+        "GameCapability": "CAPABILITY_DIPLOMACY_DEALS",
+        "ID": 9
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_RELIGION",
+        "GameCapability": "CAPABILITY_FOUND_PANTHEONS",
+        "ID": 10
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_RELIGION",
+        "GameCapability": "CAPABILITY_FOUND_RELIGIONS",
+        "ID": 11
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_RELIGION",
+        "GameCapability": "CAPABILITY_RELIGION_VIEW",
+        "ID": 12
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_GOVERNMENTS",
+        "GameCapability": "CAPABILITY_GOVERNMENTS_VIEW",
+        "ID": 13
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_GREAT_WORKS",
+        "GameCapability": "CAPABILITY_NEW_GREAT_WORKS",
+        "ID": 15
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_GREAT_WORKS",
+        "GameCapability": "CAPABILITY_GREAT_WORKS_VIEW",
+        "ID": 16
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_GREAT_PEOPLE",
+        "GameCapability": "CAPABILITY_GREAT_PEOPLE_CAN_RECRUIT",
+        "ID": 17
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_GREAT_PEOPLE",
+        "GameCapability": "CAPABILITY_GREAT_PEOPLE_RECRUIT_WITH_GOLD",
+        "ID": 18
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_GOLD",
+        "GameCapability": "CAPABILITY_GREAT_PEOPLE_RECRUIT_WITH_GOLD",
+        "ID": 19
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_GREAT_PEOPLE",
+        "GameCapability": "CAPABILITY_GREAT_PEOPLE_RECRUIT_WITH_FAITH",
+        "ID": 20
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_FAITH",
+        "GameCapability": "CAPABILITY_GREAT_PEOPLE_RECRUIT_WITH_FAITH",
+        "ID": 21
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_GREAT_PEOPLE",
+        "GameCapability": "CAPABILITY_GREAT_PEOPLE_CAN_REJECT",
+        "ID": 22
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_GREAT_PEOPLE",
+        "GameCapability": "CAPABILITY_GREAT_PEOPLE_VIEW",
+        "ID": 23
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_ESPIONAGE",
+        "GameCapability": "CAPABILITY_NEW_ESPIONAGE",
+        "ID": 24
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_ESPIONAGE",
+        "GameCapability": "CAPABILITY_ESPIONAGE_VIEW",
+        "ID": 25
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_RELIGION",
+        "GameCapability": "CAPABILITY_LENS_RELIGION",
+        "ID": 26
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_GOVERNMENTS",
+        "GameCapability": "CAPABILITY_LENS_GOVERNMENT",
+        "ID": 27
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_TOURISM",
+        "GameCapability": "CAPABILITY_LENS_TOURISM",
+        "ID": 28
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_ERAS",
+        "GameCapability": "CAPABILITY_GOLDEN_AND_DARK_AGES",
+        "ID": 29
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_ERAS",
+        "GameCapability": "CAPABILITY_HISTORIC_MOMENTS",
+        "ID": 30
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_CIVICS",
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_CIVICS",
+        "ID": 31
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_AMENITIES",
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_CIVICS",
+        "ID": 32
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_RELIGION",
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_RELIGION",
+        "ID": 33
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_AMENITIES",
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_RELIGION",
+        "ID": 34
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_GREAT_PEOPLE",
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_GREAT_PEOPLE",
+        "ID": 35
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_AMENITIES",
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_GREAT_PEOPLE",
+        "ID": 36
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_AMENITIES",
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_NATIONAL_PARKS",
+        "ID": 37
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_AMENITIES",
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_CITY_STATES",
+        "ID": 38
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_AMENITIES",
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_WAR_WEARINESS",
+        "ID": 39
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_AMENITIES",
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_BANKRUPTCY",
+        "ID": 40
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_GREAT_PEOPLE",
+        "GameCapability": "CAPABILITY_CITY_HUD_HOUSING_GREAT_PEOPLE",
+        "ID": 41
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_RELIGION",
+        "GameCapability": "CAPABILITY_CITY_HUD_RELIGION_TAB",
+        "ID": 42
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_TRADE",
+        "GameCapability": "CAPABILITY_CITY_HUD_TRADING_POSTS",
+        "ID": 43
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_FAITH",
+        "GameCapability": "CAPABILITY_FAITH_PURCHASE",
+        "ID": 44
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_WORLD_CLIMATE",
+        "GameCapability": "CAPABILITY_WORLD_CLIMATE_VIEW",
+        "ID": 45
+    },
+    {
+        "DependsOnCapability": "CAPABILITY_RANDOM_EVENTS",
+        "GameCapability": "CAPABILITY_MEGADISASTERS",
+        "ID": 46
+    }
+]

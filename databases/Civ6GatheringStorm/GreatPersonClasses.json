@@ -1,0 +1,122 @@
+[
+    {
+        "ActionIcon": "ICON_UNITOPERATION_GENERAL_ACTION",
+        "AvailableInTimeline": 1,
+        "DistrictType": "DISTRICT_ENCAMPMENT",
+        "GenerateDuplicateIndividuals": 0,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_GENERAL",
+        "IconString": "[ICON_GreatGeneral]",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_GREAT_PERSON_CLASS_GENERAL_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GPP_GENERAL",
+        "UnitType": "UNIT_GREAT_GENERAL"
+    },
+    {
+        "ActionIcon": "ICON_UNITOPERATION_ADMIRAL_ACTION",
+        "AvailableInTimeline": 1,
+        "DistrictType": "DISTRICT_HARBOR",
+        "GenerateDuplicateIndividuals": 0,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ADMIRAL",
+        "IconString": "[ICON_GreatAdmiral]",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_GREAT_PERSON_CLASS_ADMIRAL_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GPP_ADMIRAL",
+        "UnitType": "UNIT_GREAT_ADMIRAL"
+    },
+    {
+        "ActionIcon": "ICON_UNITOPERATION_ENGINEER_ACTION",
+        "AvailableInTimeline": 1,
+        "DistrictType": "DISTRICT_INDUSTRIAL_ZONE",
+        "GenerateDuplicateIndividuals": 0,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ENGINEER",
+        "IconString": "[ICON_GreatEngineer]",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_GREAT_PERSON_CLASS_ENGINEER_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GPP_ENGINEER",
+        "UnitType": "UNIT_GREAT_ENGINEER"
+    },
+    {
+        "ActionIcon": "ICON_UNITOPERATION_MERCHANT_ACTION",
+        "AvailableInTimeline": 1,
+        "DistrictType": "DISTRICT_COMMERCIAL_HUB",
+        "GenerateDuplicateIndividuals": 0,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MERCHANT",
+        "IconString": "[ICON_GreatMerchant]",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_GREAT_PERSON_CLASS_MERCHANT_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GPP_MERCHANT",
+        "UnitType": "UNIT_GREAT_MERCHANT"
+    },
+    {
+        "ActionIcon": "ICON_UNITOPERATION_FOUND_RELIGION",
+        "AvailableInTimeline": 1,
+        "DistrictType": "DISTRICT_HOLY_SITE",
+        "GenerateDuplicateIndividuals": 0,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_PROPHET",
+        "IconString": "[ICON_GreatProphet]",
+        "MaxPlayerInstances": 1,
+        "Name": "LOC_GREAT_PERSON_CLASS_PROPHET_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GPP_PROPHET",
+        "UnitType": "UNIT_GREAT_PROPHET"
+    },
+    {
+        "ActionIcon": "ICON_UNITOPERATION_SCIENTIST_ACTION",
+        "AvailableInTimeline": 1,
+        "DistrictType": "DISTRICT_CAMPUS",
+        "GenerateDuplicateIndividuals": 0,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_SCIENTIST",
+        "IconString": "[ICON_GreatScientist]",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_GREAT_PERSON_CLASS_SCIENTIST_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GPP_SCIENTIST",
+        "UnitType": "UNIT_GREAT_SCIENTIST"
+    },
+    {
+        "ActionIcon": "ICON_UNITOPERATION_WRITER_ACTION",
+        "AvailableInTimeline": 1,
+        "DistrictType": "DISTRICT_THEATER",
+        "GenerateDuplicateIndividuals": 0,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_WRITER",
+        "IconString": "[ICON_GreatWriter]",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_GREAT_PERSON_CLASS_WRITER_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GPP_WRITER",
+        "UnitType": "UNIT_GREAT_WRITER"
+    },
+    {
+        "ActionIcon": "ICON_UNITOPERATION_ARTIST_ACTION",
+        "AvailableInTimeline": 1,
+        "DistrictType": "DISTRICT_THEATER",
+        "GenerateDuplicateIndividuals": 0,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ARTIST",
+        "IconString": "[ICON_GreatArtist]",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_GREAT_PERSON_CLASS_ARTIST_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GPP_ARTIST",
+        "UnitType": "UNIT_GREAT_ARTIST"
+    },
+    {
+        "ActionIcon": "ICON_UNITOPERATION_MUSICIAN_ACTION",
+        "AvailableInTimeline": 1,
+        "DistrictType": "DISTRICT_THEATER",
+        "GenerateDuplicateIndividuals": 0,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MUSICIAN",
+        "IconString": "[ICON_GreatMusician]",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_GREAT_PERSON_CLASS_MUSICIAN_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GPP_MUSICIAN",
+        "UnitType": "UNIT_GREAT_MUSICIAN"
+    },
+    {
+        "ActionIcon": "ICON_UNIT_COMANDANTE_GENERAL",
+        "AvailableInTimeline": 0,
+        "DistrictType": "DISTRICT_ENCAMPMENT",
+        "GenerateDuplicateIndividuals": 1,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_COMANDANTE_GENERAL",
+        "IconString": "[ICON_GreatGeneral]",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_GREAT_PERSON_CLASS_COMANDANTE_GENERAL_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GPP_GENERAL",
+        "UnitType": "UNIT_COMANDANTE_GENERAL"
+    }
+]

@@ -1,0 +1,752 @@
+[
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": 1980996878,
+        "Tag": "CULTURE"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -59564507,
+        "Tag": "DIPLOMACY"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": 491928508,
+        "Tag": "FOOD"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": 1117244189,
+        "Tag": "FORTIFICATION"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -1899819238,
+        "Tag": "GOLD"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -1923269191,
+        "Tag": "HAPPINESS"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": 2074255019,
+        "Tag": "MILITARY"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": 663573280,
+        "Tag": "PRODUCTION"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -1481822131,
+        "Tag": "SCIENCE"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": 1991343657,
+        "Tag": "TRADE"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": 1468951276,
+        "Tag": "WAREHOUSE"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -208131691,
+        "Tag": "WATER"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": 1719613414,
+        "Tag": "BRIDGE"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -706658469,
+        "Tag": "SUPPLIES"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -281165552,
+        "Tag": "GREATWORK"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -847971635,
+        "Tag": "RELIGIOUS"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -1079677426,
+        "Tag": "UNIQUE"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": 999586525,
+        "Tag": "UNIQUE_IMPROVEMENT"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -751024306,
+        "Tag": "CITY_STATE_UNIQUE_IMPROVEMENT"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": 1195065921,
+        "Tag": "DISTRICT_WALL"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -1986757934,
+        "Tag": "FULL_TILE"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -1070492623,
+        "Tag": "UNIT_FORTIFICATION"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": 1137569378,
+        "Tag": "IGNORE_DISTRICT_PLACEMENT_CAP"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": 1456920609,
+        "Tag": "LINK_ADJACENT"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -542624016,
+        "Tag": "DAMAGE_UPON_OCCUPATION"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -145690173,
+        "Tag": "RAIL_CONNECTION"
+    },
+    {
+        "Category": "TRANSITION_TAG",
+        "Hash": -960096810,
+        "Tag": "AGELESS"
+    },
+    {
+        "Category": "TRANSITION_TAG",
+        "Hash": 1400675871,
+        "Tag": "PERSISTENT"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -349692930,
+        "Tag": "MILL"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -568473239,
+        "Tag": "CRISIS"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": 551355351,
+        "Tag": "URBANCENTER"
+    },
+    {
+        "Category": "CONSTRUCTIBLE_TAG",
+        "Hash": -2074110864,
+        "Tag": "FISHING_BOAT"
+    },
+    {
+        "Category": "PLOTEFFECT_ATTRIBUTE",
+        "Hash": 1762689114,
+        "Tag": "SAND"
+    },
+    {
+        "Category": "PLOTEFFECT_ATTRIBUTE",
+        "Hash": -1460232,
+        "Tag": "SNOW"
+    },
+    {
+        "Category": "PLOTEFFECT_ATTRIBUTE",
+        "Hash": 467791018,
+        "Tag": "BURNED"
+    },
+    {
+        "Category": "PLOTEFFECT_ATTRIBUTE",
+        "Hash": 1672569272,
+        "Tag": "LIGHT"
+    },
+    {
+        "Category": "PLOTEFFECT_ATTRIBUTE",
+        "Hash": -915112498,
+        "Tag": "MEDIUM"
+    },
+    {
+        "Category": "PLOTEFFECT_ATTRIBUTE",
+        "Hash": 1922713360,
+        "Tag": "HEAVY"
+    },
+    {
+        "Category": "PLOTEFFECT_ATTRIBUTE",
+        "Hash": 459735200,
+        "Tag": "TRANSIENT"
+    },
+    {
+        "Category": "PLOTEFFECT_ATTRIBUTE",
+        "Hash": 1738563896,
+        "Tag": "PERMANENT"
+    },
+    {
+        "Category": "RESOURCE_TAG",
+        "Hash": -2063186362,
+        "Tag": "NAVIGABLE_RIVERS_ELIGIBLE"
+    },
+    {
+        "Category": "RESOURCE_TAG",
+        "Hash": -672032238,
+        "Tag": "IGNORES_WEIGHT_FOR_NAVIGABLE_RIVER_PLACEMENT"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": -1170442331,
+        "Tag": "ADJACENTTOLAND"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": -1504649804,
+        "Tag": "ADJACENTTOCOAST"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": 137479337,
+        "Tag": "ADJACENTTOSAMEBIOME"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": 1373377862,
+        "Tag": "ADJACENTMOUNTAIN"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": 170002756,
+        "Tag": "FEATURE_FOREST"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": -351013929,
+        "Tag": "FEATURE_REEF"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": 403810762,
+        "Tag": "FEATURE_WATERING_HOLE"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": 1796866880,
+        "Tag": "LAKE"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": -1660076541,
+        "Tag": "NEARCOAST"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": 751584055,
+        "Tag": "NOTNEARCOAST"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": -872979828,
+        "Tag": "NOTADJACENTMOUNTAIN"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": -1494358580,
+        "Tag": "NOTADJACENTTORIVER"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": 42543281,
+        "Tag": "NOTADJACENTTOICE"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": 444297772,
+        "Tag": "NOTADJACENTTOLAND"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": -643088063,
+        "Tag": "SIMALARELEVATION"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": -47899071,
+        "Tag": "SHALLOWWATER"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": 838590291,
+        "Tag": "VOLCANO"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": -860937495,
+        "Tag": "WATERFALL"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": -1984954226,
+        "Tag": "IN_LAKE"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1238811397,
+        "Tag": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -992933980,
+        "Tag": "UNIT_CLASS_NON_COMBAT"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1753265759,
+        "Tag": "UNIT_CLASS_AUTOEXPLORE"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1573496782,
+        "Tag": "UNIT_CLASS_RECON"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1693873142,
+        "Tag": "UNIT_CLASS_RECON_ABILITIES"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 652684894,
+        "Tag": "UNIT_CLASS_MELEE"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1483508442,
+        "Tag": "UNIT_CLASS_INFANTRY"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1405686847,
+        "Tag": "UNIT_CLASS_RANGED"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 48233960,
+        "Tag": "UNIT_CLASS_MOUNTED"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 2040589467,
+        "Tag": "UNIT_CLASS_WHEELED"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 60397508,
+        "Tag": "UNIT_CLASS_CAVALRY"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1155094885,
+        "Tag": "UNIT_CLASS_SKIRMISH"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1191580744,
+        "Tag": "UNIT_CLASS_SHOCK"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1912151800,
+        "Tag": "UNIT_CLASS_SIEGE"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 754381316,
+        "Tag": "UNIT_CLASS_STEALTH"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -500918049,
+        "Tag": "UNIT_CLASS_NAVAL"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1459873054,
+        "Tag": "UNIT_CLASS_NAVAL_STEALTH"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -128633397,
+        "Tag": "UNIT_CLASS_IGNORE_DISTRICT_COMBAT"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1825493088,
+        "Tag": "UNIT_CLASS_HEAVY"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -2112222968,
+        "Tag": "UNIT_CLASS_LIGHT"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -371438264,
+        "Tag": "UNIT_CLASS_COMMAND"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1304607780,
+        "Tag": "UNIT_CLASS_ARMY_COMMANDER"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -119650185,
+        "Tag": "UNIT_CLASS_FLEET_COMMANDER"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 918676878,
+        "Tag": "UNIT_CLASS_SQUADRON_COMMANDER"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -241901120,
+        "Tag": "UNIT_CLASS_AERODROME_COMMANDER"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1600014427,
+        "Tag": "UNIT_CLASS_CARRIER_COMMANDER"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 818387460,
+        "Tag": "UNIT_CLASS_MIGRANT"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1010099484,
+        "Tag": "UNIT_CLASS_POPULATION"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -2073632340,
+        "Tag": "UNIT_CLASS_GREATPERSON"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1866287324,
+        "Tag": "UNIT_CLASS_UNIQUE_GREATPERSON"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -721469513,
+        "Tag": "UNIT_CLASS_LOGISTICS"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1528374812,
+        "Tag": "UNIT_CLASS_HEALER"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 57368996,
+        "Tag": "UNIT_CLASS_AIRCRAFT"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1750123838,
+        "Tag": "UNIT_CLASS_AIR_FIGHTER"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 965419264,
+        "Tag": "UNIT_CLASS_GROUND_ATTACKER"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1864543087,
+        "Tag": "UNIT_CLASS_AIR_LAND_ATTACK_SPECIALIST"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 260403345,
+        "Tag": "UNIT_CLASS_BOMBER"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1985596342,
+        "Tag": "UNIT_CLASS_INTERCEPTOR"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -766618697,
+        "Tag": "UNIT_CLASS_INFLUENCE_INDEPENDENT"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1643784668,
+        "Tag": "UNIT_CLASS_CREATE_CITY"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -4713548,
+        "Tag": "UNIT_CLASS_CREATE_TOWN"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -409420535,
+        "Tag": "UNIT_CLASS_ALTERNATE_SETTLE"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -630366684,
+        "Tag": "UNIT_CLASS_MAKE_TRADE_ROUTE"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -597978159,
+        "Tag": "UNIT_CLASS_TRADE_ROUTE"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 758151261,
+        "Tag": "UNIT_CLASS_LAND_TRADE_ROUTE"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1367716152,
+        "Tag": "UNIT_CLASS_SEA_TRADE_ROUTE"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1489597890,
+        "Tag": "UNIT_CLASS_WMD"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 205297923,
+        "Tag": "UNIT_CLASS_RELIGIOUS"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1152232738,
+        "Tag": "UNIT_CLASS_ELITE_INFANTRY"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1361113707,
+        "Tag": "UNIT_CLASS_ELITE_CAVALRY"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1926955861,
+        "Tag": "UNIT_CLASS_ELITE_RANGED"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 686112316,
+        "Tag": "UNIT_CLASS_ELITE_SIEGE"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -607547119,
+        "Tag": "UNIT_CLASS_SEE_HIDDEN"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1762232868,
+        "Tag": "UNIT_CLASS_PET_THE_DOG"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -479647709,
+        "Tag": "UNIT_CLASS_DISABLE_SLEEP"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 102839011,
+        "Tag": "UNIT_CLASS_NO_INDEPENDENTS"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -84903979,
+        "Tag": "UNIT_CLASS_BURNING_ARROW"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 377049892,
+        "Tag": "UNIT_CLASS_DANTINAS_TATHA"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1822815193,
+        "Tag": "UNIT_CLASS_DHOW"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 36615697,
+        "Tag": "UNIT_CLASS_HOPLITE"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 189606412,
+        "Tag": "UNIT_CLASS_HULCHE"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1433496647,
+        "Tag": "UNIT_CLASS_IMMORTAL"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -231099904,
+        "Tag": "UNIT_CLASS_LEGION"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 885446747,
+        "Tag": "UNIT_CLASS_MEDJAY"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -641700114,
+        "Tag": "UNIT_CLASS_NU"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1612347007,
+        "Tag": "UNIT_CLASS_PURABHETTARAH"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1458153076,
+        "Tag": "UNIT_CLASS_FOEDERATI"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -644121732,
+        "Tag": "UNIT_CLASS_HAZARAPATIS"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 550583079,
+        "Tag": "UNIT_CLASS_JAGUAR_SLAYER"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1906207208,
+        "Tag": "UNIT_CLASS_LEGATUS"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -611334536,
+        "Tag": "UNIT_CLASS_LOGIOS"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 371144249,
+        "Tag": "UNIT_CLASS_NAGARIKA"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1442245704,
+        "Tag": "UNIT_CLASS_SHI_DAFU"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -2079028710,
+        "Tag": "UNIT_CLASS_TANKWA"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1551116279,
+        "Tag": "UNIT_CLASS_TJATY"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -649178453,
+        "Tag": "UNIT_CLASS_VAISHYA"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1706004373,
+        "Tag": "UNIT_CLASS_WATONATHI"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1797594842,
+        "Tag": "UNIT_CLASS_NUMIDIAN_CAVALRY"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -35945854,
+        "Tag": "UNIT_CLASS_COLONIST"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1356685878,
+        "Tag": "UNIT_CLASS_HWARANG"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1294122573,
+        "Tag": "UNIT_CLASS_SANGDAEDEUNG"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1927428164,
+        "Tag": "UNIT_CLASS_KALIA"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -864350608,
+        "Tag": "UNIT_CLASS_TEHINA"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": -1868184052,
+        "Tag": "UNIT_CLASS_TRUNG_NHI"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": 1801820370,
+        "Tag": "ADJACENTCLIFF"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": -1210301366,
+        "Tag": "ADJACENTTOSAMETERRAIN"
+    },
+    {
+        "Category": "FEATURE_ATTRIBUTE",
+        "Hash": 1265138666,
+        "Tag": "NOLANDOPPOSITECLIFF"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 287871226,
+        "Tag": "UNIT_CLASS_MAGARRU"
+    },
+    {
+        "Category": "UNIT_CLASS",
+        "Hash": 1291449921,
+        "Tag": "UNIT_CLASS_TURTANU"
+    }
+]

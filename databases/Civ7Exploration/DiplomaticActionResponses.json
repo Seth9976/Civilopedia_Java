@@ -1,0 +1,578 @@
+[
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_ACTION_MISSING_DATA",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_LAND_CLAIM",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SEND_GOLD_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SEND_GOLD",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_ACTION_MISSING_DATA",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GIVE_INFLUENCE_TOKEN",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_ACTION_MISSING_DATA",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_RECEIVE_GIFT",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_ACTION_MISSING_DATA",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_DECLARE_WAR",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_ACTION_MISSING_DATA",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_DECLARE_FORMAL_WAR",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_FORM_ALLIANCE_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FORM_ALLIANCE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_FORM_ALLIANCE_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FORM_ALLIANCE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_ACTION_MISSING_DATA",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_INCITE_RAID",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_ACTION_MISSING_DATA",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CS_PROMOTE_GROWTH",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_ACTION_MISSING_DATA",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CS_BOLSTER_MILITARY",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_ACTION_MISSING_DATA",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CS_ORDER_ATTACK",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_ACTION_MISSING_DATA",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CS_LEVY_UNIT",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_ACTION_MISSING_DATA",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CS_INCORPORATE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_ACTION_MISSING_DATA",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_COUNTER_SPY",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_OPEN_BORDERS_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_OPEN_BORDERS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_OPEN_BORDERS_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_OPEN_BORDERS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 20,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_RESEARCH_COLLABORATION_SUPPORT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_RESEARCH_COLLABORATION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_SUPPORT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_SUPPORT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_RESEARCH_COLLABORATION_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_RESEARCH_COLLABORATION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_RESEARCH_COLLABORATION_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_RESEARCH_COLLABORATION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 40,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_CULTURAL_EXCHANGE_SUPPORT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CULTURAL_EXCHANGE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_SUPPORT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_SUPPORT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_CULTURAL_EXCHANGE_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CULTURAL_EXCHANGE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_CULTURAL_EXCHANGE_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CULTURAL_EXCHANGE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 40,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_MINOR_TRADE_SUPPORT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_MINOR_TRADE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_SUPPORT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_SUPPORT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_MINOR_TRADE_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_MINOR_TRADE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_MINOR_TRADE_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_MINOR_TRADE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 40,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_LOCAL_FESTIVALS_SUPPORT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_LOCAL_FESTIVALS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_SUPPORT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_SUPPORT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_LOCAL_FESTIVALS_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_LOCAL_FESTIVALS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_LOCAL_FESTIVALS_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_LOCAL_FESTIVALS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 40,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_TRADE_MAP_SUPPORT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_TRADE_MAP",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_SUPPORT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_SUPPORT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_TRADE_MAP_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_TRADE_MAP",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_TRADE_MAP",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 40,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_FARMERS_MARKET_SUPPORT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FARMERS_MARKET",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_SUPPORT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_SUPPORT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_FARMERS_MARKET_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FARMERS_MARKET",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FARMERS_MARKET",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 40,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_MILITARY_AID_SUPPORT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_MILITARY_AID",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_SUPPORT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_SUPPORT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_MILITARY_AID_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_MILITARY_AID",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_MILITARY_AID",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 40,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SABOTAGE_TREASURY_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_TREASURY",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SABOTAGE_TREASURY_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_TREASURY",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_DEMAND_TRIBUTE_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_DEMAND_TRIBUTE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_DEMAND_TRIBUTE_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_DEMAND_TRIBUTE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SABOTAGE_MORALE_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_MORALE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SABOTAGE_MORALE_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_MORALE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SABOTAGE_RESEARCH_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_RESEARCH",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SABOTAGE_RESEARCH_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_RESEARCH",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SABOTAGE_CIVIC_STUDY_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_CIVIC_STUDY",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SABOTAGE_CIVIC_STUDY_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_CIVIC_STUDY",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SABOTAGE_MILITARY_PRODUCTION_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_MILITARY_PRODUCTION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SABOTAGE_MILITARY_PRODUCTION_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_MILITARY_PRODUCTION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SABOTAGE_FOOD_PRODUCTION_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_FOOD_PRODUCTION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SABOTAGE_FOOD_PRODUCTION_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_FOOD_PRODUCTION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_DENOUNCE_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_DENOUNCE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_DENOUNCE_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_DENOUNCE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SEND_DELEGATION_SUPPORT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SEND_DELEGATION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_SUPPORT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_SUPPORT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SEND_DELEGATION_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SEND_DELEGATION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_SEND_DELEGATION_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SEND_DELEGATION",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 40,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_IMPROVE_TRADE_RELATIONS_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_IMPROVE_TRADE_RELATIONS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_IMPROVE_TRADE_RELATIONS",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_GINSING_AGREEMENT_SUPPORT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GINSING_AGREEMENT",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_SUPPORT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_SUPPORT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_GINSING_AGREEMENT_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GINSING_AGREEMENT",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_GINSING_AGREEMENT_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GINSING_AGREEMENT",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 40,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_FRIEND_OF_WA_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FRIEND_OF_WA",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_FRIEND_OF_WA_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FRIEND_OF_WA",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 80,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_GRANT_POLICY_SLOT_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GRANT_POLICY_SLOT",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_GRANT_POLICY_SLOT_SUPPORT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GRANT_POLICY_SLOT",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_SUPPORT",
+        "InfCost": 200,
+        "Name": "LOC_DIPLOMACY_RESPONSE_SUPPORT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_GRANT_POLICY_SLOT_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GRANT_POLICY_SLOT",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 120,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_ESTABLISH_TREASURE_FLEET_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_ESTABLISH_TREASURE_FLEET",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_ESTABLISH_TREASURE_FLEET_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_ESTABLISH_TREASURE_FLEET",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 80,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_DENOUNCE_MILITARY_PRESENCE_SUPPORT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_DENOUNCE_MILITARY_PRESENCE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_SUPPORT",
+        "InfCost": 40,
+        "Name": "LOC_DIPLOMACY_RESPONSE_SUPPORT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_DENOUNCE_MILITARY_PRESENCE_ACCEPT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_DENOUNCE_MILITARY_PRESENCE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_ACCEPT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_ACCEPT"
+    },
+    {
+        "CostDescription": "LOC_DIPLOMACY_ACTION_COST_YIELD_DIPLOMACY",
+        "Description": "LOC_DIPLOMACY_PROJECT_DENOUNCE_MILITARY_PRESENCE_REJECT",
+        "DiplomacyActionType": "DIPLOMACY_ACTION_DENOUNCE_MILITARY_PRESENCE",
+        "DiplomaticResponseType": "DIPLOMACY_RESPONSE_REJECT",
+        "InfCost": 0,
+        "Name": "LOC_DIPLOMACY_RESPONSE_REJECT"
+    }
+]

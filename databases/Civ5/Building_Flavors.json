@@ -1,0 +1,1882 @@
+[
+    {
+        "BuildingType": "BUILDING_PALACE",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_PALACE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_PALACE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_LIGHTHOUSE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_NAVAL_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_LIGHTHOUSE",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_LIGHTHOUSE",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_LIGHTHOUSE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_NAVAL_TILE_IMPROVEMENT"
+    },
+    {
+        "BuildingType": "BUILDING_FLOATING_GARDENS",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_FLOATING_GARDENS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_FLOATING_GARDENS",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_FLOATING_GARDENS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_NAVAL_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_HARBOR",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_HARBOR",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_I_SEA_TRADE_ROUTE"
+    },
+    {
+        "BuildingType": "BUILDING_HARBOR",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_WATER_CONNECTION"
+    },
+    {
+        "BuildingType": "BUILDING_HARBOR",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_I_TRADE_ORIGIN"
+    },
+    {
+        "BuildingType": "BUILDING_SEAPORT",
+        "Flavor": 16,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "BuildingType": "BUILDING_SEAPORT",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_SEAPORT",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_BARRACKS",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_ARMORY",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_STABLE",
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_STABLE",
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_MOBILE"
+    },
+    {
+        "BuildingType": "BUILDING_STABLE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_MILITARY_ACADEMY",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_ARSENAL",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_WALLS",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_CASTLE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_MUGHAL_FORT",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MUGHAL_FORT",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_MILITARY_BASE",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_GRANARY",
+        "Flavor": 18,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_GRANARY",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_GRANARY",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_GRANARY",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "BuildingType": "BUILDING_GRANARY",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_I_LAND_TRADE_ROUTE"
+    },
+    {
+        "BuildingType": "BUILDING_GRANARY",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_I_SEA_TRADE_ROUTE"
+    },
+    {
+        "BuildingType": "BUILDING_KREPOST",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_KREPOST",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "BuildingType": "BUILDING_WATERMILL",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_WATERMILL",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_WATERMILL",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_HOSPITAL",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_MEDICAL_LAB",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSEUM",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSEUM",
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSEUM",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_CIRCUS",
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "BuildingType": "BUILDING_CIRCUS",
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_CIRCUS",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_THEATRE",
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "BuildingType": "BUILDING_THEATRE",
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_THEATRE",
+        "Flavor": 24,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_STADIUM",
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "BuildingType": "BUILDING_STADIUM",
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_STADIUM",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_COURTHOUSE",
+        "Flavor": 150,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_WORKSHOP",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_WORKSHOP",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "BuildingType": "BUILDING_WORKSHOP",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_WORKSHOP",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_WORKSHOP",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "BuildingType": "BUILDING_WORKSHOP",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_WORKSHOP",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_I_LAND_TRADE_ROUTE"
+    },
+    {
+        "BuildingType": "BUILDING_WORKSHOP",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_I_SEA_TRADE_ROUTE"
+    },
+    {
+        "BuildingType": "BUILDING_LONGHOUSE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_LONGHOUSE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "BuildingType": "BUILDING_LONGHOUSE",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_LONGHOUSE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_LONGHOUSE",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "BuildingType": "BUILDING_LONGHOUSE",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_FORGE",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_FORGE",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_WINDMILL",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_WINDMILL",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_WINDMILL",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_FACTORY",
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_FACTORY",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_FACTORY",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_HYDRO_PLANT",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_HYDRO_PLANT",
+        "Flavor": 70,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_SOLAR_PLANT",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_SOLAR_PLANT",
+        "Flavor": 70,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_NUCLEAR_PLANT",
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_NUCLEAR_PLANT",
+        "Flavor": 60,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_SPACESHIP_FACTORY",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_SPACESHIP_FACTORY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "BuildingType": "BUILDING_MARKET",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_MARKET",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_I_TRADE_ORIGIN"
+    },
+    {
+        "BuildingType": "BUILDING_MARKET",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_I_TRADE_DESTINATION"
+    },
+    {
+        "BuildingType": "BUILDING_MARKET",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_BAZAAR",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_BAZAAR",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_I_TRADE_ORIGIN"
+    },
+    {
+        "BuildingType": "BUILDING_BAZAAR",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_I_TRADE_DESTINATION"
+    },
+    {
+        "BuildingType": "BUILDING_BAZAAR",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_BAZAAR",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_MINT",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_BANK",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_BANK",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_I_TRADE_ORIGIN"
+    },
+    {
+        "BuildingType": "BUILDING_BANK",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_I_TRADE_DESTINATION"
+    },
+    {
+        "BuildingType": "BUILDING_BANK",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_SATRAPS_COURT",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_SATRAPS_COURT",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_SATRAPS_COURT",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_STOCK_EXCHANGE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_STOCK_EXCHANGE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_I_TRADE_ORIGIN"
+    },
+    {
+        "BuildingType": "BUILDING_STOCK_EXCHANGE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_I_TRADE_DESTINATION"
+    },
+    {
+        "BuildingType": "BUILDING_STOCK_EXCHANGE",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_LIBRARY",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_PAPER_MAKER",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_PAPER_MAKER",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_PAPER_MAKER",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_UNIVERSITY",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_UNIVERSITY",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_UNIVERSITY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_OBSERVATORY",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_PUBLIC_SCHOOL",
+        "Flavor": 65,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_PUBLIC_SCHOOL",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_LABORATORY",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_LABORATORY",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_MONUMENT",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_BURIAL_TOMB",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_BURIAL_TOMB",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_MUD_PYRAMID_MOSQUE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MUD_PYRAMID_MOSQUE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_WAT",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_WAT",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_WAT",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_OPERA_HOUSE",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_OPERA_HOUSE",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_MUSEUM",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MUSEUM",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_BROADCAST_TOWER",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_GARDEN",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_HEROIC_EPIC",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_HEROIC_EPIC",
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_HEROIC_EPIC",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_HEROIC_EPIC",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_HEROIC_EPIC",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_NATIONAL_EPIC",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_NATIONAL_EPIC",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_CIRCUS_MAXIMUS",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_CIRCUS_MAXIMUS",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_NATIONAL_TREASURY",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_NATIONAL_TREASURY",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_I_TRADE_ORIGIN"
+    },
+    {
+        "BuildingType": "BUILDING_NATIONAL_TREASURY",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_I_TRADE_DESTINATION"
+    },
+    {
+        "BuildingType": "BUILDING_NATIONAL_TREASURY",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_NATIONAL_COLLEGE",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_NATIONAL_COLLEGE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_IRONWORKS",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_IRONWORKS",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_OXFORD_UNIVERSITY",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_OXFORD_UNIVERSITY",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_HERMITAGE",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_HERMITAGE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_PYRAMID",
+        "Flavor": 45,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "BuildingType": "BUILDING_PYRAMID",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_PYRAMID",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_PYRAMID",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_STONEHENGE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_STONEHENGE",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_STONEHENGE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_HANGING_GARDEN",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_HANGING_GARDEN",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_HANGING_GARDEN",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSUS",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSUS",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSUS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIGHTHOUSE",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIGHTHOUSE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIGHTHOUSE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_WALL",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_WALL",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_WALL",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_WALL",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_HAGIA_SOPHIA",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_HAGIA_SOPHIA",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_HAGIA_SOPHIA",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_ANGKOR_WAT",
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "BuildingType": "BUILDING_ANGKOR_WAT",
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_ANGKOR_WAT",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_ANGKOR_WAT",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_NOTRE_DAME",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_NOTRE_DAME",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_NOTRE_DAME",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_NOTRE_DAME",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_MACHU_PICHU",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_MACHU_PICHU",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_MACHU_PICHU",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_MACHU_PICHU",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_CHICHEN_ITZA",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_CHICHEN_ITZA",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_CHICHEN_ITZA",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_CHICHEN_ITZA",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_CHICHEN_ITZA",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_KREMLIN",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_KREMLIN",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_KREMLIN",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_KREMLIN",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_PALACE",
+        "Flavor": 250,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_PALACE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_PALACE",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_PALACE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_PALACE",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_PALACE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_HIMEJI_CASTLE",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_HIMEJI_CASTLE",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_HIMEJI_CASTLE",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_HIMEJI_CASTLE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_HIMEJI_CASTLE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_PORCELAIN_TOWER",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_PORCELAIN_TOWER",
+        "Flavor": 45,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_PORCELAIN_TOWER",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_SISTINE_CHAPEL",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_SISTINE_CHAPEL",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_SISTINE_CHAPEL",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_TAJ_MAHAL",
+        "Flavor": 13,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_TAJ_MAHAL",
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_TAJ_MAHAL",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_TAJ_MAHAL",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_TAJ_MAHAL",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_BIG_BEN",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_BIG_BEN",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_BIG_BEN",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_BRANDENBURG_GATE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_BRANDENBURG_GATE",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_BRANDENBURG_GATE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_BRANDENBURG_GATE",
+        "Flavor": 45,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_LOUVRE",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_LOUVRE",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_LOUVRE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_EIFFEL_TOWER",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_EIFFEL_TOWER",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_EIFFEL_TOWER",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_LIBERTY",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_LIBERTY",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_LIBERTY",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_CRISTO_REDENTOR",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_CRISTO_REDENTOR",
+        "Flavor": 70,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_CRISTO_REDENTOR",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_PENTAGON",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_PENTAGON",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_PENTAGON",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_SYDNEY_OPERA_HOUSE",
+        "Flavor": 70,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_SYDNEY_OPERA_HOUSE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_SYDNEY_OPERA_HOUSE",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_AQUEDUCT",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_AQUEDUCT",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_STONE_WORKS",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_STONE_WORKS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_MONASTERY",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_MONASTERY",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE_ARTEMIS",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE_ARTEMIS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE_ARTEMIS",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE_ARTEMIS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_MAUSOLEUM_HALICARNASSUS",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_MAUSOLEUM_HALICARNASSUS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_MAUSOLEUM_HALICARNASSUS",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_WALLS_OF_BABYLON",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_CEILIDH_HALL",
+        "Flavor": 70,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_CEILIDH_HALL",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_CEILIDH_HALL",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_COFFEE_HOUSE",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_COFFEE_HOUSE",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_ZEUS",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_ZEUS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_ZEUS",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_ZEUS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_AMPHITHEATER",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_AMPHITHEATER",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_SHRINE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_RECYCLING_CENTER",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_AIR"
+    },
+    {
+        "BuildingType": "BUILDING_RECYCLING_CENTER",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "BuildingType": "BUILDING_BOMB_SHELTER",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_CONSTABLE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_ESPIONAGE"
+    },
+    {
+        "BuildingType": "BUILDING_POLICE_STATION",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_ESPIONAGE"
+    },
+    {
+        "BuildingType": "BUILDING_INTELLIGENCE_AGENCY",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_INTELLIGENCE_AGENCY",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_DIPLOMACY"
+    },
+    {
+        "BuildingType": "BUILDING_INTELLIGENCE_AGENCY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_ESPIONAGE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_FIREWALL",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_ESPIONAGE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_FIREWALL",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_GRAND_TEMPLE",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_GRAND_TEMPLE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_STELE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_STELE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_CATHEDRAL",
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_CATHEDRAL",
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_CATHEDRAL",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_CATHEDRAL",
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_MOSQUE",
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_MOSQUE",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MOSQUE",
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_PAGODA",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_PAGODA",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_PAGODA",
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_LEANING_TOWER",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_LEANING_TOWER",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_TERRACOTTA_ARMY",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_TERRACOTTA_ARMY",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_TERRACOTTA_ARMY",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_PETRA",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_PETRA",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_PETRA",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_PETRA",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_PETRA",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_PETRA",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_MOSQUE_OF_DJENNE",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_MOSQUE_OF_DJENNE",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_MOSQUE_OF_DJENNE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_CN_TOWER",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_CN_TOWER",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_CN_TOWER",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_CN_TOWER",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_CN_TOWER",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_HUBBLE",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "BuildingType": "BUILDING_HUBBLE",
+        "Flavor": 60,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_HUBBLE",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_IKANDA",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_IKANDA",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "BuildingType": "BUILDING_IKANDA",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_DUCAL_STABLE",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_DUCAL_STABLE",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_MOBILE"
+    },
+    {
+        "BuildingType": "BUILDING_DUCAL_STABLE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_DUCAL_STABLE",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_RED_FORT",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "BuildingType": "BUILDING_RED_FORT",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_RED_FORT",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_RED_FORT",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_ROYAL_LIBRARY",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_ROYAL_LIBRARY",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "BuildingType": "BUILDING_ROYAL_LIBRARY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_WRITERS_GUILD",
+        "Flavor": 90,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_ARTISTS_GUILD",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MUSICIANS_GUILD",
+        "Flavor": 110,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_HOTEL",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_AIRPORT",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_AIRPORT",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_AIRLIFT"
+    },
+    {
+        "BuildingType": "BUILDING_TOURIST_CENTER",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_UFFIZI",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_UFFIZI",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_UFFIZI",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_GLOBE_THEATER",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_GLOBE_THEATER",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_GLOBE_THEATER",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_BROADWAY",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_BROADWAY",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_BROADWAY",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_PRORA_RESORT",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "BuildingType": "BUILDING_PRORA_RESORT",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_BOROBUDUR",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_BOROBUDUR",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_PARTHENON",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_PARTHENON",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "BuildingType": "BUILDING_CARAVANSARY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_CARAVANSARY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_I_LAND_TRADE_ROUTE"
+    },
+    {
+        "BuildingType": "BUILDING_CARAVANSARY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_I_TRADE_ORIGIN"
+    },
+    {
+        "BuildingType": "BUILDING_CANDI",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_CANDI",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "BuildingType": "BUILDING_HANSE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_HANSE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_I_TRADE_ORIGIN"
+    },
+    {
+        "BuildingType": "BUILDING_HANSE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_I_TRADE_DESTINATION"
+    },
+    {
+        "BuildingType": "BUILDING_HANSE",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "BuildingType": "BUILDING_HANSE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    }
+]

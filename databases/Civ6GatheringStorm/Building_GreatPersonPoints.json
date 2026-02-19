@@ -1,0 +1,337 @@
+[
+    {
+        "BuildingType": "BUILDING_LIGHTHOUSE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ADMIRAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_SHIPYARD",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ADMIRAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_SEAPORT",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ADMIRAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_AMPHITHEATER",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_WRITER",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_MUSEUM_ART",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_WRITER",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_MUSEUM_ART",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ARTIST",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_MUSEUM_ARTIFACT",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_WRITER",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_MUSEUM_ARTIFACT",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ARTIST",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_BROADCAST_CENTER",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ARTIST",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_BROADCAST_CENTER",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MUSICIAN",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_FILM_STUDIO",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ARTIST",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_FILM_STUDIO",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MUSICIAN",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_WORKSHOP",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ENGINEER",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_FACTORY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ENGINEER",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_ELECTRONICS_FACTORY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ENGINEER",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_POWER_PLANT",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ENGINEER",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_SHRINE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_PROPHET",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_PROPHET",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_PROPHET",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_BARRACKS",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_GENERAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_STABLE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_GENERAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_ARMORY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_GENERAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_MILITARY_ACADEMY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_GENERAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_MARKET",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MERCHANT",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_BANK",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MERCHANT",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_STOCK_EXCHANGE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MERCHANT",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_LIBRARY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_SCIENTIST",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_UNIVERSITY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_SCIENTIST",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_MADRASA",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_SCIENTIST",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_RESEARCH_LAB",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_SCIENTIST",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSUS",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ADMIRAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIGHTHOUSE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ADMIRAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_BOLSHOI_THEATRE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_WRITER",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_BOLSHOI_THEATRE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MUSICIAN",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_BROADWAY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_WRITER",
+        "PointsPerTurn": 3
+    },
+    {
+        "BuildingType": "BUILDING_BROADWAY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MUSICIAN",
+        "PointsPerTurn": 3
+    },
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_GENERAL",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_TERRACOTTA_ARMY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_GENERAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_ZIMBABWE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MERCHANT",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_BIG_BEN",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MERCHANT",
+        "PointsPerTurn": 3
+    },
+    {
+        "BuildingType": "BUILDING_VENETIAN_ARSENAL",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ENGINEER",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_SCIENTIST",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_OXFORD_UNIVERSITY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_SCIENTIST",
+        "PointsPerTurn": 3
+    },
+    {
+        "BuildingType": "BUILDING_HERMITAGE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ARTIST",
+        "PointsPerTurn": 3
+    },
+    {
+        "BuildingType": "BUILDING_SYDNEY_OPERA_HOUSE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MUSICIAN",
+        "PointsPerTurn": 5
+    },
+    {
+        "BuildingType": "BUILDING_TLACHTLI",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_GENERAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_PROPHET",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_SUKIENNICE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MERCHANT",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_BASILIKOI_PAIDES",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_GENERAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_ORDU",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_GENERAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_SCIENTIST",
+        "PointsPerTurn": 5
+    },
+    {
+        "BuildingType": "BUILDING_CASA_DE_CONTRATACION",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MERCHANT",
+        "PointsPerTurn": 3
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_WRITER",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_COAL_POWER_PLANT",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ENGINEER",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_FOSSIL_FUEL_POWER_PLANT",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ENGINEER",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_QUEENS_BIBLIOTHEQUE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ARTIST",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_QUEENS_BIBLIOTHEQUE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_WRITER",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_QUEENS_BIBLIOTHEQUE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MUSICIAN",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_GRAND_BAZAAR",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MERCHANT",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_UNIVERSITY_SANKORE",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_SCIENTIST",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_ALCHEMICAL_SOCIETY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ENGINEER",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_ALCHEMICAL_SOCIETY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MERCHANT",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_ALCHEMICAL_SOCIETY",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_SCIENTIST",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_GILDED_VAULT",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_MERCHANT",
+        "PointsPerTurn": 2
+    },
+    {
+        "BuildingType": "BUILDING_NAVIGATION_SCHOOL",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ADMIRAL",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_NAVIGATION_SCHOOL",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_SCIENTIST",
+        "PointsPerTurn": 1
+    },
+    {
+        "BuildingType": "BUILDING_TORRE_DE_BELEM",
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ADMIRAL",
+        "PointsPerTurn": 1
+    }
+]

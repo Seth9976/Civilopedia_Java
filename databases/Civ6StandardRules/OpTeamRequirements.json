@@ -1,0 +1,632 @@
+[
+    {
+        "AiType": "UNITAI_COMBAT",
+        "AiTypeDependence": null,
+        "MaxNumber": 10,
+        "MaxPercentage": 1.0,
+        "MinNumber": 1,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple Early Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 1,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple Early Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "AiTypeDependence": null,
+        "MaxNumber": 3,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple Early Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN_LEADER",
+        "AiTypeDependence": null,
+        "MaxNumber": 1,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple Early Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple Early Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple Early Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_AIR",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple Early Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 2,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "AiTypeDependence": null,
+        "MaxNumber": 3,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple City Attack Force"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "AiTypeDependence": null,
+        "MaxNumber": 16,
+        "MaxPercentage": 1.0,
+        "MinNumber": 5,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE",
+        "AiTypeDependence": null,
+        "MaxNumber": 3,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN_LEADER",
+        "AiTypeDependence": null,
+        "MaxNumber": 1,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_AIR",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Simple City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 1.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Naval Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Naval Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Naval Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN_LEADER",
+        "AiTypeDependence": null,
+        "MaxNumber": 1,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Naval Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 2,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 1,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Attack Force"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "AiTypeDependence": null,
+        "MaxNumber": 16,
+        "MaxPercentage": 1.0,
+        "MinNumber": 5,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE",
+        "AiTypeDependence": null,
+        "MaxNumber": 3,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_AIR_SIEGE",
+        "AiTypeDependence": null,
+        "MaxNumber": 1,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_SUPPORT",
+        "AiTypeDependence": "UNITTYPE_SIEGE",
+        "MaxNumber": 2,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE_ALL",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 1,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN_LEADER",
+        "AiTypeDependence": null,
+        "MaxNumber": 1,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_AIR",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "AiTypeDependence": null,
+        "MaxNumber": 1,
+        "MaxPercentage": 1.0,
+        "MinNumber": 1,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Barbarian Builder Capture"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 1,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Barbarian Builder Capture"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Barbarian Builder Capture"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "AiTypeDependence": null,
+        "MaxNumber": 1,
+        "MaxPercentage": 1.0,
+        "MinNumber": 1,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Civilian Builder Capture"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Civilian Builder Capture"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Civilian Builder Capture"
+    },
+    {
+        "AiType": "UNITAI_SETTLE",
+        "AiTypeDependence": null,
+        "MaxNumber": 1,
+        "MaxPercentage": 1.0,
+        "MinNumber": 1,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Settle City Team"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 1,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Settle City Team"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Settle City Team"
+    },
+    {
+        "AiType": "UNITTYPE_AIR",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Settle City Team"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Defense"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN_LEADER",
+        "AiTypeDependence": null,
+        "MaxNumber": 1,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Defense"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Defense"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Defense"
+    },
+    {
+        "AiType": "UNITAI_EXPLORE",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Defense"
+    },
+    {
+        "AiType": "UNITTYPE_AIR",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Defense"
+    },
+    {
+        "AiType": "UNITTYPE_AIR_SIEGE",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Defense"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 1.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Naval Defense"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Naval Defense"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Naval Defense"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN_LEADER",
+        "AiTypeDependence": null,
+        "MaxNumber": 1,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "City Naval Defense"
+    },
+    {
+        "AiType": "UNITAI_COMBAT",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 1,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Barbarian Raid"
+    },
+    {
+        "AiType": "UNITTYPE_NUCLEAR",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 1,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Nuclear Attack"
+    },
+    {
+        "AiType": "UNITTYPE_NUCLEAR_ESCORT",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Nuclear Attack"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Aid Ally Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Aid Ally Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Aid Ally Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_SIEGE",
+        "AiTypeDependence": null,
+        "MaxNumber": 2,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Aid Ally Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_AIR",
+        "AiTypeDependence": null,
+        "MaxNumber": 0,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Aid Ally Attack Force"
+    },
+    {
+        "AiType": "UNITTYPE_NAVAL",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 1.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Naval Superiority Force"
+    },
+    {
+        "AiType": "UNITTYPE_MELEE",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 1,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Naval Superiority Force"
+    },
+    {
+        "AiType": "UNITTYPE_RANGED",
+        "AiTypeDependence": null,
+        "MaxNumber": null,
+        "MaxPercentage": 1.0,
+        "MinNumber": 0,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Naval Superiority Force"
+    },
+    {
+        "AiType": "UNITTYPE_CIVILIAN_LEADER",
+        "AiTypeDependence": null,
+        "MaxNumber": 1,
+        "MaxPercentage": 1.0,
+        "MinNumber": null,
+        "MinPercentage": 0.0,
+        "ReconsiderWhilePreparing": 0,
+        "TeamName": "Naval Superiority Force"
+    }
+]

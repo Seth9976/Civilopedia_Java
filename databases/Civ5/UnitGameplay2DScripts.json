@@ -1,0 +1,737 @@
+[
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_BOMBER",
+        "SelectionSound": "AS2D_SELECT_BOMBER",
+        "UnitType": "UNIT_AMERICAN_B17"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_MUSKETMAN",
+        "SelectionSound": "AS2D_SELECT_MUSKETMAN",
+        "UnitType": "UNIT_AMERICAN_MINUTEMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ANTI_AIRCRAFT_GUN",
+        "SelectionSound": "AS2D_SELECT_ANTI_AIRCRAFT_GUN",
+        "UnitType": "UNIT_ANTI_AIRCRAFT_GUN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ARTILLERY",
+        "SelectionSound": "AS2D_SELECT_ARTILLERY",
+        "UnitType": "UNIT_ANTI_TANK_GUN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CAMEL_ARCHER",
+        "SelectionSound": "AS2D_SELECT_CAMEL_ARCHER",
+        "UnitType": "UNIT_ARABIAN_CAMELARCHER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ARCHER",
+        "SelectionSound": "AS2D_SELECT_ARCHER",
+        "UnitType": "UNIT_ARCHER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ARCHER",
+        "SelectionSound": "AS2D_SELECT_ARCHER",
+        "UnitType": "UNIT_BARBARIAN_ARCHER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ARTILLERY",
+        "SelectionSound": "AS2D_SELECT_ARTILLERY",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_ARTIST"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ATOMIC_BOMB",
+        "SelectionSound": "AS2D_SELECT_ATOMIC_BOMB",
+        "UnitType": "UNIT_ATOMIC_BOMB"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_AZTEC_JAGUAR",
+        "SelectionSound": "AS2D_SELECT_AZTEC_JAGUAR",
+        "UnitType": "UNIT_AZTEC_JAGUAR"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_BARBARIAN_WARRIOR"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_BATTLESHIP",
+        "SelectionSound": "AS2D_SELECT_BATTLESHIP",
+        "UnitType": "UNIT_BATTLESHIP"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_BOMBER",
+        "SelectionSound": "AS2D_SELECT_BOMBER",
+        "UnitType": "UNIT_BOMBER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CANNON",
+        "SelectionSound": "AS2D_SELECT_CANNON",
+        "UnitType": "UNIT_CANNON"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CARAVEL",
+        "SelectionSound": "AS2D_SELECT_CARAVEL",
+        "UnitType": "UNIT_CARAVEL"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CARRIER",
+        "SelectionSound": "AS2D_SELECT_CARRIER",
+        "UnitType": "UNIT_CARRIER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CATAPULT",
+        "SelectionSound": "AS2D_SELECT_CATAPULT",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CAVALRY",
+        "SelectionSound": "AS2D_SELECT_CAVALRY",
+        "UnitType": "UNIT_CAVALRY"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CHARIOT_ARCHER",
+        "SelectionSound": "AS2D_SELECT_CHARIOT_ARCHER",
+        "UnitType": "UNIT_CHARIOT_ARCHER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CROSSBOWMAN",
+        "SelectionSound": "AS2D_SELECT_CROSSBOWMAN",
+        "UnitType": "UNIT_CHINESE_CHUKONU"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CROSSBOWMAN",
+        "SelectionSound": "AS2D_SELECT_CROSSBOWMAN",
+        "UnitType": "UNIT_CROSSBOWMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_BATTLESHIP",
+        "SelectionSound": "AS2D_SELECT_BATTLESHIP",
+        "UnitType": "UNIT_DESTROYER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CHARIOT_ARCHER",
+        "SelectionSound": "AS2D_SELECT_CHARIOT_ARCHER",
+        "UnitType": "UNIT_EGYPTIAN_WARCHARIOT"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_ENGINEER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ARCHER",
+        "SelectionSound": "AS2D_SELECT_ARCHER",
+        "UnitType": "UNIT_ENGLISH_LONGBOWMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_FRIGATE",
+        "SelectionSound": "AS2D_SELECT_FRIGATE",
+        "UnitType": "UNIT_ENGLISH_SHIPOFTHELINE"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_FIGHTER",
+        "SelectionSound": "AS2D_SELECT_FIGHTER",
+        "UnitType": "UNIT_FIGHTER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_MUSKETMAN",
+        "SelectionSound": "AS2D_SELECT_MUSKETMAN",
+        "UnitType": "UNIT_FRENCH_FOREIGNLEGION"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_MUSKETMAN",
+        "SelectionSound": "AS2D_SELECT_MUSKETMAN",
+        "UnitType": "UNIT_FRENCH_MUSKETEER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_FRIGATE",
+        "SelectionSound": "AS2D_SELECT_FRIGATE",
+        "UnitType": "UNIT_FRIGATE"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_WORK_BOAT",
+        "SelectionSound": "AS2D_SELECT_WORK_BOAT",
+        "UnitType": "UNIT_GALLEY"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_PIKEMAN",
+        "SelectionSound": "AS2D_SELECT_PIKEMAN",
+        "UnitType": "UNIT_GERMAN_LANDSKNECHT"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_TANK",
+        "SelectionSound": "AS2D_SELECT_TANK",
+        "UnitType": "UNIT_GERMAN_PANZER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_GREAT_GENERAL"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_HORSEMAN",
+        "SelectionSound": "AS2D_SELECT_HORSEMAN",
+        "UnitType": "UNIT_GREEK_COMPANIONCAVALRY"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_GREEK_HOPLITE",
+        "SelectionSound": "AS2D_SELECT_GREEK_HOPLITE",
+        "UnitType": "UNIT_GREEK_HOPLITE"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_GUIDED_MISSILE",
+        "SelectionSound": "AS2D_SELECT_GUIDED_MISSILE",
+        "UnitType": "UNIT_GUIDED_MISSILE"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_HELICOPTER_GUNSHIP",
+        "SelectionSound": "AS2D_SELECT_HELICOPTER_GUNSHIP",
+        "UnitType": "UNIT_HELICOPTER_GUNSHIP"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_HORSEMAN",
+        "SelectionSound": "AS2D_SELECT_HORSEMAN",
+        "UnitType": "UNIT_HORSEMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_INDIAN_WAR_ELEPHANT",
+        "SelectionSound": "AS2D_SELECT_INDIAN_WAR_ELEPHANT",
+        "UnitType": "UNIT_INDIAN_WARELEPHANT"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_INFANTRY",
+        "SelectionSound": "AS2D_SELECT_INFANTRY",
+        "UnitType": "UNIT_INFANTRY"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_IRONCLAD",
+        "SelectionSound": "AS2D_SELECT_IRONCLAD",
+        "UnitType": "UNIT_IRONCLAD"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_AZTEC_JAGUAR",
+        "SelectionSound": "AS2D_SELECT_AZTEC_JAGUAR",
+        "UnitType": "UNIT_IROQUOIAN_MOHAWKWARRIOR"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_JAPANESE_SAMURAI",
+        "SelectionSound": "AS2D_SELECT_JAPANESE_SAMURAI",
+        "UnitType": "UNIT_JAPANESE_SAMURAI"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_FIGHTER",
+        "SelectionSound": "AS2D_SELECT_FIGHTER",
+        "UnitType": "UNIT_JAPANESE_ZERO"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_JET_FIGHTER",
+        "SelectionSound": "AS2D_SELECT_JET_FIGHTER",
+        "UnitType": "UNIT_JET_FIGHTER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_KNIGHT",
+        "SelectionSound": "AS2D_SELECT_KNIGHT",
+        "UnitType": "UNIT_KNIGHT"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_HORSEMAN",
+        "SelectionSound": "AS2D_SELECT_HORSEMAN",
+        "UnitType": "UNIT_LANCER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_LONGSWORDSMAN",
+        "SelectionSound": "AS2D_SELECT_LONGSWORDSMAN",
+        "UnitType": "UNIT_LONGSWORDSMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_MECH",
+        "SelectionSound": "AS2D_SELECT_MECH",
+        "UnitType": "UNIT_MECH"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_MECH_INFANTRY",
+        "SelectionSound": "AS2D_SELECT_MECH_INFANTRY",
+        "UnitType": "UNIT_MECHANIZED_INFANTRY"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_MERCHANT"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_BATTLESHIP",
+        "SelectionSound": "AS2D_SELECT_BATTLESHIP",
+        "UnitType": "UNIT_MISSILE_CRUISER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_MOBILE_SAM",
+        "SelectionSound": "AS2D_SELECT_MOBILE_SAM",
+        "UnitType": "UNIT_MOBILE_SAM"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_TANK",
+        "SelectionSound": "AS2D_SELECT_TANK",
+        "UnitType": "UNIT_MODERN_ARMOR"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_MUSKETMAN",
+        "SelectionSound": "AS2D_SELECT_MUSKETMAN",
+        "UnitType": "UNIT_MUSKETMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_NUCLEAR_MISSILE",
+        "SelectionSound": "AS2D_SELECT_NUCLEAR_MISSILE",
+        "UnitType": "UNIT_NUCLEAR_MISSILE"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_NUCLEAR_SUBMARINE",
+        "SelectionSound": "AS2D_SELECT_NUCLEAR_SUBMARINE",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_MUSKETMAN",
+        "SelectionSound": "AS2D_SELECT_MUSKETMAN",
+        "UnitType": "UNIT_OTTOMAN_JANISSARY"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_HORSEMAN",
+        "SelectionSound": "AS2D_SELECT_HORSEMAN",
+        "UnitType": "UNIT_OTTOMAN_SIPAHI"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_PARATROOPER",
+        "SelectionSound": "AS2D_SELECT_PARATROOPER",
+        "UnitType": "UNIT_PARATROOPER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_GREEK_HOPLITE",
+        "SelectionSound": "AS2D_SELECT_GREEK_HOPLITE",
+        "UnitType": "UNIT_PERSIAN_IMMORTAL"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_PIKEMAN",
+        "SelectionSound": "AS2D_SELECT_PIKEMAN",
+        "UnitType": "UNIT_PIKEMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_MUSKETMAN",
+        "SelectionSound": "AS2D_SELECT_MUSKETMAN",
+        "UnitType": "UNIT_RIFLEMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ROCKET_ARTILLERY",
+        "SelectionSound": "AS2D_SELECT_ROCKET_ARTILLERY",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ROMAN_BALLISTA",
+        "SelectionSound": "AS2D_SELECT_ROMAN_BALLISTA",
+        "UnitType": "UNIT_ROMAN_BALLISTA"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SWORDSMAN",
+        "SelectionSound": "AS2D_SELECT_SWORDSMAN",
+        "UnitType": "UNIT_ROMAN_LEGION"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CAVALRY",
+        "SelectionSound": "AS2D_SELECT_CAVALRY",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SCOUT",
+        "SelectionSound": "AS2D_SELECT_SCOUT",
+        "UnitType": "UNIT_SCOUT"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SETTLER",
+        "SelectionSound": "AS2D_SELECT_SETTLER",
+        "UnitType": "UNIT_SETTLER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SIAMESE_WAR_ELEPHANT",
+        "SelectionSound": "AS2D_SELECT_SIAMESE_WAR_ELEPHANT",
+        "UnitType": "UNIT_SIAMESE_WARELEPHANT"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_SCIENTIST"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_KNIGHT",
+        "SelectionSound": "AS2D_SELECT_KNIGHT",
+        "UnitType": "UNIT_SONGHAI_MUSLIMCAVALRY"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_PIKEMAN",
+        "SelectionSound": "AS2D_SELECT_PIKEMAN",
+        "UnitType": "UNIT_SPEARMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_PIKEMAN",
+        "SelectionSound": "AS2D_SELECT_PIKEMAN",
+        "UnitType": "UNIT_BARBARIAN_SPEARMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_STEALTH_BOMBER",
+        "SelectionSound": "AS2D_SELECT_STEALTH_BOMBER",
+        "UnitType": "UNIT_STEALTH_BOMBER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SUBMARINE",
+        "SelectionSound": "AS2D_SELECT_SUBMARINE",
+        "UnitType": "UNIT_SUBMARINE"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SWORDSMAN",
+        "SelectionSound": "AS2D_SELECT_SWORDSMAN",
+        "UnitType": "UNIT_SWORDSMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SWORDSMAN",
+        "SelectionSound": "AS2D_SELECT_SWORDSMAN",
+        "UnitType": "UNIT_BARBARIAN_SWORDSMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_TANK",
+        "SelectionSound": "AS2D_SELECT_TANK",
+        "UnitType": "UNIT_TANK"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_TREBUCHET",
+        "SelectionSound": "AS2D_SELECT_TREBUCHET",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_TRIREME",
+        "SelectionSound": "AS2D_SELECT_TRIREME",
+        "UnitType": "UNIT_TRIREME"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_WARRIER",
+        "SelectionSound": "AS2D_SELECT_WARRIER",
+        "UnitType": "UNIT_WARRIOR"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_WORK_BOAT",
+        "SelectionSound": "AS2D_SELECT_WORK_BOAT",
+        "UnitType": "UNIT_WORKBOAT"
+    },
+    {
+        "FirstSelectionSound": "AS2D_SELECT_WORKER",
+        "SelectionSound": "AS2D_SELECT_WORKER",
+        "UnitType": "UNIT_WORKER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_SS_BOOSTER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_SS_COCKPIT"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_SS_ENGINE"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_SS_STASIS_CHAMBER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CAVALRY",
+        "SelectionSound": "AS2D_SELECT_CAVALRY",
+        "UnitType": "UNIT_MONGOLIAN_KESHIK"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CAVALRY",
+        "SelectionSound": "AS2D_SELECT_CAVALRY",
+        "UnitType": "UNIT_MONGOLIAN_KHAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ARCHER",
+        "SelectionSound": "AS2D_SELECT_ARCHER",
+        "UnitType": "UNIT_INCAN_SLINGER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_AZTEC_JAGUAR",
+        "SelectionSound": "AS2D_SELECT_AZTEC_JAGUAR",
+        "UnitType": "UNIT_POLYNESIAN_MAORI_WARRIOR"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_WARRIER",
+        "SelectionSound": "AS2D_SELECT_WARRIER",
+        "UnitType": "UNIT_DANISH_BERSERKER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_INFANTRY",
+        "SelectionSound": "AS2D_SELECT_INFANTRY",
+        "UnitType": "UNIT_DANISH_SKI_INFANTRY"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CANNON",
+        "SelectionSound": "AS2D_SELECT_CANNON",
+        "UnitType": "UNIT_KOREAN_HWACHA"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CARAVEL",
+        "SelectionSound": "AS2D_SELECT_CARAVEL",
+        "UnitType": "UNIT_KOREAN_TURTLE_SHIP"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ARCHER",
+        "SelectionSound": "AS2D_SELECT_ARCHER",
+        "UnitType": "UNIT_BABYLONIAN_BOWMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CAVALRY",
+        "SelectionSound": "AS2D_SELECT_CAVALRY",
+        "UnitType": "UNIT_AUSTRIAN_HUSSAR"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_KNIGHT",
+        "SelectionSound": "AS2D_SELECT_KNIGHT",
+        "UnitType": "UNIT_BYZANTINE_CATAPHRACT"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CARAVEL",
+        "SelectionSound": "AS2D_SELECT_CARAVEL",
+        "UnitType": "UNIT_BYZANTINE_DROMON"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SIAMESE_WAR_ELEPHANT",
+        "SelectionSound": "AS2D_SELECT_SIAMESE_WAR_ELEPHANT",
+        "UnitType": "UNIT_CARTHAGINIAN_FOREST_ELEPHANT"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_TRIREME",
+        "SelectionSound": "AS2D_SELECT_TRIREME",
+        "UnitType": "UNIT_CARTHAGINIAN_QUINQUEREME"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SWORDSMAN",
+        "SelectionSound": "AS2D_SELECT_SWORDSMAN",
+        "UnitType": "UNIT_CELT_PICTISH_WARRIOR"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ARCHER",
+        "SelectionSound": "AS2D_SELECT_ARCHER",
+        "UnitType": "UNIT_COMPOSITE_BOWMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_FRIGATE",
+        "SelectionSound": "AS2D_SELECT_FRIGATE",
+        "UnitType": "UNIT_DUTCH_SEA_BEGGAR"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CATAPULT",
+        "SelectionSound": "AS2D_SELECT_CATAPULT",
+        "UnitType": "UNIT_HUN_BATTERING_RAM"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CAVALRY",
+        "SelectionSound": "AS2D_SELECT_CAVALRY",
+        "UnitType": "UNIT_HUN_HORSE_ARCHER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ARCHER",
+        "SelectionSound": "AS2D_SELECT_ARCHER",
+        "UnitType": "UNIT_MAYAN_ATLATLIST"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_MUSKETMAN",
+        "SelectionSound": "AS2D_SELECT_MUSKETMAN",
+        "UnitType": "UNIT_SWEDISH_CAROLEAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_HORSEMAN",
+        "SelectionSound": "AS2D_SELECT_HORSEMAN",
+        "UnitType": "UNIT_SWEDISH_HAKKAPELIITTA"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_KNIGHT",
+        "SelectionSound": "AS2D_SELECT_KNIGHT",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_PIKEMAN",
+        "SelectionSound": "AS2D_SELECT_PIKEMAN",
+        "UnitType": "UNIT_SPANISH_TERCIO"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_MUSKETMAN",
+        "SelectionSound": "AS2D_SELECT_MUSKETMAN",
+        "UnitType": "UNIT_ETHIOPIAN_MEHAL_SEFARI"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_TRIREME",
+        "SelectionSound": "AS2D_SELECT_TRIREME",
+        "UnitType": "UNIT_GALLEASS"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_CANNON",
+        "SelectionSound": "AS2D_SELECT_CANNON",
+        "UnitType": "UNIT_GATLINGGUN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_GREAT_ADMIRAL"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_INFANTRY",
+        "SelectionSound": "AS2D_SELECT_INFANTRY",
+        "UnitType": "UNIT_GREAT_WAR_INFANTRY"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SETTLER",
+        "SelectionSound": "AS2D_SELECT_SETTLER",
+        "UnitType": "UNIT_INQUISITOR"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_INFANTRY",
+        "SelectionSound": "AS2D_SELECT_INFANTRY",
+        "UnitType": "UNIT_MACHINE_GUN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_INFANTRY",
+        "SelectionSound": "AS2D_SELECT_INFANTRY",
+        "UnitType": "UNIT_MARINE"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SETTLER",
+        "SelectionSound": "AS2D_SELECT_SETTLER",
+        "UnitType": "UNIT_MISSIONARY"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_FRIGATE",
+        "SelectionSound": "AS2D_SELECT_FRIGATE",
+        "UnitType": "UNIT_PRIVATEER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_PROPHET"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_FIGHTER",
+        "SelectionSound": "AS2D_SELECT_FIGHTER",
+        "UnitType": "UNIT_TRIPLANE"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_BOMBER",
+        "SelectionSound": "AS2D_SELECT_BOMBER",
+        "UnitType": "UNIT_WWI_BOMBER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_TANK",
+        "SelectionSound": "AS2D_SELECT_TANK",
+        "UnitType": "UNIT_WWI_TANK"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SETTLER",
+        "SelectionSound": "AS2D_SELECT_SETTLER",
+        "UnitType": "UNIT_ARCHAEOLOGIST"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CATAPULT",
+        "SelectionSound": "AS2D_SELECT_CATAPULT",
+        "UnitType": "UNIT_ASSYRIAN_SIEGE_TOWER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ARCHER",
+        "SelectionSound": "AS2D_SELECT_ARCHER",
+        "UnitType": "UNIT_BARBARIAN_AXMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_ARTILLERY",
+        "SelectionSound": "AS2D_SELECT_ARTILLERY",
+        "UnitType": "UNIT_BAZOOKA"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CAVALRY",
+        "SelectionSound": "AS2D_SELECT_CAVALRY",
+        "UnitType": "UNIT_BERBER_CAVALRY"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_INFANTRY",
+        "SelectionSound": "AS2D_SELECT_INFANTRY",
+        "UnitType": "UNIT_BRAZILIAN_PRACINHA"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SETTLER",
+        "SelectionSound": "AS2D_SELECT_SETTLER",
+        "UnitType": "UNIT_CARAVAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CARRIER",
+        "SelectionSound": "AS2D_SELECT_CARRIER",
+        "UnitType": "UNIT_CARGO_SHIP"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SWORDSMAN",
+        "SelectionSound": "AS2D_SELECT_SWORDSMAN",
+        "UnitType": "UNIT_KRIS_SWORDSMAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_MUSICIAN"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_KNIGHT",
+        "SelectionSound": "AS2D_SELECT_KNIGHT",
+        "UnitType": "UNIT_POLISH_WINGED_HUSSAR"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_FRIGATE",
+        "SelectionSound": "AS2D_SELECT_FRIGATE",
+        "UnitType": "UNIT_PORTUGUESE_NAU"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_CAVALRY",
+        "SelectionSound": "AS2D_SELECT_CAVALRY",
+        "UnitType": "UNIT_SHOSHONE_COMANCHE_RIDERS"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_SCOUT",
+        "SelectionSound": "AS2D_SELECT_SCOUT",
+        "UnitType": "UNIT_SHOSHONE_PATHFINDER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_TRIREME",
+        "SelectionSound": "AS2D_SELECT_TRIREME",
+        "UnitType": "UNIT_VENETIAN_GALLEASS"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_VENETIAN_MERCHANT"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BUILD_UNIT",
+        "SelectionSound": "AS2D_BUILD_UNIT",
+        "UnitType": "UNIT_WRITER"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_PARATROOPER",
+        "SelectionSound": "AS2D_SELECT_PARATROOPER",
+        "UnitType": "UNIT_XCOM_SQUAD"
+    },
+    {
+        "FirstSelectionSound": "AS2D_BIRTH_PIKEMAN",
+        "SelectionSound": "AS2D_SELECT_PIKEMAN",
+        "UnitType": "UNIT_ZULU_IMPI"
+    }
+]

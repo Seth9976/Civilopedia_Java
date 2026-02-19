@@ -1,0 +1,72 @@
+[
+    {
+        "NumConditionsNeeded": 3,
+        "StrategyType": "VICTORY_STRATEGY_CULTURAL_VICTORY",
+        "VictoryType": "VICTORY_CULTURE"
+    },
+    {
+        "NumConditionsNeeded": 3,
+        "StrategyType": "VICTORY_STRATEGY_MILITARY_VICTORY",
+        "VictoryType": "VICTORY_CONQUEST"
+    },
+    {
+        "NumConditionsNeeded": 2,
+        "StrategyType": "VICTORY_STRATEGY_RELIGIOUS_VICTORY",
+        "VictoryType": "VICTORY_RELIGIOUS"
+    },
+    {
+        "NumConditionsNeeded": 3,
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY",
+        "VictoryType": "VICTORY_TECHNOLOGY"
+    },
+    {
+        "NumConditionsNeeded": 1,
+        "StrategyType": "STRATEGY_EARLY_EXPLORATION",
+        "VictoryType": null
+    },
+    {
+        "NumConditionsNeeded": 3,
+        "StrategyType": "STRATEGY_RAPID_EXPANSION",
+        "VictoryType": null
+    },
+    {
+        "NumConditionsNeeded": 1,
+        "StrategyType": "STRATEGY_NAVAL",
+        "VictoryType": null
+    },
+    {
+        "NumConditionsNeeded": 1,
+        "StrategyType": "STRATEGY_CLASSICAL_CHANGES",
+        "VictoryType": null
+    },
+    {
+        "NumConditionsNeeded": 1,
+        "StrategyType": "STRATEGY_MEDIEVAL_CHANGES",
+        "VictoryType": null
+    },
+    {
+        "NumConditionsNeeded": 1,
+        "StrategyType": "STRATEGY_RENAISSANCE_CHANGES",
+        "VictoryType": null
+    },
+    {
+        "NumConditionsNeeded": 1,
+        "StrategyType": "STRATEGY_INDUSTRIAL_CHANGES",
+        "VictoryType": null
+    },
+    {
+        "NumConditionsNeeded": 1,
+        "StrategyType": "STRATEGY_MODERN_CHANGES",
+        "VictoryType": null
+    },
+    {
+        "NumConditionsNeeded": 2,
+        "StrategyType": "STRATEGY_WONDER_OBSESSED",
+        "VictoryType": null
+    },
+    {
+        "NumConditionsNeeded": 1,
+        "StrategyType": "STRATEGY_DARKAGE",
+        "VictoryType": null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Description": "LOC_WC_VOTING_BLOCKER_NOT_BLOCKING_DESC",
+        "NoDownvote": 0,
+        "NoUpvote": 0,
+        "VotingBlockerType": "WC_VOTING_BLOCKER_NOT_BLOCKING"
+    },
+    {
+        "Description": "LOC_WC_VOTING_BLOCKER_AM_TARGET_OF_HOSTILE_DESC",
+        "NoDownvote": 0,
+        "NoUpvote": 1,
+        "VotingBlockerType": "WC_VOTING_BLOCKER_AM_TARGET_OF_HOSTILE"
+    },
+    {
+        "Description": "LOC_WC_VOTING_BLOCKER_AM_TARGET_OF_FRIENDLY_DESC",
+        "NoDownvote": 1,
+        "NoUpvote": 0,
+        "VotingBlockerType": "WC_VOTING_BLOCKER_AM_TARGET_OF_FRIENDLY"
+    },
+    {
+        "Description": "LOC_WC_VOTING_BLOCKER_HAVENT_MET_TARGET_DESC",
+        "NoDownvote": 1,
+        "NoUpvote": 1,
+        "VotingBlockerType": "WC_VOTING_BLOCKER_HAVENT_MET_TARGET"
+    },
+    {
+        "Description": "LOC_WC_VOTING_BLOCKER_NOT_INVITED_TO_EMERGENCY_DESC",
+        "NoDownvote": 1,
+        "NoUpvote": 1,
+        "VotingBlockerType": "WC_VOTING_BLOCKER_NOT_INVITED_TO_EMERGENCY"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GIVE_INFLUENCE_TOKEN",
+        "UnitTag": "UNIT_CLASS_INFLUENCE_INDEPENDENT"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_RECEIVE_GIFT",
+        "UnitTag": "UNIT_CLASS_INFLUENCE_INDEPENDENT"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_LAND_CLAIM",
+        "UnitTag": "UNIT_CLASS_CREATE_TOWN"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_LAND_CLAIM",
+        "UnitTag": "UNIT_CLASS_CREATE_CITY"
+    }
+]

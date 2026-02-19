@@ -1,0 +1,14 @@
+[
+    {
+        "BuildingType": "BUILDING_PALACE",
+        "ImprovementType": null,
+        "UnitRetreatType": "UNIT_RETREAT_VAMPIRE_TO_CAPITAL",
+        "UnitType": "UNIT_VAMPIRE"
+    },
+    {
+        "BuildingType": null,
+        "ImprovementType": "IMPROVEMENT_VAMPIRE_CASTLE",
+        "UnitRetreatType": "UNIT_RETREAT_VAMPIRE_TO_CASTLE",
+        "UnitType": "UNIT_VAMPIRE"
+    }
+]

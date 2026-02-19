@@ -1,0 +1,34 @@
+[
+    {
+        "AgeCrisisEventType": "MODERN_CRISIS_WORLD_WAR",
+        "AgeProgressEndPercent": 80,
+        "AgeProgressTriggerPercent": 70,
+        "FinalStage": 0,
+        "MinDuration": 5,
+        "Stage": 1
+    },
+    {
+        "AgeCrisisEventType": "MODERN_CRISIS_WORLD_WAR",
+        "AgeProgressEndPercent": 90,
+        "AgeProgressTriggerPercent": 80,
+        "FinalStage": 0,
+        "MinDuration": 5,
+        "Stage": 2
+    },
+    {
+        "AgeCrisisEventType": "MODERN_CRISIS_WORLD_WAR",
+        "AgeProgressEndPercent": 100,
+        "AgeProgressTriggerPercent": 90,
+        "FinalStage": 0,
+        "MinDuration": 5,
+        "Stage": 3
+    },
+    {
+        "AgeCrisisEventType": "MODERN_CRISIS_WORLD_WAR",
+        "AgeProgressEndPercent": 100,
+        "AgeProgressTriggerPercent": 100,
+        "FinalStage": 1,
+        "MinDuration": 5,
+        "Stage": 4
+    }
+]

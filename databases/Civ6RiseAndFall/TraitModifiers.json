@@ -1,0 +1,3278 @@
+[
+    {
+        "ModifierId": "AGENDA_ALLY_OF_ENKIDU_FRIEND",
+        "TraitType": "TRAIT_AGENDA_ALLY_OF_ENKIDU"
+    },
+    {
+        "ModifierId": "AGENDA_ALLY_OF_ENKIDU_DENOUNCED_FRIEND",
+        "TraitType": "TRAIT_AGENDA_ALLY_OF_ENKIDU"
+    },
+    {
+        "ModifierId": "AGENDA_BACKSTAB_AVERSE_FRIEND",
+        "TraitType": "TRAIT_AGENDA_BACKSTAB_AVERSE"
+    },
+    {
+        "ModifierId": "AGENDA_BACKSTAB_AVERSE_SURPRISE_WAR",
+        "TraitType": "TRAIT_AGENDA_BACKSTAB_AVERSE"
+    },
+    {
+        "ModifierId": "AGENDA_CONTINENT_ATTACKED",
+        "TraitType": "TRAIT_AGENDA_BIG_STICK_POLICY"
+    },
+    {
+        "ModifierId": "AGENDA_CONTINENT_PEACEFUL",
+        "TraitType": "TRAIT_AGENDA_BIG_STICK_POLICY"
+    },
+    {
+        "ModifierId": "AGENDA_BLACK_QUEEN",
+        "TraitType": "TRAIT_AGENDA_BLACK_QUEEN"
+    },
+    {
+        "ModifierId": "AGENDA_BUSHIDO",
+        "TraitType": "TRAIT_AGENDA_BUSHIDO"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_NOT_COMPETING_MINORS",
+        "TraitType": "TRAIT_AGENDA_CITY_STATE_ALLY"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_COMPETING_MINORS",
+        "TraitType": "TRAIT_AGENDA_CITY_STATE_ALLY"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_SAME_RELIGION",
+        "TraitType": "TRAIT_AGENDA_COUNTER_REFORMER"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_ENCROACHING_RELIGION",
+        "TraitType": "TRAIT_AGENDA_COUNTER_REFORMER"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_DELIAN_NOT_COMPETING_MINORS",
+        "TraitType": "TRAIT_AGENDA_DELIAN_LEAGUE"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_DELIAN_COMPETING_MINORS",
+        "TraitType": "TRAIT_AGENDA_DELIAN_LEAGUE"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_RELIGION_RECEIVED",
+        "TraitType": "TRAIT_AGENDA_ENTHUSIASTIC_DISCIPLE"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_RELIGION_NOT_RECEIVED",
+        "TraitType": "TRAIT_AGENDA_ENTHUSIASTIC_DISCIPLE"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_LAGS_GREAT_PEOPLE",
+        "TraitType": "TRAIT_AGENDA_GREAT_PERSON_OBSESSED"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_LEADS_GREAT_PEOPLE",
+        "TraitType": "TRAIT_AGENDA_GREAT_PERSON_OBSESSED"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_NOT_INVOLVED_MINORS",
+        "TraitType": "TRAIT_AGENDA_IRON_CROWN"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_CONQUERING_ALLYING_MINORS",
+        "TraitType": "TRAIT_AGENDA_IRON_CROWN"
+    },
+    {
+        "ModifierId": "AGENDA_LAST_VIKING_KING",
+        "TraitType": "TRAIT_AGENDA_LAST_VIKING_KING"
+    },
+    {
+        "ModifierId": "AGENDA_OPTIMUS_PRINCEPS",
+        "TraitType": "TRAIT_AGENDA_OPTIMUS_PRINCEPS"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_NOT_WARMONGER",
+        "TraitType": "TRAIT_AGENDA_PEACEKEEPER"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_WARMONGER",
+        "TraitType": "TRAIT_AGENDA_PEACEKEEPER"
+    },
+    {
+        "ModifierId": "AGENDA_QUEEN_OF_NILE",
+        "TraitType": "TRAIT_AGENDA_QUEEN_OF_NILE"
+    },
+    {
+        "ModifierId": "AGENDA_SUN_SETS_HOME_CONTINENT",
+        "TraitType": "TRAIT_AGENDA_SUN_NEVER_SETS"
+    },
+    {
+        "ModifierId": "AGENDA_SUN_SETS_NEW_CONTINENT",
+        "TraitType": "TRAIT_AGENDA_SUN_NEVER_SETS"
+    },
+    {
+        "ModifierId": "AGENDA_HAS_DESIRED_LUXURY",
+        "TraitType": "TRAIT_AGENDA_TLATOANI"
+    },
+    {
+        "ModifierId": "AGENDA_HAS_NO_DESIRED_LUXURY",
+        "TraitType": "TRAIT_AGENDA_TLATOANI"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_LAGS_PROGRESS",
+        "TraitType": "TRAIT_AGENDA_WESTERNIZER"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_LEADS_PROGRESS",
+        "TraitType": "TRAIT_AGENDA_WESTERNIZER"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_WITH_SHIELD_OR_ON_IT",
+        "TraitType": "TRAIT_AGENDA_WITH_SHIELD"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_LAGS_WONDERS",
+        "TraitType": "TRAIT_AGENDA_WONDER_OBSESSED"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_LEADS_WONDERS",
+        "TraitType": "TRAIT_AGENDA_WONDER_OBSESSED"
+    },
+    {
+        "ModifierId": "NONAGENDA_IGNORE_WARMONGERING",
+        "TraitType": "TRAIT_AGENDA_IGNORE_WARMONGERING"
+    },
+    {
+        "ModifierId": "AGENDA_PARANOID",
+        "TraitType": "TRAIT_AGENDA_PARANOID"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_PROTECT_CITY_STATES",
+        "TraitType": "TRAIT_AGENDA_PREFER_CITY_STATE_PROTECTOR"
+    },
+    {
+        "ModifierId": "AGENDA_MED_PROTECT_CITY_STATES",
+        "TraitType": "TRAIT_AGENDA_PREFER_CITY_STATE_PROTECTOR"
+    },
+    {
+        "ModifierId": "AGENDA_MED_ATTACK_CITY_STATES",
+        "TraitType": "TRAIT_AGENDA_PREFER_CITY_STATE_PROTECTOR"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_ATTACK_CITY_STATES",
+        "TraitType": "TRAIT_AGENDA_PREFER_CITY_STATE_PROTECTOR"
+    },
+    {
+        "ModifierId": "AGENDA_CLEARS_BARBARIAN_CAMPS",
+        "TraitType": "TRAIT_AGENDA_PREFER_CLEAR_BANDIT_CAMPS"
+    },
+    {
+        "ModifierId": "AGENDA_IGNORES_BARBARIAN_CAMPS",
+        "TraitType": "TRAIT_AGENDA_PREFER_CLEAR_BANDIT_CAMPS"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_CULTURE",
+        "TraitType": "TRAIT_AGENDA_PREFER_CULTURE"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_CULTURE",
+        "TraitType": "TRAIT_AGENDA_PREFER_CULTURE"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_FAITH",
+        "TraitType": "TRAIT_AGENDA_PREFER_FAITH"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_FAITH",
+        "TraitType": "TRAIT_AGENDA_PREFER_FAITH"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_EXPLORATION",
+        "TraitType": "TRAIT_AGENDA_EXPLORATION_OBSESSED"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_EXPLORATION",
+        "TraitType": "TRAIT_AGENDA_EXPLORATION_OBSESSED"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_GREAT_PERSON_ADVOCATE_LAG",
+        "TraitType": "TRAIT_AGENDA_GREAT_PERSON_ADVOCATE"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_GREAT_PERSON_ADVOCATE_LEAD",
+        "TraitType": "TRAIT_AGENDA_GREAT_PERSON_ADVOCATE"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_WONDER_ADVOCATE_LAG",
+        "TraitType": "TRAIT_AGENDA_WONDER_ADVOCATE"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_WONDER_ADVOCATE_LEAD",
+        "TraitType": "TRAIT_AGENDA_WONDER_ADVOCATE"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_HAPPINESS",
+        "TraitType": "TRAIT_AGENDA_PREFER_HAPPINESS"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_HAPPINESS",
+        "TraitType": "TRAIT_AGENDA_PREFER_HAPPINESS"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_INCOME",
+        "TraitType": "TRAIT_AGENDA_PREFER_INCOME"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_INCOME",
+        "TraitType": "TRAIT_AGENDA_PREFER_INCOME"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_INDUSTRY",
+        "TraitType": "TRAIT_AGENDA_PREFER_INDUSTRY"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_INDUSTRY",
+        "TraitType": "TRAIT_AGENDA_PREFER_INDUSTRY"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_NUKE_LOVE",
+        "TraitType": "TRAIT_AGENDA_PREFER_NUKES"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_NUKE_LOVE",
+        "TraitType": "TRAIT_AGENDA_PREFER_NUKES"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_POPULATION",
+        "TraitType": "TRAIT_AGENDA_PREFER_POPULATION"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_POPULATION",
+        "TraitType": "TRAIT_AGENDA_PREFER_POPULATION"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_SCIENCE",
+        "TraitType": "TRAIT_AGENDA_PREFER_SCIENCE"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_SCIENCE",
+        "TraitType": "TRAIT_AGENDA_PREFER_SCIENCE"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_STANDING_ARMY",
+        "TraitType": "TRAIT_AGENDA_PREFER_STANDING_ARMY"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_STANDING_ARMY",
+        "TraitType": "TRAIT_AGENDA_PREFER_STANDING_ARMY"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_AIRPOWER",
+        "TraitType": "TRAIT_AGENDA_PREFER_AIRPOWER"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_AIRPOWER",
+        "TraitType": "TRAIT_AGENDA_PREFER_AIRPOWER"
+    },
+    {
+        "ModifierId": "AGENDA_EXPLOITATION",
+        "TraitType": "TRAIT_AGENDA_PREFER_EXPLOITATION"
+    },
+    {
+        "ModifierId": "AGENDA_ENVIRONMENT",
+        "TraitType": "TRAIT_AGENDA_PREFER_ENVIRONMENT"
+    },
+    {
+        "ModifierId": "AGENDA_SAME_GOVERNMENT",
+        "TraitType": "TRAIT_AGENDA_PREFER_SAME_GOVERNMENT"
+    },
+    {
+        "ModifierId": "AGENDA_DIFFERENT_GOVERNMENT",
+        "TraitType": "TRAIT_AGENDA_PREFER_SAME_GOVERNMENT"
+    },
+    {
+        "ModifierId": "AGENDA_ADJUST_GOVERNMENT_INTOLERANCE",
+        "TraitType": "TRAIT_AGENDA_PREFER_SAME_GOVERNMENT"
+    },
+    {
+        "ModifierId": "TRAIT_ADJACENT_DISTRICTS_HOLYSITE_ADJACENCYFAITH",
+        "TraitType": "TRAIT_CIVILIZATION_ADJACENT_DISTRICTS"
+    },
+    {
+        "ModifierId": "TRAIT_ADJACENT_DISTRICTS_CAMPUS_ADJACENCYSCIENCE",
+        "TraitType": "TRAIT_CIVILIZATION_ADJACENT_DISTRICTS"
+    },
+    {
+        "ModifierId": "TRAIT_ADJACENT_DISTRICTS_HARBOR_ADJACENCYGOLD",
+        "TraitType": "TRAIT_CIVILIZATION_ADJACENT_DISTRICTS"
+    },
+    {
+        "ModifierId": "TRAIT_ADJACENT_DISTRICTS_COMMERCIALHUB_ADJACENCYGOLD",
+        "TraitType": "TRAIT_CIVILIZATION_ADJACENT_DISTRICTS"
+    },
+    {
+        "ModifierId": "TRAIT_ADJACENT_DISTRICTS_THEATER_ADJACENCYCULTURE",
+        "TraitType": "TRAIT_CIVILIZATION_ADJACENT_DISTRICTS"
+    },
+    {
+        "ModifierId": "TRAIT_ADJACENT_DISTRICTS_INDUSTRIALZONE_ADJACENCYPRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_ADJACENT_DISTRICTS"
+    },
+    {
+        "ModifierId": "TRAIT_AMAZON_RAINFOREST_COMMERCIALHUB_ADJACENCY",
+        "TraitType": "TRAIT_CIVILIZATION_AMAZON"
+    },
+    {
+        "ModifierId": "TRAIT_AMAZON_RAINFOREST_HOLYSITE_ADJACENCY",
+        "TraitType": "TRAIT_CIVILIZATION_AMAZON"
+    },
+    {
+        "ModifierId": "TRAIT_AMAZON_RAINFOREST_CAMPUS_ADJACENCY",
+        "TraitType": "TRAIT_CIVILIZATION_AMAZON"
+    },
+    {
+        "ModifierId": "TRAIT_AMAZON_RAINFOREST_THEATER_ADJACENCY",
+        "TraitType": "TRAIT_CIVILIZATION_AMAZON"
+    },
+    {
+        "ModifierId": "TRAIT_AMAZON_RAINFOREST_EXTRA_APPEAL",
+        "TraitType": "TRAIT_CIVILIZATION_AMAZON"
+    },
+    {
+        "ModifierId": "TRAIT_BONUS_AGAINST_BARBS",
+        "TraitType": "TRAIT_CIVILIZATION_BONUS_AGAINST_BARBS"
+    },
+    {
+        "ModifierId": "TRAIT_GAINS_ALL_FOLLOWER_BELIEFS",
+        "TraitType": "TRAIT_CIVILIZATION_DHARMA"
+    },
+    {
+        "ModifierId": "TRAIT_EXPENDED_GREAT_PERSON_TILES",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_LAVRA"
+    },
+    {
+        "ModifierId": "TRAIT_DOUBLE_ARCHAEOLOGY_SLOTS",
+        "TraitType": "TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS"
+    },
+    {
+        "ModifierId": "TRAIT_SUPPORT_TWO_ARCHAEOLOGISTS",
+        "TraitType": "TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS"
+    },
+    {
+        "ModifierId": "TRAIT_AUTO_THEME_ARCHAEOLOGY_MUSEUM",
+        "TraitType": "TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS"
+    },
+    {
+        "ModifierId": "TRAIT_DOUBLEMONUMENTCULTURE",
+        "TraitType": "TRAIT_CIVILIZATION_DOUBLE_CULTURE_BUILDINGS"
+    },
+    {
+        "ModifierId": "TRAIT_DOUBLESHRINECULTURE",
+        "TraitType": "TRAIT_CIVILIZATION_DOUBLE_CULTURE_BUILDINGS"
+    },
+    {
+        "ModifierId": "TRAIT_DOUBLETEMPLECULTURE",
+        "TraitType": "TRAIT_CIVILIZATION_DOUBLE_CULTURE_BUILDINGS"
+    },
+    {
+        "ModifierId": "TRAIT_CIVIC_BOOST",
+        "TraitType": "TRAIT_CIVILIZATION_DYNASTIC_CYCLE"
+    },
+    {
+        "ModifierId": "TRAIT_TECHNOLOGY_BOOST",
+        "TraitType": "TRAIT_CIVILIZATION_DYNASTIC_CYCLE"
+    },
+    {
+        "ModifierId": "TRAIT_CIVIC_BOOST_WONDER_ERA",
+        "TraitType": "TRAIT_CIVILIZATION_DYNASTIC_CYCLE"
+    },
+    {
+        "ModifierId": "TRAIT_TECHNOLOGY_BOOST_WONDER_ERA",
+        "TraitType": "TRAIT_CIVILIZATION_DYNASTIC_CYCLE"
+    },
+    {
+        "ModifierId": "TRAIT_EARLY_OCEAN_NAVIGATION",
+        "TraitType": "TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION"
+    },
+    {
+        "ModifierId": "TRAIT_MELEE_NAVAL_HEAL_NEUTRAL",
+        "TraitType": "TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION"
+    },
+    {
+        "ModifierId": "TRAIT_IGNORE_EMBARK_DISEMBARK_COST",
+        "TraitType": "TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION"
+    },
+    {
+        "ModifierId": "TRAIT_EXTRALIGHTCAVALRY",
+        "TraitType": "TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY"
+    },
+    {
+        "ModifierId": "TRAIT_EXTRASAKAHORSEARCHER",
+        "TraitType": "TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY"
+    },
+    {
+        "ModifierId": "TRAIT_BARBARIAN_CAMP_GOODY",
+        "TraitType": "TRAIT_CIVILIZATION_FIRST_CIVILIZATION"
+    },
+    {
+        "ModifierId": "TRAIT_LEVY_DISCOUNT",
+        "TraitType": "TRAIT_CIVILIZATION_FIRST_CIVILIZATION"
+    },
+    {
+        "ModifierId": "TRAIT_EXTRA_DISTRICT_EACH_CITY",
+        "TraitType": "TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES"
+    },
+    {
+        "ModifierId": "TRAIT_BUILDERPRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_INEXPENSIVE_BUILDERS"
+    },
+    {
+        "ModifierId": "TRAIT_RIVER_FASTER_BUILDTIME_DISTRICT",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_RIVER_FASTER_BUILDTIME_WONDER",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_FLOODPLAINS_VALID_HOLY_SITE",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_FLOODPLAINS_VALID_CAMPUS",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_FLOODPLAINS_VALID_ENCAMPMENT",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_FLOODPLAINS_VALID_COMMERCIAL_HUB",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_FLOODPLAINS_VALID_ENTERTAINMENT_COMPLEX",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_FLOODPLAINS_VALID_THEATER",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_FLOODPLAINS_VALID_INDUSTRIAL_ZONE",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_FLOODPLAINS_VALID_AQUEDUCT",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_FLOODPLAINS_VALID_NEIGHBORHOOD",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_FLOODPLAINS_VALID_SPACEPORT",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_FLOODPLAINS_VALID_AERODROME",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_FLOODPLAINS_VALID_WONDER",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "TRAIT_SCIENCE_PER_FOREIGN_CITY_FOLLOWING_RELIGION",
+        "TraitType": "TRAIT_CIVILIZATION_LAST_PROPHET"
+    },
+    {
+        "ModifierId": "TRAIT_GUARANTEE_ONE_PROPHET",
+        "TraitType": "TRAIT_CIVILIZATION_LAST_PROPHET"
+    },
+    {
+        "ModifierId": "TRAIT_FREE_ROADS_TO_CAPITAL",
+        "TraitType": "TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME"
+    },
+    {
+        "ModifierId": "TRAIT_FREE_TRADING_POSTS",
+        "TraitType": "TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME"
+    },
+    {
+        "ModifierId": "TRAIT_GOLD_FROM_DOMESTIC_TRADING_POSTS",
+        "TraitType": "TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME"
+    },
+    {
+        "ModifierId": "TRAIT_INCREASED_TUNDRA_FAITH",
+        "TraitType": "TRAIT_CIVILIZATION_MOTHER_RUSSIA"
+    },
+    {
+        "ModifierId": "TRAIT_INCREASED_TUNDRA_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_MOTHER_RUSSIA"
+    },
+    {
+        "ModifierId": "TRAIT_INCREASED_TUNDRA_HILLS_FAITH",
+        "TraitType": "TRAIT_CIVILIZATION_MOTHER_RUSSIA"
+    },
+    {
+        "ModifierId": "TRAIT_INCREASED_TUNDRA_HILLS_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_MOTHER_RUSSIA"
+    },
+    {
+        "ModifierId": "TRAIT_INCREASED_TILES",
+        "TraitType": "TRAIT_CIVILIZATION_MOTHER_RUSSIA"
+    },
+    {
+        "ModifierId": "TRAIT_SHRINE_WRITING_POINTS",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_LAVRA"
+    },
+    {
+        "ModifierId": "TRAIT_TEMPLE_ARTIST_POINTS",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_LAVRA"
+    },
+    {
+        "ModifierId": "TRAIT_TIER3_MUSICIAN_POINTS",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_LAVRA"
+    },
+    {
+        "ModifierId": "TRAIT_DOUBLE_ARTIST_POINTS",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_DOUBLE_MUSICIAN_POINTS",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_DOUBLE_MERCHANT_POINTS",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_GREAT_WORK_FAITH_SCULPTURE",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_GREAT_WORK_FOOD_SCULPTURE",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_GREAT_WORK_PRODUCTION_SCULPTURE",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_GREAT_WORK_GOLD_SCULPTURE",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_GREAT_WORK_FAITH_ARTIFACT",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_GREAT_WORK_FOOD_ARTIFACT",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_GREAT_WORK_PRODUCTION_ARTIFACT",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_GREAT_WORK_GOLD_ARTIFACT",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_GREAT_WORK_FAITH_RELIC",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_GREAT_WORK_FOOD_RELIC",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_GREAT_WORK_PRODUCTION_RELIC",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_GREAT_WORK_GOLD_RELIC",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_EXTRA_PALACE_SLOTS",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "TRAIT_WILDCARD_GOVERNMENT_SLOT",
+        "TraitType": "TRAIT_CIVILIZATION_PLATOS_REPUBLIC"
+    },
+    {
+        "ModifierId": "TRAIT_NAVAL_CORPS_EARLY",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_NAVAL_ARMIES_EARLY",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_INTERNATIONAL_FAITH",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_DOMESTIC_FAITH",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_INTERNATIONAL_GOLD",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_DOMESTIC_GOLD",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_INTERNATIONAL_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_DOMESTIC_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_INTERCONTINENTAL_INTERNATIONAL_FAITH",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_INTERCONTINENTAL_DOMESTIC_FAITH",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_INTERCONTINENTAL_INTERNATIONAL_GOLD",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_INTERCONTINENTAL_DOMESTIC_GOLD",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_INTERCONTINENTAL_INTERNATIONAL_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_INTERCONTINENTAL_DOMESTIC_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_INTERCONTINENTAL_DISTRICT_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_INTERCONTINENTAL_BUILDER",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_WONDER_DOUBLETOURISM",
+        "TraitType": "TRAIT_CIVILIZATION_WONDER_TOURISM"
+    },
+    {
+        "ModifierId": "TRAIT_WONDER_MEDIAVALINDUSTRIAL_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_WONDER_TOURISM"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_ALLY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_ARCHAEOLOGY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_BROKEN_PROMISE",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_CONVERTED_CITY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_CULTURE_BOMBED",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_DECLARED_FRIEND",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_DEFENSIVE_PACT",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_DELEGATION",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_DEMAND",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_DENOUNCED",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_ESPIONAGE",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_HAD_FRIENDLY_MEETING",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_GOVERNMENT_SAME",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_GOVERNMENT_DIFFERENT",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_INCURSION",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMACY_JOINT_WAR",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_KEPT_PROMISE",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_NEAR_BORDER_WARNING",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_NO_PROMISE",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_LIBERATED_CITY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_LIBERATED_MY_CITY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_OCCUPIED_CITY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_OCCUPIED_FRIENDLY_CITY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_ONE_SIDED_TRADES",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_OPEN_BORDERS",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_RAZED_MY_CITY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_RELIGION_ACCEPT_CONVERSION",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMACY_PEACE",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMACY_RANDOM",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMACY_RESIDENT_EMBASSY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMACY_SETTLED_CITIES",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMACY_TRADE_RELATIONS",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_WARMONGER",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_SURPRISE_WAR_ON_FRIEND",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_3RD_PARTY_DENOUNCED_FRIEND",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_FRIENDSHIP_WITH_FRIEND",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_3RD_PARTY_ALLIED_WITH_FRIEND",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_SURPRISE_WAR_ON_ENEMY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_3RD_PARTY_DENOUNCED_ENEMY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_FRIENDSHIP_WITH_ENEMY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_3RD_PARTY_ALLIED_WITH_ENEMY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "HIGH_DIFFICULTY_SCIENCE_SCALING",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "HIGH_DIFFICULTY_CULTURE_SCALING",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "HIGH_DIFFICULTY_PRODUCTION_SCALING",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "HIGH_DIFFICULTY_GOLD_SCALING",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "HIGH_DIFFICULTY_FAITH_SCALING",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "BARBARIAN_CAMP_GOLD_SCALING",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "HIGH_DIFFICULTY_COMBAT_SCALING",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "LOW_DIFFICULTY_COMBAT_SCALING",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "HIGH_DIFFICULTY_UNIT_XP_SCALING",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "LOW_DIFFICULTY_UNIT_XP_SCALING",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "UNIQUE_LEADER_CULTURE_KILLS",
+        "TraitType": "CULTURE_KILLS_TRAIT"
+    },
+    {
+        "ModifierId": "UNIQUE_LEADER_CULTURE_KILLS_GRANT_ABILITY",
+        "TraitType": "CULTURE_KILLS_TRAIT"
+    },
+    {
+        "ModifierId": "TRAIT_INTERNATIONAL_TRADE_GAIN_GOLD",
+        "TraitType": "TRAIT_LEADER_MEDITERRANEAN"
+    },
+    {
+        "ModifierId": "TRAIT_INCOMING_TRADE_GAIN_GOLD",
+        "TraitType": "TRAIT_LEADER_MEDITERRANEAN"
+    },
+    {
+        "ModifierId": "TRAIT_INCOMING_TRADE_OFFER_FOOD",
+        "TraitType": "TRAIT_LEADER_MEDITERRANEAN"
+    },
+    {
+        "ModifierId": "TRAIT_BOOST_ENCAMPMENT_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_DIVINE_WIND"
+    },
+    {
+        "ModifierId": "TRAIT_BOOST_HOLY_SITE_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_DIVINE_WIND"
+    },
+    {
+        "ModifierId": "TRAIT_BOOST_THEATER_DISTRICT_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_DIVINE_WIND"
+    },
+    {
+        "ModifierId": "TRAIT_COMBAT_BONUS_LAND_ON_COAST",
+        "TraitType": "TRAIT_LEADER_DIVINE_WIND"
+    },
+    {
+        "ModifierId": "TRAIT_COMBAT_BONUS_NAVAL_SHALLOW_WATER",
+        "TraitType": "TRAIT_LEADER_DIVINE_WIND"
+    },
+    {
+        "ModifierId": "TRAIT_ADJUST_INQUISITOR_CHARGES",
+        "TraitType": "TRAIT_LEADER_EL_ESCORIAL"
+    },
+    {
+        "ModifierId": "TRAIT_COMBAT_BONUS_OTHER_RELIGION",
+        "TraitType": "TRAIT_LEADER_EL_ESCORIAL"
+    },
+    {
+        "ModifierId": "TRAIT_COMBAT_BONUS_PER_LUXURY",
+        "TraitType": "TRAIT_LEADER_GIFTS_FOR_TLATOANI"
+    },
+    {
+        "ModifierId": "TRAIT_OWNED_LUXURY_EXTRA_AMENITIES",
+        "TraitType": "TRAIT_LEADER_GIFTS_FOR_TLATOANI"
+    },
+    {
+        "ModifierId": "TRAIT_ADJUST_PROGRESS_DIFF_TRADE_BONUS",
+        "TraitType": "TRAIT_LEADER_GRAND_EMBASSY"
+    },
+    {
+        "ModifierId": "TRAIT_MILITARY_GOVERNMENT_SLOT",
+        "TraitType": "TRAIT_LEADER_HOLY_ROMAN_EMPEROR"
+    },
+    {
+        "ModifierId": "TRAIT_COMBAT_BONUS_CITY_STATES",
+        "TraitType": "TRAIT_LEADER_HOLY_ROMAN_EMPEROR"
+    },
+    {
+        "ModifierId": "TRAIT_FREE_MELEE_UNIT_NON_HOME_CONTINENT",
+        "TraitType": "TRAIT_LEADER_PAX_BRITANNICA"
+    },
+    {
+        "ModifierId": "TRAIT_FREE_MELEE_UNIT_FOREIGN_ROYAL_NAVY_DOCKYARD",
+        "TraitType": "TRAIT_LEADER_PAX_BRITANNICA"
+    },
+    {
+        "ModifierId": "TRAIT_FREE_APOSTLE_FINISH_MBANZA",
+        "TraitType": "TRAIT_LEADER_RELIGIOUS_CONVERT"
+    },
+    {
+        "ModifierId": "TRAIT_FREE_APOSTLE_FINISH_THEATER_DISTRICT",
+        "TraitType": "TRAIT_LEADER_RELIGIOUS_CONVERT"
+    },
+    {
+        "ModifierId": "TRAIT_GAINS_FOUNDER_BELIEF_MAJORITY_RELIGION",
+        "TraitType": "TRAIT_LEADER_RELIGIOUS_CONVERT"
+    },
+    {
+        "ModifierId": "TRAIT_RELIGIOUS_BUILDING_DISCOUNT",
+        "TraitType": "TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH"
+    },
+    {
+        "ModifierId": "TRAIT_RELIGIOUS_BUILDING_MULTIPLIER_CULTURE",
+        "TraitType": "TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH"
+    },
+    {
+        "ModifierId": "TRAIT_RELIGIOUS_BUILDING_MULTIPLIER_FAITH",
+        "TraitType": "TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH"
+    },
+    {
+        "ModifierId": "TRAIT_RELIGIOUS_BUILDING_MULTIPLIER_SCIENCE",
+        "TraitType": "TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH"
+    },
+    {
+        "ModifierId": "TRAIT_COMBAT_BONUS_HOME_CONTINENT",
+        "TraitType": "TRAIT_LEADER_ROOSEVELT_COROLLARY"
+    },
+    {
+        "ModifierId": "TRAIT_BEFRIEND_MINOR_CIV_HOME_CONTINENT",
+        "TraitType": "TRAIT_LEADER_ROOSEVELT_COROLLARY"
+    },
+    {
+        "ModifierId": "TRAIT_NO_WAR_MINOR_CIV_HOME_CONTINENT",
+        "TraitType": "TRAIT_LEADER_ROOSEVELT_COROLLARY"
+    },
+    {
+        "ModifierId": "TRAIT_FAITH_PEACEFUL_FOUNDERS",
+        "TraitType": "TRAIT_LEADER_SATYAGRAHA"
+    },
+    {
+        "ModifierId": "TRAIT_INCREASE_ENEMY_WAR_WEARINESS",
+        "TraitType": "TRAIT_LEADER_SATYAGRAHA"
+    },
+    {
+        "ModifierId": "TRAIT_GRANT_COASTAL_RAID_ABILITY",
+        "TraitType": "TRAIT_LEADER_MELEE_COASTAL_RAIDS"
+    },
+    {
+        "ModifierId": "TRAIT_ANCIENT_NAVAL_MELEE_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_MELEE_COASTAL_RAIDS"
+    },
+    {
+        "ModifierId": "TRAIT_CLASSICAL_NAVAL_MELEE_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_MELEE_COASTAL_RAIDS"
+    },
+    {
+        "ModifierId": "TRAIT_MEDIEVAL_NAVAL_MELEE_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_MELEE_COASTAL_RAIDS"
+    },
+    {
+        "ModifierId": "TRAIT_RENAISSANCE_NAVAL_MELEE_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_MELEE_COASTAL_RAIDS"
+    },
+    {
+        "ModifierId": "TRAIT_INDUSTRIAL_NAVAL_MELEE_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_MELEE_COASTAL_RAIDS"
+    },
+    {
+        "ModifierId": "TRAIT_MODERN_NAVAL_MELEE_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_MELEE_COASTAL_RAIDS"
+    },
+    {
+        "ModifierId": "TRAIT_ATOMIC_NAVAL_MELEE_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_MELEE_COASTAL_RAIDS"
+    },
+    {
+        "ModifierId": "TRAIT_INFORMATION_NAVAL_MELEE_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_MELEE_COASTAL_RAIDS"
+    },
+    {
+        "ModifierId": "TRAIT_ADJUST_BUILDER_CHARGES",
+        "TraitType": "FIRST_EMPEROR_TRAIT"
+    },
+    {
+        "ModifierId": "TRAIT_BUILDER_WONDER_PERCENT",
+        "TraitType": "FIRST_EMPEROR_TRAIT"
+    },
+    {
+        "ModifierId": "UNIQUE_LEADER_ADD_VISIBILITY",
+        "TraitType": "FLYING_SQUADRON_TRAIT"
+    },
+    {
+        "ModifierId": "UNIQUE_LEADER_ADD_SPY_CAPACITY",
+        "TraitType": "FLYING_SQUADRON_TRAIT"
+    },
+    {
+        "ModifierId": "UNIQUE_LEADER_ADD_SPY_UNIT",
+        "TraitType": "FLYING_SQUADRON_TRAIT"
+    },
+    {
+        "ModifierId": "UNIQUE_LEADER_SPIES_START_PROMOTED",
+        "TraitType": "FLYING_SQUADRON_TRAIT"
+    },
+    {
+        "ModifierId": "TRAIT_ADJUST_NON_CAPITAL_FREE_CHEAPEST_BUILDING",
+        "TraitType": "TRAJANS_COLUMN_TRAIT"
+    },
+    {
+        "ModifierId": "BONUS_VS_WOUNDED_UNITS",
+        "TraitType": "TRAIT_LEADER_KILLER_OF_CYRUS"
+    },
+    {
+        "ModifierId": "HEAL_AFTER_DEFEATING_UNIT",
+        "TraitType": "TRAIT_LEADER_KILLER_OF_CYRUS"
+    },
+    {
+        "ModifierId": "TRAIT_GREAT_PERSON_REFUND",
+        "TraitType": "TRAIT_LEADER_MAGNANIMOUS"
+    },
+    {
+        "ModifierId": "TRAIT_CULTURE_PER_CITY_STATE_TRIBUTARY",
+        "TraitType": "TRAIT_LEADER_SURROUNDED_BY_GLORY"
+    },
+    {
+        "ModifierId": "MINOR_CIV_PRODUCTION_PENALTY",
+        "TraitType": "MINOR_CIV_DEFAULT_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_PRODUCTION_BUILDERS",
+        "TraitType": "MINOR_CIV_DEFAULT_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_PRODUCTION_HARBORS",
+        "TraitType": "MINOR_CIV_DEFAULT_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_PRODUCTION_MILITARY",
+        "TraitType": "MINOR_CIV_DEFAULT_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_PRODUCTION_WALLS",
+        "TraitType": "MINOR_CIV_DEFAULT_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_GOLD_MILITARY_UPGRADE",
+        "TraitType": "MINOR_CIV_DEFAULT_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_SCIENTIFIC_CAMPUS_PRODUCTION",
+        "TraitType": "MINOR_CIV_SCIENTIFIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_SCIENTIFIC_SEND_TRADE_ROUTE_BONUS",
+        "TraitType": "MINOR_CIV_SCIENTIFIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_HOLY_SITE_PRODUCTION",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_SEND_TRADE_ROUTE_BONUS",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TRADE_COMMERCIAL_HUB_PRODUCTION",
+        "TraitType": "MINOR_CIV_TRADE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TRADE_SEND_TRADE_ROUTE_BONUS",
+        "TraitType": "MINOR_CIV_TRADE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CULTURAL_THEATER_PRODUCTION",
+        "TraitType": "MINOR_CIV_CULTURAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CULTURAL_SEND_TRADE_ROUTE_BONUS",
+        "TraitType": "MINOR_CIV_CULTURAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_MILITARISTIC_ENCAMPMENT_PRODUCTION",
+        "TraitType": "MINOR_CIV_MILITARISTIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_MILITARISTIC_SEND_TRADE_ROUTE_BONUS",
+        "TraitType": "MINOR_CIV_MILITARISTIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_INDUSTRIAL_ZONE_PRODUCTION",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_SEND_TRADE_ROUTE_BONUS",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_LARGE_INFLUENCE_BONUS_PAPAL_PRIMACY_DISTRICT",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_AMSTERDAM_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_AMSTERDAM_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_BRUSSELS_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_BRUSSELS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_BUENOS_AIRES_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_BUENOS_AIRES_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_GENEVA_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_GENEVA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_HATTUSA_UNIQUE_INFLUENCE_ALUMINUM_RESOURCE_BONUS",
+        "TraitType": "MINOR_CIV_HATTUSA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_HATTUSA_UNIQUE_INFLUENCE_COAL_RESOURCE_BONUS",
+        "TraitType": "MINOR_CIV_HATTUSA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_HATTUSA_UNIQUE_INFLUENCE_HORSES_RESOURCE_BONUS",
+        "TraitType": "MINOR_CIV_HATTUSA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_HATTUSA_UNIQUE_INFLUENCE_IRON_RESOURCE_BONUS",
+        "TraitType": "MINOR_CIV_HATTUSA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_HATTUSA_UNIQUE_INFLUENCE_NITER_RESOURCE_BONUS",
+        "TraitType": "MINOR_CIV_HATTUSA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_HATTUSA_UNIQUE_INFLUENCE_OIL_RESOURCE_BONUS",
+        "TraitType": "MINOR_CIV_HATTUSA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_HATTUSA_UNIQUE_INFLUENCE_URANIUM_RESOURCE_BONUS",
+        "TraitType": "MINOR_CIV_HATTUSA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_HONG_KONG_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_HONG_KONG_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_JAKARTA_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_JAKARTA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_KABUL_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_KABUL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_KANDY_UNIQUE_INFLUENCE_GRANT_BONUS",
+        "TraitType": "MINOR_CIV_KANDY_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_KANDY_UNIQUE_INFLUENCE_BETTER_RELIC_BONUS",
+        "TraitType": "MINOR_CIV_KANDY_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_KUMASI_UNIQUE_INFLUENCE_TRADE_CULTURE_BONUS",
+        "TraitType": "MINOR_CIV_KUMASI_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_KUMASI_UNIQUE_INFLUENCE_TRADE_GOLD_BONUS",
+        "TraitType": "MINOR_CIV_KUMASI_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_LA_VENTA_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_LA_VENTA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_LISBON_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_LISBON_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_MOHENJO_DARO_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_MOHENJO_DARO_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_NAN_MADOL_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_NAN_MADOL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_SEOUL_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_SEOUL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_VALLETTA_UNIQUE_INFLUENCE_PURCHASE_CHEAPER_WALLS_BONUS",
+        "TraitType": "MINOR_CIV_VALLETTA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_VALLETTA_UNIQUE_INFLUENCE_PURCHASE_CHEAPER_CASTLE_BONUS",
+        "TraitType": "MINOR_CIV_VALLETTA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_VALLETTA_UNIQUE_INFLUENCE_PURCHASE_CHEAPER_STAR_BONUS",
+        "TraitType": "MINOR_CIV_VALLETTA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_VALLETTA_UNIQUE_INFLUENCE_CITY_CENTER_BUILDINGS_BONUS",
+        "TraitType": "MINOR_CIV_VALLETTA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_VALLETTA_UNIQUE_INFLUENCE_ENCAMPMENT_BUILDINGS_BONUS",
+        "TraitType": "MINOR_CIV_VALLETTA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_YEREVAN_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_YEREVAN_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_ZANZIBAR_UNIQUE_INFLUENCE_CINNAMON_RESOURCE_BONUS",
+        "TraitType": "MINOR_CIV_ZANZIBAR_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_ZANZIBAR_UNIQUE_INFLUENCE_CLOVES_RESOURCE_BONUS",
+        "TraitType": "MINOR_CIV_ZANZIBAR_TRAIT"
+    },
+    {
+        "ModifierId": "TRAIT_BUILDER_DISTRICT_PERCENT",
+        "TraitType": "TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS"
+    },
+    {
+        "ModifierId": "TRAIT_AQUEDUCT_AMENITY",
+        "TraitType": "TRAIT_CIVILIZATION_KHMER_BARAYS"
+    },
+    {
+        "ModifierId": "TRAIT_FARM_AQUEDUCT_ADJECENCY_FOOD",
+        "TraitType": "TRAIT_CIVILIZATION_KHMER_BARAYS"
+    },
+    {
+        "ModifierId": "TRAIT_HOLY_SITE_CULTURE_BOMB",
+        "TraitType": "TRAIT_LEADER_MONASTERIES_KING"
+    },
+    {
+        "ModifierId": "AGENDA_END_TO_SUFFERING",
+        "TraitType": "TRAIT_AGENDA_END_TO_SUFFERING"
+    },
+    {
+        "ModifierId": "TRAIT_NAVAL_MELEE_FAITH",
+        "TraitType": "TRAIT_LEADER_EXALTED_GODDESS"
+    },
+    {
+        "ModifierId": "TRAIT_NAVAL_RANGED_FAITH",
+        "TraitType": "TRAIT_LEADER_EXALTED_GODDESS"
+    },
+    {
+        "ModifierId": "TRAIT_NAVAL_RAIDER_FAITH",
+        "TraitType": "TRAIT_LEADER_EXALTED_GODDESS"
+    },
+    {
+        "ModifierId": "TRAIT_NAVAL_CARRIER_FAITH",
+        "TraitType": "TRAIT_LEADER_EXALTED_GODDESS"
+    },
+    {
+        "ModifierId": "TRAIT_IGNORE_EMBARK_DISEMBARK_COST_RELIGIOUS",
+        "TraitType": "TRAIT_LEADER_EXALTED_GODDESS"
+    },
+    {
+        "ModifierId": "TRAIT_FAITH_CITY_CENTER",
+        "TraitType": "TRAIT_LEADER_EXALTED_GODDESS"
+    },
+    {
+        "ModifierId": "TRAIT_NUSANTARA_COAST_HOLY_SITE",
+        "TraitType": "TRAIT_CIVILIZATION_INDONESIA_NUSANTARA"
+    },
+    {
+        "ModifierId": "TRAIT_NUSANTARA_COAST_CAMPUS",
+        "TraitType": "TRAIT_CIVILIZATION_INDONESIA_NUSANTARA"
+    },
+    {
+        "ModifierId": "TRAIT_NUSANTARA_COAST_INDUSTRIAL_ZONE",
+        "TraitType": "TRAIT_CIVILIZATION_INDONESIA_NUSANTARA"
+    },
+    {
+        "ModifierId": "TRAIT_NUSANTARA_COAST_THEATER",
+        "TraitType": "TRAIT_CIVILIZATION_INDONESIA_NUSANTARA"
+    },
+    {
+        "ModifierId": "TRAIT_NUSANTARA_COAST_ENTERTAINMENT",
+        "TraitType": "TRAIT_CIVILIZATION_INDONESIA_NUSANTARA"
+    },
+    {
+        "ModifierId": "AGENDA_ARCHIPELAGIC_STATE",
+        "TraitType": "TRAIT_AGENDA_ARCHIPELAGIC_STATE"
+    },
+    {
+        "ModifierId": "PRASAT_TOURISM_10_POPULATION",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_PRASAT"
+    },
+    {
+        "ModifierId": "PRASAT_TOURISM_20_POPULATION",
+        "TraitType": "TRAIT_CIVILIZATION_BUILDING_PRASAT"
+    },
+    {
+        "ModifierId": "BARAYS_FAITH_POPULATION",
+        "TraitType": "TRAIT_CIVILIZATION_KHMER_BARAYS"
+    },
+    {
+        "ModifierId": "TRAIT_FARM_HOLY_SITE_ADJECENCY_FAITH",
+        "TraitType": "TRAIT_CIVILIZATION_KHMER_BARAYS"
+    },
+    {
+        "ModifierId": "TRAIT_MONASTERIES_KING_HOLY_SITE_RIVER_ADJACENCY",
+        "TraitType": "TRAIT_LEADER_MONASTERIES_KING"
+    },
+    {
+        "ModifierId": "TRAIT_MONASTERIES_KING_ADJACENCY_FOOD",
+        "TraitType": "TRAIT_LEADER_MONASTERIES_KING"
+    },
+    {
+        "ModifierId": "TRAIT_HOLY_SITE_RIVER_2HOUSING",
+        "TraitType": "TRAIT_LEADER_MONASTERIES_KING"
+    },
+    {
+        "ModifierId": "MINOR_CIV_AUCKLAND_UNIQUE_INFLUENCE_BONUS_BASE",
+        "TraitType": "MINOR_CIV_AUCKLAND_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_AUCKLAND_UNIQUE_INFLUENCE_BONUS_INDUSTRIAL",
+        "TraitType": "MINOR_CIV_AUCKLAND_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_ANTANANARIVO_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_ANTANANARIVO_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_ARMAGH_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_ARMAGH_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_GRANADA_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_GRANADA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_MUSCAT_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_MUSCAT_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_PALENQUE_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_PALENQUE_TRAIT"
+    },
+    {
+        "ModifierId": "TRAIT_LITHUANIANUNION_FAITH_RELIC",
+        "TraitType": "TRAIT_LEADER_LITHUANIAN_UNION"
+    },
+    {
+        "ModifierId": "TRAIT_LITHUANIANUNION_CULTURE_RELIC",
+        "TraitType": "TRAIT_LEADER_LITHUANIAN_UNION"
+    },
+    {
+        "ModifierId": "TRAIT_LITHUANIANUNION_GOLD_RELIC",
+        "TraitType": "TRAIT_LEADER_LITHUANIAN_UNION"
+    },
+    {
+        "ModifierId": "TRAIT_ADJACENT_DISTRICTS_HOLYSITE_ADJACENCYFAITH",
+        "TraitType": "TRAIT_LEADER_LITHUANIAN_UNION"
+    },
+    {
+        "ModifierId": "TRAIT_CULTURE_BOMB_CONVERTS_CITY",
+        "TraitType": "TRAIT_LEADER_LITHUANIAN_UNION"
+    },
+    {
+        "ModifierId": "TRAIT_REPLACE_MILITARY_SLOT_WITH_WILDCARD",
+        "TraitType": "TRAIT_CIVILIZATION_GOLDEN_LIBERTY"
+    },
+    {
+        "ModifierId": "TRAIT_CULTURE_BOMB_TRIGGER_ENCAMPMENT",
+        "TraitType": "TRAIT_CIVILIZATION_GOLDEN_LIBERTY"
+    },
+    {
+        "ModifierId": "TRAIT_CULTURE_BOMB_TRIGGER_FORT",
+        "TraitType": "TRAIT_CIVILIZATION_GOLDEN_LIBERTY"
+    },
+    {
+        "ModifierId": "AGENDA_SAINT_HIGH_FAITH",
+        "TraitType": "TRAIT_AGENDA_SAINT"
+    },
+    {
+        "ModifierId": "AGENDA_SAINT_LOW_FAITH",
+        "TraitType": "TRAIT_AGENDA_SAINT"
+    },
+    {
+        "ModifierId": "TRAIT_ANCIENT_RANGED_UNIT_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TA_SETI"
+    },
+    {
+        "ModifierId": "TRAIT_CLASSICAL_RANGED_UNIT_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TA_SETI"
+    },
+    {
+        "ModifierId": "TRAIT_MEDIEVAL_RANGED_UNIT_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TA_SETI"
+    },
+    {
+        "ModifierId": "TRAIT_RENAISSANCE_RANGED_UNIT_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TA_SETI"
+    },
+    {
+        "ModifierId": "TRAIT_INDUSTRIAL_RANGED_UNIT_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TA_SETI"
+    },
+    {
+        "ModifierId": "TRAIT_MODERN_RANGED_UNIT_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TA_SETI"
+    },
+    {
+        "ModifierId": "TRAIT_ATOMIC_RANGED_UNIT_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TA_SETI"
+    },
+    {
+        "ModifierId": "TRAIT_INFORMATION_RANGED_UNIT_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TA_SETI"
+    },
+    {
+        "ModifierId": "TRAIT_STRATEGIC_MINE_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_TA_SETI"
+    },
+    {
+        "ModifierId": "TRAIT_BONUS_MINE_GOLD",
+        "TraitType": "TRAIT_CIVILIZATION_TA_SETI"
+    },
+    {
+        "ModifierId": "TRAIT_LUXURY_MINE_GOLD",
+        "TraitType": "TRAIT_CIVILIZATION_TA_SETI"
+    },
+    {
+        "ModifierId": "TRAIT_RANGED_EXPERIENCE_MODIFIER",
+        "TraitType": "TRAIT_CIVILIZATION_TA_SETI"
+    },
+    {
+        "ModifierId": "TRAIT_BASE_DISTRICT_PRODUCTION_MODIFIER",
+        "TraitType": "TRAIT_LEADER_KANDAKE_OF_MEROE"
+    },
+    {
+        "ModifierId": "TRAIT_PYRAMID_DISTRICT_PRODUCTION_MODIFIER",
+        "TraitType": "TRAIT_LEADER_KANDAKE_OF_MEROE"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_DISTRICTS",
+        "TraitType": "TRAIT_AGENDA_CITY_PLANNER"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_DISTRICTS",
+        "TraitType": "TRAIT_AGENDA_CITY_PLANNER"
+    },
+    {
+        "ModifierId": "TRAIT_EJERCITO_PATRIOTA_EXTRA_MOVEMENT",
+        "TraitType": "TRAIT_CIVILIZATION_EJERCITO_PATRIOTA"
+    },
+    {
+        "ModifierId": "TRAIT_PROMOTE_NO_FINISH_MOVES",
+        "TraitType": "TRAIT_CIVILIZATION_EJERCITO_PATRIOTA"
+    },
+    {
+        "ModifierId": "TRAIT_NO_FRESH_WATER_HOUSING",
+        "TraitType": "TRAIT_CIVILIZATION_MAYAB"
+    },
+    {
+        "ModifierId": "TRAIT_ADD_AMENITY_PER_ADJACENT_LUXURY",
+        "TraitType": "TRAIT_CIVILIZATION_MAYAB"
+    },
+    {
+        "ModifierId": "TRAIT_MAYA_FARMS_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_MAYAB"
+    },
+    {
+        "ModifierId": "TRAIT_LEADER_COMANDANTE_GENERAL_GUARANTEE_CLASSICAL",
+        "TraitType": "TRAIT_LEADER_CAMPANA_ADMIRABLE"
+    },
+    {
+        "ModifierId": "TRAIT_LEADER_COMANDANTE_GENERAL_GUARANTEE_MEDIEVAL",
+        "TraitType": "TRAIT_LEADER_CAMPANA_ADMIRABLE"
+    },
+    {
+        "ModifierId": "TRAIT_LEADER_COMANDANTE_GENERAL_GUARANTEE_RENAISSANCE",
+        "TraitType": "TRAIT_LEADER_CAMPANA_ADMIRABLE"
+    },
+    {
+        "ModifierId": "TRAIT_LEADER_COMANDANTE_GENERAL_GUARANTEE_INDUSTRIAL",
+        "TraitType": "TRAIT_LEADER_CAMPANA_ADMIRABLE"
+    },
+    {
+        "ModifierId": "TRAIT_LEADER_COMANDANTE_GENERAL_GUARANTEE_MODERN",
+        "TraitType": "TRAIT_LEADER_CAMPANA_ADMIRABLE"
+    },
+    {
+        "ModifierId": "TRAIT_LEADER_COMANDANTE_GENERAL_GUARANTEE_ATOMIC",
+        "TraitType": "TRAIT_LEADER_CAMPANA_ADMIRABLE"
+    },
+    {
+        "ModifierId": "TRAIT_LEADER_COMANDANTE_GENERAL_GUARANTEE_INFORMATION",
+        "TraitType": "TRAIT_LEADER_CAMPANA_ADMIRABLE"
+    },
+    {
+        "ModifierId": "TRAIT_LEADER_NEARBY_CITIES_GAIN_YIELDS",
+        "TraitType": "TRAIT_LEADER_MUTAL"
+    },
+    {
+        "ModifierId": "TRAIT_LEADER_NEARBY_CITIES_GAIN_BUILDER",
+        "TraitType": "TRAIT_LEADER_MUTAL"
+    },
+    {
+        "ModifierId": "TRAIT_LEADER_NEARBY_CITIES_LOSE_YIELDS",
+        "TraitType": "TRAIT_LEADER_MUTAL"
+    },
+    {
+        "ModifierId": "TRAIT_LEADER_NEARBY_CITIES_GAIN_ABILITY",
+        "TraitType": "TRAIT_LEADER_MUTAL"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CAGUANA_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_CAGUANA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_HUNZA_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_HUNZA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_LAHORE_UNIQUE_UNIT_UNLOCK",
+        "TraitType": "MINOR_CIV_LAHORE_NIHANG_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_SINGAPORE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TARUGA_UNIQUE_INFLUENCE_ALUMINUM_RESOURCE",
+        "TraitType": "MINOR_CIV_TARUGA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TARUGA_UNIQUE_INFLUENCE_COAL_RESOURCE",
+        "TraitType": "MINOR_CIV_TARUGA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TARUGA_UNIQUE_INFLUENCE_HORSES_RESOURCE",
+        "TraitType": "MINOR_CIV_TARUGA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TARUGA_UNIQUE_INFLUENCE_IRON_RESOURCE",
+        "TraitType": "MINOR_CIV_TARUGA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TARUGA_UNIQUE_INFLUENCE_NITER_RESOURCE",
+        "TraitType": "MINOR_CIV_TARUGA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TARUGA_UNIQUE_INFLUENCE_OIL_RESOURCE",
+        "TraitType": "MINOR_CIV_TARUGA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TARUGA_UNIQUE_INFLUENCE_URANIUM_RESOURCE",
+        "TraitType": "MINOR_CIV_TARUGA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_VATICAN_CITY_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_VATICAN_CITY_TRAIT"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_LADY_SIX_SKY_NEIGHBORS",
+        "TraitType": "TRAIT_AGENDA_LADY_SIX_SKY"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_LADY_SIX_SKY_NOT_NEIGHBORS",
+        "TraitType": "TRAIT_AGENDA_LADY_SIX_SKY"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_SIMON_BOLIVAR",
+        "TraitType": "TRAIT_AGENDA_SIMON_BOLIVAR"
+    },
+    {
+        "ModifierId": "TRAIT_HELLENISTIC_FUSION_ENCAMPMENT_EUREKA",
+        "TraitType": "TRAIT_CIVILIZATION_HELLENISTIC_FUSION"
+    },
+    {
+        "ModifierId": "TRAIT_HELLENISTIC_FUSION_CAMPUS_EUREKA",
+        "TraitType": "TRAIT_CIVILIZATION_HELLENISTIC_FUSION"
+    },
+    {
+        "ModifierId": "TRAIT_HELLENISTIC_FUSION_HOLY_SITE_INSPIRATION",
+        "TraitType": "TRAIT_CIVILIZATION_HELLENISTIC_FUSION"
+    },
+    {
+        "ModifierId": "TRAIT_HELLENISTIC_FUSION_THEATER_INSPIRATION",
+        "TraitType": "TRAIT_CIVILIZATION_HELLENISTIC_FUSION"
+    },
+    {
+        "ModifierId": "TRAIT_TOWORLDSEND_NO_WAR_WEARINESS",
+        "TraitType": "TRAIT_LEADER_TO_WORLDS_END"
+    },
+    {
+        "ModifierId": "TRAIT_TOWORLDSEND_HEAL_ON_WONDER_CAPTURE",
+        "TraitType": "TRAIT_LEADER_TO_WORLDS_END"
+    },
+    {
+        "ModifierId": "AGENDA_SHORT_LIFE_GLORY",
+        "TraitType": "TRAIT_AGENDA_SHORT_LIFE_GLORY"
+    },
+    {
+        "ModifierId": "TRAIT_SATRAPIES_INTERNAL_TRADE_CULTURE",
+        "TraitType": "TRAIT_CIVILIZATION_SATRAPIES"
+    },
+    {
+        "ModifierId": "TRAIT_SATRAPIES_INTERNAL_TRADE_GOLD",
+        "TraitType": "TRAIT_CIVILIZATION_SATRAPIES"
+    },
+    {
+        "ModifierId": "TRAIT_SATRAPIES_POLITICAL_PHILOSOPHY_TRADE_ROUTE",
+        "TraitType": "TRAIT_CIVILIZATION_SATRAPIES"
+    },
+    {
+        "ModifierId": "TRAIT_SATRAPIES_IMPROVED_ROUTE_LEVEL",
+        "TraitType": "TRAIT_CIVILIZATION_SATRAPIES"
+    },
+    {
+        "ModifierId": "TRAIT_ADDITIONAL_MARTIAL_LAW",
+        "TraitType": "TRAIT_LEADER_FALL_BABYLON"
+    },
+    {
+        "ModifierId": "TRAIT_FALLBABYLON_SURPRISE_MOVEMENT",
+        "TraitType": "TRAIT_LEADER_FALL_BABYLON"
+    },
+    {
+        "ModifierId": "TRAIT_FALLBABYLON_WARMONGER_MAX",
+        "TraitType": "TRAIT_LEADER_FALL_BABYLON"
+    },
+    {
+        "ModifierId": "AGENDA_BACKSTABBER",
+        "TraitType": "TRAIT_AGENDA_BACKSTABBER"
+    },
+    {
+        "ModifierId": "TRAIT_CULTURE_BOMB_TRIGGER_PASTURE",
+        "TraitType": "TRAIT_CIVILIZATION_LAND_DOWN_UNDER"
+    },
+    {
+        "ModifierId": "TRAIT_COASTAL_HOUSING",
+        "TraitType": "TRAIT_CIVILIZATION_LAND_DOWN_UNDER"
+    },
+    {
+        "ModifierId": "TRAIT_CHARMING_CAMPUS",
+        "TraitType": "TRAIT_CIVILIZATION_LAND_DOWN_UNDER"
+    },
+    {
+        "ModifierId": "TRAIT_BREATHTAKING_CAMPUS",
+        "TraitType": "TRAIT_CIVILIZATION_LAND_DOWN_UNDER"
+    },
+    {
+        "ModifierId": "TRAIT_CHARMING_COMMERCIAL_HUB",
+        "TraitType": "TRAIT_CIVILIZATION_LAND_DOWN_UNDER"
+    },
+    {
+        "ModifierId": "TRAIT_BREATHTAKING_COMMERCIAL_HUB",
+        "TraitType": "TRAIT_CIVILIZATION_LAND_DOWN_UNDER"
+    },
+    {
+        "ModifierId": "TRAIT_CHARMING_HOLY_SITE",
+        "TraitType": "TRAIT_CIVILIZATION_LAND_DOWN_UNDER"
+    },
+    {
+        "ModifierId": "TRAIT_BREATHTAKING_HOLY_SITE",
+        "TraitType": "TRAIT_CIVILIZATION_LAND_DOWN_UNDER"
+    },
+    {
+        "ModifierId": "TRAIT_CHARMING_THEATER_DISTRICT",
+        "TraitType": "TRAIT_CIVILIZATION_LAND_DOWN_UNDER"
+    },
+    {
+        "ModifierId": "TRAIT_BREATHTAKING_THEATER_DISTRICT",
+        "TraitType": "TRAIT_CIVILIZATION_LAND_DOWN_UNDER"
+    },
+    {
+        "ModifierId": "TRAIT_CITADELCIVILIZATION_LIBERATION_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_CITADEL_CIVILIZATION"
+    },
+    {
+        "ModifierId": "TRAIT_CITADELCIVILIZATION_DEFENSIVE_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_CITADEL_CIVILIZATION"
+    },
+    {
+        "ModifierId": "AGENDA_PERPETUALLY_ON_GUARD_LIBERATION",
+        "TraitType": "TRAIT_AGENDA_PERPETUALLY_ON_GUARD"
+    },
+    {
+        "ModifierId": "AGENDA_PERPETUALLY_ON_GUARD_OCCUPATION",
+        "TraitType": "TRAIT_AGENDA_PERPETUALLY_ON_GUARD"
+    },
+    {
+        "ModifierId": "AGENDA_BILLIONAIRE_TRADE",
+        "TraitType": "TRAIT_AGENDA_BILLIONAIRE"
+    },
+    {
+        "ModifierId": "AGENDA_CHEOMSEONGDAE_HIGH_SCIENCE",
+        "TraitType": "TRAIT_AGENDA_CHEOMSEONGDAE"
+    },
+    {
+        "ModifierId": "AGENDA_CHEOMSEONGDAE_LOW_SCIENCE",
+        "TraitType": "TRAIT_AGENDA_CHEOMSEONGDAE"
+    },
+    {
+        "ModifierId": "AGENDA_FLOWER_OF_SCOTLAND_BAN_WARS",
+        "TraitType": "TRAIT_AGENDA_FLOWER_OF_SCOTLAND"
+    },
+    {
+        "ModifierId": "AGENDA_FLOWER_OF_SCOTLAND_WAR_NEIGHBORS",
+        "TraitType": "TRAIT_AGENDA_FLOWER_OF_SCOTLAND"
+    },
+    {
+        "ModifierId": "AGENDA_FLOWER_OF_SCOTLAND_PEACE_NEIGHBORS",
+        "TraitType": "TRAIT_AGENDA_FLOWER_OF_SCOTLAND"
+    },
+    {
+        "ModifierId": "AGENDA_HORN_CHEST_LOINS",
+        "TraitType": "TRAIT_AGENDA_HORN_CHEST_LOINS"
+    },
+    {
+        "ModifierId": "AGENDA_HORSE_LORD",
+        "TraitType": "TRAIT_AGENDA_HORSE_LORD"
+    },
+    {
+        "ModifierId": "AGENDA_IRON_CONFEDERACY_MANY_ALLIANCES",
+        "TraitType": "TRAIT_AGENDA_IRON_CONFEDERACY"
+    },
+    {
+        "ModifierId": "AGENDA_IRON_CONFEDERACY_FEW_ALLIANCES",
+        "TraitType": "TRAIT_AGENDA_IRON_CONFEDERACY"
+    },
+    {
+        "ModifierId": "AGENDA_MAURYA_EMPIRE_NEIGHBORS",
+        "TraitType": "TRAIT_AGENDA_MAURYA_EMPIRE"
+    },
+    {
+        "ModifierId": "AGENDA_MAURYA_EMPIRE_NOT_NEIGHBORS",
+        "TraitType": "TRAIT_AGENDA_MAURYA_EMPIRE"
+    },
+    {
+        "ModifierId": "AGENDA_NARIKALA_FORTRESS_HIGH_WALLS",
+        "TraitType": "TRAIT_AGENDA_NARIKALA_FORTRESS"
+    },
+    {
+        "ModifierId": "AGENDA_NARIKALA_FORTRESS_LOW_WALLS",
+        "TraitType": "TRAIT_AGENDA_NARIKALA_FORTRESS"
+    },
+    {
+        "ModifierId": "AGENDA_SPIRIT_OF_TUCAPEL_GAINING_CITIES",
+        "TraitType": "TRAIT_AGENDA_SPIRIT_OF_TUCAPEL"
+    },
+    {
+        "ModifierId": "AGENDA_SPIRIT_OF_TUCAPEL_LOSING_CITIES",
+        "TraitType": "TRAIT_AGENDA_SPIRIT_OF_TUCAPEL"
+    },
+    {
+        "ModifierId": "TRAIT_TRADE_GAIN_TILES_EN_ROUTE",
+        "TraitType": "TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES"
+    },
+    {
+        "ModifierId": "TRAIT_POTTERY_TRADE_ROUTE",
+        "TraitType": "TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES"
+    },
+    {
+        "ModifierId": "TRAIT_POTTERY_ADD_TRADER",
+        "TraitType": "TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES"
+    },
+    {
+        "ModifierId": "TRAIT_HARBOR_CULTURE_BOMB",
+        "TraitType": "TRAIT_CIVILIZATION_GROTE_RIVIEREN"
+    },
+    {
+        "ModifierId": "TRAIT_CAMPUS_RIVER_ADJACENCY",
+        "TraitType": "TRAIT_CIVILIZATION_GROTE_RIVIEREN"
+    },
+    {
+        "ModifierId": "TRAIT_INDUSTRIAL_ZONE_RIVER_ADJACENCY",
+        "TraitType": "TRAIT_CIVILIZATION_GROTE_RIVIEREN"
+    },
+    {
+        "ModifierId": "TRAIT_THEATER_DISTRICT_RIVER_ADJACENCY",
+        "TraitType": "TRAIT_CIVILIZATION_GROTE_RIVIEREN"
+    },
+    {
+        "ModifierId": "TRAIT_TRADING_POST_DIPLO_VISIBILITY",
+        "TraitType": "TRAIT_CIVILIZATION_MONGOLIAN_ORTOO"
+    },
+    {
+        "ModifierId": "TRAIT_IMMEDIATE_TRADING_POST",
+        "TraitType": "TRAIT_CIVILIZATION_MONGOLIAN_ORTOO"
+    },
+    {
+        "ModifierId": "TRAIT_EACH_DIPLO_VISIBILITY_COMBAT_MODIFIER",
+        "TraitType": "TRAIT_CIVILIZATION_MONGOLIAN_ORTOO"
+    },
+    {
+        "ModifierId": "TRAIT_SCIENCE_HAPPY",
+        "TraitType": "TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT"
+    },
+    {
+        "ModifierId": "TRAIT_SCIENCE_ECSTATIC",
+        "TraitType": "TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT"
+    },
+    {
+        "ModifierId": "TRAIT_PRODUCTION_HAPPY",
+        "TraitType": "TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT"
+    },
+    {
+        "ModifierId": "TRAIT_PRODUCTION_ECSTATIC",
+        "TraitType": "TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT"
+    },
+    {
+        "ModifierId": "TRAIT_SCIENTIST_HAPPY",
+        "TraitType": "TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT"
+    },
+    {
+        "ModifierId": "TRAIT_SCIENTIST_ECSTATIC",
+        "TraitType": "TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT"
+    },
+    {
+        "ModifierId": "TRAIT_ENGINEER_HAPPY",
+        "TraitType": "TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT"
+    },
+    {
+        "ModifierId": "TRAIT_ENGINEER_ECSTATIC",
+        "TraitType": "TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT"
+    },
+    {
+        "ModifierId": "TRAIT_TOQUI_UNIT_EXPERIENCE_FROM_GOVERNOR",
+        "TraitType": "TRAIT_CIVILIZATION_MAPUCHE_TOQUI"
+    },
+    {
+        "ModifierId": "TRAIT_TOQUI_UNIT_EXPERIENCE_FROM_GOVERNOR_NOT_FOUNDED",
+        "TraitType": "TRAIT_CIVILIZATION_MAPUCHE_TOQUI"
+    },
+    {
+        "ModifierId": "TOQUI_CULTURE_FROM_GOVERNOR",
+        "TraitType": "TRAIT_CIVILIZATION_MAPUCHE_TOQUI"
+    },
+    {
+        "ModifierId": "TOQUI_CULTURE_GOVERNOR_NOT_FOUNDED",
+        "TraitType": "TRAIT_CIVILIZATION_MAPUCHE_TOQUI"
+    },
+    {
+        "ModifierId": "TOQUI_PRODUCTION_FROM_GOVERNOR",
+        "TraitType": "TRAIT_CIVILIZATION_MAPUCHE_TOQUI"
+    },
+    {
+        "ModifierId": "TOQUI_PRODUCTION_GOVERNOR_NOT_FOUNDED",
+        "TraitType": "TRAIT_CIVILIZATION_MAPUCHE_TOQUI"
+    },
+    {
+        "ModifierId": "TOQUI_DOMESTIC_LOYALTY",
+        "TraitType": "TRAIT_CIVILIZATION_MAPUCHE_TOQUI"
+    },
+    {
+        "ModifierId": "TOQUI_FOREIGN_LOYALTY",
+        "TraitType": "TRAIT_CIVILIZATION_MAPUCHE_TOQUI"
+    },
+    {
+        "ModifierId": "TRAIT_ISIBONGO_GARRISONIDENTITY",
+        "TraitType": "TRAIT_CIVILIZATION_ZULU_ISIBONGO"
+    },
+    {
+        "ModifierId": "TRAIT_ISIBONGO_GARRISONFORMATIONIDENTITY",
+        "TraitType": "TRAIT_CIVILIZATION_ZULU_ISIBONGO"
+    },
+    {
+        "ModifierId": "TRAIT_ISIBONGO_UPGRADEMILITARYFORMATIONONCITYCONQUEST",
+        "TraitType": "TRAIT_CIVILIZATION_ZULU_ISIBONGO"
+    },
+    {
+        "ModifierId": "TRAIT_IKANDA_BARRACKS_GOLD",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_IKANDA"
+    },
+    {
+        "ModifierId": "TRAIT_IKANDA_BARRACKS_SCIENCE",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_IKANDA"
+    },
+    {
+        "ModifierId": "TRAIT_IKANDA_STABLE_GOLD",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_IKANDA"
+    },
+    {
+        "ModifierId": "TRAIT_IKANDA_STABLE_SCIENCE",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_IKANDA"
+    },
+    {
+        "ModifierId": "TRAIT_IKANDA_ARMORY_GOLD",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_IKANDA"
+    },
+    {
+        "ModifierId": "TRAIT_IKANDA_ARMORY_SCIENCE",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_IKANDA"
+    },
+    {
+        "ModifierId": "TRAIT_IKANDA_MILITARY_ACADEMY_GOLD",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_IKANDA"
+    },
+    {
+        "ModifierId": "TRAIT_IKANDA_MILITARY_ACADEMY_SCIENCE",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_IKANDA"
+    },
+    {
+        "ModifierId": "TRAIT_LAND_CORPS_EARLY",
+        "TraitType": "TRAIT_LEADER_AMABUTHO"
+    },
+    {
+        "ModifierId": "TRAIT_LAND_ARMIES_EARLY",
+        "TraitType": "TRAIT_LEADER_AMABUTHO"
+    },
+    {
+        "ModifierId": "TRAIT_LAND_CORPS_COMBAT_STRENGTH",
+        "TraitType": "TRAIT_LEADER_AMABUTHO"
+    },
+    {
+        "ModifierId": "TRAIT_LAND_ARMIES_COMBAT_STRENGTH",
+        "TraitType": "TRAIT_LEADER_AMABUTHO"
+    },
+    {
+        "ModifierId": "TRAIT_TERRITORIAL_WAR_COMBAT",
+        "TraitType": "TRAIT_LEADER_ARTHASHASTRA"
+    },
+    {
+        "ModifierId": "TRAIT_TERRITORIAL_WAR_MOVEMENT",
+        "TraitType": "TRAIT_LEADER_ARTHASHASTRA"
+    },
+    {
+        "ModifierId": "TRAIT_TERRITORIAL_WAR_PREREQ_OVERRIDE",
+        "TraitType": "TRAIT_LEADER_ARTHASHASTRA"
+    },
+    {
+        "ModifierId": "TRAIT_LIBERATION_WAR_PRODUCTION",
+        "TraitType": "TRAIT_LEADER_BANNOCKBURN"
+    },
+    {
+        "ModifierId": "TRAIT_LIBERATION_WAR_MOVEMENT",
+        "TraitType": "TRAIT_LEADER_BANNOCKBURN"
+    },
+    {
+        "ModifierId": "TRAIT_LIBERATION_WAR_PREREQ_OVERRIDE",
+        "TraitType": "TRAIT_LEADER_BANNOCKBURN"
+    },
+    {
+        "ModifierId": "TRAIT_ADJUST_CITY_CULTURE_PER_GOVERNOR_TITLE_MODIFIER",
+        "TraitType": "TRAIT_LEADER_HWARANG"
+    },
+    {
+        "ModifierId": "TRAIT_ADJUST_CITY_SCIENCE_PER_GOVERNOR_TITLE_MODIFIER",
+        "TraitType": "TRAIT_LEADER_HWARANG"
+    },
+    {
+        "ModifierId": "TRAIT_LEADER_FAITH_KILLS",
+        "TraitType": "TRAIT_LEADER_RELIGION_CITY_STATES"
+    },
+    {
+        "ModifierId": "TRAIT_CITY_STATE_TOKEN_SAME_RELIGION",
+        "TraitType": "TRAIT_LEADER_RELIGION_CITY_STATES"
+    },
+    {
+        "ModifierId": "TRAIT_ALLIANCE_SHARED_VIS",
+        "TraitType": "TRAIT_LEADER_ALLIANCE_AND_TRADE"
+    },
+    {
+        "ModifierId": "TRAIT_TRADE_FOOD_FROM_CAMPS",
+        "TraitType": "TRAIT_LEADER_ALLIANCE_AND_TRADE"
+    },
+    {
+        "ModifierId": "TRAIT_TRADE_GOLD_FROM_CAMPS",
+        "TraitType": "TRAIT_LEADER_ALLIANCE_AND_TRADE"
+    },
+    {
+        "ModifierId": "TRAIT_TRADE_FOOD_FROM_PASTURES",
+        "TraitType": "TRAIT_LEADER_ALLIANCE_AND_TRADE"
+    },
+    {
+        "ModifierId": "TRAIT_TRADE_GOLD_FROM_PASTURES",
+        "TraitType": "TRAIT_LEADER_ALLIANCE_AND_TRADE"
+    },
+    {
+        "ModifierId": "TRAIT_IDENTITY_FROM_DOMESTIC_TRADE_ROUTES",
+        "TraitType": "TRAIT_RADIO_ORANJE"
+    },
+    {
+        "ModifierId": "TRAIT_CULTURE_FROM_INTERNATIONAL_TRADE_ROUTES",
+        "TraitType": "TRAIT_RADIO_ORANJE"
+    },
+    {
+        "ModifierId": "TRAIT_CULTURE_FROM_INCOMING_TRADE_ROUTES",
+        "TraitType": "TRAIT_RADIO_ORANJE"
+    },
+    {
+        "ModifierId": "TRAIT_DIMINISH_LOYALTY_IN_ENEMY_CITY",
+        "TraitType": "TRAIT_LEADER_LAUTARO_ABILITY"
+    },
+    {
+        "ModifierId": "TRAIT_TOQUI_COMBAT_BONUS_VS_GOLDEN_AGE_CIV",
+        "TraitType": "TRAIT_LEADER_LAUTARO_ABILITY"
+    },
+    {
+        "ModifierId": "TRAIT_COMBAT_BONUS_FOR_CAVALRY",
+        "TraitType": "TRAIT_LEADER_GENGHIS_KHAN_ABILITY"
+    },
+    {
+        "ModifierId": "TRAIT_CAVALRY_CAPTURE_CAVALRY",
+        "TraitType": "TRAIT_LEADER_GENGHIS_KHAN_ABILITY"
+    },
+    {
+        "ModifierId": "AGENDA_GOSSIP_POSITIVE",
+        "TraitType": "TRAIT_AGENDA_GOSSIP"
+    },
+    {
+        "ModifierId": "AGENDA_GOSSIP_NEGATIVE",
+        "TraitType": "TRAIT_AGENDA_GOSSIP"
+    },
+    {
+        "ModifierId": "AGENDA_SYCOPHANT_GOLDEN_AGE",
+        "TraitType": "TRAIT_AGENDA_SYCOPHANT"
+    },
+    {
+        "ModifierId": "AGENDA_SYCOPHANT_DARK_AGE",
+        "TraitType": "TRAIT_AGENDA_SYCOPHANT"
+    },
+    {
+        "ModifierId": "AGENDA_SYMPATHIZER_GOLDEN_AGE",
+        "TraitType": "TRAIT_AGENDA_SYMPATHIZER"
+    },
+    {
+        "ModifierId": "AGENDA_SYMPATHIZER_DARK_AGE",
+        "TraitType": "TRAIT_AGENDA_SYMPATHIZER"
+    },
+    {
+        "ModifierId": "TRAIT_ALL_DIPLO_POLICY_ARE_WILDCARDS",
+        "TraitType": "TRAIT_CIVILIZATION_FOUNDING_FATHERS"
+    },
+    {
+        "ModifierId": "TRAIT_MISSION_IDENTITY_PER_TURN_MODIFIER",
+        "TraitType": "TRAIT_CIVILIZATION_TREASURE_FLEET"
+    },
+    {
+        "ModifierId": "TRAIT_FLOODPLAINS_VALID_GOVERNMENT",
+        "TraitType": "TRAIT_CIVILIZATION_ITERU"
+    },
+    {
+        "ModifierId": "GOLDEN_AGE_CITY_IDENTITY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "DARK_AGE_CITY_IDENTITY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "LOW_DIFFICULTY_HUMAN_MARTIAL_LAW",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "HIGH_DIFFICULTY_HUMAN_MARTIAL_LAW",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "TRAIT_DELTA_DIPLO_VISIBILITY_COMBAT_MODIFIER",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_BROKEN_PLEDGE",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_KEPT_PLEDGE",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_NO_PLEDGE",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_SHARED_EMERGENCY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "TRAIT_ALLIANCE_POINTS_FROM_TRADE",
+        "TraitType": "TRAIT_LEADER_MEDITERRANEAN"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CULTURAL_LARGE_INFLUENCE_BONUS_ARTIFACT",
+        "TraitType": "MINOR_CIV_CULTURAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_ANTIOCH_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_ANTIOCH_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CARTHAGE_UNIQUE_INFLUENCE_BARRACKS_STABLE_PURCHASE_BONUS",
+        "TraitType": "MINOR_CIV_CARTHAGE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CARTHAGE_UNIQUE_INFLUENCE_ARMORY_PURCHASE_BONUS",
+        "TraitType": "MINOR_CIV_CARTHAGE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CARTHAGE_UNIQUE_INFLUENCE_MILITARY_ACADEMY_PURCHASE_BONUS",
+        "TraitType": "MINOR_CIV_CARTHAGE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_BABYLON_WRITING_BONUS",
+        "TraitType": "MINOR_CIV_BABYLON_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_BABYLON_ARTIFACT_BONUS",
+        "TraitType": "MINOR_CIV_BABYLON_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_BABYLON_RELIC_BONUS",
+        "TraitType": "MINOR_CIV_BABYLON_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_JERUSALEM_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_JERUSALEM_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_PRESLAV_UNIQUE_INFLUENCE_BARRACKS_STABLE_IDENTITY_BONUS",
+        "TraitType": "MINOR_CIV_PRESLAV_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_PRESLAV_UNIQUE_INFLUENCE_ARMORY_IDENTITY_BONUS",
+        "TraitType": "MINOR_CIV_PRESLAV_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_PRESLAV_UNIQUE_INFLUENCE_MILITARY_ACADEMY_IDENTITY_BONUS",
+        "TraitType": "MINOR_CIV_PRESLAV_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_STOCKHOLM_UNIQUE_INFLUENCE_GREAT_GENERAL_POINTS_BONUS",
+        "TraitType": "MINOR_CIV_STOCKHOLM_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_STOCKHOLM_UNIQUE_INFLUENCE_GREAT_ADMIRAL_POINTS_BONUS",
+        "TraitType": "MINOR_CIV_STOCKHOLM_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_STOCKHOLM_UNIQUE_INFLUENCE_GREAT_ENGINEER_POINTS_BONUS",
+        "TraitType": "MINOR_CIV_STOCKHOLM_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_STOCKHOLM_UNIQUE_INFLUENCE_GREAT_MERCHANT_POINTS_BONUS",
+        "TraitType": "MINOR_CIV_STOCKHOLM_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_STOCKHOLM_UNIQUE_INFLUENCE_GREAT_PROPHET_POINTS_BONUS",
+        "TraitType": "MINOR_CIV_STOCKHOLM_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_STOCKHOLM_UNIQUE_INFLUENCE_GREAT_SCIENTIST_POINTS_BONUS",
+        "TraitType": "MINOR_CIV_STOCKHOLM_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_STOCKHOLM_UNIQUE_INFLUENCE_GREAT_WRITER_POINTS_BONUS",
+        "TraitType": "MINOR_CIV_STOCKHOLM_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_STOCKHOLM_UNIQUE_INFLUENCE_GREAT_ARTIST_POINTS_BONUS",
+        "TraitType": "MINOR_CIV_STOCKHOLM_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_STOCKHOLM_UNIQUE_INFLUENCE_GREAT_MUSICIAN_POINTS_BONUS",
+        "TraitType": "MINOR_CIV_STOCKHOLM_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TORONTO_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_TORONTO_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_VILNIUS_UNIQUE_INFLUENCE_ALLIANCE_LEVEL_1",
+        "TraitType": "MINOR_CIV_VILNIUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_VILNIUS_UNIQUE_INFLUENCE_ALLIANCE_LEVEL_2",
+        "TraitType": "MINOR_CIV_VILNIUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_VILNIUS_UNIQUE_INFLUENCE_ALLIANCE_LEVEL_3",
+        "TraitType": "MINOR_CIV_VILNIUS_TRAIT"
+    },
+    {
+        "ModifierId": "TRAIT_NATIONAL_PARK_APPEAL_BONUS",
+        "TraitType": "TRAIT_LEADER_ANTIQUES_AND_PARKS"
+    },
+    {
+        "ModifierId": "TRAIT_ANTIQUES_AND_PARKS_CULTURE_FORESTS_OR_WONDERS",
+        "TraitType": "TRAIT_LEADER_ANTIQUES_AND_PARKS"
+    },
+    {
+        "ModifierId": "TRAIT_ANTIQUES_AND_PARKS_SCIENCE_NATIONAL_WONDERS_OR_MOUNTAINS",
+        "TraitType": "TRAIT_LEADER_ANTIQUES_AND_PARKS"
+    },
+    {
+        "ModifierId": "TRAIT_ROOSEVELT_COROLLARY_TRADE_ROUTE_TOKEN",
+        "TraitType": "TRAIT_LEADER_ROOSEVELT_COROLLARY"
+    },
+    {
+        "ModifierId": "AGENDA_BULL_MOOSE",
+        "TraitType": "TRAIT_AGENDA_BULL_MOOSE"
+    },
+    {
+        "ModifierId": "MINOR_CIV_SCIENTIFIC_SMALL_INFLUENCE_CAPITAL",
+        "TraitType": "MINOR_CIV_SCIENTIFIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_SCIENTIFIC_SMALL_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_SCIENTIFIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_SCIENTIFIC_MEDIUM_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_SCIENTIFIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_SCIENTIFIC_MEDIUM_INFLUENCE_UNIVERSITY",
+        "TraitType": "MINOR_CIV_SCIENTIFIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_SCIENTIFIC_LARGE_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_SCIENTIFIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_SCIENTIFIC_LARGE_INFLUENCE_RESEARCH_LAB",
+        "TraitType": "MINOR_CIV_SCIENTIFIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_SMALL_INFLUENCE_CAPITAL",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_SMALL_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_MEDIUM_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_MEDIUM_INFLUENCE_TEMPLE",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_LARGE_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_LARGE_INFLUENCE_CATHEDRAL",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_LARGE_INFLUENCE_DAR_E_MEHR",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_LARGE_INFLUENCE_GURDWARA",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_LARGE_INFLUENCE_MEETING_HOUSE",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_LARGE_INFLUENCE_MOSQUE",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_LARGE_INFLUENCE_PAGODA",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_LARGE_INFLUENCE_STUPA",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_LARGE_INFLUENCE_SYNAGOGUE",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_RELIGIOUS_LARGE_INFLUENCE_WAT",
+        "TraitType": "MINOR_CIV_RELIGIOUS_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TRADE_SMALL_INFLUENCE_CAPITAL",
+        "TraitType": "MINOR_CIV_TRADE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TRADE_SMALL_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_TRADE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TRADE_SMALL_INFLUENCE_LIGHTHOUSE",
+        "TraitType": "MINOR_CIV_TRADE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TRADE_MEDIUM_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_TRADE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TRADE_MEDIUM_INFLUENCE_BANK",
+        "TraitType": "MINOR_CIV_TRADE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TRADE_MEDIUM_INFLUENCE_SHIPYARD",
+        "TraitType": "MINOR_CIV_TRADE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TRADE_LARGE_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_TRADE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TRADE_LARGE_INFLUENCE_STOCK_EXCHANGE",
+        "TraitType": "MINOR_CIV_TRADE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_TRADE_LARGE_INFLUENCE_SEAPORT",
+        "TraitType": "MINOR_CIV_TRADE_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CULTURAL_SMALL_INFLUENCE_CAPITAL",
+        "TraitType": "MINOR_CIV_CULTURAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CULTURAL_SMALL_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_CULTURAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CULTURAL_MEDIUM_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_CULTURAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CULTURAL_MEDIUM_INFLUENCE_MUSEUM_ART",
+        "TraitType": "MINOR_CIV_CULTURAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CULTURAL_MEDIUM_INFLUENCE_MUSEUM_ARTIFACT",
+        "TraitType": "MINOR_CIV_CULTURAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CULTURAL_LARGE_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_CULTURAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CULTURAL_LARGE_INFLUENCE_BROADCAST_CENTER",
+        "TraitType": "MINOR_CIV_CULTURAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_MILITARISTIC_SMALL_INFLUENCE_CAPITAL",
+        "TraitType": "MINOR_CIV_MILITARISTIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_MILITARISTIC_SMALL_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_MILITARISTIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_MILITARISTIC_MEDIUM_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_MILITARISTIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_MILITARISTIC_MEDIUM_INFLUENCE_ARMORY",
+        "TraitType": "MINOR_CIV_MILITARISTIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_MILITARISTIC_LARGE_INFLUENCE_ETHIOPIA",
+        "TraitType": "MINOR_CIV_MILITARISTIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_MILITARISTIC_LARGE_INFLUENCE_MILITARY_ACADEMY",
+        "TraitType": "MINOR_CIV_MILITARISTIC_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_SMALL_INFLUENCE_BONUS_BUILDING_CAPITAL",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_SMALL_INFLUENCE_BONUS_DISTRICT_CAPITAL",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_SMALL_INFLUENCE_ETHIOPIA_BUILDING",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_SMALL_INFLUENCE_ETHIOPIA_DISTRICT",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_MEDIUM_INFLUENCE_ETHIOPIA_BUILDING",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_MEDIUM_INFLUENCE_ETHIOPIA_DISTRICT",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_MEDIUM_INFLUENCE_FACTORY_BUILDING",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_MEDIUM_INFLUENCE_FACTORY_DISTRICT",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_LARGE_INFLUENCE_ETHIOPIA_BUILDING",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_LARGE_INFLUENCE_ETHIOPIA_DISTRICT",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_LARGE_INFLUENCE_POWER_PLANT_BUILDING",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_INDUSTRIAL_LARGE_INFLUENCE_POWER_PLANT_DISTRICT",
+        "TraitType": "MINOR_CIV_INDUSTRIAL_TRAIT"
+    },
+    {
+        "ModifierId": "TRAIT_FAITH_RESOURCES",
+        "TraitType": "TRAIT_CIVILIZATION_ETHIOPIA"
+    },
+    {
+        "ModifierId": "TRAIT_FAITH_BONUS_RESOURCES_TRADE_INTERNATIONAL",
+        "TraitType": "TRAIT_CIVILIZATION_ETHIOPIA"
+    },
+    {
+        "ModifierId": "TRAIT_FAITH_LUXURY_RESOURCES_TRADE_INTERNATIONAL",
+        "TraitType": "TRAIT_CIVILIZATION_ETHIOPIA"
+    },
+    {
+        "ModifierId": "TRAIT_FAITH_STRATEGIC_RESOURCES_TRADE_INTERNATIONAL",
+        "TraitType": "TRAIT_CIVILIZATION_ETHIOPIA"
+    },
+    {
+        "ModifierId": "TRAIT_FAITH_ARCHAEOLOGIST",
+        "TraitType": "TRAIT_CIVILIZATION_ETHIOPIA"
+    },
+    {
+        "ModifierId": "TRAIT_FAITH_MUSEUM_ARTIFACT",
+        "TraitType": "TRAIT_CIVILIZATION_ETHIOPIA"
+    },
+    {
+        "ModifierId": "TRAIT_FAITH_INTO_SCIENCE_HILLS",
+        "TraitType": "TRAIT_LEADER_MENELIK"
+    },
+    {
+        "ModifierId": "TRAIT_FAITH_INTO_CULTURE_HILLS",
+        "TraitType": "TRAIT_LEADER_MENELIK"
+    },
+    {
+        "ModifierId": "TRAIT_HILLS_COMBAT",
+        "TraitType": "TRAIT_LEADER_MENELIK"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_CITIES_NEAR_HILLS",
+        "TraitType": "TRAIT_AGENDA_ETHIOPIAN_HIGHLANDS"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_SAME_SECRET_SOCIETY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "STANDARD_DIPLOMATIC_DIFFERENT_SECRET_SOCIETY",
+        "TraitType": "TRAIT_LEADER_MAJOR_CIV"
+    },
+    {
+        "ModifierId": "ELIZABETH_TRADE_ROUTES_MODIFIER",
+        "TraitType": "TRAIT_LEADER_ELIZABETH"
+    },
+    {
+        "ModifierId": "ELIZABETH_TRADE_ROUTES_YIELDS",
+        "TraitType": "TRAIT_LEADER_ELIZABETH"
+    },
+    {
+        "ModifierId": "ELIZABETH_PLUNDER_ABILITY",
+        "TraitType": "TRAIT_LEADER_ELIZABETH"
+    },
+    {
+        "ModifierId": "AGENDA_TRADE_AGREEMENT",
+        "TraitType": "TRAIT_AGENDA_TRADE_AGREEMENT"
+    },
+    {
+        "ModifierId": "HARALD_LEVY_DISCOUNT",
+        "TraitType": "TRAIT_LEADER_HARALD_ALT"
+    },
+    {
+        "ModifierId": "HARALD_MAINTENANCE_DISCOUNT",
+        "TraitType": "TRAIT_LEADER_HARALD_ALT"
+    },
+    {
+        "ModifierId": "AGENDA_SAGA_HIGH_PROTECT_CITY_STATES",
+        "TraitType": "TRAIT_AGENDA_SAGA"
+    },
+    {
+        "ModifierId": "AGENDA_SAGA_MED_PROTECT_CITY_STATES",
+        "TraitType": "TRAIT_AGENDA_SAGA"
+    },
+    {
+        "ModifierId": "AGENDA_SAGA_MED_ATTACK_CITY_STATES",
+        "TraitType": "TRAIT_AGENDA_SAGA"
+    },
+    {
+        "ModifierId": "AGENDA_SAGA_HIGH_ATTACK_CITY_STATES",
+        "TraitType": "TRAIT_AGENDA_SAGA"
+    },
+    {
+        "ModifierId": "VICTORIA_PRODUCTION_WORKSHOP",
+        "TraitType": "TRAIT_LEADER_VICTORIA_ALT"
+    },
+    {
+        "ModifierId": "VICTORIA_PRODUCTION_FACTORY",
+        "TraitType": "TRAIT_LEADER_VICTORIA_ALT"
+    },
+    {
+        "ModifierId": "VICTORIA_PRODUCTION_POWER_PLANT",
+        "TraitType": "TRAIT_LEADER_VICTORIA_ALT"
+    },
+    {
+        "ModifierId": "VICTORIA_STRATEGIC_RESOURCE",
+        "TraitType": "TRAIT_LEADER_VICTORIA_ALT"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_INDUSTRY_ENGLAND",
+        "TraitType": "TRAIT_AGENDA_INDUSTRIAL_REVOLUTION"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_INDUSTRY_ENGLAND",
+        "TraitType": "TRAIT_AGENDA_INDUSTRIAL_REVOLUTION"
+    },
+    {
+        "ModifierId": "HARALD_LEVY_UNITS_GRANT_ABILITY",
+        "TraitType": "TRAIT_LEADER_HARALD_ALT"
+    },
+    {
+        "ModifierId": "TRAIT_LINCOLN_INDUSTRIAL_ZONE_FREE_MELEE_UNIT",
+        "TraitType": "TRAIT_LEADER_LINCOLN"
+    },
+    {
+        "ModifierId": "INDUSTRIAL_ZONE_ADDAMENITIES",
+        "TraitType": "TRAIT_LEADER_LINCOLN"
+    },
+    {
+        "ModifierId": "AGENDA_SAME_GOVERNMENT_LINCOLN",
+        "TraitType": "TRAIT_AGENDA_LINCOLN"
+    },
+    {
+        "ModifierId": "AGENDA_DIFFERENT_GOVERNMENT_LINCOLN",
+        "TraitType": "TRAIT_AGENDA_LINCOLN"
+    },
+    {
+        "ModifierId": "AGENDA_ADJUST_GOVERNMENT_INTOLERANCE_LINCOLN",
+        "TraitType": "TRAIT_AGENDA_LINCOLN"
+    },
+    {
+        "ModifierId": "SALADIN_ALT_FLANKING_ABILITY",
+        "TraitType": "TRAIT_LEADER_SALADIN_ALT"
+    },
+    {
+        "ModifierId": "AGENDA_SULTAN_RELIGION_RECEIVED",
+        "TraitType": "TRAIT_AGENDA_SULTAN"
+    },
+    {
+        "ModifierId": "AGENDA_SULTAN_RELIGION_NOT_RECEIVED",
+        "TraitType": "TRAIT_AGENDA_SULTAN"
+    },
+    {
+        "ModifierId": "TRAIT_FOREIGN_CONTINENT_YIELD",
+        "TraitType": "TRAIT_LEADER_NZINGA_MBANDE"
+    },
+    {
+        "ModifierId": "TRAIT_SAME_CONTINENT_YIELD",
+        "TraitType": "TRAIT_LEADER_NZINGA_MBANDE"
+    },
+    {
+        "ModifierId": "AGENDA_DECOLONIZATION_HOME_CONTINENT",
+        "TraitType": "TRAIT_AGENDA_DECOLONIZATION"
+    },
+    {
+        "ModifierId": "AGENDA_DECOLONIZATION_NEW_CONTINENT",
+        "TraitType": "TRAIT_AGENDA_DECOLONIZATION"
+    },
+    {
+        "ModifierId": "TRAIT_LINCOLN_INDUSTRIAL_ZONE_LOYALTY",
+        "TraitType": "TRAIT_LEADER_LINCOLN"
+    },
+    {
+        "ModifierId": "QIN_MELEE_UNIT_ABILITY",
+        "TraitType": "TRAIT_LEADER_QIN"
+    },
+    {
+        "ModifierId": "AGENDA_SIHAI_CLEARS_BARBARIAN_CAMPS",
+        "TraitType": "TRAIT_AGENDA_SIHAI"
+    },
+    {
+        "ModifierId": "AGENDA_SIHAI_IGNORES_BARBARIAN_CAMPS",
+        "TraitType": "TRAIT_AGENDA_SIHAI"
+    },
+    {
+        "ModifierId": "YONGLE_FAITH_PROJECT",
+        "TraitType": "TRAIT_LEADER_YONGLE"
+    },
+    {
+        "ModifierId": "YONGLE_FOOD_PROJECT",
+        "TraitType": "TRAIT_LEADER_YONGLE"
+    },
+    {
+        "ModifierId": "YONGLE_GOLD_PROJECT",
+        "TraitType": "TRAIT_LEADER_YONGLE"
+    },
+    {
+        "ModifierId": "AGENDA_YINDING_POSITIVE_INCOME",
+        "TraitType": "TRAIT_AGENDA_YINDING"
+    },
+    {
+        "ModifierId": "AGENDA_YINDING_NEGATIVE_INCOME",
+        "TraitType": "TRAIT_AGENDA_YINDING"
+    },
+    {
+        "ModifierId": "WU_ZETIAN_OFFENSIVE_SPY_BETTER",
+        "TraitType": "TRAIT_LEADER_WU_ZETIAN"
+    },
+    {
+        "ModifierId": "WU_ZETIAN_OFFENSIVE_SPY_SCIENCE",
+        "TraitType": "TRAIT_LEADER_WU_ZETIAN"
+    },
+    {
+        "ModifierId": "WU_ZETIAN_OFFENSIVE_SPY_CULTURE",
+        "TraitType": "TRAIT_LEADER_WU_ZETIAN"
+    },
+    {
+        "ModifierId": "WU_ZETIAN_OFFENSIVE_SPY_FAITH",
+        "TraitType": "TRAIT_LEADER_WU_ZETIAN"
+    },
+    {
+        "ModifierId": "WU_ZETIAN_FREE_SPY",
+        "TraitType": "TRAIT_LEADER_WU_ZETIAN"
+    },
+    {
+        "ModifierId": "WU_ZETIAN_FREE_SPY_CAPACITY",
+        "TraitType": "TRAIT_LEADER_WU_ZETIAN"
+    },
+    {
+        "ModifierId": "WU_ZETIAN_PURCHASE_SPY",
+        "TraitType": "TRAIT_LEADER_WU_ZETIAN"
+    },
+    {
+        "ModifierId": "AGENDA_COURT_INTRIGUE",
+        "TraitType": "TRAIT_AGENDA_COURT_INTRIGUE"
+    },
+    {
+        "ModifierId": "YONGLE_SCIENCE_POPULATION",
+        "TraitType": "TRAIT_LEADER_YONGLE"
+    },
+    {
+        "ModifierId": "YONGLE_CULTURE_POPULATION",
+        "TraitType": "TRAIT_LEADER_YONGLE"
+    },
+    {
+        "ModifierId": "YONGLE_GOLD_POPULATION",
+        "TraitType": "TRAIT_LEADER_YONGLE"
+    },
+    {
+        "ModifierId": "RAMSES_CULTURE_POSITIVE_WONDERS_BUILDINGS",
+        "TraitType": "TRAIT_LEADER_RAMSES"
+    },
+    {
+        "ModifierId": "RAMSES_CULTURE_NEGATIVE_BUILDINGS",
+        "TraitType": "TRAIT_LEADER_RAMSES"
+    },
+    {
+        "ModifierId": "AGENDA_MAAT",
+        "TraitType": "TRAIT_AGENDA_MAAT"
+    },
+    {
+        "ModifierId": "CLEOPATRA_FLOODPLAINS_APPEAL",
+        "TraitType": "TRAIT_LEADER_CLEOPATRA_ALT"
+    },
+    {
+        "ModifierId": "CLEOPATRA_FLOODPLAINS_RESOURCE_YIELD",
+        "TraitType": "TRAIT_LEADER_CLEOPATRA_ALT"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_FOOD",
+        "TraitType": "TRAIT_AGENDA_PREFER_FOOD"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_FOOD",
+        "TraitType": "TRAIT_AGENDA_PREFER_FOOD"
+    },
+    {
+        "ModifierId": "TRAIT_EUREKA_INCREASE",
+        "TraitType": "TRAIT_CIVILIZATION_BABYLON"
+    },
+    {
+        "ModifierId": "TRAIT_SCIENCE_DECREASE",
+        "TraitType": "TRAIT_CIVILIZATION_BABYLON"
+    },
+    {
+        "ModifierId": "TRAIT_FREE_BUILDING_WHEN_DISTRICT_MADE",
+        "TraitType": "TRAIT_LEADER_HAMMURABI"
+    },
+    {
+        "ModifierId": "TRAIT_FREE_ENVOY_WHEN_DISTRICT_MADE",
+        "TraitType": "TRAIT_LEADER_HAMMURABI"
+    },
+    {
+        "ModifierId": "MINOR_CIV_AYUTTHAYA_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_AYUTTHAYA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_CHINGUETTI_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_CHINGUETTI_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_JOHANNESBURG_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_JOHANNESBURG_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_JOHANNESBURG_UNIQUE_INFLUENCE_BONUS_LATE",
+        "TraitType": "MINOR_CIV_JOHANNESBURG_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_NALANDA_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_NALANDA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_NALANDA_FREE_TECHNOLOGY",
+        "TraitType": "MINOR_CIV_NALANDA_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_SAMARKAND_UNIQUE_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_SAMARKAND_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_SAMARKAND_TRADE_GOLD",
+        "TraitType": "MINOR_CIV_SAMARKAND_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_WOLIN_GREAT_GENERAL_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_WOLIN_TRAIT"
+    },
+    {
+        "ModifierId": "MINOR_CIV_WOLIN_GREAT_ADMIRAL_INFLUENCE_BONUS",
+        "TraitType": "MINOR_CIV_WOLIN_TRAIT"
+    },
+    {
+        "ModifierId": "AGENDA_HAMMURABI_DISTRICTS",
+        "TraitType": "TRAIT_AGENDA_HAMMURABI_DISTRICTS"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_SUMERIA_HEROES_LIFESPAN",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM_ANANSI",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM_ARTHUR",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM_BEOWULF",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM_HERCULES",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM_HIMIKO",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM_HIPPOLYTA",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM_HUNAHPU",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM_OYA",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM_MAUI",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM_MULAN",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM_SINBAD",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM_WUKONG",
+        "TraitType": "TRAIT_LEADER_GILGAMESH_HEROES"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_NKISI_HEROIC_RELIC_GOLD",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_NKISI_HEROIC_RELIC_FOOD",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_NKISI_HEROIC_RELIC_FAITH",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_NKISI_HEROIC_RELIC_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_NKISI"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_LITHUANIAN_UNION_HEROIC_RELIC_FAITH",
+        "TraitType": "TRAIT_LEADER_LITHUANIAN_UNION"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_LITHUANIAN_UNION_HEROIC_RELIC_CULTURE",
+        "TraitType": "TRAIT_LEADER_LITHUANIAN_UNION"
+    },
+    {
+        "ModifierId": "MODIFIER_TRAIT_LITHUANIAN_UNION_HEROIC_RELIC_GOLD",
+        "TraitType": "TRAIT_LEADER_LITHUANIAN_UNION"
+    },
+    {
+        "ModifierId": "TRAIT_FREE_BUILDING_WHEN_DISTRICT_MADE_EXCEPT",
+        "TraitType": "TRAIT_LEADER_HAMMURABI"
+    },
+    {
+        "ModifierId": "TRAIT_FREE_ENVOY_WHEN_DISTRICT_MADE_SPECIFIC",
+        "TraitType": "TRAIT_LEADER_HAMMURABI"
+    },
+    {
+        "ModifierId": "TRAIT_CAESAR_NO_XP_LIMIT",
+        "TraitType": "TRAIT_LEADER_CAESAR"
+    },
+    {
+        "ModifierId": "TRAIT_CAESAR_BARB_COMBAT",
+        "TraitType": "TRAIT_LEADER_CAESAR"
+    },
+    {
+        "ModifierId": "TRAIT_CAESAR_GOLD_CAPTURED_CITY",
+        "TraitType": "TRAIT_LEADER_CAESAR"
+    },
+    {
+        "ModifierId": "TRAIT_CAESAR_GOLD_CAPTURED_CITY_METAL_CASTING",
+        "TraitType": "TRAIT_LEADER_CAESAR"
+    },
+    {
+        "ModifierId": "TRAIT_CAESAR_GOLD_CAPTURED_CITY_STEEL",
+        "TraitType": "TRAIT_LEADER_CAESAR"
+    },
+    {
+        "ModifierId": "BARBARIAN_CAMP_GOLD_CAPTURED_CITY",
+        "TraitType": "TRAIT_LEADER_CAESAR"
+    },
+    {
+        "ModifierId": "BARBARIAN_CAMP_GOLD_CAPTURED_CITY_METAL_CASTING",
+        "TraitType": "TRAIT_LEADER_CAESAR"
+    },
+    {
+        "ModifierId": "BARBARIAN_CAMP_GOLD_CAPTURED_CITY_STEEL",
+        "TraitType": "TRAIT_LEADER_CAESAR"
+    },
+    {
+        "ModifierId": "AGENDA_CLEARS_BARBARIAN_CAMPS_CAESAR",
+        "TraitType": "TRAIT_AGENDA_GALLIC_WARS"
+    },
+    {
+        "ModifierId": "AGENDA_IGNORES_BARBARIAN_CAMPS_CAESAR",
+        "TraitType": "TRAIT_AGENDA_GALLIC_WARS"
+    },
+    {
+        "ModifierId": "TRAIT_HOLY_CITIES_COMBAT",
+        "TraitType": "TRAIT_CIVILIZATION_BYZANTIUM"
+    },
+    {
+        "ModifierId": "TRAIT_HOLY_CITIES_RELIGIOUS_COMBAT",
+        "TraitType": "TRAIT_CIVILIZATION_BYZANTIUM"
+    },
+    {
+        "ModifierId": "BYZANTIUM_GREATPROPHETPOINTS",
+        "TraitType": "TRAIT_CIVILIZATION_BYZANTIUM"
+    },
+    {
+        "ModifierId": "GAUL_MINE_CULTURE",
+        "TraitType": "TRAIT_CIVILIZATION_GAUL"
+    },
+    {
+        "ModifierId": "GAUL_MINE_TOURISM",
+        "TraitType": "TRAIT_CIVILIZATION_GAUL"
+    },
+    {
+        "ModifierId": "GAUL_MINE_CULTURE_BOMB",
+        "TraitType": "TRAIT_CIVILIZATION_GAUL"
+    },
+    {
+        "ModifierId": "TRAIT_CIVILIZATION_GAUL_HOLYSITE_ADJACENCYFAITH",
+        "TraitType": "TRAIT_CIVILIZATION_GAUL"
+    },
+    {
+        "ModifierId": "TRAIT_CIVILIZATION_GAUL_CAMPUS_ADJACENCYSCIENCE",
+        "TraitType": "TRAIT_CIVILIZATION_GAUL"
+    },
+    {
+        "ModifierId": "TRAIT_CIVILIZATION_GAUL_HARBOR_ADJACENCYGOLD",
+        "TraitType": "TRAIT_CIVILIZATION_GAUL"
+    },
+    {
+        "ModifierId": "TRAIT_CIVILIZATION_GAUL_COMMERCIALHUB_ADJACENCYGOLD",
+        "TraitType": "TRAIT_CIVILIZATION_GAUL"
+    },
+    {
+        "ModifierId": "TRAIT_CIVILIZATION_GAUL_THEATER_ADJACENCYCULTURE",
+        "TraitType": "TRAIT_CIVILIZATION_GAUL"
+    },
+    {
+        "ModifierId": "TRAIT_CIVILIZATION_GAUL_OPPIDUM_ADJACENCYPRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_GAUL"
+    },
+    {
+        "ModifierId": "TRAIT_CIVILIZATION_GAUL_CITY_NO_ADJACENT_DISTRICT",
+        "TraitType": "TRAIT_CIVILIZATION_GAUL"
+    },
+    {
+        "ModifierId": "TRAIT_CREATE_HIPPODROME_HEAVY_CAVALRY",
+        "TraitType": "TRAIT_CIVILIZATION_DISTRICT_HIPPODROME"
+    },
+    {
+        "ModifierId": "TRAIT_GRANT_CULTURE_UNIT_TRAINED",
+        "TraitType": "TRAIT_LEADER_AMBIORIX"
+    },
+    {
+        "ModifierId": "TRAIT_NEIGHBOR_COMBAT",
+        "TraitType": "TRAIT_LEADER_AMBIORIX"
+    },
+    {
+        "ModifierId": "TRAIT_ENABLE_WALL_ATTACK_SAME_RELIGION",
+        "TraitType": "TRAIT_LEADER_BASIL"
+    },
+    {
+        "ModifierId": "TRAIT_ENABLE_WALL_ATTACK_LIGHT",
+        "TraitType": "TRAIT_LEADER_BASIL"
+    },
+    {
+        "ModifierId": "TRAIT_ENABLE_WALL_ATTACK_HEAVY",
+        "TraitType": "TRAIT_LEADER_BASIL"
+    },
+    {
+        "ModifierId": "AGENDA_BASIL_ZEALOT",
+        "TraitType": "TRAIT_AGENDA_BASIL_ZEALOT"
+    },
+    {
+        "ModifierId": "AGENDA_AMBIORIX_ARMY",
+        "TraitType": "TRAIT_AGENDA_AMBIORIX_ARMY"
+    },
+    {
+        "ModifierId": "TRAIT_WALLS_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NEW"
+    },
+    {
+        "ModifierId": "TRAIT_CASTLE_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NEW"
+    },
+    {
+        "ModifierId": "TRAIT_TSIKHE_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NEW"
+    },
+    {
+        "ModifierId": "TRAIT_STAR_FORT_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NEW"
+    },
+    {
+        "ModifierId": "TRAIT_GOLDEN_AGE_WILDCARD_SLOT",
+        "TraitType": "TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NEW"
+    },
+    {
+        "ModifierId": "TRAIT_GOLDEN_AGE_UNLOCK_DARK_POLICIES",
+        "TraitType": "TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NEW"
+    },
+    {
+        "ModifierId": "TRAIT_DISTRICTS_FOREST_ONLY",
+        "TraitType": "TRAIT_CIVILIZATION_VIETNAM"
+    },
+    {
+        "ModifierId": "TRAIT_DISTRICTS_MARSH_ONLY",
+        "TraitType": "TRAIT_CIVILIZATION_VIETNAM"
+    },
+    {
+        "ModifierId": "TRAIT_DISTRICTS_JUNGLE_ONLY",
+        "TraitType": "TRAIT_CIVILIZATION_VIETNAM"
+    },
+    {
+        "ModifierId": "TRAIT_FOREST_BUILDINGS_CULTURE",
+        "TraitType": "TRAIT_CIVILIZATION_VIETNAM"
+    },
+    {
+        "ModifierId": "TRAIT_JUNGLE_BUILDINGS_SCIENCE",
+        "TraitType": "TRAIT_CIVILIZATION_VIETNAM"
+    },
+    {
+        "ModifierId": "TRAIT_MARSH_BUILDINGS_PRODUCTION",
+        "TraitType": "TRAIT_CIVILIZATION_VIETNAM"
+    },
+    {
+        "ModifierId": "TRAIT_PLANT_MEDIEVAL_WOODS",
+        "TraitType": "TRAIT_CIVILIZATION_VIETNAM"
+    },
+    {
+        "ModifierId": "TRAIT_ECONOMIC_GOVERNMENT_SLOT",
+        "TraitType": "TRAIT_LEADER_KUBLAI"
+    },
+    {
+        "ModifierId": "TRAIT_TRADING_POST_CIVIC_BOOST",
+        "TraitType": "TRAIT_LEADER_KUBLAI"
+    },
+    {
+        "ModifierId": "TRAIT_TRADING_POST_TECH_BOOST",
+        "TraitType": "TRAIT_LEADER_KUBLAI"
+    },
+    {
+        "ModifierId": "TRAIT_TRIEU_ABILITY",
+        "TraitType": "TRAIT_LEADER_TRIEU"
+    },
+    {
+        "ModifierId": "AGENDA_TRIEU_DEFENDER",
+        "TraitType": "TRAIT_AGENDA_TRIEU_DEFENDER"
+    },
+    {
+        "ModifierId": "AGENDA_KUBLAI_PAX",
+        "TraitType": "TRAIT_AGENDA_KUBLAI_PAX"
+    },
+    {
+        "ModifierId": "MAGNIFICENCES_ALLOW_PROJECT",
+        "TraitType": "TRAIT_LEADER_MAGNIFICENCES"
+    },
+    {
+        "ModifierId": "MAGNIFICENCES_CULTURE_LUXURY_ADJACENT_TO_THEATER_SQUARE_OR_CHATEAU",
+        "TraitType": "TRAIT_LEADER_MAGNIFICENCES"
+    },
+    {
+        "ModifierId": "AGENDA_MAGNIFICENCES",
+        "TraitType": "TRAIT_AGENDA_MAGNIFICENCES"
+    },
+    {
+        "ModifierId": "TOKUGAWA_NEGATIVE_INTERNATIONAL_TOURISM",
+        "TraitType": "TRAIT_LEADER_TOKUGAWA"
+    },
+    {
+        "ModifierId": "TOKUGAWA_NEGATIVE_INTERNATIONAL_YIELDS",
+        "TraitType": "TRAIT_LEADER_TOKUGAWA"
+    },
+    {
+        "ModifierId": "TOKUGAWA_POSITIVE_DOMESTIC_CULTURE_DISTRICTS",
+        "TraitType": "TRAIT_LEADER_TOKUGAWA"
+    },
+    {
+        "ModifierId": "TOKUGAWA_POSITIVE_DOMESTIC_SCIENCE_DISTRICTS",
+        "TraitType": "TRAIT_LEADER_TOKUGAWA"
+    },
+    {
+        "ModifierId": "TOKUGAWA_POSITIVE_DOMESTIC_GOLD_DISTRICTS",
+        "TraitType": "TRAIT_LEADER_TOKUGAWA"
+    },
+    {
+        "ModifierId": "TOKUGAWA_TOURISM_DISTRICTS",
+        "TraitType": "TRAIT_LEADER_TOKUGAWA"
+    },
+    {
+        "ModifierId": "AGENDA_SAKOKU_TURTLER",
+        "TraitType": "TRAIT_AGENDA_SAKOKU"
+    },
+    {
+        "ModifierId": "NADER_SHAH_COMBAT_ABILITY",
+        "TraitType": "TRAIT_LEADER_NADER_SHAH"
+    },
+    {
+        "ModifierId": "NADER_SHAH_TRADE_GOLD",
+        "TraitType": "TRAIT_LEADER_NADER_SHAH"
+    },
+    {
+        "ModifierId": "NADER_SHAH_TRADE_FAITH",
+        "TraitType": "TRAIT_LEADER_NADER_SHAH"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_LANDPOWER",
+        "TraitType": "TRAIT_AGENDA_PREFER_LANDPOWER"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_LANDPOWER",
+        "TraitType": "TRAIT_AGENDA_PREFER_LANDPOWER"
+    },
+    {
+        "ModifierId": "TRAIT_TOKUGAWA_LOYALTY_NEAR_CAPITAL",
+        "TraitType": "TRAIT_LEADER_TOKUGAWA"
+    },
+    {
+        "ModifierId": "TRAIT_FORBID_INTERNATIONAL_LAND_ROUTES",
+        "TraitType": "TRAIT_CIVILIZATION_PORTUGAL"
+    },
+    {
+        "ModifierId": "TRAIT_INTERNATIONAL_TRADE_GAIN_ALL_YIELDS",
+        "TraitType": "TRAIT_CIVILIZATION_PORTUGAL"
+    },
+    {
+        "ModifierId": "TRAIT_TRADER_EARLY_EMBARK",
+        "TraitType": "TRAIT_CIVILIZATION_PORTUGAL"
+    },
+    {
+        "ModifierId": "TRAIT_WATER_TRADE_ROUTE_RANGE",
+        "TraitType": "TRAIT_CIVILIZATION_PORTUGAL"
+    },
+    {
+        "ModifierId": "TRADE_PRODUCTION_FROM_FEITORIA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_FEITORIA"
+    },
+    {
+        "ModifierId": "TRADE_GOLD_FROM_FEITORIA",
+        "TraitType": "TRAIT_CIVILIZATION_IMPROVEMENT_FEITORIA"
+    },
+    {
+        "ModifierId": "TRAIT_JOAO_CITY_STATE_OPEN_BORDERS",
+        "TraitType": "TRAIT_LEADER_JOAO_III"
+    },
+    {
+        "ModifierId": "TRAIT_JOAO_TRADE_ROUTE_ON_MEET",
+        "TraitType": "TRAIT_LEADER_JOAO_III"
+    },
+    {
+        "ModifierId": "TRAIT_JOAO_EXTRA_SIGHT",
+        "TraitType": "TRAIT_LEADER_JOAO_III"
+    },
+    {
+        "ModifierId": "AGENDA_JOAO_HIGH_EXPLORATION",
+        "TraitType": "TRAIT_JOAO_EXPLORATION_AGENDA"
+    },
+    {
+        "ModifierId": "AGENDA_JOAO_LOW_EXPLORATION",
+        "TraitType": "TRAIT_JOAO_EXPLORATION_AGENDA"
+    },
+    {
+        "ModifierId": "LUDWIG_WONDER_ADJACENCY",
+        "TraitType": "TRAIT_LEADER_LUDWIG"
+    },
+    {
+        "ModifierId": "LUDWIG_CULTURE_TOURISM_DISTRICTS",
+        "TraitType": "TRAIT_LEADER_LUDWIG"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_DISTRICTS_LUDWIG",
+        "TraitType": "TRAIT_AGENDA_ETERNAL"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_DISTRICTS_LUDWIG",
+        "TraitType": "TRAIT_AGENDA_ETERNAL"
+    },
+    {
+        "ModifierId": "THEODORA_CULTURE_HOLY_SITE",
+        "TraitType": "TRAIT_LEADER_THEODORA"
+    },
+    {
+        "ModifierId": "THEODORA_HOLY_SITE_ADJACENCY_FARM",
+        "TraitType": "TRAIT_LEADER_THEODORA"
+    },
+    {
+        "ModifierId": "THEODORA_HIPPODROME_ADJACENCY_FARM",
+        "TraitType": "TRAIT_LEADER_THEODORA"
+    },
+    {
+        "ModifierId": "AGENDA_HIGH_CULTURE_NEW_ROME",
+        "TraitType": "TRAIT_AGENDA_NEW_ROME"
+    },
+    {
+        "ModifierId": "AGENDA_LOW_CULTURE_NEW_ROME",
+        "TraitType": "TRAIT_AGENDA_NEW_ROME"
+    },
+    {
+        "ModifierId": "SEJONG_CLASSICAL_SCIENCE_INTO_CULTURE",
+        "TraitType": "TRAIT_LEADER_SEJONG"
+    },
+    {
+        "ModifierId": "SEJONG_MEDIEVAL_SCIENCE_INTO_CULTURE",
+        "TraitType": "TRAIT_LEADER_SEJONG"
+    },
+    {
+        "ModifierId": "SEJONG_RENAISSANCE_SCIENCE_INTO_CULTURE",
+        "TraitType": "TRAIT_LEADER_SEJONG"
+    },
+    {
+        "ModifierId": "SEJONG_INDUSTRIAL_SCIENCE_INTO_CULTURE",
+        "TraitType": "TRAIT_LEADER_SEJONG"
+    },
+    {
+        "ModifierId": "SEJONG_MODERN_SCIENCE_INTO_CULTURE",
+        "TraitType": "TRAIT_LEADER_SEJONG"
+    },
+    {
+        "ModifierId": "SEJONG_ATOMIC_SCIENCE_INTO_CULTURE",
+        "TraitType": "TRAIT_LEADER_SEJONG"
+    },
+    {
+        "ModifierId": "SEJONG_INFORMATION_SCIENCE_INTO_CULTURE",
+        "TraitType": "TRAIT_LEADER_SEJONG"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_LAGS_PROGRESS_SEJONG",
+        "TraitType": "TRAIT_AGENDA_SEJONG"
+    },
+    {
+        "ModifierId": "AGENDA_MODIFIER_LEADS_PROGRESS_SEJONG",
+        "TraitType": "TRAIT_AGENDA_SEJONG"
+    }
+]

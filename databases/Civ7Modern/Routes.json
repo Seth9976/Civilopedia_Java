@@ -1,0 +1,38 @@
+[
+    {
+        "Description": "LOC_ROUTE_ROAD_DESCRIPTION",
+        "MovementCost": 1.0,
+        "Name": "LOC_ROUTE_ROAD_NAME",
+        "PlacementRequiresOwnedTile": 0,
+        "PlacementRequiresRoutePresent": 0,
+        "PlacementValue": 1,
+        "PrereqAge": null,
+        "RequiredConstructible": null,
+        "RouteType": "ROUTE_ROAD",
+        "TraitType": null
+    },
+    {
+        "Description": "LOC_ROUTE_RAILROAD_DESCRIPTION",
+        "MovementCost": 1.0,
+        "Name": "LOC_ROUTE_RAILROAD_NAME",
+        "PlacementRequiresOwnedTile": 0,
+        "PlacementRequiresRoutePresent": 1,
+        "PlacementValue": 2,
+        "PrereqAge": null,
+        "RequiredConstructible": "BUILDING_RAIL_STATION",
+        "RouteType": "ROUTE_RAILROAD",
+        "TraitType": null
+    },
+    {
+        "Description": "LOC_ROUTE_STAATSEISENBAHN_DESCRIPTION",
+        "MovementCost": 1.0,
+        "Name": "LOC_ROUTE_STAATSEISENBAHN_NAME",
+        "PlacementRequiresOwnedTile": 0,
+        "PlacementRequiresRoutePresent": 1,
+        "PlacementValue": 3,
+        "PrereqAge": null,
+        "RequiredConstructible": "BUILDING_RAIL_STATION",
+        "RouteType": "ROUTE_STAATSEISENBAHN",
+        "TraitType": "TRAIT_PRUSSIA"
+    }
+]

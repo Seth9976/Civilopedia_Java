@@ -1,0 +1,22 @@
+[
+    {
+        "Query": "GameObjects",
+        "SQL": "select ObjectID from GameObjects where GameID=@GameID"
+    },
+    {
+        "Query": "GameObjectsByType",
+        "SQL": "select ObjectID from GameObjects where GameObjects.Type=@ExtraData and GameID=@GameID"
+    },
+    {
+        "Query": "PlayerObjects",
+        "SQL": "select ObjectID from GameObjects where GameObjects.PlayerObjectID=@ObjectID"
+    },
+    {
+        "Query": "PlayerObjectsByType",
+        "SQL": "select ObjectID from GameObjects where GameObjects.Type=@ExtraData and PlayerObjectID=@ObjectID"
+    },
+    {
+        "Query": "PlayerTypesByDataPoint",
+        "SQL": "select distinct Type,ObjectID from ObjectDataPointValues where DataPoint=@ExtraData and ObjectID=@ObjectID"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "BuildingType": "BUILDING_UNIVERSITY",
+        "FeatureType": "FEATURE_JUNGLE",
+        "Yield": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_WAT",
+        "FeatureType": "FEATURE_JUNGLE",
+        "Yield": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_LONGHOUSE",
+        "FeatureType": "FEATURE_FOREST",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_BAZAAR",
+        "FeatureType": "FEATURE_OASIS",
+        "Yield": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_PETRA",
+        "FeatureType": "FEATURE_FLOOD_PLAINS",
+        "Yield": -1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_PETRA",
+        "FeatureType": "FEATURE_FLOOD_PLAINS",
+        "Yield": -1,
+        "YieldType": "YIELD_PRODUCTION"
+    }
+]

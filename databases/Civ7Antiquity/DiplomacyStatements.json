@@ -1,0 +1,32 @@
+[
+    {
+        "AutoActivate": "INITIAL",
+        "DiplomacyStatementType": "FIRST_MEET_NEAR_RECIPIENT",
+        "GroupType": "MEET"
+    },
+    {
+        "AutoActivate": "INITIAL",
+        "DiplomacyStatementType": "FIRST_MEET_NEAR_INITIATOR",
+        "GroupType": "MEET"
+    },
+    {
+        "AutoActivate": "INITIAL",
+        "DiplomacyStatementType": "FIRST_MEET_NO_MANS",
+        "GroupType": "MEET"
+    },
+    {
+        "AutoActivate": "INITIAL",
+        "DiplomacyStatementType": "MAKE_DEAL",
+        "GroupType": "DEAL"
+    },
+    {
+        "AutoActivate": "INITIAL",
+        "DiplomacyStatementType": "DECLARE_SURPRISE_WAR",
+        "GroupType": "WAR"
+    },
+    {
+        "AutoActivate": "INITIAL",
+        "DiplomacyStatementType": "DEFEAT",
+        "GroupType": "DEFEAT"
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_NO_CITY_RAZING",
+        "Help": "TXT_KEY_GAME_OPTION_NO_CITY_RAZING_HELP",
+        "ID": 0,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_NO_CITY_RAZING",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_NO_BARBARIANS",
+        "Help": "TXT_KEY_GAME_OPTION_NO_BARBARIANS_HELP",
+        "ID": 1,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_NO_BARBARIANS",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_RAGING_BARBARIANS",
+        "Help": "TXT_KEY_GAME_OPTION_RAGING_BARBARIANS_HELP",
+        "ID": 2,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_RAGING_BARBARIANS",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_ALWAYS_WAR",
+        "Help": "TXT_KEY_GAME_OPTION_ALWAYS_WAR_HELP",
+        "ID": 3,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_ALWAYS_WAR",
+        "Visible": 0
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_MP_OPTION_ALWAYS_PEACE",
+        "Help": "TXT_KEY_MP_OPTION_ALWAYS_PEACE_HELP",
+        "ID": 4,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_ALWAYS_PEACE",
+        "Visible": 0
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_ONE_CITY_CHALLENGE",
+        "Help": "TXT_KEY_GAME_OPTION_ONE_CITY_CHALLENGE_HELP",
+        "ID": 5,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_ONE_CITY_CHALLENGE",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_NO_CHANGING_WAR_PEACE",
+        "Help": "TXT_KEY_GAME_OPTION_NO_CHANGING_WAR_PEACE_HELP",
+        "ID": 6,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_NO_CHANGING_WAR_PEACE",
+        "Visible": 0
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_NEW_RANDOM_SEED",
+        "Help": "TXT_KEY_GAME_OPTION_NEW_RANDOM_SEED_HELP",
+        "ID": 7,
+        "SupportsMultiplayer": 0,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_NEW_RANDOM_SEED",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_LOCK_MODS",
+        "Help": "TXT_KEY_GAME_OPTION_LOCK_MODS_HELP",
+        "ID": 8,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_LOCK_MODS",
+        "Visible": 0
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_COMPLETE_KILLS",
+        "Help": "TXT_KEY_GAME_OPTION_COMPLETE_KILLS_HELP",
+        "ID": 9,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_COMPLETE_KILLS",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_NO_GOODY_HUTS",
+        "Help": "TXT_KEY_GAME_OPTION_NO_GOODY_HUTS_HELP",
+        "ID": 10,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_NO_GOODY_HUTS",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_RANDOM_PERSONALITIES",
+        "Help": "TXT_KEY_GAME_OPTION_RANDOM_PERSONALITIES_HELP",
+        "ID": 11,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_RANDOM_PERSONALITIES",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_POLICY_SAVING",
+        "Help": "TXT_KEY_GAME_OPTION_POLICY_SAVING_HELP",
+        "ID": 12,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_POLICY_SAVING",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_PROMOTION_SAVING",
+        "Help": "TXT_KEY_GAME_OPTION_PROMOTION_SAVING_HELP",
+        "ID": 13,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_PROMOTION_SAVING",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_END_TURN_TIMER_ENABLED",
+        "Help": "TXT_KEY_GAME_OPTION_END_TURN_TIMER_ENABLED_HELP",
+        "ID": 14,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 0,
+        "Type": "GAMEOPTION_END_TURN_TIMER_ENABLED",
+        "Visible": 1
+    },
+    {
+        "Default": 1,
+        "Description": "TXT_KEY_GAME_OPTION_SIMULTANEOUS_TURNS",
+        "Help": "TXT_KEY_GAME_OPTION_SIMULTANEOUS_TURNS_HELP",
+        "ID": 15,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 0,
+        "Type": "GAMEOPTION_SIMULTANEOUS_TURNS",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_DYNAMIC_TURNS",
+        "Help": "TXT_KEY_GAME_OPTION_DYNAMIC_TURNS_HELP",
+        "ID": 16,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 0,
+        "Type": "GAMEOPTION_DYNAMIC_TURNS",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_PITBOSS",
+        "Help": "TXT_KEY_GAME_OPTION_PITBOSS_HELP",
+        "ID": 17,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 0,
+        "Type": "GAMEOPTION_PITBOSS",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_QUICK_COMBAT",
+        "Help": "TXT_KEY_GAME_OPTION_QUICK_COMBAT_HELP",
+        "ID": 18,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_QUICK_COMBAT",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_DISABLE_START_BIAS",
+        "Help": "TXT_KEY_GAME_OPTION_DISABLE_START_BIAS_HELP",
+        "ID": 19,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_DISABLE_START_BIAS",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_NO_SCIENCE",
+        "Help": "TXT_KEY_GAME_OPTION_NO_SCIENCE_HELP",
+        "ID": 20,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_NO_SCIENCE",
+        "Visible": 0
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_NO_POLICIES",
+        "Help": "TXT_KEY_GAME_OPTION_NO_POLICIES_HELP",
+        "ID": 21,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_NO_POLICIES",
+        "Visible": 0
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_NO_HAPPINESS",
+        "Help": "TXT_KEY_GAME_OPTION_NO_HAPPINESS_HELP",
+        "ID": 22,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_NO_HAPPINESS",
+        "Visible": 0
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_NO_TUTORIAL",
+        "Help": "TXT_KEY_GAME_OPTION_NO_TUTORIAL_HELP",
+        "ID": 23,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_NO_TUTORIAL",
+        "Visible": 0
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_QUICK_MOVEMENT",
+        "Help": "TXT_KEY_GAME_OPTION_QUICK_MOVEMENT_HELP",
+        "ID": 24,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_QUICK_MOVEMENT",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_NO_RELIGION",
+        "Help": "TXT_KEY_GAME_OPTION_NO_RELIGION_HELP",
+        "ID": 25,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_NO_RELIGION",
+        "Visible": 0
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_NO_ESPIONAGE",
+        "Help": "TXT_KEY_GAME_OPTION_NO_ESPIONAGE_HELP",
+        "ID": 26,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_NO_ESPIONAGE",
+        "Visible": 1
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_NO_LEAGUES",
+        "Help": "TXT_KEY_GAME_OPTION_NO_LEAGUES_HELP",
+        "ID": 27,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_NO_LEAGUES",
+        "Visible": 0
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_GAME_OPTION_NO_CULTURE_OVERVIEW_UI",
+        "Help": "TXT_KEY_GAME_OPTION_NO_CULTURE_OVERVIEW_UI_HELP",
+        "ID": 28,
+        "SupportsMultiplayer": 1,
+        "SupportsSinglePlayer": 1,
+        "Type": "GAMEOPTION_NO_CULTURE_OVERVIEW_UI",
+        "Visible": 0
+    }
+]

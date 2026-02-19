@@ -1,0 +1,378 @@
+[
+    {
+        "name": "AICityStrategies",
+        "seq": 43
+    },
+    {
+        "name": "AIGrandStrategies",
+        "seq": 3
+    },
+    {
+        "name": "AIEconomicStrategies",
+        "seq": 39
+    },
+    {
+        "name": "AIMilitaryStrategies",
+        "seq": 24
+    },
+    {
+        "name": "CitySpecializations",
+        "seq": 8
+    },
+    {
+        "name": "TacticalMoves",
+        "seq": 52
+    },
+    {
+        "name": "Attitudes",
+        "seq": 4
+    },
+    {
+        "name": "Calendars",
+        "seq": 6
+    },
+    {
+        "name": "CitySizes",
+        "seq": 2
+    },
+    {
+        "name": "Concepts",
+        "seq": 504
+    },
+    {
+        "name": "Contacts",
+        "seq": 12
+    },
+    {
+        "name": "Domains",
+        "seq": 4
+    },
+    {
+        "name": "InvisibleInfos",
+        "seq": 0
+    },
+    {
+        "name": "MajorCivApproachTypes",
+        "seq": 6
+    },
+    {
+        "name": "MinorCivApproachTypes",
+        "seq": 4
+    },
+    {
+        "name": "MinorCivTraits",
+        "seq": 4
+    },
+    {
+        "name": "Months",
+        "seq": 11
+    },
+    {
+        "name": "Seasons",
+        "seq": 3
+    },
+    {
+        "name": "UnitAIInfos",
+        "seq": 41
+    },
+    {
+        "name": "UnitCombatInfos",
+        "seq": 13
+    },
+    {
+        "name": "BuildingClasses",
+        "seq": 138
+    },
+    {
+        "name": "Buildings",
+        "seq": 161
+    },
+    {
+        "name": "Civilizations",
+        "seq": 44
+    },
+    {
+        "name": "MinorCivilizations",
+        "seq": 58
+    },
+    {
+        "name": "Regions",
+        "seq": 8
+    },
+    {
+        "name": "Traits",
+        "seq": 47
+    },
+    {
+        "name": "ArtStyleTypes",
+        "seq": 6
+    },
+    {
+        "name": "Climates",
+        "seq": 4
+    },
+    {
+        "name": "Cursors",
+        "seq": 24
+    },
+    {
+        "name": "EmphasizeInfos",
+        "seq": 4
+    },
+    {
+        "name": "Eras",
+        "seq": 7
+    },
+    {
+        "name": "Flavors",
+        "seq": 37
+    },
+    {
+        "name": "GameOptions",
+        "seq": 28
+    },
+    {
+        "name": "GameSpeeds",
+        "seq": 3
+    },
+    {
+        "name": "HandicapInfos",
+        "seq": 8
+    },
+    {
+        "name": "HurryInfos",
+        "seq": 1
+    },
+    {
+        "name": "MultiplayerOptions",
+        "seq": 4
+    },
+    {
+        "name": "PlayerOptions",
+        "seq": 11
+    },
+    {
+        "name": "Policies",
+        "seq": 110
+    },
+    {
+        "name": "PolicyBranchTypes",
+        "seq": 11
+    },
+    {
+        "name": "Processes",
+        "seq": 4
+    },
+    {
+        "name": "Projects",
+        "seq": 5
+    },
+    {
+        "name": "ReplayDataSets",
+        "seq": 26
+    },
+    {
+        "name": "SeaLevels",
+        "seq": 2
+    },
+    {
+        "name": "Specialists",
+        "seq": 6
+    },
+    {
+        "name": "Trades",
+        "seq": 2
+    },
+    {
+        "name": "TurnTimers",
+        "seq": 5
+    },
+    {
+        "name": "GoodyHuts",
+        "seq": 19
+    },
+    {
+        "name": "Victories",
+        "seq": 4
+    },
+    {
+        "name": "HistoricRankings",
+        "seq": 21
+    },
+    {
+        "name": "Votes",
+        "seq": 0
+    },
+    {
+        "name": "VoteSources",
+        "seq": 1
+    },
+    {
+        "name": "Worlds",
+        "seq": 5
+    },
+    {
+        "name": "Colors",
+        "seq": 221
+    },
+    {
+        "name": "InterfaceModes",
+        "seq": 22
+    },
+    {
+        "name": "PlayerColors",
+        "seq": 106
+    },
+    {
+        "name": "Leaders",
+        "seq": 43
+    },
+    {
+        "name": "Routes",
+        "seq": 1
+    },
+    {
+        "name": "Notifications",
+        "seq": 144
+    },
+    {
+        "name": "Religions",
+        "seq": 13
+    },
+    {
+        "name": "Beliefs",
+        "seq": 68
+    },
+    {
+        "name": "Technologies",
+        "seq": 80
+    },
+    {
+        "name": "Features",
+        "seq": 24
+    },
+    {
+        "name": "FakeFeatures",
+        "seq": 1
+    },
+    {
+        "name": "Natural_Wonder_Placement",
+        "seq": 20
+    },
+    {
+        "name": "Improvements",
+        "seq": 28
+    },
+    {
+        "name": "Resources",
+        "seq": 41
+    },
+    {
+        "name": "ResourceClasses",
+        "seq": 3
+    },
+    {
+        "name": "Terrains",
+        "seq": 8
+    },
+    {
+        "name": "Yields",
+        "seq": 5
+    },
+    {
+        "name": "AnimationPaths",
+        "seq": 40
+    },
+    {
+        "name": "Automates",
+        "seq": 1
+    },
+    {
+        "name": "Builds",
+        "seq": 34
+    },
+    {
+        "name": "Commands",
+        "seq": 9
+    },
+    {
+        "name": "Controls",
+        "seq": 42
+    },
+    {
+        "name": "EntityEvents",
+        "seq": 33
+    },
+    {
+        "name": "Missions",
+        "seq": 57
+    },
+    {
+        "name": "MultiUnitPositions",
+        "seq": 3
+    },
+    {
+        "name": "MultiUnitFormations",
+        "seq": 19
+    },
+    {
+        "name": "SpecialUnits",
+        "seq": 3
+    },
+    {
+        "name": "CivilianAttackPriorities",
+        "seq": 2
+    },
+    {
+        "name": "Units",
+        "seq": 161
+    },
+    {
+        "name": "UnitClasses",
+        "seq": 96
+    },
+    {
+        "name": "UnitPromotions",
+        "seq": 226
+    },
+    {
+        "name": "LeagueSpecialSessions",
+        "seq": 3
+    },
+    {
+        "name": "LeagueNames",
+        "seq": 2
+    },
+    {
+        "name": "LeagueProjectRewards",
+        "seq": 8
+    },
+    {
+        "name": "LeagueProjects",
+        "seq": 2
+    },
+    {
+        "name": "ResolutionDecisions",
+        "seq": 9
+    },
+    {
+        "name": "Resolutions",
+        "seq": 17
+    },
+    {
+        "name": "GreatWorkSlots",
+        "seq": 3
+    },
+    {
+        "name": "GreatWorkClasses",
+        "seq": 4
+    },
+    {
+        "name": "GreatWorkArtifactClasses",
+        "seq": 6
+    },
+    {
+        "name": "GreatWorks",
+        "seq": 279
+    }
+]

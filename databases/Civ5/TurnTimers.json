@@ -1,0 +1,56 @@
+[
+    {
+        "BaseTime": 60,
+        "CityResource": 3,
+        "Description": "TXT_KEY_TURNTIMER_STATIC",
+        "FirstTurnMultiplier": 4,
+        "ID": 0,
+        "Type": "TURNTIMER_STATIC",
+        "UnitResource": 1
+    },
+    {
+        "BaseTime": 90,
+        "CityResource": 36,
+        "Description": "TXT_KEY_TURNTIMER_SNAIL",
+        "FirstTurnMultiplier": 6,
+        "ID": 1,
+        "Type": "TURNTIMER_SNAIL",
+        "UnitResource": 12
+    },
+    {
+        "BaseTime": 45,
+        "CityResource": 18,
+        "Description": "TXT_KEY_TURNTIMER_SLOW",
+        "FirstTurnMultiplier": 5,
+        "ID": 2,
+        "Type": "TURNTIMER_SLOW",
+        "UnitResource": 6
+    },
+    {
+        "BaseTime": 30,
+        "CityResource": 12,
+        "Description": "TXT_KEY_TURNTIMER_MEDIUM",
+        "FirstTurnMultiplier": 4,
+        "ID": 3,
+        "Type": "TURNTIMER_MEDIUM",
+        "UnitResource": 4
+    },
+    {
+        "BaseTime": 25,
+        "CityResource": 9,
+        "Description": "TXT_KEY_TURNTIMER_FAST",
+        "FirstTurnMultiplier": 3,
+        "ID": 4,
+        "Type": "TURNTIMER_FAST",
+        "UnitResource": 3
+    },
+    {
+        "BaseTime": 20,
+        "CityResource": 6,
+        "Description": "TXT_KEY_TURNTIMER_BLAZING",
+        "FirstTurnMultiplier": 2,
+        "ID": 5,
+        "Type": "TURNTIMER_BLAZING",
+        "UnitResource": 2
+    }
+]

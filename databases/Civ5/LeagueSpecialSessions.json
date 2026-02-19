@@ -1,0 +1,62 @@
+[
+    {
+        "CityStateDelegates": 0,
+        "CivDelegates": 1,
+        "Description": "TXT_KEY_LEAGUE_SPECIAL_SESSION_START_WORLD_CONGRESS",
+        "EraTrigger": "ERA_RENAISSANCE",
+        "Help": "TXT_KEY_LEAGUE_SPECIAL_SESSION_START_WORLD_CONGRESS_HELP",
+        "HostDelegates": 1,
+        "ID": 0,
+        "ImmediateProposal": "RESOLUTION_CHANGE_LEAGUE_HOST",
+        "RecurringProposal": null,
+        "SessionSplashImage": "WorldCongress.dds",
+        "TurnsBetweenSessions": 30,
+        "Type": "LEAGUE_SPECIAL_SESSION_START_WORLD_CONGRESS",
+        "UnitedNations": 0
+    },
+    {
+        "CityStateDelegates": 1,
+        "CivDelegates": 2,
+        "Description": "TXT_KEY_LEAGUE_SPECIAL_SESSION_WELCOME_CITY_STATES",
+        "EraTrigger": "ERA_INDUSTRIAL",
+        "Help": "TXT_KEY_LEAGUE_SPECIAL_SESSION_WELCOME_CITY_STATES_HELP",
+        "HostDelegates": 1,
+        "ID": 1,
+        "ImmediateProposal": "RESOLUTION_CHANGE_LEAGUE_HOST",
+        "RecurringProposal": null,
+        "SessionSplashImage": "WorldCongress.dds",
+        "TurnsBetweenSessions": 25,
+        "Type": "LEAGUE_SPECIAL_SESSION_WELCOME_CITY_STATES",
+        "UnitedNations": 0
+    },
+    {
+        "CityStateDelegates": 1,
+        "CivDelegates": 3,
+        "Description": "TXT_KEY_LEAGUE_SPECIAL_SESSION_LEADERSHIP_COUNCIL",
+        "EraTrigger": "ERA_MODERN",
+        "Help": "TXT_KEY_LEAGUE_SPECIAL_SESSION_LEADERSHIP_COUNCIL_HELP",
+        "HostDelegates": 2,
+        "ID": 2,
+        "ImmediateProposal": "RESOLUTION_CHANGE_LEAGUE_HOST",
+        "RecurringProposal": null,
+        "SessionSplashImage": "WorldCongress.dds",
+        "TurnsBetweenSessions": 20,
+        "Type": "LEAGUE_SPECIAL_SESSION_LEADERSHIP_COUNCIL",
+        "UnitedNations": 0
+    },
+    {
+        "CityStateDelegates": 2,
+        "CivDelegates": 4,
+        "Description": "TXT_KEY_LEAGUE_SPECIAL_SESSION_START_UNITED_NATIONS",
+        "EraTrigger": "ERA_POSTMODERN",
+        "Help": "TXT_KEY_LEAGUE_SPECIAL_SESSION_START_UNITED_NATIONS_HELP",
+        "HostDelegates": 2,
+        "ID": 3,
+        "ImmediateProposal": "RESOLUTION_CHANGE_LEAGUE_HOST",
+        "RecurringProposal": "RESOLUTION_DIPLOMATIC_VICTORY",
+        "SessionSplashImage": "WonderConceptUN.dds",
+        "TurnsBetweenSessions": 10,
+        "Type": "LEAGUE_SPECIAL_SESSION_START_UNITED_NATIONS",
+        "UnitedNations": 1
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "DiplomaticYieldBonus": 50,
+        "Name": "LOC_DIPLO_STATE_ALLIED_NAME",
+        "RelationshipLevel": 100,
+        "StateType": "DIPLO_STATE_ALLIED"
+    },
+    {
+        "DiplomaticYieldBonus": 25,
+        "Name": "LOC_DIPLO_STATE_DECLARED_FRIEND_NAME",
+        "RelationshipLevel": 83,
+        "StateType": "DIPLO_STATE_DECLARED_FRIEND"
+    },
+    {
+        "DiplomaticYieldBonus": 25,
+        "Name": "LOC_DIPLO_STATE_FRIENDLY_NAME",
+        "RelationshipLevel": 66,
+        "StateType": "DIPLO_STATE_FRIENDLY"
+    },
+    {
+        "DiplomaticYieldBonus": 0,
+        "Name": "LOC_DIPLO_STATE_NEUTRAL_NAME",
+        "RelationshipLevel": 50,
+        "StateType": "DIPLO_STATE_NEUTRAL"
+    },
+    {
+        "DiplomaticYieldBonus": -25,
+        "Name": "LOC_DIPLO_STATE_UNFRIENDLY_NAME",
+        "RelationshipLevel": 33,
+        "StateType": "DIPLO_STATE_UNFRIENDLY"
+    },
+    {
+        "DiplomaticYieldBonus": -75,
+        "Name": "LOC_DIPLO_STATE_DENOUNCED_NAME",
+        "RelationshipLevel": 16,
+        "StateType": "DIPLO_STATE_DENOUNCED"
+    },
+    {
+        "DiplomaticYieldBonus": -100,
+        "Name": "LOC_DIPLO_STATE_WAR_NAME",
+        "RelationshipLevel": 0,
+        "StateType": "DIPLO_STATE_WAR"
+    },
+    {
+        "DiplomaticYieldBonus": 0,
+        "Name": "LOC_DIPLO_STATE_NO_INFLUENCE_NAME",
+        "RelationshipLevel": 0,
+        "StateType": "DIPLO_STATE_NO_INFLUENCE"
+    },
+    {
+        "DiplomaticYieldBonus": 0,
+        "Name": "LOC_DIPLO_STATE_INFLUENTIAL_NAME",
+        "RelationshipLevel": 0,
+        "StateType": "DIPLO_STATE_INFLUENTIAL"
+    },
+    {
+        "DiplomaticYieldBonus": 0,
+        "Name": "LOC_DIPLO_STATE_MAX_INFLUENCE_NAME",
+        "RelationshipLevel": 0,
+        "StateType": "DIPLO_STATE_MAX_INFLUENCE"
+    },
+    {
+        "DiplomaticYieldBonus": 0,
+        "Name": "LOC_DIPLO_STATE_WAR_WITH_MINOR_NAME",
+        "RelationshipLevel": 0,
+        "StateType": "DIPLO_STATE_WAR_WITH_MINOR"
+    },
+    {
+        "DiplomaticYieldBonus": 0,
+        "Name": "LOC_DIPLO_STATE_AWARE_NAME",
+        "RelationshipLevel": 0,
+        "StateType": "DIPLO_STATE_AWARE"
+    },
+    {
+        "DiplomaticYieldBonus": 0,
+        "Name": "LOC_DIPLO_STATE_PATRON_NAME",
+        "RelationshipLevel": 0,
+        "StateType": "DIPLO_STATE_PATRON"
+    },
+    {
+        "DiplomaticYieldBonus": 0,
+        "Name": "LOC_DIPLO_STATE_PROTECTOR_NAME",
+        "RelationshipLevel": 0,
+        "StateType": "DIPLO_STATE_PROTECTOR"
+    },
+    {
+        "DiplomaticYieldBonus": 0,
+        "Name": "LOC_DIPLO_STATE_WAR_WITH_MAJOR_NAME",
+        "RelationshipLevel": 0,
+        "StateType": "DIPLO_STATE_WAR_WITH_MAJOR"
+    },
+    {
+        "DiplomaticYieldBonus": 0,
+        "Name": "LOC_DIPLO_STATE_MINOR_MINOR_NAME",
+        "RelationshipLevel": 0,
+        "StateType": "DIPLO_STATE_MINOR_MINOR"
+    },
+    {
+        "DiplomaticYieldBonus": 0,
+        "Name": "LOC_DIPLO_STATE_MINOR_MINOR_WAR_NAME",
+        "RelationshipLevel": 0,
+        "StateType": "DIPLO_STATE_MINOR_MINOR_WAR"
+    }
+]

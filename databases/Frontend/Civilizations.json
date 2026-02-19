@@ -1,0 +1,389 @@
+[
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_AKSUM_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_AKSUM_FULLNAME",
+        "CivilizationIcon": "civ_sym_aksum.png",
+        "CivilizationName": "LOC_CIVILIZATION_AKSUM_NAME",
+        "CivilizationType": "CIVILIZATION_AKSUM",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_EGYPT_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_EGYPT_FULLNAME",
+        "CivilizationIcon": "civ_sym_egypt.png",
+        "CivilizationName": "LOC_CIVILIZATION_EGYPT_NAME",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_GREECE_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_GREECE_FULLNAME",
+        "CivilizationIcon": "civ_sym_greece.png",
+        "CivilizationName": "LOC_CIVILIZATION_GREECE_NAME",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_HAN_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_HAN_FULLNAME",
+        "CivilizationIcon": "civ_sym_han.png",
+        "CivilizationName": "LOC_CIVILIZATION_HAN_NAME",
+        "CivilizationType": "CIVILIZATION_HAN",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_KHMER_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_KHMER_FULLNAME",
+        "CivilizationIcon": "civ_sym_khmer.png",
+        "CivilizationName": "LOC_CIVILIZATION_KHMER_NAME",
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_MAURYA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_MAURYA_FULLNAME",
+        "CivilizationIcon": "civ_sym_maurya.png",
+        "CivilizationName": "LOC_CIVILIZATION_MAURYA_NAME",
+        "CivilizationType": "CIVILIZATION_MAURYA",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_MAYA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_MAYA_FULLNAME",
+        "CivilizationIcon": "civ_sym_maya.png",
+        "CivilizationName": "LOC_CIVILIZATION_MAYA_NAME",
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_MISSISSIPPIAN_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_MISSISSIPPIAN_FULLNAME",
+        "CivilizationIcon": "civ_sym_mississippian.png",
+        "CivilizationName": "LOC_CIVILIZATION_MISSISSIPPIAN_NAME",
+        "CivilizationType": "CIVILIZATION_MISSISSIPPIAN",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_PERSIA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_PERSIA_FULLNAME",
+        "CivilizationIcon": "civ_sym_persia.png",
+        "CivilizationName": "LOC_CIVILIZATION_PERSIA_NAME",
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_ROME_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_ROME_FULLNAME",
+        "CivilizationIcon": "civ_sym_rome.png",
+        "CivilizationName": "LOC_CIVILIZATION_ROME_NAME",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_ABBASID_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_ABBASID_FULLNAME",
+        "CivilizationIcon": "civ_sym_abbasid.png",
+        "CivilizationName": "LOC_CIVILIZATION_ABBASID_NAME",
+        "CivilizationType": "CIVILIZATION_ABBASID",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_CHOLA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_CHOLA_FULLNAME",
+        "CivilizationIcon": "civ_sym_chola.png",
+        "CivilizationName": "LOC_CIVILIZATION_CHOLA_NAME",
+        "CivilizationType": "CIVILIZATION_CHOLA",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_HAWAII_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_HAWAII_FULLNAME",
+        "CivilizationIcon": "civ_sym_hawaii.png",
+        "CivilizationName": "LOC_CIVILIZATION_HAWAII_NAME",
+        "CivilizationType": "CIVILIZATION_HAWAII",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_INCA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_INCA_FULLNAME",
+        "CivilizationIcon": "civ_sym_inca.png",
+        "CivilizationName": "LOC_CIVILIZATION_INCA_NAME",
+        "CivilizationType": "CIVILIZATION_INCA",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_MAJAPAHIT_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_MAJAPAHIT_FULLNAME",
+        "CivilizationIcon": "civ_sym_majapahit.png",
+        "CivilizationName": "LOC_CIVILIZATION_MAJAPAHIT_NAME",
+        "CivilizationType": "CIVILIZATION_MAJAPAHIT",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_MING_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_MING_FULLNAME",
+        "CivilizationIcon": "civ_sym_ming.png",
+        "CivilizationName": "LOC_CIVILIZATION_MING_NAME",
+        "CivilizationType": "CIVILIZATION_MING",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_MONGOLIA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_MONGOLIA_FULLNAME",
+        "CivilizationIcon": "civ_sym_mongolia.png",
+        "CivilizationName": "LOC_CIVILIZATION_MONGOLIA_NAME",
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_NORMAN_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_NORMAN_FULLNAME",
+        "CivilizationIcon": "civ_sym_norman.png",
+        "CivilizationName": "LOC_CIVILIZATION_NORMAN_NAME",
+        "CivilizationType": "CIVILIZATION_NORMAN",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_SONGHAI_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_SONGHAI_FULLNAME",
+        "CivilizationIcon": "civ_sym_songhai.png",
+        "CivilizationName": "LOC_CIVILIZATION_SONGHAI_NAME",
+        "CivilizationType": "CIVILIZATION_SONGHAI",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_SPAIN_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_SPAIN_FULLNAME",
+        "CivilizationIcon": "civ_sym_spain.png",
+        "CivilizationName": "LOC_CIVILIZATION_SPAIN_NAME",
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_AMERICA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_AMERICA_FULLNAME",
+        "CivilizationIcon": "civ_sym_america.png",
+        "CivilizationName": "LOC_CIVILIZATION_AMERICA_NAME",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_BUGANDA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_BUGANDA_FULLNAME",
+        "CivilizationIcon": "civ_sym_buganda.png",
+        "CivilizationName": "LOC_CIVILIZATION_BUGANDA_NAME",
+        "CivilizationType": "CIVILIZATION_BUGANDA",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_FRENCH_EMPIRE_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_FRENCH_EMPIRE_FULLNAME",
+        "CivilizationIcon": "civ_sym_french_empire.png",
+        "CivilizationName": "LOC_CIVILIZATION_FRENCH_EMPIRE_NAME",
+        "CivilizationType": "CIVILIZATION_FRENCH_EMPIRE",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_MEXICO_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_MEXICO_FULLNAME",
+        "CivilizationIcon": "civ_sym_mexico.png",
+        "CivilizationName": "LOC_CIVILIZATION_MEXICO_NAME",
+        "CivilizationType": "CIVILIZATION_MEXICO",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_MUGHAL_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_MUGHAL_FULLNAME",
+        "CivilizationIcon": "civ_sym_mughal.png",
+        "CivilizationName": "LOC_CIVILIZATION_MUGHAL_NAME",
+        "CivilizationType": "CIVILIZATION_MUGHAL",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_MEIJI_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_MEIJI_FULLNAME",
+        "CivilizationIcon": "civ_sym_meiji",
+        "CivilizationName": "LOC_CIVILIZATION_MEIJI_NAME",
+        "CivilizationType": "CIVILIZATION_MEIJI",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_PRUSSIA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_PRUSSIA_FULLNAME",
+        "CivilizationIcon": "civ_sym_prussia.png",
+        "CivilizationName": "LOC_CIVILIZATION_PRUSSIA_NAME",
+        "CivilizationType": "CIVILIZATION_PRUSSIA",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_QING_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_QING_FULLNAME",
+        "CivilizationIcon": "civ_sym_qing.png",
+        "CivilizationName": "LOC_CIVILIZATION_QING_NAME",
+        "CivilizationType": "CIVILIZATION_QING",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_RUSSIA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_RUSSIA_FULLNAME",
+        "CivilizationIcon": "civ_sym_russia.png",
+        "CivilizationName": "LOC_CIVILIZATION_RUSSIA_NAME",
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_SIAM_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_SIAM_FULLNAME",
+        "CivilizationIcon": "civ_sym_siam.png",
+        "CivilizationName": "LOC_CIVILIZATION_SIAM_NAME",
+        "CivilizationType": "CIVILIZATION_SIAM",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_BULGARIA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_BULGARIA_FULLNAME",
+        "CivilizationIcon": "shawnee_icon.png",
+        "CivilizationName": "LOC_CIVILIZATION_BULGARIA_NAME",
+        "CivilizationType": "CIVILIZATION_BULGARIA",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_CARTHAGE_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_CARTHAGE_FULLNAME",
+        "CivilizationIcon": "carthage_icon.png",
+        "CivilizationName": "LOC_CIVILIZATION_CARTHAGE_NAME",
+        "CivilizationType": "CIVILIZATION_CARTHAGE",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_DAI_VIET_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_DAI_VIET_FULLNAME",
+        "CivilizationIcon": "shawnee_icon.png",
+        "CivilizationName": "LOC_CIVILIZATION_DAI_VIET_NAME",
+        "CivilizationType": "CIVILIZATION_DAI_VIET",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_ICELAND_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_ICELAND_FULLNAME",
+        "CivilizationIcon": "shawnee_icon.png",
+        "CivilizationName": "LOC_CIVILIZATION_ICELAND_NAME",
+        "CivilizationType": "CIVILIZATION_ICELAND",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_OTTOMANS_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_OTTOMANS_FULLNAME",
+        "CivilizationIcon": "shawnee_icon.png",
+        "CivilizationName": "LOC_CIVILIZATION_OTTOMANS_NAME",
+        "CivilizationType": "CIVILIZATION_OTTOMANS",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_PIRATE_REPUBLIC_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_PIRATE_REPUBLIC_FULLNAME",
+        "CivilizationIcon": "shawnee_icon.png",
+        "CivilizationName": "LOC_CIVILIZATION_PIRATE_REPUBLIC_NAME",
+        "CivilizationType": "CIVILIZATION_PIRATE_REPUBLIC",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_SHAWNEE_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_SHAWNEE_FULLNAME",
+        "CivilizationIcon": "civ_sym_shawnee.png",
+        "CivilizationName": "LOC_CIVILIZATION_SHAWNEE_NAME",
+        "CivilizationType": "CIVILIZATION_SHAWNEE",
+        "Domain": "ExplorationAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_SILLA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_SILLA_FULLNAME",
+        "CivilizationIcon": "carthage_icon.png",
+        "CivilizationName": "LOC_CIVILIZATION_SILLA_NAME",
+        "CivilizationType": "CIVILIZATION_SILLA",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_TONGA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_TONGA_FULLNAME",
+        "CivilizationIcon": "carthage_icon.png",
+        "CivilizationName": "LOC_CIVILIZATION_TONGA_NAME",
+        "CivilizationType": "CIVILIZATION_TONGA",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_GREAT_BRITAIN_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_GREAT_BRITAIN_FULLNAME",
+        "CivilizationIcon": "shawnee_icon.png",
+        "CivilizationName": "LOC_CIVILIZATION_GREAT_BRITAIN_NAME",
+        "CivilizationType": "CIVILIZATION_GREAT_BRITAIN",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_NEPAL_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_NEPAL_FULLNAME",
+        "CivilizationIcon": "shawnee_icon.png",
+        "CivilizationName": "LOC_CIVILIZATION_NEPAL_NAME",
+        "CivilizationType": "CIVILIZATION_NEPAL",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_ASSYRIA_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_ASSYRIA_FULLNAME",
+        "CivilizationIcon": "ASSYRIA_icon.png",
+        "CivilizationName": "LOC_CIVILIZATION_ASSYRIA_NAME",
+        "CivilizationType": "CIVILIZATION_ASSYRIA",
+        "Domain": "AntiquityAgeCivilizations",
+        "SortIndex": 0
+    },
+    {
+        "CivilizationDescription": "LOC_CIVILIZATION_QAJAR_DESCRIPTION",
+        "CivilizationFullName": "LOC_CIVILIZATION_QAJAR_FULLNAME",
+        "CivilizationIcon": "shawnee_icon.png",
+        "CivilizationName": "LOC_CIVILIZATION_QAJAR_NAME",
+        "CivilizationType": "CIVILIZATION_QAJAR",
+        "Domain": "ModernAgeCivilizations",
+        "SortIndex": 0
+    }
+]

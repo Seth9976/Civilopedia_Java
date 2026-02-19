@@ -1,0 +1,51 @@
+[
+    {
+        "Description": "LOC_DIFFICULTY_SETTLER_DESCRIPTION",
+        "DifficultyType": "DIFFICULTY_SETTLER",
+        "Domain": "StandardDifficulties",
+        "Name": "LOC_DIFFICULTY_SETTLER_NAME",
+        "SortIndex": 10
+    },
+    {
+        "Description": "LOC_DIFFICULTY_PRINCE_DESCRIPTION",
+        "DifficultyType": "DIFFICULTY_PRINCE",
+        "Domain": "StandardDifficulties",
+        "Name": "LOC_DIFFICULTY_PRINCE_NAME",
+        "SortIndex": 40
+    },
+    {
+        "Description": "LOC_DIFFICULTY_KING_DESCRIPTION",
+        "DifficultyType": "DIFFICULTY_KING",
+        "Domain": "StandardDifficulties",
+        "Name": "LOC_DIFFICULTY_KING_NAME",
+        "SortIndex": 50
+    },
+    {
+        "Description": "LOC_DIFFICULTY_EMPEROR_DESCRIPTION",
+        "DifficultyType": "DIFFICULTY_EMPEROR",
+        "Domain": "StandardDifficulties",
+        "Name": "LOC_DIFFICULTY_EMPEROR_NAME",
+        "SortIndex": 60
+    },
+    {
+        "Description": "LOC_DIFFICULTY_IMMORTAL_DESCRIPTION",
+        "DifficultyType": "DIFFICULTY_IMMORTAL",
+        "Domain": "StandardDifficulties",
+        "Name": "LOC_DIFFICULTY_IMMORTAL_NAME",
+        "SortIndex": 70
+    },
+    {
+        "Description": "LOC_DIFFICULTY_DEITY_DESCRIPTION",
+        "DifficultyType": "DIFFICULTY_DEITY",
+        "Domain": "StandardDifficulties",
+        "Name": "LOC_DIFFICULTY_DEITY_NAME",
+        "SortIndex": 80
+    },
+    {
+        "Description": "LOC_DIFFICULTY_CUSTOM_DESCRIPTION",
+        "DifficultyType": "DIFFICULTY_CUSTOM",
+        "Domain": "StandardDifficulties",
+        "Name": "LOC_DIFFICULTY_CUSTOM_NAME",
+        "SortIndex": 100
+    }
+]

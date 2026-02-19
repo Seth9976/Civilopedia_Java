@@ -1,0 +1,102 @@
+[
+    {
+        "ButtonLabel": "LOC_PARTIALSCREEN_REPORTS_YIELDS",
+        "GameCapability": null,
+        "LuaEvent": "ReportsList_OpenYields",
+        "ReportType": "REPORT_EMPIRE_YIELDS",
+        "RequiresXP1": 0,
+        "RequiresXP2": 0,
+        "SortOrder": 110,
+        "StackID": "EmpireReportsStack"
+    },
+    {
+        "ButtonLabel": "LOC_PARTIALSCREEN_REPORTS_RESOURCES",
+        "GameCapability": null,
+        "LuaEvent": "ReportsList_OpenResources",
+        "ReportType": "REPORT_EMPIRE_RESOURCES",
+        "RequiresXP1": 0,
+        "RequiresXP2": 0,
+        "SortOrder": 120,
+        "StackID": "EmpireReportsStack"
+    },
+    {
+        "ButtonLabel": "LOC_HUD_REPORTS_TAB_CITIES",
+        "GameCapability": null,
+        "LuaEvent": "ReportsList_OpenCityStatus",
+        "ReportType": "REPORT_EMPIRE_CITY_STATUS",
+        "RequiresXP1": 0,
+        "RequiresXP2": 0,
+        "SortOrder": 130,
+        "StackID": "EmpireReportsStack"
+    },
+    {
+        "ButtonLabel": "LOC_PARTIALSCREEN_REPORTS_GOSSIP",
+        "GameCapability": "CAPABILITY_GOSSIP_REPORT",
+        "LuaEvent": "ReportsList_OpenGossip",
+        "ReportType": "REPORT_EMPIRE_GOSSIP",
+        "RequiresXP1": 0,
+        "RequiresXP2": 0,
+        "SortOrder": 135,
+        "StackID": "EmpireReportsStack"
+    },
+    {
+        "ButtonLabel": "LOC_PARTIALSCREEN_REPORTS_RESOURCES",
+        "GameCapability": "CAPABILITY_DIPLOMACY_DEALS",
+        "LuaEvent": "GlobalReportsList_OpenResources",
+        "ReportType": "REPORT_GLOBAL_RESOURCES",
+        "RequiresXP1": 0,
+        "RequiresXP2": 0,
+        "SortOrder": 510,
+        "StackID": "GlobalReportsStack"
+    },
+    {
+        "ButtonLabel": "LOC_HUD_REPORTS_TAB_DEALS",
+        "GameCapability": null,
+        "LuaEvent": "ReportsList_OpenDeals",
+        "ReportType": "REPORT_EMPIRE_DEALS",
+        "RequiresXP1": 0,
+        "RequiresXP2": 0,
+        "SortOrder": 140,
+        "StackID": "EmpireReportsStack"
+    },
+    {
+        "ButtonLabel": "LOC_HUD_REPORTS_TAB_UNITS",
+        "GameCapability": null,
+        "LuaEvent": "ReportsList_OpenUnits",
+        "ReportType": "REPORT_EMPIRE_UNITS",
+        "RequiresXP1": 0,
+        "RequiresXP2": 0,
+        "SortOrder": 150,
+        "StackID": "EmpireReportsStack"
+    },
+    {
+        "ButtonLabel": "LOC_HUD_REPORTS_TAB_POLICIES",
+        "GameCapability": null,
+        "LuaEvent": "ReportsList_OpenPolicies",
+        "ReportType": "REPORT_EMPIRE_POLICIES",
+        "RequiresXP1": 0,
+        "RequiresXP2": 0,
+        "SortOrder": 160,
+        "StackID": "EmpireReportsStack"
+    },
+    {
+        "ButtonLabel": "LOC_HUD_REPORTS_TAB_MINORS",
+        "GameCapability": null,
+        "LuaEvent": "ReportsList_OpenMinors",
+        "ReportType": "REPORT_EMPIRE_MINORS",
+        "RequiresXP1": 0,
+        "RequiresXP2": 0,
+        "SortOrder": 170,
+        "StackID": "EmpireReportsStack"
+    },
+    {
+        "ButtonLabel": "LOC_HUD_REPORTS_TAB_CITIES2",
+        "GameCapability": null,
+        "LuaEvent": "ReportsList_OpenCities2",
+        "ReportType": "REPORT_EMPIRE_CITIES2",
+        "RequiresXP1": 0,
+        "RequiresXP2": 1,
+        "SortOrder": 180,
+        "StackID": "EmpireReportsStack"
+    }
+]

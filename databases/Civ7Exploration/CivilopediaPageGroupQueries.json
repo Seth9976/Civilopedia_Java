@@ -1,0 +1,6 @@
+[
+    {
+        "SQL": "SELECT ProgressionTreeType as PageGroupID, Name, 20 as SortIndex FROM ProgressionTrees WHERE ProgressionTreeType in (SELECT UniqueCultureProgressionTree from Civilizations)",
+        "SectionID": "CULTURE"
+    }
+]

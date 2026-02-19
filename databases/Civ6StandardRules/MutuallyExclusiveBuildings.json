@@ -1,0 +1,46 @@
+[
+    {
+        "Building": "BUILDING_STABLE",
+        "MutuallyExclusiveBuilding": "BUILDING_BARRACKS"
+    },
+    {
+        "Building": "BUILDING_BARRACKS",
+        "MutuallyExclusiveBuilding": "BUILDING_STABLE"
+    },
+    {
+        "Building": "BUILDING_MUSEUM_ART",
+        "MutuallyExclusiveBuilding": "BUILDING_MUSEUM_ARTIFACT"
+    },
+    {
+        "Building": "BUILDING_MUSEUM_ARTIFACT",
+        "MutuallyExclusiveBuilding": "BUILDING_MUSEUM_ART"
+    },
+    {
+        "Building": "BUILDING_SMALL_ROCKET",
+        "MutuallyExclusiveBuilding": "BUILDING_MEDIUM_ROCKET"
+    },
+    {
+        "Building": "BUILDING_SMALL_ROCKET",
+        "MutuallyExclusiveBuilding": "BUILDING_LARGE_ROCKET"
+    },
+    {
+        "Building": "BUILDING_MEDIUM_ROCKET",
+        "MutuallyExclusiveBuilding": "BUILDING_SMALL_ROCKET"
+    },
+    {
+        "Building": "BUILDING_MEDIUM_ROCKET",
+        "MutuallyExclusiveBuilding": "BUILDING_LARGE_ROCKET"
+    },
+    {
+        "Building": "BUILDING_LARGE_ROCKET",
+        "MutuallyExclusiveBuilding": "BUILDING_SMALL_ROCKET"
+    },
+    {
+        "Building": "BUILDING_LARGE_ROCKET",
+        "MutuallyExclusiveBuilding": "BUILDING_MEDIUM_ROCKET"
+    },
+    {
+        "Building": "BUILDING_BASILIKOI_PAIDES",
+        "MutuallyExclusiveBuilding": "BUILDING_STABLE"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "BuildingYield": "YIELD_FOOD",
+        "IncludeDefense": 0,
+        "IncludeMilitaryUnits": 0,
+        "IncludePopulation": 1,
+        "IncludeTradeUnits": 0,
+        "PrioritizationYield": "YIELD_FOOD",
+        "PriorityOffset": 0,
+        "SpecializationType": "BUILD_FOR_FOOD"
+    },
+    {
+        "BuildingYield": "YIELD_PRODUCTION",
+        "IncludeDefense": 0,
+        "IncludeMilitaryUnits": 0,
+        "IncludePopulation": 0,
+        "IncludeTradeUnits": 0,
+        "PrioritizationYield": "YIELD_PRODUCTION",
+        "PriorityOffset": 0,
+        "SpecializationType": "BUILD_FOR_PRODUCTION"
+    },
+    {
+        "BuildingYield": "YIELD_GOLD",
+        "IncludeDefense": 0,
+        "IncludeMilitaryUnits": 0,
+        "IncludePopulation": 0,
+        "IncludeTradeUnits": 0,
+        "PrioritizationYield": "YIELD_GOLD",
+        "PriorityOffset": 0,
+        "SpecializationType": "BUILD_FOR_GOLD"
+    },
+    {
+        "BuildingYield": "YIELD_SCIENCE",
+        "IncludeDefense": 0,
+        "IncludeMilitaryUnits": 0,
+        "IncludePopulation": 0,
+        "IncludeTradeUnits": 0,
+        "PrioritizationYield": "YIELD_SCIENCE",
+        "PriorityOffset": 0,
+        "SpecializationType": "BUILD_FOR_SCIENCE"
+    },
+    {
+        "BuildingYield": "YIELD_CULTURE",
+        "IncludeDefense": 0,
+        "IncludeMilitaryUnits": 0,
+        "IncludePopulation": 0,
+        "IncludeTradeUnits": 0,
+        "PrioritizationYield": "YIELD_CULTURE",
+        "PriorityOffset": 0,
+        "SpecializationType": "BUILD_FOR_CULTURE"
+    },
+    {
+        "BuildingYield": "YIELD_FAITH",
+        "IncludeDefense": 0,
+        "IncludeMilitaryUnits": 0,
+        "IncludePopulation": 0,
+        "IncludeTradeUnits": 0,
+        "PrioritizationYield": "YIELD_FAITH",
+        "PriorityOffset": 0,
+        "SpecializationType": "BUILD_FOR_FAITH"
+    },
+    {
+        "BuildingYield": null,
+        "IncludeDefense": 1,
+        "IncludeMilitaryUnits": 0,
+        "IncludePopulation": 0,
+        "IncludeTradeUnits": 0,
+        "PrioritizationYield": "YIELD_PRODUCTION",
+        "PriorityOffset": 0,
+        "SpecializationType": "BUILD_CITY_DEFENSES"
+    },
+    {
+        "BuildingYield": null,
+        "IncludeDefense": 0,
+        "IncludeMilitaryUnits": 1,
+        "IncludePopulation": 0,
+        "IncludeTradeUnits": 0,
+        "PrioritizationYield": "YIELD_PRODUCTION",
+        "PriorityOffset": 0,
+        "SpecializationType": "BUILD_MILITARY_UNITS"
+    },
+    {
+        "BuildingYield": null,
+        "IncludeDefense": 0,
+        "IncludeMilitaryUnits": 0,
+        "IncludePopulation": 0,
+        "IncludeTradeUnits": 1,
+        "PrioritizationYield": "YIELD_GOLD",
+        "PriorityOffset": 0,
+        "SpecializationType": "BUILD_TRADE_UNITS"
+    }
+]

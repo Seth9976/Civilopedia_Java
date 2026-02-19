@@ -1,0 +1,2182 @@
+[
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_AKSUM",
+        "Description": "LOC_TRAIT_AKSUM_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_AKSUM_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_AKSUM_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_AKSUM",
+        "Description": "LOC_UNIT_DHOW_BASE_DESCRIPTION",
+        "Icon": "ICON_UNIT_DHOW",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_DHOW_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_DHOW"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_AKSUM",
+        "Description": "LOC_UNIT_TANKWA_DESCRIPTION",
+        "Icon": "ICON_UNIT_TANKWA",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_TANKWA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_TANKWA"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_AKSUM",
+        "Description": "LOC_IMPROVEMENT_HAWELT_DESCRIPTION",
+        "Icon": "ICON_IMPROVEMENT_HAWELT",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_HAWELT_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_HAWELT"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "Description": "LOC_TRAIT_EGYPT_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_EGYPT_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_EGYPT_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "Description": "LOC_UNIT_MEDJAY_BASE_DESCRIPTION",
+        "Icon": "ICON_UNIT_MEDJAY",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_MEDJAY_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_MEDJAY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "Description": "LOC_UNIT_TJATY_DESCRIPTION",
+        "Icon": "ICON_UNIT_TJATY",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_TJATY_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_TJATY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "Description": "LOC_QUARTER_NECROPOLIS_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_NECROPOLIS_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_NECROPOLIS"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "Description": "LOC_BUILDING_MASTABA_DESCRIPTION",
+        "Icon": "ICON_BUILDING_MASTABA",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_MASTABA_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_MASTABA"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "Description": "LOC_BUILDING_MORTUARY_TEMPLE_DESCRIPTION",
+        "Icon": "ICON_BUILDING_MORTUARY_TEMPLE",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_MORTUARY_TEMPLE_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_MORTUARY_TEMPLE"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "Description": "LOC_TRAIT_GREECE_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_GREECE_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_GREECE_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "Description": "LOC_UNIT_HOPLITE_BASE_DESCRIPTION",
+        "Icon": "ICON_UNIT_HOPLITE",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_HOPLITE_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_HOPLITE"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "Description": "LOC_UNIT_LOGIOS_DESCRIPTION",
+        "Icon": "ICON_UNIT_LOGIOS",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_LOGIOS_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_LOGIOS"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "Description": "LOC_QUARTER_ACROPOLIS_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_ACROPOLIS_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_ACROPOLIS"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "Description": "LOC_BUILDING_ODEON_DESCRIPTION",
+        "Icon": "ICON_BUILDING_ODEON",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_ODEON_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_ODEON"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "Description": "LOC_BUILDING_PARTHENON_DESCRIPTION",
+        "Icon": "ICON_BUILDING_PARTHENON",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_PARTHENON_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_PARTHENON"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_HAN",
+        "Description": "LOC_TRAIT_HAN_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_HAN_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_HAN_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_HAN",
+        "Description": "LOC_UNIT_NU_BASE_DESCRIPTION",
+        "Icon": "ICON_UNIT_NU",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_NU_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_NU"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_HAN",
+        "Description": "LOC_UNIT_SHI_DAFU_DESCRIPTION",
+        "Icon": "ICON_UNIT_SHI_DAFU",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_SHI_DAFU_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_SHI_DAFU"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_HAN",
+        "Description": "LOC_IMPROVEMENT_HAN_GREAT_WALL_DESCRIPTION",
+        "Icon": "ICON_IMPROVEMENT_HAN_GREAT_WALL",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_HAN_GREAT_WALL_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_HAN_GREAT_WALL"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "Description": "LOC_TRAIT_KHMER_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_KHMER_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_KHMER_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "Description": "LOC_UNIT_DANTINAS_TATHA_BASE_DESCRIPTION",
+        "Icon": "ICON_UNIT_DANTINAS_TATHA",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_DANTINAS_TATHA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_DANTINAS_TATHA"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "Description": "LOC_UNIT_VAISHYA_DESCRIPTION",
+        "Icon": "ICON_UNIT_VAISHYA",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_VAISHYA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_VAISHYA"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "Description": "LOC_IMPROVEMENT_BARAY_DESCRIPTION",
+        "Icon": "ICON_IMPROVEMENT_BARAY",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_BARAY_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_BARAY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAURYA",
+        "Description": "LOC_TRAIT_MAURYA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_MAURYA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_MAURYA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAURYA",
+        "Description": "LOC_UNIT_PURABHETTARAH_BASE_DESCRIPTION",
+        "Icon": "ICON_UNIT_PURABHETTARAH",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_PURABHETTARAH_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_PURABHETTARAH"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAURYA",
+        "Description": "LOC_UNIT_NAGARIKA_DESCRIPTION",
+        "Icon": "ICON_UNIT_NAGARIKA",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_NAGARIKA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_NAGARIKA"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAURYA",
+        "Description": "LOC_QUARTER_MATHA_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_MATHA_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_MATHA"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAURYA",
+        "Description": "LOC_BUILDING_DHARAMSHALA_DESCRIPTION",
+        "Icon": "ICON_BUILDING_DHARAMSHALA",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_DHARAMSHALA_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_DHARAMSHALA"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAURYA",
+        "Description": "LOC_BUILDING_VIHARA_DESCRIPTION",
+        "Icon": "ICON_BUILDING_VIHARA",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_VIHARA_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_VIHARA"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "Description": "LOC_TRAIT_MAYA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_MAYA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_MAYA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "Description": "LOC_UNIT_HULCHE_BASE_DESCRIPTION",
+        "Icon": "ICON_UNIT_HULCHE",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_HULCHE_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_HULCHE"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "Description": "LOC_UNIT_JAGUAR_SLAYER_DESCRIPTION",
+        "Icon": "ICON_UNIT_JAGUAR_SLAYER",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_JAGUAR_SLAYER_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_JAGUAR_SLAYER"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "Description": "LOC_QUARTER_UWAYBIL_KUH_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_UWAYBIL_KUH_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_UWAYBIL_KUH"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "Description": "LOC_BUILDING_JALAW_DESCRIPTION",
+        "Icon": "ICON_BUILDING_JALAW",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_JALAW_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_JALAW"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "Description": "LOC_BUILDING_KUH_NAH_DESCRIPTION",
+        "Icon": "ICON_BUILDING_KUH_NAH",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_KUH_NAH_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_KUH_NAH"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MISSISSIPPIAN",
+        "Description": "LOC_TRAIT_MISSISSIPPIAN_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_MISSISSIPPIAN_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_MISSISSIPPIAN_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MISSISSIPPIAN",
+        "Description": "LOC_UNIT_BURNING_ARROW_BASE_DESCRIPTION",
+        "Icon": "ICON_UNIT_BURNING_ARROW",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_BURNING_ARROW_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_BURNING_ARROW"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MISSISSIPPIAN",
+        "Description": "LOC_UNIT_WATONATHI_DESCRIPTION",
+        "Icon": "ICON_UNIT_WATONATHI",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_WATONATHI_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_WATONATHI"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MISSISSIPPIAN",
+        "Description": "LOC_IMPROVEMENT_POTKOP_DESCRIPTION",
+        "Icon": "ICON_IMPROVEMENT_POTKOP",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_POTKOP_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_POTKOP"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "Description": "LOC_TRAIT_PERSIA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_PERSIA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_PERSIA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "Description": "LOC_UNIT_IMMORTAL_BASE_DESCRIPTION",
+        "Icon": "ICON_UNIT_IMMORTAL_TEMPLE",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_IMMORTAL_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_IMMORTAL"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "Description": "LOC_UNIT_HAZARAPATIS_DESCRIPTION",
+        "Icon": "ICON_UNIT_HAZARAPATIS",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_HAZARAPATIS_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_HAZARAPATIS"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "Description": "LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION",
+        "Icon": "ICON_IMPROVEMENT_PAIRIDAEZA",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_PAIRIDAEZA_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_PAIRIDAEZA"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "Description": "LOC_TRAIT_ROME_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_ROME_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_ROME_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "Description": "LOC_UNIT_LEGION_BASE_DESCRIPTION",
+        "Icon": "ICON_UNIT_LEGION_TEMPLE",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_LEGION_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_LEGION"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "Description": "LOC_UNIT_LEGATUS_DESCRIPTION",
+        "Icon": "ICON_UNIT_LEGATUS",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_LEGATUS_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_LEGATUS"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "Description": "LOC_QUARTER_FORUM_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_FORUM_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_FORUM"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "Description": "LOC_BUILDING_BASILICA_DESCRIPTION",
+        "Icon": "ICON_BUILDING_BASILICA",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_BASILICA_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_BASILICA"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "Description": "LOC_BUILDING_TEMPLE_OF_JUPITER_DESCRIPTION",
+        "Icon": "ICON_BUILDING_TEMPLE_OF_JUPITER",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_TEMPLE_OF_JUPITER_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_TEMPLE_OF_JUPITER"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ABBASID",
+        "Description": "LOC_TRAIT_ABBASID_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_ABBASID_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_ABBASID_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ABBASID",
+        "Description": "LOC_UNIT_MAMLUK_BASE_DESCRIPTION",
+        "Icon": "unitflag_mamluk.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_MAMLUK_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_MAMLUK"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ABBASID",
+        "Description": "LOC_UNIT_ALIM_DESCRIPTION",
+        "Icon": "unitflag_alim.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_ALIM_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_ALIM"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ABBASID",
+        "Description": "LOC_QUARTER_ULEMA_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_ULEMA_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_ULEMA"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ABBASID",
+        "Description": "LOC_BUILDING_MADRASA_DESCRIPTION",
+        "Icon": "buildicon_madrasa.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_MADRASA_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_MADRASA"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ABBASID",
+        "Description": "LOC_BUILDING_MOSQUE_DESCRIPTION",
+        "Icon": "buildicon_mosque.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_MOSQUE_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_MOSQUE"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_CHOLA",
+        "Description": "LOC_TRAIT_CHOLA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_CHOLA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_CHOLA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_CHOLA",
+        "Description": "LOC_UNIT_KALAM_BASE_DESCRIPTION",
+        "Icon": "unitflag_thirisadai.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_KALAM_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_KALAM"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_CHOLA",
+        "Description": "LOC_UNIT_OTTRU_DESCRIPTION",
+        "Icon": "unitflag_ottru.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_OTTRU_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_OTTRU"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_CHOLA",
+        "Description": "LOC_QUARTER_FIVE_HUNDRED_LORDS_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_FIVE_HUNDRED_LORDS_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_FIVE_HUNDRED_LORDS"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_CHOLA",
+        "Description": "LOC_BUILDING_MANIGRAMAM_DESCRIPTION",
+        "Icon": "buildicon_manigramam.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_MANIGRAMAM_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_MANIGRAMAM"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_CHOLA",
+        "Description": "LOC_BUILDING_ANJUVANNAM_DESCRIPTION",
+        "Icon": "buildicon_anjuvannam.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_ANJUVANNAM_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_ANJUVANNAM"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_HAWAII",
+        "Description": "LOC_TRAIT_HAWAII_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_HAWAII_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_HAWAII_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_HAWAII",
+        "Description": "LOC_UNIT_LEIOMANO_BASE_DESCRIPTION",
+        "Icon": "unitflag_leiomano.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_LEIOMANO_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_LEIOMANO"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_HAWAII",
+        "Description": "LOC_UNIT_KAHUNA_DESCRIPTION",
+        "Icon": "unitflag_kahuna.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_KAHUNA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_KAHUNA"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_HAWAII",
+        "Description": "LOC_IMPROVEMENT_LO_I_KALO_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_LO_I_KALO_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_LO_I_KALO"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_INCA",
+        "Description": "LOC_TRAIT_INCA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_INCA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_INCA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_INCA",
+        "Description": "LOC_UNIT_WARAKAQ_BASE_DESCRIPTION",
+        "Icon": "unitflag_warakaq.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_WARAKAQ_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_WARAKAQ"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_INCA",
+        "Description": "LOC_UNIT_CHASQUI_DESCRIPTION",
+        "Icon": "unitflag_chasqui.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_CHASQUI_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_CHASQUI"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_INCA",
+        "Description": "LOC_IMPROVEMENT_TERRACE_FARM_DESCRIPTION",
+        "Icon": "impicon_terracefarm.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_TERRACE_FARM_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_TERRACE_FARM"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAJAPAHIT",
+        "Description": "LOC_TRAIT_MAJAPAHIT_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_MAJAPAHIT_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_MAJAPAHIT_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAJAPAHIT",
+        "Description": "LOC_UNIT_CETBANG_BASE_DESCRIPTION",
+        "Icon": "unitflag_cetbang.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_CETBANG_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_CETBANG"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAJAPAHIT",
+        "Description": "LOC_UNIT_PEDANDA_DESCRIPTION",
+        "Icon": "unitflag_pedanda.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_PEDANDA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_PEDANDA"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAJAPAHIT",
+        "Description": "LOC_QUARTER_PURA_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_PURA_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_PURA"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAJAPAHIT",
+        "Description": "LOC_BUILDING_MERU_DESCRIPTION",
+        "Icon": "buildicon_meru.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_MERU_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_MERU"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MAJAPAHIT",
+        "Description": "LOC_BUILDING_CANDI_BENTAR_DESCRIPTION",
+        "Icon": "buildicon_candi.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_CANDI_BENTAR_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_CANDI_BENTAR"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MING",
+        "Description": "LOC_TRAIT_MING_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_MING_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_MING_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MING",
+        "Description": "LOC_UNIT_XUNLEICHONG_BASE_DESCRIPTION",
+        "Icon": "unitflag_xunleichong.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_XUNLEICHONG_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_XUNLEICHONG"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MING",
+        "Description": "LOC_UNIT_MANDARIN_DESCRIPTION",
+        "Icon": "unitflag_mandarin.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_MANDARIN_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_MANDARIN"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MING",
+        "Description": "LOC_IMPROVEMENT_MING_GREAT_WALL_DESCRIPTION",
+        "Icon": "impicon_minggreatwall.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_MING_GREAT_WALL_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_MING_GREAT_WALL"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "Description": "LOC_TRAIT_MONGOLIA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_MONGOLIA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_MONGOLIA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "Description": "LOC_UNIT_KESHIG_BASE_DESCRIPTION",
+        "Icon": "unitflag_keshig.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_KESHIG_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_KESHIG"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "Description": "LOC_UNIT_NOYAN_DESCRIPTION",
+        "Icon": "unitflag_noyan.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_NOYAN_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_NOYAN"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "Description": "LOC_IMPROVEMENT_ORTOO_DESCRIPTION",
+        "Icon": "impicon_ortoo.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_ORTOO_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_ORTOO"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_NORMAN",
+        "Description": "LOC_TRAIT_NORMAN_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_NORMAN_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_NORMAN_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_NORMAN",
+        "Description": "LOC_UNIT_CHEVALER_BASE_DESCRIPTION",
+        "Icon": "unitflag_chevaler.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_CHEVALER_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_CHEVALER"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_NORMAN",
+        "Description": "LOC_UNIT_SOKEMAN_DESCRIPTION",
+        "Icon": "unitflag_sokeman.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_SOKEMAN_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_SOKEMAN"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_NORMAN",
+        "Description": "LOC_QUARTER_DONJON_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_DONJON_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_DONJON"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_NORMAN",
+        "Description": "LOC_BUILDING_BAILEY_DESCRIPTION",
+        "Icon": "buildicon_bailey.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_BAILEY_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_BAILEY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_NORMAN",
+        "Description": "LOC_BUILDING_MOTTE_DESCRIPTION",
+        "Icon": "buildicon_motte.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_MOTTE_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_MOTTE"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SONGHAI",
+        "Description": "LOC_TRAIT_SONGHAI_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_SONGHAI_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_SONGHAI_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SONGHAI",
+        "Description": "LOC_UNIT_GOLD_BANGLES_BASE_DESCRIPTION",
+        "Icon": "unitflag_goldbangles.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_GOLD_BANGLES_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_GOLD_BANGLES"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SONGHAI",
+        "Description": "LOC_UNIT_TAJIRO_DESCRIPTION",
+        "Icon": "unitflag_tajiro.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_TAJIRO_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_TAJIRO"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SONGHAI",
+        "Description": "LOC_IMPROVEMENT_CARAVANSERAI_DESCRIPTION",
+        "Icon": "impicon_caravanserai.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_CARAVANSERAI_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_CARAVANSERAI"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "Description": "LOC_TRAIT_SPAIN_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_SPAIN_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_SPAIN_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "Description": "LOC_UNIT_TERCIO_BASE_DESCRIPTION",
+        "Icon": "unitflag_tercio.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_TERCIO_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_TERCIO"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "Description": "LOC_UNIT_CONQUISTADOR_DESCRIPTION",
+        "Icon": "unitflag_conquistador.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_CONQUISTADOR_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_CONQUISTADOR"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "Description": "LOC_QUARTER_PLAZA_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_PLAZA_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_PLAZA"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "Description": "LOC_BUILDING_CASA_CONSISTORIAL_DESCRIPTION",
+        "Icon": "buildicon_casaconsistorial.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_CASA_CONSISTORIAL_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_CASA_CONSISTORIAL"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "Description": "LOC_BUILDING_CASA_DE_CONTRATACION_DESCRIPTION",
+        "Icon": "buildicon_casadecontratacion.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_CASA_DE_CONTRATACION_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_CASA_DE_CONTRATACION"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "Description": "LOC_TRAIT_AMERICA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_AMERICA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_AMERICA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "Description": "LOC_UNIT_MARINE_BASE_DESCRIPTION",
+        "Icon": "unitflag_marine.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_MARINE_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_MARINE"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "Description": "LOC_UNIT_PROSPECTOR_DESCRIPTION",
+        "Icon": "unitflag_prospector.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_PROSPECTOR_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_PROSPECTOR"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "Description": "LOC_QUARTER_INDUSTRIAL_PARK_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_INDUSTRIAL_PARK_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_INDUSTRIAL_PARK"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "Description": "LOC_BUILDING_RAILYARD_DESCRIPTION",
+        "Icon": "buildicon_railyard.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_RAILYARD_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_RAILYARD"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "Description": "LOC_BUILDING_STEEL_MILL_DESCRIPTION",
+        "Icon": "buildicon_steelmill.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_STEEL_MILL_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_STEEL_MILL"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_BUGANDA",
+        "Description": "LOC_TRAIT_BUGANDA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_BUGANDA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_BUGANDA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_BUGANDA",
+        "Description": "LOC_UNIT_ABAMBOWA_BASE_DESCRIPTION",
+        "Icon": "unitflag_abambowa.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_ABAMBOWA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_ABAMBOWA"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_BUGANDA",
+        "Description": "LOC_UNIT_MWAMI_DESCRIPTION",
+        "Icon": "unitflag_mwami.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_MWAMI_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_MWAMI"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_BUGANDA",
+        "Description": "LOC_IMPROVEMENT_KABAKAS_LAKE_DESCRIPTION",
+        "Icon": "impicon_kabakaslake.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_KABAKAS_LAKE_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_KABAKAS_LAKE"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_FRENCH_EMPIRE",
+        "Description": "LOC_TRAIT_FRENCH_EMPIRE_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_FRENCH_EMPIRE_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_FRENCH_EMPIRE_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_FRENCH_EMPIRE",
+        "Description": "LOC_UNIT_GARDE_IMPERIALE_BASE_DESCRIPTION",
+        "Icon": "unitflag_gardeimperiale.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_GARDE_IMPERIALE_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_GARDE_IMPERIALE"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_FRENCH_EMPIRE",
+        "Description": "LOC_UNIT_JACOBIN_DESCRIPTION",
+        "Icon": "unitflag_jacobin.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_JACOBIN_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_JACOBIN"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_FRENCH_EMPIRE",
+        "Description": "LOC_QUARTER_AVENUE_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_AVENUE_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_AVENUE"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_FRENCH_EMPIRE",
+        "Description": "LOC_BUILDING_FORMAL_GARDEN_DESCRIPTION",
+        "Icon": "buildicon_formalgarden.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_FORMAL_GARDEN_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_FORMAL_GARDEN"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_FRENCH_EMPIRE",
+        "Description": "LOC_BUILDING_SALON_DESCRIPTION",
+        "Icon": "buildicon_salon.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_SALON_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_SALON"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MEIJI",
+        "Description": "LOC_TRAIT_MEIJI_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_MEIJI_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_MEIJI_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MEIJI",
+        "Description": "LOC_UNIT_MIKASA_BASE_DESCRIPTION",
+        "Icon": "unitflag_mikasa.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_MIKASA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_MIKASA"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MEIJI",
+        "Description": "LOC_UNIT_ZERO_BASE_DESCRIPTION",
+        "Icon": "unitflag_zero.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_ZERO_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_ZERO"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MEIJI",
+        "Description": "LOC_QUARTER_ZAIBATSU_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_ZAIBATSU_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_ZAIBATSU"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MEIJI",
+        "Description": "LOC_BUILDING_GINKO_DESCRIPTION",
+        "Icon": "buildicon_ginko.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_GINKO_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_GINKO"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MEIJI",
+        "Description": "LOC_BUILDING_JUKOGYO_DESCRIPTION",
+        "Icon": "buildicon_jukogyuo.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_JUKOGYO_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_JUKOGYO"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MEXICO",
+        "Description": "LOC_TRAIT_MEXICO_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_MEXICO_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_MEXICO_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MEXICO",
+        "Description": "LOC_UNIT_SOLDADERAS_BASE_DESCRIPTION",
+        "Icon": "unitflag_soldaderas.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_SOLDADERAS_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_SOLDADERAS"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MEXICO",
+        "Description": "LOC_UNIT_REVOLUCIONARIO_DESCRIPTION",
+        "Icon": "unitflag_revolucionario.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_REVOLUCIONARIO_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_REVOLUCIONARIO"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MEXICO",
+        "Description": "LOC_QUARTER_ZOCALO_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_ZOCALO_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_ZOCALO"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MEXICO",
+        "Description": "LOC_BUILDING_CATEDRAL_DESCRIPTION",
+        "Icon": "buildicon_catedral.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_CATEDRAL_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_CATEDRAL"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MEXICO",
+        "Description": "LOC_BUILDING_PORTAL_DE_MERCADERES_DESCRIPTION",
+        "Icon": "buildicon_portal.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_PORTAL_DE_MERCADERES_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_PORTAL_DE_MERCADERES"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MUGHAL",
+        "Description": "LOC_TRAIT_MUGHAL_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_MUGHAL_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_MUGHAL_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MUGHAL",
+        "Description": "LOC_UNIT_SEPOY_BASE_DESCRIPTION",
+        "Icon": "unitflag_sepoy.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_SEPOY_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_SEPOY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MUGHAL",
+        "Description": "LOC_UNIT_ZAMINDAR_DESCRIPTION",
+        "Icon": "unitflag_zamindar.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_ZAMINDAR_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_ZAMINDAR"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_MUGHAL",
+        "Description": "LOC_IMPROVEMENT_STEPWELL_DESCRIPTION",
+        "Icon": "impicon_stepwell.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_STEPWELL_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_STEPWELL"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PRUSSIA",
+        "Description": "LOC_TRAIT_PRUSSIA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_PRUSSIA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_PRUSSIA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PRUSSIA",
+        "Description": "LOC_UNIT_HUSSAR_BASE_DESCRIPTION",
+        "Icon": "unitflag_hussar.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_HUSSAR_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_HUSSAR"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PRUSSIA",
+        "Description": "LOC_UNIT_STUKA_BASE_DESCRIPTION",
+        "Icon": "unitflag_stuka.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_STUKA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_STUKA"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PRUSSIA",
+        "Description": "LOC_ROUTE_STAATSEISENBAHN_DESCRIPTION",
+        "Icon": "impicon_staat.png",
+        "Kind": "KIND_ROUTE",
+        "Name": "LOC_ROUTE_STAATSEISENBAHN_NAME",
+        "SortIndex": 0,
+        "Type": "ROUTE_STAATSEISENBAHN"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_QING",
+        "Description": "LOC_TRAIT_QING_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_QING_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_QING_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_QING",
+        "Description": "LOC_UNIT_GUSA_BASE_DESCRIPTION",
+        "Icon": "unitflag_gusa.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_GUSA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_GUSA"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_QING",
+        "Description": "LOC_UNIT_HANGSHANG_DESCRIPTION",
+        "Icon": "unitflag_hangshang.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_HANGSHANG_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_HANGSHANG"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_QING",
+        "Description": "LOC_QUARTER_HUIGUAN_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_HUIGUAN_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_HUIGUAN"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_QING",
+        "Description": "LOC_BUILDING_EXAMINATION_HALL_DESCRIPTION",
+        "Icon": "buildicon_examhall.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_EXAMINATION_HALL_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_EXAMINATION_HALL"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_QING",
+        "Description": "LOC_BUILDING_MONEY_SHOP_DESCRIPTION",
+        "Icon": "buildicon_moneyshop.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_MONEY_SHOP_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_MONEY_SHOP"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "Description": "LOC_TRAIT_RUSSIA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_RUSSIA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_RUSSIA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "Description": "LOC_UNIT_COSSACK_BASE_DESCRIPTION",
+        "Icon": "unitflag_cossack.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_COSSACK_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_COSSACK"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "Description": "LOC_UNIT_KATYUSHA_BASE_DESCRIPTION",
+        "Icon": "unitflag_katyusha.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_KATYUSHA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_KATYUSHA"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "Description": "LOC_IMPROVEMENT_OBSHCHINA_DESCRIPTION",
+        "Icon": "impicon_obshchina.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_OBSHCHINA_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_OBSHCHINA"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SIAM",
+        "Description": "LOC_TRAIT_SIAM_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_SIAM_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_SIAM_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SIAM",
+        "Description": "LOC_UNIT_CHANG_BEUN_BASE_DESCRIPTION",
+        "Icon": "unitflag_changbeun.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_CHANG_BEUN_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_CHANG_BEUN"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SIAM",
+        "Description": "LOC_UNIT_UPARAT_DESCRIPTION",
+        "Icon": "unitflag_uparat.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_UPARAT_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_UPARAT"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SIAM",
+        "Description": "LOC_IMPROVEMENT_BANG_DESCRIPTION",
+        "Icon": "impicon_bang.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_BANG_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_BANG"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_BULGARIA",
+        "Description": "LOC_TRAIT_BULGARIA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_BULGARIA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_BULGARIA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_BULGARIA",
+        "Description": "LOC_UNIT_BOYAR_BASE_DESCRIPTION",
+        "Icon": "unitflag_leiomano.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_BOYAR_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_BOYAR"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_BULGARIA",
+        "Description": "LOC_UNIT_BALIK_DESCRIPTION",
+        "Icon": "unitflag_BALIK.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_BALIK_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_BALIK"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_BULGARIA",
+        "Description": "LOC_IMPROVEMENT_HIDDEN_FORTRESS_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_HIDDEN_FORTRESS_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_HIDDEN_FORTRESS"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_CARTHAGE",
+        "Description": "LOC_TRAIT_CARTHAGE_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_CARTHAGE_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_CARTHAGE_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_CARTHAGE",
+        "Description": "LOC_UNIT_NUMIDIAN_CAVALRY_BASE_DESCRIPTION",
+        "Icon": "unitflag_leiomano.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_NUMIDIAN_CAVALRY_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_NUMIDIAN_CAVALRY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_CARTHAGE",
+        "Description": "LOC_UNIT_COLONIST_DESCRIPTION",
+        "Icon": "unitflag_COLONIST.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_COLONIST_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_COLONIST"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_CARTHAGE",
+        "Description": "LOC_QUARTER_PUNIC_PORT_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_PUNIC_PORT_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_PUNIC_PORT"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_CARTHAGE",
+        "Description": "LOC_BUILDING_COTHON_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_COTHON_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_COTHON"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_CARTHAGE",
+        "Description": "LOC_BUILDING_DOCKYARD_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_DOCKYARD_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_DOCKYARD"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_DAI_VIET",
+        "Description": "LOC_TRAIT_DAI_VIET_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_DAI_VIET_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_DAI_VIET_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_DAI_VIET",
+        "Description": "LOC_UNIT_VOI_CHIEN_BASE_DESCRIPTION",
+        "Icon": "unitflag_leiomano.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_VOI_CHIEN_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_VOI_CHIEN"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_DAI_VIET",
+        "Description": "LOC_UNIT_VIET_KIEU_DESCRIPTION",
+        "Icon": "unitflag_viet_kieu.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_VIET_KIEU_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_VIET_KIEU"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_DAI_VIET",
+        "Description": "LOC_IMPROVEMENT_WATER_PUPPET_THEATER_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_WATER_PUPPET_THEATER_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_WATER_PUPPET_THEATER"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ICELAND",
+        "Description": "LOC_TRAIT_ICELAND_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_ICELAND_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_ICELAND_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ICELAND",
+        "Description": "LOC_UNIT_VIKINGR_BASE_DESCRIPTION",
+        "Icon": "unitflag_leiomano.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_VIKINGR_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_VIKINGR"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ICELAND",
+        "Description": "LOC_UNIT_SAGA_HERO_DESCRIPTION",
+        "Icon": "unitflag_SAGA_HERO.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_SAGA_HERO_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_SAGA_HERO"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ICELAND",
+        "Description": "LOC_IMPROVEMENT_THING_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_THING_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_THING"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_OTTOMANS",
+        "Description": "LOC_TRAIT_OTTOMANS_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_OTTOMANS_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_OTTOMANS_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_OTTOMANS",
+        "Description": "LOC_UNIT_JANISSARY_BASE_DESCRIPTION",
+        "Icon": "unitflag_leiomano.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_JANISSARY_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_JANISSARY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_OTTOMANS",
+        "Description": "LOC_UNIT_BARBARY_CORSAIR_BASE_DESCRIPTION",
+        "Icon": "unitflag_SHERPA.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_BARBARY_CORSAIR_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_BARBARY_CORSAIR"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_OTTOMANS",
+        "Description": "LOC_QUARTER_KULLIYE_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_KULLIYE_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_KULLIYE"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_OTTOMANS",
+        "Description": "LOC_BUILDING_CAMII_DESCRIPTION",
+        "Icon": "buildicon_formalgarden.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_CAMII_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_CAMII"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_OTTOMANS",
+        "Description": "LOC_BUILDING_HAMMAM_DESCRIPTION",
+        "Icon": "buildicon_salon.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_HAMMAM_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_HAMMAM"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PIRATE_REPUBLIC",
+        "Description": "LOC_TRAIT_PIRATE_REPUBLIC_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_PIRATE_REPUBLIC_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_PIRATE_REPUBLIC_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PIRATE_REPUBLIC",
+        "Description": "LOC_UNIT_SLOOP_BASE_DESCRIPTION",
+        "Icon": "unitflag_sloop.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_SLOOP_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_SLOOP"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PIRATE_REPUBLIC",
+        "Description": "LOC_UNIT_BUCCANEER_DESCRIPTION",
+        "Icon": "unitflag_BUCCANEER.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_BUCCANEER_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_BUCCANEER"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PIRATE_REPUBLIC",
+        "Description": "LOC_QUARTER_HAVEN_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_HAVEN_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_HAVEN"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PIRATE_REPUBLIC",
+        "Description": "LOC_BUILDING_NAVAL_ARSENAL_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_NAVAL_ARSENAL_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_NAVAL_ARSENAL"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_PIRATE_REPUBLIC",
+        "Description": "LOC_BUILDING_NAVAL_STATION_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_NAVAL_STATION_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_NAVAL_STATION"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SHAWNEE",
+        "Description": "LOC_TRAIT_SHAWNEE_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_SHAWNEE_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_SHAWNEE_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SHAWNEE",
+        "Description": "LOC_UNIT_KISPOKO_NENA_TO_BASE_DESCRIPTION",
+        "Icon": "unitflag_leiomano.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_KISPOKO_NENA_TO_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_KISPOKO_NENA_TO"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SHAWNEE",
+        "Description": "LOC_UNIT_HOCEEPKILENI_DESCRIPTION",
+        "Icon": "unitflag_HOCEEPKILENI.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_HOCEEPKILENI_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_HOCEEPKILENI"
+    },
+    {
+        "CivilizationDomain": "ExplorationAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SHAWNEE",
+        "Description": "LOC_IMPROVEMENT_MAWASKAWE_SKOTE_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_MAWASKAWE_SKOTE_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_MAWASKAWE_SKOTE"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SILLA",
+        "Description": "LOC_TRAIT_SILLA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_SILLA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_SILLA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SILLA",
+        "Description": "LOC_UNIT_HWARANG_BASE_DESCRIPTION",
+        "Icon": "unitflag_leiomano.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_HWARANG_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_HWARANG"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SILLA",
+        "Description": "LOC_UNIT_SANGDAEDEUNG_DESCRIPTION",
+        "Icon": "unitflag_SANGDAEDEUNG.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_SANGDAEDEUNG_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_SANGDAEDEUNG"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SILLA",
+        "Description": "LOC_QUARTER_DRAGON_TEMPLE_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_DRAGON_TEMPLE_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_DRAGON_TEMPLE"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SILLA",
+        "Description": "LOC_BUILDING_LECTURE_HALL_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_LECTURE_HALL_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_LECTURE_HALL"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_SILLA",
+        "Description": "LOC_BUILDING_PAGODA_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_PAGODA_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_PAGODA"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_TONGA",
+        "Description": "LOC_TRAIT_TONGA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_TONGA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_TONGA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_TONGA",
+        "Description": "LOC_UNIT_TEHINA_DESCRIPTION",
+        "Icon": "unitflag_leiomano.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_TEHINA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_TEHINA"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_TONGA",
+        "Description": "LOC_UNIT_KALIA_BASE_DESCRIPTION",
+        "Icon": "unitflag_KALIA.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_KALIA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_KALIA"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_TONGA",
+        "Description": "LOC_QUARTER_TOFI_A_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_TOFI_A_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_TOFI_A"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_TONGA",
+        "Description": "LOC_BUILDING_LANGI_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_LANGI_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_LANGI"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_TONGA",
+        "Description": "LOC_BUILDING_VAI_KAUKAU_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_VAI_KAUKAU_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_VAI_KAUKAU"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_GREAT_BRITAIN",
+        "Description": "LOC_TRAIT_GREAT_BRITAIN_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_GREAT_BRITAIN_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_GREAT_BRITAIN_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_GREAT_BRITAIN",
+        "Description": "LOC_UNIT_REVENGE_BASE_DESCRIPTION",
+        "Icon": "unitflag_leiomano.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_REVENGE_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_REVENGE"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_GREAT_BRITAIN",
+        "Description": "LOC_UNIT_ANTIQUARIAN_DESCRIPTION",
+        "Icon": "unitflag_SHERPA.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_ANTIQUARIAN_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_ANTIQUARIAN"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_GREAT_BRITAIN",
+        "Description": "LOC_QUARTER_FINANCIAL_CENTRE_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_FINANCIAL_CENTRE_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_FINANCIAL_CENTRE"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_GREAT_BRITAIN",
+        "Description": "LOC_BUILDING_ROYAL_EXCHANGE_DESCRIPTION",
+        "Icon": "buildicon_formalgarden.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_ROYAL_EXCHANGE_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_ROYAL_EXCHANGE"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_GREAT_BRITAIN",
+        "Description": "LOC_BUILDING_MANUFACTORY_DESCRIPTION",
+        "Icon": "buildicon_salon.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_MANUFACTORY_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_MANUFACTORY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_NEPAL",
+        "Description": "LOC_TRAIT_NEPAL_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_NEPAL_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_NEPAL_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_NEPAL",
+        "Description": "LOC_UNIT_GURKHA_BASE_DESCRIPTION",
+        "Icon": "unitflag_leiomano.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_GURKHA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_GURKHA"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_NEPAL",
+        "Description": "LOC_UNIT_SHERPA_DESCRIPTION",
+        "Icon": "unitflag_SHERPA.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_SHERPA_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_SHERPA"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_NEPAL",
+        "Description": "LOC_IMPROVEMENT_HIGHLAND_POWER_STATION_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_IMPROVEMENT",
+        "Name": "LOC_IMPROVEMENT_HIGHLAND_POWER_STATION_NAME",
+        "SortIndex": 0,
+        "Type": "IMPROVEMENT_HIGHLAND_POWER_STATION"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ASSYRIA",
+        "Description": "LOC_TRAIT_ASSYRIA_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_ASSYRIA_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_ASSYRIA_ABILITY"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ASSYRIA",
+        "Description": "LOC_UNIT_MAGARRU_BASE_DESCRIPTION",
+        "Icon": "unitflag_leiomano.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_MAGARRU_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_MAGARRU"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ASSYRIA",
+        "Description": "LOC_UNIT_TURTANU_DESCRIPTION",
+        "Icon": "unitflag_TURTANU.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_TURTANU_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_TURTANU"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ASSYRIA",
+        "Description": "LOC_QUARTER_EKALLU_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_EKALLU_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_EKALLU"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ASSYRIA",
+        "Description": "LOC_BUILDING_CITADEL_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_CITADEL_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_CITADEL"
+    },
+    {
+        "CivilizationDomain": "AntiquityAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_ASSYRIA",
+        "Description": "LOC_BUILDING_ROYAL_LIBRARY_DESCRIPTION",
+        "Icon": "impicon_loikalo.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_ROYAL_LIBRARY_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_ROYAL_LIBRARY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_QAJAR",
+        "Description": "LOC_TRAIT_QAJAR_ABILITY_DESCRIPTION",
+        "Icon": null,
+        "Kind": "KIND_TRAIT",
+        "Name": "LOC_TRAIT_QAJAR_ABILITY_NAME",
+        "SortIndex": 0,
+        "Type": "TRAIT_QAJAR_ABILITY"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_QAJAR",
+        "Description": "LOC_UNIT_GHILMAN_BASE_DESCRIPTION",
+        "Icon": "unitflag_leiomano.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_GHILMAN_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_GHILMAN"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_QAJAR",
+        "Description": "LOC_UNIT_SOLTAN_DESCRIPTION",
+        "Icon": "unitflag_SHERPA.png",
+        "Kind": "KIND_UNIT",
+        "Name": "LOC_UNIT_SOLTAN_NAME",
+        "SortIndex": 0,
+        "Type": "UNIT_SOLTAN"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_QAJAR",
+        "Description": "LOC_QUARTER_BAQ_DESCRIPTION",
+        "Icon": "city_uniquequarter",
+        "Kind": "KIND_QUARTER",
+        "Name": "LOC_QUARTER_BAQ_NAME",
+        "SortIndex": 0,
+        "Type": "QUARTER_BAQ"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_QAJAR",
+        "Description": "LOC_BUILDING_GHAHVE_KHANE_DESCRIPTION",
+        "Icon": "buildicon_formalgarden.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_GHAHVE_KHANE_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_GHAHVE_KHANE"
+    },
+    {
+        "CivilizationDomain": "ModernAgeCivilizations",
+        "CivilizationType": "CIVILIZATION_QAJAR",
+        "Description": "LOC_BUILDING_TAKYEH_DESCRIPTION",
+        "Icon": "buildicon_salon.png",
+        "Kind": "KIND_BUILDING",
+        "Name": "LOC_BUILDING_TAKYEH_NAME",
+        "SortIndex": 0,
+        "Type": "BUILDING_TAKYEH"
+    }
+]

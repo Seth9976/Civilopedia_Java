@@ -1,0 +1,27 @@
+[
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_WANT_TILE_IMPROVERS",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_ENOUGH_TILE_IMPROVERS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NEED_NAVAL_GROWTH",
+        "Flavor": -1,
+        "FlavorType": "FLAVOR_NAVAL_GROWTH"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_CAPITAL_NEED_SETTLER",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_CAPITAL_NEED_SETTLER",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_DEFENSE"
+    }
+]

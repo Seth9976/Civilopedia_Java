@@ -1,0 +1,74 @@
+[
+    {
+        "ListType": "CityStrategyFoodBias",
+        "StrategyType": "CITY_STRATEGY_EARLY_FOOD"
+    },
+    {
+        "ListType": "CityStrategyProductionBias",
+        "StrategyType": "CITY_STRATEGY_PRODUCTION_BIAS"
+    },
+    {
+        "ListType": "CityStrategyHappinessBias",
+        "StrategyType": "CITY_STRATEGY_STAY_HAPPY"
+    },
+    {
+        "ListType": "LegacyPathStrategyRailroadsConstructibleBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_RAILROAD_TYCOON"
+    },
+    {
+        "ListType": "LegacyPathStrategyRailroadsPseudoYieldBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_RAILROAD_TYCOON"
+    },
+    {
+        "ListType": "LegacyPathStrategyRailroadsSettlements",
+        "StrategyType": "LEGACY_PATH_STRATEGY_RAILROAD_TYCOON"
+    },
+    {
+        "ListType": "LegacyPathStrategyRailroadsBudgetBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_RAILROAD_TYCOON"
+    },
+    {
+        "ListType": "LegacyPathStrategyIdeologyPseduoyieldBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_IDEOLOGY"
+    },
+    {
+        "ListType": "LegacyPathStrategyIdeologyBudgetBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_IDEOLOGY"
+    },
+    {
+        "ListType": "LegacyPathStrategyIdeologyProgressionTreeNodesBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_IDEOLOGY"
+    },
+    {
+        "ListType": "LegacyPathStrategyThreeLaunchesConstructibleBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_SPACE_RACE"
+    },
+    {
+        "ListType": "LegacyPathStrategyThreeLaunchesProjectBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_SPACE_RACE"
+    },
+    {
+        "ListType": "LegacyPathStrategyThreeLaunchesBudgetBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_SPACE_RACE"
+    },
+    {
+        "ListType": "LegacyPathArtifactsConstructibleBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_ARTIFACTS"
+    },
+    {
+        "ListType": "LegacyPathArtifactsUnitBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_ARTIFACTS"
+    },
+    {
+        "ListType": "LegacyPathArtifactsPseudoYieldBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_ARTIFACTS"
+    },
+    {
+        "ListType": "LegacyPathArtifactsBudgetBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_ARTIFACTS"
+    },
+    {
+        "ListType": "LegacyPathArtifactsProgressionTreeNodesBiases",
+        "StrategyType": "LEGACY_PATH_STRATEGY_ARTIFACTS"
+    }
+]

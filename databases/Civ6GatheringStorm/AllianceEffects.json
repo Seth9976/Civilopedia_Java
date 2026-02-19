@@ -1,0 +1,122 @@
+[
+    {
+        "AllianceType": "ALLIANCE_MILITARY",
+        "LevelRequirement": 1,
+        "ModifierID": "ALLIANCE_ADJUST_COMBAT_STRENGTH"
+    },
+    {
+        "AllianceType": "ALLIANCE_ECONOMIC",
+        "LevelRequirement": 1,
+        "ModifierID": "ALLIANCE_ADD_GOLD_TO_ORIGIN_TRADE_ROUTE"
+    },
+    {
+        "AllianceType": "ALLIANCE_ECONOMIC",
+        "LevelRequirement": 1,
+        "ModifierID": "ALLIANCE_ADD_GOLD_TO_DESTINATION_TRADE_ROUTE"
+    },
+    {
+        "AllianceType": "ALLIANCE_RELIGIOUS",
+        "LevelRequirement": 1,
+        "ModifierID": "ALLIANCE_NO_RELIGIOUS_PRESSURE"
+    },
+    {
+        "AllianceType": "ALLIANCE_RELIGIOUS",
+        "LevelRequirement": 1,
+        "ModifierID": "ALLIANCE_ADD_FAITH_TO_ORIGIN_TRADE_ROUTE"
+    },
+    {
+        "AllianceType": "ALLIANCE_RELIGIOUS",
+        "LevelRequirement": 1,
+        "ModifierID": "ALLIANCE_ADD_FAITH_TO_DESTINATION_TRADE_ROUTE"
+    },
+    {
+        "AllianceType": "ALLIANCE_CULTURAL",
+        "LevelRequirement": 1,
+        "ModifierID": "ALLIANCE_NO_CULTURE_PRESSURE"
+    },
+    {
+        "AllianceType": "ALLIANCE_CULTURAL",
+        "LevelRequirement": 1,
+        "ModifierID": "ALLIANCE_ADD_CULTURE_TO_ORIGIN_TRADE_ROUTE"
+    },
+    {
+        "AllianceType": "ALLIANCE_CULTURAL",
+        "LevelRequirement": 1,
+        "ModifierID": "ALLIANCE_ADD_CULTURE_TO_DESTINATION_TRADE_ROUTE"
+    },
+    {
+        "AllianceType": "ALLIANCE_RESEARCH",
+        "LevelRequirement": 1,
+        "ModifierID": "ALLIANCE_ADD_SCIENCE_TO_ORIGIN_TRADE_ROUTE"
+    },
+    {
+        "AllianceType": "ALLIANCE_RESEARCH",
+        "LevelRequirement": 1,
+        "ModifierID": "ALLIANCE_ADD_SCIENCE_TO_DESTINATION_TRADE_ROUTE"
+    },
+    {
+        "AllianceType": "ALLIANCE_ECONOMIC",
+        "LevelRequirement": 2,
+        "ModifierID": "ALLIANCE_ENVOY_POINTS_FROM_ALLIANCE"
+    },
+    {
+        "AllianceType": "ALLIANCE_MILITARY",
+        "LevelRequirement": 2,
+        "ModifierID": "ALLIANCE_SHARE_VISIBILITY"
+    },
+    {
+        "AllianceType": "ALLIANCE_MILITARY",
+        "LevelRequirement": 2,
+        "ModifierID": "ALLIANCE_INCREASE_PRODUCTION_WHEN_WAR"
+    },
+    {
+        "AllianceType": "ALLIANCE_RELIGIOUS",
+        "LevelRequirement": 2,
+        "ModifierID": "ALLIANCE_ADJUST_RELIGIOUS_COMBAT_STRENGTH"
+    },
+    {
+        "AllianceType": "ALLIANCE_CULTURAL",
+        "LevelRequirement": 2,
+        "ModifierID": "ALLIANCE_ADJUST_DISTRICT_GREAT_PEOPLE_POINTS"
+    },
+    {
+        "AllianceType": "ALLIANCE_RESEARCH",
+        "LevelRequirement": 2,
+        "ModifierID": "ALLIANCE_RESEARCH_AGREEMENT"
+    },
+    {
+        "AllianceType": "ALLIANCE_MILITARY",
+        "LevelRequirement": 3,
+        "ModifierID": "ALLIANCE_FREE_UNIT_UPGRADE"
+    },
+    {
+        "AllianceType": "ALLIANCE_RELIGIOUS",
+        "LevelRequirement": 3,
+        "ModifierID": "ALLIANCE_YIELDS_FROM_FOLLOWING_ALLY_RELIGION"
+    },
+    {
+        "AllianceType": "ALLIANCE_RELIGIOUS",
+        "LevelRequirement": 3,
+        "ModifierID": "ALLIANCE_RELIGIOUS_PRESSURE"
+    },
+    {
+        "AllianceType": "ALLIANCE_RESEARCH",
+        "LevelRequirement": 3,
+        "ModifierID": "ALLIANCE_SCIENCE_SHARING_FROM_ALLY"
+    },
+    {
+        "AllianceType": "ALLIANCE_CULTURAL",
+        "LevelRequirement": 3,
+        "ModifierID": "ALLIANCE_TOURISM_SHARING_FROM_ALLY"
+    },
+    {
+        "AllianceType": "ALLIANCE_CULTURAL",
+        "LevelRequirement": 3,
+        "ModifierID": "ALLIANCE_CULTURE_SHARING_FROM_ALLY"
+    },
+    {
+        "AllianceType": "ALLIANCE_ECONOMIC",
+        "LevelRequirement": 3,
+        "ModifierID": "ALLIANCE_SHARE_SUZERAIN"
+    }
+]

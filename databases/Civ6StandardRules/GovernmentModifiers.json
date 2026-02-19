@@ -1,0 +1,190 @@
+[
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "AUTOCRACY_CULTURE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "AUTOCRACY_FOOD"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "AUTOCRACY_GOLD"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "AUTOCRACY_PRODUCTION"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "AUTOCRACY_SCIENCE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "AUTOCRACY_FAITH"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_OLIGARCHY",
+        "ModifierId": "OLIGARCHY_MELEE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_CLASSICAL_REPUBLIC",
+        "ModifierId": "CLASSICAL_REPUBLIC_AMENITY"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MONARCHY",
+        "ModifierId": "MONARCHY_WALLSPRODUCTION"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MONARCHY",
+        "ModifierId": "MONARCHY_CASTLEPRODUCTION"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MONARCHY",
+        "ModifierId": "MONARCHY_STARFORTPRODUCTION"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MONARCHY",
+        "ModifierId": "MONARCHY_WALLS_HOUSING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MONARCHY",
+        "ModifierId": "MONARCHY_CASTLE_HOUSING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MONARCHY",
+        "ModifierId": "MONARCHY_STARFORT_HOUSING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_FAITH_PURCHASE_RECON"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_FAITH_PURCHASE_MELEE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_FAITH_PURCHASE_RANGED"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_FAITH_PURCHASE_SIEGE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_FAITH_PURCHASE_HEAVY_CAVALRY"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_FAITH_PURCHASE_LIGHT_CAVALRY"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_FAITH_PURCHASE_RANGED_CAVALRY"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_FAITH_PURCHASE_ANTI_CAVALRY"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_FAITH_PURCHASE_HEAVY_CHARIOT"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_FAITH_PURCHASE_LIGHT_CHARIOT"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_RELIGIOUS"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MERCHANT_REPUBLIC",
+        "ModifierId": "MERCHANT_REPUBLIC_TRADE_ROUTES"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_FASCISM",
+        "ModifierId": "FASCISM_ATTACK"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_COMMUNISM",
+        "ModifierId": "COMMUNISM_DEFENSE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DEMOCRACY",
+        "ModifierId": "DEMOCRACY_PATRONAGE_GOLD_DISCOUNT"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "AUTOCRACY_WONDERS"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_OLIGARCHY",
+        "ModifierId": "OLIGARCHY_UNIT_EXPERIENCE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_CLASSICAL_REPUBLIC",
+        "ModifierId": "CLASSICAL_REPUBLIC_GREAT_PEOPLE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MONARCHY",
+        "ModifierId": "MONARCHY_ENVOYS"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_FAITH_PURCHASE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MERCHANT_REPUBLIC",
+        "ModifierId": "MERCHANT_REPUBLIC_GOLD_PURCHASE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_FASCISM",
+        "ModifierId": "FASCISM_UNIT_PRODUCTION"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_COMMUNISM",
+        "ModifierId": "COMMUNISM_ALL_PRODUCTION"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DEMOCRACY",
+        "ModifierId": "DEMOCRACY_DISTRICT_PROCESSES"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "AUTOCRACY_WONDERS_ACCUMULATING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_OLIGARCHY",
+        "ModifierId": "OLIGARCHY_UNIT_EXPERIENCE_ACCUMULATING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_CLASSICAL_REPUBLIC",
+        "ModifierId": "CLASSICAL_REPUBLIC_GREAT_PEOPLE_ACCUMULATING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MONARCHY",
+        "ModifierId": "MONARCHY_ENVOYS_ACCUMULATING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_FAITH_PURCHASE_ACCUMULATING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MERCHANT_REPUBLIC",
+        "ModifierId": "MERCHANT_REPUBLIC_GOLD_PURCHASE_ACCUMULATING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_FASCISM",
+        "ModifierId": "FASCISM_UNIT_PRODUCTION_ACCUMULATING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_COMMUNISM",
+        "ModifierId": "COMMUNISM_ALL_PRODUCTION_ACCUMULATING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DEMOCRACY",
+        "ModifierId": "DEMOCRACY_DISTRICT_PROCESSES_ACCUMULATING"
+    }
+]

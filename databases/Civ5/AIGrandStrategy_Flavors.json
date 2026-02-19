@@ -1,0 +1,22 @@
+[
+    {
+        "AIGrandStrategyType": "AIGRANDSTRATEGY_CONQUEST",
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIGrandStrategyType": "AIGRANDSTRATEGY_CULTURE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AIGrandStrategyType": "AIGRANDSTRATEGY_UNITED_NATIONS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DIPLOMACY"
+    },
+    {
+        "AIGrandStrategyType": "AIGRANDSTRATEGY_SPACESHIP",
+        "Flavor": 13,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    }
+]

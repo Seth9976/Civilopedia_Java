@@ -1,0 +1,742 @@
+[
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 1,
+        "IconName": "ICON_BULLET"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 2,
+        "IconName": "ICON_RESEARCH"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 3,
+        "IconName": "ICON_GOLD"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 4,
+        "IconName": "ICON_PRODUCTION"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 5,
+        "IconName": "ICON_FOOD"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 6,
+        "IconName": "ICON_CULTURE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 7,
+        "IconName": "ICON_MOVES"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 8,
+        "IconName": "ICON_RANGE_STRENGTH"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 9,
+        "IconName": "ICON_STRENGTH"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 10,
+        "IconName": "ICON_RES_IRON"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 11,
+        "IconName": "ICON_RES_HORSE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 12,
+        "IconName": "ICON_RES_COAL"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 13,
+        "IconName": "ICON_RES_OIL"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 14,
+        "IconName": "ICON_RES_ALUMINUM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 15,
+        "IconName": "ICON_RES_URANIUM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 16,
+        "IconName": "ICON_RES_WHEAT"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 17,
+        "IconName": "ICON_RES_COW"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 18,
+        "IconName": "ICON_RES_DEER"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 19,
+        "IconName": "ICON_RES_FISH"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 20,
+        "IconName": "ICON_RES_WHALE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 21,
+        "IconName": "ICON_RES_BANANA"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 22,
+        "IconName": "ICON_RES_GOLD"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 23,
+        "IconName": "ICON_RES_GEMS"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 24,
+        "IconName": "ICON_RES_MARBLE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 25,
+        "IconName": "ICON_RES_IVORY"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 26,
+        "IconName": "ICON_RES_DYE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 27,
+        "IconName": "ICON_RES_SPICES"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 28,
+        "IconName": "ICON_RES_SILK"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 29,
+        "IconName": "ICON_RES_SUGAR"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 30,
+        "IconName": "ICON_RES_COTTON"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 31,
+        "IconName": "ICON_HAPPINESS_1"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 32,
+        "IconName": "ICON_HAPPINESS_2"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 33,
+        "IconName": "ICON_HAPPINESS_3"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 34,
+        "IconName": "ICON_HAPPINESS_4"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 35,
+        "IconName": "ICON_GOLDEN_AGE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 36,
+        "IconName": "ICON_PLUS"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 37,
+        "IconName": "ICON_MINUS"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 38,
+        "IconName": "ICON_WTF1"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 39,
+        "IconName": "ICON_WTF2"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 40,
+        "IconName": "ICON_RES_PEARLS"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 41,
+        "IconName": "ICON_RES_INCENSE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 42,
+        "IconName": "ICON_RES_WINE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 43,
+        "IconName": "ICON_RES_SILVER"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 44,
+        "IconName": "ICON_RES_FUR"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 45,
+        "IconName": "ICON_CITIZEN"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 46,
+        "IconName": "ICON_GREAT_PEOPLE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 47,
+        "IconName": "ICON_RAZING"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 48,
+        "IconName": "ICON_RESISTANCE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 49,
+        "IconName": "ICON_CONNECTED"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 50,
+        "IconName": "ICON_BLOCKADED"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 51,
+        "IconName": "ICON_PUPPET"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 52,
+        "IconName": "ICON_OCCUPIED"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 53,
+        "IconName": "ICON_INFLUENCE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 54,
+        "IconName": "ICON_CAPITAL"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 55,
+        "IconName": "ICON_LOCKED"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 56,
+        "IconName": "ICON_RES_SHEEP"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 57,
+        "IconName": "ICON_WAR"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 58,
+        "IconName": "ICON_PEACE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 59,
+        "IconName": "ICON_TRADE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 60,
+        "IconName": "ICON_TRADE_WHITE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 61,
+        "IconName": "ICON_TEAM_1"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 62,
+        "IconName": "ICON_TEAM_2"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 63,
+        "IconName": "ICON_TEAM_3"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 64,
+        "IconName": "ICON_TEAM_4"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 65,
+        "IconName": "ICON_TEAM_5"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 66,
+        "IconName": "ICON_TEAM_6"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 67,
+        "IconName": "ICON_TEAM_7"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 68,
+        "IconName": "ICON_TEAM_8"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 69,
+        "IconName": "ICON_TEAM_9"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 70,
+        "IconName": "ICON_TEAM_10"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 71,
+        "IconName": "ICON_TEAM_11"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 72,
+        "IconName": "ICON_TEAM_USA"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 73,
+        "IconName": "ICON_PIRATE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 74,
+        "IconName": "ICON_STAR"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 75,
+        "IconName": "ICON_MUSHROOM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 76,
+        "IconName": "ICON_FLOWER"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 77,
+        "IconName": "ICON_ALPHA"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 78,
+        "IconName": "ICON_OMEGA"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 79,
+        "IconName": "ICON_CITY_STATE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 80,
+        "IconName": "ICON_RES_STONE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 121,
+        "IconName": "ICON_SWAP"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 81,
+        "IconName": "ICON_RES_CITRUS"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 82,
+        "IconName": "ICON_RES_COPPER"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 83,
+        "IconName": "ICON_RES_CRAB"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 84,
+        "IconName": "ICON_RES_SALT"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 85,
+        "IconName": "ICON_RES_TRUFFLES"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 86,
+        "IconName": "ICON_RES_JEWELRY"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 87,
+        "IconName": "ICON_RES_PORCELAIN"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 88,
+        "IconName": "ICON_RELIGION_BUDDHISM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 89,
+        "IconName": "ICON_RELIGION_CHRISTIANITY"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 90,
+        "IconName": "ICON_RELIGION_CONFUCIANISM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 91,
+        "IconName": "ICON_RELIGION_HINDUISM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 92,
+        "IconName": "ICON_RELIGION_ISLAM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 93,
+        "IconName": "ICON_RELIGION_JUDAISM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 94,
+        "IconName": "ICON_RELIGION_PANTHEON"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 95,
+        "IconName": "ICON_RELIGION_SHINTO"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 96,
+        "IconName": "ICON_RELIGION_SIKHISM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 97,
+        "IconName": "ICON_RELIGION_TAOISM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 98,
+        "IconName": "ICON_RELIGION_TENGRIISM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 99,
+        "IconName": "ICON_RELIGION_ZOROASTRIANISM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 100,
+        "IconName": "ICON_RELIGION_ORTHODOX"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 101,
+        "IconName": "ICON_RELIGION_PROTESTANT"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 102,
+        "IconName": "ICON_RELIGION"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 103,
+        "IconName": "ICON_MISSIONARY"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 104,
+        "IconName": "ICON_PROPHET"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 105,
+        "IconName": "ICON_INQUISITOR"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 106,
+        "IconName": "ICON_SPY"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 107,
+        "IconName": "ICON_VIEW_CITY"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 108,
+        "IconName": "ICON_WORKER"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 109,
+        "IconName": "ICON_DENOUNCE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 110,
+        "IconName": "ICON_INVEST"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 111,
+        "IconName": "ICON_SILVER_FIST"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 112,
+        "IconName": "ICON_CHECKBOX"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 113,
+        "IconName": "ICON_TOURISM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 114,
+        "IconName": "ICON_INTERNATIONAL_TRADE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 115,
+        "IconName": "ICON_GREAT_WORK"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 116,
+        "IconName": "ICON_ARROW_LEFT"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 7,
+        "IconName": "ICON_ARROW_RIGHT"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 117,
+        "IconName": "ICON_VICTORY_SPACE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 118,
+        "IconName": "ICON_VICTORY_CULTURE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 119,
+        "IconName": "ICON_VICTORY_DIPLOMACY"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 120,
+        "IconName": "ICON_VICTORY_DOMINATION"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DEFAULT",
+        "IconMapping": 121,
+        "IconName": "ICON_TURNS_REMAINING"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 1,
+        "IconName": "ICON_GREAT_ENGINEER"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 2,
+        "IconName": "ICON_GREAT_GENERAL"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 3,
+        "IconName": "ICON_GREAT_SCIENTIST"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 4,
+        "IconName": "ICON_GREAT_MERCHANT"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 5,
+        "IconName": "ICON_GREAT_ARTIST"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 6,
+        "IconName": "ICON_GREAT_MUSICIAN"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 7,
+        "IconName": "ICON_GREAT_WRITER"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 8,
+        "IconName": "ICON_GREAT_ADMIRAL"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 9,
+        "IconName": "ICON_GREAT_MERCHANT_VENICE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 10,
+        "IconName": "ICON_GREAT_EXPLORER"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 11,
+        "IconName": "ICON_RES_CLOVES"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 12,
+        "IconName": "ICON_RES_NUTMEG"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 13,
+        "IconName": "ICON_RES_PEPPER"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 14,
+        "IconName": "ICON_DIPLOMAT"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 15,
+        "IconName": "ICON_RES_ARTIFACTS"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 16,
+        "IconName": "ICON_TROPHY_GOLD"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 17,
+        "IconName": "ICON_TROPHY_SILVER"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 18,
+        "IconName": "ICON_TROPHY_BRONZE"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 19,
+        "IconName": "ICON_RES_MANPOWER"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 20,
+        "IconName": "ICON_RES_HIDDEN_ARTIFACTS"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 21,
+        "IconName": "ICON_IDEOLOGY_ORDER"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 22,
+        "IconName": "ICON_IDEOLOGY_FREEDOM"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_EXPANSION2",
+        "IconMapping": 23,
+        "IconName": "ICON_IDEOLOGY_AUTOCRACY"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DLC_07",
+        "IconMapping": 1,
+        "IconName": "ICON_RES_COCOA"
+    },
+    {
+        "IconFontTexture": "ICON_FONT_TEXTURE_DLC_07",
+        "IconMapping": 2,
+        "IconName": "ICON_RES_BISON"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "BuildingType": "BUILDING_GROVE",
+        "Description": "LOC_TOOLTIP_APPEAL_BREATHTAKING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MaximumValue": 100,
+        "MinimumValue": 4,
+        "Unimproved": 1,
+        "YieldChange": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_GROVE",
+        "Description": "LOC_TOOLTIP_APPEAL_CHARMING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MaximumValue": 3,
+        "MinimumValue": 2,
+        "Unimproved": 1,
+        "YieldChange": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_GROVE",
+        "Description": "LOC_TOOLTIP_APPEAL_BREATHTAKING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MaximumValue": 100,
+        "MinimumValue": 4,
+        "Unimproved": 1,
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_GROVE",
+        "Description": "LOC_TOOLTIP_APPEAL_CHARMING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MaximumValue": 3,
+        "MinimumValue": 2,
+        "Unimproved": 1,
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_GROVE",
+        "Description": "LOC_TOOLTIP_APPEAL_BREATHTAKING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MaximumValue": 100,
+        "MinimumValue": 4,
+        "Unimproved": 1,
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_SANCTUARY",
+        "Description": "LOC_TOOLTIP_APPEAL_BREATHTAKING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MaximumValue": 100,
+        "MinimumValue": 4,
+        "Unimproved": 1,
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_SANCTUARY",
+        "Description": "LOC_TOOLTIP_APPEAL_CHARMING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MaximumValue": 3,
+        "MinimumValue": 2,
+        "Unimproved": 1,
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_SANCTUARY",
+        "Description": "LOC_TOOLTIP_APPEAL_BREATHTAKING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MaximumValue": 100,
+        "MinimumValue": 4,
+        "Unimproved": 1,
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_SANCTUARY",
+        "Description": "LOC_TOOLTIP_APPEAL_CHARMING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MaximumValue": 3,
+        "MinimumValue": 2,
+        "Unimproved": 1,
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_SANCTUARY",
+        "Description": "LOC_TOOLTIP_APPEAL_BREATHTAKING",
+        "DistrictType": "DISTRICT_PRESERVE",
+        "MaximumValue": 100,
+        "MinimumValue": 4,
+        "Unimproved": 1,
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    }
+]

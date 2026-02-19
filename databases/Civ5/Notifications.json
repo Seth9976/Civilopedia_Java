@@ -1,0 +1,872 @@
+[
+    {
+        "ID": 0,
+        "NotificationType": "NOTIFICATION_GENERIC",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 1,
+        "NotificationType": "NOTIFICATION_TECH",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 2,
+        "NotificationType": "NOTIFICATION_FREE_TECH",
+        "Urgent": "false",
+        "Welcomeness": 2
+    },
+    {
+        "ID": 3,
+        "NotificationType": "NOTIFICATION_POLICY",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 4,
+        "NotificationType": "NOTIFICATION_PRODUCTION",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 5,
+        "NotificationType": "NOTIFICATION_MET_MINOR",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 6,
+        "NotificationType": "NOTIFICATION_MINOR",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 7,
+        "NotificationType": "NOTIFICATION_MINOR_QUEST",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 8,
+        "NotificationType": "NOTIFICATION_ENEMY_IN_TERRITORY",
+        "Urgent": "false",
+        "Welcomeness": -1
+    },
+    {
+        "ID": 9,
+        "NotificationType": "NOTIFICATION_CITY_RANGE_ATTACK",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 10,
+        "NotificationType": "NOTIFICATION_BARBARIAN",
+        "Urgent": "false",
+        "Welcomeness": -1
+    },
+    {
+        "ID": 11,
+        "NotificationType": "NOTIFICATION_GOODY",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 12,
+        "NotificationType": "NOTIFICATION_BUY_TILE",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 13,
+        "NotificationType": "NOTIFICATION_CITY_GROWTH",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 14,
+        "NotificationType": "NOTIFICATION_CITY_TILE",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 15,
+        "NotificationType": "NOTIFICATION_DEMAND_RESOURCE",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 16,
+        "NotificationType": "NOTIFICATION_UNIT_PROMOTION",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 17,
+        "NotificationType": "NOTIFICATION_WONDER_COMPLETED_ACTIVE_PLAYER",
+        "Urgent": "false",
+        "Welcomeness": 2
+    },
+    {
+        "ID": 18,
+        "NotificationType": "NOTIFICATION_WONDER_COMPLETED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 19,
+        "NotificationType": "NOTIFICATION_WONDER_BEATEN",
+        "Urgent": 1,
+        "Welcomeness": -1
+    },
+    {
+        "ID": 20,
+        "NotificationType": "NOTIFICATION_GOLDEN_AGE_BEGUN_ACTIVE_PLAYER",
+        "Urgent": "false",
+        "Welcomeness": 2
+    },
+    {
+        "ID": 21,
+        "NotificationType": "NOTIFICATION_GOLDEN_AGE_ENDED_ACTIVE_PLAYER",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 22,
+        "NotificationType": "NOTIFICATION_GREAT_PERSON_ACTIVE_PLAYER",
+        "Urgent": "false",
+        "Welcomeness": 2
+    },
+    {
+        "ID": 23,
+        "NotificationType": "NOTIFICATION_STARVING",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 24,
+        "NotificationType": "NOTIFICATION_WAR_ACTIVE_PLAYER",
+        "Urgent": 1,
+        "Welcomeness": -1
+    },
+    {
+        "ID": 25,
+        "NotificationType": "NOTIFICATION_WAR",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 26,
+        "NotificationType": "NOTIFICATION_PEACE_ACTIVE_PLAYER",
+        "Urgent": 1,
+        "Welcomeness": 1
+    },
+    {
+        "ID": 27,
+        "NotificationType": "NOTIFICATION_PEACE",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 28,
+        "NotificationType": "NOTIFICATION_VICTORY",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 29,
+        "NotificationType": "NOTIFICATION_UNIT_DIED",
+        "Urgent": "false",
+        "Welcomeness": -1
+    },
+    {
+        "ID": 30,
+        "NotificationType": "NOTIFICATION_CITY_LOST",
+        "Urgent": 1,
+        "Welcomeness": -2
+    },
+    {
+        "ID": 31,
+        "NotificationType": "NOTIFICATION_CAPITAL_LOST_ACTIVE_PLAYER",
+        "Urgent": 1,
+        "Welcomeness": -2
+    },
+    {
+        "ID": 32,
+        "NotificationType": "NOTIFICATION_CAPITAL_LOST",
+        "Urgent": 1,
+        "Welcomeness": 0
+    },
+    {
+        "ID": 33,
+        "NotificationType": "NOTIFICATION_CAPITAL_RECOVERED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 34,
+        "NotificationType": "NOTIFICATION_PLAYER_KILLED",
+        "Urgent": 1,
+        "Welcomeness": 0
+    },
+    {
+        "ID": 35,
+        "NotificationType": "NOTIFICATION_DISCOVERED_LUXURY_RESOURCE",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 36,
+        "NotificationType": "NOTIFICATION_DISCOVERED_STRATEGIC_RESOURCE",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 37,
+        "NotificationType": "NOTIFICATION_DISCOVERED_BONUS_RESOURCE",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 38,
+        "NotificationType": "NOTIFICATION_DIPLO_VOTE",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 39,
+        "NotificationType": "NOTIFICATION_RELIGION_RACE",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 40,
+        "NotificationType": "NOTIFICATION_EXPLORATION_RACE",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 41,
+        "NotificationType": "NOTIFICATION_DIPLOMACY_DECLARATION",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 42,
+        "NotificationType": "NOTIFICATION_DEAL_EXPIRED_GPT",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 43,
+        "NotificationType": "NOTIFICATION_DEAL_EXPIRED_RESOURCE",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 44,
+        "NotificationType": "NOTIFICATION_DEAL_EXPIRED_OPEN_BORDERS",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 45,
+        "NotificationType": "NOTIFICATION_DEAL_EXPIRED_DEFENSIVE_PACT",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 46,
+        "NotificationType": "NOTIFICATION_DEAL_EXPIRED_RESEARCH_AGREEMENT",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 47,
+        "NotificationType": "NOTIFICATION_DEAL_EXPIRED_TRADE_AGREEMENT",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 48,
+        "NotificationType": "NOTIFICATION_TECH_AWARD",
+        "Urgent": "false",
+        "Welcomeness": 2
+    },
+    {
+        "ID": 49,
+        "NotificationType": "NOTIFICATION_PLAYER_DEAL",
+        "Urgent": 1,
+        "Welcomeness": 2
+    },
+    {
+        "ID": 50,
+        "NotificationType": "NOTIFICATION_PLAYER_DEAL_RECEIVED",
+        "Urgent": 1,
+        "Welcomeness": 2
+    },
+    {
+        "ID": 51,
+        "NotificationType": "NOTIFICATION_PLAYER_DEAL_RESOLVED",
+        "Urgent": 1,
+        "Welcomeness": 2
+    },
+    {
+        "ID": 52,
+        "NotificationType": "NOTIFICATION_PROJECT_COMPLETED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 53,
+        "NotificationType": "NOTIFICATION_REBELS",
+        "Urgent": "false",
+        "Welcomeness": -1
+    },
+    {
+        "ID": 54,
+        "NotificationType": "NOTIFICATION_FREE_POLICY",
+        "Urgent": "false",
+        "Welcomeness": 2
+    },
+    {
+        "ID": 55,
+        "NotificationType": "NOTIFICATION_FREE_GREAT_PERSON",
+        "Urgent": "false",
+        "Welcomeness": 2
+    },
+    {
+        "ID": 56,
+        "NotificationType": "NOTIFICATION_DENUNCIATION_EXPIRED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 57,
+        "NotificationType": "NOTIFICATION_FRIENDSHIP_EXPIRED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 58,
+        "NotificationType": "NOTIFICATION_RELIGION_FOUNDED_ACTIVE_PLAYER",
+        "Urgent": "false",
+        "Welcomeness": 2
+    },
+    {
+        "ID": 59,
+        "NotificationType": "NOTIFICATION_RELIGION_FOUNDED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 60,
+        "NotificationType": "NOTIFICATION_PANTHEON_FOUNDED_ACTIVE_PLAYER",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 61,
+        "NotificationType": "NOTIFICATION_PANTHEON_FOUNDED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 62,
+        "NotificationType": "NOTIFICATION_FOUND_PANTHEON",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 63,
+        "NotificationType": "NOTIFICATION_FOUND_RELIGION",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 64,
+        "NotificationType": "NOTIFICATION_ENHANCE_RELIGION",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 65,
+        "NotificationType": "NOTIFICATION_RELIGION_ENHANCED_ACTIVE_PLAYER",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 66,
+        "NotificationType": "NOTIFICATION_RELIGION_ENHANCED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 67,
+        "NotificationType": "NOTIFICATION_SPY_CREATED_ACTIVE_PLAYER",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 68,
+        "NotificationType": "NOTIFICATION_SPY_STOLE_TECH",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 69,
+        "NotificationType": "NOTIFICATION_SPY_CANT_STEAL_TECH",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 70,
+        "NotificationType": "NOTIFICATION_CAN_BUILD_MISSIONARY",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 71,
+        "NotificationType": "NOTIFICATION_OTHER_PLAYER_NEW_ERA",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 72,
+        "NotificationType": "NOTIFICATION_SPY_EVICTED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 73,
+        "NotificationType": "NOTIFICATION_RELIGION_SPREAD",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 74,
+        "NotificationType": "NOTIFICATION_TECH_STOLEN_SPY_DETECTED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 75,
+        "NotificationType": "NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 76,
+        "NotificationType": "NOTIFICATION_SPY_WAS_KILLED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 77,
+        "NotificationType": "NOTIFICATION_SPY_KILLED_A_SPY",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 78,
+        "NotificationType": "NOTIFICATION_SPY_REPLACEMENT",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 79,
+        "NotificationType": "NOTIFICATION_MAYA_LONG_COUNT",
+        "Urgent": "false",
+        "Welcomeness": 2
+    },
+    {
+        "ID": 80,
+        "NotificationType": "NOTIFICATION_FAITH_GREAT_PERSON",
+        "Urgent": "false",
+        "Welcomeness": 2
+    },
+    {
+        "ID": 81,
+        "NotificationType": "NOTIFICATION_SPY_PROMOTION",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 82,
+        "NotificationType": "NOTIFICATION_INTRIGUE_DECEPTION",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 83,
+        "NotificationType": "NOTIFICATION_SPY_RIG_ELECTION_SUCCESS",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 84,
+        "NotificationType": "NOTIFICATION_SPY_RIG_ELECTION_FAILURE",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 85,
+        "NotificationType": "NOTIFICATION_SPY_RIG_ELECTION_ALERT",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 86,
+        "NotificationType": "NOTIFICATION_SPY_YOU_STAGE_COUP_SUCCESS",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 87,
+        "NotificationType": "NOTIFICATION_SPY_YOU_STAGE_COUP_FAILURE",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 88,
+        "NotificationType": "NOTIFICATION_SPY_STAGE_COUP_SUCCESS",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 89,
+        "NotificationType": "NOTIFICATION_SPY_STAGE_COUP_FAILURE",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 90,
+        "NotificationType": "NOTIFICATION_INTRIGUE_BUILDING_SNEAK_ATTACK_ARMY",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 91,
+        "NotificationType": "NOTIFICATION_INTRIGUE_BUILDING_SNEAK_ATTACK_AMPHIBIOUS",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 92,
+        "NotificationType": "NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_UNKNOWN",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 93,
+        "NotificationType": "NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_KNOWN",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 94,
+        "NotificationType": "NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_UNKNOWN",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 95,
+        "NotificationType": "NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_KNOWN",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 96,
+        "NotificationType": "NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_UNKNOWN",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 97,
+        "NotificationType": "NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_UNKNOWN",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 98,
+        "NotificationType": "NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_KNOWN",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 99,
+        "NotificationType": "NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_UNKNOWN",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 100,
+        "NotificationType": "NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_KNOWN",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 101,
+        "NotificationType": "NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_UNKNOWN",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 102,
+        "NotificationType": "NOTIFICATION_RELIGION_ERROR",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 103,
+        "NotificationType": "NOTIFICATION_AUTOMATIC_FAITH_PURCHASE_STOPPED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 104,
+        "NotificationType": "NOTIFICATION_EXPANSION_PROMISE_EXPIRED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 105,
+        "NotificationType": "NOTIFICATION_BORDER_PROMISE_EXPIRED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 106,
+        "NotificationType": "NOTIFICATION_TRADE_ROUTE",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 107,
+        "NotificationType": "NOTIFICATION_TRADE_ROUTE_BROKEN",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 108,
+        "NotificationType": "NOTIFICATION_RELIGION_SPREAD_NATURAL",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 109,
+        "NotificationType": "NOTIFICATION_INTRIGUE_CONSTRUCTING_WONDER",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 110,
+        "NotificationType": "NOTIFICATION_MINOR_BUYOUT",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 111,
+        "NotificationType": "NOTIFICATION_REQUEST_RESOURCE",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 112,
+        "NotificationType": "NOTIFICATION_LIBERATED_MAJOR_CITY",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 113,
+        "NotificationType": "NOTIFICATION_RESURRECTED_MAJOR_CIV",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 114,
+        "NotificationType": "NOTIFICATION_ADD_REFORMATION_BELIEF",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 115,
+        "NotificationType": "NOTIFICATION_LEAGUE_CALL_FOR_PROPOSALS",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 116,
+        "NotificationType": "NOTIFICATION_CHOOSE_ARCHAEOLOGY",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 117,
+        "NotificationType": "NOTIFICATION_LEAGUE_CALL_FOR_VOTES",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 118,
+        "NotificationType": "NOTIFICATION_CHOOSE_IDEOLOGY",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 119,
+        "NotificationType": "NOTIFICATION_IDEOLOGY_CHOSEN",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 120,
+        "NotificationType": "NOTIFICATION_DIPLOMAT_EJECTED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 121,
+        "NotificationType": "NOTIFICATION_INTERNATIONAL_TRADE_UNIT_PLUNDERED_TRADER",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 122,
+        "NotificationType": "NOTIFICATION_INTERNATIONAL_TRADE_UNIT_PLUNDERED_TRADEE",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 123,
+        "NotificationType": "NOTIFICATION_REFORMATION_BELIEF_ADDED_ACTIVE_PLAYER",
+        "Urgent": "false",
+        "Welcomeness": 1
+    },
+    {
+        "ID": 124,
+        "NotificationType": "NOTIFICATION_REFORMATION_BELIEF_ADDED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 125,
+        "NotificationType": "NOTIFICATION_GREAT_WORK_COMPLETED_ACTIVE_PLAYER",
+        "Urgent": "false",
+        "Welcomeness": 2
+    },
+    {
+        "ID": 126,
+        "NotificationType": "NOTIFICATION_LEAGUE_VOTING_DONE",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 127,
+        "NotificationType": "NOTIFICATION_LEAGUE_VOTING_SOON",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 128,
+        "NotificationType": "NOTIFICATION_CULTURE_VICTORY_SOMEONE_INFLUENTIAL",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 129,
+        "NotificationType": "NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 130,
+        "NotificationType": "NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_ACTIVE_PLAYER",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 131,
+        "NotificationType": "NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 132,
+        "NotificationType": "NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_ACTIVE_PLAYER",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 133,
+        "NotificationType": "NOTIFICATION_CULTURE_VICTORY_NO_LONGER_INFLUENTIAL",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 134,
+        "NotificationType": "NOTIFICATION_PLAYER_RECONNECTED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 135,
+        "NotificationType": "NOTIFICATION_PLAYER_DISCONNECTED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 136,
+        "NotificationType": "NOTIFICATION_TURN_MODE_SEQUENTIAL",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 137,
+        "NotificationType": "NOTIFICATION_TURN_MODE_SIMULTANEOUS",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 138,
+        "NotificationType": "NOTIFICATION_HOST_MIGRATION",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 139,
+        "NotificationType": "NOTIFICATION_PLAYER_CONNECTING",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 140,
+        "NotificationType": "NOTIFICATION_CITY_REVOLT_POSSIBLE",
+        "Urgent": "false",
+        "Welcomeness": -1
+    },
+    {
+        "ID": 141,
+        "NotificationType": "NOTIFICATION_CITY_REVOLT",
+        "Urgent": "false",
+        "Welcomeness": -1
+    },
+    {
+        "ID": 142,
+        "NotificationType": "NOTIFICATION_PLAYER_KICKED",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 143,
+        "NotificationType": "NOTIFICATION_LEAGUE_PROJECT_COMPLETE",
+        "Urgent": "false",
+        "Welcomeness": 0
+    },
+    {
+        "ID": 144,
+        "NotificationType": "NOTIFICATION_LEAGUE_PROJECT_PROGRESS",
+        "Urgent": "false",
+        "Welcomeness": 0
+    }
+]

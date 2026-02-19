@@ -1,0 +1,382 @@
+[
+    {
+        "ModifierId": "INFLUENCE_INDEPENDENT_VERY_HOSTILE_INVESTMENT",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_INFLUENCE_INDEPENDENT_VERY_HOSTILE"
+    },
+    {
+        "ModifierId": "INFLUENCE_INDEPENDENT_FRIENDLY_INVESTMENT",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_INFLUENCE_INDEPENDENT_FRIENDLY"
+    },
+    {
+        "ModifierId": "INFLUENCE_INDEPENDENT_FRIENDLY_FIRST_GIFT",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_INFLUENCE_INDEPENDENT_FRIENDLY_FIRST_GIFT"
+    },
+    {
+        "ModifierId": "INFLUENCE_INDEPENDENT_SUZERAIN_INVESTMENT",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_INFLUENCE_INDEPENDENT_SUZERAIN"
+    },
+    {
+        "ModifierId": "LAND_CLAIM_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_LAND_CLAIM_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_APPLY_BEHAVIOR_MOD",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_OPEN_BORDERS_ACTIVE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_OPEN_BORDERS_ACTIVE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_OPEN_BORDERS_ACTIVE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_RESEARCH_COLLABORATION_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_RESEARCH_COLLABORATION_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_CULTURAL_EXCHANGE_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_CULTURAL_EXCHANGE_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_MINOR_TRADE_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_MINOR_TRADE_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_MOD_SEND_GOLD",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_SEND_GOLD_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_LOCAL_FESTIVALS_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_LOCAL_FESTIVALS_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_ACCEPT",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_TRADE_MAP_START"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_1",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_TRADE_MAP_1"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_ACCEPT",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_TRADE_MAP_1"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_2",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_TRADE_MAP_2"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_ACCEPT",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_TRADE_MAP_2"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_3",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_TRADE_MAP_3"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_ACCEPT",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_TRADE_MAP_3"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_4",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_TRADE_MAP_4"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_ACCEPT",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_TRADE_MAP_4"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_TRADE_MAP_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_TRADE_MAP_ACCEPT",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_TRADE_MAP_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_FARMERS_MARKET_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_FARMERS_MARKET_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_MILITARY_AID_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_MILITARY_AID_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_SABOTAGE_TREASURY_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_SABOTAGE_TREASURY_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_SABOTAGE_MORALE_START",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_SABOTAGE_MORALE_START"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_SABOTAGE_RESEARCH_START",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_SABOTAGE_RESEARCH_START"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_SABOTAGE_CIVIC_STUDY_START",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_SABOTAGE_CIVIC_STUDY_START"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_SABOTAGE_MILITARY_PRODUCTION_START",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_SABOTAGE_MILITARY_PRODUCTION_START"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_SABOTAGE_FOOD_PRODUCTION_START",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_SABOTAGE_FOOD_PRODUCTION_START"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_DENOUNCE_DESCRIBE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_DENOUNCE_DESCRIBE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_ENDEAVORS_10",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_DENOUNCE_DESCRIBE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_DENOUNCE_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_DENOUNCE_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_SEND_DELEGATION_DESCRIBE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_SEND_DELEGATION_DESCRIBE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_BLOCK_DENOUNCE_10",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_SEND_DELEGATION_DESCRIBE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_SEND_DELEGATION_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_SEND_DELEGATION_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_INCITE_RAID_DESCRIBE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_INCITE_RAID_DESCRIBE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_INCITE_RAID_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_INCITE_RAID_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_CS_PROMOTE_GROWTH_ACTIVE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_CS_PROMOTE_GROWTH_ACTIVE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_CS_BOLSTER_MILITARY_DESCRIBE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_CS_BOLSTER_MILITARY_DESCRIBE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_CS_BOLSTER_MILITARY_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_CS_BOLSTER_MILITARY_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_CS_ORDER_ATTACK_DESCRIBE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_CS_ORDER_ATTACK_DESCRIBE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_CS_ORDER_ATTACK_ACTIVE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_CS_ORDER_ATTACK_ACTIVE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_CS_LEVY_UNIT_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_CS_LEVY_UNIT_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_CS_INCORPORATE_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_CS_INCORPORATE_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_IMPROVE_TRADE_RELATIONS_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_IMPROVE_TRADE_RELATIONS_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_IMPROVE_TRADE_RELATIONS_COMPLETE_TARGET",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_IMPROVE_TRADE_RELATIONS_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_GRANT_POLICY_SLOT_STARTED",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_GRANT_POLICY_SLOT_STARTED"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_GRANT_POLICY_SLOT_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_GRANT_POLICY_SLOT_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_GRANT_POLICY_SLOT_COMPLETE_TARGET",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_GRANT_POLICY_SLOT_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_GINSING_AGREEMENT_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_GINSING_AGREEMENT_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_FRIEND_OF_WA_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_FRIEND_OF_WA_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_DENOUNCE_MILITARY_PRESENCE_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_DENOUNCE_MILITARY_PRESENCE_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_COUNTER_SPY_ACTIVE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ACTION_COUNTER_SPY_ACTIVE"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_ACTION_STARTED",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_MILITARY_SABOTAGE_STARTED"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_MILITARY_SABOTAGE_IN_PROGRESS",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_MILITARY_SABOTAGE_IN_PROGRESS"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_ACTION_STARTED",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_STEAL_TECH_IN_PROGRESS"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_STEAL_TECH_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_STEAL_TECH_COMPLETE"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_ACTION_STARTED",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_STEAL_CIVIC_IN_PROGRESS"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_STEAL_CIVIC_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_STEAL_CIVIC_COMPLETE"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_ACTION_STARTED",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_MILITARY_INFILTRATION_STARTED"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_MILITARY_INFILTRATION_IN_PROGRESS",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_MILITARY_INFILTRATION_IN_PROGRESS"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_ACTION_STARTED",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_SABOTAGE_SHIPPING_STARTED"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_SABOTAGE_SHIPPING_IN_PROGRESS",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_SABOTAGE_SHIPPING_IN_PROGRESS"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_ACTION_STARTED",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_FAKE_ARTIFACTS_STARTED"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_FAKE_ARTIFACTS_IN_PROGRESS",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_FAKE_ARTIFACTS_IN_PROGRESS"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_ACTION_STARTED",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_INFILTRATE_ENEMY_POSITIONS_STARTED"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_INFILTRATE_ENEMY_POSITIONS_IN_PROGRESS",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_INFILTRATE_ENEMY_POSITIONS_IN_PROGRESS"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_ACTION_STARTED",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_SABOTAGE_SPACE_PROGRAM_STARTED"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_SABOTAGE_SPACE_PROGRAM_IN_PROGRESS_PROJECT_PRODUCTION",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_SABOTAGE_SPACE_PROGRAM_IN_PROGRESS"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_SABOTAGE_SPACE_PROGRAM_IN_PROGRESS_CONSTRUCTIBLE_PRODUCTION",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ESPIONAGE_SABOTAGE_SPACE_PROGRAM_IN_PROGRESS"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_ACTION_STARTED",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ACTION_ESPIONAGE_IDEOLOGICAL_REVOLT_STARTED"
+    },
+    {
+        "ModifierId": "DIPLOMACY_MOD_ESPIONAGE_IDEOLOGICAL_REVOLT_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_ACTION_ESPIONAGE_IDEOLOGICAL_REVOLT_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_BECOME_SUZERAIN",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_BECOME_SUZERAIN_COMPLETE"
+    },
+    {
+        "ModifierId": "PLAYER_DIPLOMACY_GIFT_GURKHA_COMPLETE",
+        "OneShot": 0,
+        "StageType": "DIPLOMACY_GIFT_GURKHA_COMPLETE"
+    }
+]

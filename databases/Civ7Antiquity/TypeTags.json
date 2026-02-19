@@ -1,0 +1,2892 @@
+[
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GREATWORK",
+        "Type": "BUILDING_PALACE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_PALACE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PERSISTENT",
+        "Type": "BUILDING_PALACE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_CITY_HALL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PERSISTENT",
+        "Type": "BUILDING_CITY_HALL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FISHING_BOAT",
+        "Type": "IMPROVEMENT_FISHING_BOAT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FISHING_BOAT",
+        "Type": "IMPROVEMENT_FISHING_BOAT_RESOURCE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SNOW",
+        "Type": "PLOTEFFECT_SNOW_LIGHT_TRANSIENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "LIGHT",
+        "Type": "PLOTEFFECT_SNOW_LIGHT_TRANSIENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "TRANSIENT",
+        "Type": "PLOTEFFECT_SNOW_LIGHT_TRANSIENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SNOW",
+        "Type": "PLOTEFFECT_SNOW_MEDIUM_TRANSIENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "MEDIUM",
+        "Type": "PLOTEFFECT_SNOW_MEDIUM_TRANSIENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "TRANSIENT",
+        "Type": "PLOTEFFECT_SNOW_MEDIUM_TRANSIENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SNOW",
+        "Type": "PLOTEFFECT_SNOW_HEAVY_TRANSIENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HEAVY",
+        "Type": "PLOTEFFECT_SNOW_HEAVY_TRANSIENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "TRANSIENT",
+        "Type": "PLOTEFFECT_SNOW_HEAVY_TRANSIENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SNOW",
+        "Type": "PLOTEFFECT_SNOW_LIGHT_PERMANENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "LIGHT",
+        "Type": "PLOTEFFECT_SNOW_LIGHT_PERMANENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PERMANENT",
+        "Type": "PLOTEFFECT_SNOW_LIGHT_PERMANENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SNOW",
+        "Type": "PLOTEFFECT_SNOW_MEDIUM_PERMANENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "MEDIUM",
+        "Type": "PLOTEFFECT_SNOW_MEDIUM_PERMANENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PERMANENT",
+        "Type": "PLOTEFFECT_SNOW_MEDIUM_PERMANENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SNOW",
+        "Type": "PLOTEFFECT_SNOW_HEAVY_PERMANENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HEAVY",
+        "Type": "PLOTEFFECT_SNOW_HEAVY_PERMANENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PERMANENT",
+        "Type": "PLOTEFFECT_SNOW_HEAVY_PERMANENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NOTADJACENTTOLAND",
+        "Type": "FEATURE_BERMUDA_TRIANGLE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "ADJACENTTOCOAST",
+        "Type": "FEATURE_BERMUDA_TRIANGLE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NOTADJACENTTORIVER",
+        "Type": "FEATURE_MOUNT_EVEREST"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "ADJACENTTOSAMEBIOME",
+        "Type": "FEATURE_MOUNT_EVEREST"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NOTNEARCOAST",
+        "Type": "FEATURE_MOUNT_EVEREST"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NAVIGABLE_RIVERS_ELIGIBLE",
+        "Type": "RESOURCE_CRABS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "IGNORES_WEIGHT_FOR_NAVIGABLE_RIVER_PLACEMENT",
+        "Type": "RESOURCE_CRABS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "VOLCANO",
+        "Type": "FEATURE_VOLCANO"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NOTNEARCOAST",
+        "Type": "FEATURE_VALLEY_OF_FLOWERS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "ADJACENTMOUNTAIN",
+        "Type": "FEATURE_VALLEY_OF_FLOWERS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "ADJACENTTOLAND",
+        "Type": "FEATURE_BARRIER_REEF"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FEATURE_REEF",
+        "Type": "FEATURE_BARRIER_REEF"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SHALLOWWATER",
+        "Type": "FEATURE_BARRIER_REEF"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NOTADJACENTTOICE",
+        "Type": "FEATURE_BARRIER_REEF"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NOTADJACENTTOICE",
+        "Type": "FEATURE_COLD_REEF"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FEATURE_FOREST",
+        "Type": "FEATURE_REDWOOD_FOREST"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WATERFALL",
+        "Type": "FEATURE_GULLFOSS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NOTNEARCOAST",
+        "Type": "FEATURE_GRAND_CANYON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NOTADJACENTTORIVER",
+        "Type": "FEATURE_GRAND_CANYON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WATERFALL",
+        "Type": "FEATURE_IGUAZU_FALLS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "VOLCANO",
+        "Type": "FEATURE_KILIMANJARO"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "ADJACENTTOLAND",
+        "Type": "FEATURE_THERA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "VOLCANO",
+        "Type": "FEATURE_THERA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SHALLOWWATER",
+        "Type": "FEATURE_THERA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NOTADJACENTTOICE",
+        "Type": "FEATURE_THERA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "ADJACENTTOSAMEBIOME",
+        "Type": "FEATURE_ULURU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NOTADJACENTMOUNTAIN",
+        "Type": "FEATURE_ULURU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "IN_LAKE",
+        "Type": "FEATURE_LOTUS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMMAND",
+        "Type": "UNIT_ARMY_COMMANDER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ARMY_COMMANDER",
+        "Type": "UNIT_ARMY_COMMANDER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "UNIT_ARMY_COMMANDER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMMAND",
+        "Type": "UNIT_FLEET_COMMANDER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_FLEET_COMMANDER",
+        "Type": "UNIT_FLEET_COMMANDER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NAVAL",
+        "Type": "UNIT_FLEET_COMMANDER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "UNIT_FLEET_COMMANDER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NON_COMBAT",
+        "Type": "UNIT_MIGRANT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MIGRANT",
+        "Type": "UNIT_MIGRANT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_POPULATION",
+        "Type": "UNIT_MIGRANT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NON_COMBAT",
+        "Type": "UNIT_SCOUT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_AUTOEXPLORE",
+        "Type": "UNIT_SCOUT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RECON",
+        "Type": "UNIT_SCOUT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RECON_ABILITIES",
+        "Type": "UNIT_SCOUT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFLUENCE_INDEPENDENT",
+        "Type": "UNIT_SCOUT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_PET_THE_DOG",
+        "Type": "UNIT_SCOUT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NON_COMBAT",
+        "Type": "UNIT_FOUNDER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CREATE_CITY",
+        "Type": "UNIT_FOUNDER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_DISABLE_SLEEP",
+        "Type": "UNIT_FOUNDER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NON_COMBAT",
+        "Type": "UNIT_SETTLER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CREATE_TOWN",
+        "Type": "UNIT_SETTLER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NON_COMBAT",
+        "Type": "UNIT_MERCHANT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MAKE_TRADE_ROUTE",
+        "Type": "UNIT_MERCHANT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NON_COMBAT",
+        "Type": "UNIT_TRADE_CARAVAN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LAND_TRADE_ROUTE",
+        "Type": "UNIT_TRADE_CARAVAN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TRADE_ROUTE",
+        "Type": "UNIT_TRADE_CARAVAN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NON_COMBAT",
+        "Type": "UNIT_TRADE_SHIP"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SEA_TRADE_ROUTE",
+        "Type": "UNIT_TRADE_SHIP"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TRADE_ROUTE",
+        "Type": "UNIT_TRADE_SHIP"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "IGNORE_DISTRICT_PLACEMENT_CAP",
+        "Type": "BUILDING_ANCIENT_WALLS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "LINK_ADJACENT",
+        "Type": "BUILDING_ANCIENT_WALLS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "DISTRICT_WALL",
+        "Type": "BUILDING_ANCIENT_WALLS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "BUILDING_BRICKYARD"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WAREHOUSE",
+        "Type": "BUILDING_BRICKYARD"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_BRICKYARD"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FOOD",
+        "Type": "BUILDING_FISHING_QUAY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WAREHOUSE",
+        "Type": "BUILDING_FISHING_QUAY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_FISHING_QUAY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WATER",
+        "Type": "BUILDING_FISHING_QUAY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FOOD",
+        "Type": "BUILDING_GRANARY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WAREHOUSE",
+        "Type": "BUILDING_GRANARY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_GRANARY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "BUILDING_SAW_PIT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WAREHOUSE",
+        "Type": "BUILDING_SAW_PIT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_SAW_PIT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_HARBOR"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PERSISTENT",
+        "Type": "BUILDING_HARBOR"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WATER",
+        "Type": "BUILDING_HARBOR"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "BUILDING_HARBOR"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WAREHOUSE",
+        "Type": "BUILDING_HARBOR"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CULTURE",
+        "Type": "BUILDING_MASTABA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_MASTABA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_MASTABA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GOLD",
+        "Type": "BUILDING_MORTUARY_TEMPLE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_MORTUARY_TEMPLE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_MORTUARY_TEMPLE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "BUILDING_ODEON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_ODEON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_ODEON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CULTURE",
+        "Type": "BUILDING_PARTHENON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "DIPLOMACY",
+        "Type": "BUILDING_PARTHENON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_PARTHENON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_PARTHENON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "BUILDING_DHARAMSHALA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_DHARAMSHALA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_DHARAMSHALA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "BUILDING_VIHARA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_VIHARA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_VIHARA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "BUILDING_JALAW"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_JALAW"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_JALAW"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SCIENCE",
+        "Type": "BUILDING_KUH_NAH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_KUH_NAH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_KUH_NAH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "DIPLOMACY",
+        "Type": "BUILDING_BASILICA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_BASILICA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_BASILICA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "BUILDING_TEMPLE_OF_JUPITER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_TEMPLE_OF_JUPITER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_TEMPLE_OF_JUPITER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_BARAY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "IMPROVEMENT_BARAY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FORTIFICATION",
+        "Type": "IMPROVEMENT_HAN_GREAT_WALL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "LINK_ADJACENT",
+        "Type": "IMPROVEMENT_HAN_GREAT_WALL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_HAN_GREAT_WALL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "IMPROVEMENT_HAN_GREAT_WALL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_HAWELT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "IMPROVEMENT_HAWELT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_PAIRIDAEZA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "IMPROVEMENT_PAIRIDAEZA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_POTKOP"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "IMPROVEMENT_POTKOP"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FORTIFICATION",
+        "Type": "IMPROVEMENT_HILLFORT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_HILLFORT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "IMPROVEMENT_HILLFORT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CITY_STATE_UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_HILLFORT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_MEGALITH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "IMPROVEMENT_MEGALITH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CITY_STATE_UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_MEGALITH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_SOUQ"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "IMPROVEMENT_SOUQ"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CITY_STATE_UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_SOUQ"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_ZIGGURAT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "IMPROVEMENT_ZIGGURAT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CITY_STATE_UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_ZIGGURAT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_ICE_HOUSE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "IMPROVEMENT_ICE_HOUSE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CITY_STATE_UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_ICE_HOUSE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_FESTIVAL_GROUNDS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "IMPROVEMENT_FESTIVAL_GROUNDS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CITY_STATE_UNIQUE_IMPROVEMENT",
+        "Type": "IMPROVEMENT_FESTIVAL_GROUNDS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FORTIFICATION",
+        "Type": "WONDER_DUR_SHARRUKIN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GREATWORK",
+        "Type": "WONDER_NALANDA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_ANGKOR_WAT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_COLOSSEUM"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_COLOSSUS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_DUR_SHARRUKIN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_EMILE_BELL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_GATE_OF_ALL_NATIONS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_GREAT_STELE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_HA_AMONGA_A_MAUI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_HANGING_GARDENS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_MAUSOLEUM_OF_THEODORIC"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_MONKS_MOUND"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_MUNDO_PERDIDO"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_NALANDA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_ORACLE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_PETRA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_PYRAMID_OF_THE_SUN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_PYRAMIDS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_SANCHI_STUPA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_TERRACOTTA_ARMY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_WEIYANG_PALACE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_GREAT_LIBRARY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SCIENCE",
+        "Type": "BUILDING_ACADEMY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GREATWORK",
+        "Type": "BUILDING_ACADEMY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "BUILDING_ALTAR"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CULTURE",
+        "Type": "BUILDING_AMPHITHEATER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WATER",
+        "Type": "BUILDING_ANCIENT_BRIDGE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "BRIDGE",
+        "Type": "BUILDING_ANCIENT_BRIDGE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FORTIFICATION",
+        "Type": "BUILDING_ANCIENT_WALLS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "BUILDING_ARENA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "MILITARY",
+        "Type": "BUILDING_BARRACKS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "URBANCENTER",
+        "Type": "BUILDING_BARRACKS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FOOD",
+        "Type": "BUILDING_BATH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WATER",
+        "Type": "BUILDING_BATH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "BUILDING_BLACKSMITH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FOOD",
+        "Type": "BUILDING_GARDEN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "BUILDING_GARDEN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "URBANCENTER",
+        "Type": "BUILDING_GARDEN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SCIENCE",
+        "Type": "BUILDING_LIBRARY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GREATWORK",
+        "Type": "BUILDING_LIBRARY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "URBANCENTER",
+        "Type": "BUILDING_LIBRARY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GOLD",
+        "Type": "BUILDING_LIGHTHOUSE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "TRADE",
+        "Type": "BUILDING_LIGHTHOUSE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WATER",
+        "Type": "BUILDING_LIGHTHOUSE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GOLD",
+        "Type": "BUILDING_MARKET"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "TRADE",
+        "Type": "BUILDING_MARKET"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "URBANCENTER",
+        "Type": "BUILDING_MARKET"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CULTURE",
+        "Type": "BUILDING_MONUMENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "DIPLOMACY",
+        "Type": "BUILDING_MONUMENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "URBANCENTER",
+        "Type": "BUILDING_MONUMENT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "BUILDING_VILLA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "DIPLOMACY",
+        "Type": "BUILDING_VILLA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CRISIS",
+        "Type": "BUILDING_VILLA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GOLD",
+        "Type": "RESOURCE_CAMELS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FOOD",
+        "Type": "RESOURCE_COTTON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_COTTON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FOOD",
+        "Type": "RESOURCE_DATES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "RESOURCE_DATES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "RESOURCE_DYES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FOOD",
+        "Type": "RESOURCE_FISH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GOLD",
+        "Type": "RESOURCE_GOLD"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GOLD",
+        "Type": "RESOURCE_GOLD_DISTANT_LANDS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_GYPSUM"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_HIDES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_HORSES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SCIENCE",
+        "Type": "RESOURCE_INCENSE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_IRON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_IVORY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GOLD",
+        "Type": "RESOURCE_JADE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FOOD",
+        "Type": "RESOURCE_KAOLIN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_MARBLE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "RESOURCE_PEARLS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_SALT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CULTURE",
+        "Type": "RESOURCE_SILK"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GOLD",
+        "Type": "RESOURCE_SILVER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GOLD",
+        "Type": "RESOURCE_SILVER_DISTANT_LANDS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "RESOURCE_WINE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CULTURE",
+        "Type": "RESOURCE_WINE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "RESOURCE_WOOL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_WOOL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GOLD",
+        "Type": "RESOURCE_LAPIS_LAZULI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_LAPIS_LAZULI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FOOD",
+        "Type": "RESOURCE_MANGOS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CULTURE",
+        "Type": "RESOURCE_MANGOS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_CLAY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CULTURE",
+        "Type": "RESOURCE_FLAX"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SCIENCE",
+        "Type": "RESOURCE_FLAX"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GOLD",
+        "Type": "RESOURCE_RUBIES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FOOD",
+        "Type": "RESOURCE_RICE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_LIMESTONE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_TIN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_LLAMAS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "RESOURCE_LLAMAS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "RESOURCE_HARDWOOD"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FOOD",
+        "Type": "RESOURCE_WILD_GAME"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FOOD",
+        "Type": "RESOURCE_CRABS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GOLD",
+        "Type": "RESOURCE_COWRIE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SCIENCE",
+        "Type": "RESOURCE_COWRIE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CULTURE",
+        "Type": "RESOURCE_TURTLES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_WARRIOR"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_WARRIOR"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_WARRIOR"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_SLINGER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RANGED",
+        "Type": "UNIT_SLINGER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_SPEARMAN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_SPEARMAN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_SPEARMAN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_ARCHER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RANGED",
+        "Type": "UNIT_ARCHER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_CHARIOT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_WHEELED",
+        "Type": "UNIT_CHARIOT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CAVALRY",
+        "Type": "UNIT_CHARIOT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MOUNTED",
+        "Type": "UNIT_CHARIOT"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_BALLISTA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_WHEELED",
+        "Type": "UNIT_BALLISTA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SIEGE",
+        "Type": "UNIT_BALLISTA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_GALLEY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RECON",
+        "Type": "UNIT_GALLEY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_GALLEY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NAVAL",
+        "Type": "UNIT_GALLEY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_PHALANX"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_PHALANX"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_PHALANX"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ELITE_INFANTRY",
+        "Type": "UNIT_PHALANX"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_HORSEMAN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MOUNTED",
+        "Type": "UNIT_HORSEMAN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CAVALRY",
+        "Type": "UNIT_HORSEMAN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ELITE_CAVALRY",
+        "Type": "UNIT_HORSEMAN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_QUADRIREME"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RECON",
+        "Type": "UNIT_QUADRIREME"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_QUADRIREME"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NAVAL",
+        "Type": "UNIT_QUADRIREME"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_BURNING_ARROW"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RANGED",
+        "Type": "UNIT_BURNING_ARROW"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_BURNING_ARROW",
+        "Type": "UNIT_BURNING_ARROW"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_BURNING_ARROW_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RANGED",
+        "Type": "UNIT_BURNING_ARROW_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_BURNING_ARROW",
+        "Type": "UNIT_BURNING_ARROW_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_DANTINAS_TATHA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MOUNTED",
+        "Type": "UNIT_DANTINAS_TATHA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CAVALRY",
+        "Type": "UNIT_DANTINAS_TATHA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_DANTINAS_TATHA",
+        "Type": "UNIT_DANTINAS_TATHA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_DANTINAS_TATHA_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MOUNTED",
+        "Type": "UNIT_DANTINAS_TATHA_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CAVALRY",
+        "Type": "UNIT_DANTINAS_TATHA_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_DANTINAS_TATHA",
+        "Type": "UNIT_DANTINAS_TATHA_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ELITE_CAVALRY",
+        "Type": "UNIT_DANTINAS_TATHA_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_DHOW"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_DHOW"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NAVAL",
+        "Type": "UNIT_DHOW"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MAKE_TRADE_ROUTE",
+        "Type": "UNIT_DHOW"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_DHOW",
+        "Type": "UNIT_DHOW"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_DHOW_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_DHOW_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NAVAL",
+        "Type": "UNIT_DHOW_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MAKE_TRADE_ROUTE",
+        "Type": "UNIT_DHOW_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_DHOW",
+        "Type": "UNIT_DHOW_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_HOPLITE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_HOPLITE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_HOPLITE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_HOPLITE",
+        "Type": "UNIT_HOPLITE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_HOPLITE_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_HOPLITE_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_HOPLITE_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_HOPLITE",
+        "Type": "UNIT_HOPLITE_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_HOPLITE_3"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_HOPLITE_3"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_HOPLITE_3"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_HOPLITE",
+        "Type": "UNIT_HOPLITE_3"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ELITE_INFANTRY",
+        "Type": "UNIT_HOPLITE_3"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_HULCHE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RANGED",
+        "Type": "UNIT_HULCHE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_HULCHE",
+        "Type": "UNIT_HULCHE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_HULCHE_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RANGED",
+        "Type": "UNIT_HULCHE_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_HULCHE",
+        "Type": "UNIT_HULCHE_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_IMMORTAL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_IMMORTAL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_IMMORTAL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_IMMORTAL",
+        "Type": "UNIT_IMMORTAL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_IMMORTAL_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_IMMORTAL_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_IMMORTAL_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_IMMORTAL",
+        "Type": "UNIT_IMMORTAL_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ELITE_INFANTRY",
+        "Type": "UNIT_IMMORTAL_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_LEGION"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_LEGION"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_LEGION"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LEGION",
+        "Type": "UNIT_LEGION"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_LEGION_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_LEGION_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_LEGION_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LEGION",
+        "Type": "UNIT_LEGION_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ELITE_INFANTRY",
+        "Type": "UNIT_LEGION_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_MEDJAY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_MEDJAY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_MEDJAY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MEDJAY",
+        "Type": "UNIT_MEDJAY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_MEDJAY_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_MEDJAY_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_MEDJAY_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MEDJAY",
+        "Type": "UNIT_MEDJAY_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_MEDJAY_3"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_MEDJAY_3"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_MEDJAY_3"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MEDJAY",
+        "Type": "UNIT_MEDJAY_3"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ELITE_INFANTRY",
+        "Type": "UNIT_MEDJAY_3"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_NU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RANGED",
+        "Type": "UNIT_NU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NU",
+        "Type": "UNIT_NU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_NU_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RANGED",
+        "Type": "UNIT_NU_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NU",
+        "Type": "UNIT_NU_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_PURABHETTARAH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MOUNTED",
+        "Type": "UNIT_PURABHETTARAH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CAVALRY",
+        "Type": "UNIT_PURABHETTARAH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_PURABHETTARAH",
+        "Type": "UNIT_PURABHETTARAH"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_PURABHETTARAH_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MOUNTED",
+        "Type": "UNIT_PURABHETTARAH_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CAVALRY",
+        "Type": "UNIT_PURABHETTARAH_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_PURABHETTARAH",
+        "Type": "UNIT_PURABHETTARAH_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ELITE_CAVALRY",
+        "Type": "UNIT_PURABHETTARAH_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_FOEDERATI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_FOEDERATI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFANTRY",
+        "Type": "UNIT_FOEDERATI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_FOEDERATI",
+        "Type": "UNIT_FOEDERATI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMMAND",
+        "Type": "UNIT_HAZARAPATIS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ARMY_COMMANDER",
+        "Type": "UNIT_HAZARAPATIS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_HAZARAPATIS",
+        "Type": "UNIT_HAZARAPATIS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_JAGUAR_SLAYER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_JAGUAR_SLAYER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RECON",
+        "Type": "UNIT_JAGUAR_SLAYER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RECON_ABILITIES",
+        "Type": "UNIT_JAGUAR_SLAYER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_AUTOEXPLORE",
+        "Type": "UNIT_JAGUAR_SLAYER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFLUENCE_INDEPENDENT",
+        "Type": "UNIT_JAGUAR_SLAYER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_JAGUAR_SLAYER",
+        "Type": "UNIT_JAGUAR_SLAYER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_PET_THE_DOG",
+        "Type": "UNIT_JAGUAR_SLAYER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMMAND",
+        "Type": "UNIT_LEGATUS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ARMY_COMMANDER",
+        "Type": "UNIT_LEGATUS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ALTERNATE_SETTLE",
+        "Type": "UNIT_LEGATUS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LEGATUS",
+        "Type": "UNIT_LEGATUS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_LOGIOS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LOGIOS",
+        "Type": "UNIT_LOGIOS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_LOGIOS_ARETE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LOGIOS",
+        "Type": "UNIT_LOGIOS_ARETE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_LOGIOS_ARISTOTLE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LOGIOS",
+        "Type": "UNIT_LOGIOS_ARISTOTLE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_LOGIOS_ASPASIA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LOGIOS",
+        "Type": "UNIT_LOGIOS_ASPASIA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_LOGIOS_SAPPHO"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LOGIOS",
+        "Type": "UNIT_LOGIOS_SAPPHO"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_LOGIOS_HYPATIA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LOGIOS",
+        "Type": "UNIT_LOGIOS_HYPATIA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_LOGIOS_PLATO"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LOGIOS",
+        "Type": "UNIT_LOGIOS_PLATO"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_LOGIOS_PYTHAGORAS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LOGIOS",
+        "Type": "UNIT_LOGIOS_PYTHAGORAS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_LOGIOS_SOCRATES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LOGIOS",
+        "Type": "UNIT_LOGIOS_SOCRATES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_LOGIOS_THALES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LOGIOS",
+        "Type": "UNIT_LOGIOS_THALES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_LOGIOS_XENOPHON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_LOGIOS",
+        "Type": "UNIT_LOGIOS_XENOPHON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CREATE_TOWN",
+        "Type": "UNIT_NAGARIKA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NON_COMBAT",
+        "Type": "UNIT_NAGARIKA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NAGARIKA",
+        "Type": "UNIT_NAGARIKA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_SHI_DAFU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SHI_DAFU",
+        "Type": "UNIT_SHI_DAFU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_SHI_DAFU_HAN_FEI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SHI_DAFU",
+        "Type": "UNIT_SHI_DAFU_HAN_FEI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_SHI_DAFU_LAOZI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SHI_DAFU",
+        "Type": "UNIT_SHI_DAFU_LAOZI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_SHI_DAFU_BAN_ZHAO"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SHI_DAFU",
+        "Type": "UNIT_SHI_DAFU_BAN_ZHAO"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_SHI_DAFU_MENCIUS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SHI_DAFU",
+        "Type": "UNIT_SHI_DAFU_MENCIUS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_SHI_DAFU_MOZI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SHI_DAFU",
+        "Type": "UNIT_SHI_DAFU_MOZI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_SHI_DAFU_SHANG_YANG"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SHI_DAFU",
+        "Type": "UNIT_SHI_DAFU_SHANG_YANG"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_SHI_DAFU_SHEN_BUHAI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SHI_DAFU",
+        "Type": "UNIT_SHI_DAFU_SHEN_BUHAI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_SHI_DAFU_WANG_YANGMING"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SHI_DAFU",
+        "Type": "UNIT_SHI_DAFU_WANG_YANGMING"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_SHI_DAFU_XUN_KUANG"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SHI_DAFU",
+        "Type": "UNIT_SHI_DAFU_XUN_KUANG"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_SHI_DAFU_ZHANG_HENG"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SHI_DAFU",
+        "Type": "UNIT_SHI_DAFU_ZHANG_HENG"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SEA_TRADE_ROUTE",
+        "Type": "UNIT_TANKWA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TANKWA",
+        "Type": "UNIT_TANKWA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_TJATY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TJATY",
+        "Type": "UNIT_TJATY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_TJATY_AMHOSE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TJATY",
+        "Type": "UNIT_TJATY_AMHOSE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_TJATY_APEREL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TJATY",
+        "Type": "UNIT_TJATY_APEREL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_TJATY_HEMIUNU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TJATY",
+        "Type": "UNIT_TJATY_HEMIUNU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_TJATY_IMHOTEP"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TJATY",
+        "Type": "UNIT_TJATY_IMHOTEP"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_TJATY_KHAY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TJATY",
+        "Type": "UNIT_TJATY_KHAY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_TJATY_NEBET"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TJATY",
+        "Type": "UNIT_TJATY_NEBET"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_TJATY_PASER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TJATY",
+        "Type": "UNIT_TJATY_PASER"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_TJATY_PTAHHOTEP"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TJATY",
+        "Type": "UNIT_TJATY_PTAHHOTEP"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_TJATY_RAMOSE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TJATY",
+        "Type": "UNIT_TJATY_RAMOSE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_GREATPERSON",
+        "Type": "UNIT_TJATY_USERAMEN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TJATY",
+        "Type": "UNIT_TJATY_USERAMEN"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MAKE_TRADE_ROUTE",
+        "Type": "UNIT_VAISHYA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_VAISHYA",
+        "Type": "UNIT_VAISHYA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MAKE_TRADE_ROUTE",
+        "Type": "UNIT_WATONATHI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_WATONATHI",
+        "Type": "UNIT_WATONATHI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_MAUSOLEUM_AT_HALICARNASSUS"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_NUMIDIAN_CAVALRY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MOUNTED",
+        "Type": "UNIT_NUMIDIAN_CAVALRY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CAVALRY",
+        "Type": "UNIT_NUMIDIAN_CAVALRY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NUMIDIAN_CAVALRY",
+        "Type": "UNIT_NUMIDIAN_CAVALRY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_NUMIDIAN_CAVALRY_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MOUNTED",
+        "Type": "UNIT_NUMIDIAN_CAVALRY_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CAVALRY",
+        "Type": "UNIT_NUMIDIAN_CAVALRY_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NUMIDIAN_CAVALRY",
+        "Type": "UNIT_NUMIDIAN_CAVALRY_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ELITE_CAVALRY",
+        "Type": "UNIT_NUMIDIAN_CAVALRY_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CREATE_TOWN",
+        "Type": "UNIT_COLONIST"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NON_COMBAT",
+        "Type": "UNIT_COLONIST"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COLONIST",
+        "Type": "UNIT_COLONIST"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "BUILDING_COTHON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_COTHON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WATER",
+        "Type": "BUILDING_COTHON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_COTHON"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GOLD",
+        "Type": "BUILDING_DOCKYARD"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_DOCKYARD"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "WATER",
+        "Type": "BUILDING_DOCKYARD"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_DOCKYARD"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_BYRSA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "VOLCANO",
+        "Type": "FEATURE_MOUNT_FUJI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_HWARANG"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RANGED",
+        "Type": "UNIT_HWARANG"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_HWARANG",
+        "Type": "UNIT_HWARANG"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MOUNTED",
+        "Type": "UNIT_HWARANG"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CAVALRY",
+        "Type": "UNIT_HWARANG"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_HWARANG_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RANGED",
+        "Type": "UNIT_HWARANG_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_HWARANG",
+        "Type": "UNIT_HWARANG_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MOUNTED",
+        "Type": "UNIT_HWARANG_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CAVALRY",
+        "Type": "UNIT_HWARANG_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MAKE_TRADE_ROUTE",
+        "Type": "UNIT_SANGDAEDEUNG"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_SANGDAEDEUNG",
+        "Type": "UNIT_SANGDAEDEUNG"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CULTURE",
+        "Type": "BUILDING_LECTURE_HALL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_LECTURE_HALL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_LECTURE_HALL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "BUILDING_PAGODA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_PAGODA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_PAGODA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_KALIA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_KALIA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NAVAL",
+        "Type": "UNIT_KALIA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_KALIA",
+        "Type": "UNIT_KALIA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_KALIA_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MELEE",
+        "Type": "UNIT_KALIA_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NAVAL",
+        "Type": "UNIT_KALIA_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_KALIA",
+        "Type": "UNIT_KALIA_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NON_COMBAT",
+        "Type": "UNIT_TEHINA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RECON",
+        "Type": "UNIT_TEHINA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_RECON_ABILITIES",
+        "Type": "UNIT_TEHINA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_AUTOEXPLORE",
+        "Type": "UNIT_TEHINA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_INFLUENCE_INDEPENDENT",
+        "Type": "UNIT_TEHINA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TEHINA",
+        "Type": "UNIT_TEHINA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_PET_THE_DOG",
+        "Type": "UNIT_TEHINA"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "CULTURE",
+        "Type": "BUILDING_LANGI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_LANGI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_LANGI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "HAPPINESS",
+        "Type": "BUILDING_VAI_KAUKAU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_VAI_KAUKAU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_VAI_KAUKAU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMMAND",
+        "Type": "UNIT_TRUNG_NHI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ARMY_COMMANDER",
+        "Type": "UNIT_TRUNG_NHI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TRUNG_NHI",
+        "Type": "UNIT_TRUNG_NHI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_NO_INDEPENDENTS",
+        "Type": "UNIT_TRUNG_NHI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "UNIT_TRUNG_NHI"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SHALLOWWATER",
+        "Type": "FEATURE_GREAT_BLUE_HOLE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NOTADJACENTTOICE",
+        "Type": "FEATURE_GREAT_BLUE_HOLE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "ADJACENTTOSAMETERRAIN",
+        "Type": "FEATURE_GREAT_BLUE_HOLE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "ADJACENTCLIFF",
+        "Type": "FEATURE_MAPU_A_VAEA_BLOWHOLES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "ADJACENTTOLAND",
+        "Type": "FEATURE_MAPU_A_VAEA_BLOWHOLES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SHALLOWWATER",
+        "Type": "FEATURE_MAPU_A_VAEA_BLOWHOLES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NOTADJACENTTOICE",
+        "Type": "FEATURE_MAPU_A_VAEA_BLOWHOLES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "NOLANDOPPOSITECLIFF",
+        "Type": "FEATURE_MAPU_A_VAEA_BLOWHOLES"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "WONDER_GREAT_LIGHTHOUSE"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_MAGARRU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_WHEELED",
+        "Type": "UNIT_MAGARRU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CAVALRY",
+        "Type": "UNIT_MAGARRU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MAGARRU",
+        "Type": "UNIT_MAGARRU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMBAT",
+        "Type": "UNIT_MAGARRU_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_WHEELED",
+        "Type": "UNIT_MAGARRU_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_CAVALRY",
+        "Type": "UNIT_MAGARRU_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_MAGARRU",
+        "Type": "UNIT_MAGARRU_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ELITE_CAVALRY",
+        "Type": "UNIT_MAGARRU_2"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_COMMAND",
+        "Type": "UNIT_TURTANU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_ARMY_COMMANDER",
+        "Type": "UNIT_TURTANU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIT_CLASS_TURTANU",
+        "Type": "UNIT_TURTANU"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "PRODUCTION",
+        "Type": "BUILDING_CITADEL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_CITADEL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "FORTIFICATION",
+        "Type": "BUILDING_CITADEL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_CITADEL"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "SCIENCE",
+        "Type": "BUILDING_ROYAL_LIBRARY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "GREATWORK",
+        "Type": "BUILDING_ROYAL_LIBRARY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "UNIQUE",
+        "Type": "BUILDING_ROYAL_LIBRARY"
+    },
+    {
+        "ShowActivationPlots": 0,
+        "Tag": "AGELESS",
+        "Type": "BUILDING_ROYAL_LIBRARY"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "OperationType": "ATTACK_BARBARIANS",
+        "Value": 0
+    },
+    {
+        "OperationType": "CITY_ASSAULT",
+        "Value": 1
+    },
+    {
+        "OperationType": "OP_ESCORT",
+        "Value": 2
+    },
+    {
+        "OperationType": "OP_SETTLE",
+        "Value": 3
+    },
+    {
+        "OperationType": "OP_DEFENSE",
+        "Value": 4
+    },
+    {
+        "OperationType": "OP_NUCLEAR",
+        "Value": 5
+    },
+    {
+        "OperationType": "NAVAL_SUPERIORITY",
+        "Value": 6
+    }
+]

@@ -1,0 +1,246 @@
+[
+    {
+        "UnitAbilityType": "ABILITY_FLEET_COMMANDER_MOVEMENT",
+        "UnitClassType": "UNIT_CLASS_FLEET_COMMANDER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_EMBED_LOOKOUT_RECON",
+        "UnitClassType": "UNIT_CLASS_RECON_ABILITIES"
+    },
+    {
+        "UnitAbilityType": "ABILITY_RESETTLE",
+        "UnitClassType": "UNIT_CLASS_POPULATION"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SHOCK_ATTACK",
+        "UnitClassType": "UNIT_CLASS_CAVALRY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SKIRMISH",
+        "UnitClassType": "UNIT_CLASS_SKIRMISH"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SKIRMISH",
+        "UnitClassType": "UNIT_CLASS_LIGHT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SWIFT",
+        "UnitClassType": "UNIT_CLASS_MOUNTED"
+    },
+    {
+        "UnitAbilityType": "ABILITY_STEALTH",
+        "UnitClassType": "UNIT_CLASS_STEALTH"
+    },
+    {
+        "UnitAbilityType": "ABILITY_ENTER_FOREIGN_LANDS",
+        "UnitClassType": "UNIT_CLASS_MAKE_TRADE_ROUTE"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SEE_HIDDEN_UNIT",
+        "UnitClassType": "UNIT_CLASS_SEE_HIDDEN"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HILLFORT",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_INITIATION",
+        "UnitClassType": "UNIT_CLASS_RELIGIOUS"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SEARCH_RECON",
+        "UnitClassType": "UNIT_CLASS_RECON_ABILITIES"
+    },
+    {
+        "UnitAbilityType": "ABILITY_PRIVATEER",
+        "UnitClassType": "UNIT_CLASS_PRIVATEER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_PRIVATEER_GOLD",
+        "UnitClassType": "UNIT_CLASS_PRIVATEER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_IGNORE_BORDERS",
+        "UnitClassType": "UNIT_CLASS_IGNORES_BORDERS"
+    },
+    {
+        "UnitAbilityType": "ABILITY_PLUNDER_TRADE_ROUTES_BETWEEN_OTHER_CIVS",
+        "UnitClassType": "UNIT_CLASS_PLUNDER_TRADE_ROUTES_BETWEEN_OTHER_CIVS"
+    },
+    {
+        "UnitAbilityType": "ABILITY_CHASQUI",
+        "UnitClassType": "UNIT_CLASS_CHASQUI"
+    },
+    {
+        "UnitAbilityType": "ABILITY_CETBANG",
+        "UnitClassType": "UNIT_CLASS_CETBANG"
+    },
+    {
+        "UnitAbilityType": "ABILITY_CORSAIR",
+        "UnitClassType": "UNIT_CLASS_CORSAIR"
+    },
+    {
+        "UnitAbilityType": "ABILITY_CHEVALER",
+        "UnitClassType": "UNIT_CLASS_CHEVALER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_CHEVALER_CIV_TRADITIONS",
+        "UnitClassType": "UNIT_CLASS_CHEVALER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_GOLD_BANGLES",
+        "UnitClassType": "UNIT_CLASS_GOLD_BANGLES"
+    },
+    {
+        "UnitAbilityType": "ABILITY_KALAM",
+        "UnitClassType": "UNIT_CLASS_KALAM"
+    },
+    {
+        "UnitAbilityType": "ABILITY_KESHIG",
+        "UnitClassType": "UNIT_CLASS_KESHIG"
+    },
+    {
+        "UnitAbilityType": "ABILITY_LEIOMANO",
+        "UnitClassType": "UNIT_CLASS_LEIOMANO"
+    },
+    {
+        "UnitAbilityType": "ABILITY_LEIOMANO_CULTURE",
+        "UnitClassType": "UNIT_CLASS_LEIOMANO"
+    },
+    {
+        "UnitAbilityType": "ABILITY_MAMLUK_LOCATION_CHECK",
+        "UnitClassType": "UNIT_CLASS_MAMLUK"
+    },
+    {
+        "UnitAbilityType": "ABILITY_MANDARIN",
+        "UnitClassType": "UNIT_CLASS_MANDARIN"
+    },
+    {
+        "UnitAbilityType": "ABILITY_MANDARIN_BONUS",
+        "UnitClassType": "UNIT_CLASS_MANDARIN"
+    },
+    {
+        "UnitAbilityType": "ABILITY_NOYAN",
+        "UnitClassType": "UNIT_CLASS_NOYAN"
+    },
+    {
+        "UnitAbilityType": "ABILITY_NOYAN_MOUNTED_COMBAT",
+        "UnitClassType": "UNIT_CLASS_MOUNTED"
+    },
+    {
+        "UnitAbilityType": "ABILITY_OTTRU",
+        "UnitClassType": "UNIT_CLASS_OTTRU"
+    },
+    {
+        "UnitAbilityType": "ABILITY_PEDANDA",
+        "UnitClassType": "UNIT_CLASS_PEDANDA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_TAJIRO",
+        "UnitClassType": "UNIT_CLASS_TAJIRO"
+    },
+    {
+        "UnitAbilityType": "ABILITY_TAJIRO_BONUS",
+        "UnitClassType": "UNIT_CLASS_TAJIRO"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SONGHAI_TRADE_PROTECTION",
+        "UnitClassType": "UNIT_CLASS_TRADE_ROUTE"
+    },
+    {
+        "UnitAbilityType": "ABILITY_TERCIO",
+        "UnitClassType": "UNIT_CLASS_TERCIO"
+    },
+    {
+        "UnitAbilityType": "ABILITY_TREASURE_FLEET",
+        "UnitClassType": "UNIT_CLASS_NAVAL_TREASURE"
+    },
+    {
+        "UnitAbilityType": "ABILITY_WARAKAQ",
+        "UnitClassType": "UNIT_CLASS_WARAKAQ"
+    },
+    {
+        "UnitAbilityType": "ABILITY_XUNLEICHONG",
+        "UnitClassType": "UNIT_CLASS_XUNLEICHONG"
+    },
+    {
+        "UnitAbilityType": "ABILITY_XUNLEICHONG_BONUS",
+        "UnitClassType": "UNIT_CLASS_RANGED"
+    },
+    {
+        "UnitAbilityType": "ABILITY_PHYSICIAN",
+        "UnitClassType": "UNIT_CLASS_PHYSICIAN"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HALICARNASSUS",
+        "UnitClassType": "UNIT_CLASS_CAVALRY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_BOYAR",
+        "UnitClassType": "UNIT_CLASS_BOYAR"
+    },
+    {
+        "UnitAbilityType": "ABILITY_BALIK",
+        "UnitClassType": "UNIT_CLASS_BALIK"
+    },
+    {
+        "UnitAbilityType": "ABILITY_BALIK_PILLAGE",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_VOI_CHIEN",
+        "UnitClassType": "UNIT_CLASS_VOI_CHIEN"
+    },
+    {
+        "UnitAbilityType": "ABILITY_VIET_KIEU",
+        "UnitClassType": "UNIT_CLASS_VIET_KIEU"
+    },
+    {
+        "UnitAbilityType": "ABILITY_CAM_QUAN",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_VIKINGR",
+        "UnitClassType": "UNIT_CLASS_VIKINGR"
+    },
+    {
+        "UnitAbilityType": "ABILITY_EGILL_SKALLAGRIMSSON",
+        "UnitClassType": "UNIT_CLASS_FLEET_COMMANDER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_EGILL_SKALLAGRIMSSON_COMMANDER",
+        "UnitClassType": "UNIT_CLASS_NAVAL"
+    },
+    {
+        "UnitAbilityType": "ABILITY_GRETTIR_ASMUNDARSON",
+        "UnitClassType": "UNIT_CLASS_ARMY_COMMANDER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_GRETTIR_ASMUNDARSON_COMMANDER",
+        "UnitClassType": "UNIT_CLASS_INFANTRY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SLOOP",
+        "UnitClassType": "UNIT_CLASS_SLOOP"
+    },
+    {
+        "UnitAbilityType": "ABILITY_BUCCANEER",
+        "UnitClassType": "UNIT_CLASS_BUCCANEER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_TECUMSEH_SUZERAIN",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_KISPOKO_NENA_TO",
+        "UnitClassType": "UNIT_CLASS_KISPOKO_NENA_TO"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HOCEEPKILENI",
+        "UnitClassType": "UNIT_CLASS_HOCEEPKILENI"
+    },
+    {
+        "UnitAbilityType": "ABILITY_GENGHIS_KHAN_ARMY_COMMANDER",
+        "UnitClassType": "UNIT_CLASS_ARMY_COMMANDER"
+    }
+]

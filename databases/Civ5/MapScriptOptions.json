@@ -1,0 +1,1362 @@
+[
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 5,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 1,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_BUFFER_ZONES",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 1,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEAM_SETTING",
+        "OptionID": "6",
+        "ReadOnly": 0,
+        "SortPriority": 2
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 5,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_MOUNTAIN_PATTERN",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 4,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_MOUNTAIN_DENSITY",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": 2
+    },
+    {
+        "DefaultValue": 4,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_BODIES_OF_WATER",
+        "OptionID": "6",
+        "ReadOnly": 0,
+        "SortPriority": 3
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 1,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_LANDMASS_TYPE",
+        "OptionID": "6",
+        "ReadOnly": 0,
+        "SortPriority": 0
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 4,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_BODIES_OF_WATER",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 5,
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 1,
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEAM_SETTING",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 5,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_DOMINANT_TERRAIN",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 4,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_LAND_SHAPE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": 2
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_ISTHMUS_WIDTH",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": 3
+    },
+    {
+        "DefaultValue": 1,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": 4
+    },
+    {
+        "DefaultValue": 9,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_DOMINANT_TERRAIN",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 1,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WATER_SETTING",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": 2
+    },
+    {
+        "DefaultValue": 1,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": 3
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 5,
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 1,
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEAM_SETTING",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 3,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Donut.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_CENTER_REGION",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 3,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_LANDMASS_TYPE",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 5,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_OCEAN",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 5,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_LANDMASS_TYPE",
+        "OptionID": "6",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 3,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_LANDMASS_TYPE",
+        "OptionID": "6",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 5,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 3,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TINY_ISLANDS",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 1,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEAM_SETTING",
+        "OptionID": "6",
+        "ReadOnly": 0,
+        "SortPriority": 2
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATURE",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -98
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 5,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_LANDMASS_TYPE",
+        "OptionID": "6",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_WORLD_AGE",
+        "OptionID": "1",
+        "ReadOnly": 0,
+        "SortPriority": -99
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RAINFALL",
+        "OptionID": "2",
+        "ReadOnly": 0,
+        "SortPriority": -97
+    },
+    {
+        "DefaultValue": 1,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_SEA_LEVEL",
+        "OptionID": "3",
+        "ReadOnly": 0,
+        "SortPriority": -96
+    },
+    {
+        "DefaultValue": 2,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_RESOURCES",
+        "OptionID": "4",
+        "ReadOnly": 0,
+        "SortPriority": -95
+    },
+    {
+        "DefaultValue": 5,
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Hidden": 0,
+        "Name": "TXT_KEY_MAP_OPTION_LANDMASS_TYPE",
+        "OptionID": "5",
+        "ReadOnly": 0,
+        "SortPriority": 1
+    }
+]

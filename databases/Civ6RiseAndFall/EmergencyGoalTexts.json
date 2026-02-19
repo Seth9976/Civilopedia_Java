@@ -1,0 +1,29 @@
+[
+    {
+        "GoalDescription": "LOC_EMERGENCY_GOAL_CAPTURE_CITIES",
+        "GoalType": "ConquerCities",
+        "ListGoal": "LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITIES",
+        "ShortGoalDescription": "LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES",
+        "ShortTargetGoalDescription": "LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES_DEFENSE",
+        "TargetListGoal": "LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITY_DEFENSE",
+        "TentativeGoalDescription": "LOC_EMERGENCY_GOAL_TENTATIVE_CAPTURE_CITIES"
+    },
+    {
+        "GoalDescription": "LOC_EMERGENCY_GOAL_UNCONVERT_CITY",
+        "GoalType": "ConvertCity",
+        "ListGoal": "LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY",
+        "ShortGoalDescription": "LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY",
+        "ShortTargetGoalDescription": "LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY_DEFENSE",
+        "TargetListGoal": "LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY_DEFENSE",
+        "TentativeGoalDescription": "LOC_EMERGENCY_GOAL_TENTATIVE_UNCONVERT_CITY"
+    },
+    {
+        "GoalDescription": "LOC_EMERGENCY_GOAL_LIBERATE_CITY",
+        "GoalType": "LiberateCity",
+        "ListGoal": "LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY",
+        "ShortGoalDescription": "LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY",
+        "ShortTargetGoalDescription": "LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY_DEFENSE",
+        "TargetListGoal": "LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY_DEFENSE",
+        "TentativeGoalDescription": "LOC_EMERGENCY_GOAL_TENTATIVE_LIBERATE_CITY"
+    }
+]

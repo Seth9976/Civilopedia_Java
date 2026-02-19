@@ -1,0 +1,296 @@
+[
+    {
+        "GameCapability": "CAPABILITY_RENAME"
+    },
+    {
+        "GameCapability": "CAPABILITY_CIVICS"
+    },
+    {
+        "GameCapability": "CAPABILITY_CIVICS_CHOOSER"
+    },
+    {
+        "GameCapability": "CAPABILITY_UNIT_LIST"
+    },
+    {
+        "GameCapability": "CAPABILITY_CIVICS_TREE"
+    },
+    {
+        "GameCapability": "CAPABILITY_MILITARY"
+    },
+    {
+        "GameCapability": "CAPABILITY_CULTURE"
+    },
+    {
+        "GameCapability": "CAPABILITY_CIVILOPEDIA"
+    },
+    {
+        "GameCapability": "CAPABILITY_GOLD"
+    },
+    {
+        "GameCapability": "CAPABILITY_GOVERNMENTS"
+    },
+    {
+        "GameCapability": "CAPABILITY_GOVERNMENTS_VIEW"
+    },
+    {
+        "GameCapability": "CAPABILITY_GOVERNMENTS_LEGACY_BONUSES"
+    },
+    {
+        "GameCapability": "CAPABILITY_GOVERNORS"
+    },
+    {
+        "GameCapability": "CAPABILITY_GREAT_WORKS"
+    },
+    {
+        "GameCapability": "CAPABILITY_NEW_GREAT_WORKS"
+    },
+    {
+        "GameCapability": "CAPABILITY_GREAT_WORKS_VIEW"
+    },
+    {
+        "GameCapability": "CAPABILITY_SCIENCE"
+    },
+    {
+        "GameCapability": "CAPABILITY_SEARCH_GAME_MAP"
+    },
+    {
+        "GameCapability": "CAPABILITY_TECHNOLOGIES"
+    },
+    {
+        "GameCapability": "CAPABILITY_TECH_CHOOSER"
+    },
+    {
+        "GameCapability": "CAPABILITY_TECH_TREE"
+    },
+    {
+        "GameCapability": "CAPABILITY_CULTURE_BORDER_GROWTH"
+    },
+    {
+        "GameCapability": "CAPABILITY_PURCHASE_PLOTS"
+    },
+    {
+        "GameCapability": "CAPABILITY_TRADE"
+    },
+    {
+        "GameCapability": "CAPABILITY_NEW_TRADE"
+    },
+    {
+        "GameCapability": "CAPABILITY_TRADE_VIEW"
+    },
+    {
+        "GameCapability": "CAPABILITY_DIPLOMACY"
+    },
+    {
+        "GameCapability": "CAPABILITY_DIPLOMACY_DEALS"
+    },
+    {
+        "GameCapability": "CAPABILITY_DIPLOMACY_VIEW_SELF"
+    },
+    {
+        "GameCapability": "CAPABILITY_DIPLOMACY_ACCESS_LEVEL_INFO"
+    },
+    {
+        "GameCapability": "CAPABILITY_DIPLOMACY_RELATIONSHIP_INFO"
+    },
+    {
+        "GameCapability": "CAPABILITY_RELIGION"
+    },
+    {
+        "GameCapability": "CAPABILITY_FOUND_PANTHEONS"
+    },
+    {
+        "GameCapability": "CAPABILITY_FOUND_RELIGIONS"
+    },
+    {
+        "GameCapability": "CAPABILITY_RELIGION_VIEW"
+    },
+    {
+        "GameCapability": "CAPABILITY_GREAT_PEOPLE"
+    },
+    {
+        "GameCapability": "CAPABILITY_GREAT_PEOPLE_CAN_RECRUIT"
+    },
+    {
+        "GameCapability": "CAPABILITY_GREAT_PEOPLE_RECRUIT_WITH_GOLD"
+    },
+    {
+        "GameCapability": "CAPABILITY_GREAT_PEOPLE_RECRUIT_WITH_FAITH"
+    },
+    {
+        "GameCapability": "CAPABILITY_GREAT_PEOPLE_CAN_REJECT"
+    },
+    {
+        "GameCapability": "CAPABILITY_GREAT_PEOPLE_VIEW"
+    },
+    {
+        "GameCapability": "CAPABILITY_ESPIONAGE"
+    },
+    {
+        "GameCapability": "CAPABILITY_NEW_ESPIONAGE"
+    },
+    {
+        "GameCapability": "CAPABILITY_ESPIONAGE_VIEW"
+    },
+    {
+        "GameCapability": "CAPABILITY_REPORTS_LIST"
+    },
+    {
+        "GameCapability": "CAPABILITY_FAITH"
+    },
+    {
+        "GameCapability": "CAPABILITY_TOURISM"
+    },
+    {
+        "GameCapability": "CAPABILITY_EMERGENCIES"
+    },
+    {
+        "GameCapability": "CAPABILITY_ERAS"
+    },
+    {
+        "GameCapability": "CAPABILITY_GOLDEN_AND_DARK_AGES"
+    },
+    {
+        "GameCapability": "CAPABILITY_HISTORIC_MOMENTS"
+    },
+    {
+        "GameCapability": "CAPABILITY_DISPLAY_HUD_WORLD_RANKINGS"
+    },
+    {
+        "GameCapability": "CAPABILITY_REPORTS_DIPLOMATIC_DEALS"
+    },
+    {
+        "GameCapability": "CAPABILITY_REPORTS_UNIT_EXPENSES"
+    },
+    {
+        "GameCapability": "CAPABILITY_WORLD_TRACKER"
+    },
+    {
+        "GameCapability": "CAPABILITY_AMENITIES"
+    },
+    {
+        "GameCapability": "CAPABILITY_LENS_TOGGLING_UI"
+    },
+    {
+        "GameCapability": "CAPABILITY_LENS_RELIGION"
+    },
+    {
+        "GameCapability": "CAPABILITY_LENS_APPEAL"
+    },
+    {
+        "GameCapability": "CAPABILITY_LENS_SETTLER"
+    },
+    {
+        "GameCapability": "CAPABILITY_LENS_GOVERNMENT"
+    },
+    {
+        "GameCapability": "CAPABILITY_LENS_TOURISM"
+    },
+    {
+        "GameCapability": "CAPABILITY_LENS_CONTINENT"
+    },
+    {
+        "GameCapability": "CAPABILITY_LENS_EMPIRE"
+    },
+    {
+        "GameCapability": "CAPABILITY_LENS_LOYALTY"
+    },
+    {
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_CIVICS"
+    },
+    {
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_RELIGION"
+    },
+    {
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_NATIONAL_PARKS"
+    },
+    {
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_GREAT_PEOPLE"
+    },
+    {
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_CITY_STATES"
+    },
+    {
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_WAR_WEARINESS"
+    },
+    {
+        "GameCapability": "CAPABILITY_CITY_HUD_AMENITIES_BANKRUPTCY"
+    },
+    {
+        "GameCapability": "CAPABILITY_CITY_HUD_HOUSING_DISTRICTS"
+    },
+    {
+        "GameCapability": "CAPABILITY_CITY_HUD_HOUSING_GREAT_PEOPLE"
+    },
+    {
+        "GameCapability": "CAPABILITY_CITY_HUD_RELIGION_TAB"
+    },
+    {
+        "GameCapability": "CAPABILITY_CITY_HUD_WONDERS"
+    },
+    {
+        "GameCapability": "CAPABILITY_CITY_HUD_TRADING_POSTS"
+    },
+    {
+        "GameCapability": "CAPABILITY_GOSSIP_REPORT"
+    },
+    {
+        "GameCapability": "CAPABILITY_DISPLAY_SCORE"
+    },
+    {
+        "GameCapability": "CAPABILITY_FAITH_PURCHASE"
+    },
+    {
+        "GameCapability": "CAPABILITY_CITY_STATES_VIEW"
+    },
+    {
+        "GameCapability": "CAPABILITY_TOP_PANEL_ENVOYS"
+    },
+    {
+        "GameCapability": "CAPABILITY_GOVERNMENT_SCREEN_MILITARY_FILTER"
+    },
+    {
+        "GameCapability": "CAPABILITY_GOVERNMENT_SCREEN_DIPLOMACY_FILTER"
+    },
+    {
+        "GameCapability": "CAPABILITY_DISPLAY_TOP_PANEL_YIELDS"
+    },
+    {
+        "GameCapability": "CAPABILITY_DISPLAY_TOP_PANEL_RESOURCES"
+    },
+    {
+        "GameCapability": "CAPABILITY_DISPLAY_TOP_PANEL_CIVPEDIA"
+    },
+    {
+        "GameCapability": "CAPABILITY_DISPLAY_MINIMAP_YIELDS"
+    },
+    {
+        "GameCapability": "CAPABILITY_DISPLAY_MINIMAP_RESOURCES"
+    },
+    {
+        "GameCapability": "CAPABILITY_DISPLAY_PLOT_YIELDS"
+    },
+    {
+        "GameCapability": "CAPABILITY_DISPLAY_HUD_RIBBON_RELATIONSHIPS"
+    },
+    {
+        "GameCapability": "CAPABILITY_DISPLAY_HUD_GOSSIP_LIST"
+    },
+    {
+        "GameCapability": "CAPABILITY_NOTIFY_UPGRADE_ROADS"
+    },
+    {
+        "GameCapability": "CAPABILITY_BARBARIAN_CLANS"
+    },
+    {
+        "GameCapability": "CAPABILITY_TREE_RANDOMIZER"
+    },
+    {
+        "GameCapability": "CAPABILITY_MONOPOLIES"
+    },
+    {
+        "GameCapability": "CAPABILITY_HEROES"
+    },
+    {
+        "GameCapability": "CAPABILITY_TOWERDEFENSE"
+    }
+]

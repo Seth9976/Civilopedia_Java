@@ -1,0 +1,623 @@
+[
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_INCREASED_HEALING",
+        "EmergencyType": "EMERGENCY_MILITARY",
+        "FirstPlace": 0,
+        "ModifierID": "MILITARY_EMERGENCY_MEMBER_HEALING_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_CITY_STRIKE",
+        "EmergencyType": "EMERGENCY_MILITARY",
+        "FirstPlace": 0,
+        "ModifierID": "MILITARY_EMERGENCY_TARGET_CITY_STRIKE_REWARD",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN",
+        "EmergencyType": "EMERGENCY_SETTLED_CITY",
+        "FirstPlace": 0,
+        "ModifierID": "SETTLEMENT_EMERGENCY_MEMBER_GPT_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN",
+        "EmergencyType": "EMERGENCY_SETTLED_CITY",
+        "FirstPlace": 0,
+        "ModifierID": "SETTLEMENT_EMERGENCY_TARGET_GPT_REWARD",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_CITY_STATE_GOLD_PER_ENVOY",
+        "EmergencyType": "EMERGENCY_CAPTURE_CITY_STATE",
+        "FirstPlace": 0,
+        "ModifierID": "CITY_STATE_EMERGENCY_MEMBER_ENVOY_GOLD_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_CITY_STATE_GOLD_FOR_TRADE_ROUTES",
+        "EmergencyType": "EMERGENCY_CAPTURE_CITY_STATE",
+        "FirstPlace": 0,
+        "ModifierID": "CITY_STATE_EMERGENCY_TARGET_ENVOY_GOLD_REWARD",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_RELIGIOUS_RELICS",
+        "EmergencyType": "EMERGENCY_RELIGIOUS",
+        "FirstPlace": 0,
+        "ModifierID": "RELIGIOUS_EMERGENCY_MEMBER_RELIC_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_RELIGIOUS_PRESSURE",
+        "EmergencyType": "EMERGENCY_RELIGIOUS",
+        "FirstPlace": 0,
+        "ModifierID": "RELIGIOUS_EMERGENCY_TARGET_PRESSURE_REWARD",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH",
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "FirstPlace": 0,
+        "ModifierID": "NUCLEAR_EMERGENCY_MEMBER_COMBAT_STRENGTH_ATTACK_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": null,
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "FirstPlace": 0,
+        "ModifierID": "NUCLEAR_EMERGENCY_MEMBER_COMBAT_STRENGTH_DEFEND_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_NUCLEAR_CULTURE_SCARE",
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "FirstPlace": 0,
+        "ModifierID": "NUCLEAR_EMERGENCY_TARGET_CULTURAL_IDENTITY_REWARD",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_COMBAT_STRENGTH",
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "FirstPlace": 0,
+        "ModifierID": "BACKSTAB_EMERGENCY_MEMBER_COMBAT_STRENGTH_ATTACK_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": null,
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "FirstPlace": 0,
+        "ModifierID": "BACKSTAB_EMERGENCY_MEMBER_COMBAT_STRENGTH_DEFEND_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_WAR_WEARINESS",
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "FirstPlace": 0,
+        "ModifierID": "BACKSTAB_EMERGENCY_TARGET_WAR_WEARINESS_REWARD",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_SINGLE_FIRST_PLACE_VICTORY_POINT_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PEACE",
+        "FirstPlace": 1,
+        "ModifierID": "NON_EMERGENCY_FIRST_PLACE_VICTORY_POINT",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_SINGLE_FIRST_PLACE_VICTORY_POINT_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_WORLDS_FAIR",
+        "FirstPlace": 1,
+        "ModifierID": "NON_EMERGENCY_FIRST_PLACE_VICTORY_POINT",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_SINGLE_FIRST_PLACE_VICTORY_POINT_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SPACE_STATION",
+        "FirstPlace": 1,
+        "ModifierID": "NON_EMERGENCY_FIRST_PLACE_VICTORY_POINT",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_SINGLE_FIRST_PLACE_VICTORY_POINT_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_WORLD_GAMES",
+        "FirstPlace": 1,
+        "ModifierID": "NON_EMERGENCY_FIRST_PLACE_VICTORY_POINT",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_AID_REQUEST_FIRST_PLACE_VICTORY_POINT_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SEND_AID",
+        "FirstPlace": 1,
+        "ModifierID": "AID_REQUEST_FIRST_PLACE_VICTORY_POINT",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_AID_REQUEST_FIRST_PLACE_VICTORY_POINT_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SEND_MILITARY_AID",
+        "FirstPlace": 1,
+        "ModifierID": "AID_REQUEST_FIRST_PLACE_VICTORY_POINT",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_AID_REQUEST_FIRST_PLACE_VICTORY_POINT_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_CLIMATE_ACCORDS",
+        "FirstPlace": 1,
+        "ModifierID": "CLIMATE_ACCORDS_FIRST_PLACE_VICTORY_POINT",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_AID_REQUEST_TOP_TIER_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SEND_AID",
+        "FirstPlace": 0,
+        "ModifierID": "AID_REQUEST_TOP_TIER_FAVOR",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 1,
+        "Description": "LOC_EMERGENCY_REWARD_AID_REQUEST_BOTTOM_TIER_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SEND_AID",
+        "FirstPlace": 0,
+        "ModifierID": "AID_REQUEST_BOTTOM_TIER_FAVOR",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_AID_REQUEST_TOP_TIER_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SEND_MILITARY_AID",
+        "FirstPlace": 0,
+        "ModifierID": "AID_REQUEST_TOP_TIER_FAVOR",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 1,
+        "Description": "LOC_EMERGENCY_REWARD_AID_REQUEST_BOTTOM_TIER_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SEND_MILITARY_AID",
+        "FirstPlace": 0,
+        "ModifierID": "AID_REQUEST_BOTTOM_TIER_FAVOR",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_WORLD_FAIR_FIRST_PLACE_GREAT_PERSON_POINTS_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_WORLDS_FAIR",
+        "FirstPlace": 1,
+        "ModifierID": "WORLD_FAIR_FIRST_PLACE_GREAT_PERSON_POINTS",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_WORLD_FAIR_TOP_TIER_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_WORLDS_FAIR",
+        "FirstPlace": 0,
+        "ModifierID": "WORLD_FAIR_TOP_TIER_FAVOR",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_WORLD_FAIR_TOP_TIER_CULTURE_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_WORLDS_FAIR",
+        "FirstPlace": 0,
+        "ModifierID": "WORLD_FAIR_TOP_TIER_CULTURE",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 1,
+        "Description": "LOC_EMERGENCY_REWARD_WORLD_FAIR_BOTTOM_TIER_CULTURE_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_WORLDS_FAIR",
+        "FirstPlace": 0,
+        "ModifierID": "WORLD_FAIR_BOTTOM_TIER_CULTURE",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_WORLD_GAMES_FIRST_PLACE_CAMPUS_TOURISM_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_WORLD_GAMES",
+        "FirstPlace": 1,
+        "ModifierID": "WORLD_GAMES_FIRST_PLACE_CAMPUS_TOURISM",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_WORLD_GAMES_TOP_TIER_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_WORLD_GAMES",
+        "FirstPlace": 0,
+        "ModifierID": "WORLD_GAMES_TOP_TIER_FAVOR",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_WORLD_GAMES_TOP_TIER_STADIUMS_TOURISM_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_WORLD_GAMES",
+        "FirstPlace": 0,
+        "ModifierID": "WORLD_GAMES_TOP_TIER_STADIUMS_TOURISM",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_WORLD_GAMES_TOP_TIER_AQUATIC_CENTERS_TOURISM_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_WORLD_GAMES",
+        "FirstPlace": 0,
+        "ModifierID": "WORLD_GAMES_TOP_TIER_AQUATIC_CENTERS_TOURISM",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 1,
+        "Description": "LOC_EMERGENCY_REWARD_WORLD_GAMES_BOTTOM_TIER_STADIUMS_TOURISM_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_WORLD_GAMES",
+        "FirstPlace": 0,
+        "ModifierID": "WORLD_GAMES_BOTTOM_TIER_STADIUMS_TOURISM",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 1,
+        "Description": "LOC_EMERGENCY_REWARD_WORLD_GAMES_BOTTOM_TIER_AQUATIC_CENTERS_TOURISM_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_WORLD_GAMES",
+        "FirstPlace": 0,
+        "ModifierID": "WORLD_GAMES_BOTTOM_TIER_AQUATIC_CENTERS_TOURISM",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_ISS_FIRST_PLACE_SPACESHIP_SPEED_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SPACE_STATION",
+        "FirstPlace": 1,
+        "ModifierID": "ISS_FIRST_PLACE_SPACESHIP_SPEED_ATTACH_MODIFIER",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_ISS_TOP_TIER_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SPACE_STATION",
+        "FirstPlace": 0,
+        "ModifierID": "ISS_TOP_TIER_FAVOR",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_ISS_TOP_TIER_SPACE_RACE_PRODUCTION_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SPACE_STATION",
+        "FirstPlace": 0,
+        "ModifierID": "ISS_TOP_TIER_SPACE_RACE_PRODUCTION",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 1,
+        "Description": "LOC_EMERGENCY_REWARD_ISS_BOTTOM_TIER_SPACE_RACE_PRODUCTION_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SPACE_STATION",
+        "FirstPlace": 0,
+        "ModifierID": "ISS_BOTTOM_TIER_SPACE_RACE_PRODUCTION",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_CLIMATE_ACCORDS_TOP_TIER_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_CLIMATE_ACCORDS",
+        "FirstPlace": 0,
+        "ModifierID": "CLIMATE_ACCORDS_TOP_TIER_FAVOR",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 1,
+        "Description": "LOC_EMERGENCY_REWARD_CLIMATE_ACCORDS_BOTTOM_TIER_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_CLIMATE_ACCORDS",
+        "FirstPlace": 0,
+        "ModifierID": "CLIMATE_ACCORDS_BOTTOM_TIER_FAVOR",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_LIT_FIRST_PLACE_ROCK_BAND_CHEAPER_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_LITERATURE",
+        "FirstPlace": 1,
+        "ModifierID": "NOBEL_PRIZE_LIT_FIRST_PLACE_ROCK_BAND_CHEAPER",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_LIT_FIRST_PLACE_ROCK_BAND_BUFF_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_LITERATURE",
+        "FirstPlace": 1,
+        "ModifierID": "NOBEL_PRIZE_LIT_FIRST_PLACE_ROCK_BAND_BUFF",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_LIT_TOP_TIER_ROCK_BAND_BUFF_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_LITERATURE",
+        "FirstPlace": 0,
+        "ModifierID": "NOBEL_PRIZE_LIT_TOP_TIER_ROCK_BAND_BUFF",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 1,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_LIT_BOTTOM_TIER_ROCK_BAND_BUFF_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_LITERATURE",
+        "FirstPlace": 0,
+        "ModifierID": "NOBEL_PRIZE_LIT_BOTTOM_TIER_ROCK_BAND_BUFF",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_FIRST_PLACE_TECH_BOOST_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PHYSICS",
+        "FirstPlace": 1,
+        "ModifierID": "NOBEL_PRIZE_PHY_FIRST_PLACE_TECH_BOOST",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_FIRST_PLACE_UNIVERSITY_RESOURCES_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PHYSICS",
+        "FirstPlace": 1,
+        "ModifierID": "NOBEL_PRIZE_PHY_FIRST_PLACE_UNIVERSITY_RESOURCES",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_TOP_TIER_TECH_BOOST_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PHYSICS",
+        "FirstPlace": 0,
+        "ModifierID": "NOBEL_PRIZE_PHY_TOP_TIER_TECH_BOOST",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_TOP_TIER_UNIVERSITY_RESOURCES_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PHYSICS",
+        "FirstPlace": 0,
+        "ModifierID": "NOBEL_PRIZE_PHY_TOP_TIER_RESEARCH_LAB_RESOURCES",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 1,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_BOTTOM_TIER_TECH_BOOST_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PHYSICS",
+        "FirstPlace": 0,
+        "ModifierID": "NOBEL_PRIZE_PHY_BOTTOM_TIER_TECH_BOOST",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_FIRST_PLACE_GREAT_MUSICIAN_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PEACE",
+        "FirstPlace": 1,
+        "ModifierID": "NOBEL_PRIZE_PEACE_FIRST_PLACE_GREAT_MUSICIAN",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_FIRST_PLACE_GREAT_SCIENTIST_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PEACE",
+        "FirstPlace": 1,
+        "ModifierID": "NOBEL_PRIZE_PEACE_FIRST_PLACE_GREAT_SCIENTIST",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_TOP_TIER_GREAT_ENGINEER_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PEACE",
+        "FirstPlace": 0,
+        "ModifierID": "NOBEL_PRIZE_PEACE_TOP_TIER_GREAT_ENGINEER",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_TOP_TIER_GREAT_ARTIST_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PEACE",
+        "FirstPlace": 0,
+        "ModifierID": "NOBEL_PRIZE_PEACE_TOP_TIER_GREAT_ARTIST",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 1,
+        "Description": "LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_BOTTOM_TIER_GREAT_ARTIST_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PEACE",
+        "FirstPlace": 0,
+        "ModifierID": "NOBEL_PRIZE_PEACE_BOTTOM_TIER_GREAT_ARTIST",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_MEMBERS_GAIN_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_MILITARY",
+        "FirstPlace": 0,
+        "ModifierID": "HOSTILE_EMERGENCY_GRANT_FAVOR_TO_MEMBERS",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_MEMBERS_GAIN_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_CAPTURE_CITY_STATE",
+        "FirstPlace": 0,
+        "ModifierID": "HOSTILE_EMERGENCY_GRANT_FAVOR_TO_MEMBERS",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_MEMBERS_GAIN_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_RELIGIOUS",
+        "FirstPlace": 0,
+        "ModifierID": "HOSTILE_EMERGENCY_GRANT_FAVOR_TO_MEMBERS",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_MEMBERS_GAIN_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "FirstPlace": 0,
+        "ModifierID": "HOSTILE_EMERGENCY_GRANT_FAVOR_TO_MEMBERS",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_MEMBERS_GAIN_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "FirstPlace": 0,
+        "ModifierID": "HOSTILE_EMERGENCY_GRANT_FAVOR_TO_MEMBERS",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_TARGET_GAINS_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_MILITARY",
+        "FirstPlace": 0,
+        "ModifierID": "HOSTILE_EMERGENCY_GRANT_FAVOR_TO_TARGET",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_TARGET_GAINS_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_CAPTURE_CITY_STATE",
+        "FirstPlace": 0,
+        "ModifierID": "HOSTILE_EMERGENCY_GRANT_FAVOR_TO_TARGET",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_TARGET_GAINS_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_RELIGIOUS",
+        "FirstPlace": 0,
+        "ModifierID": "HOSTILE_EMERGENCY_GRANT_FAVOR_TO_TARGET",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_TARGET_GAINS_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "FirstPlace": 0,
+        "ModifierID": "HOSTILE_EMERGENCY_GRANT_FAVOR_TO_TARGET",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_TARGET_GAINS_FAVOR_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "FirstPlace": 0,
+        "ModifierID": "HOSTILE_EMERGENCY_GRANT_FAVOR_TO_TARGET",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_FREE_SOOTHSAYER_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SOOTHSAYER",
+        "FirstPlace": 1,
+        "ModifierID": "EMERGENCY_SOOTHSAYER_FREE_UNIT_FIRST_PLACE",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_SOOTHSAYER_PROMOTION_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SOOTHSAYER",
+        "FirstPlace": 0,
+        "ModifierID": "EMERGENCY_SOOTHSAYER_PROMOTION_TOP_TIER",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_REWARD_FAITH_PER_TURN_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SOOTHSAYER",
+        "FirstPlace": 0,
+        "ModifierID": "EMERGENCY_SOOTHSAYER_FAITH_TOP_TIER",
+        "OnSuccess": 1,
+        "TopTier": 1
+    },
+    {
+        "BottomTier": 1,
+        "Description": "LOC_EMERGENCY_REWARD_FAITH_PER_TURN_DESCRIPTION",
+        "EmergencyType": "EMERGENCY_SOOTHSAYER",
+        "FirstPlace": 0,
+        "ModifierID": "EMERGENCY_SOOTHSAYER_FAITH_BOTTOM_TIER",
+        "OnSuccess": 1,
+        "TopTier": 0
+    }
+]

@@ -1,0 +1,342 @@
+[
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_ECONOMIC",
+        "UnitType": "UNIT_MERCHANT"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_TRADE",
+        "UnitType": "UNIT_MERCHANT"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_FOOD",
+        "UnitType": "UNIT_MIGRANT"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_EMPIRE_EXPANSION",
+        "UnitType": "UNIT_SETTLER"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_EMPIRE_EXPANSION",
+        "UnitType": "UNIT_SCOUT"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_ARMY_COMMANDER"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_FLEET_COMMANDER"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_SQUADRON_COMMANDER"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_CARRIER_COMMANDER"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_LINE_INFANTRY"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_FIELD_CANNON"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_CUIRASSIER"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_MORTAR"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_IRONCLAD"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_FRIGATE"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_FIELD_GUN"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_HEAVY_ARTILLERY"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_CRUISER"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_DREADNOUGHT"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_BIPLANE"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_TRENCH_FIGHTER"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_INFANTRY_COMPANY"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_AT_GUN"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_TANK"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_ASSAULT_GUN"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_DESTROYER"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_BATTLESHIP"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_SUBMARINE"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_FIGHTER"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_DIVEBOMBER"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_HEAVY_BOMBER"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_CULTURE",
+        "UnitType": "UNIT_EXPLORER"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_ABAMBOWA"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_ABAMBOWA_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_ABAMBOWA_3"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_CHANG_BEUN"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_CHANG_BEUN_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_CHANG_BEUN_3"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_COSSACK"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_COSSACK_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_COSSACK_3"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_GARDE_IMPERIALE"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_GARDE_IMPERIALE_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_GARDE_IMPERIALE_3"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_HUSSAR"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_HUSSAR_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_HUSSAR_3"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_GUSA"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_GUSA_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_GUSA_3"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_KATYUSHA"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_KATYUSHA_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_MARINE"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_MARINE_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_MIKASA"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_MIKASA_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_SEPOY"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_SEPOY_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_SEPOY_3"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_SOLDADERAS"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_SOLDADERAS_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_SOLDADERAS_3"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_STUKA"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_STUKA_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_ZERO"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_ZERO_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_PARTISAN"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_PARTISAN_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_PARTISAN_3"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_CULTURE",
+        "UnitType": "UNIT_JACOBIN"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_MWAMI"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_REVOLUCIONARIO"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_DIPLOMACY",
+        "UnitType": "UNIT_UPARAT"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_ECONOMIC",
+        "UnitType": "UNIT_HANGSHANG"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_EMPIRE_EXPANSION",
+        "UnitType": "UNIT_ZAMINDAR"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_EMPIRE_EXPANSION",
+        "UnitType": "UNIT_PROSPECTOR"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_ECONOMIC",
+        "UnitType": "UNIT_PROSPECTOR"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_JANISSARY"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_JANISSARY_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_JANISSARY_3"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_BARBARY_CORSAIR"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_BARBARY_CORSAIR_2"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_BARBARY_CORSAIR_3"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_GHILMAN_3"
+    },
+    {
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "UnitType": "UNIT_SOLTAN"
+    }
+]

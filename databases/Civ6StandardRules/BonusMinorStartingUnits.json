@@ -1,0 +1,299 @@
+[
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_ANCIENT",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 2,
+        "Unit": "UNIT_WARRIOR"
+    },
+    {
+        "DifficultyDelta": 1.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_ANCIENT",
+        "MinDifficulty": "DIFFICULTY_EMPEROR",
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_WARRIOR"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_CLASSICAL",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_WARRIOR"
+    },
+    {
+        "DifficultyDelta": 1.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_CLASSICAL",
+        "MinDifficulty": "DIFFICULTY_EMPEROR",
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_WARRIOR"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_CLASSICAL",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_SPEARMAN"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_MEDIEVAL",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_BUILDER"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_MEDIEVAL",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_SPEARMAN"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_MEDIEVAL",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_ARCHER"
+    },
+    {
+        "DifficultyDelta": 1.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_MEDIEVAL",
+        "MinDifficulty": "DIFFICULTY_EMPEROR",
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_SWORDSMAN"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_RENAISSANCE",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_BUILDER"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_RENAISSANCE",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_PIKEMAN"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_RENAISSANCE",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_CROSSBOWMAN"
+    },
+    {
+        "DifficultyDelta": 1.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_RENAISSANCE",
+        "MinDifficulty": "DIFFICULTY_EMPEROR",
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_SWORDSMAN"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_INDUSTRIAL",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_BUILDER"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_INDUSTRIAL",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 1,
+        "Quantity": 1,
+        "Unit": "UNIT_TRADER"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_INDUSTRIAL",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_PIKEMAN"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_INDUSTRIAL",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_CROSSBOWMAN"
+    },
+    {
+        "DifficultyDelta": 1.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_INDUSTRIAL",
+        "MinDifficulty": "DIFFICULTY_EMPEROR",
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_MUSKETMAN"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_MODERN",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_BUILDER"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_MODERN",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 1,
+        "Quantity": 1,
+        "Unit": "UNIT_TRADER"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_MODERN",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_PIKEMAN"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_MODERN",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_FIELD_CANNON"
+    },
+    {
+        "DifficultyDelta": 1.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_MODERN",
+        "MinDifficulty": "DIFFICULTY_EMPEROR",
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_MUSKETMAN"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_ATOMIC",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_BUILDER"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_ATOMIC",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 1,
+        "Quantity": 1,
+        "Unit": "UNIT_TRADER"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_ATOMIC",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_INFANTRY"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_ATOMIC",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_FIELD_CANNON"
+    },
+    {
+        "DifficultyDelta": 1.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_ATOMIC",
+        "MinDifficulty": "DIFFICULTY_EMPEROR",
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_INFANTRY"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_INFORMATION",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_BUILDER"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_INFORMATION",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 1,
+        "Quantity": 1,
+        "Unit": "UNIT_TRADER"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_INFORMATION",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_INFANTRY"
+    },
+    {
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_INFORMATION",
+        "MinDifficulty": null,
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_MACHINE_GUN"
+    },
+    {
+        "DifficultyDelta": 1.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "Era": "ERA_INFORMATION",
+        "MinDifficulty": "DIFFICULTY_EMPEROR",
+        "OnDistrictCreated": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_INFANTRY"
+    }
+]

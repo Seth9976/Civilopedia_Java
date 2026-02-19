@@ -1,0 +1,698 @@
+[
+    {
+        "ActionId": "accept",
+        "Description": "LOC_ACCEPT_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_ACCEPT",
+        "SortIndex": "0"
+    },
+    {
+        "ActionId": "camera-pan",
+        "Description": "LOC_CAMERA_PAN_HELP",
+        "DeviceType": "Controller",
+        "EventType": "All",
+        "Name": "LOC_CAMERA_PAN",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "camera-rotate",
+        "Description": "LOC_CAMERA_ROTATE_HELP",
+        "DeviceType": "Touch",
+        "EventType": "All",
+        "Name": "LOC_CAMERA_ROTATE",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "camera-zoom-in",
+        "Description": "LOC_CAMERA_ZOOM_IN_HELP",
+        "DeviceType": "Controller",
+        "EventType": "All",
+        "Name": "LOC_CAMERA_ZOOM_IN",
+        "SortIndex": "11"
+    },
+    {
+        "ActionId": "camera-zoom-out",
+        "Description": "LOC_CAMERA_ZOOM_OUT_HELP",
+        "DeviceType": "Controller",
+        "EventType": "All",
+        "Name": "LOC_CAMERA_ZOOM_OUT",
+        "SortIndex": "13"
+    },
+    {
+        "ActionId": "cancel",
+        "Description": "LOC_CANCEL_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_CANCEL",
+        "SortIndex": "1"
+    },
+    {
+        "ActionId": "center-plot-cursor",
+        "Description": "LOC_CENTER_PLOT_CURSOR_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_CENTER_PLOT_CURSOR",
+        "SortIndex": "17"
+    },
+    {
+        "ActionId": "force-end-turn",
+        "Description": "LOC_UI_KBM_MAPPING_FORCE_END_TURN_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_FORCE_END_TURN",
+        "SortIndex": "6"
+    },
+    {
+        "ActionId": "keyboard-camera-modifier",
+        "Description": "LOC_KEYBOARD_CAMERA_MODIFIER_HELP",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_KEYBOARD_CAMERA_MODIFIER",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "keyboard-enter",
+        "Description": "LOC_NEXT_ACTION_HELP",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_NEXT_ACTION",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "keyboard-escape",
+        "Description": "LOC_KEYBOARD_ESCAPE_HELP",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_KEYBOARD_ESCAPE",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "keyboard-nav-down",
+        "Description": "LOC_UI_KBM_MAPPING_CAMERA_PAN_DOWN_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_CAMERA_PAN_DOWN",
+        "SortIndex": "1"
+    },
+    {
+        "ActionId": "keyboard-nav-left",
+        "Description": "LOC_UI_KBM_MAPPING_CAMERA_PAN_LEFT_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_CAMERA_PAN_LEFT",
+        "SortIndex": "2"
+    },
+    {
+        "ActionId": "keyboard-nav-right",
+        "Description": "LOC_UI_KBM_MAPPING_CAMERA_PAN_RIGHT_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_CAMERA_PAN_RIGHT",
+        "SortIndex": "3"
+    },
+    {
+        "ActionId": "keyboard-nav-up",
+        "Description": "LOC_UI_KBM_MAPPING_CAMERA_PAN_UP_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_CAMERA_PAN_UP",
+        "SortIndex": "4"
+    },
+    {
+        "ActionId": "mousebutton-left",
+        "Description": "LOC_MOUSE_BUTTON_LEFT_HELP",
+        "DeviceType": "Keyboard",
+        "EventType": "All",
+        "Name": "LOC_MOUSE_BUTTON_LEFT",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "mousebutton-middle",
+        "Description": "LOC_MOUSE_BUTTON_MIDDLE_HELP",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_MOUSE_BUTTON_MIDDLE",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "mousebutton-right",
+        "Description": "LOC_MOUSE_BUTTON_RIGHT_HELP",
+        "DeviceType": "Keyboard",
+        "EventType": "All",
+        "Name": "LOC_MOUSE_BUTTON_RIGHT",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "mousewheel-down",
+        "Description": "LOC_MOUSE_WHEEL_DOWN_HELP",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_MOUSE_WHEEL_DOWN",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "mousewheel-up",
+        "Description": "LOC_MOUSE_WHEEL_UP_HELP",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_MOUSE_WHEEL_UP",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "mousewheel-left",
+        "Description": "LOC_MOUSE_WHEEL_LEFT_HELP",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_MOUSE_WHEEL_LEFT",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "mousewheel-right",
+        "Description": "LOC_MOUSE_WHEEL_RIGHT_HELP",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_MOUSE_WHEEL_RIGHT",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "cycle-next",
+        "Description": "LOC_CYCLE_NEXT_HELP",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_CYCLE_NEXT",
+        "SortIndex": "37"
+    },
+    {
+        "ActionId": "cycle-prev",
+        "Description": "LOC_CYCLE_PREV_HELP",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_CYCLE_PREV",
+        "SortIndex": "38"
+    },
+    {
+        "ActionId": "nav-down",
+        "Description": "LOC_NAV_DOWN_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_NAV_DOWN",
+        "SortIndex": "24"
+    },
+    {
+        "ActionId": "nav-left",
+        "Description": "LOC_NAV_LEFT_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_NAV_LEFT",
+        "SortIndex": "28"
+    },
+    {
+        "ActionId": "nav-move",
+        "Description": "LOC_MOVE_CURSOR_HELP",
+        "DeviceType": "Controller",
+        "EventType": "All",
+        "Name": "LOC_MOVE_CURSOR",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "nav-next",
+        "Description": "LOC_NAV_NEXT_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_NAV_NEXT",
+        "SortIndex": "8"
+    },
+    {
+        "ActionId": "nav-previous",
+        "Description": "LOC_NAV_PREVIOUS_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_NAV_PREVIOUS",
+        "SortIndex": "10"
+    },
+    {
+        "ActionId": "nav-right",
+        "Description": "LOC_NAV_RIGHT_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_NAV_RIGHT",
+        "SortIndex": "26"
+    },
+    {
+        "ActionId": "nav-shell-next",
+        "Description": "LOC_SHELL_NEXT_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_SHELL_NEXT",
+        "SortIndex": "12"
+    },
+    {
+        "ActionId": "nav-shell-previous",
+        "Description": "LOC_SHELL_PREVIOUS_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_SHELL_PREVIOUS",
+        "SortIndex": "14"
+    },
+    {
+        "ActionId": "nav-up",
+        "Description": "LOC_NAV_UP_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_NAV_UP",
+        "SortIndex": "22"
+    },
+    {
+        "ActionId": "navigate-yields",
+        "Description": "LOC_NAVIGATE_YIELDS_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_NAVIGATE_YIELDS",
+        "SortIndex": "25"
+    },
+    {
+        "ActionId": "next-action",
+        "Description": "LOC_NEXT_ACTION_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_NEXT_ACTION",
+        "SortIndex": "5"
+    },
+    {
+        "ActionId": "notification",
+        "Description": "LOC_NOTIFICATION_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_NOTIFICATION",
+        "SortIndex": "3"
+    },
+    {
+        "ActionId": "swap-plot-selection",
+        "Description": "LOC_SWAP_PLOT_SELECTION_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_SWAP_PLOT_SELECTION",
+        "SortIndex": "2"
+    },
+    {
+        "ActionId": "open-attributes",
+        "Description": "LOC_UI_KBM_MAPPING_OPEN_ATTRIBUTES_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_OPEN_ATTRIBUTES",
+        "SortIndex": "17"
+    },
+    {
+        "ActionId": "open-civics",
+        "Description": "LOC_OPEN_CULTURE_TREE",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_OPEN_CULTURE_TREE",
+        "SortIndex": "18"
+    },
+    {
+        "ActionId": "open-greatworks",
+        "Description": "LOC_UI_KBM_MAPPING_TOGGLE_GREAT_WORKS_SCREEN",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_TOGGLE_GREAT_WORKS_SCREEN",
+        "SortIndex": "20"
+    },
+    {
+        "ActionId": "open-rankings",
+        "Description": "LOC_UI_KBM_MAPPING_TOGGLE_RANKINGS_SCREEN",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_TOGGLE_RANKINGS_SCREEN",
+        "SortIndex": "21"
+    },
+    {
+        "ActionId": "open-techs",
+        "Description": "LOC_OPEN_TECH_TREE",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_OPEN_TECH_TREE",
+        "SortIndex": "19"
+    },
+    {
+        "ActionId": "open-traditions",
+        "Description": "LOC_UI_KBM_MAPPING_OPEN_GOVERNMENT_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_OPEN_GOVERNMENT",
+        "SortIndex": "22"
+    },
+    {
+        "ActionId": "open-civilopedia",
+        "Description": "LOC_UI_KBM_MAPPING_OPEN_CIVILOPEDIA",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_OPEN_CIVILOPEDIA",
+        "SortIndex": "23"
+    },
+    {
+        "ActionId": "plot-move",
+        "Description": "LOC_PLOT_MOVE_HELP",
+        "DeviceType": "Controller",
+        "EventType": "All",
+        "Name": "LOC_PLOT_MOVE",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "quick-load",
+        "Description": "LOC_UI_KBM_MAPPING_QUICK_LOAD_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_QUICK_LOAD",
+        "SortIndex": "24"
+    },
+    {
+        "ActionId": "quick-save",
+        "Description": "LOC_UI_KBM_MAPPING_QUICK_SAVE_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_QUICK_SAVE",
+        "SortIndex": "25"
+    },
+    {
+        "ActionId": "toggle-grid-layer",
+        "Description": "LOC_UI_KBM_MAPPING_TOGGLE_GRID_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_TOGGLE_GRID",
+        "SortIndex": "34"
+    },
+    {
+        "ActionId": "toggle-yields-layer",
+        "Description": "LOC_UI_KBM_MAPPING_TOGGLE_YIELD_ICONS_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_TOGGLE_YIELD_ICONS",
+        "SortIndex": "35"
+    },
+    {
+        "ActionId": "toggle-resources-layer",
+        "Description": "LOC_UI_KBM_MAPPING_TOGGLE_RESOURCE_ICONS_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_TOGGLE_RESOURCE_ICONS",
+        "SortIndex": "36"
+    },
+    {
+        "ActionId": "scroll-pan",
+        "Description": "LOC_SCROLL_PAN_HELP",
+        "DeviceType": "Controller",
+        "EventType": "All",
+        "Name": "LOC_SCROLL_PAN",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "squeeze-move-left",
+        "Description": "LOC_TARGET_HELP",
+        "DeviceType": "XR",
+        "EventType": "StartFinish",
+        "Name": "LOC_A",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "squeeze-move-right",
+        "Description": "LOC_TARGET_HELP",
+        "DeviceType": "XR",
+        "EventType": "StartFinish",
+        "Name": "LOC_B",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "sys-menu",
+        "Description": "LOC_SYSTEM_MENU_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_SYSTEM_MENU",
+        "SortIndex": "16"
+    },
+    {
+        "ActionId": "shell-action-1",
+        "Description": "LOC_SHELL_ACTION_1_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_SHELL_ACTION_1",
+        "SortIndex": "4"
+    },
+    {
+        "ActionId": "shell-action-2",
+        "Description": "LOC_SHELL_ACTION_2_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_SHELL_ACTION_2",
+        "SortIndex": "6"
+    },
+    {
+        "ActionId": "shell-action-3",
+        "Description": "LOC_SHELL_ACTION_3_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_SHELL_ACTION_3",
+        "SortIndex": "18"
+    },
+    {
+        "ActionId": "shell-action-5",
+        "Description": "LOC_SHELL_ACTION_5_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_SHELL_ACTION_5",
+        "SortIndex": "15"
+    },
+    {
+        "ActionId": "toggle-diplo",
+        "Description": "LOC_TOGGLE_DIPLO_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_TOGGLE_DIPLO",
+        "SortIndex": "21"
+    },
+    {
+        "ActionId": "toggle-chat",
+        "Description": "LOC_TOGGLE_CHAT_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_TOGGLE_CHAT",
+        "SortIndex": "27"
+    },
+    {
+        "ActionId": "toggle-quest",
+        "Description": "LOC_TOGGLE_QUEST_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_TOGGLE_QUEST",
+        "SortIndex": "23"
+    },
+    {
+        "ActionId": "toggle-radial-menu",
+        "Description": "LOC_TOGGLE_RADIAL_MENU_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_TOGGLE_RADIAL_MENU",
+        "SortIndex": "7"
+    },
+    {
+        "ActionId": "open-lens-panel",
+        "Description": "LOC_OPEN_LENS_PANEL_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_OPEN_LENS_PANEL",
+        "SortIndex": "9"
+    },
+    {
+        "ActionId": "toggle-tooltip",
+        "Description": "LOC_SHELL_ACTION_4_HELP",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_SHELL_ACTION_4",
+        "SortIndex": "19"
+    },
+    {
+        "ActionId": "touch-complete",
+        "Description": "LOC_TOUCH_COMPLETE_HELP",
+        "DeviceType": "Touch",
+        "EventType": "All",
+        "Name": "LOC_TOUCH_COMPLETE",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "touch-pan",
+        "Description": "LOC_TOUCH_PAN_HELP",
+        "DeviceType": "Touch",
+        "EventType": "All",
+        "Name": "LOC_TOUCH_PAN",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "touch-press",
+        "Description": "LOC_TOUCH_PRESS_HELP",
+        "DeviceType": "Touch",
+        "EventType": "All",
+        "Name": "LOC_TOUCH_PRESS",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "touch-swipe",
+        "Description": "LOC_TOUCH_SWIPE_HELP",
+        "DeviceType": "Touch",
+        "EventType": "All",
+        "Name": "LOC_TOUCH_SWIPE",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "touch-tap",
+        "Description": "LOC_TOUCH_TAP_HELP",
+        "DeviceType": "Touch",
+        "EventType": "All",
+        "Name": "LOC_TOUCH_TAP",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "touch-touch",
+        "Description": "LOC_TOUCH_TOUCH_HELP",
+        "DeviceType": "Touch",
+        "EventType": "All",
+        "Name": "LOC_TOUCH_TOUCH",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "touch-pinch-in",
+        "Description": "LOC_TOUCH_PINCH_IN_HELP",
+        "DeviceType": "Touch",
+        "EventType": "All",
+        "Name": "LOC_TOUCH_PINCH_IN",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "touch-pinch-out",
+        "Description": "LOC_TOUCH_PINCH_OUT_HELP",
+        "DeviceType": "Touch",
+        "EventType": "All",
+        "Name": "LOC_TOUCH_PINCH_OUT",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "touch-pinch-direct",
+        "Description": "LOC_TOUCH_PINCH_DIRECT_HELP",
+        "DeviceType": "Touch",
+        "EventType": "All",
+        "Name": "LOC_TOUCH_PINCH_DIRECT",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "trigger-accept-dip",
+        "Description": "LOC_TARGET_HELP",
+        "DeviceType": "XR",
+        "EventType": "StartFinish",
+        "Name": "LOC_C",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "unit-move",
+        "Description": "LOC_UI_KBM_MAPPING_UNIT_MOVE_TO_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_UNIT_MOVE_TO",
+        "SortIndex": "26"
+    },
+    {
+        "ActionId": "unit-ranged-attack",
+        "Description": "LOC_UI_KBM_MAPPING_UNIT_RANGED_ATTACK_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_UNIT_RANGED_ATTACK",
+        "SortIndex": "27"
+    },
+    {
+        "ActionId": "unit-skip-turn",
+        "Description": "LOC_UI_KBM_MAPPING_UNIT_SKIP_TURN_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_UNIT_SKIP_TURN",
+        "SortIndex": "28"
+    },
+    {
+        "ActionId": "unit-sleep",
+        "Description": "LOC_UI_KBM_MAPPING_UNIT_SLEEP_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_UNIT_SLEEP",
+        "SortIndex": "29"
+    },
+    {
+        "ActionId": "unit-heal",
+        "Description": "LOC_UI_KBM_MAPPING_UNIT_FORTIFIED_HEAL_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_UNIT_FORTIFIED_HEAL",
+        "SortIndex": "30"
+    },
+    {
+        "ActionId": "unit-fortify",
+        "Description": "LOC_UI_KBM_MAPPING_UNIT_FORTIFY_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_UNIT_FORTIFY",
+        "SortIndex": "31"
+    },
+    {
+        "ActionId": "unit-alert",
+        "Description": "LOC_UI_KBM_MAPPING_UNIT_ALERT_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_UNIT_ALERT",
+        "SortIndex": "32"
+    },
+    {
+        "ActionId": "unit-auto-explore",
+        "Description": "LOC_UI_KBM_MAPPING_UNIT_AUTOMATE_EXPLORATION_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_MAPPING_UNIT_AUTOMATE_EXPLORATION",
+        "SortIndex": "34"
+    },
+    {
+        "ActionId": "text-to-speech-keyboard",
+        "Description": "LOC_UI_TEXT_TO_SPEECH_KEYBOARD_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_TEXT_TO_SPEECH_KEYBOARD",
+        "SortIndex": "33"
+    },
+    {
+        "ActionId": "text-to-speech-controller",
+        "Description": "LOC_UI_TEXT_TO_SPEECH_CONTROLLER_TT",
+        "DeviceType": "Controller",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_TEXT_TO_SPEECH_CONTROLLER",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "toggle-frame-stats",
+        "Description": "LOC_UI_KBM_TOGGLE_FRAME_STATS_TT",
+        "DeviceType": "Keyboard",
+        "EventType": "StartFinish",
+        "Name": "LOC_UI_KBM_TOGGLE_FRAME_STATS",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "xr-game-camera-pan",
+        "Description": "LOC_XR_CAMERA_PAN_HELP",
+        "DeviceType": "XR",
+        "EventType": "All",
+        "Name": "LOC_XR_CAMERA_PAN",
+        "SortIndex": null
+    },
+    {
+        "ActionId": "xr-trigger-accept",
+        "Description": "LOC_XR_CONTROLLER_TRIGGER_HELP",
+        "DeviceType": "XR",
+        "EventType": "All",
+        "Name": "LOC_XR_CONTROLLER_TRIGGER_ACCEPT",
+        "SortIndex": null
+    }
+]

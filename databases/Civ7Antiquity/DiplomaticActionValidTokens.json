@@ -1,0 +1,170 @@
+[
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_LAND_CLAIM",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GIVE_INFLUENCE_TOKEN",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_RECEIVE_GIFT",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_DECLARE_WAR",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_DECLARE_FORMAL_WAR",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FORM_ALLIANCE",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_OPEN_BORDERS",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_RESEARCH_COLLABORATION",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CULTURAL_EXCHANGE",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_MINOR_TRADE",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SEND_GOLD",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_LOCAL_FESTIVALS",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_TRADE_MAP",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FARMERS_MARKET",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_MILITARY_AID",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_TREASURY",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_MORALE",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_RESEARCH",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_CIVIC_STUDY",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_MILITARY_PRODUCTION",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SABOTAGE_FOOD_PRODUCTION",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_DENOUNCE",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SEND_DELEGATION",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_INCITE_RAID",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CS_PROMOTE_GROWTH",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CS_BOLSTER_MILITARY",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CS_ORDER_ATTACK",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CS_LEVY_UNIT",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_CS_INCORPORATE",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_IMPROVE_TRADE_RELATIONS",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GINSING_AGREEMENT",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GRANT_POLICY_SLOT",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_FRIEND_OF_WA",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_DENOUNCE_MILITARY_PRESENCE",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_COUNTER_SPY",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_ESPIONAGE_MILITARY_SABOTAGE",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_ESPIONAGE_STEAL_TECH",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_ESPIONAGE_STEAL_CIVIC",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_ESPIONAGE_MILITARY_INFILTRATION",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_WONDER_CONSTRUCTION",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_SEND_DELEGATION_DIPLOMATIC_CITY_STATE_BONUS",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    },
+    {
+        "DiplomacyActionType": "DIPLOMACY_ACTION_GIFT_GURKHA",
+        "TokenType": "DIPLOMACY_TOKEN_GLOBAL"
+    }
+]

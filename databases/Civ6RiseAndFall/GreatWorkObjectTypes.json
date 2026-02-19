@@ -1,0 +1,72 @@
+[
+    {
+        "GreatWorkObjectType": "GREATWORKOBJECT_SCULPTURE",
+        "IconString": "[ICON_GreatWork_Sculpture]",
+        "Name": "LOC_GREAT_WORK_OBJECT_SCULPTURE_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_SCULPTURE",
+        "Value": 0
+    },
+    {
+        "GreatWorkObjectType": "GREATWORKOBJECT_PORTRAIT",
+        "IconString": "[ICON_GreatWork_Portrait]",
+        "Name": "LOC_GREAT_WORK_OBJECT_PORTRAIT_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_PORTRAIT",
+        "Value": 1
+    },
+    {
+        "GreatWorkObjectType": "GREATWORKOBJECT_LANDSCAPE",
+        "IconString": "[ICON_GreatWork_Landscape]",
+        "Name": "LOC_GREAT_WORK_OBJECT_LANDSCAPE_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_LANDSCAPE",
+        "Value": 2
+    },
+    {
+        "GreatWorkObjectType": "GREATWORKOBJECT_RELIGIOUS",
+        "IconString": "[ICON_GreatWork_Religious]",
+        "Name": "LOC_GREAT_WORK_OBJECT_RELIGIOUS_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_RELIGIOUS",
+        "Value": 3
+    },
+    {
+        "GreatWorkObjectType": "GREATWORKOBJECT_ARTIFACT",
+        "IconString": "[ICON_GreatWork_Artifact]",
+        "Name": "LOC_GREAT_WORK_OBJECT_ARTIFACT_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_ARTIFACT",
+        "Value": 4
+    },
+    {
+        "GreatWorkObjectType": "GREATWORKOBJECT_WRITING",
+        "IconString": "[ICON_GreatWork_Writing]",
+        "Name": "LOC_GREAT_WORK_OBJECT_WRITING_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_WRITING",
+        "Value": 5
+    },
+    {
+        "GreatWorkObjectType": "GREATWORKOBJECT_MUSIC",
+        "IconString": "[ICON_GreatWork_Music]",
+        "Name": "LOC_GREAT_WORK_OBJECT_MUSIC_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_MUSIC",
+        "Value": 6
+    },
+    {
+        "GreatWorkObjectType": "GREATWORKOBJECT_RELIC",
+        "IconString": "[ICON_GreatWork_Relic]",
+        "Name": "LOC_GREAT_WORK_OBJECT_RELIC_NAME",
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_RELIC",
+        "Value": 7
+    },
+    {
+        "GreatWorkObjectType": "GREATWORKOBJECT_HERO",
+        "IconString": "[ICON_GreatWork_HeroRelic]",
+        "Name": "LOC_GREATWORKOBJECT_HERO",
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_ARTIFACT",
+        "Value": 8
+    },
+    {
+        "GreatWorkObjectType": "GREATWORKOBJECT_PRODUCT",
+        "IconString": "[ICON_GreatWork_Product]",
+        "Name": "LOC_GREATWORKOBJECT_PRODUCT",
+        "PseudoYieldType": "PSEUDOYIELD_GREATWORK_PRODUCT",
+        "Value": 9
+    }
+]

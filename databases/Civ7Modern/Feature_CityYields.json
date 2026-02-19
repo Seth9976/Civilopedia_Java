@@ -1,0 +1,83 @@
+[
+    {
+        "Biome": "NO_BIOME",
+        "FeatureClass": "FEATURE_CLASS_VEGETATED",
+        "FeatureType": "FEATURE_REDWOOD_FOREST",
+        "Feature_CityYieldType": "REDWOOD_FOREST_VEG_CULTURE",
+        "Terrain": "NO_TERRAIN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "Biome": "NO_BIOME",
+        "FeatureClass": "FEATURE_CLASS_VEGETATED",
+        "FeatureType": "FEATURE_REDWOOD_FOREST",
+        "Feature_CityYieldType": "REDWOOD_FOREST_VEG_SCIENCE",
+        "Terrain": "NO_TERRAIN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Biome": "NO_BIOME",
+        "FeatureClass": "NO_FEATURE_CLASS",
+        "FeatureType": "FEATURE_ZHANGJIAJIE",
+        "Feature_CityYieldType": "ZHANGJIAJIE_ROUGH_CULTURE",
+        "Terrain": "TERRAIN_HILL",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "Biome": "NO_BIOME",
+        "FeatureClass": "NO_FEATURE_CLASS",
+        "FeatureType": "FEATURE_GRAND_CANYON",
+        "Feature_CityYieldType": "GRAND_CANYON_FLAT_SCIENCE",
+        "Terrain": "TERRAIN_FLAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Biome": "BIOME_TUNDRA",
+        "FeatureClass": "NO_FEATURE_CLASS",
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "Feature_CityYieldType": "TORRES_DEL_PAINE_TUNDRA_FOOD",
+        "Terrain": "NO_TERRAIN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Biome": "BIOME_TUNDRA",
+        "FeatureClass": "NO_FEATURE_CLASS",
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "Feature_CityYieldType": "TORRES_DEL_PAINE_TUNDRA_PRODUCTION",
+        "Terrain": "NO_TERRAIN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Biome": "BIOME_DESERT",
+        "FeatureClass": "NO_FEATURE_CLASS",
+        "FeatureType": "FEATURE_ULURU",
+        "Feature_CityYieldType": "ULURU_DESERT_CULTURE",
+        "Terrain": "NO_TERRAIN",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "Biome": "NO_BIOME",
+        "FeatureClass": "NO_FEATURE_CLASS",
+        "FeatureType": "FEATURE_MACHAPUCHARE",
+        "Feature_CityYieldType": "MACHAPUCHARE_ROUGH_HAPPINESS",
+        "Terrain": "TERRAIN_HILL",
+        "YieldChange": 1,
+        "YieldType": "YIELD_HAPPINESS"
+    },
+    {
+        "Biome": "NO_BIOME",
+        "FeatureClass": "NO_FEATURE_CLASS",
+        "FeatureType": "FEATURE_MACHAPUCHARE",
+        "Feature_CityYieldType": "MACHAPUCHARE_MOUNTAIN_MACHAPUCHARE",
+        "Terrain": "TERRAIN_MOUNTAIN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_HAPPINESS"
+    }
+]

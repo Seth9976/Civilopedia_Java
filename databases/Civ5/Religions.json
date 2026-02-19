@@ -1,0 +1,142 @@
+[
+    {
+        "Civilopedia": "TXT_KEY_RELIGION_PANTHEON_PEDIA",
+        "Description": "TXT_KEY_RELIGION_PANTHEON",
+        "EarliestFoundDate": -1,
+        "ID": 0,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_PANTHEON]",
+        "PortraitIndex": 11,
+        "Type": "RELIGION_PANTHEON"
+    },
+    {
+        "Civilopedia": "TXT_KEY_RELIGION_BUDDHISM_PEDIA",
+        "Description": "TXT_KEY_RELIGION_BUDDHISM",
+        "EarliestFoundDate": -1,
+        "ID": 1,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_BUDDHISM]",
+        "PortraitIndex": 0,
+        "Type": "RELIGION_BUDDHISM"
+    },
+    {
+        "Civilopedia": "TXT_KEY_MEDIEVAL_SCENARIO_RELIGION_CHRISTIANITY_PEDIA",
+        "Description": "TXT_KEY_RELIGION_CATHOLICISM",
+        "EarliestFoundDate": -1,
+        "ID": 2,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_CHRISTIANITY]",
+        "PortraitIndex": 1,
+        "Type": "RELIGION_CHRISTIANITY"
+    },
+    {
+        "Civilopedia": "TXT_KEY_RELIGION_CONFUCIANISM_PEDIA",
+        "Description": "TXT_KEY_RELIGION_CONFUCIANISM",
+        "EarliestFoundDate": -1,
+        "ID": 3,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_CONFUCIANISM]",
+        "PortraitIndex": 2,
+        "Type": "RELIGION_CONFUCIANISM"
+    },
+    {
+        "Civilopedia": "TXT_KEY_RELIGION_HINDUISM_PEDIA",
+        "Description": "TXT_KEY_RELIGION_HINDUISM",
+        "EarliestFoundDate": -1,
+        "ID": 4,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_HINDUISM]",
+        "PortraitIndex": 3,
+        "Type": "RELIGION_HINDUISM"
+    },
+    {
+        "Civilopedia": "TXT_KEY_RELIGION_ISLAM_PEDIA",
+        "Description": "TXT_KEY_RELIGION_ISLAM",
+        "EarliestFoundDate": -1,
+        "ID": 5,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_ISLAM]",
+        "PortraitIndex": 4,
+        "Type": "RELIGION_ISLAM"
+    },
+    {
+        "Civilopedia": "TXT_KEY_RELIGION_JUDAISM_PEDIA",
+        "Description": "TXT_KEY_RELIGION_JUDAISM",
+        "EarliestFoundDate": -1,
+        "ID": 6,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_JUDAISM]",
+        "PortraitIndex": 5,
+        "Type": "RELIGION_JUDAISM"
+    },
+    {
+        "Civilopedia": "TXT_KEY_RELIGION_SHINTO_PEDIA",
+        "Description": "TXT_KEY_RELIGION_SHINTO",
+        "EarliestFoundDate": -1,
+        "ID": 7,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_SHINTO]",
+        "PortraitIndex": 6,
+        "Type": "RELIGION_SHINTO"
+    },
+    {
+        "Civilopedia": "TXT_KEY_RELIGION_SIKHISM_PEDIA",
+        "Description": "TXT_KEY_RELIGION_SIKHISM",
+        "EarliestFoundDate": -1,
+        "ID": 8,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_SIKHISM]",
+        "PortraitIndex": 7,
+        "Type": "RELIGION_SIKHISM"
+    },
+    {
+        "Civilopedia": "TXT_KEY_RELIGION_TAOISM_PEDIA",
+        "Description": "TXT_KEY_RELIGION_TAOISM",
+        "EarliestFoundDate": -1,
+        "ID": 9,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_TAOISM]",
+        "PortraitIndex": 8,
+        "Type": "RELIGION_TAOISM"
+    },
+    {
+        "Civilopedia": "TXT_KEY_RELIGION_TENGRIISM_PEDIA",
+        "Description": "TXT_KEY_RELIGION_TENGRIISM",
+        "EarliestFoundDate": -1,
+        "ID": 10,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_TENGRIISM]",
+        "PortraitIndex": 9,
+        "Type": "RELIGION_TENGRIISM"
+    },
+    {
+        "Civilopedia": "TXT_KEY_RELIGION_ZOROASTRIANISM_PEDIA",
+        "Description": "TXT_KEY_RELIGION_ZOROASTRIANISM",
+        "EarliestFoundDate": -1,
+        "ID": 11,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_ZOROASTRIANISM]",
+        "PortraitIndex": 10,
+        "Type": "RELIGION_ZOROASTRIANISM"
+    },
+    {
+        "Civilopedia": "TXT_KEY_RELIGION_ORTHODOXY_PEDIA",
+        "Description": "TXT_KEY_RELIGION_ORTHODOXY",
+        "EarliestFoundDate": -1,
+        "ID": 12,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_ORTHODOX]",
+        "PortraitIndex": 12,
+        "Type": "RELIGION_ORTHODOXY"
+    },
+    {
+        "Civilopedia": "TXT_KEY_RELIGION_PROTESTANTISM_PEDIA",
+        "Description": "TXT_KEY_RELIGION_PROTESTANTISM",
+        "EarliestFoundDate": -1,
+        "ID": 13,
+        "IconAtlas": "RELIGION_ATLAS_WHITE",
+        "IconString": "[ICON_RELIGION_PROTESTANT]",
+        "PortraitIndex": 13,
+        "Type": "RELIGION_PROTESTANTISM"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "SpeakerChannel": "Invalid",
+        "Value": -1
+    },
+    {
+        "SpeakerChannel": "None",
+        "Value": -2
+    },
+    {
+        "SpeakerChannel": "Random",
+        "Value": -3
+    },
+    {
+        "SpeakerChannel": "StereoOnly",
+        "Value": -4
+    },
+    {
+        "SpeakerChannel": "FullFrontLowRears",
+        "Value": -5
+    },
+    {
+        "SpeakerChannel": "FrontLeft",
+        "Value": 0
+    },
+    {
+        "SpeakerChannel": "FrontRight",
+        "Value": 1
+    },
+    {
+        "SpeakerChannel": "Center",
+        "Value": 2
+    },
+    {
+        "SpeakerChannel": "Sub",
+        "Value": 3
+    },
+    {
+        "SpeakerChannel": "RearLeft",
+        "Value": 4
+    },
+    {
+        "SpeakerChannel": "RearRight",
+        "Value": 5
+    },
+    {
+        "SpeakerChannel": "CenterLeft",
+        "Value": 6
+    },
+    {
+        "SpeakerChannel": "CenterRight",
+        "Value": 7
+    }
+]

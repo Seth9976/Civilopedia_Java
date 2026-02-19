@@ -1,0 +1,162 @@
+[
+    {
+        "BackgroundImage": "cPromo_bg_army_bastion.png",
+        "Name": "LOC_DISCIPLINE_ARMY_BASTION_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_BASTION"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_army_assault.png",
+        "Name": "LOC_DISCIPLINE_ARMY_ASSAULT_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_ASSAULT"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_army_logistics.png",
+        "Name": "LOC_DISCIPLINE_LOGISTICS_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LOGISTICS"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_army_manuver.png",
+        "Name": "LOC_DISCIPLINE_MANEUVER_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_MANEUVER"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_army_leadership.png",
+        "Name": "LOC_DISCIPLINE_LEADERSHIP_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LEADERSHIP"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_COMMENDATION_VALOR_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_COMMENDATION_VALOR"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_COMMENDATION_DUTY_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_COMMENDATION_DUTY"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_COMMENDATION_SERVICE_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_COMMENDATION_SERVICE"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_COMMENDATION_MERIT_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_COMMENDATION_MERIT"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_COMMENDATION_ORDER_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_COMMENDATION_ORDER"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_navy_bombardment.png",
+        "Name": "LOC_DISCIPLINE_FLEET_BOMBARDMENT_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_BOMBARDMENT"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_navy_engagment.png",
+        "Name": "LOC_DISCIPLINE_FLEET_ENGAGEMENT_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_ENGAGEMENT"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_navy_logistics.png",
+        "Name": "LOC_DISCIPLINE_LOGISTICS_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LOGISTICS"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_navy_manuver.png",
+        "Name": "LOC_DISCIPLINE_MANEUVER_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_MANEUVER"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_navy_leadership.png",
+        "Name": "LOC_DISCIPLINE_LEADERSHIP_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LEADERSHIP"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_COMMENDATION_VALOR_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_COMMENDATION_VALOR"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_COMMENDATION_DUTY_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_COMMENDATION_DUTY"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_COMMENDATION_SERVICE_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_COMMENDATION_SERVICE"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_COMMENDATION_MERIT_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_COMMENDATION_MERIT"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_COMMENDATION_ORDER_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_COMMENDATION_ORDER"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_air_dogfighting.png",
+        "Name": "LOC_DISCIPLINE_SQUADRON_DOGFIGHTING_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_DOGFIGHTING"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_air_raids.png",
+        "Name": "LOC_DISCIPLINE_SQUADRON_RAIDS_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_RAIDS"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_air_logistics.png",
+        "Name": "LOC_DISCIPLINE_LOGISTICS_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_LOGISTICS"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_air_airlift_ops.png",
+        "Name": "LOC_DISCIPLINE_AIRLIFT_OPERATIONS_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_AIRLIFT_OPERATIONS"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_COMMENDATION_VALOR_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_COMMENDATION_VALOR"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_COMMENDATION_SERVICE_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_COMMENDATION_SERVICE"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_COMMENDATION_ORDER_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_COMMENDATION_ORDER"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_air_logistics.png",
+        "Name": "LOC_DISCIPLINE_LOGISTICS_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_AERODROME_LOGISTICS"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_air_logistics.png",
+        "Name": "LOC_DISCIPLINE_LOGISTICS_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_CARRIER_LOGISTICS"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_air_carrier_ops.png",
+        "Name": "LOC_DISCIPLINE_CARRIER_OPERATIONS_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_CARRIER_OPERATIONS"
+    },
+    {
+        "BackgroundImage": "cPromo_bg_trung_nhi.png",
+        "Name": "LOC_DISCIPLINE_ARMY_TRUNG_NHI_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_TRUNG_NHI"
+    },
+    {
+        "BackgroundImage": null,
+        "Name": "LOC_DISCIPLINE_TRUNG_NHI_COMMENDATION_DUTY_NAME",
+        "UnitPromotionDisciplineType": "DISCIPLINE_TRUNG_NHI_COMMENDATION_DUTY"
+    }
+]

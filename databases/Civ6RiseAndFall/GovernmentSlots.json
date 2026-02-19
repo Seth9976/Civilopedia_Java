@@ -1,0 +1,27 @@
+[
+    {
+        "AllowsAnyPolicy": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_SLOT_ECONOMIC_NAME"
+    },
+    {
+        "AllowsAnyPolicy": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_SLOT_MILITARY_NAME"
+    },
+    {
+        "AllowsAnyPolicy": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_SLOT_DIPLOMATIC_NAME"
+    },
+    {
+        "AllowsAnyPolicy": 0,
+        "GovernmentSlotType": "SLOT_GREAT_PERSON",
+        "Name": "LOC_SLOT_GREAT_PERSON_NAME"
+    },
+    {
+        "AllowsAnyPolicy": 1,
+        "GovernmentSlotType": "SLOT_WILDCARD",
+        "Name": "LOC_SLOT_WILDCARD_NAME"
+    }
+]

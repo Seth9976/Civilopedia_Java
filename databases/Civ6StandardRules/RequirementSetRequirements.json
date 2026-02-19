@@ -1,0 +1,3718 @@
+[
+    {
+        "RequirementId": "REQUIRES_PLAYER_DECLARED_SURPRISE_WAR",
+        "RequirementSetId": "PLAYER_DECLARES_SURPRISE_WAR"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_DECLARES_SURPRISE_WAR"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_DECLARES_SURPRISE_WAR"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_DECLARED_JOINT_WAR",
+        "RequirementSetId": "PLAYER_DECLARES_JOINT_WAR"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_DECLARES_JOINT_WAR"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_DECLARED_WAR",
+        "RequirementSetId": "PLAYER_DECLARES_WAR"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_DECLARES_WAR"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_DECLARES_WAR"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_IS_KNOWN_MAJOR_CIV_AT_WAR"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_IS_KNOWN_MAJOR_CIV_AT_WAR"
+    },
+    {
+        "RequirementId": "REQUIRES_AT_WAR_AND_HAS_MET",
+        "RequirementSetId": "PLAYER_IS_KNOWN_MAJOR_CIV_AT_WAR"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_IS_KNOWN_MAJOR_CIV_AT_WAR"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_WITH_SHIELD_OR_ON_IT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_WITH_SHIELD_OR_ON_IT"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_WITH_SHIELD_OR_ON_IT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_WITH_SHIELD_OR_ON_IT",
+        "RequirementSetId": "PLAYER_WITH_SHIELD_OR_ON_IT"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_IS_MAJOR_CIV_KNOWN_10_TURNS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_IS_MAJOR_CIV_KNOWN_10_TURNS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_IS_MAJOR_CIV_KNOWN_30_TURNS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_IS_MAJOR_CIV_KNOWN_30_TURNS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_DESIRED_LUXURY"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_DESIRED_LUXURY"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_DESIRED_LUXURY",
+        "RequirementSetId": "PLAYER_HAS_DESIRED_LUXURY"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_NO_DESIRED_LUXURY"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_NO_DESIRED_LUXURY"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_NO_DESIRED_LUXURY",
+        "RequirementSetId": "PLAYER_HAS_NO_DESIRED_LUXURY"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_ATTACKED_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_ATTACKED_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_ATTACKED_CONTINENT",
+        "RequirementSetId": "PLAYER_ATTACKED_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_PEACEFUL_ON_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_PEACEFUL_ON_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_PEACEFUL_ON_CONTINENT",
+        "RequirementSetId": "PLAYER_PEACEFUL_ON_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_LAGS_GREAT_PEOPLE"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_LAGS_GREAT_PEOPLE"
+    },
+    {
+        "RequirementId": "REQUIRES_LAGS_GREAT_PEOPLE",
+        "RequirementSetId": "PLAYER_LAGS_GREAT_PEOPLE"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_LEADS_GREAT_PEOPLE"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_LEADS_GREAT_PEOPLE"
+    },
+    {
+        "RequirementId": "REQUIRES_LEADS_GREAT_PEOPLE",
+        "RequirementSetId": "PLAYER_LEADS_GREAT_PEOPLE"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_CULTURE"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_CULTURE"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_HIGH_CULTURE",
+        "RequirementSetId": "PLAYER_HAS_HIGH_CULTURE"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_LOW_CULTURE"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_LOW_CULTURE"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_LOW_CULTURE",
+        "RequirementSetId": "PLAYER_HAS_LOW_CULTURE"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_CITY_STATE_PROTECTION"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_CITY_STATE_PROTECTION"
+    },
+    {
+        "RequirementId": "REQUIRES_HIGH_CITY_STATE_PROTECTION",
+        "RequirementSetId": "PLAYER_HAS_HIGH_CITY_STATE_PROTECTION"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_MED_CITY_STATE_PROTECTION"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_MED_CITY_STATE_PROTECTION"
+    },
+    {
+        "RequirementId": "REQUIRES_MED_CITY_STATE_PROTECTION",
+        "RequirementSetId": "PLAYER_HAS_MED_CITY_STATE_PROTECTION"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_MED_CITY_STATE_AGGRESSION"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_MED_CITY_STATE_AGGRESSION"
+    },
+    {
+        "RequirementId": "REQUIRES_MED_CITY_STATE_AGGRESSION",
+        "RequirementSetId": "PLAYER_HAS_MED_CITY_STATE_AGGRESSION"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_CITY_STATE_AGGRESSION"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_CITY_STATE_AGGRESSION"
+    },
+    {
+        "RequirementId": "REQUIRES_HIGH_CITY_STATE_AGGRESSION",
+        "RequirementSetId": "PLAYER_HAS_HIGH_CITY_STATE_AGGRESSION"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_FAITH"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_FAITH"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_HIGH_FAITH",
+        "RequirementSetId": "PLAYER_HAS_HIGH_FAITH"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_LOW_FAITH"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_LOW_FAITH"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_LOW_FAITH",
+        "RequirementSetId": "PLAYER_HAS_LOW_FAITH"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYERS_ARE_NEIGHBORS"
+    },
+    {
+        "RequirementId": "REQUIRES_NEIGHBOR_CIVS",
+        "RequirementSetId": "PLAYERS_ARE_NEIGHBORS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYERS_ARE_NEIGHBORS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYERS_ARE_NOT_NEIGHBORS"
+    },
+    {
+        "RequirementId": "REQUIRES_NOT_NEIGHBOR_CIVS",
+        "RequirementSetId": "PLAYERS_ARE_NOT_NEIGHBORS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYERS_ARE_NOT_NEIGHBORS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_CLEARS_BARBARIAN_CAMPS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_CLEARS_BARBARIAN_CAMPS"
+    },
+    {
+        "RequirementId": "REQUIRES_CLEARS_BARBARIAN_CAMPS",
+        "RequirementSetId": "PLAYER_CLEARS_BARBARIAN_CAMPS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_IGNORES_BARBARIAN_CAMPS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_IGNORES_BARBARIAN_CAMPS"
+    },
+    {
+        "RequirementId": "REQUIRES_IGNORES_BARBARIAN_CAMPS",
+        "RequirementSetId": "PLAYER_IGNORES_BARBARIAN_CAMPS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_EXPLORATION"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_EXPLORATION"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_HIGH_EXPLORATION",
+        "RequirementSetId": "PLAYER_HAS_HIGH_EXPLORATION"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_LOW_EXPLORATION"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_LOW_EXPLORATION"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_LOW_EXPLORATION",
+        "RequirementSetId": "PLAYER_HAS_LOW_EXPLORATION"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_INDUSTRY"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_INDUSTRY"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_HIGH_INDUSTRY",
+        "RequirementSetId": "PLAYER_HAS_HIGH_INDUSTRY"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_LOW_INDUSTRY"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_LOW_INDUSTRY"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_LOW_INDUSTRY",
+        "RequirementSetId": "PLAYER_HAS_LOW_INDUSTRY"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_HAPPINESS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_HAPPINESS"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_HIGH_HAPPINESS",
+        "RequirementSetId": "PLAYER_HAS_HIGH_HAPPINESS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_LOW_HAPPINESS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_LOW_HAPPINESS"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_LOW_HAPPINESS",
+        "RequirementSetId": "PLAYER_HAS_LOW_HAPPINESS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_INCOME"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_INCOME"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_HIGH_INCOME",
+        "RequirementSetId": "PLAYER_HAS_HIGH_INCOME"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_LOW_INCOME"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_LOW_INCOME"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_LOW_INCOME",
+        "RequirementSetId": "PLAYER_HAS_LOW_INCOME"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_POPULATION"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_POPULATION"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_HIGH_POPULATION",
+        "RequirementSetId": "PLAYER_HAS_HIGH_POPULATION"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_LOW_POPULATION"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_LOW_POPULATION"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_LOW_POPULATION",
+        "RequirementSetId": "PLAYER_HAS_LOW_POPULATION"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_STANDING_ARMY"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_STANDING_ARMY"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_HIGH_STANDING_ARMY",
+        "RequirementSetId": "PLAYER_HAS_HIGH_STANDING_ARMY"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_LOW_STANDING_ARMY"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_LOW_STANDING_ARMY"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_LOW_STANDING_ARMY",
+        "RequirementSetId": "PLAYER_HAS_LOW_STANDING_ARMY"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_AIRPOWER"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_AIRPOWER"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_FLIGHT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_AIRPOWER"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_HIGH_AIRPOWER",
+        "RequirementSetId": "PLAYER_HAS_HIGH_AIRPOWER"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_LOW_AIRPOWER"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_LOW_AIRPOWER"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_FLIGHT",
+        "RequirementSetId": "PLAYER_HAS_LOW_AIRPOWER"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_LOW_AIRPOWER",
+        "RequirementSetId": "PLAYER_HAS_LOW_AIRPOWER"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "AGENDA_REQUIRE_PLAYER_HAS_SAME_GOVERNMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "AGENDA_REQUIRE_PLAYER_HAS_SAME_GOVERNMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_SAME_GOVERNMENT",
+        "RequirementSetId": "AGENDA_REQUIRE_PLAYER_HAS_SAME_GOVERNMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "AGENDA_REQUIRE_PLAYER_HAS_DIFFERENT_GOVERNMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "AGENDA_REQUIRE_PLAYER_HAS_DIFFERENT_GOVERNMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_DIFFERENT_GOVERNMENT",
+        "RequirementSetId": "AGENDA_REQUIRE_PLAYER_HAS_DIFFERENT_GOVERNMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_NUKE_LOVE"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_NUKE_LOVE"
+    },
+    {
+        "RequirementId": "REQUIRES_HIGH_NUKE_LOVE",
+        "RequirementSetId": "PLAYER_HAS_HIGH_NUKE_LOVE"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_NUCLEAR_FISSION",
+        "RequirementSetId": "PLAYER_HAS_NUCLEAR_FISSION_REQUIREMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_LOW_NUKE_LOVE"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_LOW_NUKE_LOVE"
+    },
+    {
+        "RequirementId": "REQUIRES_LOW_NUKE_LOVE",
+        "RequirementSetId": "PLAYER_HAS_LOW_NUKE_LOVE"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_SCIENCE"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_SCIENCE"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_HIGH_SCIENCE",
+        "RequirementSetId": "PLAYER_HAS_HIGH_SCIENCE"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_LOW_SCIENCE"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_LOW_SCIENCE"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_LOW_SCIENCE",
+        "RequirementSetId": "PLAYER_HAS_LOW_SCIENCE"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_LAGS_WONDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_LAGS_WONDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_LAGS_WONDERS",
+        "RequirementSetId": "PLAYER_LAGS_WONDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_LEADS_WONDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_LEADS_WONDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_LEADS_WONDERS",
+        "RequirementSetId": "PLAYER_LEADS_WONDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_LAGS_PROGRESS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_LAGS_PROGRESS"
+    },
+    {
+        "RequirementId": "REQUIRES_LAGS_PROGRESS",
+        "RequirementSetId": "PLAYER_LAGS_PROGRESS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_LEADS_PROGRESS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_LEADS_PROGRESS"
+    },
+    {
+        "RequirementId": "REQUIRES_LEADS_PROGRESS",
+        "RequirementSetId": "PLAYER_LEADS_PROGRESS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_NOT_WARMONGER_SUBJECT"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_NOT_WARMONGER_SUBJECT"
+    },
+    {
+        "RequirementId": "REQUIRES_NOT_WARMONGER_SUBJECT",
+        "RequirementSetId": "PLAYER_NOT_WARMONGER_SUBJECT"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_SAME_RELIGION"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_SAME_RELIGION"
+    },
+    {
+        "RequirementId": "REQUIRES_SAME_RELIGION",
+        "RequirementSetId": "PLAYER_SAME_RELIGION"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_ENCROACHING_RELIGION"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_ENCROACHING_RELIGION"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CITY_CONVERTED",
+        "RequirementSetId": "PLAYER_ENCROACHING_RELIGION"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_NOT_COMPETING_MINORS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_NOT_COMPETING_MINORS"
+    },
+    {
+        "RequirementId": "REQUIRES_NOT_COMPETING_MINORS",
+        "RequirementSetId": "PLAYER_NOT_COMPETING_MINORS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_COMPETING_MINORS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_COMPETING_MINORS"
+    },
+    {
+        "RequirementId": "REQUIRES_COMPETING_MINORS",
+        "RequirementSetId": "PLAYER_COMPETING_MINORS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_RELIGION_RECEIVED"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_RELIGION_RECEIVED"
+    },
+    {
+        "RequirementId": "REQUIRES_RELIGION_RECEIVED",
+        "RequirementSetId": "PLAYER_RELIGION_RECEIVED"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_RELIGION_NOT_RECEIVED"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_RELIGION_NOT_RECEIVED"
+    },
+    {
+        "RequirementId": "REQUIRES_RELIGION_NOT_RECEIVED",
+        "RequirementSetId": "PLAYER_RELIGION_NOT_RECEIVED"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_NOT_INVOLVED_MINORS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_NOT_INVOLVED_MINORS"
+    },
+    {
+        "RequirementId": "REQUIRES_NOT_INVOLVED_MINORS",
+        "RequirementSetId": "PLAYER_NOT_INVOLVED_MINORS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_CONQUERING_ALLYING_MINORS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_CONQUERING_ALLYING_MINORS"
+    },
+    {
+        "RequirementId": "REQUIRES_CONQUERING_ALLYING_MINORS",
+        "RequirementSetId": "PLAYER_CONQUERING_ALLYING_MINORS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_SAME_HOME_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_SAME_HOME_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_SAME_HOME_CONTINENT",
+        "RequirementSetId": "PLAYER_SAME_HOME_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_ON_NEW_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "RequirementSetId": "PLAYER_ON_NEW_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_ON_NEW_CONTINENT",
+        "RequirementSetId": "PLAYER_ON_NEW_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_FOLLOWS_PANTHEON",
+        "RequirementSetId": "CITY_FOLLOWS_PANTHEON_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_FOLLOWS_RELIGION",
+        "RequirementSetId": "CITY_FOLLOWS_RELIGION_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_FOLLOWS_RELIGION",
+        "RequirementSetId": "CITY_FOLLOWS_RELIGION_WITH_2 DISTRICTS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_2_SPECIALTY_DISTRICTS",
+        "RequirementSetId": "CITY_FOLLOWS_RELIGION_WITH_2 DISTRICTS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_0_SPECIALTY_DISTRICTS",
+        "RequirementSetId": "CITY_HAS_0_SPECIALTY_DISTRICTS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_FOUNDED_RELIGION",
+        "RequirementSetId": "DEFENDER_OF_FAITH_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_NEAR_FRIENDLY_RELIGIOUS_CITY",
+        "RequirementSetId": "DEFENDER_OF_FAITH_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_NON_RELIGIOUS_UNIT",
+        "RequirementSetId": "DEFENDER_OF_FAITH_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_NON_SUPPORT_UNIT",
+        "RequirementSetId": "DEFENDER_OF_FAITH_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_FOUNDED_RELIGION",
+        "RequirementSetId": "JUST_WAR_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_NEAR_ENEMY_RELIGIOUS_CITY",
+        "RequirementSetId": "JUST_WAR_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_NON_RELIGIOUS_UNIT",
+        "RequirementSetId": "JUST_WAR_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_NON_SUPPORT_UNIT",
+        "RequirementSetId": "JUST_WAR_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_FOLLOWS_RELIGION",
+        "RequirementSetId": "CITY_FOLLOWS_RELIGION_HAS_SHRINE"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_SHRINE",
+        "RequirementSetId": "CITY_FOLLOWS_RELIGION_HAS_SHRINE"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_FOLLOWS_RELIGION",
+        "RequirementSetId": "CITY_FOLLOWS_RELIGION_HAS_TEMPLE"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_TEMPLE",
+        "RequirementSetId": "CITY_FOLLOWS_RELIGION_HAS_TEMPLE"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_FOLLOWS_RELIGION",
+        "RequirementSetId": "CITY_FOLLOWS_RELIGION_HAS_STAVE"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_STAVE",
+        "RequirementSetId": "CITY_FOLLOWS_RELIGION_HAS_STAVE"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_FOUNDED_RELIGION",
+        "RequirementSetId": "PLAYER_FOUNDED_RELIGION_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_HOLY_SITE",
+        "RequirementSetId": "PLOT_HAS_HOLY_SITE_RIVER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_RIVER",
+        "RequirementSetId": "PLOT_HAS_HOLY_SITE_RIVER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_MARSH",
+        "RequirementSetId": "PLOT_HAS_REEDS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_OASIS",
+        "RequirementSetId": "PLOT_HAS_REEDS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_FLOODPLAINS",
+        "RequirementSetId": "PLOT_HAS_REEDS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_FISHINGBOATS",
+        "RequirementSetId": "PLOT_HAS_FISHINGBOATS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_PASTURE",
+        "RequirementSetId": "PLOT_HAS_PASTURE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_CAMP",
+        "RequirementSetId": "PLOT_HAS_CAMP_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_QUARRY",
+        "RequirementSetId": "PLOT_HAS_QUARRY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_BONUS",
+        "RequirementSetId": "PLOT_HAS_BONUS_MINE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_MINE",
+        "RequirementSetId": "PLOT_HAS_BONUS_MINE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_LUXURY",
+        "RequirementSetId": "PLOT_HAS_LUXURY_MINE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_MINE",
+        "RequirementSetId": "PLOT_HAS_LUXURY_MINE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_STRATEGIC",
+        "RequirementSetId": "PLOT_HAS_STRATEGIC_MINE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_MINE",
+        "RequirementSetId": "PLOT_HAS_STRATEGIC_MINE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_VISIBLE_RESOURCE",
+        "RequirementSetId": "PLOT_HAS_STRATEGIC_MINE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_PLANTATION",
+        "RequirementSetId": "PLOT_HAS_PLANTATION_TAG_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_TAG_GODDESS_OF_FESTIVAL",
+        "RequirementSetId": "PLOT_HAS_PLANTATION_TAG_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_PLANTATION",
+        "RequirementSetId": "PLOT_HAS_PLANTATION_TAG2_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_TAG_ORAL_TRADITION",
+        "RequirementSetId": "PLOT_HAS_PLANTATION_TAG2_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_WITHIN_EIGHT_HOLY_SITE",
+        "RequirementSetId": "PLOT_EIGHT_INCLUDE_HOLY_SITE"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_HOLY_SITE",
+        "RequirementSetId": "PLOT_ADJACENT_INCLUDE_HOLY_SITE"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_PANTHEON",
+        "RequirementSetId": "PLAYER_HAS_PANTHEON_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_CHARMING_APPEAL",
+        "RequirementSetId": "PLOT_CHARMING_APPEAL"
+    },
+    {
+        "RequirementId": "REQUIRES_RICE_IN_PLOT",
+        "RequirementSetId": "RESOURCE_IS_RICE"
+    },
+    {
+        "RequirementId": "REQUIRES_WHEAT_IN_PLOT",
+        "RequirementSetId": "RESOURCE_IS_WHEAT"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_CHICHEN_ITZA",
+        "RequirementSetId": "CITY_HAS_CHICHEN_ITZA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_JUNGLE",
+        "RequirementSetId": "PLOT_HAS_JUNGLE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_LIGHTHOUSE",
+        "RequirementSetId": "CITY_HAS_LIGHTHOUSE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_COAST",
+        "RequirementSetId": "PLOT_HAS_COAST_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PETRA_YIELD_MODIFIER_REQUIRES_PLOT_HAS_DESERT",
+        "RequirementSetId": "PETRA_YIELD_MODIFIER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_NO_FLOODPLAINS",
+        "RequirementSetId": "PETRA_YIELD_MODIFIER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_QUARRY",
+        "RequirementSetId": "RUHR_VALLEY_PRODUCTION_MODIFIER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_MINE",
+        "RequirementSetId": "RUHR_VALLEY_PRODUCTION_MODIFIER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_SEAPORT",
+        "RequirementSetId": "CITY_HAS_SEAPORT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIREMENT_UNIT_IS_MELEE",
+        "RequirementSetId": "BARRACKS_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIREMENT_UNIT_IS_RANGED",
+        "RequirementSetId": "BARRACKS_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIREMENT_UNIT_IS_ANTI_CAV",
+        "RequirementSetId": "BARRACKS_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_HEAVY_CAVALRY",
+        "RequirementSetId": "STABLE_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_LIGHT_CAVALRY",
+        "RequirementSetId": "STABLE_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIREMENT_UNIT_IS_SIEGE",
+        "RequirementSetId": "STABLE_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_LAND_DOMAIN",
+        "RequirementSetId": "ARMORY_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_LAND_DOMAIN",
+        "RequirementSetId": "MILITARYACADEMY_XP_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_SEA_DOMAIN",
+        "RequirementSetId": "LIGHTHOUSE_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_SEA_DOMAIN",
+        "RequirementSetId": "SHIPYARD_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_SEA_DOMAIN",
+        "RequirementSetId": "SEAPORT_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_AIR_DOMAIN",
+        "RequirementSetId": "HANGAR_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_AIR_DOMAIN",
+        "RequirementSetId": "AIRPORT_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_RELIGIOUS_UNIT",
+        "RequirementSetId": "MOSQUE_RELIGIOUS_UNIT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_ELECTRICITYTECHNOLOGY",
+        "RequirementSetId": "PLAYER_HAS_ELECTRICITYTECHNOLOGY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CAN_EVER_EARN_PROPHET",
+        "RequirementSetId": "STONEHENGE_PROPHET_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CAN_NOT_EVER_EARN_PROPHET",
+        "RequirementSetId": "STONEHENGE_APOSTLE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_VISIBLE_RESOURCE",
+        "RequirementSetId": "STAVE_CHURCH_SEA_RESOURCE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_COAST",
+        "RequirementSetId": "STAVE_CHURCH_SEA_RESOURCE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_PETRA",
+        "RequirementSetId": "CITY_HAS_PETRA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_DESERT",
+        "RequirementSetId": "PRODUCTION_PLOT_HAS_DESERT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_DESERT",
+        "RequirementSetId": "GOLD_PLOT_HAS_DESERT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_DESERT",
+        "RequirementSetId": "FOOD_PLOT_HAS_DESERT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_NO_FLOODPLAINS",
+        "RequirementSetId": "PRODUCTION_PLOT_HAS_DESERT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_NO_FLOODPLAINS",
+        "RequirementSetId": "GOLD_PLOT_HAS_DESERT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_NO_FLOODPLAINS",
+        "RequirementSetId": "FOOD_PLOT_HAS_DESERT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_NO_FLOODPLAINS",
+        "RequirementSetId": "PRODUCTION_PLOT_HAS_DESERT_HILLS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_NO_FLOODPLAINS",
+        "RequirementSetId": "FOOD_PLOT_HAS_DESERT_HILLS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_NO_FLOODPLAINS",
+        "RequirementSetId": "GOLD_PLOT_HAS_DESERT_HILLS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_DESERT_HILLS",
+        "RequirementSetId": "PRODUCTION_PLOT_HAS_DESERT_HILLS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_DESERT_HILLS",
+        "RequirementSetId": "FOOD_PLOT_HAS_DESERT_HILLS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_DESERT_HILLS",
+        "RequirementSetId": "GOLD_PLOT_HAS_DESERT_HILLS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_MINE",
+        "RequirementSetId": "PLOT_HAS_MINE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_CITY_CENTER",
+        "RequirementSetId": "DISTRICT_IS_CITY_CENTER_ANCIENT"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_ANCIENT_WALLS",
+        "RequirementSetId": "DISTRICT_IS_CITY_CENTER_ANCIENT"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_CITY_CENTER",
+        "RequirementSetId": "DISTRICT_IS_CITY_CENTER_MEDIEVAL"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_MEDIEVAL_WALLS",
+        "RequirementSetId": "DISTRICT_IS_CITY_CENTER_MEDIEVAL"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_CITY_CENTER",
+        "RequirementSetId": "DISTRICT_IS_CITY_CENTER_RENAISSANCE"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_RENAISSANCE_WALLS",
+        "RequirementSetId": "DISTRICT_IS_CITY_CENTER_RENAISSANCE"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_ANCIENT_WALLS",
+        "RequirementSetId": "CITY_HAS_ANCIENT_WALLS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_RENAISSANCE_WALLS",
+        "RequirementSetId": "CITY_HAS_RENAISSANCE_WALLS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_FARM",
+        "RequirementSetId": "REQUIREMENTS_PLOT_HAS_FARM"
+    },
+    {
+        "RequirementId": "REQUIRES_OPPONENT_IS_BARBARIAN",
+        "RequirementSetId": "REQUIREMENTS_OPPONENT_IS_BARBARIAN"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_LAVRA",
+        "RequirementSetId": "REQUIREMENTS_CITY_HAS_LAVRA"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_SHRINE_BASE",
+        "RequirementSetId": "REQUIREMENTS_CITY_HAS_SHRINE"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_TEMPLE_BASE",
+        "RequirementSetId": "REQUIREMENTS_CITY_HAS_TEMPLE"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_CATHEDRAL_BASE",
+        "RequirementSetId": "REQUIREMENTS_CITY_HAS_TIER3RELIGIOUS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_DAR_E_MEHR_BASE",
+        "RequirementSetId": "REQUIREMENTS_CITY_HAS_TIER3RELIGIOUS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_GURDWARA_BASE",
+        "RequirementSetId": "REQUIREMENTS_CITY_HAS_TIER3RELIGIOUS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_MEETING_HOUSE_BASE",
+        "RequirementSetId": "REQUIREMENTS_CITY_HAS_TIER3RELIGIOUS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_MOSQUE_BASE",
+        "RequirementSetId": "REQUIREMENTS_CITY_HAS_TIER3RELIGIOUS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_PAGODA_BASE",
+        "RequirementSetId": "REQUIREMENTS_CITY_HAS_TIER3RELIGIOUS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_STUPA_BASE",
+        "RequirementSetId": "REQUIREMENTS_CITY_HAS_TIER3RELIGIOUS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_SYNAGOGUE_BASE",
+        "RequirementSetId": "REQUIREMENTS_CITY_HAS_TIER3RELIGIOUS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_WAT_BASE",
+        "RequirementSetId": "REQUIREMENTS_CITY_HAS_TIER3RELIGIOUS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_TUNDRA",
+        "RequirementSetId": "PLOT_HAS_TUNDRA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_TUNDRA_HILLS",
+        "RequirementSetId": "PLOT_HAS_TUNDRA_HILLS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_IS_DOMAIN_LAND",
+        "RequirementSetId": "UNIT_IS_DOMAIN_LAND"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_SHIPBUILDING_TECH",
+        "RequirementSetId": "PLAYER_HAS_SHIPBUILDING_TECH"
+    },
+    {
+        "RequirementId": "REQUIRES_NO_COMMERCIAL_HUB",
+        "RequirementSetId": "HARBOR_TRADE_ROUTE_CAPACITY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_SEA_DOMAIN",
+        "RequirementSetId": "DOCKYARD_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_IS_NOT_OWNER_CAPITAL_CONTINENT",
+        "RequirementSetId": "DOCKYARD_FOREIGN_CONTINENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "MAP_CONTAINS_DEAD_SEA",
+        "RequirementSetId": "DEAD_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "MAP_CONTAINS_EVEREST",
+        "RequirementSetId": "EVEREST_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_LAND_UNIT",
+        "RequirementSetId": "DEAD_SEA_ADJACENT_UNITS_ADJUST_HEAL_PER_TURN_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "DEAD_SEA_REQUIRES_ADJACENT_UNIT",
+        "RequirementSetId": "DEAD_SEA_ADJACENT_UNITS_ADJUST_HEAL_PER_TURN_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_LAND_UNIT",
+        "RequirementSetId": "EVEREST_ADJACENT_UNITS_GRANT_ABILITY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "EVEREST_REQUIRES_ADJACENT_UNIT",
+        "RequirementSetId": "EVEREST_ADJACENT_UNITS_GRANT_ABILITY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_1_SPECIALTY_DISTRICT",
+        "RequirementSetId": "CITY_HAS_1_SPECIALTY_DISTRICT"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_MEDIEVAL_WALLS",
+        "RequirementSetId": "CITY_HAS_MEDIEVAL_WALLS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_CLASSICAL_UNIT",
+        "RequirementSetId": "AOE_CLASSICAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_MEDIEVAL_UNIT",
+        "RequirementSetId": "AOE_CLASSICAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_MEDIEVAL_UNIT",
+        "RequirementSetId": "AOE_MEDIEVAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_RENAISSANCE_UNIT",
+        "RequirementSetId": "AOE_MEDIEVAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_RENAISSANCE_UNIT",
+        "RequirementSetId": "AOE_RENAISSANCE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_INDUSTRIAL_UNIT",
+        "RequirementSetId": "AOE_RENAISSANCE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_INDUSTRIAL_UNIT",
+        "RequirementSetId": "AOE_INDUSTRIAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_MODERN_UNIT",
+        "RequirementSetId": "AOE_INDUSTRIAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_MODERN_UNIT",
+        "RequirementSetId": "AOE_MODERN_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_ATOMIC_UNIT",
+        "RequirementSetId": "AOE_MODERN_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_ATOMIC_UNIT",
+        "RequirementSetId": "AOE_ATOMIC_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_INFORMATION_UNIT",
+        "RequirementSetId": "AOE_ATOMIC_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_INFORMATION_UNIT",
+        "RequirementSetId": "AOE_INFORMATION_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_SEA_DOMAIN",
+        "RequirementSetId": "AOE_CLASSICAL_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_CLASSICAL_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_CLASSICAL_REQUIREMENTS",
+        "RequirementSetId": "AOE_CLASSICAL_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_SEA_DOMAIN",
+        "RequirementSetId": "AOE_MEDIEVAL_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_MEDIEVAL_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_MEDIEVAL_REQUIREMENTS",
+        "RequirementSetId": "AOE_MEDIEVAL_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_SEA_DOMAIN",
+        "RequirementSetId": "AOE_RENAISSANCE_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_RENAISSANCE_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_RENAISSANCE_REQUIREMENTS",
+        "RequirementSetId": "AOE_RENAISSANCE_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_SEA_DOMAIN",
+        "RequirementSetId": "AOE_INDUSTRIAL_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_INDUSTRIAL_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_INDUSTRIAL_REQUIREMENTS",
+        "RequirementSetId": "AOE_INDUSTRIAL_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_SEA_DOMAIN",
+        "RequirementSetId": "AOE_MODERN_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_MODERN_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_MODERN_REQUIREMENTS",
+        "RequirementSetId": "AOE_MODERN_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_SEA_DOMAIN",
+        "RequirementSetId": "AOE_ATOMIC_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_ATOMIC_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_ATOMIC_REQUIREMENTS",
+        "RequirementSetId": "AOE_ATOMIC_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_SEA_DOMAIN",
+        "RequirementSetId": "AOE_INFORMATION_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_INFORMATION_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_INFORMATION_REQUIREMENTS",
+        "RequirementSetId": "AOE_INFORMATION_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_DOMAIN_SEA",
+        "RequirementSetId": "GREATPERSON_LEIF_ERIKSON_ACTIVE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_DOMAIN_SEA",
+        "RequirementSetId": "SEA_TRADE_ROUTE_PLUNDER_BONUS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_DOMAIN_SEA",
+        "RequirementSetId": "GREATPERSON_HORATIO_NELSON_SEA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_LAND_DOMAIN",
+        "RequirementSetId": "AOE_CLASSICAL_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_CLASSICAL_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_CLASSICAL_REQUIREMENTS",
+        "RequirementSetId": "AOE_CLASSICAL_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_LAND_DOMAIN",
+        "RequirementSetId": "AOE_MEDIEVAL_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_MEDIEVAL_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_MEDIEVAL_REQUIREMENTS",
+        "RequirementSetId": "AOE_MEDIEVAL_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_LAND_DOMAIN",
+        "RequirementSetId": "AOE_RENAISSANCE_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_RENAISSANCE_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_RENAISSANCE_REQUIREMENTS",
+        "RequirementSetId": "AOE_RENAISSANCE_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_LAND_DOMAIN",
+        "RequirementSetId": "AOE_INDUSTRIAL_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_INDUSTRIAL_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_INDUSTRIAL_REQUIREMENTS",
+        "RequirementSetId": "AOE_INDUSTRIAL_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_LAND_DOMAIN",
+        "RequirementSetId": "AOE_MODERN_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_MODERN_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_MODERN_REQUIREMENTS",
+        "RequirementSetId": "AOE_MODERN_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_LAND_DOMAIN",
+        "RequirementSetId": "AOE_ATOMIC_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_ATOMIC_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_ATOMIC_REQUIREMENTS",
+        "RequirementSetId": "AOE_ATOMIC_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_LAND_DOMAIN",
+        "RequirementSetId": "AOE_INFORMATION_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_INFORMATION_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_INFORMATION_REQUIREMENTS",
+        "RequirementSetId": "AOE_INFORMATION_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_LIGHT_CAVALRY",
+        "RequirementSetId": "UNIT_IS_CAVALRY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_HEAVY_CAVALRY",
+        "RequirementSetId": "UNIT_IS_CAVALRY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "GREATPERSON_BOUDICA_ACTIVE_REQUIRES_LAND_ADJACENCY",
+        "RequirementSetId": "GREATPERSON_BOUDICA_ACTIVE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_BARBARIAN",
+        "RequirementSetId": "GREATPERSON_BOUDICA_ACTIVE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_DOMAIN_LAND",
+        "RequirementSetId": "GREATPERSON_GEORGY_ZHUKOV_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_LAND_DOMAIN",
+        "RequirementSetId": "ABU_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_TECHNOLOGY",
+        "RequirementSetId": "PLAYER_HAS_TECHNOLOGY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_LUXURY",
+        "RequirementSetId": "PLOT_ADJACENT_TO_LUXURY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_CAMPUS",
+        "RequirementSetId": "PLOT_ADJACENT_TO_CAMPUS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_IS_NOT_OWNER_CAPITAL_CONTINENT",
+        "RequirementSetId": "PLOT_NOT_OWNER_CAPITAL_CONTINENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_WONDER",
+        "RequirementSetId": "PLOT_ADJACENT_TO_WONDER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_FARM",
+        "RequirementSetId": "PLOT_ADJACENT_TO_FARM_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_HOLYSITE",
+        "RequirementSetId": "PLOT_ADJACENT_TO_HOLYSITE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_RIVER",
+        "RequirementSetId": "PLOT_ADJACENT_TO_RIVER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_NATIONAL_PARK",
+        "RequirementSetId": "CITY_HAS_NATIONAL_PARK_REQUREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_DEAL_ENACTED",
+        "RequirementSetId": "ON_DEAL_ENACTED"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "ON_DEAL_ENACTED"
+    },
+    {
+        "RequirementId": "REQUIRES_TURN_STARTED",
+        "RequirementSetId": "ON_TURN_STARTED"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_NEAR_CULTURE_BORDER",
+        "RequirementSetId": "PLAYER_NEAR_CULTURE_BORDER"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_NEAR_CULTURE_BORDER"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_NEAR_CULTURE_BORDER"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_NOT_ALLY",
+        "RequirementSetId": "PLAYER_NEAR_CULTURE_BORDER"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAD_FRIENDLY_MEETING",
+        "RequirementSetId": "PLAYER_HAD_FRIENDLY_MEETING"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_HAD_FRIENDLY_MEETING"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAD_FRIENDLY_MEETING"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_DECLARED_FRIEND",
+        "RequirementSetId": "PLAYER_DECLARED_FRIEND"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_DECLARED_FRIEND"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_DECLARED_FRIEND"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_DEFENSIVE_PACT",
+        "RequirementSetId": "PLAYER_DEFENSIVE_PACT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_DEFENSIVE_PACT"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_DEFENSIVE_PACT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_OPEN_BORDERS",
+        "RequirementSetId": "PLAYER_OPEN_BORDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_OPEN_BORDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_OPEN_BORDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_NO_OPEN_BORDERS",
+        "RequirementSetId": "PLAYER_IS_KNOWN_BUT_NO_OPEN_BORDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_NEAR_CULTURE_BORDER",
+        "RequirementSetId": "PLAYER_IS_KNOWN_BUT_NO_OPEN_BORDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_AT_PEACE_10_TURNS",
+        "RequirementSetId": "PLAYER_IS_KNOWN_BUT_NO_OPEN_BORDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_IS_KNOWN_BUT_NO_OPEN_BORDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_IS_KNOWN_BUT_NO_OPEN_BORDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_RESIDENT_EMBASSY",
+        "RequirementSetId": "PLAYER_RESIDENT_EMBASSY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_RESIDENT_EMBASSY"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_RESIDENT_EMBASSY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_ALLY",
+        "RequirementSetId": "PLAYER_ALLY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_ALLY"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_ALLY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_DELEGATION",
+        "RequirementSetId": "PLAYER_DELEGATION"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_DELEGATION"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_DELEGATION"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_RECEIVED_DEMAND",
+        "RequirementSetId": "PLAYER_RECEIVED_DEMAND"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_DENOUNCED",
+        "RequirementSetId": "PLAYER_DENOUNCED"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_DENOUNCED"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_FOUNDED_OUR_RELIGION",
+        "RequirementSetId": "PLAYER_ACCEPT_CONVERSION"
+    },
+    {
+        "RequirementId": "REQUIRES_FOUNDED_NO_RELIGION",
+        "RequirementSetId": "PLAYER_ACCEPT_CONVERSION"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_ACCEPT_CONVERSION"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_ACCEPT_CONVERSION"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CITY_CONVERTED",
+        "RequirementSetId": "PLAYER_CITY_CONVERTED"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_CITY_CONVERTED"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_IS_CLOSE_TO_VICTORY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_IS_CLOSE_TO_VICTORY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CLOSE_TO_VICTORY",
+        "RequirementSetId": "PLAYER_IS_CLOSE_TO_VICTORY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CITY_LIBERATED",
+        "RequirementSetId": "PLAYER_CITY_LIBERATED"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_CITY_LIBERATED"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_CITY_LIBERATED"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_MY_CITY_LIBERATED",
+        "RequirementSetId": "PLAYER_MY_CITY_LIBERATED"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_MY_CITY_LIBERATED"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CITY_OCCUPIED",
+        "RequirementSetId": "PLAYER_CITY_OCCUPIED"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_CITY_OCCUPIED"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CITY_OCCUPIED_FRIEND",
+        "RequirementSetId": "PLAYER_CITY_OCCUPIED_FRIEND"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_CITY_OCCUPIED_FRIEND"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_CITY_OCCUPIED_FRIEND"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_MY_CITY_RAZED",
+        "RequirementSetId": "PLAYER_MY_CITY_RAZED"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_MY_CITY_RAZED"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CULTURE_BOMBED",
+        "RequirementSetId": "PLAYER_CULTURE_BOMBED"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_CULTURE_BOMBED"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_FRIEND_DENOUNCED",
+        "RequirementSetId": "PLAYER_FRIEND_DENOUNCED"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_FRIEND_DENOUNCED"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_FRIEND_DENOUNCED"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_IS_AT_PEACE"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_IS_AT_PEACE"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_IS_MAJOR_CIV"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_IS_MAJOR_CIV"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_IS_HUMAN",
+        "RequirementSetId": "PLAYER_IS_HUMAN"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_IS_AI",
+        "RequirementSetId": "PLAYER_IS_AI"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_IS_AI",
+        "RequirementSetId": "PLAYER_IS_HIGH_DIFFICULTY_AI"
+    },
+    {
+        "RequirementId": "REQUIRES_HIGH_DIFFICULTY",
+        "RequirementSetId": "PLAYER_IS_HIGH_DIFFICULTY_AI"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_IS_HUMAN",
+        "RequirementSetId": "PLAYER_IS_LOW_DIFFICULTY_HUMAN"
+    },
+    {
+        "RequirementId": "REQUIRES_LOW_DIFFICULTY",
+        "RequirementSetId": "PLAYER_IS_LOW_DIFFICULTY_HUMAN"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_IS_KNOWN_MAJOR_CIV"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_IS_KNOWN_MAJOR_CIV"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_IS_WARMONGER_SUBJECT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_IS_WARMONGER_SUBJECT"
+    },
+    {
+        "RequirementId": "REQUIRES_WARMONGER_TRIGGER",
+        "RequirementSetId": "PLAYER_IS_WARMONGER_SUBJECT"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_IS_NEW_WARMONGER_SUBJECT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_IS_NEW_WARMONGER_SUBJECT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_DECLARED_WAR_EXCLUDE_SHARED_EMERGENCIES",
+        "RequirementSetId": "WARMONGER_TRIGGERS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CITY_OCCUPIED_TRIGGERED",
+        "RequirementSetId": "WARMONGER_TRIGGERS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_SAME_GOVERNMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_HAS_SAME_GOVERNMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_SAME_GOVERNMENT",
+        "RequirementSetId": "PLAYER_HAS_SAME_GOVERNMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_DIFFERENT_GOVERNMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "PLAYER_HAS_DIFFERENT_GOVERNMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_DIFFERENT_GOVERNMENT",
+        "RequirementSetId": "PLAYER_HAS_DIFFERENT_GOVERNMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_SMALL_MILITARY",
+        "RequirementSetId": "PLAYER_HAS_SMALL_MILITARY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_SMALL_INFLUENCE",
+        "RequirementSetId": "PLAYER_HAS_SMALL_INFLUENCE"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_HAS_SMALL_INFLUENCE"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_MEDIUM_INFLUENCE",
+        "RequirementSetId": "PLAYER_HAS_MEDIUM_INFLUENCE"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_HAS_MEDIUM_INFLUENCE"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_LARGE_INFLUENCE",
+        "RequirementSetId": "PLAYER_HAS_LARGE_INFLUENCE"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_HAS_LARGE_INFLUENCE"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_SMALL_INFLUENCE",
+        "RequirementSetId": "PLAYER_HAS_SMALL_INFLUENCE_AND_PAPAL_PRIMACY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_HAS_SMALL_INFLUENCE_AND_PAPAL_PRIMACY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_FOUNDED_OUR_RELIGION",
+        "RequirementSetId": "PLAYER_HAS_SMALL_INFLUENCE_AND_PAPAL_PRIMACY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_PAPAL_PRIMACY",
+        "RequirementSetId": "PLAYER_HAS_SMALL_INFLUENCE_AND_PAPAL_PRIMACY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_MEDIUM_INFLUENCE",
+        "RequirementSetId": "PLAYER_HAS_MEDIUM_INFLUENCE_AND_PAPAL_PRIMACY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_HAS_MEDIUM_INFLUENCE_AND_PAPAL_PRIMACY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_FOUNDED_OUR_RELIGION",
+        "RequirementSetId": "PLAYER_HAS_MEDIUM_INFLUENCE_AND_PAPAL_PRIMACY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_PAPAL_PRIMACY",
+        "RequirementSetId": "PLAYER_HAS_MEDIUM_INFLUENCE_AND_PAPAL_PRIMACY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_LARGE_INFLUENCE",
+        "RequirementSetId": "PLAYER_HAS_LARGE_INFLUENCE_AND_PAPAL_PRIMACY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_HAS_LARGE_INFLUENCE_AND_PAPAL_PRIMACY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_FOUNDED_OUR_RELIGION",
+        "RequirementSetId": "PLAYER_HAS_LARGE_INFLUENCE_AND_PAPAL_PRIMACY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_PAPAL_PRIMACY",
+        "RequirementSetId": "PLAYER_HAS_LARGE_INFLUENCE_AND_PAPAL_PRIMACY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_IS_SUZERAIN",
+        "RequirementSetId": "PLAYER_IS_SUZERAIN"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE",
+        "RequirementSetId": "PLAYER_IS_SUZERAIN"
+    },
+    {
+        "RequirementId": "REQUIRES_TECHNOLOGY_CASTLES",
+        "RequirementSetId": "PLAYER_HAS_CASTLES_TECHNOLOGY"
+    },
+    {
+        "RequirementId": "REQUIRES_TECHNOLOGY_CASTLES",
+        "RequirementSetId": "PLAYER_HAS_CASTLES_TECHNOLOGY_AND_CAPITAL"
+    },
+    {
+        "RequirementId": "REQUIRES_CAPITAL_CITY",
+        "RequirementSetId": "PLAYER_HAS_CASTLES_TECHNOLOGY_AND_CAPITAL"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_AT_PEACE_WITH_ALL_MAJORS",
+        "RequirementSetId": "PLAYER_IS_AT_PEACE_WITH_ALL_MAJORS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_ALUMINUM",
+        "RequirementSetId": "PLAYER_HAS_NO_ALUMINUM"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_ALUMINUM",
+        "RequirementSetId": "PLAYER_HAS_NO_ALUMINUM"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_COAL",
+        "RequirementSetId": "PLAYER_HAS_NO_COAL"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_COAL",
+        "RequirementSetId": "PLAYER_HAS_NO_COAL"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_HORSES",
+        "RequirementSetId": "PLAYER_HAS_NO_HORSES"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_HORSES",
+        "RequirementSetId": "PLAYER_HAS_NO_HORSES"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_IRON",
+        "RequirementSetId": "PLAYER_HAS_NO_IRON"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_IRON",
+        "RequirementSetId": "PLAYER_HAS_NO_IRON"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_NITER",
+        "RequirementSetId": "PLAYER_HAS_NO_NITER"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_NITER",
+        "RequirementSetId": "PLAYER_HAS_NO_NITER"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_OIL",
+        "RequirementSetId": "PLAYER_HAS_NO_OIL"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_OIL",
+        "RequirementSetId": "PLAYER_HAS_NO_OIL"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_URANIUM",
+        "RequirementSetId": "PLAYER_HAS_NO_URANIUM"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_URANIUM",
+        "RequirementSetId": "PLAYER_HAS_NO_URANIUM"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_CAMPUS",
+        "RequirementSetId": "DISTRICT_IS_CAMPUS"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_HOLY_SITE",
+        "RequirementSetId": "DISTRICT_IS_HOLY_SITE"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_COMMERCIAL_HUB",
+        "RequirementSetId": "DISTRICT_IS_COMMERCIAL_HUB"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_HARBOR",
+        "RequirementSetId": "DISTRICT_IS_HARBOR"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_THEATER",
+        "RequirementSetId": "DISTRICT_IS_THEATER"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_ENCAMPMENT",
+        "RequirementSetId": "DISTRICT_IS_ENCAMPMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_ENCAMPMENT",
+        "RequirementSetId": "PLOT_HAS_ENCAMPMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_INDUSTRIAL_ZONE",
+        "RequirementSetId": "DISTRICT_IS_INDUSTRIAL_ZONE"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_INDUSTRIAL_ZONE",
+        "RequirementSetId": "DISTRICT_IS_INDUSTRIAL_ZONE_OR_ENTERTAINMENT_COMPLEX"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_ENTERTAINMENT_COMPLEX",
+        "RequirementSetId": "DISTRICT_IS_INDUSTRIAL_ZONE_OR_ENTERTAINMENT_COMPLEX"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_IS_INQUISITOR",
+        "RequirementSetId": "UNIT_IS_INQUISITOR"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_IS_TRADER",
+        "RequirementSetId": "UNIT_IS_TRADER"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_ON_HOME_CONTINENT",
+        "RequirementSetId": "REQUIREMENTS_UNIT_ON_HOME_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_OPPONENT_IS_MINOR_CIV",
+        "RequirementSetId": "REQUIREMENTS_OPPONENT_IS_MINOR_CIV"
+    },
+    {
+        "RequirementId": "REQUIRES_OPPONENT_IS_OTHER_RELIGION",
+        "RequirementSetId": "REQUIREMENTS_OPPONENT_IS_OTHER_RELIGION"
+    },
+    {
+        "RequirementId": "REQUIRES_OPPONENT_IS_WOUNDED",
+        "RequirementSetId": "REQUIREMENTS_OPPONENT_IS_WOUNDED"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_LAND_DOMAIN",
+        "RequirementSetId": "REQUIREMENTS_UNIT_LAND_DOMAIN"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_ON_COASTAL_LAND",
+        "RequirementSetId": "REQUIREMENTS_UNIT_ON_COAST"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_SEA_DOMAIN",
+        "RequirementSetId": "REQUIREMENTS_UNIT_SEA_DOMAIN"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_IN_SHALLOW_WATER",
+        "RequirementSetId": "REQUIREMENTS_UNIT_IN_SHALLOW_WATER"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_IS_COAST",
+        "RequirementSetId": "PLOT_IS_OR_ADJACENT_TO_COAST"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_IS_ADJACENT_TO_COAST",
+        "RequirementSetId": "PLOT_IS_OR_ADJACENT_TO_COAST"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYERS_HAVE_MET",
+        "RequirementSetId": "REQUIREMENTS_INDEPT_MINOR_CIV_HOME_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_IS_MINOR_CIV",
+        "RequirementSetId": "REQUIREMENTS_INDEPT_MINOR_CIV_HOME_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_SAME_HOME_CONTINENT",
+        "RequirementSetId": "REQUIREMENTS_INDEPT_MINOR_CIV_HOME_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_IS_NOT_SUZERAIN",
+        "RequirementSetId": "REQUIREMENTS_INDEPT_MINOR_CIV_HOME_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_ESPIONAGE_DETECTED",
+        "RequirementSetId": "ON_ESPIONAGE_DETECTED"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_IS_NOT_OWNER_CAPITAL_CONTINENT",
+        "RequirementSetId": "CITY_FOUNDED_ON_NON_HOME_CONTINENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "CITY_FOUNDED_BY_SETTLER_REQUIREMENT",
+        "RequirementSetId": "CITY_FOUNDED_ON_NON_HOME_CONTINENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_IS_NOT_OWNER_CAPITAL_CONTINENT",
+        "RequirementSetId": "FOREIGN_CITY_ROYAL_NAVY_DOCKYARD_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "CITY_FOUNDED_BY_SETTLER_REQUIREMENT",
+        "RequirementSetId": "FOREIGN_CITY_ROYAL_NAVY_DOCKYARD_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "FOREIGN_CITY_REQUIRES_CITY_HAS_ROYAL_NAVY_DOCKYARD",
+        "RequirementSetId": "FOREIGN_CITY_ROYAL_NAVY_DOCKYARD_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_IS_NOT_OWNER_CAPITAL_CONTINENT",
+        "RequirementSetId": "CITY_NOT_OWNER_CAPITAL_CONTINENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_2_SPECIALTY_DISTRICTS",
+        "RequirementSetId": "CITY_HAS_2_SPECIALTY_DISTRICTS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_3_SPECIALTY_DISTRICTS",
+        "RequirementSetId": "CITY_HAS_3_SPECIALTY_DISTRICTS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "RECON_UNITS",
+        "RequirementSetId": "SURVEY_RECONUNITEXPERIENCE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_STADIUM",
+        "RequirementSetId": "CITY_HAS_STADIUM_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_MILITARY_ACADEMY",
+        "RequirementSetId": "CITY_HAS_MILITARY_ACADEMY_OR_SEAPORT"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_SEAPORT",
+        "RequirementSetId": "CITY_HAS_MILITARY_ACADEMY_OR_SEAPORT"
+    },
+    {
+        "RequirementId": "REQUIREMENT_UNIT_IS_SPY",
+        "RequirementSetId": "UNIT_IS_SPY"
+    },
+    {
+        "RequirementId": "REQUIREMENT_UNIT_IS_BUILDER",
+        "RequirementSetId": "UNIT_IS_BUILDER"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_IS_MINOR",
+        "RequirementSetId": "PLAYER_IS_MINOR"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_GARRISON_UNIT",
+        "RequirementSetId": "CITY_HAS_GARRISON_UNIT_REQUIERMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_NON_RELIGIOUS_UNIT",
+        "RequirementSetId": "WARS_OF_RELIGION_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "ANTI_CAVALRY_OPPONENT_REQUIREMENT_LC",
+        "RequirementSetId": "ANTI_CAVALRY_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "ANTI_CAVALRY_OPPONENT_REQUIREMENT_HC",
+        "RequirementSetId": "ANTI_CAVALRY_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "ANTI_CAVALRY_OPPONENT_REQUIREMENT_RC",
+        "RequirementSetId": "ANTI_CAVALRY_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "ANTI_FIGHTER_AIRCRAFT_OPPONENT_REQUIREMENT",
+        "RequirementSetId": "ANTI_FIGHTER_AIRCRAFT_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_ANTI_CAVALRY_REQUIREMENT",
+        "RequirementSetId": "ANTI_SPEAR_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "ADJACENT_FRIENDLY_OBSERVER_UNIT_REQUIREMENT",
+        "RequirementSetId": "RANGE_BONUS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "FASCISM_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_DEFENDER_REQUIREMENTS",
+        "RequirementSetId": "COMMUNISM_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "ADJACENT_UNIT_REQUIREMENT",
+        "RequirementSetId": "MEDIC_HEALING_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_STRONG_WHEN_ATTACKING_REQUIREMENT",
+        "RequirementSetId": "UNIT_STRONG_WHEN_ATTACKING_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_WEAK_WHEN_DEFENDING_REQUIREMENT",
+        "RequirementSetId": "UNIT_WEAK_WHEN_DEFENDING_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "MELEE_COMBAT_REQUIREMENTS",
+        "RequirementSetId": "UNIT_WEAK_WHEN_DEFENDING_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IN_ENEMY_TERRITORY_REQUIREMENT",
+        "RequirementSetId": "BERSERKER_PLOT_IS_ENEMY_TERRITORY"
+    },
+    {
+        "RequirementId": "REQUIRES_TERRAIN_COAST",
+        "RequirementSetId": "LONGSHIP_PLOT_IS_COAST"
+    },
+    {
+        "RequirementId": "PLOT_IS_HILLS_REQUIREMENT",
+        "RequirementSetId": "BALKAN_CAVALRY_PLOT_IS_HILS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_ADJACENT_TO_OWNER_TERRITORY_REQUIREMENT",
+        "RequirementSetId": "COSSACK_PLOT_IS_OWNER_OR_ADJACENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IN_OWNER_TERRITORY_REQUIREMENT",
+        "RequirementSetId": "COSSACK_PLOT_IS_OWNER_OR_ADJACENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "NOT_OWNER_CAPITAL_CONTINENT_REQUIREMENT",
+        "RequirementSetId": "REDCOAT_PLOT_IS_FOREIGN_CONTINENT"
+    },
+    {
+        "RequirementId": "VARU_ADJACENT_UNIT_AT_WAR_REQUIREMENT",
+        "RequirementSetId": "VARU_ADJACENT_AT_WAR_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "RANGED_COMBAT_REQUIREMENTS",
+        "RequirementSetId": "NAGAO_RANGED_DEFENSE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_DEFENDER_REQUIREMENTS",
+        "RequirementSetId": "NAGAO_RANGED_DEFENSE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_IS_ADJACENT_RELIGIOUS_ALL_TAG",
+        "RequirementSetId": "CONQUISTADOR_SPECIFIC_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_ON_HOME_CONTINENT",
+        "RequirementSetId": "GARDE_PLOT_IS_CAPITAL_CONTINENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_NEXT_TO_HOPLITE",
+        "RequirementSetId": "HOPLITE_PLOT_IS_HOPLITE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_TERRAIN_OCEAN",
+        "RequirementSetId": "UBOAT_PLOT_IS_OCEAN_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_ON_HOME_CONTINENT",
+        "RequirementSetId": "ROUGH_RIDER_PLOT_IS_CAPITAL_CONTINENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_IS_GRASS_HILLS_TERRAIN_REQUIREMENT",
+        "RequirementSetId": "ROUGH_RIDER_HILL_TERRAIN_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_IS_PLAINS_HILLS_TERRAIN_REQUIREMENT",
+        "RequirementSetId": "ROUGH_RIDER_HILL_TERRAIN_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_IS_TUNDRA_HILLS_TERRAIN_REQUIREMENT",
+        "RequirementSetId": "ROUGH_RIDER_HILL_TERRAIN_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_IS_DESERT_HILLS_TERRAIN_REQUIREMENT",
+        "RequirementSetId": "ROUGH_RIDER_HILL_TERRAIN_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_IS_SNOW_HILLS_TERRAIN_REQUIREMENT",
+        "RequirementSetId": "ROUGH_RIDER_HILL_TERRAIN_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_ON_COASTAL_LAND",
+        "RequirementSetId": "DIGGER_ON_COAST_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_NOT_IN_OWNER_TERRITORY",
+        "RequirementSetId": "DIGGER_NON_DOMESTIC_PLOT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_DISTRICT",
+        "RequirementSetId": "UNIT_ATTACKING_DISTRICT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_IS_LAND_DOMAIN",
+        "RequirementSetId": "REQUIREMENTS_UNIT_IS_LAND_DOMAIN"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "BATTLECRY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "BATTLECRY_OPPONENT_REQUIREMENTS_MET",
+        "RequirementSetId": "BATTLECRY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_PROMOTION_CLASS_MELEE",
+        "RequirementSetId": "BATTLECRY_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_RANGED_REQUIREMENT",
+        "RequirementSetId": "BATTLECRY_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_ANTI_CAVALRY_REQUIREMENT",
+        "RequirementSetId": "BATTLECRY_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "RANGED_COMBAT_REQUIREMENTS",
+        "RequirementSetId": "TORTOISE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_DEFENDER_REQUIREMENTS",
+        "RequirementSetId": "TORTOISE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_ANTI_CAVALRY_REQUIREMENT",
+        "RequirementSetId": "ZWEIHANDER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "MELEE_COMBAT_REQUIREMENTS",
+        "RequirementSetId": "URBAN_WARFARE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "DEFENDER_IS_OCCUPYING_DISTRICT_REQUIREMENT",
+        "RequirementSetId": "URBAN_WARFARE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_LAND_UNIT_REQUIREMENTS",
+        "RequirementSetId": "VOLLEY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "VOLLEY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "INCENDIARIES_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_DISTRICT_IS_DEFENDED_REQUIREMENTS",
+        "RequirementSetId": "INCENDIARIES_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_NOT_AIR_UNIT_REQUIREMENTS",
+        "RequirementSetId": "ARROW_STORM_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "ARROW_STORM_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_DEFENDER_REQUIREMENTS",
+        "RequirementSetId": "EMPLACEMENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_DISTRICT",
+        "RequirementSetId": "EMPLACEMENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_PLOT_IS_CITY_CENTER_REQUIREMENT",
+        "RequirementSetId": "EMPLACEMENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_OCCUPYING_DEFENSE_IMPROVEMENT",
+        "RequirementSetId": "GARRISON_PLOT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "GARRISON_PLOT_REQUIREMENTS_MET",
+        "RequirementSetId": "GARRISON_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "ATTACKER_IS_OCCUPYING_DISTRICT_REQUIREMENT",
+        "RequirementSetId": "GARRISON_PLOT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "ECHELON_OPPONENT_REQUIREMENT_LC",
+        "RequirementSetId": "ECHELON_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "ECHELON_OPPONENT_REQUIREMENT_HC",
+        "RequirementSetId": "ECHELON_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_PROMOTION_CLASS_MELEE",
+        "RequirementSetId": "THRUST_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_DEFENDER_REQUIREMENTS",
+        "RequirementSetId": "SCHILTRON_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_PROMOTION_CLASS_MELEE",
+        "RequirementSetId": "SCHILTRON_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_DEFENDER_REQUIREMENTS",
+        "RequirementSetId": "CHOKE_POINTS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "CHOKE_POINTS_PLOT_REQUIREMENTS_MET_REQUIREMENT",
+        "RequirementSetId": "CHOKE_POINTS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_IS_FOREST_REQUIREMENT",
+        "RequirementSetId": "CHOKE_POINTS_PLOT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_IS_JUNGLE_REQUIREMENT",
+        "RequirementSetId": "CHOKE_POINTS_PLOT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_IS_MARSH_REQUIREMENT",
+        "RequirementSetId": "CHOKE_POINTS_PLOT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_IS_HILLS_REQUIREMENT",
+        "RequirementSetId": "CHOKE_POINTS_PLOT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "HOLD_THE_LINE_ADJACENT_UNIT_REQUIREMENT",
+        "RequirementSetId": "HOLD_THE_LINE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_NOT_ANTICAV_REQUIREMENT",
+        "RequirementSetId": "HOLD_THE_LINE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_ANTI_CAVALRY_REQUIREMENT",
+        "RequirementSetId": "CAPARISON_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "COURSERS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "COURSERS_OPPONENT_REQUIREMENTS_MET_REQUIREMENT",
+        "RequirementSetId": "COURSERS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_RANGED_REQUIREMENT",
+        "RequirementSetId": "COURSERS_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_SIEGE_REQUIREMENT",
+        "RequirementSetId": "COURSERS_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "SPIKING_THE_GUNS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_SIEGE_REQUIREMENT",
+        "RequirementSetId": "SPIKING_THE_GUNS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_LAND_UNIT",
+        "RequirementSetId": "SHRAPNEL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "ADVANCED_RANGEFINDING_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_SEA_UNIT",
+        "RequirementSetId": "ADVANCED_RANGEFINDING_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_LAND_UNIT",
+        "RequirementSetId": "GRAPE_SHOT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_DEFENDER_REQUIREMENTS",
+        "RequirementSetId": "CREW_WEAPONS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_DISTRICT",
+        "RequirementSetId": "SHELLS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_FORTIFIED",
+        "RequirementSetId": "CHARGE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "RANGED_COMBAT_REQUIREMENTS",
+        "RequirementSetId": "TOP_COVER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_DEFENDER_REQUIREMENTS",
+        "RequirementSetId": "TOP_COVER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "URBAN_RAIDER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "DEFENDER_IS_OCCUPYING_DISTRICT_REQUIREMENT",
+        "RequirementSetId": "URBAN_RAIDER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "VULTURE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_DAMAGED_UNIT_REQUIREMENT",
+        "RequirementSetId": "VULTURE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_HEAVY_CAVALRY_REQUIREMENT",
+        "RequirementSetId": "ARMOR_PIERCING_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_DEFENDER_REQUIREMENTS",
+        "RequirementSetId": "REACTIVE_ARMOR_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REACTIVE_ARMOR_OPPONENT_REQUIREMENTS_MET_REQUIREMENT",
+        "RequirementSetId": "REACTIVE_ARMOR_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_HEAVY_CAVALRY_REQUIREMENT",
+        "RequirementSetId": "REACTIVE_ARMOR_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_ANTI_CAVALRY_REQUIREMENT",
+        "RequirementSetId": "REACTIVE_ARMOR_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_FIGHTER_UNIT_REQUIREMENTS",
+        "RequirementSetId": "DOGFIGHTING_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_BOMBER_UNIT_REQUIREMENTS",
+        "RequirementSetId": "INTERCEPTOR_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_ANTI_AIR_REQUIREMENT",
+        "RequirementSetId": "COCKPIT_ARMOR_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "STRAFE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "STRAFE_OPPONENT_REQUIREMENTS_MET_REQUIREMENT",
+        "RequirementSetId": "STRAFE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_NOT_LIGHT_CAVALRY_UNIT_REQUIREMENTS",
+        "RequirementSetId": "STRAFE_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_NOT_HEAVY_CAVALRY_UNIT_REQUIREMENTS",
+        "RequirementSetId": "STRAFE_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_NOT_AIR_UNIT_REQUIREMENTS",
+        "RequirementSetId": "STRAFE_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "TANK_BUSTER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "TANK_BUSTER_OPPONENT_REQUIREMENTS_MET_REQUIREMENT",
+        "RequirementSetId": "TANK_BUSTER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_LIGHT_CAVALRY_UNIT_REQUIREMENTS",
+        "RequirementSetId": "TANK_BUSTER_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_HEAVY_CAVALRY_UNIT_REQUIREMENTS",
+        "RequirementSetId": "TANK_BUSTER_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_FIGHTER_UNIT_REQUIREMENTS",
+        "RequirementSetId": "BOX_FORMATION_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_ANTI_AIR_REQUIREMENT",
+        "RequirementSetId": "EVASIVE_MANEUVERS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "TORPEDO_BOMBER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_NAVAL_UNIT_REQUIREMENTS",
+        "RequirementSetId": "TORPEDO_BOMBER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "CLOSE_AIR_SUPPORT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_LAND_UNIT_REQUIREMENTS",
+        "RequirementSetId": "CLOSE_AIR_SUPPORT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_NAVAL_UNIT_REQUIREMENTS",
+        "RequirementSetId": "EMBOLON_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_DEFENDER_REQUIREMENTS",
+        "RequirementSetId": "REINFORCED_HULL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "RANGED_COMBAT_REQUIREMENTS",
+        "RequirementSetId": "REINFORCED_HULL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_IN_FORMATION_REQUIREMENT",
+        "RequirementSetId": "CONVOY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_RAIDER",
+        "RequirementSetId": "CREEPING_ATTACK_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "LINE_OF_BATTLE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_NAVAL_UNIT_REQUIREMENTS",
+        "RequirementSetId": "LINE_OF_BATTLE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "BOMBARDMENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_DISTRICT_IS_DEFENDED_REQUIREMENTS",
+        "RequirementSetId": "BOMBARDMENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "PREPARATORY_FIRE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_LAND_UNIT_REQUIREMENTS",
+        "RequirementSetId": "PREPARATORY_FIRE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "ROLLING_BARRAGE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_DISTRICT_IS_DEFENDED_REQUIREMENTS",
+        "RequirementSetId": "ROLLING_BARRAGE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_DEFENDER_REQUIREMENTS",
+        "RequirementSetId": "PROMOTION_PROXIMITY_FUSES_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_AIR_UNIT_REQUIREMENTS",
+        "RequirementSetId": "PROMOTION_PROXIMITY_FUSES_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_NAVAL_UNIT_REQUIREMENTS",
+        "RequirementSetId": "BOARDING_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_NAVAL_UNIT_REQUIREMENTS",
+        "RequirementSetId": "HOMING_TORPEDOES_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "DEFAULT_DEFEAT_REQUIREMENT",
+        "RequirementSetId": "DEFAULT_DEFEAT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "TIME_DEFEAT_SCORE_DISABLED",
+        "RequirementSetId": "TIME_DEFEAT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "TIME_DEFEAT_MAX_TURN_REACHED",
+        "RequirementSetId": "TIME_DEFEAT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "DEFAULT_VICTORY_REQUIREMENT",
+        "RequirementSetId": "REQUIREMENTS_DEFAULT_VICTORY"
+    },
+    {
+        "RequirementId": "DEFAULT_VICTORY_DOMINATION_DISABLED",
+        "RequirementSetId": "REQUIREMENTS_DEFAULT_VICTORY"
+    },
+    {
+        "RequirementId": "VICTORY_SCORE_REQUIRES_MAX_TURN_REACHED",
+        "RequirementSetId": "REQUIREMENTS_SCORE_VICTORY"
+    },
+    {
+        "RequirementId": "VICTORY_SCORE_TEAM_HAS_HIGHEST_SCORE",
+        "RequirementSetId": "REQUIREMENTS_SCORE_VICTORY"
+    },
+    {
+        "RequirementId": "CONQUEST_VICTORY_REQUIREMENT",
+        "RequirementSetId": "REQUIREMENTS_CONQUEST_VICTORY"
+    },
+    {
+        "RequirementId": "CULTURE_VICTORY_REQUIREMENT",
+        "RequirementSetId": "REQUIREMENTS_CULTURE_VICTORY"
+    },
+    {
+        "RequirementId": "CULTURE_VICTORY_PER_MEMBER_REQUIREMENT",
+        "RequirementSetId": "CULTURE_VICTORY_PER_MEMBER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "CULTURE_VICTORY_ENOUGH_TOURISTS_REQUIREMENT",
+        "RequirementSetId": "CULTURE_VICTORY_ENOUGH_TOURISTS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "RELIGIOUS_VICTORY_REQUIREMENT",
+        "RequirementSetId": "REQUIREMENTS_RELIGIOUS_VICTORY"
+    },
+    {
+        "RequirementId": "RELIGIOUS_VICTORY_PER_MEMBER_REQUIREMENT",
+        "RequirementSetId": "RELIGIOUS_VICTORY_PER_MEMBER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "RELIGIOUS_VICTORY_MAJORITY_RELIGION_IS_OWNER_REQUIREMENT",
+        "RequirementSetId": "RELIGIOUS_VICTORY_RELIGIOUS_MAJORITY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "TECH_VICTORY_PER_TEAM_REQUIREMENTS_MET",
+        "RequirementSetId": "REQUIREMENTS_TECHNOLOGY_VICTORY"
+    },
+    {
+        "RequirementId": "TECHNOLOGY_VICTORY_EARTH_SATELLITE",
+        "RequirementSetId": "TECH_VICTORY_PER_TEAM_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "TECHNOLOGY_VICTORY_MOON_LANDING",
+        "RequirementSetId": "TECH_VICTORY_PER_TEAM_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "TECHNOLOGY_VICTORY_MARS_REACTOR_MODULE",
+        "RequirementSetId": "TECH_VICTORY_PER_TEAM_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "TECHNOLOGY_VICTORY_MARS_HABITATION_MODULE",
+        "RequirementSetId": "TECH_VICTORY_PER_TEAM_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "TECHNOLOGY_VICTORY_MARS_HYDROPONICS_MODULE",
+        "RequirementSetId": "TECH_VICTORY_PER_TEAM_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_IS_LAKE",
+        "RequirementSetId": "FOODHUEY_PLOT_IS_LAKE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER",
+        "RequirementSetId": "FOODHUEY_PLAYER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER",
+        "RequirementSetId": "PRODUCTIONHUEY_PLAYER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_IS_LAKE",
+        "RequirementSetId": "PRODUCTIONHUEY_PLOT_IS_LAKE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_WONDER",
+        "RequirementSetId": "REQUIREMENTS_PLOT_ADJACENT_FORESTS_OR_WONDERS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_FOREST_ROOSEVELT",
+        "RequirementSetId": "REQUIREMENTS_PLOT_ADJACENT_FORESTS_OR_WONDERS"
+    },
+    {
+        "RequirementId": "PLOT_ADJACENT_FORESTS_OR_WONDERS_REQUIREMENTS_MET",
+        "RequirementSetId": "REQUIREMENTS_PLOT_ADJACENT_FORESTS_OR_WONDERS_BREATHTAKING"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_BREATHTAKING_APPEAL_ROOSEVELT",
+        "RequirementSetId": "REQUIREMENTS_PLOT_ADJACENT_FORESTS_OR_WONDERS_BREATHTAKING"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_NATURAL_WONDER",
+        "RequirementSetId": "REQUIREMENTS_PLOT_ADJACENT_NATURAL_WONDERS_OR_MOUNTAINS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_MOUNTAIN",
+        "RequirementSetId": "REQUIREMENTS_PLOT_ADJACENT_NATURAL_WONDERS_OR_MOUNTAINS"
+    },
+    {
+        "RequirementId": "PLOT_ADJACENT_NATURAL_WONDERS_OR_MOUNTAINS_MET",
+        "RequirementSetId": "REQUIREMENTS_PLOT_ADJACENT_NATURAL_WONDERS_OR_MOUNTAINS_BREATHTAKING"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_BREATHTAKING_APPEAL_ROOSEVELT",
+        "RequirementSetId": "REQUIREMENTS_PLOT_ADJACENT_NATURAL_WONDERS_OR_MOUNTAINS_BREATHTAKING"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_MASS_PRODUCTION_TECHNOLOGY",
+        "RequirementSetId": "PLAYER_HAS_KAMPUNG_TECHNOLOGY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_AQUEDUCT",
+        "RequirementSetId": "DISTRICT_IS_AQUEDUCT_AMENITY"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_AQUEDUCT",
+        "RequirementSetId": "DISTRICT_IS_AQUEDUCT_FAITH"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_AQUEDUCT",
+        "RequirementSetId": "PLOT_IS_FARM_AQUEDUCT_ADJACENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_FARM",
+        "RequirementSetId": "PLOT_IS_FARM_AQUEDUCT_ADJACENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_RIVER",
+        "RequirementSetId": "PLOT_IS_HOLY_SITE_RIVER_FOOD_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_HOLY_SITE",
+        "RequirementSetId": "PLOT_IS_HOLY_SITE_RIVER_FOOD_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_RIVER",
+        "RequirementSetId": "PLOT_IS_HOLY_SITE_RIVER_HOUSING_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_HOLY_SITE",
+        "RequirementSetId": "PLOT_IS_HOLY_SITE_RIVER_HOUSING_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_IS_RELIGIOUS_ALL",
+        "RequirementSetId": "UNIT_IS_RELIGIOUS_EMBARK_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_IS_ADJACENT_TO_COAST",
+        "RequirementSetId": "PLOT_IS_ADJACENT_COAST_CITY_CENTER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_CITY_CENTER",
+        "RequirementSetId": "PLOT_IS_ADJACENT_COAST_CITY_CENTER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_DISTRICT_IS_ENTERTAINMENT_COMPLEX",
+        "RequirementSetId": "DISTRICT_IS_ENTERTAINMENT_COMPLEX_COAST"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_IS_ADJACENT_TO_COAST",
+        "RequirementSetId": "DISTRICT_IS_ENTERTAINMENT_COMPLEX_COAST"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_STRATEGIC",
+        "RequirementSetId": "PLOT_HAS_STRATEGIC_RESOURCE_ENGLAND"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_VISIBLE_RESOURCE",
+        "RequirementSetId": "PLOT_HAS_STRATEGIC_RESOURCE_ENGLAND"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_IS_HARALD_ALT",
+        "RequirementSetId": "PLAYER_IS_HARALD_ALT"
+    },
+    {
+        "RequirementId": "PLAYER_HAS_GREAT_ADMIRAL",
+        "RequirementSetId": "PLAYER_HAS_GREAT_ADMIRAL_CLASS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_HAS_ARTEMISIA",
+        "RequirementSetId": "PLAYER_HAS_GREAT_ADMIRAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_HAS_GAIUS_DUILIUS",
+        "RequirementSetId": "PLAYER_HAS_GREAT_ADMIRAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_HAS_THEMISTOCLES",
+        "RequirementSetId": "PLAYER_HAS_GREAT_ADMIRAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_HAS_LEIF_ERIKSON",
+        "RequirementSetId": "PLAYER_HAS_GREAT_ADMIRAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_HAS_RAJENDRA_CHOLA",
+        "RequirementSetId": "PLAYER_HAS_GREAT_ADMIRAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_HAS_ZHENG_HE",
+        "RequirementSetId": "PLAYER_HAS_GREAT_ADMIRAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_HAS_FRANCIS_DRAKE",
+        "RequirementSetId": "PLAYER_HAS_GREAT_ADMIRAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_HAS_YI_SUN_SIN",
+        "RequirementSetId": "PLAYER_HAS_GREAT_ADMIRAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_HAS_SANTA_CRUZ",
+        "RequirementSetId": "PLAYER_HAS_GREAT_ADMIRAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_WORKSHOP_ENGLAND",
+        "RequirementSetId": "BUILDING_IS_WORKSHOP_ENGLAND"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_FACTORY_ENGLAND",
+        "RequirementSetId": "BUILDING_IS_FACTORY_ENGLAND"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_POWER_PLANT_ENGLAND",
+        "RequirementSetId": "BUILDING_IS_POWER_PLANT_ENGLAND"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_SHALLOW_WATER",
+        "RequirementSetId": "PLOT_HAS_SHALLOW_WATER"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_SHALLOW_WATER",
+        "RequirementSetId": "PLOT_HAS_SHALLOW_WATER_AND_INDUSTRIAL"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_IS_INDUSTRIAL_ERA",
+        "RequirementSetId": "PLOT_HAS_SHALLOW_WATER_AND_INDUSTRIAL"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_COMMERCIAL_HUB",
+        "RequirementSetId": "CITY_HAS_COMMERCIAL_HUB_VIKING"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_CAMPUS",
+        "RequirementSetId": "CITY_HAS_CAMPUS_VIKING"
+    },
+    {
+        "RequirementId": "MAP_CONTAINS_LYSEFJORDEN",
+        "RequirementSetId": "LYSEFJORDEN_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_ADJACENT_TO_LYSEFJORDEN_REQUIREMENT",
+        "RequirementSetId": "LYSEFJORDEN_GRANT_EXPERIENCE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_NAVAL_REQUIREMENT",
+        "RequirementSetId": "LYSEFJORDEN_GRANT_EXPERIENCE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "MAP_CONTAINS_GIANTS_CAUSEWAY",
+        "RequirementSetId": "GIANTS_CAUSEWAY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_ADJACENT_TO_GIANTS_CAUSEWAY_REQUIREMENT",
+        "RequirementSetId": "GIANTS_CAUSEWAY_GRANT_UNIT_ABILITY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_LAND_UNIT",
+        "RequirementSetId": "GIANTS_CAUSEWAY_GRANT_UNIT_ABILITY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIREMENT_UNIT_IS_RANGED",
+        "RequirementSetId": "TA_SETI_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_PYRAMID",
+        "RequirementSetId": "REQUIREMENTS_PLOT_ADJACENT_PYRAMID"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_LEADS_DISTRICTS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_LEADS_DISTRICTS"
+    },
+    {
+        "RequirementId": "REQUIRES_LEADS_DISTRICTS",
+        "RequirementSetId": "PLAYER_LEADS_DISTRICTS"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_LAGS_DISTRICTS"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_LAGS_DISTRICTS"
+    },
+    {
+        "RequirementId": "REQUIRES_LAGS_DISTRICTS",
+        "RequirementSetId": "PLAYER_LAGS_DISTRICTS"
+    },
+    {
+        "RequirementId": "LINCOLN_REQUIREMENTS",
+        "RequirementSetId": "REQUIRES_PLAYER_IS_LINCOLN"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_INDUSTRIAL_ZONE",
+        "RequirementSetId": "REQUIRES_CITY_HAS_INDUSTRIAL_ZONE"
+    },
+    {
+        "RequirementId": "CITY_IS_OTHER_CONTINENT_REQUIREMENTS",
+        "RequirementSetId": "REQUIRES_CITY_IS_OTHER_CONTINENT"
+    },
+    {
+        "RequirementId": "CITY_IS_SAME_CONTINENT_REQUIREMENTS",
+        "RequirementSetId": "REQUIRES_CITY_IS_SAME_CONTINENT"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_POSITIVE_INCOME"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_POSITIVE_INCOME"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_POSITIVE_INCOME",
+        "RequirementSetId": "PLAYER_HAS_POSITIVE_INCOME"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_NEGATIVE_INCOME"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_NEGATIVE_INCOME"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_NEGATIVE_INCOME",
+        "RequirementSetId": "PLAYER_HAS_NEGATIVE_INCOME"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_DEFENSIVE_TACTICS",
+        "RequirementSetId": "PLAYER_HAS_DEFENSIVE_TACTICS_AND_CAPITAL"
+    },
+    {
+        "RequirementId": "REQUIRES_CAPITAL_CITY",
+        "RequirementSetId": "PLAYER_HAS_DEFENSIVE_TACTICS_AND_CAPITAL"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_VISIBLE_RESOURCE",
+        "RequirementSetId": "PLOT_IS_FLOODPLAINS_RESOURCE"
+    },
+    {
+        "RequirementId": "REQUIRES_FLOODPLAINS_REQUIREMENT",
+        "RequirementSetId": "PLOT_IS_FLOODPLAINS_RESOURCE"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_FLOODPLAINS",
+        "RequirementSetId": "PLOT_IS_FLOODPLAINS_SAHARA"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_HIGH_FOOD"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_HIGH_FOOD"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_HIGH_FOOD",
+        "RequirementSetId": "PLAYER_HAS_HIGH_FOOD"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_HAS_LOW_FOOD"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_HAS_LOW_FOOD"
+    },
+    {
+        "RequirementId": "REQUIRES_HAS_LOW_FOOD",
+        "RequirementSetId": "PLAYER_HAS_LOW_FOOD"
+    },
+    {
+        "RequirementId": "REQUIRES_MAIZE_IN_PLOT",
+        "RequirementSetId": "RESOURCE_IS_MAIZE"
+    },
+    {
+        "RequirementId": "PLAYER_IS_MAYA",
+        "RequirementSetId": "MAYA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_FARM_GRANCOLOMBIA_MAYA",
+        "RequirementSetId": "PLOT_HAS_FARMS_GRANCOLOMBIA_MAYA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_FARM_GRANCOLOMBIA_MAYA",
+        "RequirementSetId": "PLOT_ADJACENT_TO_FARM_AND_OBSERVATORY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_OBSERVATORY",
+        "RequirementSetId": "PLOT_ADJACENT_TO_FARM_AND_OBSERVATORY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "MAP_CONTAINS_FOUNTAIN_OF_YOUTH",
+        "RequirementSetId": "FOUNTAIN_OF_YOUTH_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_LAND_UNIT",
+        "RequirementSetId": "UNIT_ENTERS_FOUNTAIN_OF_YOUTH"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_INSIDE_FOUNTAIN_OF_YOUTH",
+        "RequirementSetId": "UNIT_ENTERS_FOUNTAIN_OF_YOUTH"
+    },
+    {
+        "RequirementId": "MAP_CONTAINS_PAITITI",
+        "RequirementSetId": "PAITITI_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PAITITI_IN_CITY",
+        "RequirementSetId": "CITY_HAS_PAITITI"
+    },
+    {
+        "RequirementId": "MAP_CONTAINS_BERMUDA_TRIANGLE",
+        "RequirementSetId": "BERMUDA_TRIANGLE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_INSIDE_BERMUDA_TRIANGLE",
+        "RequirementSetId": "UNIT_ENTERS_BERMUDA_TRIANGLE"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_LAND_DOMAIN",
+        "RequirementSetId": "AOE_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_DISTRICT",
+        "RequirementSetId": "OPPONENT_IS_DISTRICT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_ENEMY_REQUIREMENT",
+        "RequirementSetId": "AOE_ENEMY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "ADJACENT_LLANERO_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_IS_LLANERO_REQUIREMENT",
+        "RequirementSetId": "ADJACENT_LLANERO_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_OBJECT_9_TILES_FROM_CAPITAL",
+        "RequirementSetId": "OBJECT_IS_9_TILES_FROM_CAPITAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_OBJECT_10_OR_MORE_TILES_FROM_CAPITAL",
+        "RequirementSetId": "OBJECT_IS_10_OR_MORE_TILES_FROM_CAPITAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_OBJECT_6_TILES_FROM_CAPITAL_NOT_CAPITAL",
+        "RequirementSetId": "OBJECT_IS_FOUNDED_6_TILES_FROM_CAPITAL_NOT_CAPITAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "CITY_IS_ORIGINAL_OWNER_REQUIREMENTS_MAYA",
+        "RequirementSetId": "OBJECT_IS_FOUNDED_6_TILES_FROM_CAPITAL_NOT_CAPITAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_OBJECT_6_TILES_FROM_CAPITAL_NOT_CAPITAL",
+        "RequirementSetId": "OBJECT_IS_6_TILES_FROM_CAPITAL_NOT_CAPITAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_OBJECT_6_TILES_FROM_CAPITAL",
+        "RequirementSetId": "OBJECT_IS_6_TILES_FROM_CAPITAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_OBJECT_7_OR_MORE_TILES_FROM_CAPITAL",
+        "RequirementSetId": "OBJECT_IS_7_OR_MORE_TILES_FROM_CAPITAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_ALUMINUM",
+        "RequirementSetId": "CITY_HAS_IMPROVED_ALUMINUM"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_COAL",
+        "RequirementSetId": "CITY_HAS_IMPROVED_COAL"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_HORSES",
+        "RequirementSetId": "CITY_HAS_IMPROVED_HORSES"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_IRON",
+        "RequirementSetId": "CITY_HAS_IMPROVED_IRON"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_NITER",
+        "RequirementSetId": "CITY_HAS_IMPROVED_NITER"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_OIL",
+        "RequirementSetId": "CITY_HAS_IMPROVED_OIL"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_URANIUM",
+        "RequirementSetId": "CITY_HAS_IMPROVED_URANIUM"
+    },
+    {
+        "RequirementId": "UNIT_IS_FLANKED_REQUIREMENT",
+        "RequirementSetId": "UNIT_IS_FLANKED_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_HAS_LAHORE_SUZERAIN",
+        "RequirementSetId": "PLAYER_HAS_LAHORE_SUZERAIN_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "LLANERO_IS_ADJACENT_REQUIREMENT",
+        "RequirementSetId": "LLANERO_IS_ADJACENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_METAL_CASTING",
+        "RequirementSetId": "PLAYER_HAS_METAL_CASTING_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_STEEL",
+        "RequirementSetId": "PLAYER_HAS_METAL_CASTING_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_STEEL",
+        "RequirementSetId": "PLAYER_HAS_STEEL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_FLIGHT",
+        "RequirementSetId": "PLAYER_HAS_FLIGHT"
+    },
+    {
+        "RequirementId": "OPPONENT_IS_NOT_DISTRICT",
+        "RequirementSetId": "COMBAT_AGAINST_UNITS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_IS_ADJACENT_RELIGIOUS_ALL_TAG_BYZANTIUMGAUL",
+        "RequirementSetId": "AOE_TAGMA_RELIGIOUS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_LAND_DOMAIN",
+        "RequirementSetId": "AOE_TAGMA_NONRELIGIOUS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_TAGMA_NONRELIGIOUS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_IS_ADJACENT_TAGMA",
+        "RequirementSetId": "AOE_TAGMA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_IS_NOTCENTER_ADJACENT_TAGMA",
+        "RequirementSetId": "AOE_TAGMA_NOTCENTER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_COMBAT_AGAINST_STRONGER_UNIT",
+        "RequirementSetId": "COMBAT_AGAINST_STRONGER_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_FLIGHT",
+        "RequirementSetId": "THANH_PLAYER_HAS_FLIGHT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_MARSH",
+        "RequirementSetId": "TRIEU_FEATURE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_IS_FOREST_REQUIREMENT",
+        "RequirementSetId": "TRIEU_FEATURE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_JUNGLE",
+        "RequirementSetId": "TRIEU_FEATURE_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "TRIEU_REQUIRES_FEATURE_REQUIREMENTS",
+        "RequirementSetId": "REQUIREMENTS_UNIT_IS_FRIENDLY_TRIEU_FEATURES"
+    },
+    {
+        "RequirementId": "UNIT_IN_OWNER_TERRITORY_REQUIREMENT",
+        "RequirementSetId": "REQUIREMENTS_UNIT_IS_FRIENDLY_TRIEU_FEATURES"
+    },
+    {
+        "RequirementId": "TRIEU_REQUIRES_FEATURE_REQUIREMENTS",
+        "RequirementSetId": "REQUIREMENTS_UNIT_IS_UNFRIENDLY_TRIEU_FEATURES"
+    },
+    {
+        "RequirementId": "UNIT_IN_NOT_OWNER_TERRITORY_REQUIREMENT",
+        "RequirementSetId": "REQUIREMENTS_UNIT_IS_UNFRIENDLY_TRIEU_FEATURES"
+    },
+    {
+        "RequirementId": "REQUIREMENT_CITY_GROWTH_RESOURCE",
+        "RequirementSetId": "REQUIRES_CITY_GROWTH_RESOURCE"
+    },
+    {
+        "RequirementId": "REQUIREMENT_MILITARY_DISCOUNT_RESOURCE",
+        "RequirementSetId": "REQUIRES_MILITARY_DISCOUNT_RESOURCE"
+    },
+    {
+        "RequirementId": "REQUIREMENT_CIVILIAN_DISCOUNT_RESOURCE",
+        "RequirementSetId": "REQUIRES_CIVILIAN_DISCOUNT_RESOURCE"
+    },
+    {
+        "RequirementId": "REQUIREMENT_BUILDING_DISCOUNT_RESOURCE",
+        "RequirementSetId": "REQUIRES_BUILDING_DISCOUNT_RESOURCE"
+    },
+    {
+        "RequirementId": "REQUIREMENT_GOLD_BONUS_RESOURCE",
+        "RequirementSetId": "REQUIRES_GOLD_BONUS_RESOURCE"
+    },
+    {
+        "RequirementId": "REQUIREMENT_FAITH_BONUS_RESOURCE",
+        "RequirementSetId": "REQUIRES_FAITH_BONUS_RESOURCE"
+    },
+    {
+        "RequirementId": "REQUIREMENT_SCIENCE_BONUS_RESOURCE",
+        "RequirementSetId": "REQUIRES_SCIENCE_BONUS_RESOURCE"
+    },
+    {
+        "RequirementId": "REQUIREMENT_CULTURE_BONUS_RESOURCE",
+        "RequirementSetId": "REQUIRES_CULTURE_BONUS_RESOURCE"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_THEATER_SQUARE",
+        "RequirementSetId": "REQUIREMENTS_PLOT_ADJACENT_THEATER_SQUARE_OR_CHATEAU"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_CHATEAU",
+        "RequirementSetId": "REQUIREMENTS_PLOT_ADJACENT_THEATER_SQUARE_OR_CHATEAU"
+    },
+    {
+        "RequirementId": "PLOT_ADJACENT_THEATER_SQUARE_OR_CHATEAU_REQUIREMENTS_MET",
+        "RequirementSetId": "PLOT_LUXURY_ADJACENT_TO_THEATER_SQUARE_OR_CHATEAU_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_IMPROVED_LUXURY",
+        "RequirementSetId": "PLOT_LUXURY_ADJACENT_TO_THEATER_SQUARE_OR_CHATEAU_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "UNIT_ADJACENT_TO_GREAT_GENERAL",
+        "RequirementSetId": "UNIT_ADJACENT_TO_GREAT_GENERAL_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIREMENT_UNIT_IS_MELEE",
+        "RequirementSetId": "BASILIKOI_PAIDES_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIREMENT_UNIT_IS_RANGED",
+        "RequirementSetId": "BASILIKOI_PAIDES_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIREMENT_UNIT_IS_ANTI_CAV",
+        "RequirementSetId": "BASILIKOI_PAIDES_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIREMENT_UNIT_IS_HETAIROI",
+        "RequirementSetId": "BASILIKOI_PAIDES_UNIT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_APADANA",
+        "RequirementSetId": "CITY_HAS_APADANA_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_WONDER",
+        "RequirementSetId": "CITY_HAS_WONDER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_ENCAMPMENT",
+        "RequirementSetId": "CITY_HAS_ENCAMPMENT_MACEDON"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_HOLY_SITE",
+        "RequirementSetId": "CITY_HAS_HOLY_SITE_MACEDON"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_THEATER_DISTRICT",
+        "RequirementSetId": "CITY_HAS_THEATER_DISTRICT_MACEDON"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_CAMPUS",
+        "RequirementSetId": "CITY_HAS_CAMPUS_MACEDON"
+    },
+    {
+        "RequirementId": "REQUIREMENT_UNIT_IS_ADMIRAL",
+        "RequirementSetId": "UNIT_IS_ADMIRAL"
+    },
+    {
+        "RequirementId": "REQUIREMENT_UNIT_IS_ENGINEER",
+        "RequirementSetId": "UNIT_IS_ENGINEER"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_POLITICAL_PHILOSOPHY",
+        "RequirementSetId": "PLAYER_HAS_POLITICAL_PHILOSOPHY"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_COAST",
+        "RequirementSetId": "HALICARNASSUS_MAUSOLEUM_YIELD_MODIFIER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_IS_NOT_LAKE_REQUIREMENTS",
+        "RequirementSetId": "HALICARNASSUS_MAUSOLEUM_YIELD_MODIFIER_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLOT_IS_COASTAL_LAND",
+        "RequirementSetId": "PLOT_IS_COASTAL_LAND_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_CONSULATE",
+        "RequirementSetId": "CITY_HAS_CONSULATE_OR_ENCAMPMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_ENCAMPMENT",
+        "RequirementSetId": "CITY_HAS_CONSULATE_OR_ENCAMPMENT"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_CONSULATE",
+        "RequirementSetId": "BUILDING_IS_CONSULATE"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_CHANCERY",
+        "RequirementSetId": "BUILDING_IS_CHANCERY"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_BARRACKS_ETHIOPIA",
+        "RequirementSetId": "BUILDING_IS_BARRACKS_STABLE_ETHIOPIA"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_STABLE_ETHIOPIA",
+        "RequirementSetId": "BUILDING_IS_BARRACKS_STABLE_ETHIOPIA"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_ARMORY_ETHIOPIA",
+        "RequirementSetId": "BUILDING_IS_ARMORY_ETHIOPIA"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_MILITARY_ACADEMY",
+        "RequirementSetId": "BUILDING_IS_MILITARY_ACADEMY_ETHIOPIA"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_WORKSHOP_ETHIOPIA",
+        "RequirementSetId": "BUILDING_IS_WORKSHOP_ETHIOPIA"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_FACTORY_ETHIOPIA",
+        "RequirementSetId": "BUILDING_IS_FACTORY_ETHIOPIA"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_HAS_POWER_PLANT_ETHIOPIA",
+        "RequirementSetId": "BUILDING_IS_POWER_PLANT_ETHIOPIA"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_CITY_CENTER",
+        "RequirementSetId": "DISTRICT_IS_ADJACENT_TO_CITY_CENTER"
+    },
+    {
+        "RequirementId": "PLOT_IS_HILLS_REQUIREMENT",
+        "RequirementSetId": "ETHIOPIA_PLOT_IS_HILLS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_IS_FRESH_WATER_BABYLON",
+        "RequirementSetId": "PLOT_IS_FRESH"
+    },
+    {
+        "RequirementId": "REQUIRE_THIS_WONDER_IS_ANCIENT_OR_CLASSICAL",
+        "RequirementSetId": "THIS_WONDER_IS_ANCIENT_OR_CLASSICAL"
+    },
+    {
+        "RequirementId": "REQUIRE_THIS_WONDER_IS_ANCIENT_OR_CLASSICAL_INVERSE",
+        "RequirementSetId": "THIS_WONDER_IS_ANCIENT_OR_CLASSICAL_INVERSE"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_MAHAVIHARA",
+        "RequirementSetId": "PLAYER_HAS_MAHAVIHARA"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_INDUSTRIALIZATION",
+        "RequirementSetId": "PLAYER_HAS_INDUSTRIALIZATION"
+    },
+    {
+        "RequirementId": "ANTI_CAVALRY_OPPONENT_PROMOTION_CLASS_REQUIREMENT_LC",
+        "RequirementSetId": "ANTI_CAVALRY_PROMOTION_CLASS_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "ANTI_CAVALRY_OPPONENT_PROMOTION_CLASS_REQUIREMENT_HC",
+        "RequirementSetId": "ANTI_CAVALRY_PROMOTION_CLASS_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "RequirementSetId": "AOE_ANY_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_UNIT_IS_QUESTING_KNIGHT",
+        "RequirementSetId": "QUESTING_KNIGHT"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_LEADS_DISTRICTS_LUDWIG"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_LEADS_DISTRICTS_LUDWIG"
+    },
+    {
+        "RequirementId": "REQUIRES_LEADS_DISTRICTS_LUDWIG",
+        "RequirementSetId": "PLAYER_LEADS_DISTRICTS_LUDWIG"
+    },
+    {
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "RequirementSetId": "PLAYER_LAGS_DISTRICTS_LUDWIG"
+    },
+    {
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "RequirementSetId": "PLAYER_LAGS_DISTRICTS_LUDWIG"
+    },
+    {
+        "RequirementId": "REQUIRES_LAGS_DISTRICTS_LUDWIG",
+        "RequirementSetId": "PLAYER_LAGS_DISTRICTS_LUDWIG"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_FLIGHT",
+        "RequirementSetId": "PLAYER_HAS_FLIGHT_GREATWARLORDS"
+    },
+    {
+        "RequirementId": "BAKUHAN_REQUIREMENTS_MET_REQUIREMENT",
+        "RequirementSetId": "PLAYER_HAS_FLIGHT_GREATWARLORDS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_6_TILES_FROM_CAPITAL",
+        "RequirementSetId": "PLAYER_HAS_BAKUHAN_REUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_OPPONENT_IS_NOT_WOUNDED",
+        "RequirementSetId": "OPPONENT_IS_FULL_HEALTH_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "PLAYER_IS_ATTACKER_REQUIREMENTS",
+        "RequirementSetId": "OPPONENT_IS_FULL_HEALTH_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "COMBAT_IS_NOT_DISTRICT_WARLORDS",
+        "RequirementSetId": "OPPONENT_IS_FULL_HEALTH_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_CITY_WAS_NOT_FOUNDED_WARLORDS",
+        "RequirementSetId": "CITY_WAS_NOT_FOUNDED_BY_THEM_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_MARSH",
+        "RequirementSetId": "PLOT_HAS_MARSH_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLOT_HAS_FLOODPLAINS",
+        "RequirementSetId": "PLOT_HAS_FLOODPLAINS_REQUIREMENTS"
+    },
+    {
+        "RequirementId": "REQUIRES_PLAYER_HAS_FOREIGN_TRADE",
+        "RequirementSetId": "PLAYER_HAS_FOREIGN_TRADE"
+    },
+    {
+        "RequirementId": "PLAYER_IS_BARB_REQUIREMENT",
+        "RequirementSetId": "PLAYER_IS_BARB"
+    },
+    {
+        "RequirementId": "UNIT_KILLED_BY_UNIT_REQUIREMENT",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE"
+    },
+    {
+        "RequirementId": "HAS_BEEN_TEN_TURN_REQUIREMENT",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE"
+    },
+    {
+        "RequirementId": "REQUIREMENT_ZOMBIE_PERCENT_CHANCE",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE"
+    },
+    {
+        "RequirementId": "NOT_KILLED_BY_ZOMBIE",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE"
+    },
+    {
+        "RequirementId": "UNIT_KILLED_BY_UNIT_REQUIREMENT",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_DELAYED_1"
+    },
+    {
+        "RequirementId": "HAS_BEEN_ZOMBIE_RESPAWN_TURNS_REQUIREMENT",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_DELAYED_1"
+    },
+    {
+        "RequirementId": "REQUIREMENT_ZOMBIE_PERCENT_CHANCE_2",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_DELAYED_1"
+    },
+    {
+        "RequirementId": "UNIT_KILLED_BY_UNIT_REQUIREMENT",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_DELAYED_2"
+    },
+    {
+        "RequirementId": "HAS_BEEN_ZOMBIE_RESPAWN_TURNS_LONGER_REQUIREMENT",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_DELAYED_2"
+    },
+    {
+        "RequirementId": "REQUIREMENT_ZOMBIE_PERCENT_CHANCE_2",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_DELAYED_2"
+    },
+    {
+        "RequirementId": "VICTIM_IS_ZOMBIE",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_DELAYED_2"
+    },
+    {
+        "RequirementId": "UNIT_KILLED_BY_UNIT_REQUIREMENT",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_DELAYED_3"
+    },
+    {
+        "RequirementId": "HAS_BEEN_ZOMBIE_RESPAWN_TURNS_LONGER_AGAIN_REQUIREMENT",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_DELAYED_3"
+    },
+    {
+        "RequirementId": "REQUIREMENT_ZOMBIE_PERCENT_CHANCE_3",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_DELAYED_3"
+    },
+    {
+        "RequirementId": "VICTIM_IS_ZOMBIE",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_DELAYED_3"
+    },
+    {
+        "RequirementId": "UNIT_KILLED_BY_UNIT_REQUIREMENT",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_AFTER_ZOMBIE_KILL"
+    },
+    {
+        "RequirementId": "HAS_BEEN_ONE_TURN_REQUIREMENT",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_AFTER_ZOMBIE_KILL"
+    },
+    {
+        "RequirementId": "KILLED_BY_ZOMBIE",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_AFTER_ZOMBIE_KILL"
+    },
+    {
+        "RequirementId": "REQUIREMENT_ZOMBIE_ARTIFACT_PERCENT_CHANCE",
+        "RequirementSetId": "SHOULD_SPAWN_ZOMBIE_ARTIFACT"
+    },
+    {
+        "RequirementId": "VICTIM_IS_ZOMBIE",
+        "RequirementSetId": "DID_ZOMBIE_DIE"
+    },
+    {
+        "RequirementId": "REQUIRE_THIS_UNIT_IS_A_ZOMBIE",
+        "RequirementSetId": "THIS_UNIT_IS_A_ZOMBIE"
+    },
+    {
+        "RequirementId": "REQUIRE_OTHER_COMBAT_PLAYER_IS_AI",
+        "RequirementSetId": "OTHER_PLAYER_IS_AI"
+    },
+    {
+        "RequirementId": "REQUIREMENT_ZOMBIE_TAG_ATTACKER",
+        "RequirementSetId": "SHOULD_DISTRICT_ATTACK_SPAWN_ZOMBIE"
+    },
+    {
+        "RequirementId": "REQUIREMENT_DISTRICT_DEFENDER",
+        "RequirementSetId": "SHOULD_DISTRICT_ATTACK_SPAWN_ZOMBIE"
+    },
+    {
+        "RequirementId": "REQUIREMENT_DISTRICT_ZOMBIE_EFFECT_PERCENT_CHANCE",
+        "RequirementSetId": "SHOULD_DISTRICT_ATTACK_SPAWN_ZOMBIE"
+    }
+]

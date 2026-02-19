@@ -1,0 +1,4586 @@
+[
+    {
+        "ModifierID": "DISCOVERY_BASE_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "DISCOVERY_BASE_REWARD"
+    },
+    {
+        "ModifierID": "DISCOVERY_BASE_BASIC_EXPLORATION_OCEAN_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "DISCOVERY_BASE_BASIC_EXPLORATION_OCEAN_REWARD"
+    },
+    {
+        "ModifierID": "DISCOVERY_BASE_BASIC_EXPLORATION_OCEAN_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "DISCOVERY_BASE_BASIC_EXPLORATION_OCEAN_REWARD2"
+    },
+    {
+        "ModifierID": "DISCOVERY_BASE_MYTHIC_EXPLORATION_OCEAN_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "DISCOVERY_BASE_MYTHIC_EXPLORATION_OCEAN_REWARD"
+    },
+    {
+        "ModifierID": "LOYALTY001B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LOYALTY001B_REWARD"
+    },
+    {
+        "ModifierID": "LOYALTY001C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LOYALTY001C_REWARD"
+    },
+    {
+        "ModifierID": "LOYALTY001C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LOYALTY001C_REWARD2"
+    },
+    {
+        "ModifierID": "LOYALTY001C_NARRATIVE_MODIFIER3",
+        "NarrativeRewardType": "LOYALTY001C_REWARD3"
+    },
+    {
+        "ModifierID": "LOYALTY002C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LOYALTY002C_REWARD"
+    },
+    {
+        "ModifierID": "LOYALTY002D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LOYALTY002D_REWARD"
+    },
+    {
+        "ModifierID": "21A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "21A_REWARD"
+    },
+    {
+        "ModifierID": "22B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "22B_REWARD"
+    },
+    {
+        "ModifierID": "22C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "22C_REWARD"
+    },
+    {
+        "ModifierID": "ATTRIBUTE_79B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ATTRIBUTE_79B_REWARD"
+    },
+    {
+        "ModifierID": "INDEPENDENT_GIFT_CULTURE_4A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "INDEPENDENT_GIFT_CULTURE_4A_REWARD"
+    },
+    {
+        "ModifierID": "INDEPENDENT_GIFT_SCIENCE_4A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "INDEPENDENT_GIFT_SCIENCE_4A_REWARD"
+    },
+    {
+        "ModifierID": "INDEPENDENT_GIFT_MILITARY_4A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "INDEPENDENT_GIFT_MILITARY_4A_REWARD"
+    },
+    {
+        "ModifierID": "INDEPENDENT_GIFT_ECONOMIC_4A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "INDEPENDENT_GIFT_ECONOMIC_4A_REWARD"
+    },
+    {
+        "ModifierID": "INDEPENDENT_GIFT_EXPANSIONIST_4A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "INDEPENDENT_GIFT_EXPANSIONIST_4A_REWARD"
+    },
+    {
+        "ModifierID": "INDEPENDENT_GIFT_DIPLOMATIC_4A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "INDEPENDENT_GIFT_DIPLOMATIC_4A_REWARD"
+    },
+    {
+        "ModifierID": "1025B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1025B_REWARD"
+    },
+    {
+        "ModifierID": "8081B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8081B_REWARD"
+    },
+    {
+        "ModifierID": "8081C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8081C_REWARD"
+    },
+    {
+        "ModifierID": "8082B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8082B_REWARD"
+    },
+    {
+        "ModifierID": "8082C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8082C_REWARD"
+    },
+    {
+        "ModifierID": "8083B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8083B_REWARD"
+    },
+    {
+        "ModifierID": "8083C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8083C_REWARD"
+    },
+    {
+        "ModifierID": "8088B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8088B_REWARD"
+    },
+    {
+        "ModifierID": "8088C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8088C_REWARD"
+    },
+    {
+        "ModifierID": "8089B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8089B_REWARD"
+    },
+    {
+        "ModifierID": "8089C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8089C_REWARD"
+    },
+    {
+        "ModifierID": "9A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "9A_REWARD"
+    },
+    {
+        "ModifierID": "10C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10C_REWARD"
+    },
+    {
+        "ModifierID": "10B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10B_REWARD"
+    },
+    {
+        "ModifierID": "12A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "12A_REWARD"
+    },
+    {
+        "ModifierID": "3096B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3096B_REWARD"
+    },
+    {
+        "ModifierID": "3096C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3096C_REWARD"
+    },
+    {
+        "ModifierID": "3109B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3109B_REWARD"
+    },
+    {
+        "ModifierID": "3109C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3109C_REWARD"
+    },
+    {
+        "ModifierID": "1001B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1001B_REWARD"
+    },
+    {
+        "ModifierID": "1001C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1001C_REWARD"
+    },
+    {
+        "ModifierID": "3110B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3110B_REWARD"
+    },
+    {
+        "ModifierID": "3110C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3110C_REWARD"
+    },
+    {
+        "ModifierID": "3110D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3110D_REWARD"
+    },
+    {
+        "ModifierID": "3112B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3112B_REWARD"
+    },
+    {
+        "ModifierID": "3112C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3112C_REWARD"
+    },
+    {
+        "ModifierID": "3117A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3117A_REWARD"
+    },
+    {
+        "ModifierID": "3116C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3116C_REWARD"
+    },
+    {
+        "ModifierID": "3113B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3113B_REWARD"
+    },
+    {
+        "ModifierID": "3113C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3113C_REWARD"
+    },
+    {
+        "ModifierID": "3162B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3162B_REWARD"
+    },
+    {
+        "ModifierID": "3162C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3162C_REWARD"
+    },
+    {
+        "ModifierID": "3146A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3146A_REWARD"
+    },
+    {
+        "ModifierID": "3147A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3147A_REWARD"
+    },
+    {
+        "ModifierID": "3149B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3149B_REWARD"
+    },
+    {
+        "ModifierID": "3149C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3149C_REWARD"
+    },
+    {
+        "ModifierID": "3150B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3150B_REWARD"
+    },
+    {
+        "ModifierID": "3150C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3150C_REWARD"
+    },
+    {
+        "ModifierID": "3127A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3127A_REWARD"
+    },
+    {
+        "ModifierID": "3128A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3128A_REWARD"
+    },
+    {
+        "ModifierID": "3129B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3129B_REWARD"
+    },
+    {
+        "ModifierID": "3129C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3129C_REWARD"
+    },
+    {
+        "ModifierID": "3152B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3152B_REWARD"
+    },
+    {
+        "ModifierID": "3152C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3152C_REWARD"
+    },
+    {
+        "ModifierID": "3156B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3156B_REWARD"
+    },
+    {
+        "ModifierID": "3156C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3156C_REWARD"
+    },
+    {
+        "ModifierID": "3157B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3157B_REWARD"
+    },
+    {
+        "ModifierID": "3157C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3157C_REWARD"
+    },
+    {
+        "ModifierID": "3157D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3157D_REWARD"
+    },
+    {
+        "ModifierID": "3158B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3158B_REWARD"
+    },
+    {
+        "ModifierID": "3158C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3158C_REWARD"
+    },
+    {
+        "ModifierID": "3159B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3159B_REWARD"
+    },
+    {
+        "ModifierID": "3159C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3159C_REWARD"
+    },
+    {
+        "ModifierID": "3160B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3160B_REWARD"
+    },
+    {
+        "ModifierID": "3160C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3160C_REWARD"
+    },
+    {
+        "ModifierID": "1073B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1073B_REWARD"
+    },
+    {
+        "ModifierID": "1073C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1073C_REWARD"
+    },
+    {
+        "ModifierID": "3115B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3115B_REWARD"
+    },
+    {
+        "ModifierID": "3115C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3115C_REWARD"
+    },
+    {
+        "ModifierID": "3148B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3148B_REWARD"
+    },
+    {
+        "ModifierID": "3148C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3148C_REWARD"
+    },
+    {
+        "ModifierID": "3161B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3161B_REWARD"
+    },
+    {
+        "ModifierID": "3161C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3161C_REWARD"
+    },
+    {
+        "ModifierID": "3164B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3164B_REWARD"
+    },
+    {
+        "ModifierID": "3164C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3164C_REWARD"
+    },
+    {
+        "ModifierID": "3164D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3164D_REWARD"
+    },
+    {
+        "ModifierID": "3165B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3165B_REWARD"
+    },
+    {
+        "ModifierID": "3165C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3165C_REWARD"
+    },
+    {
+        "ModifierID": "3166B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3166B_REWARD"
+    },
+    {
+        "ModifierID": "3166C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3166C_REWARD"
+    },
+    {
+        "ModifierID": "3167B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3167B_REWARD"
+    },
+    {
+        "ModifierID": "3167C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3167C_REWARD"
+    },
+    {
+        "ModifierID": "3168B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3168B_REWARD"
+    },
+    {
+        "ModifierID": "3168C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3168C_REWARD"
+    },
+    {
+        "ModifierID": "3170B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3170B_REWARD"
+    },
+    {
+        "ModifierID": "3170C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3170C_REWARD"
+    },
+    {
+        "ModifierID": "3173B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3173B_REWARD"
+    },
+    {
+        "ModifierID": "3173C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3173C_REWARD"
+    },
+    {
+        "ModifierID": "3175B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3175B_REWARD"
+    },
+    {
+        "ModifierID": "3175C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3175C_REWARD"
+    },
+    {
+        "ModifierID": "3176B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3176B_REWARD"
+    },
+    {
+        "ModifierID": "3176C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3176C_REWARD"
+    },
+    {
+        "ModifierID": "3177B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3177B_REWARD"
+    },
+    {
+        "ModifierID": "3177C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3177C_REWARD"
+    },
+    {
+        "ModifierID": "3179B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3179B_REWARD"
+    },
+    {
+        "ModifierID": "3179C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3179C_REWARD"
+    },
+    {
+        "ModifierID": "3180B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3180B_REWARD"
+    },
+    {
+        "ModifierID": "3180C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3180C_REWARD"
+    },
+    {
+        "ModifierID": "3181B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3181B_REWARD"
+    },
+    {
+        "ModifierID": "3181C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3181C_REWARD"
+    },
+    {
+        "ModifierID": "3207B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3207B_REWARD"
+    },
+    {
+        "ModifierID": "3207C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3207C_REWARD"
+    },
+    {
+        "ModifierID": "3208B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3208B_REWARD"
+    },
+    {
+        "ModifierID": "3208C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3208C_REWARD"
+    },
+    {
+        "ModifierID": "3211B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3211B_REWARD"
+    },
+    {
+        "ModifierID": "3211C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3211C_REWARD"
+    },
+    {
+        "ModifierID": "3211D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3211D_REWARD"
+    },
+    {
+        "ModifierID": "3212B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3212B_REWARD"
+    },
+    {
+        "ModifierID": "3213B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3213B_REWARD"
+    },
+    {
+        "ModifierID": "3214B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3214B_REWARD"
+    },
+    {
+        "ModifierID": "3217B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3217B_REWARD"
+    },
+    {
+        "ModifierID": "3217C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3217C_REWARD"
+    },
+    {
+        "ModifierID": "3218B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3218B_REWARD"
+    },
+    {
+        "ModifierID": "3218C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3218C_REWARD"
+    },
+    {
+        "ModifierID": "3219B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3219B_REWARD"
+    },
+    {
+        "ModifierID": "3219C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3219C_REWARD"
+    },
+    {
+        "ModifierID": "3220B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3220B_REWARD"
+    },
+    {
+        "ModifierID": "3220C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3220C_REWARD"
+    },
+    {
+        "ModifierID": "3098B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3098B_REWARD"
+    },
+    {
+        "ModifierID": "3098C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3098C_REWARD"
+    },
+    {
+        "ModifierID": "3186B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3186B_REWARD"
+    },
+    {
+        "ModifierID": "3186C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3186C_REWARD"
+    },
+    {
+        "ModifierID": "3153B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3153B_REWARD"
+    },
+    {
+        "ModifierID": "3153C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3153C_REWARD"
+    },
+    {
+        "ModifierID": "3154B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3154B_REWARD"
+    },
+    {
+        "ModifierID": "3155B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3155B_REWARD"
+    },
+    {
+        "ModifierID": "3142B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3142B_REWARD"
+    },
+    {
+        "ModifierID": "3142C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3142C_REWARD"
+    },
+    {
+        "ModifierID": "3210B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3210B_REWARD"
+    },
+    {
+        "ModifierID": "3210C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3210C_REWARD"
+    },
+    {
+        "ModifierID": "3190B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3190B_REWARD"
+    },
+    {
+        "ModifierID": "3190B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3190B_REWARD2"
+    },
+    {
+        "ModifierID": "3190C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3190C_REWARD"
+    },
+    {
+        "ModifierID": "3190C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3190C_REWARD2"
+    },
+    {
+        "ModifierID": "3191B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3191B_REWARD"
+    },
+    {
+        "ModifierID": "3191B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3191B_REWARD2"
+    },
+    {
+        "ModifierID": "3191C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3191C_REWARD"
+    },
+    {
+        "ModifierID": "3191C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3191C_REWARD2"
+    },
+    {
+        "ModifierID": "3192B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3192B_REWARD"
+    },
+    {
+        "ModifierID": "3192B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3192B_REWARD2"
+    },
+    {
+        "ModifierID": "3192C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3192C_REWARD"
+    },
+    {
+        "ModifierID": "3192C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3192C_REWARD2"
+    },
+    {
+        "ModifierID": "3193B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3193B_REWARD"
+    },
+    {
+        "ModifierID": "3193B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3193B_REWARD2"
+    },
+    {
+        "ModifierID": "3193C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3193C_REWARD"
+    },
+    {
+        "ModifierID": "3193C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3193C_REWARD2"
+    },
+    {
+        "ModifierID": "3194B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3194B_REWARD"
+    },
+    {
+        "ModifierID": "3194B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3194B_REWARD2"
+    },
+    {
+        "ModifierID": "3194C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3194C_REWARD"
+    },
+    {
+        "ModifierID": "3194C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3194C_REWARD2"
+    },
+    {
+        "ModifierID": "3195B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3195B_REWARD"
+    },
+    {
+        "ModifierID": "3195B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3195B_REWARD2"
+    },
+    {
+        "ModifierID": "3195C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3195C_REWARD"
+    },
+    {
+        "ModifierID": "3195C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3195C_REWARD2"
+    },
+    {
+        "ModifierID": "3196B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3196B_REWARD"
+    },
+    {
+        "ModifierID": "3196B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3196B_REWARD2"
+    },
+    {
+        "ModifierID": "3196C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3196C_REWARD"
+    },
+    {
+        "ModifierID": "3196C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3196C_REWARD2"
+    },
+    {
+        "ModifierID": "3197B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3197B_REWARD"
+    },
+    {
+        "ModifierID": "3197B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3197B_REWARD2"
+    },
+    {
+        "ModifierID": "3197C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3197C_REWARD"
+    },
+    {
+        "ModifierID": "3197C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3197C_REWARD2"
+    },
+    {
+        "ModifierID": "3198B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3198B_REWARD"
+    },
+    {
+        "ModifierID": "3198B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3198B_REWARD2"
+    },
+    {
+        "ModifierID": "3198C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3198C_REWARD"
+    },
+    {
+        "ModifierID": "3198C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3198C_REWARD2"
+    },
+    {
+        "ModifierID": "3199B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3199B_REWARD"
+    },
+    {
+        "ModifierID": "3199B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3199B_REWARD2"
+    },
+    {
+        "ModifierID": "3199C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3199C_REWARD"
+    },
+    {
+        "ModifierID": "3199C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3199C_REWARD2"
+    },
+    {
+        "ModifierID": "3200B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3200B_REWARD"
+    },
+    {
+        "ModifierID": "3200B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3200B_REWARD2"
+    },
+    {
+        "ModifierID": "3200C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3200C_REWARD"
+    },
+    {
+        "ModifierID": "3200C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3200C_REWARD2"
+    },
+    {
+        "ModifierID": "3201B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3201B_REWARD"
+    },
+    {
+        "ModifierID": "3201B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3201B_REWARD2"
+    },
+    {
+        "ModifierID": "3201C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3201C_REWARD"
+    },
+    {
+        "ModifierID": "3201C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3201C_REWARD2"
+    },
+    {
+        "ModifierID": "3202B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3202B_REWARD"
+    },
+    {
+        "ModifierID": "3202B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3202B_REWARD2"
+    },
+    {
+        "ModifierID": "3202C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3202C_REWARD"
+    },
+    {
+        "ModifierID": "3202C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3202C_REWARD2"
+    },
+    {
+        "ModifierID": "3203B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3203B_REWARD"
+    },
+    {
+        "ModifierID": "3203B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3203B_REWARD2"
+    },
+    {
+        "ModifierID": "3203C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3203C_REWARD"
+    },
+    {
+        "ModifierID": "3203C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3203C_REWARD2"
+    },
+    {
+        "ModifierID": "3204B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3204B_REWARD"
+    },
+    {
+        "ModifierID": "3204B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3204B_REWARD2"
+    },
+    {
+        "ModifierID": "3204C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3204C_REWARD"
+    },
+    {
+        "ModifierID": "3204C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3204C_REWARD2"
+    },
+    {
+        "ModifierID": "3205B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3205B_REWARD"
+    },
+    {
+        "ModifierID": "3205C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3205C_REWARD"
+    },
+    {
+        "ModifierID": "3206B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3206B_REWARD"
+    },
+    {
+        "ModifierID": "3206C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3206C_REWARD"
+    },
+    {
+        "ModifierID": "3188B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3188B_REWARD"
+    },
+    {
+        "ModifierID": "3188C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3188C_REWARD"
+    },
+    {
+        "ModifierID": "3189B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3189B_REWARD"
+    },
+    {
+        "ModifierID": "3189C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3189C_REWARD"
+    },
+    {
+        "ModifierID": "201B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "201B_REWARD"
+    },
+    {
+        "ModifierID": "201C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "201C_REWARD"
+    },
+    {
+        "ModifierID": "205D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "205D_REWARD"
+    },
+    {
+        "ModifierID": "205E_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "205E_REWARD"
+    },
+    {
+        "ModifierID": "1136B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1136B_REWARD"
+    },
+    {
+        "ModifierID": "1136C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1136C_REWARD"
+    },
+    {
+        "ModifierID": "1136D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1136D_REWARD"
+    },
+    {
+        "ModifierID": "1137B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1137B_REWARD"
+    },
+    {
+        "ModifierID": "1137C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1137C_REWARD"
+    },
+    {
+        "ModifierID": "1137D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1137D_REWARD"
+    },
+    {
+        "ModifierID": "1138B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1138B_REWARD"
+    },
+    {
+        "ModifierID": "1138C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1138C_REWARD"
+    },
+    {
+        "ModifierID": "1138D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1138D_REWARD"
+    },
+    {
+        "ModifierID": "1139B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1139B_REWARD"
+    },
+    {
+        "ModifierID": "1139C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1139C_REWARD"
+    },
+    {
+        "ModifierID": "1139D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1139D_REWARD"
+    },
+    {
+        "ModifierID": "1140B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1140B_REWARD"
+    },
+    {
+        "ModifierID": "1140C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1140C_REWARD"
+    },
+    {
+        "ModifierID": "1140D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1140D_REWARD"
+    },
+    {
+        "ModifierID": "1141B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1141B_REWARD"
+    },
+    {
+        "ModifierID": "1141C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1141C_REWARD"
+    },
+    {
+        "ModifierID": "1141D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1141D_REWARD"
+    },
+    {
+        "ModifierID": "1142B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1142B_REWARD"
+    },
+    {
+        "ModifierID": "1142C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1142C_REWARD"
+    },
+    {
+        "ModifierID": "1142D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1142D_REWARD"
+    },
+    {
+        "ModifierID": "1143B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1143B_REWARD"
+    },
+    {
+        "ModifierID": "1143C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1143C_REWARD"
+    },
+    {
+        "ModifierID": "1143D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1143D_REWARD"
+    },
+    {
+        "ModifierID": "1144B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1144B_REWARD"
+    },
+    {
+        "ModifierID": "1144C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1144C_REWARD"
+    },
+    {
+        "ModifierID": "1144D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1144D_REWARD"
+    },
+    {
+        "ModifierID": "1133B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1133B_REWARD"
+    },
+    {
+        "ModifierID": "1133B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "1133B_REWARD2"
+    },
+    {
+        "ModifierID": "1133C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1133C_REWARD"
+    },
+    {
+        "ModifierID": "1175A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1175A_REWARD"
+    },
+    {
+        "ModifierID": "1154B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1154B_REWARD"
+    },
+    {
+        "ModifierID": "1176A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1176A_REWARD"
+    },
+    {
+        "ModifierID": "1155B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1155B_REWARD"
+    },
+    {
+        "ModifierID": "1177A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1177A_REWARD"
+    },
+    {
+        "ModifierID": "1156B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1156B_REWARD"
+    },
+    {
+        "ModifierID": "1178A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1178A_REWARD"
+    },
+    {
+        "ModifierID": "1157B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1157B_REWARD"
+    },
+    {
+        "ModifierID": "1179A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1179A_REWARD"
+    },
+    {
+        "ModifierID": "1158B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1158B_REWARD"
+    },
+    {
+        "ModifierID": "1180A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1180A_REWARD"
+    },
+    {
+        "ModifierID": "1159B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1159B_REWARD"
+    },
+    {
+        "ModifierID": "1181A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1181A_REWARD"
+    },
+    {
+        "ModifierID": "1160B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1160B_REWARD"
+    },
+    {
+        "ModifierID": "1182A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1182A_REWARD"
+    },
+    {
+        "ModifierID": "1161B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1161B_REWARD"
+    },
+    {
+        "ModifierID": "1183A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1183A_REWARD"
+    },
+    {
+        "ModifierID": "1162B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1162B_REWARD"
+    },
+    {
+        "ModifierID": "1184A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1184A_REWARD"
+    },
+    {
+        "ModifierID": "1163B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1163B_REWARD"
+    },
+    {
+        "ModifierID": "1185A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1185A_REWARD"
+    },
+    {
+        "ModifierID": "1164B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1164B_REWARD"
+    },
+    {
+        "ModifierID": "1186A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1186A_REWARD"
+    },
+    {
+        "ModifierID": "1165B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1165B_REWARD"
+    },
+    {
+        "ModifierID": "1187A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1187A_REWARD"
+    },
+    {
+        "ModifierID": "1166B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1166B_REWARD"
+    },
+    {
+        "ModifierID": "1189A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1189A_REWARD"
+    },
+    {
+        "ModifierID": "1167B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1167B_REWARD"
+    },
+    {
+        "ModifierID": "1190A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1190A_REWARD"
+    },
+    {
+        "ModifierID": "1168B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1168B_REWARD"
+    },
+    {
+        "ModifierID": "1191A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1191A_REWARD"
+    },
+    {
+        "ModifierID": "1169B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1169B_REWARD"
+    },
+    {
+        "ModifierID": "1192A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1192A_REWARD"
+    },
+    {
+        "ModifierID": "1170B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1170B_REWARD"
+    },
+    {
+        "ModifierID": "1193A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1193A_REWARD"
+    },
+    {
+        "ModifierID": "1171B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1171B_REWARD"
+    },
+    {
+        "ModifierID": "1194A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1194A_REWARD"
+    },
+    {
+        "ModifierID": "1172B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1172B_REWARD"
+    },
+    {
+        "ModifierID": "1195A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1195A_REWARD"
+    },
+    {
+        "ModifierID": "1173B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1173B_REWARD"
+    },
+    {
+        "ModifierID": "3519B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3519B_REWARD"
+    },
+    {
+        "ModifierID": "3519C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3519C_REWARD"
+    },
+    {
+        "ModifierID": "3545B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3545B_REWARD"
+    },
+    {
+        "ModifierID": "3545C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3545C_REWARD"
+    },
+    {
+        "ModifierID": "3546B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3546B_REWARD"
+    },
+    {
+        "ModifierID": "3546C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3546C_REWARD"
+    },
+    {
+        "ModifierID": "3547B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3547B_REWARD"
+    },
+    {
+        "ModifierID": "3547C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3547C_REWARD"
+    },
+    {
+        "ModifierID": "3548B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3548B_REWARD"
+    },
+    {
+        "ModifierID": "3548C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3548C_REWARD"
+    },
+    {
+        "ModifierID": "3549B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3549B_REWARD"
+    },
+    {
+        "ModifierID": "3549C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3549C_REWARD"
+    },
+    {
+        "ModifierID": "3550B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3550B_REWARD"
+    },
+    {
+        "ModifierID": "3550C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3550C_REWARD"
+    },
+    {
+        "ModifierID": "3554B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3554B_REWARD"
+    },
+    {
+        "ModifierID": "3554C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3554C_REWARD"
+    },
+    {
+        "ModifierID": "3555B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3555B_REWARD"
+    },
+    {
+        "ModifierID": "3555C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3555C_REWARD"
+    },
+    {
+        "ModifierID": "3556B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3556B_REWARD"
+    },
+    {
+        "ModifierID": "3556C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3556C_REWARD"
+    },
+    {
+        "ModifierID": "3563B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3563B_REWARD"
+    },
+    {
+        "ModifierID": "3563C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3563C_REWARD"
+    },
+    {
+        "ModifierID": "3563D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3563D_REWARD"
+    },
+    {
+        "ModifierID": "3564B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3564B_REWARD"
+    },
+    {
+        "ModifierID": "3564C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3564C_REWARD"
+    },
+    {
+        "ModifierID": "3565B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3565B_REWARD"
+    },
+    {
+        "ModifierID": "3565C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3565C_REWARD"
+    },
+    {
+        "ModifierID": "3697B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3697B_REWARD"
+    },
+    {
+        "ModifierID": "3698B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3698B_REWARD"
+    },
+    {
+        "ModifierID": "3698B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3698B_REWARD2"
+    },
+    {
+        "ModifierID": "3569B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3569B_REWARD"
+    },
+    {
+        "ModifierID": "3569C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3569C_REWARD"
+    },
+    {
+        "ModifierID": "3570B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3570B_REWARD"
+    },
+    {
+        "ModifierID": "3570C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3570C_REWARD"
+    },
+    {
+        "ModifierID": "3571B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3571B_REWARD"
+    },
+    {
+        "ModifierID": "3571C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3571C_REWARD"
+    },
+    {
+        "ModifierID": "286B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "286B_REWARD"
+    },
+    {
+        "ModifierID": "286C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "286C_REWARD"
+    },
+    {
+        "ModifierID": "3638B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3638B_REWARD"
+    },
+    {
+        "ModifierID": "3638B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3638B_REWARD2"
+    },
+    {
+        "ModifierID": "3638C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3638C_REWARD"
+    },
+    {
+        "ModifierID": "3638C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3638C_REWARD2"
+    },
+    {
+        "ModifierID": "3422C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3422C_REWARD"
+    },
+    {
+        "ModifierID": "3422D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3422D_REWARD"
+    },
+    {
+        "ModifierID": "3423C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3423C_REWARD"
+    },
+    {
+        "ModifierID": "3423D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3423D_REWARD"
+    },
+    {
+        "ModifierID": "3551B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3551B_REWARD"
+    },
+    {
+        "ModifierID": "3551C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3551C_REWARD"
+    },
+    {
+        "ModifierID": "3552B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3552B_REWARD"
+    },
+    {
+        "ModifierID": "3552C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3552C_REWARD"
+    },
+    {
+        "ModifierID": "3553B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3553B_REWARD"
+    },
+    {
+        "ModifierID": "3553C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3553C_REWARD"
+    },
+    {
+        "ModifierID": "3553D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3553D_REWARD"
+    },
+    {
+        "ModifierID": "3557B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3557B_REWARD"
+    },
+    {
+        "ModifierID": "3557C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3557C_REWARD"
+    },
+    {
+        "ModifierID": "3558B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3558B_REWARD"
+    },
+    {
+        "ModifierID": "3558C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3558C_REWARD"
+    },
+    {
+        "ModifierID": "3559B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3559B_REWARD"
+    },
+    {
+        "ModifierID": "3559C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3559C_REWARD"
+    },
+    {
+        "ModifierID": "3560B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3560B_REWARD"
+    },
+    {
+        "ModifierID": "3560C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3560C_REWARD"
+    },
+    {
+        "ModifierID": "3561B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3561B_REWARD"
+    },
+    {
+        "ModifierID": "3561C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3561C_REWARD"
+    },
+    {
+        "ModifierID": "3562B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3562B_REWARD"
+    },
+    {
+        "ModifierID": "3562C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3562C_REWARD"
+    },
+    {
+        "ModifierID": "3566B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3566B_REWARD"
+    },
+    {
+        "ModifierID": "3566C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3566C_REWARD"
+    },
+    {
+        "ModifierID": "3567B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3567B_REWARD"
+    },
+    {
+        "ModifierID": "3567C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3567C_REWARD"
+    },
+    {
+        "ModifierID": "3568B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3568B_REWARD"
+    },
+    {
+        "ModifierID": "3568C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3568C_REWARD"
+    },
+    {
+        "ModifierID": "3643B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3643B_REWARD"
+    },
+    {
+        "ModifierID": "3222B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3222B_REWARD"
+    },
+    {
+        "ModifierID": "3223B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3223B_REWARD"
+    },
+    {
+        "ModifierID": "3224B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3224B_REWARD"
+    },
+    {
+        "ModifierID": "3225B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3225B_REWARD"
+    },
+    {
+        "ModifierID": "3395B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3395B_REWARD"
+    },
+    {
+        "ModifierID": "3395C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3395C_REWARD"
+    },
+    {
+        "ModifierID": "3430C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3430C_REWARD"
+    },
+    {
+        "ModifierID": "3430D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3430D_REWARD"
+    },
+    {
+        "ModifierID": "3437C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3437C_REWARD"
+    },
+    {
+        "ModifierID": "3437D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3437D_REWARD"
+    },
+    {
+        "ModifierID": "3439B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3439B_REWARD"
+    },
+    {
+        "ModifierID": "3440B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3440B_REWARD"
+    },
+    {
+        "ModifierID": "3442B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3442B_REWARD"
+    },
+    {
+        "ModifierID": "3443B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3443B_REWARD"
+    },
+    {
+        "ModifierID": "3464B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3464B_REWARD"
+    },
+    {
+        "ModifierID": "3465B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3465B_REWARD"
+    },
+    {
+        "ModifierID": "3466B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3466B_REWARD"
+    },
+    {
+        "ModifierID": "3480B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3480B_REWARD"
+    },
+    {
+        "ModifierID": "1494B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1494B_REWARD"
+    },
+    {
+        "ModifierID": "1493B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1493B_REWARD"
+    },
+    {
+        "ModifierID": "1492B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1492B_REWARD"
+    },
+    {
+        "ModifierID": "3485A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3485A_REWARD"
+    },
+    {
+        "ModifierID": "3486A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3486A_REWARD"
+    },
+    {
+        "ModifierID": "3490B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3490B_REWARD"
+    },
+    {
+        "ModifierID": "3490C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3490C_REWARD"
+    },
+    {
+        "ModifierID": "3491B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3491B_REWARD"
+    },
+    {
+        "ModifierID": "3491C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3491C_REWARD"
+    },
+    {
+        "ModifierID": "3492B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3492B_REWARD"
+    },
+    {
+        "ModifierID": "3492C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3492C_REWARD"
+    },
+    {
+        "ModifierID": "3493B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3493B_REWARD"
+    },
+    {
+        "ModifierID": "3493C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3493C_REWARD"
+    },
+    {
+        "ModifierID": "3494B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3494B_REWARD"
+    },
+    {
+        "ModifierID": "3494C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3494C_REWARD"
+    },
+    {
+        "ModifierID": "3495B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3495B_REWARD"
+    },
+    {
+        "ModifierID": "3495C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3495C_REWARD"
+    },
+    {
+        "ModifierID": "1446B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1446B_REWARD"
+    },
+    {
+        "ModifierID": "1447A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1447A_REWARD"
+    },
+    {
+        "ModifierID": "3510B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3510B_REWARD"
+    },
+    {
+        "ModifierID": "3510C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3510C_REWARD"
+    },
+    {
+        "ModifierID": "3512A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3512A_REWARD"
+    },
+    {
+        "ModifierID": "3513A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3513A_REWARD"
+    },
+    {
+        "ModifierID": "3520B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3520B_REWARD"
+    },
+    {
+        "ModifierID": "3520C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3520C_REWARD"
+    },
+    {
+        "ModifierID": "3521B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3521B_REWARD"
+    },
+    {
+        "ModifierID": "3544B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3544B_REWARD"
+    },
+    {
+        "ModifierID": "3544C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3544C_REWARD"
+    },
+    {
+        "ModifierID": "3668B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3668B_REWARD"
+    },
+    {
+        "ModifierID": "3668C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3668C_REWARD"
+    },
+    {
+        "ModifierID": "3669B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3669B_REWARD"
+    },
+    {
+        "ModifierID": "3669C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3669C_REWARD"
+    },
+    {
+        "ModifierID": "3671B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3671B_REWARD"
+    },
+    {
+        "ModifierID": "3671C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3671C_REWARD"
+    },
+    {
+        "ModifierID": "3672B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3672B_REWARD"
+    },
+    {
+        "ModifierID": "3673B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3673B_REWARD"
+    },
+    {
+        "ModifierID": "3695B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3695B_REWARD"
+    },
+    {
+        "ModifierID": "3695B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3695B_REWARD2"
+    },
+    {
+        "ModifierID": "3695C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3695C_REWARD"
+    },
+    {
+        "ModifierID": "3695C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3695C_REWARD2"
+    },
+    {
+        "ModifierID": "3678B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3678B_REWARD"
+    },
+    {
+        "ModifierID": "3678C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3678C_REWARD"
+    },
+    {
+        "ModifierID": "3228B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3228B_REWARD"
+    },
+    {
+        "ModifierID": "3229B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3229B_REWARD"
+    },
+    {
+        "ModifierID": "3230A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3230A_REWARD"
+    },
+    {
+        "ModifierID": "3230A_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "3230A_REWARD2"
+    },
+    {
+        "ModifierID": "3092B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3092B_REWARD"
+    },
+    {
+        "ModifierID": "3092C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3092C_REWARD"
+    },
+    {
+        "ModifierID": "200B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "200B_REWARD"
+    },
+    {
+        "ModifierID": "200C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "200C_REWARD"
+    },
+    {
+        "ModifierID": "220C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "220C_REWARD"
+    },
+    {
+        "ModifierID": "220D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "220D_REWARD"
+    },
+    {
+        "ModifierID": "221C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "221C_REWARD"
+    },
+    {
+        "ModifierID": "221D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "221D_REWARD"
+    },
+    {
+        "ModifierID": "222C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "222C_REWARD"
+    },
+    {
+        "ModifierID": "223B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "223B_REWARD"
+    },
+    {
+        "ModifierID": "223B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "223B_REWARD2"
+    },
+    {
+        "ModifierID": "223C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "223C_REWARD"
+    },
+    {
+        "ModifierID": "224B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "224B_REWARD"
+    },
+    {
+        "ModifierID": "224B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "224B_REWARD2"
+    },
+    {
+        "ModifierID": "224C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "224C_REWARD"
+    },
+    {
+        "ModifierID": "225B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "225B_REWARD"
+    },
+    {
+        "ModifierID": "225C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "225C_REWARD"
+    },
+    {
+        "ModifierID": "226B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "226B_REWARD"
+    },
+    {
+        "ModifierID": "226B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "226B_REWARD2"
+    },
+    {
+        "ModifierID": "226C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "226C_REWARD"
+    },
+    {
+        "ModifierID": "226D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "226D_REWARD"
+    },
+    {
+        "ModifierID": "227B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "227B_REWARD"
+    },
+    {
+        "ModifierID": "227C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "227C_REWARD"
+    },
+    {
+        "ModifierID": "232B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "232B_REWARD"
+    },
+    {
+        "ModifierID": "232B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "232B_REWARD2"
+    },
+    {
+        "ModifierID": "232C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "232C_REWARD"
+    },
+    {
+        "ModifierID": "232C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "232C_REWARD2"
+    },
+    {
+        "ModifierID": "233B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "233B_REWARD"
+    },
+    {
+        "ModifierID": "234B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "234B_REWARD"
+    },
+    {
+        "ModifierID": "235B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "235B_REWARD"
+    },
+    {
+        "ModifierID": "111B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "111B_REWARD"
+    },
+    {
+        "ModifierID": "111C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "111C_REWARD"
+    },
+    {
+        "ModifierID": "120B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "120B_REWARD"
+    },
+    {
+        "ModifierID": "120C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "120C_REWARD"
+    },
+    {
+        "ModifierID": "120D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "120D_REWARD"
+    },
+    {
+        "ModifierID": "121B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "121B_REWARD"
+    },
+    {
+        "ModifierID": "121C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "121C_REWARD"
+    },
+    {
+        "ModifierID": "121D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "121D_REWARD"
+    },
+    {
+        "ModifierID": "122B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "122B_REWARD"
+    },
+    {
+        "ModifierID": "122C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "122C_REWARD"
+    },
+    {
+        "ModifierID": "123B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "123B_REWARD"
+    },
+    {
+        "ModifierID": "124B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "124B_REWARD"
+    },
+    {
+        "ModifierID": "206B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "206B_REWARD"
+    },
+    {
+        "ModifierID": "206B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "206B_REWARD2"
+    },
+    {
+        "ModifierID": "206B_NARRATIVE_MODIFIER3",
+        "NarrativeRewardType": "206B_REWARD3"
+    },
+    {
+        "ModifierID": "206C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "206C_REWARD"
+    },
+    {
+        "ModifierID": "206C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "206C_REWARD2"
+    },
+    {
+        "ModifierID": "206C_NARRATIVE_MODIFIER3",
+        "NarrativeRewardType": "206C_REWARD3"
+    },
+    {
+        "ModifierID": "208B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "208B_REWARD"
+    },
+    {
+        "ModifierID": "208B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "208B_REWARD2"
+    },
+    {
+        "ModifierID": "208C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "208C_REWARD"
+    },
+    {
+        "ModifierID": "208C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "208C_REWARD2"
+    },
+    {
+        "ModifierID": "210B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "210B_REWARD"
+    },
+    {
+        "ModifierID": "210C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "210C_REWARD"
+    },
+    {
+        "ModifierID": "211B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "211B_REWARD"
+    },
+    {
+        "ModifierID": "211C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "211C_REWARD"
+    },
+    {
+        "ModifierID": "1054B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1054B_REWARD"
+    },
+    {
+        "ModifierID": "1055B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1055B_REWARD"
+    },
+    {
+        "ModifierID": "1057B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1057B_REWARD"
+    },
+    {
+        "ModifierID": "1058B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1058B_REWARD"
+    },
+    {
+        "ModifierID": "1059B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1059B_REWARD"
+    },
+    {
+        "ModifierID": "1059B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "1059B_REWARD2"
+    },
+    {
+        "ModifierID": "3654C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3654C_REWARD"
+    },
+    {
+        "ModifierID": "3654D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3654D_REWARD"
+    },
+    {
+        "ModifierID": "ATTRIBUTE_QUEST_1010A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ATTRIBUTE_QUEST_1010A_REWARD"
+    },
+    {
+        "ModifierID": "ATTRIBUTE_QUEST_1011A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ATTRIBUTE_QUEST_1011A_REWARD"
+    },
+    {
+        "ModifierID": "ATTRIBUTE_QUEST_1012A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ATTRIBUTE_QUEST_1012A_REWARD"
+    },
+    {
+        "ModifierID": "ATTRIBUTE_QUEST_1013A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ATTRIBUTE_QUEST_1013A_REWARD"
+    },
+    {
+        "ModifierID": "ATTRIBUTE_QUEST_1016A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ATTRIBUTE_QUEST_1016A_REWARD"
+    },
+    {
+        "ModifierID": "ATTRIBUTE_QUEST_1017A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ATTRIBUTE_QUEST_1017A_REWARD"
+    },
+    {
+        "ModifierID": "8005B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8005B_REWARD"
+    },
+    {
+        "ModifierID": "8005C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8005C_REWARD"
+    },
+    {
+        "ModifierID": "8038B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8038B_REWARD"
+    },
+    {
+        "ModifierID": "8038C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8038C_REWARD"
+    },
+    {
+        "ModifierID": "272B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "272B_REWARD"
+    },
+    {
+        "ModifierID": "273A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "273A_REWARD"
+    },
+    {
+        "ModifierID": "209B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "209B_REWARD"
+    },
+    {
+        "ModifierID": "209B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "209B_REWARD2"
+    },
+    {
+        "ModifierID": "1222B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1222B_REWARD"
+    },
+    {
+        "ModifierID": "1222C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1222C_REWARD"
+    },
+    {
+        "ModifierID": "1213B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1213B_REWARD"
+    },
+    {
+        "ModifierID": "1213C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1213C_REWARD"
+    },
+    {
+        "ModifierID": "1228B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1228B_REWARD"
+    },
+    {
+        "ModifierID": "1228C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1228C_REWARD"
+    },
+    {
+        "ModifierID": "1229B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1229B_REWARD"
+    },
+    {
+        "ModifierID": "1229C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1229C_REWARD"
+    },
+    {
+        "ModifierID": "1252B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1252B_REWARD"
+    },
+    {
+        "ModifierID": "1252C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1252C_REWARD"
+    },
+    {
+        "ModifierID": "1253B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1253B_REWARD"
+    },
+    {
+        "ModifierID": "1253C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1253C_REWARD"
+    },
+    {
+        "ModifierID": "1254B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1254B_REWARD"
+    },
+    {
+        "ModifierID": "1254C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1254C_REWARD"
+    },
+    {
+        "ModifierID": "1255B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1255B_REWARD"
+    },
+    {
+        "ModifierID": "1255C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1255C_REWARD"
+    },
+    {
+        "ModifierID": "1256B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1256B_REWARD"
+    },
+    {
+        "ModifierID": "1256C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1256C_REWARD"
+    },
+    {
+        "ModifierID": "1257B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1257B_REWARD"
+    },
+    {
+        "ModifierID": "1257C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1257C_REWARD"
+    },
+    {
+        "ModifierID": "1258B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1258B_REWARD"
+    },
+    {
+        "ModifierID": "1258C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1258C_REWARD"
+    },
+    {
+        "ModifierID": "1259B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1259B_REWARD"
+    },
+    {
+        "ModifierID": "1259C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1259C_REWARD"
+    },
+    {
+        "ModifierID": "1452B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1452B_REWARD"
+    },
+    {
+        "ModifierID": "1452C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1452C_REWARD"
+    },
+    {
+        "ModifierID": "1452D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1452D_REWARD"
+    },
+    {
+        "ModifierID": "1453B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1453B_REWARD"
+    },
+    {
+        "ModifierID": "1453B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "1453B_REWARD2"
+    },
+    {
+        "ModifierID": "1454B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1454B_REWARD"
+    },
+    {
+        "ModifierID": "1465B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1465B_REWARD"
+    },
+    {
+        "ModifierID": "1466B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1466B_REWARD"
+    },
+    {
+        "ModifierID": "8013B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8013B_REWARD"
+    },
+    {
+        "ModifierID": "8013C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8013C_REWARD"
+    },
+    {
+        "ModifierID": "8015A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8015A_REWARD"
+    },
+    {
+        "ModifierID": "8014C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8014C_REWARD"
+    },
+    {
+        "ModifierID": "8037B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8037B_REWARD"
+    },
+    {
+        "ModifierID": "8037C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8037C_REWARD"
+    },
+    {
+        "ModifierID": "8039B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8039B_REWARD"
+    },
+    {
+        "ModifierID": "8039C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8039C_REWARD"
+    },
+    {
+        "ModifierID": "8040B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8040B_REWARD"
+    },
+    {
+        "ModifierID": "8040C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8040C_REWARD"
+    },
+    {
+        "ModifierID": "8041B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8041B_REWARD"
+    },
+    {
+        "ModifierID": "8041C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8041C_REWARD"
+    },
+    {
+        "ModifierID": "8042B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8042B_REWARD"
+    },
+    {
+        "ModifierID": "8042C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8042C_REWARD"
+    },
+    {
+        "ModifierID": "8043B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8043B_REWARD"
+    },
+    {
+        "ModifierID": "8043C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8043C_REWARD"
+    },
+    {
+        "ModifierID": "8044B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8044B_REWARD"
+    },
+    {
+        "ModifierID": "8044C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8044C_REWARD"
+    },
+    {
+        "ModifierID": "8045B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8045B_REWARD"
+    },
+    {
+        "ModifierID": "8045C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8045C_REWARD"
+    },
+    {
+        "ModifierID": "8047B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8047B_REWARD"
+    },
+    {
+        "ModifierID": "8047C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8047C_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_1A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_1A_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_2B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_2B_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_2D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_2D_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_3B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_3B_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_3D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_3D_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_4B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_4B_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_4D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_4D_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_5B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_5B_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_5D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_5D_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_6B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_6B_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_6D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_6D_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_7A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_7A_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_8A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_8A_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_9A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_9A_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_10A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_10A_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_11A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_11A_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_12B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_12B_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_12D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_12D_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_13A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_13A_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_14A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_14A_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_15A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_15A_REWARD"
+    },
+    {
+        "ModifierID": "ARCHAEOLOGY_16A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "ARCHAEOLOGY_16A_REWARD"
+    },
+    {
+        "ModifierID": "7029B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7029B_REWARD"
+    },
+    {
+        "ModifierID": "7029C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7029C_REWARD"
+    },
+    {
+        "ModifierID": "7028B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7028B_REWARD"
+    },
+    {
+        "ModifierID": "7031B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7031B_REWARD"
+    },
+    {
+        "ModifierID": "7031C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7031C_REWARD"
+    },
+    {
+        "ModifierID": "7030B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7030B_REWARD"
+    },
+    {
+        "ModifierID": "7033B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7033B_REWARD"
+    },
+    {
+        "ModifierID": "7033C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7033C_REWARD"
+    },
+    {
+        "ModifierID": "7032B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7032B_REWARD"
+    },
+    {
+        "ModifierID": "7035B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7035B_REWARD"
+    },
+    {
+        "ModifierID": "7035C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7035C_REWARD"
+    },
+    {
+        "ModifierID": "7034B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7034B_REWARD"
+    },
+    {
+        "ModifierID": "7037B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7037B_REWARD"
+    },
+    {
+        "ModifierID": "7037C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7037C_REWARD"
+    },
+    {
+        "ModifierID": "7036B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7036B_REWARD"
+    },
+    {
+        "ModifierID": "7039B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7039B_REWARD"
+    },
+    {
+        "ModifierID": "7039C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7039C_REWARD"
+    },
+    {
+        "ModifierID": "7038B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7038B_REWARD"
+    },
+    {
+        "ModifierID": "7041B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7041B_REWARD"
+    },
+    {
+        "ModifierID": "7041C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7041C_REWARD"
+    },
+    {
+        "ModifierID": "7040B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7040B_REWARD"
+    },
+    {
+        "ModifierID": "7043B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7043B_REWARD"
+    },
+    {
+        "ModifierID": "7043C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7043C_REWARD"
+    },
+    {
+        "ModifierID": "7042B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7042B_REWARD"
+    },
+    {
+        "ModifierID": "7045B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7045B_REWARD"
+    },
+    {
+        "ModifierID": "7045C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7045C_REWARD"
+    },
+    {
+        "ModifierID": "7044B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7044B_REWARD"
+    },
+    {
+        "ModifierID": "7047B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7047B_REWARD"
+    },
+    {
+        "ModifierID": "7047C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7047C_REWARD"
+    },
+    {
+        "ModifierID": "7046B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7046B_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1008C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1008C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1008D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1008D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1008D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1008D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1009C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1009C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1009D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1009D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1009D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1009D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1018C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1018C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1018D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1018D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1018D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1018D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1019C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1019C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1019D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1019D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1019D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1019D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1028C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1028C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1028D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1028D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1028D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1028D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1029C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1029C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1029D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1029D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1029D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1029D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1038C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1038C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1038D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1038D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1038D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1038D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1039C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1039C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1039D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1039D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1039D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1039D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1048C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1048C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1048D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1048D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1048D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1048D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1049C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1049C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1049D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1049D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1049D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1049D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1058C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1058C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1058D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1058D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1058D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1058D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1059C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1059C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1059D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1059D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1059D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1059D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1068C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1068C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1068D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1068D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1068D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1068D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1069C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1069C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1069D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1069D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1069D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1069D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1078C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1078C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1078D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1078D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1078D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1078D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1079C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1079C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1079D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1079D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1079D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1079D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1088C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1088C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1088D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1088D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1088D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1088D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1089C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1089C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1089D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1089D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1089D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1089D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1098C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1098C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1098D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1098D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1098D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1098D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1099C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1099C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1099D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1099D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1099D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1099D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1108C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1108C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1108D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1108D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1108D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1108D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1109C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1109C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1109D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1109D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1109D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1109D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1118C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1118C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1118D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1118D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1118D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1118D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1119C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1119C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1119D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1119D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1119D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1119D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1128C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1128C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1128D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1128D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1128D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1128D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1129C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1129C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1129D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1129D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1129D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1129D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1138C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1138C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1138D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1138D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1138D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1138D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1139C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1139C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1139D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1139D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1139D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1139D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1148C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1148C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1148D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1148D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1148D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1148D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1149C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1149C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1149D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1149D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1149D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1149D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1158C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1158C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1158D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1158D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1158D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1158D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1159C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1159C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1159D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1159D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1159D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1159D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1168C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1168C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1168D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1168D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1168D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1168D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1169C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1169C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1169D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1169D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1169D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1169D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1178C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1178C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1178D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1178D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1178D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1178D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1179C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1179C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1179D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1179D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1179D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1179D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1188C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1188C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1188D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1188D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1188D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1188D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1189C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1189C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1189D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1189D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1189D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1189D_REWARD2"
+    },
+    {
+        "ModifierID": "280A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "280A_REWARD"
+    },
+    {
+        "ModifierID": "279C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "279C_REWARD"
+    },
+    {
+        "ModifierID": "8053B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8053B_REWARD"
+    },
+    {
+        "ModifierID": "8053C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8053C_REWARD"
+    },
+    {
+        "ModifierID": "8054B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8054B_REWARD"
+    },
+    {
+        "ModifierID": "8054C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8054C_REWARD"
+    },
+    {
+        "ModifierID": "8055B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8055B_REWARD"
+    },
+    {
+        "ModifierID": "8055C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8055C_REWARD"
+    },
+    {
+        "ModifierID": "8056B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8056B_REWARD"
+    },
+    {
+        "ModifierID": "8056C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8056C_REWARD"
+    },
+    {
+        "ModifierID": "8057B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8057B_REWARD"
+    },
+    {
+        "ModifierID": "8057C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8057C_REWARD"
+    },
+    {
+        "ModifierID": "8135A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8135A_REWARD"
+    },
+    {
+        "ModifierID": "8136A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8136A_REWARD"
+    },
+    {
+        "ModifierID": "8059C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8059C_REWARD"
+    },
+    {
+        "ModifierID": "8059D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8059D_REWARD"
+    },
+    {
+        "ModifierID": "8060B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8060B_REWARD"
+    },
+    {
+        "ModifierID": "8060C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8060C_REWARD"
+    },
+    {
+        "ModifierID": "8063B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8063B_REWARD"
+    },
+    {
+        "ModifierID": "8063C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8063C_REWARD"
+    },
+    {
+        "ModifierID": "8064B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8064B_REWARD"
+    },
+    {
+        "ModifierID": "8064C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8064C_REWARD"
+    },
+    {
+        "ModifierID": "8067B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8067B_REWARD"
+    },
+    {
+        "ModifierID": "8067C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8067C_REWARD"
+    },
+    {
+        "ModifierID": "8071B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8071B_REWARD"
+    },
+    {
+        "ModifierID": "8071C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8071C_REWARD"
+    },
+    {
+        "ModifierID": "8106B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8106B_REWARD"
+    },
+    {
+        "ModifierID": "8106C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8106C_REWARD"
+    },
+    {
+        "ModifierID": "8107B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8107B_REWARD"
+    },
+    {
+        "ModifierID": "8107C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8107C_REWARD"
+    },
+    {
+        "ModifierID": "8109B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8109B_REWARD"
+    },
+    {
+        "ModifierID": "8109C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8109C_REWARD"
+    },
+    {
+        "ModifierID": "8110B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8110B_REWARD"
+    },
+    {
+        "ModifierID": "8110C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8110C_REWARD"
+    },
+    {
+        "ModifierID": "8112B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8112B_REWARD"
+    },
+    {
+        "ModifierID": "8112C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8112C_REWARD"
+    },
+    {
+        "ModifierID": "8113B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8113B_REWARD"
+    },
+    {
+        "ModifierID": "8113C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8113C_REWARD"
+    },
+    {
+        "ModifierID": "8111B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8111B_REWARD"
+    },
+    {
+        "ModifierID": "8111C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8111C_REWARD"
+    },
+    {
+        "ModifierID": "1061B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1061B_REWARD"
+    },
+    {
+        "ModifierID": "1061C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1061C_REWARD"
+    },
+    {
+        "ModifierID": "1062B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1062B_REWARD"
+    },
+    {
+        "ModifierID": "1062B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "1062B_REWARD2"
+    },
+    {
+        "ModifierID": "1207B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1207B_REWARD"
+    },
+    {
+        "ModifierID": "1207C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1207C_REWARD"
+    },
+    {
+        "ModifierID": "1219B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1219B_REWARD"
+    },
+    {
+        "ModifierID": "1219C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1219C_REWARD"
+    },
+    {
+        "ModifierID": "1242B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1242B_REWARD"
+    },
+    {
+        "ModifierID": "1242C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1242C_REWARD"
+    },
+    {
+        "ModifierID": "1243B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1243B_REWARD"
+    },
+    {
+        "ModifierID": "1243C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1243C_REWARD"
+    },
+    {
+        "ModifierID": "1243D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1243D_REWARD"
+    },
+    {
+        "ModifierID": "1244B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1244B_REWARD"
+    },
+    {
+        "ModifierID": "1246B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1246B_REWARD"
+    },
+    {
+        "ModifierID": "1246C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1246C_REWARD"
+    },
+    {
+        "ModifierID": "1247B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1247B_REWARD"
+    },
+    {
+        "ModifierID": "1247C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1247C_REWARD"
+    },
+    {
+        "ModifierID": "1247D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1247D_REWARD"
+    },
+    {
+        "ModifierID": "1248B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1248B_REWARD"
+    },
+    {
+        "ModifierID": "1248C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1248C_REWARD"
+    },
+    {
+        "ModifierID": "1260C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1260C_REWARD"
+    },
+    {
+        "ModifierID": "1261B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1261B_REWARD"
+    },
+    {
+        "ModifierID": "1261C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1261C_REWARD"
+    },
+    {
+        "ModifierID": "1268B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1268B_REWARD"
+    },
+    {
+        "ModifierID": "1451B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1451B_REWARD"
+    },
+    {
+        "ModifierID": "1451C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1451C_REWARD"
+    },
+    {
+        "ModifierID": "8142B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8142B_REWARD"
+    },
+    {
+        "ModifierID": "8142B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "8142B_REWARD2"
+    },
+    {
+        "ModifierID": "8144B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "8144B_REWARD"
+    },
+    {
+        "ModifierID": "8144B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "8144B_REWARD2"
+    },
+    {
+        "ModifierID": "169C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "169C_REWARD"
+    },
+    {
+        "ModifierID": "169D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "169D_REWARD"
+    },
+    {
+        "ModifierID": "170C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "170C_REWARD"
+    },
+    {
+        "ModifierID": "170D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "170D_REWARD"
+    },
+    {
+        "ModifierID": "290C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "290C_REWARD"
+    },
+    {
+        "ModifierID": "291A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "291A_REWARD"
+    },
+    {
+        "ModifierID": "261B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "261B_REWARD"
+    },
+    {
+        "ModifierID": "261C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "261C_REWARD"
+    },
+    {
+        "ModifierID": "262B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "262B_REWARD"
+    },
+    {
+        "ModifierID": "262B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "262B_REWARD2"
+    },
+    {
+        "ModifierID": "262C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "262C_REWARD"
+    },
+    {
+        "ModifierID": "263B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "263B_REWARD"
+    },
+    {
+        "ModifierID": "263C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "263C_REWARD"
+    },
+    {
+        "ModifierID": "264B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "264B_REWARD"
+    },
+    {
+        "ModifierID": "264C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "264C_REWARD"
+    },
+    {
+        "ModifierID": "265B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "265B_REWARD"
+    },
+    {
+        "ModifierID": "265C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "265C_REWARD"
+    },
+    {
+        "ModifierID": "266B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "266B_REWARD"
+    },
+    {
+        "ModifierID": "266C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "266C_REWARD"
+    },
+    {
+        "ModifierID": "267B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "267B_REWARD"
+    },
+    {
+        "ModifierID": "267C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "267C_REWARD"
+    },
+    {
+        "ModifierID": "268B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "268B_REWARD"
+    },
+    {
+        "ModifierID": "268C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "268C_REWARD"
+    },
+    {
+        "ModifierID": "269B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "269B_REWARD"
+    },
+    {
+        "ModifierID": "269C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "269C_REWARD"
+    },
+    {
+        "ModifierID": "7001B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7001B_REWARD"
+    },
+    {
+        "ModifierID": "7001C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "7001C_REWARD"
+    },
+    {
+        "ModifierID": "9021B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "9021B_REWARD"
+    },
+    {
+        "ModifierID": "9021B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "9021B_REWARD2"
+    },
+    {
+        "ModifierID": "9021C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "9021C_REWARD"
+    },
+    {
+        "ModifierID": "9021C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "9021C_REWARD2"
+    },
+    {
+        "ModifierID": "10008B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10008B_REWARD"
+    },
+    {
+        "ModifierID": "10008B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10008B_REWARD2"
+    },
+    {
+        "ModifierID": "10008C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10008C_REWARD"
+    },
+    {
+        "ModifierID": "10008C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10008C_REWARD2"
+    },
+    {
+        "ModifierID": "10009B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10009B_REWARD"
+    },
+    {
+        "ModifierID": "10009C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10009C_REWARD"
+    },
+    {
+        "ModifierID": "10010B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10010B_REWARD"
+    },
+    {
+        "ModifierID": "10010C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10010C_REWARD"
+    },
+    {
+        "ModifierID": "10011B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10011B_REWARD"
+    },
+    {
+        "ModifierID": "10011B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10011B_REWARD2"
+    },
+    {
+        "ModifierID": "10011C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10011C_REWARD"
+    },
+    {
+        "ModifierID": "10011C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10011C_REWARD2"
+    },
+    {
+        "ModifierID": "10012B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10012B_REWARD"
+    },
+    {
+        "ModifierID": "10012C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10012C_REWARD"
+    },
+    {
+        "ModifierID": "10013B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10013B_REWARD"
+    },
+    {
+        "ModifierID": "10013C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10013C_REWARD"
+    },
+    {
+        "ModifierID": "10014B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10014B_REWARD"
+    },
+    {
+        "ModifierID": "10014C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10014C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1218C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1218C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1218D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1218D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1218D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1218D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1219C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1219C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1219D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1219D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1219D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1219D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1018F_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1018F_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1018G_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1018G_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1018G_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1018G_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1108B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1108F_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1108C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1108G_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1108C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1108G_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1109F_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1109F_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1109G_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1109G_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1109G_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1109G_REWARD2"
+    },
+    {
+        "ModifierID": "10039B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10039B_REWARD"
+    },
+    {
+        "ModifierID": "10039C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10039C_REWARD"
+    },
+    {
+        "ModifierID": "10040B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10040B_REWARD"
+    },
+    {
+        "ModifierID": "10040C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10040C_REWARD"
+    },
+    {
+        "ModifierID": "10042B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10042B_REWARD"
+    },
+    {
+        "ModifierID": "10042B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10042B_REWARD2"
+    },
+    {
+        "ModifierID": "10042C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10042C_REWARD"
+    },
+    {
+        "ModifierID": "10042C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10042C_REWARD2"
+    },
+    {
+        "ModifierID": "10043B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10043B_REWARD"
+    },
+    {
+        "ModifierID": "10043B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10043B_REWARD2"
+    },
+    {
+        "ModifierID": "10043C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10043C_REWARD"
+    },
+    {
+        "ModifierID": "10043C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10043C_REWARD2"
+    },
+    {
+        "ModifierID": "10046B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10046B_REWARD"
+    },
+    {
+        "ModifierID": "10046C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10046C_REWARD"
+    },
+    {
+        "ModifierID": "10047B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10047B_REWARD"
+    },
+    {
+        "ModifierID": "10047C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10047C_REWARD"
+    },
+    {
+        "ModifierID": "10048B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10048B_REWARD"
+    },
+    {
+        "ModifierID": "10048C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10048C_REWARD"
+    },
+    {
+        "ModifierID": "10049B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10049B_REWARD"
+    },
+    {
+        "ModifierID": "10049B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10049B_REWARD2"
+    },
+    {
+        "ModifierID": "10049C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10049C_REWARD"
+    },
+    {
+        "ModifierID": "10049C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10049C_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1228C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1228C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1228D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1228D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1228D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1228D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1229C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1229C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1229D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1229D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1229D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1229D_REWARD2"
+    },
+    {
+        "ModifierID": "10099B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10099B_REWARD"
+    },
+    {
+        "ModifierID": "10099B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10099B_REWARD2"
+    },
+    {
+        "ModifierID": "10099C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10099C_REWARD"
+    },
+    {
+        "ModifierID": "10101B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10101B_REWARD"
+    },
+    {
+        "ModifierID": "10101B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10101B_REWARD2"
+    },
+    {
+        "ModifierID": "10101B_NARRATIVE_MODIFIER3",
+        "NarrativeRewardType": "10101B_REWARD3"
+    },
+    {
+        "ModifierID": "10100C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10100C_REWARD"
+    },
+    {
+        "ModifierID": "10102B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10102B_REWARD"
+    },
+    {
+        "ModifierID": "10102C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10102C_REWARD"
+    },
+    {
+        "ModifierID": "10102D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10102D_REWARD"
+    },
+    {
+        "ModifierID": "10103B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10103B_REWARD"
+    },
+    {
+        "ModifierID": "10103C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10103C_REWARD"
+    },
+    {
+        "ModifierID": "10103D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10103D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1268C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1268C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1268D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1268D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1268D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1268D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1269C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1269C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1269D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1269D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1269D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1269D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1079F_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1079F_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1079G_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1079G_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1079G_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1079G_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1188F_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1188F_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1188G_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1188G_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1188G_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1188G_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1189F_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1189F_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1189G_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1189G_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1189G_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1189G_REWARD2"
+    },
+    {
+        "ModifierID": "11145B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11145B_REWARD"
+    },
+    {
+        "ModifierID": "11145C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11145C_REWARD"
+    },
+    {
+        "ModifierID": "11146B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11146B_REWARD"
+    },
+    {
+        "ModifierID": "11146C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11146C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1198C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1198C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1198D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1198D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1198D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1198D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1199C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1199C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1199D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1199D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1199D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1199D_REWARD2"
+    },
+    {
+        "ModifierID": "3709B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3709B_REWARD"
+    },
+    {
+        "ModifierID": "3709C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3709C_REWARD"
+    },
+    {
+        "ModifierID": "3710B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3710B_REWARD"
+    },
+    {
+        "ModifierID": "3710C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3710C_REWARD"
+    },
+    {
+        "ModifierID": "3711B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3711B_REWARD"
+    },
+    {
+        "ModifierID": "3711C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3711C_REWARD"
+    },
+    {
+        "ModifierID": "3712B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3712B_REWARD"
+    },
+    {
+        "ModifierID": "3712C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3712C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1198F_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1198F_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1198G_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1198G_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1198G_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1198G_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1199F_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1199F_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1199G_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1199G_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1199G_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1199G_REWARD2"
+    },
+    {
+        "ModifierID": "3709_ALTB_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3709_ALTB_REWARD"
+    },
+    {
+        "ModifierID": "3709_ALTC_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3709_ALTC_REWARD"
+    },
+    {
+        "ModifierID": "3710_ALTB_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3710_ALTB_REWARD"
+    },
+    {
+        "ModifierID": "3710_ALTC_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3710_ALTC_REWARD"
+    },
+    {
+        "ModifierID": "3711_ALTB_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3711_ALTB_REWARD"
+    },
+    {
+        "ModifierID": "3711_ALTC_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3711_ALTC_REWARD"
+    },
+    {
+        "ModifierID": "3712_ALTB_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3712_ALTB_REWARD"
+    },
+    {
+        "ModifierID": "3712_ALTC_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3712_ALTC_REWARD"
+    },
+    {
+        "ModifierID": "11101B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11101B_REWARD"
+    },
+    {
+        "ModifierID": "11101B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11101B_REWARD2"
+    },
+    {
+        "ModifierID": "11101C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11101C_REWARD"
+    },
+    {
+        "ModifierID": "11101C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11101C_REWARD2"
+    },
+    {
+        "ModifierID": "11102B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11102B_REWARD"
+    },
+    {
+        "ModifierID": "11102C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11102C_REWARD"
+    },
+    {
+        "ModifierID": "11103B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11103B_REWARD"
+    },
+    {
+        "ModifierID": "11103C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11103C_REWARD"
+    },
+    {
+        "ModifierID": "11103D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11103D_REWARD"
+    },
+    {
+        "ModifierID": "11104B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11104B_REWARD"
+    },
+    {
+        "ModifierID": "11104C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11104C_REWARD"
+    },
+    {
+        "ModifierID": "11105B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11105B_REWARD"
+    },
+    {
+        "ModifierID": "11105B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11105B_REWARD2"
+    },
+    {
+        "ModifierID": "11105C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11105C_REWARD"
+    },
+    {
+        "ModifierID": "11105D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11105D_REWARD"
+    },
+    {
+        "ModifierID": "11106B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11106B_REWARD"
+    },
+    {
+        "ModifierID": "11106C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11106C_REWARD"
+    },
+    {
+        "ModifierID": "11106D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11106D_REWARD"
+    },
+    {
+        "ModifierID": "11107B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11107B_REWARD"
+    },
+    {
+        "ModifierID": "11107C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11107C_REWARD"
+    },
+    {
+        "ModifierID": "11107D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11107D_REWARD"
+    },
+    {
+        "ModifierID": "11108B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11108B_REWARD"
+    },
+    {
+        "ModifierID": "11108C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11108C_REWARD"
+    },
+    {
+        "ModifierID": "11110B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11110B_REWARD"
+    },
+    {
+        "ModifierID": "11110C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11110C_REWARD"
+    },
+    {
+        "ModifierID": "12013B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "12013B_REWARD"
+    },
+    {
+        "ModifierID": "12013C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "12013C_REWARD"
+    },
+    {
+        "ModifierID": "11115B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11115B_REWARD"
+    },
+    {
+        "ModifierID": "11115C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11115C_REWARD"
+    },
+    {
+        "ModifierID": "11119B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11119B_REWARD"
+    },
+    {
+        "ModifierID": "11119C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11119C_REWARD"
+    },
+    {
+        "ModifierID": "10079B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10079B_REWARD"
+    },
+    {
+        "ModifierID": "10079C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10079C_REWARD"
+    },
+    {
+        "ModifierID": "10080B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10080B_REWARD"
+    },
+    {
+        "ModifierID": "10080C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10080C_REWARD"
+    },
+    {
+        "ModifierID": "10081B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10081B_REWARD"
+    },
+    {
+        "ModifierID": "10081C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10081C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1258C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1258C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1258D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1258D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1258D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1258D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1259C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1259C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1259D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1259D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1259D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1259D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1208C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1208C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1208D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1208D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1208D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1208D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1209C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1209C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1209D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1209D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1209D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1209D_REWARD2"
+    },
+    {
+        "ModifierID": "3730B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3730B_REWARD"
+    },
+    {
+        "ModifierID": "3730C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3730C_REWARD"
+    },
+    {
+        "ModifierID": "3731B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3731B_REWARD"
+    },
+    {
+        "ModifierID": "3731C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3731C_REWARD"
+    },
+    {
+        "ModifierID": "3732B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3732B_REWARD"
+    },
+    {
+        "ModifierID": "3732C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "3732C_REWARD"
+    },
+    {
+        "ModifierID": "1497B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1497B_REWARD"
+    },
+    {
+        "ModifierID": "1497C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1497C_REWARD"
+    },
+    {
+        "ModifierID": "1497D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1497D_REWARD"
+    },
+    {
+        "ModifierID": "1497E_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1497E_REWARD"
+    },
+    {
+        "ModifierID": "1497F_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1497F_REWARD"
+    },
+    {
+        "ModifierID": "1498B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1498B_REWARD"
+    },
+    {
+        "ModifierID": "1498B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "1498B_REWARD2"
+    },
+    {
+        "ModifierID": "1499B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1499B_REWARD"
+    },
+    {
+        "ModifierID": "1499C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1499C_REWARD"
+    },
+    {
+        "ModifierID": "1500B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1500B_REWARD"
+    },
+    {
+        "ModifierID": "1500B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "1500B_REWARD2"
+    },
+    {
+        "ModifierID": "1500C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1500C_REWARD"
+    },
+    {
+        "ModifierID": "1500C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "1500C_REWARD2"
+    },
+    {
+        "ModifierID": "1501B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1501B_REWARD"
+    },
+    {
+        "ModifierID": "1501C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "1501C_REWARD"
+    },
+    {
+        "ModifierID": "11093B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11093B_REWARD"
+    },
+    {
+        "ModifierID": "11093C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11093C_REWARD"
+    },
+    {
+        "ModifierID": "11010B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11010B_REWARD"
+    },
+    {
+        "ModifierID": "11010C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11010C_REWARD"
+    },
+    {
+        "ModifierID": "11011B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11011B_REWARD"
+    },
+    {
+        "ModifierID": "11011C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11011C_REWARD"
+    },
+    {
+        "ModifierID": "11012B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11012B_REWARD"
+    },
+    {
+        "ModifierID": "11012C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11012C_REWARD"
+    },
+    {
+        "ModifierID": "11012C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11012C_REWARD2"
+    },
+    {
+        "ModifierID": "11012D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11012D_REWARD"
+    },
+    {
+        "ModifierID": "11012D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11012D_REWARD2"
+    },
+    {
+        "ModifierID": "11013B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11013B_REWARD"
+    },
+    {
+        "ModifierID": "11013B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11013B_REWARD2"
+    },
+    {
+        "ModifierID": "11013C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11013C_REWARD"
+    },
+    {
+        "ModifierID": "11013C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11013C_REWARD2"
+    },
+    {
+        "ModifierID": "11014B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11014B_REWARD"
+    },
+    {
+        "ModifierID": "11014B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11014B_REWARD2"
+    },
+    {
+        "ModifierID": "11014C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11014C_REWARD"
+    },
+    {
+        "ModifierID": "11014C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11014C_REWARD2"
+    },
+    {
+        "ModifierID": "11015B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11015B_REWARD"
+    },
+    {
+        "ModifierID": "11015B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11015B_REWARD2"
+    },
+    {
+        "ModifierID": "11015C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11015C_REWARD"
+    },
+    {
+        "ModifierID": "11016B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11016B_REWARD"
+    },
+    {
+        "ModifierID": "11016C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11016C_REWARD"
+    },
+    {
+        "ModifierID": "11017B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11017B_REWARD"
+    },
+    {
+        "ModifierID": "11017C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11017C_REWARD"
+    },
+    {
+        "ModifierID": "11018B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11018B_REWARD"
+    },
+    {
+        "ModifierID": "11018B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11018B_REWARD2"
+    },
+    {
+        "ModifierID": "11018C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11018C_REWARD"
+    },
+    {
+        "ModifierID": "11019B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11019B_REWARD"
+    },
+    {
+        "ModifierID": "11019B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11019B_REWARD2"
+    },
+    {
+        "ModifierID": "11019C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11019C_REWARD"
+    },
+    {
+        "ModifierID": "11019C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11019C_REWARD2"
+    },
+    {
+        "ModifierID": "11019_ALT2B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11019_ALT2B_REWARD"
+    },
+    {
+        "ModifierID": "11019_ALT2B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11019_ALT2B_REWARD2"
+    },
+    {
+        "ModifierID": "11019_ALT2C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11019_ALT2C_REWARD"
+    },
+    {
+        "ModifierID": "11019_ALT2C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11019_ALT2C_REWARD2"
+    },
+    {
+        "ModifierID": "11068B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11068B_REWARD"
+    },
+    {
+        "ModifierID": "11068C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11068C_REWARD"
+    },
+    {
+        "ModifierID": "12005B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "12005B_REWARD"
+    },
+    {
+        "ModifierID": "12005C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "12005C_REWARD"
+    },
+    {
+        "ModifierID": "11031A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11031A_REWARD"
+    },
+    {
+        "ModifierID": "11030B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11030B_REWARD"
+    },
+    {
+        "ModifierID": "11032B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11032B_REWARD"
+    },
+    {
+        "ModifierID": "11032C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11032C_REWARD"
+    },
+    {
+        "ModifierID": "11032C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11032C_REWARD2"
+    },
+    {
+        "ModifierID": "11034A_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11034A_REWARD"
+    },
+    {
+        "ModifierID": "11034B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11034B_REWARD"
+    },
+    {
+        "ModifierID": "11033B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11033B_REWARD"
+    },
+    {
+        "ModifierID": "11035B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11035B_REWARD"
+    },
+    {
+        "ModifierID": "11035C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11035C_REWARD"
+    },
+    {
+        "ModifierID": "11036B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11036B_REWARD"
+    },
+    {
+        "ModifierID": "11036C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11036C_REWARD"
+    },
+    {
+        "ModifierID": "11036C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11036C_REWARD2"
+    },
+    {
+        "ModifierID": "11037B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11037B_REWARD"
+    },
+    {
+        "ModifierID": "11038B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11038B_REWARD"
+    },
+    {
+        "ModifierID": "11038C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11038C_REWARD"
+    },
+    {
+        "ModifierID": "11039B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11039B_REWARD"
+    },
+    {
+        "ModifierID": "11039C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11039C_REWARD"
+    },
+    {
+        "ModifierID": "11040B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11040B_REWARD"
+    },
+    {
+        "ModifierID": "11040C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11040C_REWARD"
+    },
+    {
+        "ModifierID": "11041B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11041B_REWARD"
+    },
+    {
+        "ModifierID": "11041C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11041C_REWARD"
+    },
+    {
+        "ModifierID": "11069B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11069B_REWARD"
+    },
+    {
+        "ModifierID": "11069C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11069C_REWARD"
+    },
+    {
+        "ModifierID": "12007B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "12007B_REWARD"
+    },
+    {
+        "ModifierID": "12007C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "12007C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1238C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1238C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1238D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1238D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1238D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1238D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1239C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1239C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1239D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1239D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1239D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1239D_REWARD2"
+    },
+    {
+        "ModifierID": "10063B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10063B_REWARD"
+    },
+    {
+        "ModifierID": "10063C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10063C_REWARD"
+    },
+    {
+        "ModifierID": "10064B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10064B_REWARD"
+    },
+    {
+        "ModifierID": "10064C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10064C_REWARD"
+    },
+    {
+        "ModifierID": "10065B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10065B_REWARD"
+    },
+    {
+        "ModifierID": "10065C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10065C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1248C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1248C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1248D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1248D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1248D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1248D_REWARD2"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1249C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1249C_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1249D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "LEADER_CHAIN_1249D_REWARD"
+    },
+    {
+        "ModifierID": "LEADER_CHAIN_1249D_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "LEADER_CHAIN_1249D_REWARD2"
+    },
+    {
+        "ModifierID": "10022B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10022B_REWARD"
+    },
+    {
+        "ModifierID": "10022B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10022B_REWARD2"
+    },
+    {
+        "ModifierID": "10022C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10022C_REWARD"
+    },
+    {
+        "ModifierID": "10022C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10022C_REWARD2"
+    },
+    {
+        "ModifierID": "10023B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10023B_REWARD"
+    },
+    {
+        "ModifierID": "10023B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10023B_REWARD2"
+    },
+    {
+        "ModifierID": "10023C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10023C_REWARD"
+    },
+    {
+        "ModifierID": "10023C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10023C_REWARD2"
+    },
+    {
+        "ModifierID": "10023D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10023D_REWARD"
+    },
+    {
+        "ModifierID": "10024B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10024B_REWARD"
+    },
+    {
+        "ModifierID": "10024B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10024B_REWARD2"
+    },
+    {
+        "ModifierID": "10024C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10024C_REWARD"
+    },
+    {
+        "ModifierID": "10025B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10025B_REWARD"
+    },
+    {
+        "ModifierID": "10025B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10025B_REWARD2"
+    },
+    {
+        "ModifierID": "10025C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10025C_REWARD"
+    },
+    {
+        "ModifierID": "10025C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "10025C_REWARD2"
+    },
+    {
+        "ModifierID": "10026B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10026B_REWARD"
+    },
+    {
+        "ModifierID": "10026C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10026C_REWARD"
+    },
+    {
+        "ModifierID": "10027B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10027B_REWARD"
+    },
+    {
+        "ModifierID": "10027C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10027C_REWARD"
+    },
+    {
+        "ModifierID": "10028B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10028B_REWARD"
+    },
+    {
+        "ModifierID": "10028C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10028C_REWARD"
+    },
+    {
+        "ModifierID": "10029B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10029B_REWARD"
+    },
+    {
+        "ModifierID": "10029C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "10029C_REWARD"
+    },
+    {
+        "ModifierID": "11081B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11081B_REWARD"
+    },
+    {
+        "ModifierID": "11081C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11081C_REWARD"
+    },
+    {
+        "ModifierID": "11082B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11082B_REWARD"
+    },
+    {
+        "ModifierID": "11082B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11082B_REWARD2"
+    },
+    {
+        "ModifierID": "11082C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11082C_REWARD"
+    },
+    {
+        "ModifierID": "11083B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11083B_REWARD"
+    },
+    {
+        "ModifierID": "11083C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11083C_REWARD"
+    },
+    {
+        "ModifierID": "11083D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11083D_REWARD"
+    },
+    {
+        "ModifierID": "11084B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11084B_REWARD"
+    },
+    {
+        "ModifierID": "11084C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11084C_REWARD"
+    },
+    {
+        "ModifierID": "11085B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11085B_REWARD"
+    },
+    {
+        "ModifierID": "11085C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11085C_REWARD"
+    },
+    {
+        "ModifierID": "11086B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11086B_REWARD"
+    },
+    {
+        "ModifierID": "11086B_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11086B_REWARD2"
+    },
+    {
+        "ModifierID": "11086C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11086C_REWARD"
+    },
+    {
+        "ModifierID": "11086C_NARRATIVE_MODIFIER2",
+        "NarrativeRewardType": "11086C_REWARD2"
+    },
+    {
+        "ModifierID": "11086D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11086D_REWARD"
+    },
+    {
+        "ModifierID": "11087B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11087B_REWARD"
+    },
+    {
+        "ModifierID": "11087C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11087C_REWARD"
+    },
+    {
+        "ModifierID": "11087D_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11087D_REWARD"
+    },
+    {
+        "ModifierID": "11088B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11088B_REWARD"
+    },
+    {
+        "ModifierID": "11088C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11088C_REWARD"
+    },
+    {
+        "ModifierID": "11089B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11089B_REWARD"
+    },
+    {
+        "ModifierID": "11089C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11089C_REWARD"
+    },
+    {
+        "ModifierID": "11090B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11090B_REWARD"
+    },
+    {
+        "ModifierID": "11090C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "11090C_REWARD"
+    },
+    {
+        "ModifierID": "12011B_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "12011B_REWARD"
+    },
+    {
+        "ModifierID": "12011C_NARRATIVE_MODIFIER",
+        "NarrativeRewardType": "12011C_REWARD"
+    }
+]

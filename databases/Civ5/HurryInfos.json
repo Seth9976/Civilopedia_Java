@@ -1,0 +1,22 @@
+[
+    {
+        "Description": "TXT_KEY_HURRY_POPULATION",
+        "GoldPerBeaker": 0,
+        "GoldPerCulture": 0,
+        "GoldPerProduction": 0,
+        "ID": 0,
+        "PolicyPrereq": null,
+        "ProductionPerPopulation": 60,
+        "Type": "HURRY_POPULATION"
+    },
+    {
+        "Description": "TXT_KEY_HURRY_GOLD",
+        "GoldPerBeaker": 0,
+        "GoldPerCulture": 0,
+        "GoldPerProduction": 6,
+        "ID": 1,
+        "PolicyPrereq": null,
+        "ProductionPerPopulation": 0,
+        "Type": "HURRY_GOLD"
+    }
+]

@@ -1,0 +1,1367 @@
+[
+    {
+        "idx": null,
+        "stat": "6",
+        "tbl": "UnitPromotions_UnitClasses"
+    },
+    {
+        "idx": null,
+        "stat": "27",
+        "tbl": "EntityEvent_AnimationPaths"
+    },
+    {
+        "idx": "sqlite_autoindex_UnitGameplay2DScripts_1",
+        "stat": "90 1",
+        "tbl": "UnitGameplay2DScripts"
+    },
+    {
+        "idx": null,
+        "stat": "6",
+        "tbl": "Terrain_Yields"
+    },
+    {
+        "idx": "sqlite_autoindex_Commands_1",
+        "stat": "10 1",
+        "tbl": "Commands"
+    },
+    {
+        "idx": "sqlite_autoindex_Terrains_1",
+        "stat": "9 1",
+        "tbl": "Terrains"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Improvement_TechNoFreshWaterYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "11",
+        "tbl": "Improvement_TechYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Improvement_HillsYields"
+    },
+    {
+        "idx": null,
+        "stat": "3",
+        "tbl": "Technology_TradeRouteDomainExtraRange"
+    },
+    {
+        "idx": null,
+        "stat": "2",
+        "tbl": "UnitPromotions_CivilianUnitType"
+    },
+    {
+        "idx": null,
+        "stat": "41",
+        "tbl": "AnimationPaths"
+    },
+    {
+        "idx": null,
+        "stat": "217",
+        "tbl": "Unit_Flavors"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Belief_YieldChangeWorldWonder"
+    },
+    {
+        "idx": null,
+        "stat": "29",
+        "tbl": "Resource_YieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Belief_BuildingClassTourism"
+    },
+    {
+        "idx": "sqlite_autoindex_Beliefs_1",
+        "stat": "69 1",
+        "tbl": "Beliefs"
+    },
+    {
+        "idx": "sqlite_autoindex_MultiUnitFormations_1",
+        "stat": "20 1",
+        "tbl": "MultiUnitFormations"
+    },
+    {
+        "idx": null,
+        "stat": "605",
+        "tbl": "Leader_Flavors"
+    },
+    {
+        "idx": null,
+        "stat": "6",
+        "tbl": "Project_Flavors"
+    },
+    {
+        "idx": "sqlite_autoindex_PolicyBranchTypes_1",
+        "stat": "12 1",
+        "tbl": "PolicyBranchTypes"
+    },
+    {
+        "idx": null,
+        "stat": "9",
+        "tbl": "Policy_FreeUnitClasses"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Improvement_YieldPerEra"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Belief_YieldChangePerForeignCity"
+    },
+    {
+        "idx": "sqlite_autoindex_UnitPromotions_1",
+        "stat": "168 1",
+        "tbl": "UnitPromotions"
+    },
+    {
+        "idx": null,
+        "stat": "16",
+        "tbl": "Resource_FeatureBooleans"
+    },
+    {
+        "idx": "sqlite_autoindex_FakeFeatures_1",
+        "stat": "2 1",
+        "tbl": "FakeFeatures"
+    },
+    {
+        "idx": null,
+        "stat": "2",
+        "tbl": "Policy_ImprovementCultureChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_PlayerColors_1",
+        "stat": "81 1",
+        "tbl": "PlayerColors"
+    },
+    {
+        "idx": "sqlite_autoindex_Trades_1",
+        "stat": "3 1",
+        "tbl": "Trades"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Belief_MaxYieldModifierPerFollower"
+    },
+    {
+        "idx": "sqlite_autoindex_HurryInfos_1",
+        "stat": "2 1",
+        "tbl": "HurryInfos"
+    },
+    {
+        "idx": null,
+        "stat": "61",
+        "tbl": "Policy_BuildingClassHappiness"
+    },
+    {
+        "idx": null,
+        "stat": "13",
+        "tbl": "HandicapInfo_AIFreeTechs"
+    },
+    {
+        "idx": "sqlite_autoindex_LeagueProjects_1",
+        "stat": "3 1",
+        "tbl": "LeagueProjects"
+    },
+    {
+        "idx": "sqlite_autoindex_Audio_SoundLoadTypes_1",
+        "stat": "4 1",
+        "tbl": "Audio_SoundLoadTypes"
+    },
+    {
+        "idx": null,
+        "stat": "35",
+        "tbl": "Unit_ResourceQuantityRequirements"
+    },
+    {
+        "idx": "sqlite_autoindex_Civilizations_1",
+        "stat": "20 1",
+        "tbl": "Civilizations"
+    },
+    {
+        "idx": null,
+        "stat": "8",
+        "tbl": "UnitPromotions_Features"
+    },
+    {
+        "idx": "sqlite_autoindex_Yields_1",
+        "stat": "6 1",
+        "tbl": "Yields"
+    },
+    {
+        "idx": null,
+        "stat": "180",
+        "tbl": "Civilization_SpyNames"
+    },
+    {
+        "idx": null,
+        "stat": "25",
+        "tbl": "AIGrandStrategy_FlavorMods"
+    },
+    {
+        "idx": "sqlite_autoindex_Features_1",
+        "stat": "18 1",
+        "tbl": "Features"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Policy_CoastalCityYieldChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_Processes_1",
+        "stat": "5 1",
+        "tbl": "Processes"
+    },
+    {
+        "idx": "sqlite_autoindex_Audio_ScriptTypes_1",
+        "stat": "4 1",
+        "tbl": "Audio_ScriptTypes"
+    },
+    {
+        "idx": null,
+        "stat": "4",
+        "tbl": "Building_FeatureYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "132",
+        "tbl": "MultiUnitFormation_SlotEntries"
+    },
+    {
+        "idx": "sqlite_autoindex_Natural_Wonder_Placement_1",
+        "stat": "10 1",
+        "tbl": "Natural_Wonder_Placement"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Policy_CapitalYieldPerPopChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_Map_Sizes_1",
+        "stat": "6 6 1",
+        "tbl": "Map_Sizes"
+    },
+    {
+        "idx": null,
+        "stat": "59",
+        "tbl": "Resource_TerrainBooleans"
+    },
+    {
+        "idx": null,
+        "stat": "83",
+        "tbl": "HandicapInfo_Goodies"
+    },
+    {
+        "idx": null,
+        "stat": "5",
+        "tbl": "AICityStrategy_PersonalityFlavorThresholdMods"
+    },
+    {
+        "idx": null,
+        "stat": "8",
+        "tbl": "Belief_EraFaithUnitPurchase"
+    },
+    {
+        "idx": "sqlite_autoindex_TacticalMoves_1",
+        "stat": "53 1",
+        "tbl": "TacticalMoves"
+    },
+    {
+        "idx": "sqlite_autoindex_AIGrandStrategies_1",
+        "stat": "4 1",
+        "tbl": "AIGrandStrategies"
+    },
+    {
+        "idx": null,
+        "stat": "15",
+        "tbl": "Policy_BuildingClassYieldChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_Maps_1",
+        "stat": "1 1",
+        "tbl": "Maps"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Policy_GreatWorkYieldChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_Months_1",
+        "stat": "12 1",
+        "tbl": "Months"
+    },
+    {
+        "idx": null,
+        "stat": "9",
+        "tbl": "Policy_ImprovementYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "7",
+        "tbl": "Improvement_Yields"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Belief_YieldChangePerXForeignFollowers"
+    },
+    {
+        "idx": null,
+        "stat": "2",
+        "tbl": "Belief_TerrainYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "6",
+        "tbl": "MinorCivTraits_Status"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Policy_BuildingClassTourismModifiers"
+    },
+    {
+        "idx": null,
+        "stat": "302",
+        "tbl": "ArtDefine_UnitInfoMemberInfos"
+    },
+    {
+        "idx": null,
+        "stat": "183",
+        "tbl": "Policy_Flavors"
+    },
+    {
+        "idx": null,
+        "stat": "6",
+        "tbl": "AIGrandStrategy_Yields"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "ApplicationInfo"
+    },
+    {
+        "idx": null,
+        "stat": "2",
+        "tbl": "Policy_BuildingClassCultureChanges"
+    },
+    {
+        "idx": null,
+        "stat": "25",
+        "tbl": "Improvement_ResourceType_Yields"
+    },
+    {
+        "idx": null,
+        "stat": "142",
+        "tbl": "ArtDefine_LandmarkTypes"
+    },
+    {
+        "idx": null,
+        "stat": "2",
+        "tbl": "Route_Yields"
+    },
+    {
+        "idx": "sqlite_autoindex_Climates_1",
+        "stat": "5 1",
+        "tbl": "Climates"
+    },
+    {
+        "idx": null,
+        "stat": "87",
+        "tbl": "AIMilitaryStrategy_City_Flavors"
+    },
+    {
+        "idx": "sqlite_autoindex_Worlds_1",
+        "stat": "6 1",
+        "tbl": "Worlds"
+    },
+    {
+        "idx": "IconTextureAtlases_Index",
+        "stat": "148 4 1",
+        "tbl": "IconTextureAtlases"
+    },
+    {
+        "idx": "sqlite_autoindex_Cursors_1",
+        "stat": "25 1",
+        "tbl": "Cursors"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Building_SeaPlotYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Belief_CityYieldChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_TurnTimers_1",
+        "stat": "6 1",
+        "tbl": "TurnTimers"
+    },
+    {
+        "idx": null,
+        "stat": "79",
+        "tbl": "Building_YieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "7",
+        "tbl": "Belief_BuildingClassFaithPurchase"
+    },
+    {
+        "idx": null,
+        "stat": "14",
+        "tbl": "Process_Flavors"
+    },
+    {
+        "idx": null,
+        "stat": "126",
+        "tbl": "Civilization_BuildingClassOverrides"
+    },
+    {
+        "idx": "sqlite_autoindex_Map_Folders_1",
+        "stat": "1 1",
+        "tbl": "Map_Folders"
+    },
+    {
+        "idx": "sqlite_autoindex_PostDefines_1",
+        "stat": "48 1",
+        "tbl": "PostDefines"
+    },
+    {
+        "idx": null,
+        "stat": "133",
+        "tbl": "Unit_UniqueNames"
+    },
+    {
+        "idx": null,
+        "stat": "5",
+        "tbl": "Belief_ImprovementYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "11",
+        "tbl": "Belief_BuildingClassYieldChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_Policies_1",
+        "stat": "111 1",
+        "tbl": "Policies"
+    },
+    {
+        "idx": "sqlite_autoindex_ArtDefine_UnitInfos_1",
+        "stat": "204 1",
+        "tbl": "ArtDefine_UnitInfos"
+    },
+    {
+        "idx": "sqlite_autoindex_IconFontMapping_1",
+        "stat": "81 1",
+        "tbl": "IconFontMapping"
+    },
+    {
+        "idx": null,
+        "stat": "91",
+        "tbl": "AIEconomicStrategy_Player_Flavors"
+    },
+    {
+        "idx": null,
+        "stat": "4",
+        "tbl": "SpecialUnits"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Building_LocalResourceAnds"
+    },
+    {
+        "idx": null,
+        "stat": "104",
+        "tbl": "AICityStrategy_Flavors"
+    },
+    {
+        "idx": null,
+        "stat": "258",
+        "tbl": "UnitPromotions_UnitCombats"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Belief_YieldChangeTradeRoute"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Route_TechMovementChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_AIMilitaryStrategies_1",
+        "stat": "25 1",
+        "tbl": "AIMilitaryStrategies"
+    },
+    {
+        "idx": null,
+        "stat": "4",
+        "tbl": "SpecialUnit_CarrierUnitAI"
+    },
+    {
+        "idx": "sqlite_autoindex_AICityStrategies_1",
+        "stat": "44 1",
+        "tbl": "AICityStrategies"
+    },
+    {
+        "idx": null,
+        "stat": "36",
+        "tbl": "Building_ClassesNeededInCity"
+    },
+    {
+        "idx": "sqlite_autoindex_MajorCivApproachTypes_1",
+        "stat": "7 1",
+        "tbl": "MajorCivApproachTypes"
+    },
+    {
+        "idx": null,
+        "stat": "3",
+        "tbl": "Policy_CapitalYieldChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_ScannedFiles_1",
+        "stat": "156 1",
+        "tbl": "ScannedFiles"
+    },
+    {
+        "idx": null,
+        "stat": "5",
+        "tbl": "AIEconomicStrategy_PersonalityFlavorThresholdMods"
+    },
+    {
+        "idx": "sqlite_autoindex_CitySpecializations_1",
+        "stat": "9 1",
+        "tbl": "CitySpecializations"
+    },
+    {
+        "idx": null,
+        "stat": "105",
+        "tbl": "CitySpecialization_Flavors"
+    },
+    {
+        "idx": "sqlite_autoindex_Technologies_1",
+        "stat": "81 1",
+        "tbl": "Technologies"
+    },
+    {
+        "idx": null,
+        "stat": "36",
+        "tbl": "CitySpecialization_TargetYields"
+    },
+    {
+        "idx": null,
+        "stat": "7",
+        "tbl": "Calendars"
+    },
+    {
+        "idx": "sqlite_autoindex_Concepts_1",
+        "stat": "423 1",
+        "tbl": "Concepts"
+    },
+    {
+        "idx": null,
+        "stat": "3",
+        "tbl": "UnitPromotions_Terrains"
+    },
+    {
+        "idx": null,
+        "stat": "180",
+        "tbl": "Unit_FreePromotions"
+    },
+    {
+        "idx": "sqlite_autoindex_Builds_1",
+        "stat": "25 1",
+        "tbl": "Builds"
+    },
+    {
+        "idx": "sqlite_autoindex_UnitCombatInfos_1",
+        "stat": "14 1",
+        "tbl": "UnitCombatInfos"
+    },
+    {
+        "idx": null,
+        "stat": "11",
+        "tbl": "Feature_TerrainBooleans"
+    },
+    {
+        "idx": "sqlite_autoindex_Votes_1",
+        "stat": "1 1",
+        "tbl": "Votes"
+    },
+    {
+        "idx": null,
+        "stat": "1203",
+        "tbl": "Concepts_RelatedConcept"
+    },
+    {
+        "idx": "sqlite_autoindex_Improvements_1",
+        "stat": "20 1",
+        "tbl": "Improvements"
+    },
+    {
+        "idx": null,
+        "stat": "6",
+        "tbl": "Policy_FreePromotions"
+    },
+    {
+        "idx": null,
+        "stat": "17",
+        "tbl": "Building_ResourceYieldChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_Attitudes_1",
+        "stat": "5 1",
+        "tbl": "Attitudes"
+    },
+    {
+        "idx": "sqlite_autoindex_Contacts_1",
+        "stat": "13 1",
+        "tbl": "Contacts"
+    },
+    {
+        "idx": "sqlite_autoindex_LeagueProjectRewards_1",
+        "stat": "9 1",
+        "tbl": "LeagueProjectRewards"
+    },
+    {
+        "idx": "sqlite_autoindex_UnitClasses_1",
+        "stat": "60 1",
+        "tbl": "UnitClasses"
+    },
+    {
+        "idx": "sqlite_autoindex_Defines_1",
+        "stat": "1643 1",
+        "tbl": "Defines"
+    },
+    {
+        "idx": null,
+        "stat": "4",
+        "tbl": "Trait_ResourceQuantityModifiers"
+    },
+    {
+        "idx": null,
+        "stat": "28",
+        "tbl": "Resource_Flavors"
+    },
+    {
+        "idx": "sqlite_autoindex_Colors_1",
+        "stat": "168 1",
+        "tbl": "Colors"
+    },
+    {
+        "idx": null,
+        "stat": "2",
+        "tbl": "Building_DomainProductionModifiers"
+    },
+    {
+        "idx": "sqlite_autoindex_GameOptions_1",
+        "stat": "25 1",
+        "tbl": "GameOptions"
+    },
+    {
+        "idx": null,
+        "stat": "16",
+        "tbl": "Belief_ResourceYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "21",
+        "tbl": "HistoricRankings"
+    },
+    {
+        "idx": "sqlite_autoindex_ArtDefine_UnitMemberCombatWeapons_1",
+        "stat": "284 2 2 1",
+        "tbl": "ArtDefine_UnitMemberCombatWeapons"
+    },
+    {
+        "idx": null,
+        "stat": "497",
+        "tbl": "ArtDefine_Landmarks"
+    },
+    {
+        "idx": null,
+        "stat": "180",
+        "tbl": "MovementRates"
+    },
+    {
+        "idx": "sqlite_autoindex_ResourceClasses_1",
+        "stat": "4 1",
+        "tbl": "ResourceClasses"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Vote_DiploVotes"
+    },
+    {
+        "idx": "sqlite_autoindex_MultiplayerOptions_1",
+        "stat": "4 1",
+        "tbl": "MultiplayerOptions"
+    },
+    {
+        "idx": "sqlite_autoindex_AIEconomicStrategies_1",
+        "stat": "40 1",
+        "tbl": "AIEconomicStrategies"
+    },
+    {
+        "idx": "sqlite_autoindex_MinorCivTraits_1",
+        "stat": "5 1",
+        "tbl": "MinorCivTraits"
+    },
+    {
+        "idx": null,
+        "stat": "34",
+        "tbl": "EntityEvents"
+    },
+    {
+        "idx": "sqlite_autoindex_Controls_1",
+        "stat": "43 1",
+        "tbl": "Controls"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Policy_SpecialistExtraYields"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Trait_YieldChangesStrategicResources"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Building_RiverPlotYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "5",
+        "tbl": "Improvement_ValidFeatures"
+    },
+    {
+        "idx": null,
+        "stat": "90",
+        "tbl": "Leader_MinorCivApproachBiases"
+    },
+    {
+        "idx": null,
+        "stat": "3",
+        "tbl": "Policy_BuildingClassYieldModifiers"
+    },
+    {
+        "idx": "sqlite_autoindex_MinorCivApproachTypes_1",
+        "stat": "5 1",
+        "tbl": "MinorCivApproachTypes"
+    },
+    {
+        "idx": null,
+        "stat": "62",
+        "tbl": "Unit_ClassUpgrades"
+    },
+    {
+        "idx": null,
+        "stat": "58",
+        "tbl": "MinorCivilization_CityNames"
+    },
+    {
+        "idx": null,
+        "stat": "4",
+        "tbl": "Building_ResourceQuantityRequirements"
+    },
+    {
+        "idx": null,
+        "stat": "239",
+        "tbl": "Technology_Flavors"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Belief_FeatureYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "24",
+        "tbl": "Era_CitySoundscapes"
+    },
+    {
+        "idx": null,
+        "stat": "54",
+        "tbl": "Improvement_ResourceTypes"
+    },
+    {
+        "idx": "sqlite_autoindex_Religions_1",
+        "stat": "14 1",
+        "tbl": "Religions"
+    },
+    {
+        "idx": "sqlite_autoindex_Notifications_1",
+        "stat": "145 1",
+        "tbl": "Notifications"
+    },
+    {
+        "idx": "sqlite_autoindex_Projects_1",
+        "stat": "6 1",
+        "tbl": "Projects"
+    },
+    {
+        "idx": "sqlite_autoindex_ArtDefine_UnitMemberCombats_1",
+        "stat": "291 1",
+        "tbl": "ArtDefine_UnitMemberCombats"
+    },
+    {
+        "idx": "sqlite_autoindex_Seasons_1",
+        "stat": "4 1",
+        "tbl": "Seasons"
+    },
+    {
+        "idx": null,
+        "stat": "3",
+        "tbl": "Policy_TourismOnUnitCreation"
+    },
+    {
+        "idx": "sqlite_autoindex_Audio_SpeakerChannels_1",
+        "stat": "13 1",
+        "tbl": "Audio_SpeakerChannels"
+    },
+    {
+        "idx": null,
+        "stat": "5",
+        "tbl": "Civilization_Start_Region_Priority"
+    },
+    {
+        "idx": null,
+        "stat": "28",
+        "tbl": "Unit_Builds"
+    },
+    {
+        "idx": null,
+        "stat": "66",
+        "tbl": "AIMilitaryStrategy_Player_Flavors"
+    },
+    {
+        "idx": "sqlite_autoindex_SeaLevels_1",
+        "stat": "3 1",
+        "tbl": "SeaLevels"
+    },
+    {
+        "idx": null,
+        "stat": "4",
+        "tbl": "Project_VictoryThresholds"
+    },
+    {
+        "idx": "sqlite_autoindex_ArtDefine_StrategicView_1",
+        "stat": "170 1 1",
+        "tbl": "ArtDefine_StrategicView"
+    },
+    {
+        "idx": null,
+        "stat": "20",
+        "tbl": "Civilization_Leaders"
+    },
+    {
+        "idx": null,
+        "stat": "15",
+        "tbl": "Building_DomainFreeExperiences"
+    },
+    {
+        "idx": null,
+        "stat": "11",
+        "tbl": "UnitPromotions_Domains"
+    },
+    {
+        "idx": null,
+        "stat": "189",
+        "tbl": "Unit_AITypes"
+    },
+    {
+        "idx": null,
+        "stat": "258",
+        "tbl": "Building_Flavors"
+    },
+    {
+        "idx": null,
+        "stat": "32",
+        "tbl": "Feature_YieldChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_GoodyHuts_1",
+        "stat": "20 1",
+        "tbl": "GoodyHuts"
+    },
+    {
+        "idx": null,
+        "stat": "9",
+        "tbl": "Building_LocalResourceOrs"
+    },
+    {
+        "idx": "sqlite_autoindex_ResolutionDecisions_1",
+        "stat": "10 1",
+        "tbl": "ResolutionDecisions"
+    },
+    {
+        "idx": null,
+        "stat": "18",
+        "tbl": "Leader_Traits"
+    },
+    {
+        "idx": "sqlite_autoindex_InterfaceModes_1",
+        "stat": "22 1",
+        "tbl": "InterfaceModes"
+    },
+    {
+        "idx": "sqlite_autoindex_Buildings_1",
+        "stat": "92 1",
+        "tbl": "Buildings"
+    },
+    {
+        "idx": "sqlite_autoindex_HandicapInfos_1",
+        "stat": "9 1",
+        "tbl": "HandicapInfos"
+    },
+    {
+        "idx": null,
+        "stat": "126",
+        "tbl": "Leader_MajorCivApproachBiases"
+    },
+    {
+        "idx": "sqlite_autoindex_Victories_1",
+        "stat": "5 1",
+        "tbl": "Victories"
+    },
+    {
+        "idx": "sqlite_autoindex_Units_1",
+        "stat": "90 1",
+        "tbl": "Units"
+    },
+    {
+        "idx": null,
+        "stat": "41",
+        "tbl": "Improvement_ValidTerrains"
+    },
+    {
+        "idx": "sqlite_autoindex_Eras_1",
+        "stat": "8 1",
+        "tbl": "Eras"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Building_LakePlotYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Trait_ImprovementYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "2",
+        "tbl": "AIMilitaryStrategy_PersonalityFlavorThresholdMods"
+    },
+    {
+        "idx": null,
+        "stat": "3",
+        "tbl": "Civilization_Start_Along_Ocean"
+    },
+    {
+        "idx": "sqlite_autoindex_LeagueNames_1",
+        "stat": "3 1",
+        "tbl": "LeagueNames"
+    },
+    {
+        "idx": "sqlite_autoindex_Domains_1",
+        "stat": "5 1",
+        "tbl": "Domains"
+    },
+    {
+        "idx": "sqlite_autoindex_ArtStyleTypes_1",
+        "stat": "7 1",
+        "tbl": "ArtStyleTypes"
+    },
+    {
+        "idx": "sqlite_autoindex_Flavors_1",
+        "stat": "38 1",
+        "tbl": "Flavors"
+    },
+    {
+        "idx": "sqlite_autoindex_ArtDefine_UnitMemberInfos_1",
+        "stat": "291 1",
+        "tbl": "ArtDefine_UnitMemberInfos"
+    },
+    {
+        "idx": null,
+        "stat": "7",
+        "tbl": "Building_SpecialistYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "2",
+        "tbl": "Building_UnitCombatProductionModifiers"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Policy_UnitCombatProductionModifiers"
+    },
+    {
+        "idx": null,
+        "stat": "7",
+        "tbl": "Policy_CityYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "7",
+        "tbl": "Terrain_HillsYieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "21",
+        "tbl": "UnitPromotions_UnitCombatMods"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Belief_YieldChangeAnySpecialist"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Trait_UnimprovedFeatureYieldChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_Leaders_1",
+        "stat": "19 1",
+        "tbl": "Leaders"
+    },
+    {
+        "idx": null,
+        "stat": "4",
+        "tbl": "Project_Prereqs"
+    },
+    {
+        "idx": null,
+        "stat": "31",
+        "tbl": "Policy_PrereqPolicies"
+    },
+    {
+        "idx": null,
+        "stat": "6",
+        "tbl": "Building_FreeUnits"
+    },
+    {
+        "idx": null,
+        "stat": "102",
+        "tbl": "AIEconomicStrategy_City_Flavors"
+    },
+    {
+        "idx": null,
+        "stat": "31",
+        "tbl": "GameSpeed_Turns"
+    },
+    {
+        "idx": null,
+        "stat": "4",
+        "tbl": "AIGrandStrategy_Flavors"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Building_HurryModifiers"
+    },
+    {
+        "idx": null,
+        "stat": "3",
+        "tbl": "Building_YieldChangesPerPop"
+    },
+    {
+        "idx": "sqlite_autoindex_Resolutions_1",
+        "stat": "18 1",
+        "tbl": "Resolutions"
+    },
+    {
+        "idx": null,
+        "stat": "3",
+        "tbl": "Belief_BuildingClassHappiness"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Trait_YieldChanges"
+    },
+    {
+        "idx": null,
+        "stat": "13",
+        "tbl": "Policy_BuildingClassProductionModifiers"
+    },
+    {
+        "idx": null,
+        "stat": "15",
+        "tbl": "Building_YieldModifiers"
+    },
+    {
+        "idx": null,
+        "stat": "135",
+        "tbl": "Technology_PrereqTechs"
+    },
+    {
+        "idx": null,
+        "stat": "2",
+        "tbl": "Process_ProductionYields"
+    },
+    {
+        "idx": null,
+        "stat": "19",
+        "tbl": "Civilization_FreeUnits"
+    },
+    {
+        "idx": "sqlite_autoindex_Missions_1",
+        "stat": "58 1",
+        "tbl": "Missions"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Policy_HurryModifiers"
+    },
+    {
+        "idx": null,
+        "stat": "75",
+        "tbl": "Civilization_UnitClassOverrides"
+    },
+    {
+        "idx": "sqlite_autoindex_MultiUnitPositions_1",
+        "stat": "4 1",
+        "tbl": "MultiUnitPositions"
+    },
+    {
+        "idx": null,
+        "stat": "9",
+        "tbl": "Resource_QuantityTypes"
+    },
+    {
+        "idx": null,
+        "stat": "19",
+        "tbl": "Civilization_FreeTechs"
+    },
+    {
+        "idx": null,
+        "stat": "4",
+        "tbl": "Civilization_Start_Region_Avoid"
+    },
+    {
+        "idx": null,
+        "stat": "18",
+        "tbl": "Civilization_Religions"
+    },
+    {
+        "idx": null,
+        "stat": "890",
+        "tbl": "Civilization_CityNames"
+    },
+    {
+        "idx": "sqlite_autoindex_MinorCivilizations_1",
+        "stat": "58 1",
+        "tbl": "MinorCivilizations"
+    },
+    {
+        "idx": "sqlite_autoindex_Specialists_1",
+        "stat": "7 1",
+        "tbl": "Specialists"
+    },
+    {
+        "idx": "sqlite_autoindex_IconFontTextures_1",
+        "stat": "1 1",
+        "tbl": "IconFontTextures"
+    },
+    {
+        "idx": null,
+        "stat": "271",
+        "tbl": "MinorCivilization_Flavors"
+    },
+    {
+        "idx": "sqlite_autoindex_Regions_1",
+        "stat": "9 1",
+        "tbl": "Regions"
+    },
+    {
+        "idx": "sqlite_autoindex_VoteSources_1",
+        "stat": "2 1",
+        "tbl": "VoteSources"
+    },
+    {
+        "idx": null,
+        "stat": "8",
+        "tbl": "Building_PrereqBuildingClasses"
+    },
+    {
+        "idx": null,
+        "stat": "18",
+        "tbl": "Building_ThemingBonuses"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Trait_ExtraYieldThresholds"
+    },
+    {
+        "idx": "sqlite_autoindex_BuildingClasses_1",
+        "stat": "84 1",
+        "tbl": "BuildingClasses"
+    },
+    {
+        "idx": null,
+        "stat": "120",
+        "tbl": "Era_Soundtracks"
+    },
+    {
+        "idx": "sqlite_autoindex_Routes_1",
+        "stat": "2 1",
+        "tbl": "Routes"
+    },
+    {
+        "idx": null,
+        "stat": "19",
+        "tbl": "Civilization_FreeBuildingClasses"
+    },
+    {
+        "idx": "sqlite_autoindex_GameSpeeds_1",
+        "stat": "4 1",
+        "tbl": "GameSpeeds"
+    },
+    {
+        "idx": null,
+        "stat": "2",
+        "tbl": "Automates"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Belief_YieldChangeNaturalWonder"
+    },
+    {
+        "idx": "sqlite_autoindex_CitySizes_1",
+        "stat": "3 1",
+        "tbl": "CitySizes"
+    },
+    {
+        "idx": null,
+        "stat": "26",
+        "tbl": "Trait_FreePromotionUnitCombats"
+    },
+    {
+        "idx": "Diplomacy_ResponsesIndex",
+        "stat": "355 19 2",
+        "tbl": "Diplomacy_Responses"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Improvement_TechFreshWaterYieldChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_ReplayDataSets_1",
+        "stat": "26 1",
+        "tbl": "ReplayDataSets"
+    },
+    {
+        "idx": null,
+        "stat": "1",
+        "tbl": "Policy_CapitalYieldModifiers"
+    },
+    {
+        "idx": null,
+        "stat": "3",
+        "tbl": "Building_SeaResourceYieldChanges"
+    },
+    {
+        "idx": "sqlite_autoindex_InvisibleInfos_1",
+        "stat": "1 1",
+        "tbl": "InvisibleInfos"
+    },
+    {
+        "idx": null,
+        "stat": "43",
+        "tbl": "BuildFeatures"
+    },
+    {
+        "idx": null,
+        "stat": "4",
+        "tbl": "SpecialistYields"
+    },
+    {
+        "idx": "sqlite_autoindex_Audio_SoundTypes_1",
+        "stat": "8 1",
+        "tbl": "Audio_SoundTypes"
+    },
+    {
+        "idx": "sqlite_autoindex_Traits_1",
+        "stat": "23 1",
+        "tbl": "Traits"
+    },
+    {
+        "idx": "sqlite_autoindex_EmphasizeInfos_1",
+        "stat": "5 1",
+        "tbl": "EmphasizeInfos"
+    },
+    {
+        "idx": "sqlite_autoindex_LeagueSpecialSessions_1",
+        "stat": "4 1",
+        "tbl": "LeagueSpecialSessions"
+    },
+    {
+        "idx": "sqlite_autoindex_CivilianAttackPriorities_1",
+        "stat": "4 1",
+        "tbl": "CivilianAttackPriorities"
+    },
+    {
+        "idx": "sqlite_autoindex_PlayerOptions_1",
+        "stat": "12 1",
+        "tbl": "PlayerOptions"
+    },
+    {
+        "idx": "sqlite_autoindex_UnitAIInfos_1",
+        "stat": "42 1",
+        "tbl": "UnitAIInfos"
+    },
+    {
+        "idx": null,
+        "stat": "2",
+        "tbl": "EmphasizeInfo_Yields"
+    },
+    {
+        "idx": null,
+        "stat": "29",
+        "tbl": "Resource_FeatureTerrainBooleans"
+    },
+    {
+        "idx": "sqlite_autoindex_Resources_1",
+        "stat": "28 1",
+        "tbl": "Resources"
+    },
+    {
+        "idx": null,
+        "stat": "28",
+        "tbl": "Era_NewEraVOs"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "BuildingType": "BUILDING_MADRASA",
+        "NewYieldType": "YIELD_FAITH",
+        "OldYieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_SHIPYARD",
+        "NewYieldType": "YIELD_PRODUCTION",
+        "OldYieldType": "YIELD_GOLD"
+    }
+]

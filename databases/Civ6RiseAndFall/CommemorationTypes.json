@@ -1,0 +1,101 @@
+[
+    {
+        "CategoryDescription": "LOC_MOMENT_CATEGORY_SCIENTIFIC",
+        "CommemorationType": "COMMEMORATION_SCIENTIFIC",
+        "DarkAgeBonusDescription": "LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_DARK_AGE",
+        "GoldenAgeBonusDescription": "LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_GOLDEN_AGE",
+        "MaximumGameEra": "ERA_MEDIEVAL",
+        "MinimumGameEra": "ERA_CLASSICAL",
+        "NormalAgeBonusDescription": "LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_NORMAL_AGE"
+    },
+    {
+        "CategoryDescription": "LOC_MOMENT_CATEGORY_CULTURAL",
+        "CommemorationType": "COMMEMORATION_CULTURAL",
+        "DarkAgeBonusDescription": "LOC_MOMENT_CATEGORY_CULTURAL_BONUS_DARK_AGE",
+        "GoldenAgeBonusDescription": "LOC_MOMENT_CATEGORY_CULTURAL_BONUS_GOLDEN_AGE",
+        "MaximumGameEra": "ERA_MEDIEVAL",
+        "MinimumGameEra": "ERA_CLASSICAL",
+        "NormalAgeBonusDescription": "LOC_MOMENT_CATEGORY_CULTURAL_BONUS_NORMAL_AGE"
+    },
+    {
+        "CategoryDescription": "LOC_MOMENT_CATEGORY_INFRASTRUCTURE",
+        "CommemorationType": "COMMEMORATION_INFRASTRUCTURE",
+        "DarkAgeBonusDescription": "LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_DARK_AGE",
+        "GoldenAgeBonusDescription": "LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_GOLDEN_AGE",
+        "MaximumGameEra": "ERA_RENAISSANCE",
+        "MinimumGameEra": "ERA_CLASSICAL",
+        "NormalAgeBonusDescription": "LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_NORMAL_AGE"
+    },
+    {
+        "CategoryDescription": "LOC_MOMENT_CATEGORY_RELIGIOUS",
+        "CommemorationType": "COMMEMORATION_RELIGIOUS",
+        "DarkAgeBonusDescription": "LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_DARK_AGE",
+        "GoldenAgeBonusDescription": "LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_GOLDEN_AGE",
+        "MaximumGameEra": "ERA_RENAISSANCE",
+        "MinimumGameEra": "ERA_CLASSICAL",
+        "NormalAgeBonusDescription": "LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_NORMAL_AGE"
+    },
+    {
+        "CategoryDescription": "LOC_MOMENT_CATEGORY_EXPLORATION",
+        "CommemorationType": "COMMEMORATION_EXPLORATION",
+        "DarkAgeBonusDescription": "LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_DARK_AGE",
+        "GoldenAgeBonusDescription": "LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_GOLDEN_AGE",
+        "MaximumGameEra": "ERA_INDUSTRIAL",
+        "MinimumGameEra": "ERA_RENAISSANCE",
+        "NormalAgeBonusDescription": "LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_NORMAL_AGE"
+    },
+    {
+        "CategoryDescription": "LOC_MOMENT_CATEGORY_ECONOMIC",
+        "CommemorationType": "COMMEMORATION_ECONOMIC",
+        "DarkAgeBonusDescription": "LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_DARK_AGE",
+        "GoldenAgeBonusDescription": "LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_GOLDEN_AGE",
+        "MaximumGameEra": "ERA_MODERN",
+        "MinimumGameEra": "ERA_RENAISSANCE",
+        "NormalAgeBonusDescription": "LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_NORMAL_AGE"
+    },
+    {
+        "CategoryDescription": "LOC_MOMENT_CATEGORY_INDUSTRIAL",
+        "CommemorationType": "COMMEMORATION_INDUSTRIAL",
+        "DarkAgeBonusDescription": "LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_DARK_AGE",
+        "GoldenAgeBonusDescription": "LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_GOLDEN_AGE",
+        "MaximumGameEra": "ERA_MODERN",
+        "MinimumGameEra": "ERA_INDUSTRIAL",
+        "NormalAgeBonusDescription": "LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_NORMAL_AGE"
+    },
+    {
+        "CategoryDescription": "LOC_MOMENT_CATEGORY_MILITARY",
+        "CommemorationType": "COMMEMORATION_MILITARY",
+        "DarkAgeBonusDescription": "LOC_MOMENT_CATEGORY_MILITARY_BONUS_DARK_AGE",
+        "GoldenAgeBonusDescription": "LOC_MOMENT_CATEGORY_MILITARY_BONUS_GOLDEN_AGE",
+        "MaximumGameEra": null,
+        "MinimumGameEra": "ERA_INDUSTRIAL",
+        "NormalAgeBonusDescription": "LOC_MOMENT_CATEGORY_MILITARY_BONUS_NORMAL_AGE"
+    },
+    {
+        "CategoryDescription": "LOC_MOMENT_CATEGORY_TOURISM",
+        "CommemorationType": "COMMEMORATION_TOURISM",
+        "DarkAgeBonusDescription": "LOC_MOMENT_CATEGORY_TOURISM_BONUS_DARK_AGE",
+        "GoldenAgeBonusDescription": "LOC_MOMENT_CATEGORY_TOURISM_BONUS_GOLDEN_AGE",
+        "MaximumGameEra": null,
+        "MinimumGameEra": "ERA_MODERN",
+        "NormalAgeBonusDescription": "LOC_MOMENT_CATEGORY_TOURISM_BONUS_NORMAL_AGE"
+    },
+    {
+        "CategoryDescription": "LOC_MOMENT_CATEGORY_AERONAUTICAL",
+        "CommemorationType": "COMMEMORATION_AERONAUTICAL",
+        "DarkAgeBonusDescription": "LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_DARK_AGE",
+        "GoldenAgeBonusDescription": "LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_GOLDEN_AGE",
+        "MaximumGameEra": null,
+        "MinimumGameEra": "ERA_ATOMIC",
+        "NormalAgeBonusDescription": "LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_NORMAL_AGE"
+    },
+    {
+        "CategoryDescription": "LOC_MOMENT_CATEGORY_ESPIONAGE",
+        "CommemorationType": "COMMEMORATION_ESPIONAGE",
+        "DarkAgeBonusDescription": "LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_DARK_AGE",
+        "GoldenAgeBonusDescription": "LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_GOLDEN_AGE",
+        "MaximumGameEra": null,
+        "MinimumGameEra": "ERA_ATOMIC",
+        "NormalAgeBonusDescription": "LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_NORMAL_AGE"
+    }
+]

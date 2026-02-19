@@ -1,0 +1,522 @@
+[
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": -2,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": -3,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": -6,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": -300,
+        "FlavorType": "FLAVOR_NUKE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": -300,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": -300,
+        "FlavorType": "FLAVOR_DIPLOMACY"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_ESPIONAGE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_TINY_CITY",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_AIR_CARRIER"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_SMALL_CITY",
+        "Flavor": -300,
+        "FlavorType": "FLAVOR_NUKE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_SMALL_CITY",
+        "Flavor": -300,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_SMALL_CITY",
+        "Flavor": -300,
+        "FlavorType": "FLAVOR_DIPLOMACY"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_SMALL_CITY",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_ESPIONAGE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_SMALL_CITY",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_AIR_CARRIER"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_NUKE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY",
+        "Flavor": -200,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY",
+        "Flavor": -50,
+        "FlavorType": "FLAVOR_DIPLOMACY"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_ESPIONAGE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY",
+        "Flavor": -40,
+        "FlavorType": "FLAVOR_AIR_CARRIER"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_LARGE_CITY",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_LARGE_CITY",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_LARGE_CITY",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_LARGE_CITY",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_LARGE_CITY",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_LARGE_CITY",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_LANDLOCKED",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_LANDLOCKED",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_LANDLOCKED",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_NAVAL_GROWTH"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_LANDLOCKED",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_NAVAL_TILE_IMPROVEMENT"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NEED_TILE_IMPROVERS",
+        "Flavor": 150,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_WANT_TILE_IMPROVERS",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_ENOUGH_TILE_IMPROVERS",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NEED_NAVAL_GROWTH",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_NAVAL_GROWTH"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NEED_NAVAL_GROWTH",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_WATER_CONNECTION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NEED_NAVAL_TILE_IMPROVEMENT",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_NAVAL_GROWTH"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NEED_NAVAL_TILE_IMPROVEMENT",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_NAVAL_TILE_IMPROVEMENT"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NEED_NAVAL_TILE_IMPROVEMENT",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_ENOUGH_NAVAL_TILE_IMPROVEMENT",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_NAVAL_TILE_IMPROVEMENT"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_HAVE_TRAINING_FACILITY",
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_HAVE_TRAINING_FACILITY",
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_HAVE_TRAINING_FACILITY",
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_HAVE_TRAINING_FACILITY",
+        "Flavor": -3,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_HAVE_TRAINING_FACILITY",
+        "Flavor": -3,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_HAVE_TRAINING_FACILITY",
+        "Flavor": -3,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_HAVE_TRAINING_FACILITY",
+        "Flavor": -3,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_HAVE_TRAINING_FACILITY",
+        "Flavor": -6,
+        "FlavorType": "FLAVOR_RECON"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_CAPITAL_NEED_SETTLER",
+        "Flavor": 350,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_CAPITAL_NEED_SETTLER",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_CAPITAL_UNDER_THREAT",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_CAPITAL_UNDER_THREAT",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_CAPITAL_UNDER_THREAT",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_CAPITAL_UNDER_THREAT",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_CAPITAL_UNDER_THREAT",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_CAPITAL_UNDER_THREAT",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_CAPITAL_UNDER_THREAT",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY_HIGH_DIFFICULTY",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY_HIGH_DIFFICULTY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY_HIGH_DIFFICULTY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY_HIGH_DIFFICULTY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MEDIUM_CITY_HIGH_DIFFICULTY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_ORIGINAL_CAPITAL",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_ORIGINAL_CAPITAL",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_FIRST_CULTURE_BUILDING",
+        "Flavor": 150,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_FIRST_CULTURE_BUILDING_EMERGENCY",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_FIRST_SCIENCE_BUILDING",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_FIRST_GOLD_BUILDING",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_FIRST_FAITH_BUILDING",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_FIRST_PRODUCTION_BUILDING",
+        "Flavor": 200,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NEED_INTERNATIONAL_LAND_TRADE_ROUTE",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_I_LAND_TRADE_ROUTE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NO_NEED_INTERNATIONAL_LAND_TRADE_ROUTE",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_I_LAND_TRADE_ROUTE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NEED_INTERNATIONAL_SEA_TRADE_ROUTE",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_I_SEA_TRADE_ROUTE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NO_NEED_INTERNATIONAL_SEA_TRADE_ROUTE",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_I_SEA_TRADE_ROUTE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_INTERNATIONAL_TRADE_DESTINATION",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_I_TRADE_ORIGIN"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_INTERNATIONAL_TRADE_ORIGIN",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_I_TRADE_DESTINATION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NEED_IMPROVEMENT_PRODUCTION",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_UNDER_BLOCKADE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_UNDER_BLOCKADE",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_UNDER_BLOCKADE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_IS_PUPPET",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_IS_PUPPET",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_IS_PUPPET",
+        "Flavor": -200,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_RIVER_CITY",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_RIVER_CITY",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MOUNTAIN_CITY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_FOREST_CITY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_HILL_CITY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_JUNGLE_CITY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_COAST_CITY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_MANY_TECHS_STOLEN",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_ESPIONAGE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_KEY_SCIENCE_CITY",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_ESPIONAGE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_GOOD_GP_CITY",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NEED_CULTURE_BUILDING",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_NEED_TOURISM_BUILDING",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AICityStrategyType": "AICITYSTRATEGY_GOOD_AIRLIFT_CITY",
+        "Flavor": 80,
+        "FlavorType": "FLAVOR_AIRLIFT"
+    }
+]

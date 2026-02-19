@@ -1,0 +1,173 @@
+[
+    {
+        "BehaviorTree": "Build Trigger Unit",
+        "HandlerId": "DEFAULT_HANDLER_MEET_CIV",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_MEET_CIV",
+        "UniquenessTag": "SCOUT",
+        "WinnowFunction": "HasScout"
+    },
+    {
+        "BehaviorTree": "Build Trigger Unit",
+        "HandlerId": "DEFAULT_HANDLER_ENCOUNTER_UNIT",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_ENCOUNTER_UNIT",
+        "UniquenessTag": "SCOUT",
+        "WinnowFunction": "HasScout"
+    },
+    {
+        "BehaviorTree": "Build Trigger Unit",
+        "HandlerId": "DEFAULT_HANDLER_TRAIN_UNIT",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_TRAIN_UNIT",
+        "UniquenessTag": "TRAIN",
+        "WinnowFunction": "CannotDeployUnit"
+    },
+    {
+        "BehaviorTree": "Build Trigger Unit",
+        "HandlerId": "DEFAULT_HANDLER_OWN_TWO_UNIT_TYPES",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_OWN_TWO_UNIT_TYPES",
+        "UniquenessTag": "TRAIN",
+        "WinnowFunction": null
+    },
+    {
+        "BehaviorTree": "Build Trigger Building",
+        "HandlerId": "DEFAULT_HANDLER_CONSTRUCT_BUILDING",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_CONSTRUCT_BUILDING",
+        "UniquenessTag": "BUILDING",
+        "WinnowFunction": "NoTechFor"
+    },
+    {
+        "BehaviorTree": "Build Trigger Unit",
+        "HandlerId": "DEFAULT_HANDLER_KILL_WITH",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_KILL_WITH",
+        "UniquenessTag": "KILL",
+        "WinnowFunction": "HasUnit"
+    },
+    {
+        "BehaviorTree": null,
+        "HandlerId": "DEFAULT_HANDLER_CLEAR_CAMP",
+        "LuaScript": null,
+        "OperationName": "Barb Camp Tech Boost",
+        "TechBoostType": "BOOST_TRIGGER_CLEAR_CAMP",
+        "UniquenessTag": "KILL",
+        "WinnowFunction": "NoCampKnowledge"
+    },
+    {
+        "BehaviorTree": "Build Trigger Unit",
+        "HandlerId": "DEFAULT_HANDLER_FIND_NATURAL_WONDER",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_FIND_NATURAL_WONDER",
+        "UniquenessTag": "SCOUT",
+        "WinnowFunction": "HasScout"
+    },
+    {
+        "BehaviorTree": "Build Trigger Unit",
+        "HandlerId": "DEFAULT_HANDLER_OWN_X_UNITS",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_OWN_X_UNITS_OF_TYPE",
+        "UniquenessTag": "TRAIN",
+        "WinnowFunction": "CannotDeployUnit"
+    },
+    {
+        "BehaviorTree": "Research Trigger Tech",
+        "HandlerId": "DEFAULT_HANDLER_RESEARCH_TECH",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_RESEARCH_TECH",
+        "UniquenessTag": "RESEARCH",
+        "WinnowFunction": null
+    },
+    {
+        "BehaviorTree": "Build City Improvement",
+        "HandlerId": "DEFAULT_HANDLER_IMPROVE_SPECIFIC_RESOURCE",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_IMPROVE_SPECIFIC_RESOURCE",
+        "UniquenessTag": "WORKER",
+        "WinnowFunction": "NoSpecificResource"
+    },
+    {
+        "BehaviorTree": "Build Trigger Unit",
+        "HandlerId": "DEFAULT_HANDLER_NUM_IMPROVED_TILES",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_NUM_IMPROVED_TILES",
+        "UniquenessTag": "WORKER",
+        "WinnowFunction": "HasAnyUnit"
+    },
+    {
+        "BehaviorTree": "Build Trigger Unit",
+        "HandlerId": "DEFAULT_HANDLER_MEET_X_PERCENT_CIVS_HAVE_DISTRICT",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_MEET_X_PERCENT_CIVS_HAVE_DISTRICT",
+        "UniquenessTag": "SCOUT",
+        "WinnowFunction": "HasScout"
+    },
+    {
+        "BehaviorTree": "Build Trigger Unit",
+        "HandlerId": "DEFAULT_HANDLER_MEET_CIVS_WITH_DISTRICT",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_MEET_X_PERCENT_CIVS_HAVE_DISTRICT",
+        "UniquenessTag": "SCOUT",
+        "WinnowFunction": "HasScout"
+    },
+    {
+        "BehaviorTree": "Build Trigger Unit",
+        "HandlerId": "DEFAULT_HANDLER_GOLD_PROFIT",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_GOLD_PROFIT",
+        "UniquenessTag": "TRADE",
+        "WinnowFunction": "HasTradeRoute"
+    },
+    {
+        "BehaviorTree": "Build Trigger Unit",
+        "HandlerId": "DEFAULT_HANDLER_HAVE_X_GOLD_HAVE_X_UNIT",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_HAVE_X_GOLD_HAVE_X_UNIT",
+        "UniquenessTag": "TRAIN",
+        "WinnowFunction": "HasUnit"
+    },
+    {
+        "BehaviorTree": "Build Trigger Building",
+        "HandlerId": "DEFAULT_HANDLER_HAVE_X_BUILDINGS",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_HAVE_X_BUILDINGS",
+        "UniquenessTag": "BUILDING",
+        "WinnowFunction": "NoTechFor"
+    },
+    {
+        "BehaviorTree": "Build Trigger Unit",
+        "HandlerId": "DEFAULT_HANDLER_MAINTAIN_X_TRADE_ROUTES",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_MAINTAIN_X_TRADE_ROUTES",
+        "UniquenessTag": "TRAIN",
+        "WinnowFunction": "HasTradeRoute"
+    },
+    {
+        "BehaviorTree": "Build City Improvement",
+        "HandlerId": "DEFAULT_HANDLER_HAVE_X_IMPROVEMENTS",
+        "LuaScript": null,
+        "OperationName": null,
+        "TechBoostType": "BOOST_TRIGGER_HAVE_X_IMPROVEMENTS",
+        "UniquenessTag": "WORKER",
+        "WinnowFunction": "NoResourceToImprove"
+    }
+]

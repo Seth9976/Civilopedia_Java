@@ -1,0 +1,187 @@
+[
+    {
+        "PromotionType": "PROMOTION_PRIZE_SHIPS",
+        "TraitType": "TRAIT_CONVERTS_SEA_BARBARIANS",
+        "UnitCombatType": "UNITCOMBAT_NAVALMELEE"
+    },
+    {
+        "PromotionType": "PROMOTION_OCEAN_MOVEMENT",
+        "TraitType": "TRAIT_OCEAN_MOVEMENT",
+        "UnitCombatType": "UNITCOMBAT_NAVALRANGED"
+    },
+    {
+        "PromotionType": "PROMOTION_OCEAN_MOVEMENT",
+        "TraitType": "TRAIT_OCEAN_MOVEMENT",
+        "UnitCombatType": "UNITCOMBAT_NAVALMELEE"
+    },
+    {
+        "PromotionType": "PROMOTION_OCEAN_MOVEMENT",
+        "TraitType": "TRAIT_OCEAN_MOVEMENT",
+        "UnitCombatType": "UNITCOMBAT_SUBMARINE"
+    },
+    {
+        "PromotionType": "PROMOTION_OCEAN_MOVEMENT",
+        "TraitType": "TRAIT_OCEAN_MOVEMENT",
+        "UnitCombatType": "UNITCOMBAT_CARRIER"
+    },
+    {
+        "PromotionType": "PROMOTION_SENTRY",
+        "TraitType": "TRAIT_RIVER_EXPANSION",
+        "UnitCombatType": "UNITCOMBAT_MELEE"
+    },
+    {
+        "PromotionType": "PROMOTION_SENTRY",
+        "TraitType": "TRAIT_RIVER_EXPANSION",
+        "UnitCombatType": "UNITCOMBAT_ARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_SENTRY",
+        "TraitType": "TRAIT_RIVER_EXPANSION",
+        "UnitCombatType": "UNITCOMBAT_RECON"
+    },
+    {
+        "PromotionType": "PROMOTION_SENTRY",
+        "TraitType": "TRAIT_RIVER_EXPANSION",
+        "UnitCombatType": "UNITCOMBAT_MOUNTED"
+    },
+    {
+        "PromotionType": "PROMOTION_SENTRY",
+        "TraitType": "TRAIT_RIVER_EXPANSION",
+        "UnitCombatType": "UNITCOMBAT_SIEGE"
+    },
+    {
+        "PromotionType": "PROMOTION_SENTRY",
+        "TraitType": "TRAIT_RIVER_EXPANSION",
+        "UnitCombatType": "UNITCOMBAT_GUN"
+    },
+    {
+        "PromotionType": "PROMOTION_SENTRY",
+        "TraitType": "TRAIT_RIVER_EXPANSION",
+        "UnitCombatType": "UNITCOMBAT_ARMOR"
+    },
+    {
+        "PromotionType": "PROMOTION_AMPHIBIOUS",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_MELEE"
+    },
+    {
+        "PromotionType": "PROMOTION_AMPHIBIOUS",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_ARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_AMPHIBIOUS",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_RECON"
+    },
+    {
+        "PromotionType": "PROMOTION_AMPHIBIOUS",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_MOUNTED"
+    },
+    {
+        "PromotionType": "PROMOTION_AMPHIBIOUS",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_SIEGE"
+    },
+    {
+        "PromotionType": "PROMOTION_AMPHIBIOUS",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_GUN"
+    },
+    {
+        "PromotionType": "PROMOTION_AMPHIBIOUS",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_ARMOR"
+    },
+    {
+        "PromotionType": "PROMOTION_WAR_CANOES",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_MELEE"
+    },
+    {
+        "PromotionType": "PROMOTION_WAR_CANOES",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_ARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_WAR_CANOES",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_RECON"
+    },
+    {
+        "PromotionType": "PROMOTION_WAR_CANOES",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_MOUNTED"
+    },
+    {
+        "PromotionType": "PROMOTION_WAR_CANOES",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_SIEGE"
+    },
+    {
+        "PromotionType": "PROMOTION_WAR_CANOES",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_GUN"
+    },
+    {
+        "PromotionType": "PROMOTION_WAR_CANOES",
+        "TraitType": "TRAIT_AMPHIB_WARLORD",
+        "UnitCombatType": "UNITCOMBAT_ARMOR"
+    },
+    {
+        "PromotionType": "PROMOTION_FREE_PILLAGE_MOVES",
+        "TraitType": "TRAIT_VIKING_FURY",
+        "UnitCombatType": "UNITCOMBAT_MELEE"
+    },
+    {
+        "PromotionType": "PROMOTION_FREE_PILLAGE_MOVES",
+        "TraitType": "TRAIT_VIKING_FURY",
+        "UnitCombatType": "UNITCOMBAT_MOUNTED"
+    },
+    {
+        "PromotionType": "PROMOTION_FREE_PILLAGE_MOVES",
+        "TraitType": "TRAIT_VIKING_FURY",
+        "UnitCombatType": "UNITCOMBAT_RECON"
+    },
+    {
+        "PromotionType": "PROMOTION_FREE_PILLAGE_MOVES",
+        "TraitType": "TRAIT_VIKING_FURY",
+        "UnitCombatType": "UNITCOMBAT_ARMOR"
+    },
+    {
+        "PromotionType": "PROMOTION_HOMELAND_GUARDIAN_BOOGALOO",
+        "TraitType": "TRAIT_GREAT_EXPANSE",
+        "UnitCombatType": "UNITCOMBAT_MELEE"
+    },
+    {
+        "PromotionType": "PROMOTION_HOMELAND_GUARDIAN_BOOGALOO",
+        "TraitType": "TRAIT_GREAT_EXPANSE",
+        "UnitCombatType": "UNITCOMBAT_ARCHER"
+    },
+    {
+        "PromotionType": "PROMOTION_HOMELAND_GUARDIAN_BOOGALOO",
+        "TraitType": "TRAIT_GREAT_EXPANSE",
+        "UnitCombatType": "UNITCOMBAT_RECON"
+    },
+    {
+        "PromotionType": "PROMOTION_HOMELAND_GUARDIAN_BOOGALOO",
+        "TraitType": "TRAIT_GREAT_EXPANSE",
+        "UnitCombatType": "UNITCOMBAT_MOUNTED"
+    },
+    {
+        "PromotionType": "PROMOTION_HOMELAND_GUARDIAN_BOOGALOO",
+        "TraitType": "TRAIT_GREAT_EXPANSE",
+        "UnitCombatType": "UNITCOMBAT_SIEGE"
+    },
+    {
+        "PromotionType": "PROMOTION_HOMELAND_GUARDIAN_BOOGALOO",
+        "TraitType": "TRAIT_GREAT_EXPANSE",
+        "UnitCombatType": "UNITCOMBAT_GUN"
+    },
+    {
+        "PromotionType": "PROMOTION_HOMELAND_GUARDIAN_BOOGALOO",
+        "TraitType": "TRAIT_GREAT_EXPANSE",
+        "UnitCombatType": "UNITCOMBAT_ARMOR"
+    }
+]

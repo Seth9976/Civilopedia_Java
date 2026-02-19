@@ -1,0 +1,1838 @@
+[
+    {
+        "DamageStates": 1,
+        "Formation": "ThreeBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_ANTI_AIRCRAFT_GUN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "ThreeBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_ANTI_TANK_GUN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Archer",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_ARCHER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_ARTILLERY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_ATOMIC_BOMB",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_BATTLESHIP",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "BomberWing",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_BOMBER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "ThreeBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CANNON",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CARAVEL",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CARRIER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CATAPULT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CAVALRY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "ChariotElephant",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CHARIOT_ARCHER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Archer",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CROSSBOWMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_DESTROYER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "FighterWing",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_FIGHTER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_FRIGATE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_GALLEY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_GUIDED_MISSILE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_HELICOPTER_GUNSHIP",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_HORSEMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_INFANTRY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_IRONCLAD",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "FighterWing",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_JET_FIGHTER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_KNIGHT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_LANCER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultMelee",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_LONGSWORDSMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Vehicle",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_MECH",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Vehicle",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_MECHANIZED_INFANTRY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_MISSILE_CRUISER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_ROCKET_ARTILLERY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Vehicle",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_MOBILE_SAM",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Vehicle",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_MODERN_ARMOR",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "HonorableGunpowder",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_MUSKETMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_NUCLEAR_MISSILE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_NUCLEAR_SUBMARINE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_PARATROOPER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Pikeman",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_PIKEMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "HonorableGunpowder",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_RIFLEMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Scout",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SCOUT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Phalanx",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SPEARMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "BomberWing",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_STEALTH_BOMBER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SUBMARINE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultMelee",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SWORDSMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Vehicle",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_TANK",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_TRANSPORT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_TREBUCHET",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_TRIREME",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Warrior",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT__WARRIOR",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_WORKBOAT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "EarlyGreatArtist",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_ARTIST",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_ENGINEER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_GENERAL",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "EarlyGreatMerchant",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_MERCHANT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SCIENTIST",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "BomberWing",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_AMERICAN_B17",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "HonorableGunpowder",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_AMERICAN_MINUTEMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_ARABIAN_CAMELARCHER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_AZTEC_JAGUAR",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Archer",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_CHINESE_CHUKONU",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "ChariotElephant",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_EGYPTIAN_WARCHARIOT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Archer",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_ENGLISH_LONGBOWMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_ENGLISH_SHIPOFTHELINE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_FRENCH_FOREIGNLEGION",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "HonorableGunpowder",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_FRENCH_MUSKETEER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Pikeman",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_GERMAN_LANDSKNECHT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Vehicle",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_GERMAN_PANZER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_GREEK_COMPANIONCAVALRY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Phalanx",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_GREEK_HOPLITE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "ChariotElephant",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_INDIAN_WARELEPHANT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_IROQUOIAN_MOHAWKWARRIOR",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Samurai",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_JAPANESE_SAMURAI",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "FighterWing",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_JAPANESE_ZERO",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "HonorableGunpowder",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_OTTOMAN_JANISSARY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_OTTOMAN_SIPAHI",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Phalanx",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_PERSIAN_IMMORTAL",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_ROMAN_BALLISTA",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Phalanx",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_ROMAN_LEGION",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_RUSSIAN_COSSACK",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "ChariotElephant",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_SIAMESE_WARELEPHANT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_SONGHAI_MUSLIMCAVALRY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "LooseCivilian",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT__WORKER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "LooseCivilian",
+        "IconAtlas": "UNIT_ATLAS_2",
+        "PortraitIndex": 43,
+        "Type": "ART_DEF_UNIT__WORKER_LATE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "LooseCivilian",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT__SETTLER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "LooseCivilian",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT__SETTLER_ASIA",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "LooseCivilian",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT__SETTLER_AMER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "LooseCivilian",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT__SETTLER_AFRI",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Barbarian",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_BARBARIAN_EURO",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Barbarian",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_BARBARIAN_ARCHER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Barbarian",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_BARBARIAN_SPEARMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Barbarian",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_BARBARIAN_SWORDSMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_BARBARIAN_GALLEY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_GALLEON",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SS_BOOSTER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SS_CAPSULE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SS_ENGINE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SS_STASIS_CHAMBER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": null,
+        "Formation": "",
+        "IconAtlas": "UNIT_ATLAS_2",
+        "PortraitIndex": 49,
+        "Type": "ART_DEF_UNIT_ARTIST_LATE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": null,
+        "Formation": "",
+        "IconAtlas": "UNIT_ATLAS_2",
+        "PortraitIndex": 52,
+        "Type": "ART_DEF_UNIT_ENGINEER_LATE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": null,
+        "Formation": "",
+        "IconAtlas": "UNIT_ATLAS_2",
+        "PortraitIndex": 53,
+        "Type": "ART_DEF_UNIT_GENERAL_LATE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": null,
+        "Formation": "",
+        "IconAtlas": "UNIT_ATLAS_2",
+        "PortraitIndex": 51,
+        "Type": "ART_DEF_UNIT_MERCHANT_LATE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": null,
+        "Formation": "",
+        "IconAtlas": "UNIT_ATLAS_2",
+        "PortraitIndex": 50,
+        "Type": "ART_DEF_UNIT_SCIENTIST_LATE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": null,
+        "Formation": "",
+        "IconAtlas": "SHARED_UNIT_PORTRAITS_ATLAS",
+        "PortraitIndex": 0,
+        "Type": "ART_DEF_UNIT_WORKBOAT_LATE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_GENERAL_KHAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_MONGOLIAN_KESHIK",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_SPANISH_CONQUISTADOR",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Archer",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_INCAN_SLINGER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_SPANISH_GALLEON",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "OffsetPikeman",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_SPANISH_TERCIO",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_SPANISH_TREASURE_CART",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_PRIVATEER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_POLYNESIAN_WAR_CANOE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_POLYNESIAN_MAORI_WARRIOR",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_DANISH_BERSERKER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "HonorableGunpowder",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_DANISH_SKI_INFANTRY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_DANISH_LONGBOAT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "FighterWing",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_SAXON_HUSCARL",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_KOREAN_HWACHA",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_KOREAN_TURTLESHIP",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_HITTITE_WARCHARIOT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Phalanx",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_SUMERIAN_PHALANX",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_DUTCH_SEA_BEGGARS",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Archer",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_MAYAN_ATLALIST",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Archer",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_BABYLONIAN_BOWMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_GREAT_ADMIRAL",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "EXPANSION_UNIT_ATLAS_1",
+        "PortraitIndex": 15,
+        "Type": "ART_DEF_UNIT_GREAT_ADMIRAL_LATE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_AUSTRIAN_HUSSAR",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_BYZANTIUM_CATAPHRACT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_BYZANTIUM_DROMON",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "ChariotElephant",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_CARTHAGE_AFRICANFOREST_ELEPHANT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_CARTHAGE_QUINQUEREME",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_CELT_PICTISH_WARRIOR",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "HonorableGunpowder",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_ETHIOPIA_MEHAL_SEFARI",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Archer",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_COMPOSITE_BOWMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "ThreeBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_MACHINEGUN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_GALLEASS",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "ThreeBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_GATLINGGUN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "EarlyGreatArtist",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_GREAT_PROPHET",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "EarlyGreatArtist",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_MISSIONARY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "EarlyGreatArtist",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_INQUISITOR",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_XP_PRIVATEER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_HUNS_BATTERING_RAM",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_HUNS_HORSE_ARCHER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_MARINE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "HonorableGunpowder",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_SWEDISH_CAROLEAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_SWEDISH_HAKKAPELITTA",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "BomberWing",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_WW1_BOMBER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "FighterWing",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_WW1_FIGHTER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_WW1_INFANTRY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_WW1_TANK",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_WW2_INFANTRY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CONFEDERATE_ARTILLERY_NAPOLEON",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CONFEDERATE_ARTILLERY_PARROTT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CONFEDERATE_IRONCLAD",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CONFEDERATE_CAVALRY_CARBINE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CONFEDERATE_CAVALRY_PISTOL",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_UNION_ARTILLERY_NAPOLEON",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_UNION_ARTILLERY_PARROTT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_UNION_IRONCLAD",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_UNION_CAVALRY_CARBINE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_UNION_CAVALRY_PISTOL",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "HonorableGunpowder",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_UNION_DIVISION",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "HonorableGunpowder",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_UNION_CORPS",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SMOKEY_LANDSHIP_LEVEL_3",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SMOKEY_LANDSHIP_LEVEL_2",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SMOKEY_LANDSHIP_LEVEL_1",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "FighterWing",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SMOKEY_STEAM_FIGHTER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "FighterWing",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SMOKEY_STEAM_AIRSHIP",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "FighterWing",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SMOKEY_STEAM_AIRSHIP_LEVEL_1",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_GADRAUHTS_SWORDSMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "HonorableGunpowder",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CONFEDERATE_DIVISION",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "HonorableGunpowder",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CONFEDERATE_CORPS",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "ThreeInLine",
+        "IconAtlas": "EXPANSION2_UNIT_ATLAS",
+        "PortraitIndex": 3,
+        "Type": "ART_DEF_UNIT_CARAVAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TheeInLineStag",
+        "IconAtlas": "EXPANSION2_UNIT_ATLAS",
+        "PortraitIndex": 23,
+        "Type": "ART_DEF_UNIT_CARAVAN_POSTMODERN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "EarlyGreatArtist",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_EXPLORER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "EXPANSION2_UNIT_ATLAS",
+        "PortraitIndex": 4,
+        "Type": "ART_DEF_UNIT_CARGO_SHIP",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "EXPANSION2_UNIT_ATLAS",
+        "PortraitIndex": 21,
+        "Type": "ART_DEF_UNIT_CARGO_SHIP_RENAISSANCE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "EXPANSION2_UNIT_ATLAS",
+        "PortraitIndex": 22,
+        "Type": "ART_DEF_UNIT_CARGO_SHIP_POSTMODERN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_ARCHAEOLOGIST",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "ThreeBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_BAZOOKA_INFANTRY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "EXPANSION2_UNIT_ATLAS",
+        "PortraitIndex": 8,
+        "Type": "ART_DEF_UNIT_GREAT_WRITER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "EXPANSION2_UNIT_ATLAS",
+        "PortraitIndex": 26,
+        "Type": "ART_DEF_UNIT_GREAT_WRITER_POSTMODERN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "EXPANSION2_UNIT_ATLAS",
+        "PortraitIndex": 6,
+        "Type": "ART_DEF_UNIT_GREAT_ARTIST",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "EXPANSION2_UNIT_ATLAS",
+        "PortraitIndex": 24,
+        "Type": "ART_DEF_UNIT_GREAT_ARTIST_POSTMODERN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "EarlyGreatArtist",
+        "IconAtlas": "EXPANSION2_UNIT_ATLAS",
+        "PortraitIndex": 7,
+        "Type": "ART_DEF_UNIT_GREAT_MUSICIAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "EarlyGreatArtist",
+        "IconAtlas": "EXPANSION2_UNIT_ATLAS",
+        "PortraitIndex": 25,
+        "Type": "ART_DEF_UNIT_GREAT_MUSICIAN_POSTMODERN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Archer",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_HAND_AXE_BARBARIAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "TwoBigGuns",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_ASSYRIAN_SIEGE_TOWER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_BRAZILIAN_PRACINHAS",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultMelee",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_INDONESIAN_KRIS_SWORDSMAN",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_MORROCAN_BERBER_CAVALRY",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_POLISH_WINGED_HUSSAR",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_PORTUGUESE_CARRACK",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "Scout",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_SHOSHONE_PATHFINDER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "DefaultCavalry",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_SHOSHONE_COMANCHE_RIDERS",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 3,
+        "Formation": "",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_VENETIAN_GALLEASS",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "EarlyGreatMerchant",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_VENETIAN_MERCHANT",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "EarlyGreatArtist",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_XCOM_SQUAD",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_U_ZULU_IMPI_WARRIOR",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_MILITARY_ENGINEER",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_CONFEDERATE_GENERAL",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_UNION_GENERAL",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "UnFormed",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SCRAMBLE_FORCE_PUBLIQUE",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    },
+    {
+        "DamageStates": 1,
+        "Formation": "HonorableGunpowder",
+        "IconAtlas": "",
+        "PortraitIndex": null,
+        "Type": "ART_DEF_UNIT_SCRAMBLE_FOREIGN_VOLUNTEERS",
+        "UnitFlagAtlas": "",
+        "UnitFlagIconOffset": null
+    }
+]

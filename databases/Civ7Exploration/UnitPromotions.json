@@ -1,0 +1,590 @@
+[
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_COMMENDATION_ARMY_VALOR_DESCRIPTION",
+        "Name": "LOC_COMMENDATION_VALOR_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_VALOR"
+    },
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_COMMENDATION_DUTY_DESCRIPTION",
+        "Name": "LOC_COMMENDATION_DUTY_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_DUTY"
+    },
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_COMMENDATION_ARMY_SERVICE_DESCRIPTION",
+        "Name": "LOC_COMMENDATION_SERVICE_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_SERVICE"
+    },
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_COMMENDATION_MERIT_DESCRIPTION",
+        "Name": "LOC_COMMENDATION_MERIT_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_MERIT"
+    },
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_COMMENDATION_ARMY_ORDER_DESCRIPTION",
+        "Name": "LOC_COMMENDATION_ORDER_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_ORDER"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_STEADFAST_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_STEADFAST_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_STEADFAST"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_BULWARK_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_BULWARK_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_BULWARK"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_HOLD_THE_LINE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_HOLD_THE_LINE_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_HOLD_THE_LINE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_DEFILADE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_DEFILADE_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_DEFILADE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_GARRISON_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_GARRISON_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_GARRISON"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_RESOLUTE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_RESOLUTE_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_RESOLUTE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_INITIATIVE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_INITIATIVE_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_INITIATIVE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_ROUT_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_ROUT_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_ROUT"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_STORM_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_STORM_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_STORM"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_SHOCK_TACTICS_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_SHOCK_TACTICS_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_SHOCK_TACTICS"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_ENFILADE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_ENFILADE_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_ENFILADE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_ADVANCEMENT_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_ADVANCEMENT_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_ADVANCEMENT"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_QUARTERMASTER_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_QUARTERMASTER_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_QUARTERMASTER"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_RECRUITMENT_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_RECRUITMENT_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_RECRUITMENT"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_REGIMENTS_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_REGIMENTS_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_REGIMENTS"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_FIELD_MEDIC_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_FIELD_MEDIC_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_FIELD_MEDIC"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_LOOTING_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_LOOTING_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_LOOTING"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_SURVIVAL_TRAINING_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_SURVIVAL_TRAINING_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_SURVIVAL_TRAINING"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_MOBILITY_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_MOBILITY_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_MOBILITY"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_HARASSMENT_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_HARASSMENT_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_HARASSMENT"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_REDEPLOY_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_REDEPLOY_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_REDEPLOY"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_AMPHIBIOUS_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_AMPHIBIOUS_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_AMPHIBIOUS"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_PATHFINDER_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_PATHFINDER_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_PATHFINDER"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_AREA_DENIAL_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_AREA_DENIAL_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_AREA_DENIAL"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_ZEAL_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_ZEAL_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_ZEAL"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_FIELD_COMMISSION_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_FIELD_COMMISSION_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_FIELD_COMMISSION"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_OLD_GUARD_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_OLD_GUARD_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_OLD_GUARD"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_RESILIENCE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_RESILIENCE_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_RESILIENCE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_ONSLAUGHT_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_ONSLAUGHT_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_ONSLAUGHT"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_BARRAGE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_BARRAGE_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_BARRAGE"
+    },
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_COMMENDATION_FLEET_VALOR_DESCRIPTION",
+        "Name": "LOC_COMMENDATION_VALOR_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_VALOR"
+    },
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_COMMENDATION_DUTY_DESCRIPTION",
+        "Name": "LOC_COMMENDATION_DUTY_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_DUTY"
+    },
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_COMMENDATION_FLEET_SERVICE_DESCRIPTION",
+        "Name": "LOC_COMMENDATION_SERVICE_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_SERVICE"
+    },
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_COMMENDATION_MERIT_DESCRIPTION",
+        "Name": "LOC_COMMENDATION_MERIT_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_MERIT"
+    },
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_COMMENDATION_FLEET_ORDER_DESCRIPTION",
+        "Name": "LOC_COMMENDATION_ORDER_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_ORDER"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_SHELLING_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_SHELLING_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_SHELLING"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_NAVAL_ARTILLERY_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_NAVAL_ARTILLERY_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_NAVAL_ARTILLERY"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_SPOTTER_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_SPOTTER_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_SPOTTER"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_SECONDARY_ARMAMENT_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_SECONDARY_ARMAMENT_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_SECONDARY_ARMAMENT"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_GUNFIRE_SUPPORT_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_GUNFIRE_SUPPORT_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_GUNFIRE_SUPPORT"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_REINFORCED_HULL_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_REINFORCED_HULL_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_REINFORCED_HULL"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_WEATHER_GAGE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_WEATHER_GAGE_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_WEATHER_GAGE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_RAKING_FIRE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_RAKING_FIRE_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_RAKING_FIRE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_SALVO_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_SALVO_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_SALVO"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_FUSILLADE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_FUSILLADE_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_FUSILLADE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_QUARTERMASTER_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_QUARTERMASTER_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_QUARTERMASTER"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_WARSHIPS_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_WARSHIPS_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_WARSHIPS"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_FLOTILLA_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_FLOTILLA_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_FLOTILLA"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_SHIPS_TENDER_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_SHIPS_TENDER_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_SHIPS_TENDER"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_LOOTING_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_LOOTING_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_LOOTING"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_CHARTS_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_CHARTS_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_CHARTS"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_LOOKOUT_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_LOOKOUT_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_LOOKOUT"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_CROSSING_THE_T_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_CROSSING_THE_T_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_CROSSING_THE_T"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_BRACE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_BRACE_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_BRACE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_DEAD_RECKONING_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_DEAD_RECKONING_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_DEAD_RECKONING"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_ZEAL_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_ZEAL_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_ZEAL"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_FIELD_COMMISSION_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_FIELD_COMMISSION_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_FIELD_COMMISSION"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_FLAGSHIP_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_FLAGSHIP_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_FLAGSHIP"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_CONVOYS_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_CONVOYS_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_CONVOYS"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_FLEET_BARRAGE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_FLEET_BARRAGE_NAME",
+        "UnitPromotionType": "PROMOTION_FLEET_BARRAGE"
+    },
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_COMMENDATION_SQUADRON_ACHIEVEMENT_DESCRIPTION",
+        "Name": "LOC_COMMENDATION_ACHIEVEMENT_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_SQUADRON_ACHIEVEMENT"
+    },
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_COMMENDATION_SQUADRON_SERVICE_DESCRIPTION",
+        "Name": "LOC_COMMENDATION_SERVICE_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_SQUADRON_SERVICE"
+    },
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_COMMENDATION_SQUADRON_ORDER_DESCRIPTION",
+        "Name": "LOC_COMMENDATION_ORDER_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_SQUADRON_ORDER"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_SYNCHRONIZATION_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_SYNCHRONIZATION_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_SYNCHRONIZATION"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_EVASIVE_MANEUVERS_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_EVASIVE_MANEUVERS_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_EVASIVE_MANEUVERS"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_COMBAT_SPREAD_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_COMBAT_SPREAD_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_COMBAT_SPREAD"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_ACE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_ACE_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_ACE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_TACTICAL_STRIKE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_TACTICAL_STRIKE_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_TACTICAL_STRIKE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_FORMATIONS_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_FORMATIONS_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_FORMATIONS"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_SATURATION_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_SATURATION_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_SATURATION"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_OBLITERATION_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_OBLITERATION_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_OBLITERATION"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_CARRIER_BATTLE_GROUP_DESCRIPTION",
+        "Name": "LOC_PROMOTION_CARRIER_BATTLE_GROUP_NAME",
+        "UnitPromotionType": "PROMOTION_CARRIER_BATTLE_GROUP"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_AERODROME_ADVANCED_LANDING_GROUND_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND_NAME",
+        "UnitPromotionType": "PROMOTION_AERODROME_ADVANCED_LANDING_GROUND"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_FIELD_COMMISSION_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_FIELD_COMMISSION_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_FIELD_COMMISSION"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_AERODROME_FIELD_COMMISSION_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_FIELD_COMMISSION_NAME",
+        "UnitPromotionType": "PROMOTION_AERODROME_FIELD_COMMISSION"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_AERIAL_RECONNIASSANCE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_AERIAL_RECONNIASSANCE_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_AERIAL_RECONNIASSANCE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_DANGER_CLOSE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_DANGER_CLOSE_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_DANGER_CLOSE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_AIRBORNE_FORCES_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_AIRBORNE_FORCES_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_AIRBORNE_FORCES"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_CARGO_DROP_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_CARGO_DROP_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_CARGO_DROP"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_LOW_LEVEL_EXTRACTION_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_LOW_LEVEL_EXTRACTION_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_LOW_LEVEL_EXTRACTION"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_VERTICAL_ENVELOPMENT_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_VERTICAL_ENVELOPMENT_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_VERTICAL_ENVELOPMENT"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_FLIGHT_DECK_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_FLIGHT_DECK_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_FLIGHT_DECK"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_TORPEDO_BOMBERS_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_TORPEDO_BOMBERS_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_TORPEDO_BOMBERS"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_SQUADRON_SPOTTING_DESCRIPTION",
+        "Name": "LOC_PROMOTION_SQUADRON_SPOTTING_NAME",
+        "UnitPromotionType": "PROMOTION_SQUADRON_SPOTTING"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_CARRIER_SUPERCARRIER_DESCRIPTION",
+        "Name": "LOC_PROMOTION_CARRIER_SUPERCARRIER_NAME",
+        "UnitPromotionType": "PROMOTION_CARRIER_SUPERCARRIER"
+    },
+    {
+        "Commendation": 1,
+        "Description": "LOC_PROMOTION_TRUNG_COMMENDATION_DUTY_DESCRIPTION",
+        "Name": "LOC_PROMOTION_TRUNG_COMMENDATION_DUTY_NAME",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_TRUNG_NHI_DUTY"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_TRUNG_NHI_METTLE_COURAGE_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_TRUNG_NHI_METTLE_COURAGE_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_METTLE_COURAGE"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_TRUNG_NHI_LAC_REBELLION_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_TRUNG_NHI_LAC_REBELLION_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_LAC_REBELLION"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_TRUNG_NHI_ONE_SINGLE_CRY_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_TRUNG_NHI_ONE_SINGLE_CRY_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_ONE_SINGLE_CRY"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_TRUNG_NHI_65_STRONGHOLDS_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_TRUNG_NHI_65_STRONGHOLDS_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_65_STRONGHOLDS"
+    },
+    {
+        "Commendation": 0,
+        "Description": "LOC_PROMOTION_ARMY_TRUNG_NHI_HAI_BA_TRUNG_DESCRIPTION",
+        "Name": "LOC_PROMOTION_ARMY_TRUNG_NHI_HAI_BA_TRUNG_NAME",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_HAI_BA_TRUNG"
+    }
+]

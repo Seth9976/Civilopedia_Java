@@ -1,0 +1,74 @@
+[
+    {
+        "TargetType": "TARGET_MY_CITY"
+    },
+    {
+        "TargetType": "TARGET_NEUTRAL_CITY"
+    },
+    {
+        "TargetType": "TARGET_ENEMY_CITY"
+    },
+    {
+        "TargetType": "TARGET_MY_CITY_RAZING"
+    },
+    {
+        "TargetType": "TARGET_NEUTRAL_CIVILIAN"
+    },
+    {
+        "TargetType": "TARGET_ENEMY_CIVILIAN"
+    },
+    {
+        "TargetType": "TARGET_TRADE_UNIT"
+    },
+    {
+        "TargetType": "TARGET_LOW_PRIORITY_UNIT"
+    },
+    {
+        "TargetType": "TARGET_MEDIUM_PRIORITY_UNIT"
+    },
+    {
+        "TargetType": "TARGET_HIGH_PRIORITY_UNIT"
+    },
+    {
+        "TargetType": "TARGET_AIR_UNIT"
+    },
+    {
+        "TargetType": "TARGET_NEW_CITY"
+    },
+    {
+        "TargetType": "TARGET_TREASURE_FLEET"
+    },
+    {
+        "TargetType": "TARGET_MY_EXPANSION"
+    },
+    {
+        "TargetType": "TARGET_ENEMY_EXPANSION"
+    },
+    {
+        "TargetType": "TARGET_NEUTRAL_EXPANSION"
+    },
+    {
+        "TargetType": "TARGET_ENEMY_INDEPENDENT"
+    },
+    {
+        "TargetType": "TARGET_NEUTRAL_INDEPENDENT"
+    },
+    {
+        "TargetType": "TARGET_SUZERAIN_SUPPORT"
+    },
+    {
+        "TargetType": "TARGET_FRIENDLY_EMBARKED"
+    },
+    {
+        "TargetType": "TARGET_MY_COAST"
+    },
+    {
+        "TargetType": "TARGET_NAVAL_SUPERIORITY"
+    },
+    {
+        "TargetType": "TARGET_DISTANT_LANDS"
+    },
+    {
+        "TargetType": "TARGET_PRIVATEER_ALLOWED"
+    }
+]

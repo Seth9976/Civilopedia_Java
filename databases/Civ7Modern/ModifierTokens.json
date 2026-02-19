@@ -1,0 +1,80 @@
+[
+    {
+        "FavorsGiven": 1000,
+        "GrievancesGiven": 1000,
+        "RelationshipModifier": "FG_TOKEN_PRECISION",
+        "UseSupportEvent": 0
+    },
+    {
+        "FavorsGiven": 10,
+        "GrievancesGiven": 10,
+        "RelationshipModifier": "FG_TOKEN_FADE_PERCENT",
+        "UseSupportEvent": 0
+    },
+    {
+        "FavorsGiven": 1000,
+        "GrievancesGiven": 0,
+        "RelationshipModifier": "CITY_LIBERATED",
+        "UseSupportEvent": 0
+    },
+    {
+        "FavorsGiven": 1000,
+        "GrievancesGiven": 0,
+        "RelationshipModifier": "TOWN_LIBERATED",
+        "UseSupportEvent": 0
+    },
+    {
+        "FavorsGiven": 1000,
+        "GrievancesGiven": 0,
+        "RelationshipModifier": "CITY_RETURNED",
+        "UseSupportEvent": 0
+    },
+    {
+        "FavorsGiven": 1000,
+        "GrievancesGiven": 0,
+        "RelationshipModifier": "TOWN_RETURNED",
+        "UseSupportEvent": 0
+    },
+    {
+        "FavorsGiven": 1000,
+        "GrievancesGiven": 0,
+        "RelationshipModifier": "PEACE_DECLARED",
+        "UseSupportEvent": 0
+    },
+    {
+        "FavorsGiven": 0,
+        "GrievancesGiven": 30000,
+        "RelationshipModifier": "CITY_OCCUPIED",
+        "UseSupportEvent": 0
+    },
+    {
+        "FavorsGiven": 0,
+        "GrievancesGiven": 10000,
+        "RelationshipModifier": "TOWN_OCCUPIED",
+        "UseSupportEvent": 0
+    },
+    {
+        "FavorsGiven": 0,
+        "GrievancesGiven": 5000,
+        "RelationshipModifier": "CITY_RAZED",
+        "UseSupportEvent": 0
+    },
+    {
+        "FavorsGiven": 0,
+        "GrievancesGiven": 5000,
+        "RelationshipModifier": "TOWN_RAZED",
+        "UseSupportEvent": 0
+    },
+    {
+        "FavorsGiven": 0,
+        "GrievancesGiven": 1000,
+        "RelationshipModifier": "WAR_DECLARED",
+        "UseSupportEvent": 0
+    },
+    {
+        "FavorsGiven": 0,
+        "GrievancesGiven": 0,
+        "RelationshipModifier": "SUPPORT_ACTION",
+        "UseSupportEvent": 1
+    }
+]

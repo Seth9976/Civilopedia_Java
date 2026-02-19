@@ -1,0 +1,72 @@
+[
+    {
+        "Amount": 5,
+        "CategoryText": "LOC_UNHAPPINESS_EFFECT_CITY_STARVING_CATEGORY",
+        "Condition": "CityStarving",
+        "Description": "LOC_UNHAPPINESS_EFFECT_CITY_STARVING_DESC",
+        "Duration": null,
+        "ID": "StandardCityStarving",
+        "Ongoing": 1,
+        "ScaleBySpeed": 0
+    },
+    {
+        "Amount": 5,
+        "CategoryText": "LOC_UNHAPPINESS_EFFECT_CITY_NO_FRESH_WATER_CATEGORY",
+        "Condition": "CityNoFreshWater",
+        "Description": "LOC_UNHAPPINESS_EFFECT_CITY_NO_FRESH_WATER_DESC",
+        "Duration": null,
+        "ID": "StandardCityNoFreshWater",
+        "Ongoing": 1,
+        "ScaleBySpeed": 0
+    },
+    {
+        "Amount": 15,
+        "CategoryText": "LOC_UNHAPPINESS_EFFECT_CITY_TRANSFER_UNREST_CATEGORY",
+        "Condition": "CityTransferUnrest",
+        "Description": "LOC_UNHAPPINESS_EFFECT_CITY_TRANSFER_UNREST_DESC",
+        "Duration": 10,
+        "ID": "StandardCityTransferUnrest",
+        "Ongoing": 0,
+        "ScaleBySpeed": 1
+    },
+    {
+        "Amount": 0,
+        "CategoryText": "LOC_UNHAPPINESS_EFFECT_CITY_REVOLT_CATEGORY",
+        "Condition": "CityRevolt",
+        "Description": "LOC_UNHAPPINESS_EFFECT_CITY_REVOLT_DESC",
+        "Duration": 10,
+        "ID": "StandardCityRevolt",
+        "Ongoing": 1,
+        "ScaleBySpeed": 0
+    },
+    {
+        "Amount": 0,
+        "CategoryText": "LOC_UNHAPPINESS_EFFECT_RELIGIOUS_REVOLT_CATEGORY",
+        "Condition": "ReligiousRevolt",
+        "Description": "LOC_UNHAPPINESS_EFFECT_RELIGIOUS_REVOLT_DESC",
+        "Duration": 10,
+        "ID": "ReligiousCityRevolt",
+        "Ongoing": 1,
+        "ScaleBySpeed": 0
+    },
+    {
+        "Amount": 0,
+        "CategoryText": "LOC_UNHAPPINESS_EFFECT_CITY_REVOLT_CATEGORY",
+        "Condition": "CityRioting",
+        "Description": "LOC_UNHAPPINESS_EFFECT_CITY_REVOLT_DESC",
+        "Duration": null,
+        "ID": "StandardCityRioting",
+        "Ongoing": 1,
+        "ScaleBySpeed": 0
+    },
+    {
+        "Amount": 10,
+        "CategoryText": "LOC_UNHAPPINESS_EFFECT_CITY_STARVING_CATEGORY",
+        "Condition": "PlagueUnrest",
+        "Description": "LOC_UNHAPPINESS_EFFECT_CITY_STARVING_DESC",
+        "Duration": 6,
+        "ID": "PlagueCityUnrest",
+        "Ongoing": 1,
+        "ScaleBySpeed": 1
+    }
+]

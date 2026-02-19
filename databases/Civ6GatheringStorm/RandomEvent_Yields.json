@@ -1,0 +1,578 @@
+[
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 50,
+        "RandomEventType": "RANDOM_EVENT_EYJAFJALLAJOKULL_CATASTROPHIC",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 25,
+        "RandomEventType": "RANDOM_EVENT_EYJAFJALLAJOKULL_CATASTROPHIC",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_EYJAFJALLAJOKULL_CATASTROPHIC",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 75,
+        "RandomEventType": "RANDOM_EVENT_EYJAFJALLAJOKULL_MEGACOLOSSAL",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 35,
+        "RandomEventType": "RANDOM_EVENT_EYJAFJALLAJOKULL_MEGACOLOSSAL",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_EYJAFJALLAJOKULL_MEGACOLOSSAL",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "Percentage": 25,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MODERATE",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MODERATE",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MODERATE",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MAJOR",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MAJOR",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "Percentage": 25,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MAJOR",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MAJOR",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "Percentage": 45,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MAJOR",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_MAJOR",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "Percentage": 45,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_1000_YEAR",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "Percentage": 25,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_1000_YEAR",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "Percentage": 40,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_1000_YEAR",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "Percentage": 40,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_1000_YEAR",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "Percentage": 60,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_1000_YEAR",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_FLOOD_1000_YEAR",
+        "ReplaceFeature": 0,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 50,
+        "RandomEventType": "RANDOM_EVENT_KILIMANJARO_GENTLE",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 25,
+        "RandomEventType": "RANDOM_EVENT_KILIMANJARO_GENTLE",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 50,
+        "RandomEventType": "RANDOM_EVENT_KILIMANJARO_CATASTROPHIC",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 35,
+        "RandomEventType": "RANDOM_EVENT_KILIMANJARO_CATASTROPHIC",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_KILIMANJARO_CATASTROPHIC",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 25,
+        "RandomEventType": "RANDOM_EVENT_VESUVIUS_MEGACOLOSSAL",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 25,
+        "RandomEventType": "RANDOM_EVENT_VESUVIUS_MEGACOLOSSAL",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 25,
+        "RandomEventType": "RANDOM_EVENT_VESUVIUS_MEGACOLOSSAL",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 50,
+        "RandomEventType": "RANDOM_EVENT_VESUVIUS_MEGACOLOSSAL",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 35,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_GENTLE",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_GENTLE",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 50,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_CATASTROPHIC",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 25,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_CATASTROPHIC",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_CATASTROPHIC",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 75,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MEGACOLOSSAL",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 35,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MEGACOLOSSAL",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_VOLCANO_MEGACOLOSSAL",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_ICE",
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_SIGNIFICANT",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_ICE",
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_CRIPPLING",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_ICE",
+        "Percentage": 10,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_GRADIENT",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_ICE",
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_GRADIENT",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_ICE",
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_HABOOB",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_ICE",
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_HABOOB",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_ICE",
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_4",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_ICE",
+        "Percentage": 45,
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_5",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_ICE",
+        "Percentage": 15,
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_5",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 0,
+        "FeatureType": "FEATURE_BURNING_JUNGLE",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE",
+        "ReplaceFeature": 1,
+        "Turn": 0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_BURNT_JUNGLE",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE",
+        "ReplaceFeature": 1,
+        "Turn": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_JUNGLE",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE",
+        "ReplaceFeature": 1,
+        "Turn": 6,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 0,
+        "FeatureType": "FEATURE_BURNING_FOREST",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE",
+        "ReplaceFeature": 1,
+        "Turn": 0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_BURNT_FOREST",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE",
+        "ReplaceFeature": 1,
+        "Turn": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FOREST",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE",
+        "ReplaceFeature": 1,
+        "Turn": 6,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_ICE",
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_TRIGGERED",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_ICE",
+        "Percentage": 20,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_TRIGGERED",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_ICE",
+        "Percentage": 30,
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_TRIGGERED",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 0,
+        "FeatureType": "FEATURE_COMET_LAKE",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_COMET_STRIKE",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Amount": 0,
+        "FeatureType": "FEATURE_COMET_LAKE",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_COMET_STRIKE_TARGETED",
+        "ReplaceFeature": 1,
+        "Turn": null,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "Amount": 0,
+        "FeatureType": "FEATURE_BURNING_JUNGLE",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE_TRIGGERED",
+        "ReplaceFeature": 1,
+        "Turn": 0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_BURNT_JUNGLE",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE_TRIGGERED",
+        "ReplaceFeature": 1,
+        "Turn": 3,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_JUNGLE",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE_TRIGGERED",
+        "ReplaceFeature": 1,
+        "Turn": 8,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 0,
+        "FeatureType": "FEATURE_BURNING_FOREST",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE_TRIGGERED",
+        "ReplaceFeature": 1,
+        "Turn": 0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_BURNT_FOREST",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE_TRIGGERED",
+        "ReplaceFeature": 1,
+        "Turn": 3,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 1,
+        "FeatureType": "FEATURE_FOREST",
+        "Percentage": 100,
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE_TRIGGERED",
+        "ReplaceFeature": 1,
+        "Turn": 8,
+        "YieldType": "YIELD_PRODUCTION"
+    }
+]

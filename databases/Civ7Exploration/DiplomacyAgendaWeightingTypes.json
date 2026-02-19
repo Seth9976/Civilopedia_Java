@@ -1,0 +1,126 @@
+[
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_IDEOLOGIES",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_IDEOLOGIES"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_IDEOLOGY_BUILDINGS",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_IDEOLOGY_BUILDINGS"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_IDEOLOGY_CAPTURED_SETTLEMENTS",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_IDEOLOGY_CAPTURED_SETTLEMENTS"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_IDEOLOGY_MASTERIES",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_IDEOLOGY_MASTERIES"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_WEIGHTING_AT_WAR",
+        "Name": "DIPLOMACY_AGENDA_WEIGHTING_AT_WAR"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NARRATIVE_EVENTS",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NARRATIVE_EVENTS"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NUM_CITIES",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NUM_CITIES"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NUM_CITIES_TOWNS",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NUM_CITIES_TOWNS"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NUM_SETTLEMENTS",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NUM_SETTLEMENTS"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NUM_MASTERIES",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NUM_MASTERIES"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_WONDERS_RIVER_SETTLE",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_WONDERS_RIVER_SETTLE"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NUM_WONDERS",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NUM_WONDERS"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_DISTRICTS2",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_DISTRICTS2"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_COMMANDERS",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_COMMANDERS"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_GOLDEN_AGES",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_GOLDEN_AGES"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NUM_NATURAL_WONDERS",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NUM_NATURAL_WONDERS"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NUM_TERRAIN_TYPE",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NUM_TERRAIN_TYPE"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NUM_PROJECTS",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NUM_PROJECTS"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NUM_TRADE_ROUTES",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NUM_TRADE_ROUTES"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NUM_COMBAT_UNITS",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NUM_COMBAT_UNITS"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NAPOLEONIC_CODE",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NAPOLEONIC_CODE"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_YIELD_TYPE",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_YIELD_TYPE"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_REVEALED_TILES",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_REVEALED_TILES"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NUM_GREAT_WORKS",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NUM_GREAT_WORKS"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_ALLIANCES_AND_CULTURE",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_ALLIANCES_AND_CULTURE"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_DISTRICT_BUILDINGS",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_DISTRICT_BUILDINGS"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_DISTRICT_SPECIALISTS",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_DISTRICT_SPECIALISTS"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_BIOMES",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_BIOMES"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_ACTIVE_ACTIONS_OF_TYPE",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_ACTIVE_ACTIONS_OF_TYPE"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_BAROQUE",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_BAROQUE"
+    },
+    {
+        "DiplomacyAgendaWeightingType": "DIPLOMACY_AGENDA_COMPARE_NUM_OWNED_TILES",
+        "Name": "DIPLOMACY_AGENDA_COMPARE_NUM_OWNED_TILES"
+    }
+]

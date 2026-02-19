@@ -1,0 +1,2594 @@
+[
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple Coastal Defense",
+        "UniqueId": 1
+    },
+    {
+        "DefaultData": "-1",
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple Coastal Defense",
+        "UniqueId": 2
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 4,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple Coastal Defense",
+        "UniqueId": 3
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple Coastal Defense",
+        "UniqueId": 4
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 1,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple Coastal Defense",
+        "UniqueId": 5
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 2,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple Coastal Defense",
+        "UniqueId": 6
+    },
+    {
+        "DefaultData": "4",
+        "DefnId": 0,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple Coastal Defense",
+        "UniqueId": 7
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "Governor",
+        "TreeName": "Build Unit-Linked Constructible",
+        "UniqueId": 8
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Build Unit-Linked Constructible",
+        "UniqueId": 9
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "Constructible",
+        "TreeName": "Build Unit-Linked Constructible",
+        "UniqueId": 10
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "Location",
+        "TreeName": "Build Unit-Linked Constructible",
+        "UniqueId": 11
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": "Governor",
+        "TreeName": "Build Unit-Linked Constructible",
+        "UniqueId": 12
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": "Location",
+        "TreeName": "Build Unit-Linked Constructible",
+        "UniqueId": 13
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": "Governor",
+        "TreeName": "Build Unit-Linked Constructible",
+        "UniqueId": 14
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": "Constructible",
+        "TreeName": "Build Unit-Linked Constructible",
+        "UniqueId": 15
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Convert Settlement",
+        "UniqueId": 16
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "CityToConvert",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 17
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Convert Settlement",
+        "UniqueId": 18
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "ApproximateLocation",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 19
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 4,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Convert Settlement",
+        "UniqueId": 20
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Convert Settlement",
+        "UniqueId": 21
+    },
+    {
+        "DefaultData": "UNIT_CLASS_RELIGIOUS",
+        "DefnId": 1,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Convert Settlement",
+        "UniqueId": 22
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": "ApproximateLocation",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 23
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": "ConvertingUnit",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 24
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 4,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": "1",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 25
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 5,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": "CityToConvert",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 26
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": "ConvertingUnit",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 27
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": "CityToConvert",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 28
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": "ConversionLocation",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 29
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": "ConvertingUnit",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 30
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": "ConversionLocation",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 31
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": "ConvertingUnit",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 32
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 7,
+        "ParentTag": null,
+        "Tag": "ConvertingUnit",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 33
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 7,
+        "ParentTag": null,
+        "Tag": "CityToConvert",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 34
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 7,
+        "ParentTag": null,
+        "Tag": "ConversionLocation",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 35
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": "ConvertingUnit",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 36
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": "ConversionLocation",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 37
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 9,
+        "ParentTag": null,
+        "Tag": "ConvertingUnit",
+        "TreeName": "Convert Settlement",
+        "UniqueId": 38
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Create Trade Route",
+        "UniqueId": 39
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "CityToTradeWith",
+        "TreeName": "Create Trade Route",
+        "UniqueId": 40
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Create Trade Route",
+        "UniqueId": 41
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "ApproximateLocation",
+        "TreeName": "Create Trade Route",
+        "UniqueId": 42
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 4,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Create Trade Route",
+        "UniqueId": 43
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 5,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Create Trade Route",
+        "UniqueId": 44
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 1,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Create Trade Route",
+        "UniqueId": 45
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Create Trade Route",
+        "UniqueId": 46
+    },
+    {
+        "DefaultData": "UNIT_CLASS_MAKE_TRADE_ROUTE",
+        "DefnId": 1,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Create Trade Route",
+        "UniqueId": 47
+    },
+    {
+        "DefaultData": "15",
+        "DefnId": 2,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Create Trade Route",
+        "UniqueId": 48
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Create Trade Route",
+        "UniqueId": 49
+    },
+    {
+        "DefaultData": "UNIT_CLASS_MAKE_TRADE_ROUTE",
+        "DefnId": 1,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Create Trade Route",
+        "UniqueId": 50
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": "ApproximateLocation",
+        "TreeName": "Create Trade Route",
+        "UniqueId": 51
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": "RecruitedUnit",
+        "TreeName": "Create Trade Route",
+        "UniqueId": 52
+    },
+    {
+        "DefaultData": "15",
+        "DefnId": 0,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Create Trade Route",
+        "UniqueId": 53
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 0,
+        "NodeId": 7,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Create Trade Route",
+        "UniqueId": 54
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 9,
+        "ParentTag": null,
+        "Tag": "RecruitedUnit",
+        "TreeName": "Create Trade Route",
+        "UniqueId": 55
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 9,
+        "ParentTag": null,
+        "Tag": "ApproximateLocation",
+        "TreeName": "Create Trade Route",
+        "UniqueId": 56
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 10,
+        "ParentTag": null,
+        "Tag": "RecruitedUnit",
+        "TreeName": "Create Trade Route",
+        "UniqueId": 57
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 10,
+        "ParentTag": null,
+        "Tag": "ApproximateLocation",
+        "TreeName": "Create Trade Route",
+        "UniqueId": 58
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "Unit",
+        "TreeName": "Dig for Artifact",
+        "UniqueId": 59
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Dig for Artifact",
+        "UniqueId": 60
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Dig for Artifact",
+        "UniqueId": 61
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "Location",
+        "TreeName": "Dig for Artifact",
+        "UniqueId": 62
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 4,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Dig for Artifact",
+        "UniqueId": 63
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 5,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Dig for Artifact",
+        "UniqueId": 64
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": "Unit",
+        "TreeName": "Dig for Artifact",
+        "UniqueId": 65
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": "Location",
+        "TreeName": "Dig for Artifact",
+        "UniqueId": 66
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": "Unit",
+        "TreeName": "Dig for Artifact",
+        "UniqueId": 67
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Explore Distant Lands",
+        "UniqueId": 68
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Explore Distant Lands",
+        "UniqueId": 69
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Explore Distant Lands",
+        "UniqueId": 70
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "DISTANT_LOCATION",
+        "TreeName": "Explore Distant Lands",
+        "UniqueId": 71
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 4,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "TREE_VALUE",
+        "TreeName": "Explore Distant Lands",
+        "UniqueId": 72
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 5,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Explore Distant Lands",
+        "UniqueId": 73
+    },
+    {
+        "DefaultData": "-1",
+        "DefnId": 3,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Explore Distant Lands",
+        "UniqueId": 74
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Explore Distant Lands",
+        "UniqueId": 75
+    },
+    {
+        "DefaultData": "-1",
+        "DefnId": 3,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Explore Distant Lands",
+        "UniqueId": 76
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Explore Distant Lands",
+        "UniqueId": 77
+    },
+    {
+        "DefaultData": "10",
+        "DefnId": 3,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Assault",
+        "UniqueId": 78
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Assault",
+        "UniqueId": 79
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 2,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Assault",
+        "UniqueId": 80
+    },
+    {
+        "DefaultData": "-1",
+        "DefnId": 3,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Assault",
+        "UniqueId": 81
+    },
+    {
+        "DefaultData": "10",
+        "DefnId": 0,
+        "NodeId": 13,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Assault",
+        "UniqueId": 82
+    },
+    {
+        "DefaultData": "4",
+        "DefnId": 0,
+        "NodeId": 14,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Assault",
+        "UniqueId": 83
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 17,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Assault",
+        "UniqueId": 84
+    },
+    {
+        "DefaultData": "3",
+        "DefnId": 0,
+        "NodeId": 23,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Assault",
+        "UniqueId": 85
+    },
+    {
+        "DefaultData": "10",
+        "DefnId": 3,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Raid",
+        "UniqueId": 86
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Raid",
+        "UniqueId": 87
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 2,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Raid",
+        "UniqueId": 88
+    },
+    {
+        "DefaultData": "-1",
+        "DefnId": 3,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Raid",
+        "UniqueId": 89
+    },
+    {
+        "DefaultData": "4",
+        "DefnId": 0,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Raid",
+        "UniqueId": 90
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 5,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Raid",
+        "UniqueId": 91
+    },
+    {
+        "DefaultData": "5",
+        "DefnId": 0,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Raid",
+        "UniqueId": 92
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 1,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Raid",
+        "UniqueId": 93
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 2,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Raid",
+        "UniqueId": 94
+    },
+    {
+        "DefaultData": "3",
+        "DefnId": 0,
+        "NodeId": 12,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Raid",
+        "UniqueId": 95
+    },
+    {
+        "DefaultData": "-1",
+        "DefnId": 0,
+        "NodeId": 13,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Raid",
+        "UniqueId": 96
+    },
+    {
+        "DefaultData": "2",
+        "DefnId": 0,
+        "NodeId": 15,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Raid",
+        "UniqueId": 97
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 0,
+        "NodeId": 16,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Independent Power Raid",
+        "UniqueId": 98
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 99
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 100
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 101
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "MINOR_LOCATION",
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 102
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 4,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 103
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 5,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 104
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": "MINOR_LOCATION",
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 105
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 1,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 106
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 3,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 107
+    },
+    {
+        "DefaultData": "DIPLOMACY_ACTION_GIVE_INFLUENCE_TOKEN",
+        "DefnId": 0,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 108
+    },
+    {
+        "DefaultData": "GIVE_INFLUENCE_TOKEN",
+        "DefnId": 0,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 109
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": "DIPLO_UNIT",
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 110
+    },
+    {
+        "DefaultData": "DIPLOMACY_ACTION_GIVE_INFLUENCE_TOKEN",
+        "DefnId": 2,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 111
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": "MINOR_LOCATION",
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 112
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 1,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 113
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 2,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 114
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 3,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 115
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 0,
+        "NodeId": 11,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 116
+    },
+    {
+        "DefaultData": "10",
+        "DefnId": 3,
+        "NodeId": 11,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 117
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 1,
+        "NodeId": 12,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 118
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 13,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 119
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 14,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 120
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 19,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 121
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 0,
+        "NodeId": 20,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 122
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 1,
+        "NodeId": 20,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 123
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 24,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 124
+    },
+    {
+        "DefaultData": "3",
+        "DefnId": 0,
+        "NodeId": 25,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 125
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 27,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 126
+    },
+    {
+        "DefaultData": "-1",
+        "DefnId": 3,
+        "NodeId": 27,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 127
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 30,
+        "ParentTag": null,
+        "Tag": "MINOR_LOCATION",
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 128
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 1,
+        "NodeId": 31,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 129
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 0,
+        "NodeId": 32,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Assault",
+        "UniqueId": 130
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 131
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 132
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 133
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "MINOR_LOCATION",
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 134
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 4,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 135
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 5,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 136
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 137
+    },
+    {
+        "DefaultData": "UNIT_CLASS_INFLUENCE_INDEPENDENT",
+        "DefnId": 1,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 138
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": "MINOR_LOCATION",
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 139
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": "DIPLO_UNIT",
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 140
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": "DIPLO_UNIT",
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 141
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": "MINOR_LOCATION",
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 142
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 2,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 143
+    },
+    {
+        "DefaultData": "DIPLOMACY_ACTION_GIVE_INFLUENCE_TOKEN",
+        "DefnId": 0,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 144
+    },
+    {
+        "DefaultData": "GIVE_INFLUENCE_TOKEN",
+        "DefnId": 0,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 145
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": "DIPLO_UNIT",
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 146
+    },
+    {
+        "DefaultData": "DIPLOMACY_ACTION_GIVE_INFLUENCE_TOKEN",
+        "DefnId": 2,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Minor Power Diplomacy",
+        "UniqueId": 147
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Naval Superiority Tree",
+        "UniqueId": 148
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Naval Superiority Tree",
+        "UniqueId": 149
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Naval Superiority Tree",
+        "UniqueId": 150
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "START",
+        "TreeName": "Naval Superiority Tree",
+        "UniqueId": 151
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 4,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Naval Superiority Tree",
+        "UniqueId": 152
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 5,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Naval Superiority Tree",
+        "UniqueId": 153
+    },
+    {
+        "DefaultData": "10",
+        "DefnId": 3,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Naval Superiority Tree",
+        "UniqueId": 154
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Naval Superiority Tree",
+        "UniqueId": 155
+    },
+    {
+        "DefaultData": "-1",
+        "DefnId": 3,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Naval Superiority Tree",
+        "UniqueId": 156
+    },
+    {
+        "DefaultData": "TARGET_TREASURE_FLEET",
+        "DefnId": 0,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Naval Superiority Tree",
+        "UniqueId": 157
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Reinforce Ally",
+        "UniqueId": 158
+    },
+    {
+        "DefaultData": "-1",
+        "DefnId": 3,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Reinforce Ally",
+        "UniqueId": 159
+    },
+    {
+        "DefaultData": "6",
+        "DefnId": 0,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Reinforce Ally",
+        "UniqueId": 160
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "Unit",
+        "TreeName": "Research Continent Archaeology",
+        "UniqueId": 161
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Research Continent Archaeology",
+        "UniqueId": 162
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Research Continent Archaeology",
+        "UniqueId": 163
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "Location",
+        "TreeName": "Research Continent Archaeology",
+        "UniqueId": 164
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 4,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Research Continent Archaeology",
+        "UniqueId": 165
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 5,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Research Continent Archaeology",
+        "UniqueId": 166
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": "Location",
+        "TreeName": "Research Continent Archaeology",
+        "UniqueId": 167
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": "Unit",
+        "TreeName": "Research Continent Archaeology",
+        "UniqueId": 168
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": "Location",
+        "TreeName": "Research Continent Archaeology",
+        "UniqueId": 169
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": "Unit",
+        "TreeName": "Research Continent Archaeology",
+        "UniqueId": 170
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "Migrant",
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 171
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 172
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 173
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "SearchOrigin",
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 174
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 4,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 175
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 5,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 176
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": "SearchOrigin",
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 177
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 1,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 178
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": "City",
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 179
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": "CityLocation",
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 180
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 4,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 181
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": "Migrant",
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 182
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": "CityLocation",
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 183
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": "Migrant",
+        "TreeName": "Resettle Migrant",
+        "UniqueId": 184
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 185
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 186
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 187
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": "SettleLocation",
+        "TreeName": "Settle New Town",
+        "UniqueId": 188
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 4,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 189
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 5,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 190
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": "SettleLocation",
+        "TreeName": "Settle New Town",
+        "UniqueId": 191
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 1,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 192
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 193
+    },
+    {
+        "DefaultData": "UNIT_CLASS_CREATE_TOWN",
+        "DefnId": 1,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 194
+    },
+    {
+        "DefaultData": "10",
+        "DefnId": 2,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 195
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 0,
+        "NodeId": 7,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 196
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 2,
+        "NodeId": 7,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 197
+    },
+    {
+        "DefaultData": "3",
+        "DefnId": 3,
+        "NodeId": 7,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 198
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 4,
+        "NodeId": 7,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 199
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 0,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 200
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 2,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 201
+    },
+    {
+        "DefaultData": "3",
+        "DefnId": 3,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 202
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 4,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 203
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 10,
+        "ParentTag": null,
+        "Tag": "SettleLocation",
+        "TreeName": "Settle New Town",
+        "UniqueId": 204
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 11,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 205
+    },
+    {
+        "DefaultData": "-1",
+        "DefnId": 1,
+        "NodeId": 11,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 206
+    },
+    {
+        "DefaultData": "-1",
+        "DefnId": 3,
+        "NodeId": 11,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 207
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 4,
+        "NodeId": 11,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 208
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 0,
+        "NodeId": 17,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 209
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 18,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 210
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 0,
+        "NodeId": 19,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 211
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 1,
+        "NodeId": 19,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 212
+    },
+    {
+        "DefaultData": "UNIT_CLASS_CREATE_TOWN",
+        "DefnId": 3,
+        "NodeId": 19,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 213
+    },
+    {
+        "DefaultData": "2",
+        "DefnId": 4,
+        "NodeId": 19,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 214
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 0,
+        "NodeId": 21,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 215
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 0,
+        "NodeId": 25,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 216
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 1,
+        "NodeId": 25,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 217
+    },
+    {
+        "DefaultData": "UNIT_CLASS_CREATE_TOWN",
+        "DefnId": 3,
+        "NodeId": 25,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 218
+    },
+    {
+        "DefaultData": "5",
+        "DefnId": 4,
+        "NodeId": 25,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Settle New Town",
+        "UniqueId": 219
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 26,
+        "ParentTag": null,
+        "Tag": "SettleUnit",
+        "TreeName": "Settle New Town",
+        "UniqueId": 220
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 26,
+        "ParentTag": null,
+        "Tag": "SettleLocation",
+        "TreeName": "Settle New Town",
+        "UniqueId": 221
+    },
+    {
+        "DefaultData": "DIPLOMACY_ACTION_DECLARE_WAR",
+        "DefnId": 0,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 222
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 0,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 223
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 2,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 224
+    },
+    {
+        "DefaultData": "10",
+        "DefnId": 3,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 225
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 4,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 226
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 1,
+        "NodeId": 11,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 227
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 12,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 228
+    },
+    {
+        "DefaultData": "2",
+        "DefnId": 0,
+        "NodeId": 13,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 229
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 1,
+        "NodeId": 13,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 230
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 2,
+        "NodeId": 13,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 231
+    },
+    {
+        "DefaultData": "PLAYER_RELATIONSHIP_HOSTILE",
+        "DefnId": 0,
+        "NodeId": 15,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 232
+    },
+    {
+        "DefaultData": "COOPERATIVE_YIELDS_DIPLOMATIC_ACTION",
+        "DefnId": 0,
+        "NodeId": 16,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 233
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 16,
+        "ParentTag": null,
+        "Tag": "Unused",
+        "TreeName": "Simple City Assault",
+        "UniqueId": 234
+    },
+    {
+        "DefaultData": "DIPLOMACY_ACTION_DENOUNCE",
+        "DefnId": 2,
+        "NodeId": 16,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 235
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 19,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 236
+    },
+    {
+        "DefaultData": "10",
+        "DefnId": 1,
+        "NodeId": 19,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 237
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 2,
+        "NodeId": 19,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 238
+    },
+    {
+        "DefaultData": "-1",
+        "DefnId": 3,
+        "NodeId": 19,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 239
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 20,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 240
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 1,
+        "NodeId": 20,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 241
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 0,
+        "NodeId": 26,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 242
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 1,
+        "NodeId": 26,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 243
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 28,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 244
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 29,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 245
+    },
+    {
+        "DefaultData": "3",
+        "DefnId": 0,
+        "NodeId": 30,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 246
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 31,
+        "ParentTag": null,
+        "Tag": "AIR_SUPPORT_LOC",
+        "TreeName": "Simple City Assault",
+        "UniqueId": 247
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 34,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 248
+    },
+    {
+        "DefaultData": "75",
+        "DefnId": 0,
+        "NodeId": 35,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 249
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 38,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 250
+    },
+    {
+        "DefaultData": "0",
+        "DefnId": 1,
+        "NodeId": 38,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 251
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 39,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 252
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 44,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 253
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 44,
+        "ParentTag": null,
+        "Tag": "AIR_SUPPORT_LOC",
+        "TreeName": "Simple City Assault",
+        "UniqueId": 254
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 45,
+        "ParentTag": null,
+        "Tag": "AIR_SUPPORT_LOC",
+        "TreeName": "Simple City Assault",
+        "UniqueId": 255
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 46,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 256
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 1,
+        "NodeId": 46,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 257
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 48,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 258
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 50,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Assault",
+        "UniqueId": 259
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Defense",
+        "UniqueId": 260
+    },
+    {
+        "DefaultData": "-1",
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Defense",
+        "UniqueId": 261
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Defense",
+        "UniqueId": 262
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Defense",
+        "UniqueId": 263
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 1,
+        "NodeId": 5,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Defense",
+        "UniqueId": 264
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 6,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Defense",
+        "UniqueId": 265
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 7,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Defense",
+        "UniqueId": 266
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 8,
+        "ParentTag": null,
+        "Tag": "UNUSED",
+        "TreeName": "Simple City Defense",
+        "UniqueId": 267
+    },
+    {
+        "DefaultData": "6",
+        "DefnId": 0,
+        "NodeId": 9,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Defense",
+        "UniqueId": 268
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 0,
+        "NodeId": 10,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Defense",
+        "UniqueId": 269
+    },
+    {
+        "DefaultData": "2",
+        "DefnId": 1,
+        "NodeId": 10,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Simple City Defense",
+        "UniqueId": 270
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Strategy Settle Other Hemisphere",
+        "UniqueId": 271
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Strategy Settle Other Hemisphere",
+        "UniqueId": 272
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Strategy Settle Other Hemisphere",
+        "UniqueId": 273
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Strategy Settle Other Hemisphere",
+        "UniqueId": 274
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 4,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "Value",
+        "TreeName": "Strategy Settle Other Hemisphere",
+        "UniqueId": 275
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 5,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Strategy Settle Other Hemisphere",
+        "UniqueId": 276
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": "GreatPerson",
+        "TreeName": "Use Great Person",
+        "UniqueId": 277
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Use Great Person",
+        "UniqueId": 278
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 2,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Use Great Person",
+        "UniqueId": 279
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 3,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Use Great Person",
+        "UniqueId": 280
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 4,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Use Great Person",
+        "UniqueId": 281
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 5,
+        "NodeId": 1,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Use Great Person",
+        "UniqueId": 282
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": "GreatPerson",
+        "TreeName": "Use Great Person",
+        "UniqueId": 283
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 2,
+        "ParentTag": null,
+        "Tag": "BestLocation",
+        "TreeName": "Use Great Person",
+        "UniqueId": 284
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": "GreatPerson",
+        "TreeName": "Use Great Person",
+        "UniqueId": 285
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 1,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": "BestLocation",
+        "TreeName": "Use Great Person",
+        "UniqueId": 286
+    },
+    {
+        "DefaultData": "1",
+        "DefnId": 3,
+        "NodeId": 3,
+        "ParentTag": null,
+        "Tag": null,
+        "TreeName": "Use Great Person",
+        "UniqueId": 287
+    },
+    {
+        "DefaultData": null,
+        "DefnId": 0,
+        "NodeId": 4,
+        "ParentTag": null,
+        "Tag": "GreatPerson",
+        "TreeName": "Use Great Person",
+        "UniqueId": 288
+    }
+]

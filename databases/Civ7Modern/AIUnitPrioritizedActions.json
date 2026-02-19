@@ -1,0 +1,38 @@
+[
+    {
+        "ChargedUnitAbilityType": null,
+        "CommandType": "UNITCOMMAND_ACTIVATE_GREAT_PERSON",
+        "OperationType": null,
+        "UnitType": "UNIT_JACOBIN"
+    },
+    {
+        "ChargedUnitAbilityType": null,
+        "CommandType": "UNITCOMMAND_ACTIVATE_GREAT_PERSON",
+        "OperationType": null,
+        "UnitType": "UNIT_JOHN_MAYNARD_KEYNES"
+    },
+    {
+        "ChargedUnitAbilityType": "CHARGED_ABILITY_CLAIM_RESOURCE",
+        "CommandType": "UNITCOMMAND_CLAIM_RESOURCE",
+        "OperationType": null,
+        "UnitType": "UNIT_PROSPECTOR"
+    },
+    {
+        "ChargedUnitAbilityType": null,
+        "CommandType": "UNITCOMMAND_ACTIVATE_GREAT_PERSON",
+        "OperationType": null,
+        "UnitType": "UNIT_REVOLUCIONARIO"
+    },
+    {
+        "ChargedUnitAbilityType": null,
+        "CommandType": "UNITCOMMAND_ACTIVATE_GREAT_PERSON",
+        "OperationType": null,
+        "UnitType": "UNIT_UPARAT"
+    },
+    {
+        "ChargedUnitAbilityType": "CHARGED_ABILITY_CLAIM_MOUNTAIN",
+        "CommandType": "UNITCOMMAND_CLAIM_MOUNTAIN",
+        "OperationType": null,
+        "UnitType": "UNIT_SHERPA"
+    }
+]

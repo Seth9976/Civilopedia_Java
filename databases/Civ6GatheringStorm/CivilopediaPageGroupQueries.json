@@ -1,0 +1,79 @@
+[
+    {
+        "NameColumn": "Name",
+        "PageGroupIdColumn": "PageGroupId",
+        "RowId": 1,
+        "SQL": "SELECT DistrictType as PageGroupId, Name, Description as Tooltip, 0 as VisibleIfEmpty, 0 as SortIndex from Districts",
+        "SectionId": "BUILDINGS",
+        "SortIndex": 10,
+        "SortIndexColumn": "SortIndex",
+        "TooltipColumn": "Tooltip",
+        "VisibleIfEmptyColumn": "VisibleIfEmpty"
+    },
+    {
+        "NameColumn": "Name",
+        "PageGroupIdColumn": "PageGroupId",
+        "RowId": 2,
+        "SQL": "SELECT EraType as PageGroupId, Name, Description as Tooltip, 1 as VisibleIfEmpty, ChronologyIndex as SortIndex from Eras",
+        "SectionId": "CIVICS",
+        "SortIndex": 10,
+        "SortIndexColumn": "SortIndex",
+        "TooltipColumn": "Tooltip",
+        "VisibleIfEmptyColumn": "VisibleIfEmpty"
+    },
+    {
+        "NameColumn": "Name",
+        "PageGroupIdColumn": "PageGroupId",
+        "RowId": 3,
+        "SQL": "SELECT GreatPersonClassType as PageGroupId, Name, null as Tooltip, 1 as VisibleIfEmpty, 0 as SortIndex from GreatPersonClasses",
+        "SectionId": "GREATPEOPLE",
+        "SortIndex": 10,
+        "SortIndexColumn": "SortIndex",
+        "TooltipColumn": "Tooltip",
+        "VisibleIfEmptyColumn": "VisibleIfEmpty"
+    },
+    {
+        "NameColumn": "Name",
+        "PageGroupIdColumn": "PageGroupId",
+        "RowId": 4,
+        "SQL": "SELECT EraType as PageGroupId, Name, Description as Tooltip, 1 as VisibleIfEmpty, ChronologyIndex as SortIndex from Eras",
+        "SectionId": "TECHNOLOGIES",
+        "SortIndex": 10,
+        "SortIndexColumn": "SortIndex",
+        "TooltipColumn": "Tooltip",
+        "VisibleIfEmptyColumn": "VisibleIfEmpty"
+    },
+    {
+        "NameColumn": "Name",
+        "PageGroupIdColumn": "PageGroupId",
+        "RowId": 5,
+        "SQL": "SELECT FormationClassType as PageGroupId, Name, null as Tooltip, 1 as VisibleIfEmpty, 0 as SortIndex from UnitFormationClasses",
+        "SectionId": "UNITS",
+        "SortIndex": 10,
+        "SortIndexColumn": "SortIndex",
+        "TooltipColumn": "Tooltip",
+        "VisibleIfEmptyColumn": "VisibleIfEmpty"
+    },
+    {
+        "NameColumn": "Name",
+        "PageGroupIdColumn": "PageGroupId",
+        "RowId": 6,
+        "SQL": "SELECT PromotionClassType as PageGroupId, Name, null as Tooltip, 1 as VisibleIfEmpty, 0 as SortIndex from UnitPromotionClasses",
+        "SectionId": "UNITPROMOTIONS",
+        "SortIndex": 20,
+        "SortIndexColumn": "SortIndex",
+        "TooltipColumn": "Tooltip",
+        "VisibleIfEmptyColumn": "VisibleIfEmpty"
+    },
+    {
+        "NameColumn": "Name",
+        "PageGroupIdColumn": "PageGroupId",
+        "RowId": 7,
+        "SQL": "SELECT GovernorType AS PageGroupId, printf(\"{LOC_PEDIA_GOVERNORS_PAGEGROUP_PROMOTIONS_NAME << {%s}}\",ShortTitle) AS Name FROM Governors",
+        "SectionId": "GOVERNORS",
+        "SortIndex": 20,
+        "SortIndexColumn": null,
+        "TooltipColumn": null,
+        "VisibleIfEmptyColumn": null
+    }
+]

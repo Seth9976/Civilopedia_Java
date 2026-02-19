@@ -1,0 +1,92 @@
+[
+    {
+        "ID": 0,
+        "IsDefault": null,
+        "IsOperationUnitProvider": null,
+        "IsWonder": null,
+        "MustBeCoastal": null,
+        "Subtype": null,
+        "Type": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ID": 1,
+        "IsDefault": null,
+        "IsOperationUnitProvider": 1,
+        "IsWonder": null,
+        "MustBeCoastal": null,
+        "Subtype": 0,
+        "Type": "CITYSPECIALIZATION_MILITARY_TRAINING",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ID": 2,
+        "IsDefault": null,
+        "IsOperationUnitProvider": 1,
+        "IsWonder": null,
+        "MustBeCoastal": null,
+        "Subtype": 1,
+        "Type": "CITYSPECIALIZATION_EMERGENCY_UNITS",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ID": 3,
+        "IsDefault": null,
+        "IsOperationUnitProvider": null,
+        "IsWonder": null,
+        "MustBeCoastal": 1,
+        "Subtype": 2,
+        "Type": "CITYSPECIALIZATION_MILITARY_NAVAL",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ID": 4,
+        "IsDefault": null,
+        "IsOperationUnitProvider": null,
+        "IsWonder": 1,
+        "MustBeCoastal": null,
+        "Subtype": 3,
+        "Type": "CITYSPECIALIZATION_PRODUCTION_WONDER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ID": 5,
+        "IsDefault": null,
+        "IsOperationUnitProvider": null,
+        "IsWonder": null,
+        "MustBeCoastal": null,
+        "Subtype": 4,
+        "Type": "CITYSPECIALIZATION_PRODUCTION_SPACESHIP",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ID": 6,
+        "IsDefault": null,
+        "IsOperationUnitProvider": null,
+        "IsWonder": null,
+        "MustBeCoastal": null,
+        "Subtype": null,
+        "Type": "CITYSPECIALIZATION_COMMERCE",
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ID": 7,
+        "IsDefault": null,
+        "IsOperationUnitProvider": null,
+        "IsWonder": null,
+        "MustBeCoastal": null,
+        "Subtype": null,
+        "Type": "CITYSPECIALIZATION_SCIENCE",
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ID": 8,
+        "IsDefault": 1,
+        "IsOperationUnitProvider": null,
+        "IsWonder": null,
+        "MustBeCoastal": null,
+        "Subtype": null,
+        "Type": "CITYSPECIALIZATION_GENERAL_ECONOMIC",
+        "YieldType": null
+    }
+]

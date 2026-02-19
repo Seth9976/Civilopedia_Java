@@ -1,0 +1,532 @@
+[
+    {
+        "Access": "Indexed",
+        "Collection": "City_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "Name",
+        "Type": "LocalizationString",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "City_Instance",
+        "Container": "Vector",
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "DynamicBonusList",
+        "Type": "DynamicAdjacencyBonus",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "City_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "Population",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "City_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "TurnFounded",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "City_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "IsCapital",
+        "Type": "Bool",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "City_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "IsOriginalCapital",
+        "Type": "Bool",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "City_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "ConqueredCount",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "City_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "OwnerBeforeOccupation",
+        "Type": "PlayerTypes",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "City_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "JustConqueredFrom",
+        "Type": "PlayerTypes",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "City_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "LastBarbarianInvasionTurn",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "City_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "LastTransferType",
+        "Type": "Enum",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "City_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "WonderGrantEnvoys",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "City_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "FoundedByUnit",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Player_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "AllowEmbarkation",
+        "Type": "Bool",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Player_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "AllowCityWalls",
+        "Type": "Bool",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Player_Cities",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "FreshWaterHousingBonus",
+        "Type": "Bool",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Player_Cities",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "UrbanDefenceLevel",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Player_Cities",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "PeakCities",
+        "Type": "UInt",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Player_Cities",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "HomeContinent",
+        "Type": "ContinentTypes",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Player_Cities",
+        "Container": "Vector",
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "SettledContinents",
+        "Type": "ContinentTypes",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Combat_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "BonusAttacks",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Movement_Instance",
+        "Container": "Vector",
+        "Definition": "Terrains",
+        "InitializeBy": null,
+        "Name": "InvalidTerrains",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Movement_Instance",
+        "Container": "Vector",
+        "Definition": "Terrains",
+        "InitializeBy": null,
+        "Name": "IgnoreTerrains",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Movement_Instance",
+        "Container": "Vector",
+        "Definition": "Features",
+        "InitializeBy": null,
+        "Name": "IgnoreFeatures",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Movement_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "IgnoreAllTerrainCost",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Movement_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "ExtraMoves",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Movement_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "ClearTerrainStartMovement",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Movement_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "FriendlyTerritoryStartMovement",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Movement_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "EnterForeignLands",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Movement_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "IgnoreRivers",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Movement_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "IgnoreCliffs",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Movement_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "IgnoreShores",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Movement_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "EscortMobility",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Health_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "EnemyTerritoryHeal",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Health_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "NeutralTerritoryHeal",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Health_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "FriendlyTerritoryHeal",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Health_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "CanHealAfterAction",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Religion_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "EnemyTerritoryHeal",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Religion_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "NeutralTerritoryHeal",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Religion_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "FriendlyTerritoryHeal",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Religion_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "CanHealAfterAction",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Dynamic",
+        "Collection": "Unit_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "Levied",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Dynamic",
+        "Collection": "Unit_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "BarbarianTribeIndex",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Dynamic",
+        "Collection": "Unit_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "UnitAiType",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Dynamic",
+        "Collection": "Unit_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "HomeCity",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Dynamic",
+        "Collection": "Unit_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "RampageTarget",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Dynamic",
+        "Collection": "Unit_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "Trade_FromCityPlayer",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Dynamic",
+        "Collection": "Unit_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "Trade_ToCityPlayer",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Dynamic",
+        "Collection": "Unit_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "Trade_FromCityID",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Dynamic",
+        "Collection": "Unit_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "Trade_ToCityID",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Dynamic",
+        "Collection": "Unit_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "Trade_CurrentPathIndex",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Dynamic",
+        "Collection": "Unit_Instance",
+        "Container": null,
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "Trade_DirectionForward",
+        "Type": "Int",
+        "Value": null
+    },
+    {
+        "Access": "Indexed",
+        "Collection": "Unit_Binding_Instance",
+        "Container": "Vector",
+        "Definition": null,
+        "InitializeBy": null,
+        "Name": "GroupLimitModifier",
+        "Type": "Int",
+        "Value": null
+    }
+]

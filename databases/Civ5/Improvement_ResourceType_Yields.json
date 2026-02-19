@@ -1,0 +1,188 @@
+[
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "ResourceType": "RESOURCE_COAL",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "ResourceType": "RESOURCE_ALUMINUM",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "ResourceType": "RESOURCE_URANIUM",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_QUARRY",
+        "ResourceType": "RESOURCE_MARBLE",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_QUARRY",
+        "ResourceType": "RESOURCE_STONE",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PASTURE",
+        "ResourceType": "RESOURCE_HORSE",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PASTURE",
+        "ResourceType": "RESOURCE_COW",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PASTURE",
+        "ResourceType": "RESOURCE_SHEEP",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "ResourceType": "RESOURCE_IVORY",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "ResourceType": "RESOURCE_FUR",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "ResourceType": "RESOURCE_DEER",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "ResourceType": "RESOURCE_FISH",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "ResourceType": "RESOURCE_WHALE",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "ResourceType": "RESOURCE_PEARLS",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "ResourceType": "RESOURCE_BANANA",
+        "Yield": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "ResourceType": "RESOURCE_BANANA",
+        "Yield": -1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "ResourceType": "RESOURCE_DYE",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "ResourceType": "RESOURCE_SILK",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "ResourceType": "RESOURCE_SPICES",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "ResourceType": "RESOURCE_SUGAR",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "ResourceType": "RESOURCE_COTTON",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "ResourceType": "RESOURCE_WINE",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "ResourceType": "RESOURCE_INCENSE",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_WELL",
+        "ResourceType": "RESOURCE_OIL",
+        "Yield": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OFFSHORE_PLATFORM",
+        "ResourceType": "RESOURCE_OIL",
+        "Yield": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "ResourceType": "RESOURCE_SALT",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "ResourceType": "RESOURCE_TRUFFLES",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "ResourceType": "RESOURCE_CRAB",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "ResourceType": "RESOURCE_CITRUS",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "ResourceType": "RESOURCE_BISON",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "ResourceType": "RESOURCE_COCOA",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    }
+]

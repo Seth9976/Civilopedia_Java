@@ -1,0 +1,32 @@
+[
+    {
+        "Duration": 1,
+        "PlotEffectType": "PLOTEFFECT_SNOW_MEDIUM_TRANSIENT",
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_SIGNIFICANT"
+    },
+    {
+        "Duration": 2,
+        "PlotEffectType": "PLOTEFFECT_SNOW_HEAVY_TRANSIENT",
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_CRIPPLING"
+    },
+    {
+        "Duration": 1,
+        "PlotEffectType": "PLOTEFFECT_SAND",
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_GRADIENT"
+    },
+    {
+        "Duration": 2,
+        "PlotEffectType": "PLOTEFFECT_SAND",
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_HABOOB"
+    },
+    {
+        "Duration": 6,
+        "PlotEffectType": "PLOTEFFECT_PLAGUE",
+        "RandomEventType": "RANDOM_EVENT_PLAGUE_MINOR"
+    },
+    {
+        "Duration": 6,
+        "PlotEffectType": "PLOTEFFECT_PLAGUE",
+        "RandomEventType": "RANDOM_EVENT_PLAGUE_MAJOR"
+    }
+]

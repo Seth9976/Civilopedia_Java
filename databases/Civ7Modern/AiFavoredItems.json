@@ -1,0 +1,4452 @@
+[
+    {
+        "Favored": 1,
+        "Item": "First Turn Settle",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Use WMD",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Form Army",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Army Overrun",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Air Assault",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Air Rebase",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Attack High Priority Unit",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Take Razing City",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Heal",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Block Enemy Expansion",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Attack Medium Priority Unit",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Explore",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Plunder Trade Route",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Upgrade Units",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Attack Low Priority Unit",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Defend Home",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Escort Embarked",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Use Great Person",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Wander near city",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Wander",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Army Overrun",
+        "ListType": "Default City State",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Attack High Priority Unit",
+        "ListType": "Default City State",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Attack Medium Priority Unit",
+        "ListType": "Default City State",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Plunder Trade Route",
+        "ListType": "Default City State",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Heal",
+        "ListType": "Default City State",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Upgrade Units",
+        "ListType": "Default City State",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Attack Low Priority Unit",
+        "ListType": "Default City State",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Wander near city",
+        "ListType": "Default City State",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Wander",
+        "ListType": "Default City State",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "DIPLOMACY_ACTION_GIVE_INFLUENCE_TOKEN",
+        "ListType": "Default Diplomatic",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 20
+    },
+    {
+        "Favored": 0,
+        "Item": "Total Yield",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "YIELD_PRODUCTION",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_TOTAL_YIELD",
+        "Value": 1
+    },
+    {
+        "Favored": 0,
+        "Item": "Total Yield",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "YIELD_FOOD",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_TOTAL_YIELD",
+        "Value": 1
+    },
+    {
+        "Favored": 0,
+        "Item": "Total Yield",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "YIELD_GOLD",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_TOTAL_YIELD",
+        "Value": 1
+    },
+    {
+        "Favored": 0,
+        "Item": "Total Yield",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "YIELD_SCIENCE",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_TOTAL_YIELD",
+        "Value": 1
+    },
+    {
+        "Favored": 0,
+        "Item": "Total Yield",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "YIELD_CULTURE",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_TOTAL_YIELD",
+        "Value": 1
+    },
+    {
+        "Favored": 0,
+        "Item": "Total Yield",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "YIELD_HAPPINESS",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_TOTAL_YIELD",
+        "Value": 1
+    },
+    {
+        "Favored": 0,
+        "Item": "Total Yield",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "YIELD_DIPLOMACY",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_TOTAL_YIELD",
+        "Value": 1
+    },
+    {
+        "Favored": 0,
+        "Item": "Coastal",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_COAST",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Fresh Water",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FRESH_WATER",
+        "Value": 10
+    },
+    {
+        "Favored": 0,
+        "Item": "Resource Class",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "RESOURCECLASS_EMPIRE",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_LUXURY_RESOURCES",
+        "Value": 3
+    },
+    {
+        "Favored": 0,
+        "Item": "Resource Class",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "RESOURCECLASS_CITY",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES",
+        "Value": 3
+    },
+    {
+        "Favored": 0,
+        "Item": "Resource Class",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "RESOURCECLASS_BONUS",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES",
+        "Value": 3
+    },
+    {
+        "Favored": 1,
+        "Item": "Nearest Enemy City",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_NEAREST_CITY",
+        "Value": 5
+    },
+    {
+        "Favored": 0,
+        "Item": "Nearest Friendly City",
+        "ListType": "Default Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_NEAREST_CITY",
+        "Value": -6
+    },
+    {
+        "Favored": 0,
+        "Item": "WONDER",
+        "ListType": "Minor Civ Wonder Ban",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": -100
+    },
+    {
+        "Favored": 1,
+        "Item": "ATTACK_BARBARIANS",
+        "ListType": "BaseOperationsLimits",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 1
+    },
+    {
+        "Favored": 1,
+        "Item": "CITY_ASSAULT",
+        "ListType": "BaseOperationsLimits",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 1
+    },
+    {
+        "Favored": 1,
+        "Item": "NAVAL_ASSAULT",
+        "ListType": "BaseOperationsLimits",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 1
+    },
+    {
+        "Favored": 1,
+        "Item": "CITY_FOUNDING",
+        "ListType": "BaseOperationsLimits",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 1
+    },
+    {
+        "Favored": 1,
+        "Item": "CITY_ASSAULT",
+        "ListType": "PerWarOperationsLimits",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "NAVAL_ASSAULT",
+        "ListType": "PerWarOperationsLimits",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_SCIENCE",
+        "ListType": "Major Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_CULTURE",
+        "ListType": "Major Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_GOLD",
+        "ListType": "Amina Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "Amina Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_HAPPINESS",
+        "ListType": "Ashoka Renouncer Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_FOOD",
+        "ListType": "Ashoka Renouncer Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_CULTURE",
+        "ListType": "Augustus Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "Augustus Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_SCIENCE",
+        "ListType": "Ben Franklin Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_DIPLOMACY",
+        "ListType": "Ben Franklin Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "DIPLOMACY_ACTION_GROUP_ENDEAVOR",
+        "ListType": "Ben Franklin Diplomacy Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_SCIENCE",
+        "ListType": "Catherine Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_CULTURE",
+        "ListType": "Catherine Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_HAPPINESS",
+        "ListType": "Charlemagne Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_SCIENCE",
+        "ListType": "Charlemagne Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_FOOD",
+        "ListType": "Confucius Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_SCIENCE",
+        "ListType": "Confucius Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "Friedrich Oblique Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_SCIENCE",
+        "ListType": "Friedrich Oblique Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_DIPLOMACY",
+        "ListType": "Harriet Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "Harriet Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_CULTURE",
+        "ListType": "Hatshepsut Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_GOLD",
+        "ListType": "Hatshepsut Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_DIPLOMACY",
+        "ListType": "Himiko Wa Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_SCIENCE",
+        "ListType": "Himiko Wa Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_GOLD",
+        "ListType": "Isabella Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_HAPPINESS",
+        "ListType": "Isabella Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_HAPPINESS",
+        "ListType": "Jose Rizal Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_CULTURE",
+        "ListType": "Jose Rizal Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_CULTURE",
+        "ListType": "Lafayette Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_HAPPINESS",
+        "ListType": "Lafayette Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_DIPLOMACY",
+        "ListType": "Machiavelli Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_GOLD",
+        "ListType": "Machiavelli Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_FOOD",
+        "ListType": "Pachacuti Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_GOLD",
+        "ListType": "Pachacuti Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_SCIENCE",
+        "ListType": "Trung Trac Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "Trung Trac Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "Xerxes King Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_GOLD",
+        "ListType": "Xerxes King Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_CITY_DEFENSES",
+        "ListType": "Amina PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_GROWTH_FOOD",
+        "ListType": "Ashoka Renouncer PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_BUILD_QUEUE_IN_CITY",
+        "ListType": "Augustus PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": -25
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_NEW_CITY",
+        "ListType": "Augustus PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_GREAT_WORK",
+        "ListType": "Catherine PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_BUILD_QUEUE_IN_CITY",
+        "ListType": "Confucius PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_RESOURCE_IMPORT",
+        "ListType": "Hetshepsut PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEDUOYIELD_GOLDEN_AGE_THRESHOLD_PERCENT_REDUCTION",
+        "ListType": "Jose Rizal PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_TRADITION_SLOT",
+        "ListType": "Lafayette PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_GARRISON",
+        "ListType": "Amina Budget Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_EXPLORATION",
+        "ListType": "Ibn Battuta Budget Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_EXPLORATION",
+        "ListType": "Isabella Budget Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_STANDING_ARMY",
+        "ListType": "Xerxes King Budget Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PRODUCTION",
+        "ListType": "Ben Franklin Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "SCIENCE",
+        "ListType": "Charlemagne Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "MILITARY",
+        "ListType": "Friedrich Oblique Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 0,
+        "Item": "City Center Biome",
+        "ListType": "Catherine Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "BIOME_TUNDRA",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_CITY_CENTER_BIOME",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Terrain",
+        "ListType": "Hetshepsut Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "TERRAIN_NAVIGABLE_RIVER",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_TERRAIN",
+        "Value": 5
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_VALLEY_OF_FLOWERS",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_BARRIER_REEF",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_BERMUDA_TRIANGLE",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_REDWOOD_FOREST",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_GRAND_CANYON",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_GULLFOSS",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_HOERIKWAGGO",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_IGUAZU_FALLS",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_KILIMANJARO",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_MOUNT_EVEREST",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_ZHANGJIAJIE",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_THERA",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_TORRES_DEL_PAINE",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_ULURU",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Foreign Hemisphere",
+        "ListType": "Lafayette Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FOREIGN_HEMISPHERE",
+        "Value": 250
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Terrain",
+        "ListType": "Pachacuti Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "TERRAIN_MOUNTAIN",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_TERRAIN",
+        "Value": 10
+    },
+    {
+        "Favored": 0,
+        "Item": "City Center Biome",
+        "ListType": "Trung Trac Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "BIOME_TROPICAL",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_CITY_CENTER_BIOME",
+        "Value": 15
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_FOOD",
+        "ListType": "CityStrategyFoodBias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "CityStrategyProductionBias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_HAPPINESS",
+        "ListType": "CityStrategyHappinessBias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "Rampage",
+        "ListType": "Default Minor Independent",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Attack High Priority Unit",
+        "ListType": "Default Minor Independent",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Explore",
+        "ListType": "Default Minor Independent",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Defend Home",
+        "ListType": "Default Minor Independent",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Capture City",
+        "ListType": "Default Minor Independent",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Attack Medium Priority Unit",
+        "ListType": "Default Minor Independent",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Attack Low Priority Unit",
+        "ListType": "Default Minor Independent",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "Wander near camp",
+        "ListType": "Default Minor Independent",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 0
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_FOOD",
+        "ListType": "IdeologyCommunismYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_GOLD",
+        "ListType": "IdeologyDemocracyYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "IdeologyFascismYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "PRODUCTION",
+        "ListType": "Modern Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_BIPLANE",
+        "ListType": "Modern Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_TRENCH_FIGHTER",
+        "ListType": "Modern Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_BOMBER",
+        "ListType": "Modern Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_FIGHTER",
+        "ListType": "Modern Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_DIVEBOMBER",
+        "ListType": "Modern Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_HEAVY_BOMBER",
+        "ListType": "Modern Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_MARINE",
+        "ListType": "America Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_MARINE_2",
+        "ListType": "America Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_IRONCLAD",
+        "ListType": "America Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_FRIGATE",
+        "ListType": "America Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CRUISER",
+        "ListType": "America Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_DREADNOUGHT",
+        "ListType": "America Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_DESTROYER",
+        "ListType": "America Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_BATTLESHIP",
+        "ListType": "America Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SUBMARINE",
+        "ListType": "America Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_PROSPECTOR",
+        "ListType": "America Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "GOVERNMENT_ELECTIVE_REPUBLIC",
+        "ListType": "America Government Bias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "Resource Class",
+        "ListType": "America Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "RESOURCECLASS_BONUS",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES",
+        "Value": 5
+    },
+    {
+        "Favored": 1,
+        "Item": "Resource Class",
+        "ListType": "America Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "RESOURCECLASS_CITY",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES",
+        "Value": 5
+    },
+    {
+        "Favored": 1,
+        "Item": "Resource Class",
+        "ListType": "America Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "RESOURCECLASS_EMPIRE",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES",
+        "Value": 5
+    },
+    {
+        "Favored": 1,
+        "Item": "Resource Class",
+        "ListType": "America Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "RESOURCECLASS_FACTORY",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES",
+        "Value": 5
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_STEEL_MILL",
+        "ListType": "America Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_RAILYARD",
+        "ListType": "America Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_STATUE_OF_LIBERTY",
+        "ListType": "America Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_ABAMBOWA",
+        "ListType": "Buganda Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_ABAMBOWA_2",
+        "ListType": "Buganda Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_ABAMBOWA_3",
+        "ListType": "Buganda Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_FIELD_CANNON",
+        "ListType": "Buganda Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_FIELD_GUN",
+        "ListType": "Buganda Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_AT_GUN",
+        "ListType": "Buganda Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_MWAMI",
+        "ListType": "Buganda Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "GOVERNMENT_BUREAUCRATIC_MONARCHY",
+        "ListType": "Buganda Government Bias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "Specific Terrain",
+        "ListType": "Buganda Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "TERRAIN_NAVIGABLE_RIVER",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_TERRAIN",
+        "Value": 5
+    },
+    {
+        "Favored": 1,
+        "Item": "Lake",
+        "ListType": "Buganda Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_LAKE_COUNT",
+        "Value": 5
+    },
+    {
+        "Favored": 1,
+        "Item": "IMPROVEMENT_KABAKAS_LAKE",
+        "ListType": "Buganda Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_MUZIBU_AZAALA_MPANGA",
+        "ListType": "Buganda Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_GARDE_IMPERIALE",
+        "ListType": "French Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_GARDE_IMPERIALE_2",
+        "ListType": "French Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_GARDE_IMPERIALE_3",
+        "ListType": "French Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_MORTAR",
+        "ListType": "French Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_HEAVY_ARTILLERY",
+        "ListType": "French Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_ASSAULT_GUN",
+        "ListType": "French Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_JACOBIN",
+        "ListType": "French Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "GOVERNMENT_ELECTIVE_REPUBLIC",
+        "ListType": "French Government Bias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_SALON",
+        "ListType": "French Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_FORMAL_GARDEN",
+        "ListType": "French Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_EIFFEL_TOWER",
+        "ListType": "French Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_CITY_DEVELOPMENT",
+        "ListType": "French Budget Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_MIKASA",
+        "ListType": "Meiji Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_MIKASA_2",
+        "ListType": "Meiji Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_ZERO",
+        "ListType": "Meiji Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_ZERO_2",
+        "ListType": "Meiji Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_LINE_INFANTRY",
+        "ListType": "Meiji Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_RIFLEMAN",
+        "ListType": "Meiji Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_INFANTRY_COMPANY",
+        "ListType": "Meiji Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "GOVERNMENT_AUTHORITARIANISM",
+        "ListType": "Meiji Government Bias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_GINKO",
+        "ListType": "Meiji Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_JUKOGYO",
+        "ListType": "Meiji Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_DOGO_ONSEN",
+        "ListType": "Meiji Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PRODUCTION",
+        "ListType": "Meiji Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 0,
+        "Item": "Coastal",
+        "ListType": "Meiji Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_COAST",
+        "Value": 15
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SOLDADERAS",
+        "ListType": "Mexico Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SOLDADERAS_2",
+        "ListType": "Mexico Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SOLDADERAS_3",
+        "ListType": "Mexico Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CUIRASSIER",
+        "ListType": "Mexico Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_LANDSHIP",
+        "ListType": "Mexico Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_TANK",
+        "ListType": "Mexico Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_REVOLUCIONARIO",
+        "ListType": "Mexico Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_CATEDRAL",
+        "ListType": "Mexico Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_PORTAL_DE_MERCADERES",
+        "ListType": "Mexico Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_PALACIO_DE_BELLAS_ARTES",
+        "ListType": "Mexico Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "HAPPINESS",
+        "ListType": "Mexico Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SEPOY",
+        "ListType": "Mughal Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SEPOY_2",
+        "ListType": "Mughal Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SEPOY_3",
+        "ListType": "Mughal Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_MORTAR",
+        "ListType": "Mughal Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_HEAVY_ARTILLERY",
+        "ListType": "Mughal Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_ASSAULT_GUN",
+        "ListType": "Mughal Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "GOVERNMENT_BUREAUCRATIC_MONARCHY",
+        "ListType": "Mughal Government Bias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_RED_FORT",
+        "ListType": "Mughal Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "IMPROVEMENT_STEPWELL",
+        "ListType": "Mughal Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "IMPROVEMENT_FARM",
+        "ListType": "Mughal Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "GOLD",
+        "ListType": "Mughal Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_HUSSAR",
+        "ListType": "Prussia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_HUSSAR_2",
+        "ListType": "Prussia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_HUSSAR_3",
+        "ListType": "Prussia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_STUKA",
+        "ListType": "Prussia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_STUKA_2",
+        "ListType": "Prussia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CUIRASSIER",
+        "ListType": "Prussia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_LANDSHIP",
+        "ListType": "Prussia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_TANK",
+        "ListType": "Prussia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "GOVERNMENT_AUTHORITARIANISM",
+        "ListType": "Prussia Government Bias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_BRANDENBURG_GATE",
+        "ListType": "Prussia Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_STANDING_ARMY",
+        "ListType": "Prussia Budget Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Prussia Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_DESERT_FLOODPLAIN_MINOR",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 3
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Prussia Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_GRASSLAND_FLOODPLAIN_MINOR",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 3
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Prussia Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_PLAINS_FLOODPLAIN_MINOR",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 3
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Prussia Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_TROPICAL_FLOODPLAIN_MINOR",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 3
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Prussia Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_TUNDRA_FLOODPLAIN_MINOR",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 3
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Terrain",
+        "ListType": "Prussia Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "TERRAIN_NAVIGABLE_RIVER",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_TERRAIN",
+        "Value": 10
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_GUSA",
+        "ListType": "Qing Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_GUSA_2",
+        "ListType": "Qing Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_GUSA_3",
+        "ListType": "Qing Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_IRONCLAD",
+        "ListType": "Qing Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_FRIGATE",
+        "ListType": "Qing Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CRUISER",
+        "ListType": "Qing Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_DREADNOUGHT",
+        "ListType": "Qing Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_DESTROYER",
+        "ListType": "Qing Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_BATTLESHIP",
+        "ListType": "Qing Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SUBMARINE",
+        "ListType": "Qing Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "GOVERNMENT_BUREAUCRATIC_MONARCHY",
+        "ListType": "Qing Government Bias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_EXAMINATION_HALL",
+        "ListType": "Qing Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_MONEY_SHOP",
+        "ListType": "Qing Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_CHENGDE_MOUNTAIN_RESORT",
+        "ListType": "Qing Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_RESOURCE_IMPORT",
+        "ListType": "Qing PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_COSSACK",
+        "ListType": "Russia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_COSSACK_2",
+        "ListType": "Russia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_COSSACK_3",
+        "ListType": "Russia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_KATYUSHA",
+        "ListType": "Russia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_KATYUSHA_2",
+        "ListType": "Russia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_LINE_INFANTRY",
+        "ListType": "Russia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_RIFLEMAN",
+        "ListType": "Russia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_INFANTRY_COMPANY",
+        "ListType": "Russia Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "GOVERNMENT_AUTHORITARIANISM",
+        "ListType": "Russia Government Bias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "IMPROVEMENT_FARM",
+        "ListType": "Russia Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "IMPROVEMENT_OBSHCHINA",
+        "ListType": "Russia Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_HERMITAGE",
+        "ListType": "Russia Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Biome",
+        "ListType": "Russia Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "BIOME_TUNDRA",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_CITY_CENTER_BIOME",
+        "Value": 3
+    },
+    {
+        "Favored": 0,
+        "Item": "City Center Biome",
+        "ListType": "Russia Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "BIOME_TUNDRA",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_CITY_CENTER_BIOME",
+        "Value": 15
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_BUILD_QUEUE_IN_CITY",
+        "ListType": "Russia PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": -15
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CHANG_BEUN",
+        "ListType": "Siam Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CHANG_BEUN_2",
+        "ListType": "Siam Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CHANG_BEUN_3",
+        "ListType": "Siam Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_IRONCLAD",
+        "ListType": "Siam Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_FRIGATE",
+        "ListType": "Siam Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CRUISER",
+        "ListType": "Siam Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_DREADNOUGHT",
+        "ListType": "Siam Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_DESTROYER",
+        "ListType": "Siam Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_BATTLESHIP",
+        "ListType": "Siam Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SUBMARINE",
+        "ListType": "Siam Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_UPARAT",
+        "ListType": "Siam Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "GOVERNMENT_BUREAUCRATIC_MONARCHY",
+        "ListType": "Siam Government Bias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "IMPROVEMENT_BANG",
+        "ListType": "Siam Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "RAIL_STATION",
+        "ListType": "Siam Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_RADIO_STATION",
+        "ListType": "Siam Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_DOI_SUTHEP",
+        "ListType": "Siam Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "DefaultModernDeck",
+        "ListType": "DefaultDecklistBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_FACTORY",
+        "ListType": "LegacyPathStrategyRailroadsConstructibleBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 2000
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_RAIL_STATION",
+        "ListType": "LegacyPathStrategyRailroadsConstructibleBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 1000
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_PORT",
+        "ListType": "LegacyPathStrategyRailroadsConstructibleBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 1000
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_DEPARTMENT_STORE",
+        "ListType": "LegacyPathStrategyRailroadsConstructibleBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 500
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_RAIL_CONNECTION",
+        "ListType": "LegacyPathStrategyRailroadsPseudoYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 300
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_POTENTIAL_RAIL_CONNECTION",
+        "ListType": "LegacyPathStrategyRailroadsPseudoYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_NEW_CITY",
+        "ListType": "LegacyPathStrategyRailroadsPseudoYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_RESOURCE_IMPORT",
+        "ListType": "LegacyPathStrategyRailroadsPseudoYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_EXPANSION",
+        "ListType": "LegacyPathStrategyRailroadsBudgetBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "Resource Class",
+        "ListType": "LegacyPathStrategyRailroadsSettlements",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "RESOURCECLASS_FACTORY",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES",
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_STANDING_ARMY",
+        "ListType": "LegacyPathStrategyIdeologyBudgetBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_AIRFIELD",
+        "ListType": "LegacyPathStrategyIdeologyConstructibleBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 500
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_STANDING_ARMY_UNIT",
+        "ListType": "LegacyPathStrategyIdeologyPseduoyieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_STANDING_ARMY_UNIT_COMBAT_VALUE",
+        "ListType": "LegacyPathStrategyIdeologyPseduoyieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_UNLOCK_IDEOLOGIES",
+        "ListType": "LegacyPathStrategyIdeologyPseduoyieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 1000
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_IDEOLOGY_EARLY_PICK_PER_TIER",
+        "ListType": "LegacyPathStrategyIdeologyPseduoyieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 2000
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_NEW_CITY",
+        "ListType": "LegacyPathStrategyIdeologyPseduoyieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "NODE_TECH_MO_FLIGHT",
+        "ListType": "LegacyPathStrategyIdeologyProgressionTreeNodesBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "NODE_CIVIC_MO_MAIN_POLITICAL_THEORY",
+        "ListType": "LegacyPathStrategyIdeologyProgressionTreeNodesBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 2000
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_AIRFIELD",
+        "ListType": "LegacyPathStrategyThreeLaunchesConstructibleBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 500
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_LAUNCH_PAD",
+        "ListType": "LegacyPathStrategyThreeLaunchesConstructibleBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 500
+    },
+    {
+        "Favored": 1,
+        "Item": "PROJECT_TRANS_OCEANIC_FLIGHT",
+        "ListType": "LegacyPathStrategyThreeLaunchesProjectBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 1000
+    },
+    {
+        "Favored": 1,
+        "Item": "PROJECT_BREAK_SOUND_BARRIER",
+        "ListType": "LegacyPathStrategyThreeLaunchesProjectBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 1000
+    },
+    {
+        "Favored": 1,
+        "Item": "PROJECT_LAUNCH_SATELLITE",
+        "ListType": "LegacyPathStrategyThreeLaunchesProjectBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 1000
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_CITY_DEVELOPMENT",
+        "ListType": "LegacyPathStrategyThreeLaunchesBudgetBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_SCIENCE",
+        "ListType": "LegacyPathStrategyThreeLaunchesYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_VICTORY_PROJECT",
+        "ListType": "LegacyPathStrategyThreeLaunchesPseudoyieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 300
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_MUSEUM",
+        "ListType": "LegacyPathArtifactsConstructibleBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_EXPLORER",
+        "ListType": "LegacyPathArtifactsUnitBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_GREAT_WORK",
+        "ListType": "LegacyPathArtifactsPseudoYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_GREAT_WORK_SLOT",
+        "ListType": "LegacyPathArtifactsPseudoYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_BUILD_QUEUE_IN_CITY",
+        "ListType": "LegacyPathArtifactsPseudoYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_DIGGING_RESEARCHING_UNIT",
+        "ListType": "LegacyPathArtifactsPseudoYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 500
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_UNLOCK_CONTINENT_AGE_DIGGING",
+        "ListType": "LegacyPathArtifactsPseudoYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 500
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_UNLOCK_NATURAL_WONDER_DIGGING",
+        "ListType": "LegacyPathArtifactsPseudoYieldBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 500
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_CITY_DEVELOPMENT",
+        "ListType": "LegacyPathArtifactsBudgetBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "NODE_CIVIC_MO_MAIN_NATURAL_HISTORY",
+        "ListType": "LegacyPathArtifactsProgressionTreeNodesBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 400
+    },
+    {
+        "Favored": 1,
+        "Item": "NODE_CIVIC_MO_MAIN_HEGEMONY",
+        "ListType": "LegacyPathArtifactsProgressionTreeNodesBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 400
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_SCIENCE",
+        "ListType": "Ada Lovelace Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_CULTURE",
+        "ListType": "Ada Lovelace Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_TECH_MASTERY",
+        "ListType": "Ada Lovelace Pseudoyield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_CIVIC_MASTERY",
+        "ListType": "Ada Lovelace Pseudoyield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_HAPPINESS",
+        "ListType": "Ashoka Conqueror Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "Ashoka Conqueror Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_HAPPINESS",
+        "ListType": "Himiko Shaman Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_CULTURE",
+        "ListType": "Himiko Shaman Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_STANDING_ARMY",
+        "ListType": "Ashoka Conqueror Budget Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "HAPPINESS",
+        "ListType": "Himiko Shaman Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "Bolivar Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_GOLD",
+        "ListType": "Bolivar Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_STANDING_ARMY",
+        "ListType": "Bolivar Budget Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_STANDING_NAVY_COMBAT_VALUE",
+        "ListType": "Edward Teach Pseudoyield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_STANDING_NAVY_UNIT",
+        "ListType": "Edward Teach Pseudoyield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_HAPPINESS",
+        "ListType": "Fredrich Baroque Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "Fredrich Baroque Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_HAPPINESS",
+        "ListType": "Xerxes Achaemenid Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_CULTURE",
+        "ListType": "Xerxes Achaemenid Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_RESOURCE_IMPORT",
+        "ListType": "Xerxes Achaemenid Pseudoyield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "MILITARY",
+        "ListType": "Fredrich Baroque Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_MACHAPUCHARE",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_MOUNT_FUJI",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_VIHREN",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_VINICUNCA",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_DIPLOMACY",
+        "ListType": "Napoleon Emperor Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_GOLD",
+        "ListType": "Napoleon Emperor Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_STANDING_ARMY",
+        "ListType": "Napoleon Emperor Budget Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_CULTURE",
+        "ListType": "Napoleon Revolutionary Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "Napoleon Revolutionary Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_STANDING_ARMY",
+        "ListType": "Napoleon Revolutionary Budget Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_JANISSARY",
+        "ListType": "Ottomans Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_JANISSARY_2",
+        "ListType": "Ottomans Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_JANISSARY_3",
+        "ListType": "Ottomans Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_BARBARY_CORSAIR",
+        "ListType": "Ottomans Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_BARBARY_CORSAIR_2",
+        "ListType": "Ottomans Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_BARBARY_CORSAIR_3",
+        "ListType": "Ottomans Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_MORTAR",
+        "ListType": "Ottomans Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_HEAVY_ARTILLERY",
+        "ListType": "Ottomans Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_ASSAULT_GUN",
+        "ListType": "Ottomans Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_CAMII",
+        "ListType": "Ottomans Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_HAMMAM",
+        "ListType": "Ottomans Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_SULTANAHMET_CAMII",
+        "ListType": "Ottomans Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_GREAT_WORK",
+        "ListType": "Ottomans PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "Sayyida Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_DIPLOMACY",
+        "ListType": "Sayyida Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "DIPLOMACY_ACTION_ESPIONAGE_MILITARY_SABOTAGE",
+        "ListType": "Sayyida Diplomatic Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "DIPLOMACY_ACTION_ESPIONAGE_STEAL_TECH",
+        "ListType": "Sayyida Diplomatic Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "DIPLOMACY_ACTION_ESPIONAGE_STEAL_CIVIC",
+        "ListType": "Sayyida Diplomatic Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "DIPLOMACY_ACTION_ESPIONAGE_MILITARY_INFILTRATION",
+        "ListType": "Sayyida Diplomatic Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CLASS_NAVAL",
+        "ListType": "Sayyida Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_DIPLOMACY",
+        "ListType": "Tecumseh Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "Tecumseh Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_GREAT_BLUE_HOLE",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Feature",
+        "ListType": "Isabella Settle Plot Conditions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "FEATURE_MAPU_A_VAEA_BLOWHOLES",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_FEATURES",
+        "Value": 15
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_REVENGE",
+        "ListType": "Great Britian Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_REVENGE_2",
+        "ListType": "Great Britian Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_IRONCLAD",
+        "ListType": "Great Britian Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CRUISER",
+        "ListType": "Great Britian Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_DREADNOUGHT",
+        "ListType": "Great Britian Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_DESTROYER",
+        "ListType": "Great Britian Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SUBMARINE",
+        "ListType": "Great Britian Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_ANTIQUARIAN",
+        "ListType": "Great Britian Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "GOVERNMENT_BUREAUCRATIC_MONARCHY",
+        "ListType": "Great Britian Government Bias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "Resource Class",
+        "ListType": "Great Britian Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "RESOURCECLASS_FACTORY",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES",
+        "Value": 5
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_ROYAL_EXCHANGE",
+        "ListType": "Great Britian Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_MANUFACTORY",
+        "ListType": "Great Britian Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_PORT",
+        "ListType": "Great Britian Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_MUSEUM",
+        "ListType": "Great Britian Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_BATTERSEA_POWER_STATION",
+        "ListType": "Great Britian Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_BUILD_QUEUE_IN_CITY",
+        "ListType": "Great Britian Pseudoyield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": -15
+    },
+    {
+        "Favored": 1,
+        "Item": "DIPLOMACY_ACTION_FORM_ALLIANCE",
+        "ListType": "Default Diplomatic",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": -15
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_REVENGE",
+        "ListType": "Britain Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_REVENGE_2",
+        "ListType": "Britain Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_ANTIQUARIAN",
+        "ListType": "Britain Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_IRONCLAD",
+        "ListType": "Britain Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_FRIGATE",
+        "ListType": "Britain Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CRUISER",
+        "ListType": "Britain Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_DESTROYER",
+        "ListType": "Britain Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SUBMARINE",
+        "ListType": "Britain Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "GOVERNMENT_BUREAUCRATIC_MONARCHY",
+        "ListType": "Britain Government Bias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_PORT",
+        "ListType": "Britain Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_ROYAL_EXCHANGE",
+        "ListType": "Britain Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_MANUFACTORY",
+        "ListType": "Britain Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_BATTERSEA_POWER_STATION",
+        "ListType": "Britain Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "Resource Class",
+        "ListType": "Britain Settlement Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "RESOURCECLASS_FACTORY",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES",
+        "Value": 5
+    },
+    {
+        "Favored": 1,
+        "Item": "GREATWORK",
+        "ListType": "Britain Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_RESOURCE",
+        "ListType": "Britain PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_BUILD_QUEUE_IN_CITY",
+        "ListType": "Britain PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": -15
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_GURKHA",
+        "ListType": "Nepal Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_GURKHA_2",
+        "ListType": "Nepal Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_GURKHA_3",
+        "ListType": "Nepal Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SHERPA",
+        "ListType": "Nepal Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "GOVERNMENT_ELECTIVE_REPUBLIC",
+        "ListType": "Nepal Government Bias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "IMPROVEMENT_HIGHLAND_POWER_STATION",
+        "ListType": "Nepal Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_BOUDHANATH",
+        "ListType": "Nepal Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 0,
+        "Item": "Specific Terrain",
+        "ListType": "Nepal Settle Plot Evaluations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": "TERRAIN_MOUNTAIN",
+        "TooltipString": "LOC_SETTLEMENT_RECOMMENDATION_TERRAIN",
+        "Value": 10
+    },
+    {
+        "Favored": 1,
+        "Item": "WAREHOUSE",
+        "ListType": "Nepal Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "DIPLOMACY_ACTION_GIFT_GURKHA",
+        "ListType": "Nepal Diplo Actions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_PRODUCTION",
+        "ListType": "Genghis Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_GOLD",
+        "ListType": "Genghis Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "AI_BUDGET_STANDING_ARMY",
+        "ListType": "Genghis Budget Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CLASS_MOUNTED",
+        "ListType": "Genghis Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CLASS_CAVALRY",
+        "ListType": "Genghis Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_CLASS_ARMY_COMMANDER",
+        "ListType": "Genghis Tag Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_DIPLOMACY",
+        "ListType": "Lakshmibai Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "YIELD_CULTURE",
+        "ListType": "Lakshmibai Yield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 25
+    },
+    {
+        "Favored": 1,
+        "Item": "DIPLOMACY_ACTION_GIVE_INFLUENCE_TOKEN",
+        "ListType": "Lakshmibai Diplomatic Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "DIPLOMACY_ACTION_CS_INCORPORATE",
+        "ListType": "Lakshmibai Diplomatic Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 100
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_GHILMAN",
+        "ListType": "Qajar Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_GHILMAN_2",
+        "ListType": "Qajar Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_GHILMAN_3",
+        "ListType": "Qajar Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SOLTAN",
+        "ListType": "Qajar Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "UNIT_SETTLER",
+        "ListType": "Qajar Unit Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": -1000
+    },
+    {
+        "Favored": 1,
+        "Item": "GOVERNMENT_BUREAUCRATIC_MONARCHY",
+        "ListType": "Qajar Government Bias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_TAKYEH",
+        "ListType": "Qajar Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "BUILDING_GHAHVE_KHANE",
+        "ListType": "Qajar Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    },
+    {
+        "Favored": 1,
+        "Item": "WONDER_ERAM_GARDEN",
+        "ListType": "Qajar Constructibles Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 50
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_NEW_CITY",
+        "ListType": "Qajar PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": -1000
+    },
+    {
+        "Favored": 1,
+        "Item": "PSEUDOYIELD_SETTLEMENT_CAP_INCREASE",
+        "ListType": "Qajar PseudoYield Biases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "StringVal": null,
+        "TooltipString": null,
+        "Value": 200
+    }
+]

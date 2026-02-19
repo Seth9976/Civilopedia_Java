@@ -1,0 +1,137 @@
+[
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_MILITARY",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_MILITARY_EMERGENCY_SUMMARY",
+        "ExtraEffects": "LOC_EMERGENCY_EXTRA_EFFECTS_MILITARY",
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_MILITARY",
+        "Type": "Military"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_CITY_STATE",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_CITY_STATE_EMERGENCY_SUMMARY",
+        "ExtraEffects": "LOC_EMERGENCY_EXTRA_EFFECTS_CITY_STATE",
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_CITY_STATE",
+        "Type": "CityState"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_RELIGIOUS",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_RELIGIOUS_EMERGENCY_SUMMARY",
+        "ExtraEffects": null,
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_RELIGIOUS",
+        "Type": "Religious"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_NUCLEAR",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_NUCLEAR_EMERGENCY_SUMMARY",
+        "ExtraEffects": "LOC_EMERGENCY_EXTRA_EFFECTS_NUCLEAR",
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_NUCLEAR",
+        "Type": "Nuclear"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_BACKSTAB",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_BETRAYAL_EMERGENCY_SUMMARY",
+        "ExtraEffects": "LOC_EMERGENCY_EXTRA_EFFECTS_BACKSTAB",
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_BACKSTAB",
+        "Type": "Backstab"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_GREAT_ARTISTS",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_NOBEL_PRIZE_LITERATURE_SUMMARY",
+        "ExtraEffects": null,
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_GREAT_ARTISTS",
+        "Type": "GreatArtists"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_GREAT_STEMS",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_NOBEL_PRIZE_SCIENCE_SUMMARY",
+        "ExtraEffects": null,
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_GREAT_STEMS",
+        "Type": "GreatStems"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_FAVOR",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_NOBEL_PRIZE_PEACE_SUMMARY",
+        "ExtraEffects": null,
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_FAVOR",
+        "Type": "Favor"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_REQUEST_AID",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_AID_REQUEST_SUMMARY",
+        "ExtraEffects": null,
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_REQUEST_AID",
+        "Type": "SendAid"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_REQUEST_MILITARY_AID",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_MILITARY_AID_REQUEST_SUMMARY",
+        "ExtraEffects": null,
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_REQUEST_MILITARY_AID",
+        "Type": "SendMilitaryAid"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_SCORE_COMPETITION_CULTURAL",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_WORLDS_FAIR_SUMMARY",
+        "ExtraEffects": null,
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_SCORE_COMPETITION_CULTURAL",
+        "Type": "WorldsFair"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_SPACE_STATION",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_ISS_SUMMARY",
+        "ExtraEffects": null,
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_SPACE_STATION",
+        "Type": "SpaceStation"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_CLIMATE_ACCORDS",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_CLIMATE_ACCORD_SUMMARY",
+        "ExtraEffects": null,
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_CLIMATE_ACCORDS",
+        "Type": "ClimateAccords"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_WORLD_GAMES",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_WORLD_GAMES_SUMMARY",
+        "ExtraEffects": null,
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_WORLD_GAMES",
+        "Type": "WorldGames"
+    },
+    {
+        "Description": "LOC_EMERGENCY_DESCRIPTION_APPEASE",
+        "DescriptionShorter": "LOC_WORLD_CONGRESS_APPEASE_SUMMARY",
+        "ExtraEffects": null,
+        "ExtraFailureRewards": null,
+        "ExtraRewards": null,
+        "Flavor": "LOC_EMERGENCY_FLAVOR_APPEASE",
+        "Type": "Soothsayer"
+    }
+]

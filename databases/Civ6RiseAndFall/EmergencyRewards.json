@@ -1,0 +1,128 @@
+[
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_INCREASED_HEALING",
+        "EmergencyType": "EMERGENCY_MILITARY",
+        "FirstPlace": 0,
+        "ModifierID": "MILITARY_EMERGENCY_MEMBER_HEALING_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_CITY_STRIKE",
+        "EmergencyType": "EMERGENCY_MILITARY",
+        "FirstPlace": 0,
+        "ModifierID": "MILITARY_EMERGENCY_TARGET_CITY_STRIKE_REWARD",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN",
+        "EmergencyType": "EMERGENCY_SETTLED_CITY",
+        "FirstPlace": 0,
+        "ModifierID": "SETTLEMENT_EMERGENCY_MEMBER_GPT_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN",
+        "EmergencyType": "EMERGENCY_SETTLED_CITY",
+        "FirstPlace": 0,
+        "ModifierID": "SETTLEMENT_EMERGENCY_TARGET_GPT_REWARD",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_CITY_STATE_GOLD_PER_ENVOY",
+        "EmergencyType": "EMERGENCY_CAPTURE_CITY_STATE",
+        "FirstPlace": 0,
+        "ModifierID": "CITY_STATE_EMERGENCY_MEMBER_ENVOY_GOLD_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_CITY_STATE_GOLD_FOR_TRADE_ROUTES",
+        "EmergencyType": "EMERGENCY_CAPTURE_CITY_STATE",
+        "FirstPlace": 0,
+        "ModifierID": "CITY_STATE_EMERGENCY_TARGET_ENVOY_GOLD_REWARD",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_RELIGIOUS_RELICS",
+        "EmergencyType": "EMERGENCY_RELIGIOUS",
+        "FirstPlace": 0,
+        "ModifierID": "RELIGIOUS_EMERGENCY_MEMBER_RELIC_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_RELIGIOUS_PRESSURE",
+        "EmergencyType": "EMERGENCY_RELIGIOUS",
+        "FirstPlace": 0,
+        "ModifierID": "RELIGIOUS_EMERGENCY_TARGET_PRESSURE_REWARD",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH",
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "FirstPlace": 0,
+        "ModifierID": "NUCLEAR_EMERGENCY_MEMBER_COMBAT_STRENGTH_ATTACK_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": null,
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "FirstPlace": 0,
+        "ModifierID": "NUCLEAR_EMERGENCY_MEMBER_COMBAT_STRENGTH_DEFEND_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_NUCLEAR_CULTURE_SCARE",
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "FirstPlace": 0,
+        "ModifierID": "NUCLEAR_EMERGENCY_TARGET_CULTURAL_IDENTITY_REWARD",
+        "OnSuccess": 0,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_COMBAT_STRENGTH",
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "FirstPlace": 0,
+        "ModifierID": "BACKSTAB_EMERGENCY_MEMBER_COMBAT_STRENGTH_ATTACK_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": null,
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "FirstPlace": 0,
+        "ModifierID": "BACKSTAB_EMERGENCY_MEMBER_COMBAT_STRENGTH_DEFEND_REWARD",
+        "OnSuccess": 1,
+        "TopTier": 0
+    },
+    {
+        "BottomTier": 0,
+        "Description": "LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_WAR_WEARINESS",
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "FirstPlace": 0,
+        "ModifierID": "BACKSTAB_EMERGENCY_TARGET_WAR_WEARINESS_REWARD",
+        "OnSuccess": 0,
+        "TopTier": 0
+    }
+]

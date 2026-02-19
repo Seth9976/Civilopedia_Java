@@ -1,0 +1,46 @@
+[
+    {
+        "CombatTag": "UNIT_CLASS_MELEE",
+        "TribeTagSet": "DEFAULT_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_RANGED",
+        "TribeTagSet": "DEFAULT_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_SKIRMISH",
+        "TribeTagSet": "DEFAULT_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_MELEE",
+        "TribeTagSet": "NAVAL_LAND_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_RANGED",
+        "TribeTagSet": "NAVAL_LAND_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_SKIRMISH",
+        "TribeTagSet": "NAVAL_LAND_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_MELEE",
+        "TribeTagSet": "NAVAL_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_RANGED",
+        "TribeTagSet": "NAVAL_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_MELEE",
+        "TribeTagSet": "CRISIS_COMBAT_UNITS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_RANGED",
+        "TribeTagSet": "CRISIS_COMBAT_UNITS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_SKIRMISH",
+        "TribeTagSet": "CRISIS_COMBAT_UNITS"
+    }
+]

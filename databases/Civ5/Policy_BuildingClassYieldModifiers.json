@@ -1,0 +1,20 @@
+[
+    {
+        "BuildingClassType": "BUILDINGCLASS_UNIVERSITY",
+        "PolicyType": "POLICY_FREE_THOUGHT",
+        "YieldMod": 17,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_TEMPLE",
+        "PolicyType": "POLICY_THEOCRACY",
+        "YieldMod": 25,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_FACTORY",
+        "PolicyType": "POLICY_WORKERS_FACULTIES",
+        "YieldMod": 25,
+        "YieldType": "YIELD_SCIENCE"
+    }
+]

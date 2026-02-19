@@ -1,0 +1,22 @@
+[
+    {
+        "SpecialistType": "SPECIALIST_CITIZEN",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "SpecialistType": "SPECIALIST_MERCHANT",
+        "Yield": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "SpecialistType": "SPECIALIST_SCIENTIST",
+        "Yield": 3,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "SpecialistType": "SPECIALIST_ENGINEER",
+        "Yield": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    }
+]

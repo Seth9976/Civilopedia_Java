@@ -1,0 +1,38 @@
+[
+    {
+        "ConsumedBuildingType": "BUILDING_FOSSIL_FUEL_POWER_PLANT",
+        "ProjectType": "PROJECT_CONVERT_REACTOR_TO_COAL"
+    },
+    {
+        "ConsumedBuildingType": "BUILDING_POWER_PLANT",
+        "ProjectType": "PROJECT_CONVERT_REACTOR_TO_COAL"
+    },
+    {
+        "ConsumedBuildingType": "BUILDING_COAL_POWER_PLANT",
+        "ProjectType": "PROJECT_CONVERT_REACTOR_TO_OIL"
+    },
+    {
+        "ConsumedBuildingType": "BUILDING_POWER_PLANT",
+        "ProjectType": "PROJECT_CONVERT_REACTOR_TO_OIL"
+    },
+    {
+        "ConsumedBuildingType": "BUILDING_COAL_POWER_PLANT",
+        "ProjectType": "PROJECT_CONVERT_REACTOR_TO_URANIUM"
+    },
+    {
+        "ConsumedBuildingType": "BUILDING_FOSSIL_FUEL_POWER_PLANT",
+        "ProjectType": "PROJECT_CONVERT_REACTOR_TO_URANIUM"
+    },
+    {
+        "ConsumedBuildingType": "BUILDING_COAL_POWER_PLANT",
+        "ProjectType": "PROJECT_DECOMMISSION_COAL_POWER_PLANT"
+    },
+    {
+        "ConsumedBuildingType": "BUILDING_FOSSIL_FUEL_POWER_PLANT",
+        "ProjectType": "PROJECT_DECOMMISSION_OIL_POWER_PLANT"
+    },
+    {
+        "ConsumedBuildingType": "BUILDING_POWER_PLANT",
+        "ProjectType": "PROJECT_DECOMMISSION_NUCLEAR_POWER_PLANT"
+    }
+]

@@ -1,0 +1,668 @@
+[
+    {
+        "AggregateDataPoint": "CitiesFounded",
+        "DataPoint": "CitiesFounded",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataSet_Values",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "CitiesLost",
+        "DataPoint": "CitiesLost",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataSet_Values",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "CitiesConquered",
+        "DataPoint": "CitiesConquered",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataSet_Values",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "CityWithHighestPopulation",
+        "DataPoint": "Population",
+        "ExtraData": "City",
+        "Operation": "Max",
+        "Query": "ObjectDataPoints_PlayerObjects_ByType",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "FavoriteGovernment",
+        "DataPoint": "GovernmentInUseByType",
+        "ExtraData": null,
+        "Operation": "Max",
+        "Query": "ObjectDataPoints",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "FavoriteUnit",
+        "DataPoint": "UnitsTrainedByType",
+        "ExtraData": null,
+        "Operation": "Max",
+        "Query": "ObjectDataPoints",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "StrongestUnit",
+        "DataPoint": "UnitsKilledByType",
+        "ExtraData": null,
+        "Operation": "Max",
+        "Query": "ObjectDataPoints",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "WeakestUnit",
+        "DataPoint": "UnitsLostByType",
+        "ExtraData": null,
+        "Operation": "Max",
+        "Query": "ObjectDataPoints",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "UnitsKilled",
+        "DataPoint": "UnitsKilledByType",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "UnitsLost",
+        "DataPoint": "UnitsLostByType",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "UnitsTrained",
+        "DataPoint": "UnitsTrainedByType",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "NukesLaunched",
+        "DataPoint": "NukesLaunched",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataSet_Values",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "NaturalWondersDiscovered",
+        "DataPoint": "NaturalWondersDiscovered",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataSet_Values",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "WondersConstructed",
+        "DataPoint": "WondersConstructed",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataSet_Values",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "TechsAcquired",
+        "DataPoint": "TechsAcquired",
+        "ExtraData": null,
+        "Operation": "First",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "CivicsAcquired",
+        "DataPoint": "CivicsAcquired",
+        "ExtraData": null,
+        "Operation": "First",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Combats",
+        "DataPoint": "Combats",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataSet_Values",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "GreatPeopleEarned",
+        "DataPoint": "GreatPeopleEarned",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataSet_Values",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "WarsDeclared",
+        "DataPoint": "WarsDeclared",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataSet_Values",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "WarsReceived",
+        "DataPoint": "WarsReceived",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataSet_Values",
+        "Scope": "MajorPlayers",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "CitiesConquered",
+        "DataPoint": "CitiesConquered",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_Players",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "CitiesFounded",
+        "DataPoint": "CitiesFounded",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_Players",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "CitiesLost",
+        "DataPoint": "CitiesLost",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_Players",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "CityWithHighestPopulation",
+        "DataPoint": "Population",
+        "ExtraData": "City",
+        "Operation": "Max",
+        "Query": "ObjectDataPoints_ByType",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "FavoriteGovernment",
+        "DataPoint": "GovernmentInUseByType",
+        "ExtraData": null,
+        "Operation": "MaxSum",
+        "Query": "ObjectDataPoints_Players_NoCoalesce",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "FavoriteUnit",
+        "DataPoint": "UnitsTrainedByType",
+        "ExtraData": null,
+        "Operation": "MaxSum",
+        "Query": "ObjectDataPoints_Players_NoCoalesce",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "MostFollowedReligion",
+        "DataPoint": "Followers",
+        "ExtraData": "Religion",
+        "Operation": "Max",
+        "Query": "ObjectDataPoints_ByType",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "NaturalWondersDiscovered",
+        "DataPoint": "NaturalWondersDiscovered",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_Players",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "NukesLaunched",
+        "DataPoint": "NukesLaunched",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_Players",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "ReligionsFounded",
+        "DataPoint": "Followers",
+        "ExtraData": "Religion",
+        "Operation": "Count",
+        "Query": "ObjectDataPoints_ByType",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "StrongestUnit",
+        "DataPoint": "UnitsKilledByType",
+        "ExtraData": null,
+        "Operation": "MaxSum",
+        "Query": "ObjectDataPoints_Players_NoCoalesce",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "UnitsKilled",
+        "DataPoint": "UnitsKilledByType",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_Players",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "UnitsLost",
+        "DataPoint": "UnitsLostByType",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_Players",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "UnitsTrained",
+        "DataPoint": "UnitsTrainedByType",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_Players",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "WeakestUnit",
+        "DataPoint": "UnitsLostByType",
+        "ExtraData": null,
+        "Operation": "MaxSum",
+        "Query": "ObjectDataPoints_Players_NoCoalesce",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "WondersConstructed",
+        "DataPoint": "WondersConstructed",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_Players",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Combats",
+        "DataPoint": "Combats",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_Players",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "GreatPeopleEarned",
+        "DataPoint": "GreatPeopleEarned",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_Players",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "WarsDeclared",
+        "DataPoint": "WarsDeclared",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_Players",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "WarsReceived",
+        "DataPoint": "WarsReceived",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_Players",
+        "Scope": "Games",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "CitiesConquered",
+        "DataPoint": "CitiesConquered",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "CitiesFounded",
+        "DataPoint": "CitiesFounded",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "CitiesLost",
+        "DataPoint": "CitiesLost",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "CityWithHighestPopulation",
+        "DataPoint": "Population",
+        "ExtraData": "City",
+        "Operation": "MaxSum",
+        "Query": "ObjectDataPoints_LocalPlayerObjects_ByType",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "FavoriteGovernment",
+        "DataPoint": "GovernmentInUseByType",
+        "ExtraData": null,
+        "Operation": "MaxSum",
+        "Query": "ObjectDataPoints_LocalPlayers_NoCoalesce",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "FavoriteUnit",
+        "DataPoint": "UnitsTrainedByType",
+        "ExtraData": null,
+        "Operation": "MaxSum",
+        "Query": "ObjectDataPoints_LocalPlayers_NoCoalesce",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "MostFollowedReligion",
+        "DataPoint": "Followers",
+        "ExtraData": "Religion",
+        "Operation": "Max",
+        "Query": "ObjectDataPoints_ByType",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "NaturalWondersDiscovered",
+        "DataPoint": "NaturalWondersDiscovered",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "NukesLaunched",
+        "DataPoint": "NukesLaunched",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "ReligionsFounded",
+        "DataPoint": "Followers",
+        "ExtraData": "Religion",
+        "Operation": "Count",
+        "Query": "ObjectDataPoints_ByType",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "StrongestUnit",
+        "DataPoint": "UnitsKilledByType",
+        "ExtraData": null,
+        "Operation": "MaxSum",
+        "Query": "ObjectDataPoints_LocalPlayers_NoCoalesce",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "UnitsKilled",
+        "DataPoint": "UnitsKilledByType",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "UnitsLost",
+        "DataPoint": "UnitsLostByType",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "UnitsTrained",
+        "DataPoint": "UnitsTrainedByType",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "WeakestUnit",
+        "DataPoint": "UnitsLostByType",
+        "ExtraData": null,
+        "Operation": "MaxSum",
+        "Query": "ObjectDataPoints_LocalPlayers_NoCoalesce",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "WondersConstructed",
+        "DataPoint": "WondersConstructed",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Combats",
+        "DataPoint": "Combats",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "GreatPeopleEarned",
+        "DataPoint": "GreatPeopleEarned",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "WarsDeclared",
+        "DataPoint": "WarsDeclared",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "WarsReceived",
+        "DataPoint": "WarsReceived",
+        "ExtraData": null,
+        "Operation": "Sum",
+        "Query": "ObjectDataPoints_LocalPlayers",
+        "Scope": "Rulesets",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Culture",
+        "DataPoint": "Culture",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "MajorCityObjects",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Faith",
+        "DataPoint": "Faith",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "MajorCityObjects",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Food",
+        "DataPoint": "Food",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "MajorCityObjects",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Gold",
+        "DataPoint": "Gold",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "MajorCityObjects",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Population",
+        "DataPoint": "Population",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "MajorCityObjects",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Production",
+        "DataPoint": "Production",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "MajorCityObjects",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Science",
+        "DataPoint": "Science",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "MajorCityObjects",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Tourism",
+        "DataPoint": "Tourism",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "MajorCityObjects",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "BuildingsConstructed",
+        "DataPoint": "BuildingsConstructed",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "MajorCityObjects",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "DistrictsConstructed",
+        "DataPoint": "DistrictsConstructed",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "MajorCityObjects",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "WondersConstructed",
+        "DataPoint": "WondersConstructed",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "MajorCityObjects",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Beliefs",
+        "DataPoint": "Beliefs",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "ReligionObjects",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Cities",
+        "DataPoint": "Cities",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "ReligionObjects",
+        "SortIndex": 0
+    },
+    {
+        "AggregateDataPoint": "Followers",
+        "DataPoint": "Followers",
+        "ExtraData": null,
+        "Operation": "Last",
+        "Query": "ObjectDataSet_LastValue",
+        "Scope": "ReligionObjects",
+        "SortIndex": 0
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "CanBuildWonders": 0,
+        "CanEarnGreatPeople": 0,
+        "CanFoundCities": 0,
+        "CanGiveInfluence": 0,
+        "CanReceiveInfluence": 0,
+        "CivilizationLevelType": "CIVILIZATION_LEVEL_NONE",
+        "IgnoresUnitStrategicResourceRequirements": 1
+    },
+    {
+        "CanBuildWonders": 0,
+        "CanEarnGreatPeople": 0,
+        "CanFoundCities": 0,
+        "CanGiveInfluence": 0,
+        "CanReceiveInfluence": 1,
+        "CivilizationLevelType": "CIVILIZATION_LEVEL_INDEPENDENT",
+        "IgnoresUnitStrategicResourceRequirements": 1
+    },
+    {
+        "CanBuildWonders": 0,
+        "CanEarnGreatPeople": 0,
+        "CanFoundCities": 0,
+        "CanGiveInfluence": 0,
+        "CanReceiveInfluence": 1,
+        "CivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE",
+        "IgnoresUnitStrategicResourceRequirements": 1
+    },
+    {
+        "CanBuildWonders": 1,
+        "CanEarnGreatPeople": 1,
+        "CanFoundCities": 1,
+        "CanGiveInfluence": 1,
+        "CanReceiveInfluence": 0,
+        "CivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV",
+        "IgnoresUnitStrategicResourceRequirements": 0
+    }
+]

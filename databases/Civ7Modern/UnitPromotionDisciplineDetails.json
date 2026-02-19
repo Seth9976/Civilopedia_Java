@@ -1,0 +1,891 @@
+[
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_COMMENDATION_VALOR",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_VALOR"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_COMMENDATION_DUTY",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_DUTY"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_COMMENDATION_MERIT",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_MERIT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_COMMENDATION_ORDER",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_ORDER"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_COMMENDATION_SERVICE",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_ARMY_SERVICE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_BASTION",
+        "UnitPromotionType": "PROMOTION_ARMY_STEADFAST"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_STEADFAST",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_BASTION",
+        "UnitPromotionType": "PROMOTION_ARMY_BULWARK"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_STEADFAST",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_BASTION",
+        "UnitPromotionType": "PROMOTION_ARMY_HOLD_THE_LINE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_BULWARK",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_BASTION",
+        "UnitPromotionType": "PROMOTION_ARMY_DEFILADE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_HOLD_THE_LINE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_BASTION",
+        "UnitPromotionType": "PROMOTION_ARMY_GARRISON"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_GARRISON",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_BASTION",
+        "UnitPromotionType": "PROMOTION_ARMY_RESOLUTE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_DEFILADE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_BASTION",
+        "UnitPromotionType": "PROMOTION_ARMY_RESOLUTE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_ASSAULT",
+        "UnitPromotionType": "PROMOTION_ARMY_INITIATIVE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_INITIATIVE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_ASSAULT",
+        "UnitPromotionType": "PROMOTION_ARMY_ROUT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_INITIATIVE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_ASSAULT",
+        "UnitPromotionType": "PROMOTION_ARMY_STORM"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_ROUT",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_ASSAULT",
+        "UnitPromotionType": "PROMOTION_ARMY_SHOCK_TACTICS"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_STORM",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_ASSAULT",
+        "UnitPromotionType": "PROMOTION_ARMY_ENFILADE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_SHOCK_TACTICS",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_ASSAULT",
+        "UnitPromotionType": "PROMOTION_ARMY_ADVANCEMENT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_ENFILADE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_ASSAULT",
+        "UnitPromotionType": "PROMOTION_ARMY_ADVANCEMENT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_ARMY_QUARTERMASTER"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_ARMY_RECRUITMENT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_QUARTERMASTER",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_ARMY_REGIMENTS"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_RECRUITMENT",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_ARMY_REGIMENTS"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_REGIMENTS",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_ARMY_FIELD_MEDIC"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_REGIMENTS",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_ARMY_LOOTING"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_FIELD_MEDIC",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_ARMY_SURVIVAL_TRAINING"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_LOOTING",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_ARMY_SURVIVAL_TRAINING"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_MANEUVER",
+        "UnitPromotionType": "PROMOTION_ARMY_MOBILITY"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_MOBILITY",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_MANEUVER",
+        "UnitPromotionType": "PROMOTION_ARMY_HARASSMENT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_MOBILITY",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_MANEUVER",
+        "UnitPromotionType": "PROMOTION_ARMY_REDEPLOY"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_HARASSMENT",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_MANEUVER",
+        "UnitPromotionType": "PROMOTION_ARMY_AMPHIBIOUS"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_REDEPLOY",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_MANEUVER",
+        "UnitPromotionType": "PROMOTION_ARMY_AMPHIBIOUS"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_HARASSMENT",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_MANEUVER",
+        "UnitPromotionType": "PROMOTION_ARMY_PATHFINDER"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_REDEPLOY",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_MANEUVER",
+        "UnitPromotionType": "PROMOTION_ARMY_PATHFINDER"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_AMPHIBIOUS",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_MANEUVER",
+        "UnitPromotionType": "PROMOTION_ARMY_AREA_DENIAL"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_PATHFINDER",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_MANEUVER",
+        "UnitPromotionType": "PROMOTION_ARMY_AREA_DENIAL"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_ARMY_ZEAL"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_ZEAL",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_ARMY_FIELD_COMMISSION"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_FIELD_COMMISSION",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_ARMY_OLD_GUARD"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_FIELD_COMMISSION",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_ARMY_RESILIENCE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 1,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_RESILIENCE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_ARMY_BARRAGE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 1,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_OLD_GUARD",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_ARMY_BARRAGE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 1,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_OLD_GUARD",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_ARMY_ONSLAUGHT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 1,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_RESILIENCE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_ARMY_ONSLAUGHT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_COMMENDATION_VALOR",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_VALOR"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_COMMENDATION_DUTY",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_DUTY"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_COMMENDATION_MERIT",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_MERIT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_COMMENDATION_ORDER",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_ORDER"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_COMMENDATION_SERVICE",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_FLEET_SERVICE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_BOMBARDMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_SHELLING"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_BOMBARDMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_NAVAL_ARTILLERY"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_SHELLING",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_BOMBARDMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_SPOTTER"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_NAVAL_ARTILLERY",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_BOMBARDMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_SECONDARY_ARMAMENT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_SPOTTER",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_BOMBARDMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_GUNFIRE_SUPPORT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_SECONDARY_ARMAMENT",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_BOMBARDMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_GUNFIRE_SUPPORT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_ENGAGEMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_REINFORCED_HULL"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_ENGAGEMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_WEATHER_GAGE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_REINFORCED_HULL",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_ENGAGEMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_RAKING_FIRE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_WEATHER_GAGE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_ENGAGEMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_SALVO"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_RAKING_FIRE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_ENGAGEMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_FUSILLADE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_SALVO",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_ENGAGEMENT",
+        "UnitPromotionType": "PROMOTION_FLEET_FUSILLADE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_FLEET_QUARTERMASTER"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_FLEET_WARSHIPS"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_QUARTERMASTER",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_FLEET_FLOTILLA"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_WARSHIPS",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_FLEET_FLOTILLA"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_FLOTILLA",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_FLEET_SHIPS_TENDER"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_FLOTILLA",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_FLEET_LOOTING"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_MANEUVER",
+        "UnitPromotionType": "PROMOTION_FLEET_CHARTS"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_MANEUVER",
+        "UnitPromotionType": "PROMOTION_FLEET_LOOKOUT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_CHARTS",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_MANEUVER",
+        "UnitPromotionType": "PROMOTION_FLEET_CROSSING_THE_T"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_LOOKOUT",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_MANEUVER",
+        "UnitPromotionType": "PROMOTION_FLEET_CROSSING_THE_T"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_CHARTS",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_MANEUVER",
+        "UnitPromotionType": "PROMOTION_FLEET_BRACE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_LOOKOUT",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_MANEUVER",
+        "UnitPromotionType": "PROMOTION_FLEET_BRACE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_CROSSING_THE_T",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_MANEUVER",
+        "UnitPromotionType": "PROMOTION_FLEET_DEAD_RECKONING"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_BRACE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_MANEUVER",
+        "UnitPromotionType": "PROMOTION_FLEET_DEAD_RECKONING"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_FLEET_ZEAL"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_ZEAL",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_FLEET_FIELD_COMMISSION"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_ZEAL",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_FLEET_FLAGSHIP"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_FIELD_COMMISSION",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_FLEET_CONVOYS"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_FLAGSHIP",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_FLEET_CONVOYS"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_FIELD_COMMISSION",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_FLEET_BARRAGE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_FLEET_FLAGSHIP",
+        "UnitPromotionDisciplineType": "DISCIPLINE_FLEET_LEADERSHIP",
+        "UnitPromotionType": "PROMOTION_FLEET_BARRAGE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_COMMENDATION_VALOR",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_SQUADRON_ACHIEVEMENT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_COMMENDATION_SERVICE",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_SQUADRON_SERVICE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_COMMENDATION_ORDER",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_SQUADRON_ORDER"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_DOGFIGHTING",
+        "UnitPromotionType": "PROMOTION_SQUADRON_SYNCHRONIZATION"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_SYNCHRONIZATION",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_DOGFIGHTING",
+        "UnitPromotionType": "PROMOTION_SQUADRON_EVASIVE_MANEUVERS"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_SYNCHRONIZATION",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_DOGFIGHTING",
+        "UnitPromotionType": "PROMOTION_SQUADRON_COMBAT_SPREAD"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_COMBAT_SPREAD",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_DOGFIGHTING",
+        "UnitPromotionType": "PROMOTION_SQUADRON_ACE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_EVASIVE_MANEUVERS",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_DOGFIGHTING",
+        "UnitPromotionType": "PROMOTION_SQUADRON_ACE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_RAIDS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_TACTICAL_STRIKE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_TACTICAL_STRIKE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_RAIDS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_FORMATIONS"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_TACTICAL_STRIKE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_RAIDS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_SATURATION"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_SATURATION",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_RAIDS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_OBLITERATION"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_FORMATIONS",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_RAIDS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_OBLITERATION"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_FIELD_COMMISSION"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_ADVANCED_LANDING_GROUND",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_AERIAL_RECONNIASSANCE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_AERIAL_RECONNIASSANCE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_DANGER_CLOSE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_FIELD_COMMISSION",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_DANGER_CLOSE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_AIRLIFT_OPERATIONS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_AIRBORNE_FORCES"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_AIRBORNE_FORCES",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_AIRLIFT_OPERATIONS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_CARGO_DROP"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_CARGO_DROP",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_AIRLIFT_OPERATIONS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_LOW_LEVEL_EXTRACTION"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_CARGO_DROP",
+        "UnitPromotionDisciplineType": "DISCIPLINE_SQUADRON_AIRLIFT_OPERATIONS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_VERTICAL_ENVELOPMENT"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_AERODROME_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_AERODROME_ADVANCED_LANDING_GROUND"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_AERODROME_ADVANCED_LANDING_GROUND",
+        "UnitPromotionDisciplineType": "DISCIPLINE_AERODROME_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_AERODROME_FIELD_COMMISSION"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_AERODROME_ADVANCED_LANDING_GROUND",
+        "UnitPromotionDisciplineType": "DISCIPLINE_AERODROME_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_AERIAL_RECONNIASSANCE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_AERIAL_RECONNIASSANCE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_AERODROME_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_DANGER_CLOSE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_AERODROME_FIELD_COMMISSION",
+        "UnitPromotionDisciplineType": "DISCIPLINE_AERODROME_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_DANGER_CLOSE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_CARRIER_OPERATIONS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_FLIGHT_DECK"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_FLIGHT_DECK",
+        "UnitPromotionDisciplineType": "DISCIPLINE_CARRIER_OPERATIONS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_TORPEDO_BOMBERS"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_FLIGHT_DECK",
+        "UnitPromotionDisciplineType": "DISCIPLINE_CARRIER_OPERATIONS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_SPOTTING"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_TORPEDO_BOMBERS",
+        "UnitPromotionDisciplineType": "DISCIPLINE_CARRIER_OPERATIONS",
+        "UnitPromotionType": "PROMOTION_CARRIER_SUPERCARRIER"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_SPOTTING",
+        "UnitPromotionDisciplineType": "DISCIPLINE_CARRIER_OPERATIONS",
+        "UnitPromotionType": "PROMOTION_CARRIER_SUPERCARRIER"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_CARRIER_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_CARRIER_BATTLE_GROUP"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_CARRIER_BATTLE_GROUP",
+        "UnitPromotionDisciplineType": "DISCIPLINE_CARRIER_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_FIELD_COMMISSION"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_CARRIER_BATTLE_GROUP",
+        "UnitPromotionDisciplineType": "DISCIPLINE_CARRIER_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_AERIAL_RECONNIASSANCE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_AERIAL_RECONNIASSANCE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_CARRIER_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_DANGER_CLOSE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_SQUADRON_FIELD_COMMISSION",
+        "UnitPromotionDisciplineType": "DISCIPLINE_CARRIER_LOGISTICS",
+        "UnitPromotionType": "PROMOTION_SQUADRON_DANGER_CLOSE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_TRUNG_NHI_COMMENDATION_DUTY",
+        "UnitPromotionType": "PROMOTION_COMMENDATION_TRUNG_NHI_DUTY"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": null,
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_TRUNG_NHI",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_TRUNG_NHI",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_METTLE_COURAGE"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_TRUNG_NHI",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_LAC_REBELLION"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_TRUNG_NHI_METTLE_COURAGE",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_TRUNG_NHI",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_HAI_BA_TRUNG"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 0,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_TRUNG_NHI_LAC_REBELLION",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_TRUNG_NHI",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_65_STRONGHOLDS"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_TRUNG_NHI_HAI_BA_TRUNG",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_TRUNG_NHI",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_ONE_SINGLE_CRY"
+    },
+    {
+        "GrantCommendationWithAnyPrereq": 0,
+        "GrantsCommendation": 1,
+        "PrereqUnitPromotion": "PROMOTION_ARMY_TRUNG_NHI_65_STRONGHOLDS",
+        "UnitPromotionDisciplineType": "DISCIPLINE_ARMY_TRUNG_NHI",
+        "UnitPromotionType": "PROMOTION_ARMY_TRUNG_NHI_ONE_SINGLE_CRY"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "AllowAgeTransition": 0,
+        "AllowOneMoreTurn": 0,
+        "Blurb": "LOC_DEFEAT_DEFAULT_TEXT",
+        "DefeatType": "DEFEAT_DEFAULT",
+        "EnabledByDefault": 1,
+        "Global": 0,
+        "Name": "LOC_DEFEAT_DEFAULT_NAME",
+        "RequirementSetId": "DEFAULT_DEFEAT_REQUIREMENTS"
+    },
+    {
+        "AllowAgeTransition": 0,
+        "AllowOneMoreTurn": 0,
+        "Blurb": "LOC_DEFEAT_RETIRE_TEXT",
+        "DefeatType": "DEFEAT_RETIRE",
+        "EnabledByDefault": 1,
+        "Global": 0,
+        "Name": "LOC_DEFEAT_RETIRE_NAME",
+        "RequirementSetId": null
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_1",
+        "ModifierID": "MOD_CS_KASBAH"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_2",
+        "ModifierID": "MOD_CS_COMMANDER_FOREIGN_XP"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_3",
+        "ModifierID": "MOD_CS_UNITS_RANGE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_4",
+        "ModifierID": "MOD_CS_CORSAIR"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_4",
+        "ModifierID": "MOD_CS_CORSAIR2"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_4",
+        "ModifierID": "MOD_CS_CORSAIR3"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_5",
+        "ModifierID": "MOD_CS_CITY_STATE_COMBAT"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_6",
+        "ModifierID": "MOD_CS_STONE_HEAD"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_7",
+        "ModifierID": "MOD_CS_CULTURE_BUILDINGS_CULTURE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_8",
+        "ModifierID": "MOD_CS_RELIC"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_8",
+        "ModifierID": "MOD_CS_TEMPLE_CULTURE_PER_TYPE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_9",
+        "ModifierID": "MOD_CS_TRADITION_SLOT"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_10",
+        "ModifierID": "MOD_CS_CIVIC"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_11",
+        "ModifierID": "MOD_CS_TRADING_FACTORY"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_12",
+        "ModifierID": "MOD_CS_GOLD_BUILDINGS_GOLD"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_13",
+        "ModifierID": "MOD_CS_CLOVES"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_14",
+        "ModifierID": "MOD_CS_GOLD_PER_TRADE_AND_SUZERAIN"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_15",
+        "ModifierID": "MOD_CS_LAND_TRADE_ROUTE_RANGE_SUZERAIN"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_15",
+        "ModifierID": "MOD_CS_SEA_TRADE_ROUTE_RANGE_SUZERAIN"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_16",
+        "ModifierID": "MOD_CS_MONASTERY"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_17",
+        "ModifierID": "MOD_CS_SCIENCE_BUILDINGS_SCIENCE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_18",
+        "ModifierID": "MOD_CS_SCIENCE_SUZERAIN"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_19",
+        "ModifierID": "MOD_CS_POPULATION_CAPITAL_SCIENTIFIC"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_19",
+        "ModifierID": "MOD_CS_POPULATION_CAPITAL_SUZERAIN_SCIENTIFIC"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_EXPLORATION_20",
+        "ModifierID": "MOD_CS_TECH"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_MILITARISTIC_BONUS_EXPLORATION_6",
+        "ModifierID": "MOD_CS_MILITARISTIC_SETTLEMENT_LIMIT"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_MILITARISTIC_BONUS_EXPLORATION_7",
+        "ModifierID": "MOD_CS_MILITARISTIC_WAR_SUPPORT_SHAREABLE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_CULTURAL_BONUS_EXPLORATION_6",
+        "ModifierID": "MOD_CS_CULTURAL_CULTURE_ON_SPECIALISTS"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_CULTURAL_BONUS_EXPLORATION_7",
+        "ModifierID": "MOD_CS_CULTURAL_CULTURE_ON_WAREHOUSE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_ECONOMIC_BONUS_EXPLORATION_6",
+        "ModifierID": "MOD_CS_ECONOMIC_GOLD_ON_TREASURE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_ECONOMIC_BONUS_EXPLORATION_7",
+        "ModifierID": "MOD_CS_ECONOMIC_GOLD_ON_WAREHOUSE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_SCIENTIFIC_BONUS_EXPLORATION_6",
+        "ModifierID": "MOD_CS_SCIENTIFIC_SCIENCE_ON_SPECIALISTS"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_SCIENTIFIC_BONUS_EXPLORATION_7",
+        "ModifierID": "MOD_CS_SCIENTIFIC_SCIENCE_ON_WAREHOUSE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_EXPLORATION_1",
+        "ModifierID": "MOD_CS_EXPANSIONIST_SAQIYA"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_EXPLORATION_1",
+        "ModifierID": "MOD_CS_EXPANSIONIST_SAQIYA_SCIENCE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_EXPLORATION_2",
+        "ModifierID": "MOD_CS_EXPANSIONIST_FOOD_ON_RESOURCES"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_EXPLORATION_3",
+        "ModifierID": "MOD_CS_EXPANSIONIST_FOOD_ON_FOOD_BUILDINGS"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_EXPLORATION_4",
+        "ModifierID": "MOD_CS_EXPANSIONIST_SETTLEMENT_FOOD_PER_EXPANSIONIST_CITY"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_EXPLORATION_4",
+        "ModifierID": "MOD_CS_EXPANSIONIST_SETTLEMENT_FOOD_PER_EXPANSIONIST_TOWN"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_EXPLORATION_5",
+        "ModifierID": "MOD_CS_EXPANSIONIST_POPULATION_PER_EXPANSIONIST"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_EXPLORATION_5",
+        "ModifierID": "MOD_POPULATION_CAPITAL_PER_EXPANSIONIST_IMMEDIATE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_EXPLORATION_6",
+        "ModifierID": "MOD_CS_EXPANSIONIST_SETTLEMENT_CAP"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_EXPLORATION_7",
+        "ModifierID": "MOD_CS_EXPANSIONIST_FOOD_ON_WAREHOUSE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_EXPLORATION_1",
+        "ModifierID": "MOD_CS_DIPLOMATIC_MINOR_EMBASSY"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_EXPLORATION_1",
+        "ModifierID": "MOD_CS_DIPLOMATIC_MINOR_EMBASSY_INFLUENCE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_EXPLORATION_2",
+        "ModifierID": "MOD_CS_DIPLOMATIC_DEMAND_TRIBUTE_ACTION"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_EXPLORATION_3",
+        "ModifierID": "MOD_CS_DIPLOMATIC_HAPPINESS_ON_HAPPINESS_BUILDINGS"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_EXPLORATION_4",
+        "ModifierID": "MOD_CS_DIPLOMATIC_ADJUST_SANCTION_ENDEAVOR_EFFICIENCY_PER_DIPLOMATIC_SUZERAINED"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_EXPLORATION_5",
+        "ModifierID": "MOD_CS_DIPLOMATIC_ADJUST_ESPIONAGE_EFFICIENCY_PER_DIPLOMATIC_SUZERAINED"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_EXPLORATION_5",
+        "ModifierID": "MOD_CS_DIPLOMATIC_ADJUST_ESPIONAGE_EFFICIENCY_COMPLETE_SPEED"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_EXPLORATION_6",
+        "ModifierID": "MOD_CS_DIPLOMATIC_POLICY_SLOT"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_EXPLORATION_7",
+        "ModifierID": "MOD_CS_DIPLOMATIC_HAPPINESS_ON_WAREHOUSE"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "Affinity": "AFFINITY_FRIENDLY",
+        "HostilityChance": 0,
+        "NeutralityChance": 0
+    },
+    {
+        "Affinity": "AFFINITY_NEUTRAL",
+        "HostilityChance": 80,
+        "NeutralityChance": 100
+    },
+    {
+        "Affinity": "AFFINITY_HOSTILE",
+        "HostilityChance": 80,
+        "NeutralityChance": 100
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "CivicType": "CIVIC_FOREIGN_TRADE",
+        "ModifierId": "CIVIC_GRANT_ONE_TRADE_ROUTE"
+    },
+    {
+        "CivicType": "CIVIC_FOREIGN_TRADE",
+        "ModifierId": "CIVIC_GOLD_THROUGH_CITIES"
+    },
+    {
+        "CivicType": "CIVIC_EARLY_EMPIRE",
+        "ModifierId": "CIVIC_ENFORCE_BORDERS"
+    },
+    {
+        "CivicType": "CIVIC_MILITARY_TRADITION",
+        "ModifierId": "CIVIC_GRANT_COMBAT_ADJACENCY_BONUS"
+    },
+    {
+        "CivicType": "CIVIC_MYSTICISM",
+        "ModifierId": "CIVIC_AWARD_ONE_INFLUENCE_TOKEN"
+    },
+    {
+        "CivicType": "CIVIC_MILITARY_TRAINING",
+        "ModifierId": "CIVIC_AWARD_ONE_INFLUENCE_TOKEN"
+    },
+    {
+        "CivicType": "CIVIC_THEOLOGY",
+        "ModifierId": "CIVIC_AWARD_ONE_INFLUENCE_TOKEN"
+    },
+    {
+        "CivicType": "CIVIC_NAVAL_TRADITION",
+        "ModifierId": "CIVIC_AWARD_ONE_INFLUENCE_TOKEN"
+    },
+    {
+        "CivicType": "CIVIC_MERCENARIES",
+        "ModifierId": "CIVIC_AWARD_ONE_INFLUENCE_TOKEN"
+    },
+    {
+        "CivicType": "CIVIC_COLONIALISM",
+        "ModifierId": "CIVIC_AWARD_TWO_INFLUENCE_TOKENS"
+    },
+    {
+        "CivicType": "CIVIC_OPERA_BALLET",
+        "ModifierId": "CIVIC_AWARD_TWO_INFLUENCE_TOKENS"
+    },
+    {
+        "CivicType": "CIVIC_SCORCHED_EARTH",
+        "ModifierId": "CIVIC_AWARD_TWO_INFLUENCE_TOKENS"
+    },
+    {
+        "CivicType": "CIVIC_NATURAL_HISTORY",
+        "ModifierId": "CIVIC_AWARD_TWO_INFLUENCE_TOKENS"
+    },
+    {
+        "CivicType": "CIVIC_CONSERVATION",
+        "ModifierId": "CIVIC_AWARD_THREE_INFLUENCE_TOKENS"
+    },
+    {
+        "CivicType": "CIVIC_CULTURAL_HERITAGE",
+        "ModifierId": "CIVIC_AWARD_THREE_INFLUENCE_TOKENS"
+    },
+    {
+        "CivicType": "CIVIC_THE_ENLIGHTENMENT",
+        "ModifierId": "CIVIC_REDUCE_RELIGIOUS_TOURISM"
+    },
+    {
+        "CivicType": "CIVIC_NATURAL_HISTORY",
+        "ModifierId": "CIVIC_GENERATE_LAND_ANTIQUITIES"
+    },
+    {
+        "CivicType": "CIVIC_CULTURAL_HERITAGE",
+        "ModifierId": "CIVIC_GENERATE_SEA_ANTIQUITIES"
+    },
+    {
+        "CivicType": "CIVIC_CULTURAL_HERITAGE",
+        "ModifierId": "CIVIC_EXTRACT_SEA_ARTIFACTS"
+    },
+    {
+        "CivicType": "CIVIC_DIPLOMATIC_SERVICE",
+        "ModifierId": "CIVIC_GRANT_SPY"
+    },
+    {
+        "CivicType": "CIVIC_NATIONALISM",
+        "ModifierId": "CIVIC_GRANT_SPY"
+    },
+    {
+        "CivicType": "CIVIC_IDEOLOGY",
+        "ModifierId": "CIVIC_GRANT_SPY"
+    },
+    {
+        "CivicType": "CIVIC_COLD_WAR",
+        "ModifierId": "CIVIC_GRANT_SPY"
+    },
+    {
+        "CivicType": "CIVIC_CONSERVATION",
+        "ModifierId": "CONSERVATION_ANCIENT_WALL_TOURISM"
+    },
+    {
+        "CivicType": "CIVIC_CONSERVATION",
+        "ModifierId": "CONSERVATION_MEDIEVAL_WALL_TOURISM"
+    },
+    {
+        "CivicType": "CIVIC_CONSERVATION",
+        "ModifierId": "CONSERVATION_RENAISSANCE_WALL_TOURISM"
+    }
+]

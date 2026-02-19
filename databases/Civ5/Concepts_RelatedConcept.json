@@ -1,0 +1,5382 @@
+[
+    {
+        "ConceptType": "CONCEPT_CITIES",
+        "RelatedConcept": "CONCEPT_FOUNDING_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITIES",
+        "RelatedConcept": "CONCEPT_WHERE_TO_FOUND_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITIES",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH"
+    },
+    {
+        "ConceptType": "CONCEPT_CITIES",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_TECH_AND_BEAKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITIES",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOUNDING_CITIES",
+        "RelatedConcept": "CONCEPT_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_FOUNDING_CITIES",
+        "RelatedConcept": "CONCEPT_WHERE_TO_FOUND_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_FOUNDING_CITIES",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_SETTLERS"
+    },
+    {
+        "ConceptType": "CONCEPT_WHERE_TO_FOUND_CITIES",
+        "RelatedConcept": "CONCEPT_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_WHERE_TO_FOUND_CITIES",
+        "RelatedConcept": "CONCEPT_FOUNDING_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_WHERE_TO_FOUND_CITIES",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_BEST_FOOD_TILES"
+    },
+    {
+        "ConceptType": "CONCEPT_WHERE_TO_FOUND_CITIES",
+        "RelatedConcept": "CONCEPT_BARBARIANS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_BANNER",
+        "RelatedConcept": "CONCEPT_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_BANNER",
+        "RelatedConcept": "CONCEPT_CITY_SCREEN"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_SCREEN",
+        "RelatedConcept": "CONCEPT_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_SCREEN",
+        "RelatedConcept": "CONCEPT_CITY_BANNER"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_SCREEN",
+        "RelatedConcept": "CONCEPT_CITY_CHANGE_BUILD"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_COMBATUNITS",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTING_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_COMBATUNITS",
+        "RelatedConcept": "CONCEPT_CITY_DEFENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONSTRUCTION",
+        "RelatedConcept": "CONCEPT_CITY_BUILD"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONSTRUCTION",
+        "RelatedConcept": "CONCEPT_CITY_CHANGE_BUILD"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONSTRUCTION",
+        "RelatedConcept": "CONCEPT_CITY_PURCHASEITEM"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONSTRUCTION",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTING_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONSTRUCTION",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTING_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONSTRUCTION",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTING_WONDERS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_BUILD",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTION"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_BUILD",
+        "RelatedConcept": "CONCEPT_CITY_CHANGE_BUILD"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_BUILD",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTING_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_BUILD",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTING_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_BUILD",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTING_WONDERS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CHANGE_BUILD",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTION"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CHANGE_BUILD",
+        "RelatedConcept": "CONCEPT_CITY_BUILD"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONSTRUCTING_UNITS",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTION"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONSTRUCTING_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONSTRUCTING_UNITS",
+        "RelatedConcept": "CONCEPT_CITY_COMBATUNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONSTRUCTING_UNITS",
+        "RelatedConcept": "CONCEPT_CITY_DEFENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONSTRUCTING_BUILDINGS",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTION"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONSTRUCTING_BUILDINGS",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONSTRUCTING_WONDERS",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTION"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_WORKINGLAND",
+        "RelatedConcept": "CONCEPT_CITY_ASSIGNINGCITIZENS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_WORKINGLAND",
+        "RelatedConcept": "CONCEPT_CITY_IMPROVINGLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_WORKINGLAND",
+        "RelatedConcept": "CONCEPT_CITY_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ASSIGNINGCITIZENS",
+        "RelatedConcept": "CONCEPT_CITY_WORKINGLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ASSIGNINGCITIZENS",
+        "RelatedConcept": "CONCEPT_CITY_IMPROVINGLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ASSIGNINGCITIZENS",
+        "RelatedConcept": "CONCEPT_CITY_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ASSIGNINGCITIZENS",
+        "RelatedConcept": "CONCEPT_CITY_UNEMPLOYED_CITIZENS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_IMPROVINGLAND",
+        "RelatedConcept": "CONCEPT_CITY_WORKINGLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_IMPROVINGLAND",
+        "RelatedConcept": "CONCEPT_CITY_ASSIGNINGCITIZENS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_IMPROVINGLAND",
+        "RelatedConcept": "CONCEPT_RESOURCES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_IMPROVINGLAND",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_IMPROVINGLAND",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_CITY_WORKINGLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_CITY_ASSIGNINGCITIZENS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_CITY_SPECIALISTS_NOTWORKTILE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_CITY_SPECIALISTS_BENEFIT"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_UNEMPLOYED_CITIZENS",
+        "RelatedConcept": "CONCEPT_CITY_WORKINGLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_UNEMPLOYED_CITIZENS",
+        "RelatedConcept": "CONCEPT_CITY_ASSIGNINGCITIZENS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_COMBAT",
+        "RelatedConcept": "CONCEPT_CITY_COMBATUNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_COMBAT",
+        "RelatedConcept": "CONCEPT_CITY_ATTACKING_MELEE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_COMBAT",
+        "RelatedConcept": "CONCEPT_CITY_ATTACKING_RANGED"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_COMBAT",
+        "RelatedConcept": "CONCEPT_CITY_DEFENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_COMBAT",
+        "RelatedConcept": "CONCEPT_CITY_CONQUERING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_CITY_BOMBARD"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_COMBAT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_COMBAT",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ATTACKING_MELEE",
+        "RelatedConcept": "CONCEPT_CITY_COMBATUNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ATTACKING_MELEE",
+        "RelatedConcept": "CONCEPT_CITY_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ATTACKING_MELEE",
+        "RelatedConcept": "CONCEPT_CITY_DEFENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ATTACKING_MELEE",
+        "RelatedConcept": "CONCEPT_CITY_CONQUERING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ATTACKING_RANGED",
+        "RelatedConcept": "CONCEPT_CITY_COMBATUNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ATTACKING_RANGED",
+        "RelatedConcept": "CONCEPT_CITY_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ATTACKING_RANGED",
+        "RelatedConcept": "CONCEPT_CITY_DEFENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ATTACKING_RANGED",
+        "RelatedConcept": "CONCEPT_CITY_CONQUERING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_DEFENDING",
+        "RelatedConcept": "CONCEPT_CITY_COMBATUNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_DEFENDING",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTING_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONQUERING",
+        "RelatedConcept": "CONCEPT_CITY_COMBATUNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONQUERING",
+        "RelatedConcept": "CONCEPT_CITY_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONQUERING",
+        "RelatedConcept": "CONCEPT_CITY_DEFENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONQUERING",
+        "RelatedConcept": "CONCEPT_CITY_DESTROY"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONQUERING",
+        "RelatedConcept": "CONCEPT_CITY_ANNEX"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONQUERING",
+        "RelatedConcept": "CONCEPT_CITY_PUPPET"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONQUERING",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_DOMINATION"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONQUERING",
+        "RelatedConcept": "CONCEPT_VICTORY_MINOR_CIV_LIBERATION"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONQUERING",
+        "RelatedConcept": "CONCEPT_CITY_STATE_LIBERATING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_CONQUERING",
+        "RelatedConcept": "CONCEPT_BUILDINGS_CAPTURED_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_DESTROY",
+        "RelatedConcept": "CONCEPT_CITY_CONQUERING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_DESTROY",
+        "RelatedConcept": "CONCEPT_CITY_INDESTRUCTABLE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_DESTROY",
+        "RelatedConcept": "CONCEPT_VICTORY_MINOR_CIV_LIBERATION"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ANNEX",
+        "RelatedConcept": "CONCEPT_CITY_CONQUERING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ANNEX",
+        "RelatedConcept": "CONCEPT_CITY_PUPPET"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ANNEX",
+        "RelatedConcept": "CONCEPT_VICTORY_MINOR_CIV_LIBERATION"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_ANNEX",
+        "RelatedConcept": "CONCEPT_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_PUPPET",
+        "RelatedConcept": "CONCEPT_CITY_CONQUERING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_PUPPET",
+        "RelatedConcept": "CONCEPT_CITY_ANNEX"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_PUPPET",
+        "RelatedConcept": "CONCEPT_VICTORY_MINOR_CIV_LIBERATION"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_PUPPET",
+        "RelatedConcept": "CONCEPT_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_DECLARE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_WHICH_UNITS_CAN_FIGHT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT",
+        "RelatedConcept": "CONCEPT_AIR_POWER"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT",
+        "RelatedConcept": "CONCEPT_BARBARIANS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR",
+        "RelatedConcept": "CONCEPT_COMBAT_DECLARE_WAR_DIPLOMATICALLY"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR",
+        "RelatedConcept": "CONCEPT_COMBAT_DECLARE_WAR_ATTACK_UNIT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR",
+        "RelatedConcept": "CONCEPT_COMBAT_DECLARE_WAR_ENTER_TERRITORY"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR",
+        "RelatedConcept": "CONCEPT_COMBAT_DECLARE_WAR_RECEIVED"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR",
+        "RelatedConcept": "CONCEPT_COMBAT_END_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_DECLARE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR",
+        "RelatedConcept": "CONCEPT_CITY_STATE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR_DIPLOMATICALLY",
+        "RelatedConcept": "CONCEPT_COMBAT_DECLARE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR_DIPLOMATICALLY",
+        "RelatedConcept": "CONCEPT_COMBAT_END_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR_ATTACK_UNIT",
+        "RelatedConcept": "CONCEPT_COMBAT_DECLARE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR_ATTACK_UNIT",
+        "RelatedConcept": "CONCEPT_COMBAT_END_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR_ENTER_TERRITORY",
+        "RelatedConcept": "CONCEPT_COMBAT_DECLARE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR_ENTER_TERRITORY",
+        "RelatedConcept": "CONCEPT_COMBAT_END_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR_ENTER_TERRITORY",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_OPEN_BORDERS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR_RECEIVED",
+        "RelatedConcept": "CONCEPT_COMBAT_DECLARE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_DECLARE_WAR_RECEIVED",
+        "RelatedConcept": "CONCEPT_COMBAT_END_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_END_WAR",
+        "RelatedConcept": "CONCEPT_COMBAT_DECLARE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_WHICH_UNITS_CAN_FIGHT",
+        "RelatedConcept": "CONCEPT_UNITS_NON_COMBAT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_WHICH_UNITS_CAN_FIGHT",
+        "RelatedConcept": "CONCEPT_UNITS_COMBAT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_WHICH_UNITS_CAN_FIGHT",
+        "RelatedConcept": "CONCEPT_COMBAT_MELEE_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_WHICH_UNITS_CAN_FIGHT",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_WHICH_UNITS_CAN_FIGHT",
+        "RelatedConcept": "CONCEPT_COMBAT_NAVAL"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_WHICH_UNITS_CAN_FIGHT",
+        "RelatedConcept": "CONCEPT_COMBAT_SIEGE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_STATS_RANGED_COMBAT_STRENGTH"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_STATS_RANGE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_STATS_COMBAT_STRENGTH"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_STATS_HIT_POINTS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS_RANGED_COMBAT_STRENGTH",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_STATS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS_RANGED_COMBAT_STRENGTH",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_STATS_RANGE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS_RANGED_COMBAT_STRENGTH",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT_STRENGTH"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS_RANGE",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_STATS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS_RANGE",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_STATS_RANGED_COMBAT_STRENGTH"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS_RANGE",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT_STRENGTH"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS_COMBAT_STRENGTH",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_STATS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS_HIT_POINTS",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_STATS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS_HIT_POINTS",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_GROUND_HEALING_DAMAGE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS_HIT_POINTS",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_NAVAL_HEALING_DAMAGE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_STATS_HIT_POINTS",
+        "RelatedConcept": "CONCEPT_COMBAT_FORTIFY_UNTIL_HEALED"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_MELEE_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_MELEE_COMBAT_RESOLVE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_MELEE_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_MELEE_MULTIPLE_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_MELEE_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_MELEE_INITIATING_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_MELEE_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_MELEE_RESULTS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_MELEE_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_COMBAT_INFORMATION_TABLE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_MELEE_COMBAT_RESOLVE",
+        "RelatedConcept": "CONCEPT_COMBAT_MELEE_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_MELEE_MULTIPLE_UNITS",
+        "RelatedConcept": "CONCEPT_COMBAT_MELEE_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_COMBAT_INFORMATION_TABLE",
+        "RelatedConcept": "CONCEPT_COMBAT_BONUSES"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_COMBAT_INFORMATION_TABLE",
+        "RelatedConcept": "CONCEPT_COMBAT_MELEE_RESULTS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_COMBAT_INFORMATION_TABLE",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_RESULTS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_MELEE_INITIATING_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_MELEE_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_MELEE_RESULTS",
+        "RelatedConcept": "CONCEPT_COMBAT_MELEE_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_MELEE_RESULTS",
+        "RelatedConcept": "CONCEPT_COMBAT_COMBAT_INFORMATION_TABLE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_RANGED_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT_STRENGTH"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_RANGED_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT_RANGE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_RANGED_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_LINE_OF_SIGHT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_RANGED_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_INITIATING_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_RANGED_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_RESULTS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_RANGED_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_COMBAT_INFORMATION_TABLE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_RANGED_COMBAT",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_INDIRECT_FIRE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_RANGED_COMBAT_STRENGTH",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_STATS_RANGED_COMBAT_STRENGTH"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_RANGED_COMBAT_RANGE",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_STATS_RANGE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_RANGED_LINE_OF_SIGHT",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_RANGED_INITIATING_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_RANGED_RESULTS",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_RANGED_RESULTS",
+        "RelatedConcept": "CONCEPT_COMBAT_COMBAT_INFORMATION_TABLE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_BONUSES",
+        "RelatedConcept": "CONCEPT_COMBAT_BONUSES_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_BONUSES",
+        "RelatedConcept": "CONCEPT_COMBAT_BONUSES_FORT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_BONUSES",
+        "RelatedConcept": "CONCEPT_COMBAT_BONUSES_FORTIFICATION"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_BONUSES",
+        "RelatedConcept": "CONCEPT_COMBAT_GREAT_GENERAL"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_BONUSES",
+        "RelatedConcept": "CONCEPT_HAPPINESS_VERY_UNHAPPY"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_BONUSES_TERRAIN",
+        "RelatedConcept": "CONCEPT_COMBAT_BONUSES"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_BONUSES_FORT",
+        "RelatedConcept": "CONCEPT_COMBAT_BONUSES"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_GREAT_GENERAL",
+        "RelatedConcept": "CONCEPT_COMBAT_BONUSES"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_GREAT_GENERAL",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_GENERAL"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_FORTIFICATION_EXPLANATION",
+        "RelatedConcept": "CONCEPT_COMBAT_BONUSES_FORTIFICATION"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_FORTIFICATION_EXPLANATION",
+        "RelatedConcept": "CONCEPT_COMBAT_FORTIFICATION_WHICH_UNITS_CAN_FORTIFY"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_FORTIFICATION_WHICH_UNITS_CAN_FORTIFY",
+        "RelatedConcept": "CONCEPT_COMBAT_FORTIFICATION_EXPLANATION"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_FORTIFICATION_WHICH_UNITS_CAN_FORTIFY",
+        "RelatedConcept": "CONCEPT_COMBAT_BONUSES_FORTIFICATION"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_BONUSES_FORTIFICATION",
+        "RelatedConcept": "CONCEPT_COMBAT_BONUSES"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_BONUSES_FORTIFICATION",
+        "RelatedConcept": "CONCEPT_COMBAT_FORTIFICATION_EXPLANATION"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_BONUSES_FORTIFICATION",
+        "RelatedConcept": "CONCEPT_COMBAT_FORTIFICATION_WHICH_UNITS_CAN_FORTIFY"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_ALERT",
+        "RelatedConcept": "CONCEPT_COMBAT_BONUSES_FORTIFICATION"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_NAVAL",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_NAVAL",
+        "RelatedConcept": "CONCEPT_MOVEMENT_NAVAL"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_NAVAL",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_COMBAT_STRENGTH",
+        "RelatedConcept": "CONCEPT_CITY_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_HIT_POINTS",
+        "RelatedConcept": "CONCEPT_CITY_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_ATTACKING_WITH_RANGED_UNITS",
+        "RelatedConcept": "CONCEPT_CITY_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_ATTACKING_WITH_RANGED_UNITS",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_ATTACKING_WITH_MELEE_UNITS",
+        "RelatedConcept": "CONCEPT_CITY_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_ATTACKING_WITH_MELEE_UNITS",
+        "RelatedConcept": "CONCEPT_COMBAT_MELEE_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_GARRISON",
+        "RelatedConcept": "CONCEPT_CITY_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_BOMBARD",
+        "RelatedConcept": "CONCEPT_CITY_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_BOMBARD",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_HEALING_DAMAGE",
+        "RelatedConcept": "CONCEPT_CITY_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_CAPTURE",
+        "RelatedConcept": "CONCEPT_CITY_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_CAPTURE",
+        "RelatedConcept": "CONCEPT_COMBAT_CITY_CAPTURE_MORE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_CAPTURE",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_DOMINATION"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_CAPTURE_MORE",
+        "RelatedConcept": "CONCEPT_CITY_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_CITY_CAPTURE_MORE",
+        "RelatedConcept": "CONCEPT_COMBAT_CITY_CAPTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_SIEGE",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_SIEGE",
+        "RelatedConcept": "CONCEPT_COMBAT_CITY_CAPTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_COMBAT_DAMAGE",
+        "RelatedConcept": "CONCEPT_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_COMBAT_DAMAGE",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_GROUND_HEALING_DAMAGE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_COMBAT_DAMAGE",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_NAVAL_HEALING_DAMAGE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_GROUND_HEALING_DAMAGE",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_COMBAT_DAMAGE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_UNIT_NAVAL_HEALING_DAMAGE",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_COMBAT_DAMAGE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_FORTIFY_UNTIL_HEALED",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_COMBAT_DAMAGE"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_EXPERIENCE_AND_PROMOTIONS",
+        "RelatedConcept": "CONCEPT_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_EXPERIENCE_AND_PROMOTIONS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_OTHER"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_COMBAT",
+        "RelatedConcept": "CONCEPT_BARBARIANS_EXPERIENCE_POINT_LIMITS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_OTHER",
+        "RelatedConcept": "CONCEPT_COMBAT_EXPERIENCE_AND_PROMOTIONS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_OTHER",
+        "RelatedConcept": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_EXPERIENCE_SPENDING",
+        "RelatedConcept": "CONCEPT_COMBAT_EXPERIENCE_AND_PROMOTIONS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_EXPERIENCE_SPENDING",
+        "RelatedConcept": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_EXPERIENCE_SPENDING",
+        "RelatedConcept": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_OTHER"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_PROMOTIONS",
+        "RelatedConcept": "CONCEPT_COMBAT_EXPERIENCE_AND_PROMOTIONS"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_PROMOTIONS",
+        "RelatedConcept": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_PROMOTIONS",
+        "RelatedConcept": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_OTHER"
+    },
+    {
+        "ConceptType": "CONCEPT_COMBAT_PROMOTIONS",
+        "RelatedConcept": "CONCEPT_COMBAT_EXPERIENCE_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_RESOURCES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_TABLES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_RIVERS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_RESOURCES",
+        "RelatedConcept": "CONCEPT_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TABLES",
+        "RelatedConcept": "CONCEPT_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TABLES",
+        "RelatedConcept": "CONCEPT_TERRAIN_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TABLES",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TYPES",
+        "RelatedConcept": "CONCEPT_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TYPES",
+        "RelatedConcept": "CONCEPT_TERRAIN_COAST"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TYPES",
+        "RelatedConcept": "CONCEPT_TERRAIN_DESERT"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TYPES",
+        "RelatedConcept": "CONCEPT_TERRAIN_GRASSLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TYPES",
+        "RelatedConcept": "CONCEPT_TERRAIN_HILLS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TYPES",
+        "RelatedConcept": "CONCEPT_TERRAIN_MOUNTAINS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TYPES",
+        "RelatedConcept": "CONCEPT_TERRAIN_OCEANS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TYPES",
+        "RelatedConcept": "CONCEPT_TERRAIN_PLAINS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TYPES",
+        "RelatedConcept": "CONCEPT_TERRAIN_SNOW"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TYPES",
+        "RelatedConcept": "CONCEPT_TERRAIN_TUNDRA"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_VALUES",
+        "RelatedConcept": "CONCEPT_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_COAST",
+        "RelatedConcept": "CONCEPT_TERRAIN_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_COAST",
+        "RelatedConcept": "CONCEPT_TERRAIN_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_COAST",
+        "RelatedConcept": "CONCEPT_GOLD_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_DESERT",
+        "RelatedConcept": "CONCEPT_TERRAIN_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_DESERT",
+        "RelatedConcept": "CONCEPT_TERRAIN_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_GRASSLAND",
+        "RelatedConcept": "CONCEPT_TERRAIN_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_GRASSLAND",
+        "RelatedConcept": "CONCEPT_TERRAIN_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_GRASSLAND",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_GRASSLAND_AND_JUNGLE"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_HILLS",
+        "RelatedConcept": "CONCEPT_TERRAIN_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_HILLS",
+        "RelatedConcept": "CONCEPT_TERRAIN_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_HILLS",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_OBSCURING_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_MOUNTAINS",
+        "RelatedConcept": "CONCEPT_TERRAIN_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_MOUNTAINS",
+        "RelatedConcept": "CONCEPT_TERRAIN_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_MOUNTAINS",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_OBSCURING_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_OCEANS",
+        "RelatedConcept": "CONCEPT_TERRAIN_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_OCEANS",
+        "RelatedConcept": "CONCEPT_TERRAIN_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_OCEANS",
+        "RelatedConcept": "CONCEPT_GOLD_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_PLAINS",
+        "RelatedConcept": "CONCEPT_TERRAIN_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_PLAINS",
+        "RelatedConcept": "CONCEPT_TERRAIN_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_SNOW",
+        "RelatedConcept": "CONCEPT_TERRAIN_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_SNOW",
+        "RelatedConcept": "CONCEPT_TERRAIN_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TUNDRA",
+        "RelatedConcept": "CONCEPT_TERRAIN_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_TUNDRA",
+        "RelatedConcept": "CONCEPT_TERRAIN_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURES",
+        "RelatedConcept": "CONCEPT_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURES",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURES",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_FALLOUT"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURES",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_FLOOD_PLAINS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURES",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_FORESTS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURES",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_ICE"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURES",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_JUNGLE"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURES",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_MARSH"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURES",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_NATURAL_WONDER"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURES",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_OASIS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURES",
+        "RelatedConcept": "CONCEPT_WORKERS_CLEARINGLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_VALUES",
+        "RelatedConcept": "CONCEPT_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_FALLOUT",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_FALLOUT",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_FLOOD_PLAINS",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_FLOOD_PLAINS",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_FORESTS",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_FORESTS",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_FORESTS",
+        "RelatedConcept": "CONCEPT_WORKERS_CLEARINGLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_FORESTS",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_OBSCURING_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_ICE",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_ICE",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_JUNGLE",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_JUNGLE",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_JUNGLE",
+        "RelatedConcept": "CONCEPT_WORKERS_CLEARINGLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_JUNGLE",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_GRASSLAND_AND_JUNGLE"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_JUNGLE",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_OBSCURING_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_MARSH",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_MARSH",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_MARSH",
+        "RelatedConcept": "CONCEPT_WORKERS_CLEARINGLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_NATURAL_WONDER",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_NATURAL_WONDER",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_NATURAL_WONDER",
+        "RelatedConcept": "CONCEPT_CULTURE_GAINING"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_NATURAL_WONDER",
+        "RelatedConcept": "CONCEPT_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_NATURAL_WONDER",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_OBSCURING_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_NATURAL_WONDER",
+        "RelatedConcept": "CONCEPT_GOLD_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_OASIS",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_OASIS",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_VALUES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_OASIS",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_OASIS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_FEATURE_OASIS",
+        "RelatedConcept": "CONCEPT_GOLD_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_RIVERS",
+        "RelatedConcept": "CONCEPT_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_RIVERS",
+        "RelatedConcept": "CONCEPT_TERRAIN_RIVERS_TILES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_RIVERS",
+        "RelatedConcept": "CONCEPT_TERRAIN_RIVERS_YIELD"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_RIVERS",
+        "RelatedConcept": "CONCEPT_TERRAIN_RIVERS_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_RIVERS",
+        "RelatedConcept": "CONCEPT_TERRAIN_RIVERS_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_RIVERS_TILES",
+        "RelatedConcept": "CONCEPT_TERRAIN_RIVERS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_RIVERS_YIELD",
+        "RelatedConcept": "CONCEPT_TERRAIN_RIVERS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_RIVERS_YIELD",
+        "RelatedConcept": "CONCEPT_GOLD_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_RIVERS_COMBAT",
+        "RelatedConcept": "CONCEPT_TERRAIN_RIVERS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_RIVERS_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_BONUSES"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_RIVERS_MOVEMENT",
+        "RelatedConcept": "CONCEPT_TERRAIN_RIVERS"
+    },
+    {
+        "ConceptType": "CONCEPT_TERRAIN_RIVERS_MOVEMENT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_ROADS_AND_RAILROADS_AND_RIVERS"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES",
+        "RelatedConcept": "CONCEPT_RESOURCES_BONUS"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES",
+        "RelatedConcept": "CONCEPT_RESOURCES_LUXURY"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES",
+        "RelatedConcept": "CONCEPT_RESOURCES_STRATEGIC"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES",
+        "RelatedConcept": "CONCEPT_RESOURCES_CITY_REQUESTS"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES",
+        "RelatedConcept": "CONCEPT_CITY_IMPROVINGLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_RESOURCES"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES",
+        "RelatedConcept": "CONCEPT_GOLD_RESOURCES"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_ALLIES"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_BONUS",
+        "RelatedConcept": "CONCEPT_RESOURCES"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_BONUS",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_BONUS",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_BONUS"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_LUXURY",
+        "RelatedConcept": "CONCEPT_RESOURCES"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_LUXURY",
+        "RelatedConcept": "CONCEPT_RESOURCES_CITY_REQUESTS"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_LUXURY",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_LUXURY",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_RESOURCES"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_LUXURY",
+        "RelatedConcept": "CONCEPT_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_LUXURY",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_ALLIES"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_CITY_REQUESTS",
+        "RelatedConcept": "CONCEPT_RESOURCES"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_CITY_REQUESTS",
+        "RelatedConcept": "CONCEPT_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_STRATEGIC",
+        "RelatedConcept": "CONCEPT_RESOURCES"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_STRATEGIC",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_STRATEGIC",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_RESOURCES"
+    },
+    {
+        "ConceptType": "CONCEPT_RESOURCES_STRATEGIC",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_ALLIES"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS",
+        "RelatedConcept": "CONCEPT_WORKERS_CREATING"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS",
+        "RelatedConcept": "CONCEPT_WORKERS_CLEARINGLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS",
+        "RelatedConcept": "CONCEPT_WORKERS_ROADS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS",
+        "RelatedConcept": "CONCEPT_WORKERS_ROADS_TRADE_ROUTES"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS",
+        "RelatedConcept": "CONCEPT_WORKERS_PILLAGE"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS",
+        "RelatedConcept": "CONCEPT_WORKERS_REPAIR"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS",
+        "RelatedConcept": "CONCEPT_WORKERS_ACTION_PANEL"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS",
+        "RelatedConcept": "CONCEPT_WORKERS_WORKBOATS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS",
+        "RelatedConcept": "CONCEPT_WORKERS_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS",
+        "RelatedConcept": "CONCEPT_WORKERS_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_CREATING",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_CREATING",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTION"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_COMBAT",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_COMBAT",
+        "RelatedConcept": "CONCEPT_COMBAT_WHICH_UNITS_CAN_FIGHT"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_COMBAT",
+        "RelatedConcept": "CONCEPT_UNITS_NON_COMBAT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_COMBAT",
+        "RelatedConcept": "CONCEPT_BARBARIANS_CAPTURING_CIVILIANS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_ACTION_PANEL",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_ACTION_PANEL",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_ACTION_PANEL",
+        "RelatedConcept": "CONCEPT_WORKERS_ROADS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_ACTION_PANEL",
+        "RelatedConcept": "CONCEPT_WORKERS_REPAIR"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_CLEARINGLAND",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_CLEARINGLAND",
+        "RelatedConcept": "CONCEPT_WORKERS_CLEARINGLAND_TIME"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_CLEARINGLAND_TIME",
+        "RelatedConcept": "CONCEPT_WORKERS_CLEARINGLAND"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_ROADS",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_ROADS",
+        "RelatedConcept": "CONCEPT_WORKERS_ROADS_TIME"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_ROADS",
+        "RelatedConcept": "CONCEPT_WORKERS_ROADS_TRADE_ROUTES"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_ROADS",
+        "RelatedConcept": "CONCEPT_GOLD_ROAD_MAINTENANCE"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_ROADS",
+        "RelatedConcept": "CONCEPT_MOVEMENT_ROADS_AND_RAILROADS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_ROADS_TIME",
+        "RelatedConcept": "CONCEPT_WORKERS_ROADS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_ROADS_TRADE_ROUTES",
+        "RelatedConcept": "CONCEPT_WORKERS_ROADS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_ROADS_TRADE_ROUTES",
+        "RelatedConcept": "CONCEPT_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS_WHERE"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS_FARM"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS_MINE"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS_FORT"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS_TIME"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS_LEAVING"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_GETTING_MORE_FOOD"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_IMPROVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS_WHERE",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS_TIME",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS_TIME",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS_TIME_LEFT"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS_TIME_LEFT",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS_TIME"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS_LEAVING",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS_FARM",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS_FARM",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_GETTING_MORE_FOOD"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS_MINE",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_IMPROVEMENTS_FORT",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_WORKBOATS",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_WORKBOATS",
+        "RelatedConcept": "CONCEPT_UNITS_NAVAL_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_WORKBOATS",
+        "RelatedConcept": "CONCEPT_UNITS_NON_COMBAT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_WORKBOATS",
+        "RelatedConcept": "CONCEPT_WORKERS_REPAIR_WATER"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_PILLAGE",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_PILLAGE",
+        "RelatedConcept": "CONCEPT_WORKERS_ROADS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_PILLAGE",
+        "RelatedConcept": "CONCEPT_WORKERS_REPAIR"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_PILLAGE",
+        "RelatedConcept": "CONCEPT_WORKERS_REPAIR_WATER"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_REPAIR",
+        "RelatedConcept": "CONCEPT_WORKERS_PILLAGE"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_REPAIR_WATER",
+        "RelatedConcept": "CONCEPT_WORKERS_WORKBOATS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_REPAIR_WATER",
+        "RelatedConcept": "CONCEPT_WORKERS_REPAIR"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_WORKERS_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_MECHANICS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_GROWTH"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_GETTING_MORE_FOOD"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_UNHAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_SETTLERS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_TECH_AND_BEAKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_MECHANICS",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_MECHANICS",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_GROWTH"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_GETTING_MORE_FOOD",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_BEST_FOOD_TILES"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_GETTING_MORE_FOOD",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_GETTING_MORE_FOOD",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_BUILDINGS_WONDERS_SOCIAL_POLICIES"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_GETTING_MORE_FOOD",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_MARITIME_CITY_STATES"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_GETTING_MORE_FOOD",
+        "RelatedConcept": "CONCEPT_CITY_STATE_TYPES_MARITIME"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_GETTING_MORE_FOOD",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_WE_LOVE_THE_KING_DAY"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_BEST_FOOD_TILES",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_BEST_FOOD_TILES",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_BONUS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_BEST_FOOD_TILES",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_OASIS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_BEST_FOOD_TILES",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_FLOOD_PLAINS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_BEST_FOOD_TILES",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_GRASSLAND_AND_JUNGLE"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_BONUS",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_BEST_FOOD_TILES"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_BONUS",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_OASIS",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_BEST_FOOD_TILES"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_FLOOD_PLAINS",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_BEST_FOOD_TILES"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_GRASSLAND_AND_JUNGLE",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_BEST_FOOD_TILES"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_BUILDINGS_WONDERS_SOCIAL_POLICIES",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_GETTING_MORE_FOOD"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_BUILDINGS_WONDERS_SOCIAL_POLICIES",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_BUILDINGS_WONDERS_SOCIAL_POLICIES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_MARITIME_CITY_STATES",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_GETTING_MORE_FOOD"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_MARITIME_CITY_STATES",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_MARITIME_CITY_STATES",
+        "RelatedConcept": "CONCEPT_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_WE_LOVE_THE_KING_DAY",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_GETTING_MORE_FOOD"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_WE_LOVE_THE_KING_DAY",
+        "RelatedConcept": "CONCEPT_RESOURCES_CITY_REQUESTS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_UNHAPPINESS",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_UNHAPPINESS",
+        "RelatedConcept": "CONCEPT_RESOURCES_LUXURY"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_UNHAPPINESS",
+        "RelatedConcept": "CONCEPT_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_GROWTH",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_GROWTH",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_GROWTH_BUCKET"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_GROWTH_BUCKET",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH_GROWTH"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_SETTLERS",
+        "RelatedConcept": "CONCEPT_FOOD_AND_CITY_GROWTH"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_SETTLERS",
+        "RelatedConcept": "CONCEPT_FOUNDING_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_FOOD_AND_CITY_GROWTH_SETTLERS",
+        "RelatedConcept": "CONCEPT_COMBAT_WHICH_UNITS_CAN_FIGHT"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_TECH_AND_BEAKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_BEAKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_CHOOSING_TECH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_CHANGE_RESEARCH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_TECH_TREE"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_SCIENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY",
+        "RelatedConcept": "CONCEPT_GOLD_RUNNING_DEFICIT"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY",
+        "RelatedConcept": "CONCEPT_MOVEMENT_EMBARKING"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_TECH_AND_BEAKERS",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_TECH_AND_BEAKERS",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_BEAKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_TECH_AND_BEAKERS",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_TECH_AND_BEAKERS",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_CHOOSING_TECH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_TECH_AND_BEAKERS",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_AVAILABLE"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_BEAKERS",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_BEAKERS",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_TECH_AND_BEAKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_ANCIENT_RUINS"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_TRADE"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_WONDERS"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_GREAT_SCIENTIST"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_SOCIAL_POLICIES"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_ANCIENT_RUINS",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_ANCIENT_RUINS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_TRADE",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_TRADE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_RESEARCH_AGREEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_BUILDINGS",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_BUILDINGS",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_WONDERS",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_GREAT_SCIENTIST",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_GREAT_SCIENTIST",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_SCIENTIST"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_SOCIAL_POLICIES",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_SOCIAL_POLICIES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCH_RATIONALISM"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_CHOOSING_TECH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_CHOOSING_TECH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_TECH_AND_BEAKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_CHOOSING_TECH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_CHOOSE_RESEARCH_MENU"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_CHOOSING_TECH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_CHANGE_RESEARCH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_CHOOSING_TECH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_AVAILABLE"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_CHOOSING_TECH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_TECH_TREE"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_CHOOSE_RESEARCH_MENU",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_CHOOSING_TECH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_CHANGE_RESEARCH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_CHOOSING_TECH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_CHANGE_RESEARCH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_CHOOSE_RESEARCH_MENU"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_AVAILABLE",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_TECH_TREE"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_AVAILABLE",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_TECH_TREE",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_TECH_TREE",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_AVAILABLE"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_TECH_TREE",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_CHOOSING_TECH"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_VICTORY",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_TECHNOLOGY_VICTORY",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_SCIENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY",
+        "RelatedConcept": "CONCEPT_VICTORY_DEFEAT"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY",
+        "RelatedConcept": "CONCEPT_VICTORY_CITY_STATES"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_CITY_STATES",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_DEFEAT",
+        "RelatedConcept": "CONCEPT_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_DEFEAT",
+        "RelatedConcept": "CONCEPT_VICTORY_DEFEAT_LOSING_LAST_CITY"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_DEFEAT",
+        "RelatedConcept": "CONCEPT_VICTORY_DEFEAT_ANOTHER_WINNER"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_DEFEAT",
+        "RelatedConcept": "CONCEPT_VICTORY_DEFEAT_TIME_OUT"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_DEFEAT_LOSING_LAST_CITY",
+        "RelatedConcept": "CONCEPT_VICTORY_DEFEAT"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_DEFEAT_LOSING_LAST_CITY",
+        "RelatedConcept": "CONCEPT_CITY_CONQUERING"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_DEFEAT_LOSING_LAST_CITY",
+        "RelatedConcept": "CONCEPT_SCORE_ELIMINATION"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_DEFEAT_ANOTHER_WINNER",
+        "RelatedConcept": "CONCEPT_VICTORY_DEFEAT"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_DEFEAT_ANOTHER_WINNER",
+        "RelatedConcept": "CONCEPT_VICTORY_CITY_STATES"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_DEFEAT_TIME_OUT",
+        "RelatedConcept": "CONCEPT_VICTORY_DEFEAT"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_DEFEAT_TIME_OUT",
+        "RelatedConcept": "CONCEPT_VICTORY_END_OF_TIME"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_DEFEAT_TIME_OUT",
+        "RelatedConcept": "CONCEPT_VICTORY_POINTS"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY",
+        "RelatedConcept": "CONCEPT_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_DOMINATION"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_SCIENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_CULTURAL"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_DIPLOMATIC"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY",
+        "RelatedConcept": "CONCEPT_VICTORY_DEFEAT_TIME_OUT"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_DOMINATION",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_DOMINATION",
+        "RelatedConcept": "CONCEPT_VICTORY_RAZING_ORIGINAL_CAPITAL"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_DOMINATION",
+        "RelatedConcept": "CONCEPT_VICTORY_CAPITAL_AND_ORIGINAL_CAPITAL"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_DOMINATION",
+        "RelatedConcept": "CONCEPT_COMBAT_CITY_CAPTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_DOMINATION",
+        "RelatedConcept": "CONCEPT_BUILDINGS_PALACE"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_RAZING_ORIGINAL_CAPITAL",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_DOMINATION"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_RAZING_ORIGINAL_CAPITAL",
+        "RelatedConcept": "CONCEPT_CITY_DESTROY"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_RAZING_ORIGINAL_CAPITAL",
+        "RelatedConcept": "CONCEPT_CITY_INDESTRUCTABLE"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_CAPITAL_AND_ORIGINAL_CAPITAL",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_DOMINATION"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_CAPITAL_AND_ORIGINAL_CAPITAL",
+        "RelatedConcept": "CONCEPT_COMBAT_CITY_CAPTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_CAPITAL_AND_ORIGINAL_CAPITAL",
+        "RelatedConcept": "CONCEPT_BUILDINGS_PALACE"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_SCIENCE",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_SCIENCE",
+        "RelatedConcept": "CONCEPT_VICTORY_SPACESHIP_PARTS"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_SCIENCE",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_SPACESHIP_PARTS",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_SCIENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_CULTURAL",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_CULTURAL",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_DIPLOMATIC",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_DIPLOMATIC",
+        "RelatedConcept": "CONCEPT_VICTORY_DIPLOMATIC_VOTING"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_DIPLOMATIC",
+        "RelatedConcept": "CONCEPT_VICTORY_MINOR_CIV_LIBERATION"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_DIPLOMATIC",
+        "RelatedConcept": "CONCEPT_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_VICTORY_DIPLOMATIC",
+        "RelatedConcept": "CONCEPT_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_DIPLOMATIC_VOTING",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_DIPLOMATIC"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_MINOR_CIV_LIBERATION",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_DIPLOMATIC"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_MINOR_CIV_LIBERATION",
+        "RelatedConcept": "CONCEPT_VICTORY_DIPLOMATIC_VOTING"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_MINOR_CIV_LIBERATION",
+        "RelatedConcept": "CONCEPT_CITY_CONQUERING"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_MINOR_CIV_LIBERATION",
+        "RelatedConcept": "CONCEPT_CITY_STATE_LIBERATING"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_END_OF_TIME",
+        "RelatedConcept": "CONCEPT_VICTORY_DEFEAT_TIME_OUT"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_END_OF_TIME",
+        "RelatedConcept": "CONCEPT_VICTORY_POINTS"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_POINTS",
+        "RelatedConcept": "CONCEPT_VICTORY_END_OF_TIME"
+    },
+    {
+        "ConceptType": "CONCEPT_VICTORY_POINTS",
+        "RelatedConcept": "CONCEPT_SCORE"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE",
+        "RelatedConcept": "CONCEPT_CULTURE_GAINING"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE",
+        "RelatedConcept": "CONCEPT_CULTURE_EXPANDING_TERRITORY"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE",
+        "RelatedConcept": "CONCEPT_CULTURE_ACQUIRING_SOCIAL_POLICY"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE",
+        "RelatedConcept": "CONCEPT_CULTURE_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GAINING",
+        "RelatedConcept": "CONCEPT_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GAINING",
+        "RelatedConcept": "CONCEPT_CULTURE_EXPANDING_TERRITORY"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GAINING",
+        "RelatedConcept": "CONCEPT_CULTURE_ACQUIRING_SOCIAL_POLICY"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GAINING",
+        "RelatedConcept": "CONCEPT_CULTURE_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_EXPANDING_TERRITORY",
+        "RelatedConcept": "CONCEPT_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_EXPANDING_TERRITORY",
+        "RelatedConcept": "CONCEPT_CULTURE_GAINING"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_ACQUIRING_SOCIAL_POLICY",
+        "RelatedConcept": "CONCEPT_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_ACQUIRING_SOCIAL_POLICY",
+        "RelatedConcept": "CONCEPT_CULTURE_GAINING"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_ACQUIRING_SOCIAL_POLICY",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_VICTORY",
+        "RelatedConcept": "CONCEPT_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_VICTORY",
+        "RelatedConcept": "CONCEPT_CULTURE_GAINING"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_WHO_CAN_CONDUCT"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_INITIATING"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_WITH_CIVS"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_TRADE_SCREEN"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_DECLARING_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_NEGOTIATE_PEACE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_GOLD_SPENDING_ON_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_WHO_CAN_CONDUCT",
+        "RelatedConcept": "CONCEPT_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_WHO_CAN_CONDUCT",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_WITH_CIVS"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_WHO_CAN_CONDUCT",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_INITIATING",
+        "RelatedConcept": "CONCEPT_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_INITIATING",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_WITH_CIVS"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_INITIATING",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_WITH_CIVS",
+        "RelatedConcept": "CONCEPT_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_WITH_CIVS",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_WHO_CAN_CONDUCT"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_WITH_CIVS",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_INITIATING"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_WITH_CIVS",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_DECLARE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_WITH_CIVS",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_PEACE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_WITH_CIVS",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_TRADE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_WITH_CIVS",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_DEMAND"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_WITH_CIVS",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_DISCUSS"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_WITH_CIVS",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_EXIT"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_DECLARE_WAR",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_WITH_CIVS"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_DECLARE_WAR",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_PEACE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_PEACE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_WITH_CIVS"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_PEACE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_DECLARE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_TRADE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_WITH_CIVS"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_TRADE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_TRADE_SCREEN"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_TRADE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_OPEN_BORDERS"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_TRADE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_DEFENSIVE_PACT"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_TRADE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_RESEARCH_AGREEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_TRADE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_TRADE_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_TRADE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_OTHER_PLAYERS"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_TRADE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_RESOURCES"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_DEMAND",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_WITH_CIVS"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_DEMAND",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_DECLARE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_DISCUSS",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_WITH_CIVS"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_EXIT",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_WITH_CIVS"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_TRADE_SCREEN",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_TRADE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_OPEN_BORDERS",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_TRADE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_DEFENSIVE_PACT",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_TRADE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_RESEARCH_AGREEMENT",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_TRADE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_TRADE_CITIES",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_TRADE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_OTHER_PLAYERS",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_TRADE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_OTHER_PLAYERS",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_DECLARE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_RESOURCES",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_TRADE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_RESOURCES",
+        "RelatedConcept": "CONCEPT_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_CITY_STATE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_CITY_STATE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_DECLARING_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_CITY_STATE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_NEGOTIATE_PEACE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_CITY_STATE",
+        "RelatedConcept": "CONCEPT_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_DECLARING_WAR",
+        "RelatedConcept": "CONCEPT_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_DECLARING_WAR",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_DECLARE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_DECLARING_WAR",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_PEACE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_DECLARING_WAR",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_NEGOTIATE_PEACE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_NEGOTIATE_PEACE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_NEGOTIATE_PEACE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_PEACE"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_NEGOTIATE_PEACE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_DECLARING_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_NEGOTIATE_PEACE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY_DECLARE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_DIPLOMACY_NEGOTIATE_PEACE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS",
+        "RelatedConcept": "CONCEPT_HAPPINESS_STARTING"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS",
+        "RelatedConcept": "CONCEPT_HAPPINESS_CAUSES_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS",
+        "RelatedConcept": "CONCEPT_HAPPINESS_CAUSES_UNHAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS",
+        "RelatedConcept": "CONCEPT_HAPPINESS_HAPPINESS_LEVELS"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_STARTING",
+        "RelatedConcept": "CONCEPT_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_CAUSES_UNHAPPINESS",
+        "RelatedConcept": "CONCEPT_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_CAUSES_UNHAPPINESS",
+        "RelatedConcept": "CONCEPT_HAPPINESS_CAUSES_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_CAUSES_HAPPINESS",
+        "RelatedConcept": "CONCEPT_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_CAUSES_HAPPINESS",
+        "RelatedConcept": "CONCEPT_HAPPINESS_CAUSES_UNHAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_HAPPINESS_LEVELS",
+        "RelatedConcept": "CONCEPT_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_HAPPINESS_LEVELS",
+        "RelatedConcept": "CONCEPT_HAPPINESS_UNHAHPPY"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_HAPPINESS_LEVELS",
+        "RelatedConcept": "CONCEPT_HAPPINESS_VERY_UNHAPPY"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_UNHAHPPY",
+        "RelatedConcept": "CONCEPT_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_UNHAHPPY",
+        "RelatedConcept": "CONCEPT_HAPPINESS_HAPPINESS_LEVELS"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_UNHAHPPY",
+        "RelatedConcept": "CONCEPT_HAPPINESS_VERY_UNHAPPY"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_VERY_UNHAPPY",
+        "RelatedConcept": "CONCEPT_HAPPINESS"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_VERY_UNHAPPY",
+        "RelatedConcept": "CONCEPT_HAPPINESS_HAPPINESS_LEVELS"
+    },
+    {
+        "ConceptType": "CONCEPT_HAPPINESS_VERY_UNHAPPY",
+        "RelatedConcept": "CONCEPT_HAPPINESS_UNHAHPPY"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_THREE_STATES"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_STATE_VISIBLE"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_STATE_REVEALED"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_STATE_FOG_OF_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_SEEN"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_OBSCURING_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_INDIRECT_FIRE"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS_MAP"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_THREE_STATES",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_THREE_STATES",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_STATE_VISIBLE"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_THREE_STATES",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_STATE_REVEALED"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_THREE_STATES",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_STATE_FOG_OF_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_STATE_VISIBLE",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_STATE_VISIBLE",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_STATE_REVEALED"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_STATE_VISIBLE",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_STATE_FOG_OF_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_STATE_REVEALED",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_STATE_REVEALED",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_STATE_VISIBLE"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_STATE_REVEALED",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_STATE_FOG_OF_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_STATE_FOG_OF_WAR",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_STATE_FOG_OF_WAR",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_STATE_VISIBLE"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_STATE_FOG_OF_WAR",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_STATE_REVEALED"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_SEEN",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_OBSCURING_TERRAIN",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_OBSCURING_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_HILLS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_OBSCURING_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_MOUNTAINS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_OBSCURING_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_FORESTS"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_OBSCURING_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_JUNGLE"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_OBSCURING_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_NATURAL_WONDER"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_INDIRECT_FIRE",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_INDIRECT_FIRE",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_FOG_OF_WAR_INDIRECT_FIRE",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_LINE_OF_SIGHT"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_GAINING"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_GAINING",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCHES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCHES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCH_TRADITION"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCHES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCH_LIBERTY"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCHES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCH_HONOR"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCHES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCH_PIETY"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCHES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCH_PATRONAGE"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCHES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCH_COMMERCE"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCHES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCH_RATIONALISM"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCHES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCH_FREEDOM"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCHES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCH_ORDER"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCHES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCH_AUTOCRACY"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCH_TRADITION",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCH_LIBERTY",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCH_HONOR",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCH_PIETY",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCH_PATRONAGE",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCH_COMMERCE",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCH_RATIONALISM",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCH_FREEDOM",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCH_ORDER",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCH_AUTOCRACY",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_VICTORY",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_VICTORY",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD",
+        "RelatedConcept": "CONCEPT_GOLD_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD",
+        "RelatedConcept": "CONCEPT_GOLD_CITY_CAPTURED_BY_BARBARIANS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD",
+        "RelatedConcept": "CONCEPT_GOLD_CITY_CAPTURED_BY_CIV"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD",
+        "RelatedConcept": "CONCEPT_GOLD_RUNNING_DEFICIT"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MERCHANT"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD_RESOURCES"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD_TRADING_POST"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD_WONDERS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD_TRADE_ROUTES"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD_BARBARIAN_CAMPS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD_ANCIENT_RUINS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD_CITY_STATES"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD_PILLAGE_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD_CITY_CAPTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WHERE_TO_GET",
+        "RelatedConcept": "CONCEPT_GOLD_TRADE_MISSION"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TERRAIN",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_COAST"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_OCEANS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_RIVERS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_NATURAL_WONDER"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TERRAIN",
+        "RelatedConcept": "CONCEPT_TERRAIN_FEATURE_OASIS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_RESOURCES",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_RESOURCES",
+        "RelatedConcept": "CONCEPT_RESOURCES"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TRADING_POST",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TRADING_POST",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_BUILDINGS",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_BUILDINGS",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WONDERS",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_WONDERS",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTING_WONDERS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TRADE_ROUTES",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TRADE_ROUTES",
+        "RelatedConcept": "CONCEPT_WORKERS_ROADS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TRADE_ROUTES",
+        "RelatedConcept": "CONCEPT_GOLD_TRADE_ROUTES_BLOCKADE"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TRADE_ROUTES_BLOCKADE",
+        "RelatedConcept": "CONCEPT_GOLD_TRADE_ROUTES"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_BARBARIAN_CAMPS",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_BARBARIAN_CAMPS",
+        "RelatedConcept": "CONCEPT_BARBARIANS_ENCAMPMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_ANCIENT_RUINS",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_ANCIENT_RUINS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_CITY_STATES",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_PILLAGE_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_PILLAGE_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_WORKERS_PILLAGE"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_PILLAGE_IMPROVEMENTS",
+        "RelatedConcept": "CONCEPT_WORKERS_REPAIR"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_CITY_CAPTURE",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_CITY_CAPTURE",
+        "RelatedConcept": "CONCEPT_CITY_CONQUERING"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TRADE_MISSION",
+        "RelatedConcept": "CONCEPT_GOLD_WHERE_TO_GET"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_TRADE_MISSION",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MERCHANT"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_SPENDING",
+        "RelatedConcept": "CONCEPT_GOLD"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_SPENDING",
+        "RelatedConcept": "CONCEPT_GOLD_UNIT_BUILDING_MAINTENANCE"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_SPENDING",
+        "RelatedConcept": "CONCEPT_GOLD_ROAD_MAINTENANCE"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_SPENDING",
+        "RelatedConcept": "CONCEPT_GOLD_PURCHASE_TILES"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_SPENDING",
+        "RelatedConcept": "CONCEPT_GOLD_PURCHASE_UNITS_BUILDINGS_WONDERS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_SPENDING",
+        "RelatedConcept": "CONCEPT_GOLD_BUY_CITY_STATE_INFLUENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_SPENDING",
+        "RelatedConcept": "CONCEPT_GOLD_UPGRADE_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_SPENDING",
+        "RelatedConcept": "CONCEPT_GOLD_SPENDING_ON_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_UNIT_BUILDING_MAINTENANCE",
+        "RelatedConcept": "CONCEPT_GOLD_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_UNIT_BUILDING_MAINTENANCE",
+        "RelatedConcept": "CONCEPT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_UNIT_BUILDING_MAINTENANCE",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_ROAD_MAINTENANCE",
+        "RelatedConcept": "CONCEPT_GOLD_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_ROAD_MAINTENANCE",
+        "RelatedConcept": "CONCEPT_WORKERS_ROADS"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_PURCHASE_TILES",
+        "RelatedConcept": "CONCEPT_GOLD_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_PURCHASE_UNITS_BUILDINGS_WONDERS",
+        "RelatedConcept": "CONCEPT_GOLD_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_BUY_CITY_STATE_INFLUENCE",
+        "RelatedConcept": "CONCEPT_GOLD_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_BUY_CITY_STATE_INFLUENCE",
+        "RelatedConcept": "CONCEPT_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_UPGRADE_UNITS",
+        "RelatedConcept": "CONCEPT_GOLD_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_UPGRADE_UNITS",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_SPENDING_ON_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_GOLD_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_SPENDING_ON_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_GOLD_DIPLOMACY_FLAT_FEE"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_SPENDING_ON_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_GOLD_DIPLOMACY_PER_TURN"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_SPENDING_ON_DIPLOMACY",
+        "RelatedConcept": "CONCEPT_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_DIPLOMACY_FLAT_FEE",
+        "RelatedConcept": "CONCEPT_GOLD_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_DIPLOMACY_FLAT_FEE",
+        "RelatedConcept": "CONCEPT_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_DIPLOMACY_PER_TURN",
+        "RelatedConcept": "CONCEPT_GOLD_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_DIPLOMACY_PER_TURN",
+        "RelatedConcept": "CONCEPT_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_CITY_CAPTURED_BY_BARBARIANS",
+        "RelatedConcept": "CONCEPT_GOLD"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_CITY_CAPTURED_BY_BARBARIANS",
+        "RelatedConcept": "CONCEPT_CITY_CONQUERING"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_CITY_CAPTURED_BY_CIV",
+        "RelatedConcept": "CONCEPT_GOLD"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_CITY_CAPTURED_BY_CIV",
+        "RelatedConcept": "CONCEPT_CITY_CONQUERING"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_RUNNING_DEFICIT",
+        "RelatedConcept": "CONCEPT_GOLD"
+    },
+    {
+        "ConceptType": "CONCEPT_GOLD_RUNNING_DEFICIT",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS",
+        "RelatedConcept": "CONCEPT_ADVISORS_ECONOMIC"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS",
+        "RelatedConcept": "CONCEPT_ADVISORS_MILITARY"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS",
+        "RelatedConcept": "CONCEPT_ADVISORS_FOREIGN"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS",
+        "RelatedConcept": "CONCEPT_ADVISORS_SCIENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS",
+        "RelatedConcept": "CONCEPT_ADVISORS_CONTACTING"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS",
+        "RelatedConcept": "CONCEPT_ADVISORS_TURNINGOFF"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS_ECONOMIC",
+        "RelatedConcept": "CONCEPT_ADVISORS"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS_ECONOMIC",
+        "RelatedConcept": "CONCEPT_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS_ECONOMIC",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS_MILITARY",
+        "RelatedConcept": "CONCEPT_ADVISORS"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS_MILITARY",
+        "RelatedConcept": "CONCEPT_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS_FOREIGN",
+        "RelatedConcept": "CONCEPT_ADVISORS"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS_FOREIGN",
+        "RelatedConcept": "CONCEPT_DIPLOMACY"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS_SCIENCE",
+        "RelatedConcept": "CONCEPT_ADVISORS"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS_SCIENCE",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS_CONTACTING",
+        "RelatedConcept": "CONCEPT_ADVISORS"
+    },
+    {
+        "ConceptType": "CONCEPT_ADVISORS_TURNINGOFF",
+        "RelatedConcept": "CONCEPT_ADVISORS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ARTIST"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ENGINEER"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_MERCHANT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_SCIENTIST"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ASSIGNING"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_EFFECT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_CITY_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ARTIST",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ARTIST",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ASSIGNING"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ARTIST",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_EFFECT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ENGINEER",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ENGINEER",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ASSIGNING"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ENGINEER",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_EFFECT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_MERCHANT",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_MERCHANT",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ASSIGNING"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_MERCHANT",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_EFFECT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_SCIENTIST",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_SCIENTIST",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ASSIGNING"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_SCIENTIST",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_EFFECT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ASSIGNING",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ASSIGNING",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_EFFECT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ASSIGNING",
+        "RelatedConcept": "CONCEPT_CITY_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ASSIGNING",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_EFFECT",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_EFFECT",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_EFFECT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_EFFECT",
+        "RelatedConcept": "CONCEPT_CITY_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_UNITS_NON_COMBAT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GENERATING"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ABILITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_IMPROVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_ABILITY"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_MOVING_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ARTIST"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ENGINEER"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MERCHANT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_SCIENTIST"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_GENERAL"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_BARBARIANS_CAPTURING_CIVILIANS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_WORKERS_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GENERATING",
+        "RelatedConcept": "CONCEPT_WORKERS_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GENERATING",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GENERATING",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ABILITIES",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_IMPROVEMENT",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_ABILITY",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_MOVING_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_MOVING_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_COMBAT_WHICH_UNITS_CAN_FIGHT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ARTIST",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ARTIST",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CULTURE_BOMB"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ARTIST",
+        "RelatedConcept": "CONCEPT_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CULTURE_BOMB",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ARTIST"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CULTURE_BOMB",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_ABILITY"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ENGINEER",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ENGINEER",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_MANUFACTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ENGINEER",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_HURRY_PRODUCTION"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_MANUFACTORY",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ENGINEER"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_MANUFACTORY",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_IMPROVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_MANUFACTORY",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_HURRY_PRODUCTION",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ENGINEER"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_HURRY_PRODUCTION",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_ABILITY"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MERCHANT",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MERCHANT",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CUSTOMS_HOUSE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MERCHANT",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_TRADE_MISSION"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MERCHANT",
+        "RelatedConcept": "CONCEPT_GOLD"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CUSTOMS_HOUSE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MERCHANT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CUSTOMS_HOUSE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_IMPROVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CUSTOMS_HOUSE",
+        "RelatedConcept": "CONCEPT_GOLD"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CUSTOMS_HOUSE",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_TRADE_MISSION",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MERCHANT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_TRADE_MISSION",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_ABILITY"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_TRADE_MISSION",
+        "RelatedConcept": "CONCEPT_GOLD_TRADE_MISSION"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_TRADE_MISSION",
+        "RelatedConcept": "CONCEPT_GOLD"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_SCIENTIST",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_SCIENTIST",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ACADEMY"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_SCIENTIST",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_LEARN_NEW_TECH"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_SCIENTIST",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ACADEMY",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_SCIENTIST"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ACADEMY",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_IMPROVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ACADEMY",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ACADEMY",
+        "RelatedConcept": "CONCEPT_WORKERS_IMPROVEMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_LEARN_NEW_TECH",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_SCIENTIST"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_LEARN_NEW_TECH",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_ABILITY"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_LEARN_NEW_TECH",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_GENERAL",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_GENERAL",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CITADEL"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_GENERAL",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_COMBAT_BONUS"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CITADEL",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_SCIENTIST"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CITADEL",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_IMPROVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_COMBAT_BONUS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_GENERAL"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_COMBAT_BONUS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_ABILITY"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_COMBAT_BONUS",
+        "RelatedConcept": "CONCEPT_COMBAT_BONUSES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_COMMUNICATION"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_MISSIONS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_LIBERATING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_DIPLOMACY_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_TYPES",
+        "RelatedConcept": "CONCEPT_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_TYPES",
+        "RelatedConcept": "CONCEPT_CITY_STATE_TYPES_CULTURED"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_TYPES",
+        "RelatedConcept": "CONCEPT_CITY_STATE_TYPES_MARITIME"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_TYPES",
+        "RelatedConcept": "CONCEPT_CITY_STATE_TYPES_MILITARISTIC"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_TYPES",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_FRIENDS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_TYPES_CULTURED",
+        "RelatedConcept": "CONCEPT_CITY_STATE_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_TYPES_CULTURED",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_FRIENDS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_TYPES_MARITIME",
+        "RelatedConcept": "CONCEPT_CITY_STATE_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_TYPES_MARITIME",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_FRIENDS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_TYPES_MILITARISTIC",
+        "RelatedConcept": "CONCEPT_CITY_STATE_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_TYPES_MILITARISTIC",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_FRIENDS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_COMMUNICATION",
+        "RelatedConcept": "CONCEPT_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE",
+        "RelatedConcept": "CONCEPT_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_GIVE_GOLD"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_GIVE_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_DO_NOTHING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_MISSIONS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_GIVE_GOLD",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_GIVE_GOLD",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_GIVE_GOLD",
+        "RelatedConcept": "CONCEPT_GOLD"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_GIVE_UNITS",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_GIVE_UNITS",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_DO_NOTHING",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_PERMANENT_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_NEUTRAL"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_FRIENDS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_ALLIES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS",
+        "RelatedConcept": "CONCEPT_CITY_STATE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_PERMANENT_WAR",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_WAR",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_NEUTRAL",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_FRIENDS",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_ALLIES",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_ALLIES",
+        "RelatedConcept": "CONCEPT_RESOURCES_LUXURY"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_ALLIES",
+        "RelatedConcept": "CONCEPT_RESOURCES_STRATEGIC"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_MISSIONS",
+        "RelatedConcept": "CONCEPT_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_MISSIONS",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_WAR",
+        "RelatedConcept": "CONCEPT_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_WAR",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_WAR",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_PERMANENT_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_LIBERATING",
+        "RelatedConcept": "CONCEPT_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_LIBERATING",
+        "RelatedConcept": "CONCEPT_CITY_CONQUERING"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_DIPLOMACY_VICTORY",
+        "RelatedConcept": "CONCEPT_CITY_STATE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_DIPLOMACY_VICTORY",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_DIPLOMATIC"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT",
+        "RelatedConcept": "CONCEPT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_HOW_TO_ORDER"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_LEGAL_MOVES"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_MULTIPLE_TURN_MOVES"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_MOVEMENT_POINTS"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_EXPENDING_MOVEMENT_POINTS"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_ROADS_AND_RAILROADS"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_STACKING_LIMITS"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_NAVAL"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_EMBARKING"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_HOW_TO_ORDER",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_HOW_TO_ORDER",
+        "RelatedConcept": "CONCEPT_MOVEMENT_RIGHT_CLICK"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_HOW_TO_ORDER",
+        "RelatedConcept": "CONCEPT_MOVEMENT_MOVE_MODE"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_RIGHT_CLICK",
+        "RelatedConcept": "CONCEPT_MOVEMENT_HOW_TO_ORDER"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_MOVE_MODE",
+        "RelatedConcept": "CONCEPT_MOVEMENT_HOW_TO_ORDER"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_LEGAL_MOVES",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_LEGAL_MOVES",
+        "RelatedConcept": "CONCEPT_MOVEMENT_ILLEGAL_MOVES"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_ILLEGAL_MOVES",
+        "RelatedConcept": "CONCEPT_MOVEMENT_LEGAL_MOVES"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_ILLEGAL_MOVES",
+        "RelatedConcept": "CONCEPT_MOVEMENT_STACKING_LIMITS"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_ILLEGAL_MOVES",
+        "RelatedConcept": "CONCEPT_TERRAIN"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_MULTIPLE_TURN_MOVES",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_MOVEMENT_POINTS",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_EXPENDING_MOVEMENT_POINTS",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_EXPENDING_MOVEMENT_POINTS",
+        "RelatedConcept": "CONCEPT_MOVEMENT_MOVEMENT_POINTS"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_ROADS_AND_RAILROADS",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_ROADS_AND_RAILROADS",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_ROADS_AND_RAILROADS",
+        "RelatedConcept": "CONCEPT_WORKERS_ROADS"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_ROADS_AND_RAILROADS_AND_RIVERS",
+        "RelatedConcept": "CONCEPT_MOVEMENT_ROADS_AND_RAILROADS"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_ROADS_AND_RAILROADS_AND_RIVERS",
+        "RelatedConcept": "CONCEPT_WORKERS_ROADS"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_ROADS_AND_RAILROADS_AND_RIVERS",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_STACKING_LIMITS",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_STACKING_LIMITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_STACKING"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_COMBAT",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_COMBAT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_COMBAT_ATTACK_ORDERS"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_COMBAT",
+        "RelatedConcept": "CONCEPT_MOVEMENT_COMBAT_ZONES_OF_CONTROL"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_COMBAT_ATTACK_ORDERS",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_COMBAT_ATTACK_ORDERS",
+        "RelatedConcept": "CONCEPT_MOVEMENT_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_COMBAT_ZONES_OF_CONTROL",
+        "RelatedConcept": "CONCEPT_MOVEMENT_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_NAVAL",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_EMBARKING",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_MOVEMENT_EMBARKING",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_SCORE",
+        "RelatedConcept": "CONCEPT_SCORE_ELIMINATION"
+    },
+    {
+        "ConceptType": "CONCEPT_SCORE",
+        "RelatedConcept": "CONCEPT_SCORE_TIME_TO_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_SCORE",
+        "RelatedConcept": "CONCEPT_SCORE_VICTORY_POINTS"
+    },
+    {
+        "ConceptType": "CONCEPT_SCORE",
+        "RelatedConcept": "CONCEPT_SCORE_MAP_SIZE"
+    },
+    {
+        "ConceptType": "CONCEPT_SCORE",
+        "RelatedConcept": "CONCEPT_SCORE_CURRENT_SCORE"
+    },
+    {
+        "ConceptType": "CONCEPT_SCORE",
+        "RelatedConcept": "CONCEPT_VICTORY_END_OF_TIME"
+    },
+    {
+        "ConceptType": "CONCEPT_SCORE_ELIMINATION",
+        "RelatedConcept": "CONCEPT_SCORE"
+    },
+    {
+        "ConceptType": "CONCEPT_SCORE_ELIMINATION",
+        "RelatedConcept": "CONCEPT_VICTORY_DEFEAT_LOSING_LAST_CITY"
+    },
+    {
+        "ConceptType": "CONCEPT_SCORE_TIME_TO_VICTORY",
+        "RelatedConcept": "CONCEPT_SCORE"
+    },
+    {
+        "ConceptType": "CONCEPT_SCORE_VICTORY_POINTS",
+        "RelatedConcept": "CONCEPT_SCORE"
+    },
+    {
+        "ConceptType": "CONCEPT_SCORE_MAP_SIZE",
+        "RelatedConcept": "CONCEPT_SCORE"
+    },
+    {
+        "ConceptType": "CONCEPT_SCORE_CURRENT_SCORE",
+        "RelatedConcept": "CONCEPT_SCORE"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_HELICOPTER_GUNSHIPS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_COMBAT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_STACKING"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_RANGE"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_RECON"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_MISSIONS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_REBASE"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_STRIKE"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_SWEEP"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_INTERCEPTION"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_MISSILES_RULES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_ATOMIC_BOMBS_RULES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_NUCLEAR_MISSILES_RULES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_HELICOPTER_GUNSHIPS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_HELICOPTER_GUNSHIPS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_HELICOPTER_GUNSHIPS_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_HELICOPTER_GUNSHIPS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_HELICOPTER_GUNSHIPS_ANTI_TANK"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_HELICOPTER_GUNSHIPS_MOVEMENT",
+        "RelatedConcept": "CONCEPT_AIR_POWER_HELICOPTER_GUNSHIPS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_HELICOPTER_GUNSHIPS_ANTI_TANK",
+        "RelatedConcept": "CONCEPT_AIR_POWER_HELICOPTER_GUNSHIPS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES",
+        "RelatedConcept": "CONCEPT_AIR_POWER"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_LOCATION"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_FIGHTERS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_BOMBERS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_STEALTH"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_ATOMIC"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_MISSILES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES_LOCATION",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES_FIGHTERS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES_BOMBERS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES_STEALTH",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES_ATOMIC",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES_MISSILES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT_CARRIER"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT_MISSLE_CRUISER"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT_CARRIER",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT_MISSLE_CRUISER",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT_NUCLEAR_SUBMARINE",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_STACKING",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_RANGE",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_RECON",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_MISSIONS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_REBASE",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_REBASE",
+        "RelatedConcept": "CONCEPT_AIR_POWER_BASES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_STRIKE",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_STRIKE",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_STRIKE_RULES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_SWEEP",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_SWEEP",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_SWEEPS_RULES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_INTERCEPTION",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_INTERCEPTION",
+        "RelatedConcept": "CONCEPT_AIR_POWER_INTERCEPTION_RULES"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_STRIKE_RULES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_STRIKE_RULES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_STRIKE"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_INTERCEPTION_RULES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_INTERCEPTION_RULES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_SWEEP"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_SWEEPS_RULES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_AIR_SWEEPS_RULES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_SWEEP"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_MISSILES_RULES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_ATOMIC_BOMBS_RULES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_AIR_POWER_NUCLEAR_MISSILES_RULES",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS",
+        "RelatedConcept": "CONCEPT_BUILDINGS_CONSTRUCTION"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS",
+        "RelatedConcept": "CONCEPT_BUILDINGS_PURCHASING"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS",
+        "RelatedConcept": "CONCEPT_BUILDINGS_PREREQUISITES"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS",
+        "RelatedConcept": "CONCEPT_BUILDINGS_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS",
+        "RelatedConcept": "CONCEPT_BUILDINGS_MAINTENANCE"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS",
+        "RelatedConcept": "CONCEPT_BUILDINGS_PALACE"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS",
+        "RelatedConcept": "CONCEPT_BUILDINGS_CAPTURED_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS",
+        "RelatedConcept": "CONCEPT_CITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_CONSTRUCTION",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_CONSTRUCTION",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTING_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_CONSTRUCTION",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTING_WONDERS"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_PURCHASING",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_PURCHASING",
+        "RelatedConcept": "CONCEPT_GOLD_PURCHASE_UNITS_BUILDINGS_WONDERS"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_PREREQUISITES",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_PREREQUISITES",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_SPECIALISTS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_MAINTENANCE",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_MAINTENANCE",
+        "RelatedConcept": "CONCEPT_GOLD_UNIT_BUILDING_MAINTENANCE"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_PALACE",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_PALACE",
+        "RelatedConcept": "CONCEPT_VICTORY_VICTORY_DOMINATION"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_PALACE",
+        "RelatedConcept": "CONCEPT_VICTORY_CAPITAL_AND_ORIGINAL_CAPITAL"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_CAPTURED_CITIES",
+        "RelatedConcept": "CONCEPT_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_CAPTURED_CITIES",
+        "RelatedConcept": "CONCEPT_VICTORY_CAPITAL_AND_ORIGINAL_CAPITAL"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_CAPTURED_CITIES",
+        "RelatedConcept": "CONCEPT_CITY_CONQUERING"
+    },
+    {
+        "ConceptType": "CONCEPT_BUILDINGS_CAPTURED_CITIES",
+        "RelatedConcept": "CONCEPT_CITY_ANNEX"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_AND_ANCIENT_RUINS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_AND_ANCIENT_RUINS",
+        "RelatedConcept": "CONCEPT_BARBARIANS"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS",
+        "RelatedConcept": "CONCEPT_BARBARIANS_AND_ANCIENT_RUINS"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS_FREE_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS_MAP"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS_WEAPONS"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS_SURVIVORS"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS_TREASURE"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS_SETTLERS_AND_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS_FREE_TECHNOLOGY",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS_FREE_TECHNOLOGY",
+        "RelatedConcept": "CONCEPT_TECHNOLOGY"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS_MAP",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS_WEAPONS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS_SURVIVORS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS_TREASURE",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS_TREASURE",
+        "RelatedConcept": "CONCEPT_GOLD"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS_CULTURE",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS_CULTURE",
+        "RelatedConcept": "CONCEPT_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS_SETTLERS_AND_WORKERS",
+        "RelatedConcept": "CONCEPT_ANCIENT_RUINS_BENEFITS"
+    },
+    {
+        "ConceptType": "CONCEPT_ANCIENT_RUINS_BENEFITS_SETTLERS_AND_WORKERS",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS",
+        "RelatedConcept": "CONCEPT_BARBARIANS_AND_ANCIENT_RUINS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS",
+        "RelatedConcept": "CONCEPT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS",
+        "RelatedConcept": "CONCEPT_BARBARIANS_ENCAMPMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS",
+        "RelatedConcept": "CONCEPT_BARBARIANS_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS",
+        "RelatedConcept": "CONCEPT_BARBARIANS_UNITS_NAVAL"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS",
+        "RelatedConcept": "CONCEPT_BARBARIANS_CAPTURING_CIVILIANS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS",
+        "RelatedConcept": "CONCEPT_BARBARIANS_EXPERIENCE_POINT_LIMITS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS",
+        "RelatedConcept": "CONCEPT_BARBARIANS_THE_END"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_ENCAMPMENTS",
+        "RelatedConcept": "CONCEPT_BARBARIANS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_ENCAMPMENTS",
+        "RelatedConcept": "CONCEPT_BARBARIANS_ENCAMPMENTS_DESTROYING"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_ENCAMPMENTS",
+        "RelatedConcept": "CONCEPT_BARBARIANS_ENCAMPMENTS_NEW"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_ENCAMPMENTS_DESTROYING",
+        "RelatedConcept": "CONCEPT_BARBARIANS_ENCAMPMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_ENCAMPMENTS_DESTROYING",
+        "RelatedConcept": "CONCEPT_GOLD"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_ENCAMPMENTS_NEW",
+        "RelatedConcept": "CONCEPT_BARBARIANS_ENCAMPMENTS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_ENCAMPMENTS_NEW",
+        "RelatedConcept": "CONCEPT_FOG_OF_WAR_STATE_VISIBLE"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_UNITS",
+        "RelatedConcept": "CONCEPT_BARBARIANS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_UNITS_NAVAL",
+        "RelatedConcept": "CONCEPT_BARBARIANS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_CAPTURING_CIVILIANS",
+        "RelatedConcept": "CONCEPT_BARBARIANS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_CAPTURING_CIVILIANS",
+        "RelatedConcept": "CONCEPT_UNITS_NON_COMBAT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_CAPTURING_CIVILIANS",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_CAPTURING_CIVILIANS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_EXPERIENCE_POINT_LIMITS",
+        "RelatedConcept": "CONCEPT_BARBARIANS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_EXPERIENCE_POINT_LIMITS",
+        "RelatedConcept": "CONCEPT_COMBAT_EXPERIENCE_AND_PROMOTIONS"
+    },
+    {
+        "ConceptType": "CONCEPT_BARBARIANS_THE_END",
+        "RelatedConcept": "CONCEPT_BARBARIANS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_CONSTRUCTING"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_CHARACTERISTICS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_NATIONAL_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_NON_COMBAT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_COMBAT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_CONSTRUCTING",
+        "RelatedConcept": "CONCEPT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_CONSTRUCTING",
+        "RelatedConcept": "CONCEPT_CITY_CONSTRUCTING_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_CHARACTERISTICS",
+        "RelatedConcept": "CONCEPT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_CHARACTERISTICS",
+        "RelatedConcept": "CONCEPT_UNITS_MOVEMENT_SPEED"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_CHARACTERISTICS",
+        "RelatedConcept": "CONCEPT_UNITS_COMBAT_STRENGTH"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_CHARACTERISTICS",
+        "RelatedConcept": "CONCEPT_UNITS_SPECIAL_ABILITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_CHARACTERISTICS",
+        "RelatedConcept": "CONCEPT_COMBAT_UNIT_STATS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_MOVEMENT_SPEED",
+        "RelatedConcept": "CONCEPT_UNITS_CHARACTERISTICS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_MOVEMENT_SPEED",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_COMBAT_STRENGTH",
+        "RelatedConcept": "CONCEPT_UNITS_CHARACTERISTICS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_SPECIAL_ABILITIES",
+        "RelatedConcept": "CONCEPT_UNITS_CHARACTERISTICS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_SPECIAL_ABILITIES",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_SPECIAL_ABILITIES",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ABILITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_NATIONAL_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_MOVEMENT",
+        "RelatedConcept": "CONCEPT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_MOVEMENT",
+        "RelatedConcept": "CONCEPT_MOVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_COMBAT",
+        "RelatedConcept": "CONCEPT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_COMBAT",
+        "RelatedConcept": "CONCEPT_UNITS_NON_COMBAT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_COMBAT",
+        "RelatedConcept": "CONCEPT_UNITS_COMBAT_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_NON_COMBAT_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_NON_COMBAT_UNITS",
+        "RelatedConcept": "CONCEPT_WORKERS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_NON_COMBAT_UNITS",
+        "RelatedConcept": "CONCEPT_WORKERS_WORKBOATS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_NON_COMBAT_UNITS",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ABILITIES"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_COMBAT_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_COMBAT_UNITS",
+        "RelatedConcept": "CONCEPT_COMBAT_MELEE_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_COMBAT_UNITS",
+        "RelatedConcept": "CONCEPT_COMBAT_RANGED_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_COMBAT_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_NAVAL_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_COMBAT_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_NAVAL_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_NAVAL_UNITS",
+        "RelatedConcept": "CONCEPT_COMBAT_NAVAL"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_UNITS_COMBAT"
+    },
+    {
+        "ConceptType": "CONCEPT_UNITS_AIR_UNITS",
+        "RelatedConcept": "CONCEPT_AIR_POWER_AIR_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_TYPES",
+        "RelatedConcept": "CONCEPT_CITY_STATE_RELIGIOUS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_TYPES",
+        "RelatedConcept": "CONCEPT_CITY_STATE_MERCANTILE"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_MERCANTILE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_MERCANTILE",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_FRIENDS"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_RELIGIOUS",
+        "RelatedConcept": "CONCEPT_CITY_STATE_TYPES"
+    },
+    {
+        "ConceptType": "CONCEPT_CITY_STATE_RELIGIOUS",
+        "RelatedConcept": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_FRIENDS"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_SPIES",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_MOVING_SPIES"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_SPIES",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_MORE"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_SPIES",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_STEALING_TECHS"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_SPIES",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_RIG_ELECTION"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_SPIES",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_SURVEILLANCE"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_SPIES",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_COUNTER_INTEL"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_MOVING_SPIES",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_STEALING_TECHS"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_MOVING_SPIES",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_SURVEILLANCE"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_MOVING_SPIES",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_COUNTER_INTEL"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_COUNTER_INTEL",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_POLICE_STATION"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_COUNTER_INTEL",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_COUNTER_INTEL",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_GREAT_FIREWALL"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_COUNTER_INTEL",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_GETTING_CAUGHT"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_STEALING_TECHS",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_PROMOTIONS"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_STEALING_TECHS",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_GETTING_CAUGHT"
+    },
+    {
+        "ConceptType": "CONCEPT_ESPIONAGE_SURVEILLANCE",
+        "RelatedConcept": "CONCEPT_ESPIONAGE_GETTING_CAUGHT"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FAITH_EARNING",
+        "RelatedConcept": "CONCEPT_RELIGION_PANTHEONS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FAITH_EARNING",
+        "RelatedConcept": "CONCEPT_RELIGION_FAITH_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FAITH_EARNING",
+        "RelatedConcept": "CONCEPT_GREAT_PROPHET"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_PANTHEONS",
+        "RelatedConcept": "CONCEPT_RELIGION_FAITH_EARNING"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_PANTHEONS",
+        "RelatedConcept": "CONCEPT_RELIGION_BELIEFS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_PANTHEONS",
+        "RelatedConcept": "CONCEPT_RELIGION_PANTHEON_BELIEFS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_PANTHEONS",
+        "RelatedConcept": "CONCEPT_RELIGION_FOUNDING_RELIGION"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_BELIEFS",
+        "RelatedConcept": "CONCEPT_RELIGION_PANTHEON_BELIEFS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_BELIEFS",
+        "RelatedConcept": "CONCEPT_RELIGION_FOUNDER"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_BELIEFS",
+        "RelatedConcept": "CONCEPT_RELIGION_FOLLOWER"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_BELIEFS",
+        "RelatedConcept": "CONCEPT_RELIGION_ENHANCER"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_PANTHEON_BELIEFS",
+        "RelatedConcept": "CONCEPT_RELIGION_BELIEFS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_PANTHEON_BELIEFS",
+        "RelatedConcept": "CONCEPT_RELIGION_PANTHEONS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FOUNDER",
+        "RelatedConcept": "CONCEPT_RELIGION_BELIEFS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FOUNDER",
+        "RelatedConcept": "CONCEPT_RELIGION_FOUNDING_RELIGION"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FOLLOWER",
+        "RelatedConcept": "CONCEPT_RELIGION_BELIEFS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FOLLOWER",
+        "RelatedConcept": "CONCEPT_RELIGION_FOUNDING_RELIGION"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_ENHANCER",
+        "RelatedConcept": "CONCEPT_RELIGION_BELIEFS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_ENHANCER",
+        "RelatedConcept": "CONCEPT_RELIGION_ENHANCING_RELIGION"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FAITH_SPENDING",
+        "RelatedConcept": "CONCEPT_RELIGION_FAITH_EARNING"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FAITH_SPENDING",
+        "RelatedConcept": "CONCEPT_RELIGION_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FAITH_SPENDING",
+        "RelatedConcept": "CONCEPT_RELIGION_BUILDINGS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FOUNDING_RELIGION",
+        "RelatedConcept": "CONCEPT_RELIGION_BELIEFS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FOUNDING_RELIGION",
+        "RelatedConcept": "CONCEPT_RELIGION_ENHANCING_RELIGION"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FOUNDING_RELIGION",
+        "RelatedConcept": "CONCEPT_RELIGION_SPREADING_RELIGION"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_FOUNDING_RELIGION",
+        "RelatedConcept": "CONCEPT_GREAT_PROPHET"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_ENHANCING_RELIGION",
+        "RelatedConcept": "CONCEPT_GREAT_PROPHET"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_ENHANCING_RELIGION",
+        "RelatedConcept": "CONCEPT_RELIGION_FOLLOWER"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_ENHANCING_RELIGION",
+        "RelatedConcept": "CONCEPT_RELIGION_ENHANCER"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_SPREADING_RELIGION",
+        "RelatedConcept": "CONCEPT_RELIGION_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_SPREADING_RELIGION",
+        "RelatedConcept": "CONCEPT_RELIGION_DEFENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_SPREADING_RELIGION",
+        "RelatedConcept": "CONCEPT_RELIGION_MAJORITY"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_SPREADING_RELIGION",
+        "RelatedConcept": "CONCEPT_RELIGION_ENHANCER"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_BUILDINGS",
+        "RelatedConcept": "CONCEPT_RELIGION_MAJORITY"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_BUILDINGS",
+        "RelatedConcept": "CONCEPT_RELIGION_FAITH_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_UNITS",
+        "RelatedConcept": "CONCEPT_RELIGION_MAJORITY"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_UNITS",
+        "RelatedConcept": "CONCEPT_RELIGION_DEFENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_UNITS",
+        "RelatedConcept": "CONCEPT_RELIGION_FAITH_SPENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_MAJORITY",
+        "RelatedConcept": "CONCEPT_RELIGION_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_MAJORITY",
+        "RelatedConcept": "CONCEPT_RELIGION_SPREADING_RELIGION"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_DEFENDING",
+        "RelatedConcept": "CONCEPT_RELIGION_UNITS"
+    },
+    {
+        "ConceptType": "CONCEPT_RELIGION_DEFENDING",
+        "RelatedConcept": "CONCEPT_RELIGION_SPREADING_RELIGION"
+    },
+    {
+        "ConceptType": "CONCEPT_GREAT_PROPHET",
+        "RelatedConcept": "CONCEPT_GREAT_PROPHET_ABILITY"
+    },
+    {
+        "ConceptType": "CONCEPT_GREAT_PROPHET",
+        "RelatedConcept": "CONCEPT_GREAT_PROPHET_IMPROVEMENT"
+    },
+    {
+        "ConceptType": "CONCEPT_GREAT_PROPHET",
+        "RelatedConcept": "CONCEPT_RELIGION_FOUNDING_RELIGION"
+    },
+    {
+        "ConceptType": "CONCEPT_GREAT_PROPHET_IMPROVEMENT",
+        "RelatedConcept": "CONCEPT_GREAT_PROPHET"
+    },
+    {
+        "ConceptType": "CONCEPT_GREAT_PROPHET_IMPROVEMENT",
+        "RelatedConcept": "CONCEPT_RELIGION_FAITH_EARNING"
+    },
+    {
+        "ConceptType": "CONCEPT_GREAT_PROPHET_ABILITY",
+        "RelatedConcept": "CONCEPT_GREAT_PROPHET"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_GREAT_ADMIRAL"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
+        "RelatedConcept": "CONCEPT_GREAT_PROPHET"
+    },
+    {
+        "ConceptType": "CONCEPT_GREAT_ADMIRAL",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCHES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCH_AESTHETICS"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCHES",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCH_EXPLORATION"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCH_AESTHETICS",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_SOCIAL_POLICY_BRANCH_EXPLORATION",
+        "RelatedConcept": "CONCEPT_SOCIAL_POLICY_BRANCHES"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_ROUTES",
+        "RelatedConcept": "CONCEPT_TRADE_CARAVAN"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_ROUTES",
+        "RelatedConcept": "CONCEPT_TRADE_CARGO"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_ROUTES",
+        "RelatedConcept": "CONCEPT_TRADE_EXTENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_ROUTES",
+        "RelatedConcept": "CONCEPT_TRADE_BOOST"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_ROUTES",
+        "RelatedConcept": "CONCEPT_TRADE_WAR"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_WAR",
+        "RelatedConcept": "CONCEPT_TRADE_ROUTES"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_WAR",
+        "RelatedConcept": "CONCEPT_TRADE_CARAVAN"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_WAR",
+        "RelatedConcept": "CONCEPT_TRADE_CARGO"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_ROUTES",
+        "RelatedConcept": "CONCEPT_TRADE_PILLAGE"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_PILLAGE",
+        "RelatedConcept": "CONCEPT_TRADE_ROUTES"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_PILLAGE",
+        "RelatedConcept": "CONCEPT_TRADE_CARAVAN"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_PILLAGE",
+        "RelatedConcept": "CONCEPT_TRADE_CARGO"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_CARAVAN",
+        "RelatedConcept": "CONCEPT_TRADE_EXTENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_CARAVAN",
+        "RelatedConcept": "CONCEPT_TRADE_BOOST"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_CARAVAN",
+        "RelatedConcept": "CONCEPT_TRADE_RELIGION"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_CARAVAN",
+        "RelatedConcept": "CONCEPT_TRADE_SCIENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_CARGO",
+        "RelatedConcept": "CONCEPT_TRADE_EXTENDING"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_EXTENDING",
+        "RelatedConcept": "CONCEPT_TRADE_ROUTES"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_EXTENDING",
+        "RelatedConcept": "CONCEPT_TRADE_CARAVAN"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_EXTENDING",
+        "RelatedConcept": "CONCEPT_TRADE_CARGO"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_CARGO",
+        "RelatedConcept": "CONCEPT_TRADE_BOOST"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_BOOST",
+        "RelatedConcept": "CONCEPT_TRADE_ROUTES"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_BOOST",
+        "RelatedConcept": "CONCEPT_TRADE_CARAVAN"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_BOOST",
+        "RelatedConcept": "CONCEPT_TRADE_CARGO"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_CARGO",
+        "RelatedConcept": "CONCEPT_TRADE_RELIGION"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_CARGO",
+        "RelatedConcept": "CONCEPT_TRADE_SCIENCE"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_RELIGION",
+        "RelatedConcept": "CONCEPT_TRADE_ROUTES"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_RELIGION",
+        "RelatedConcept": "CONCEPT_TRADE_CARAVAN"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_RELIGION",
+        "RelatedConcept": "CONCEPT_TRADE_CARGO"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_SCIENCE",
+        "RelatedConcept": "CONCEPT_TRADE_ROUTES"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_SCIENCE",
+        "RelatedConcept": "CONCEPT_TRADE_CARAVAN"
+    },
+    {
+        "ConceptType": "CONCEPT_TRADE_SCIENCE",
+        "RelatedConcept": "CONCEPT_TRADE_CARGO"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORKS",
+        "RelatedConcept": "CONCEPT_CULTURE_GREAT_WORK_WRITING"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORKS",
+        "RelatedConcept": "CONCEPT_CULTURE_GREAT_WORK_ART"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORKS",
+        "RelatedConcept": "CONCEPT_CULTURE_GREAT_WORK_MUSIC"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORKS",
+        "RelatedConcept": "CONCEPT_CULTURE_TOURISM"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORKS",
+        "RelatedConcept": "CONCEPT_CULTURE_TOURISM_AND_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_TOURISM",
+        "RelatedConcept": "CONCEPT_CULTURE_GREAT_WORKS"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_TOURISM",
+        "RelatedConcept": "CONCEPT_CULTURE_TOURISM_AND_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_TOURISM_AND_CULTURE",
+        "RelatedConcept": "CONCEPT_CULTURE_TOURISM"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_TOURISM_AND_CULTURE",
+        "RelatedConcept": "CONCEPT_CULTURE_GREAT_WORKS"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORK_WRITING",
+        "RelatedConcept": "CONCEPT_CULTURE_GREAT_WORKS"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORK_WRITING",
+        "RelatedConcept": "CONCEPT_CULTURE_TOURISM"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORK_WRITING",
+        "RelatedConcept": "CONCEPT_CULTURE_TOURISM_AND_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORK_ART",
+        "RelatedConcept": "CONCEPT_CULTURE_GREAT_WORKS"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORK_ART",
+        "RelatedConcept": "CONCEPT_CULTURE_TOURISM"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORK_ART",
+        "RelatedConcept": "CONCEPT_CULTURE_TOURISM_AND_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORK_MUSIC",
+        "RelatedConcept": "CONCEPT_CULTURE_GREAT_WORKS"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORK_MUSIC",
+        "RelatedConcept": "CONCEPT_CULTURE_TOURISM"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_GREAT_WORK_MUSIC",
+        "RelatedConcept": "CONCEPT_CULTURE_TOURISM_AND_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CONCERT_TOUR",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MUSICIAN"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_TREATISE",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_WRITER"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MUSICIAN",
+        "RelatedConcept": "CONCEPT_CULTURE_GREAT_WORK_MUSIC"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MUSICIAN",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CONCERT_TOUR"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_WRITER",
+        "RelatedConcept": "CONCEPT_CULTURE_GREAT_WORK_WRITING"
+    },
+    {
+        "ConceptType": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_WRITER",
+        "RelatedConcept": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_TREATISE"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_ARCH",
+        "RelatedConcept": "CONCEPT_CULTURE_ANTIQUITY"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_ARCH",
+        "RelatedConcept": "CONCEPT_CULTURE_ARTIFACTS"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_ANTIQUITY",
+        "RelatedConcept": "CONCEPT_CULTURE_ARTIFACTS"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_ARTIFACTS",
+        "RelatedConcept": "CONCEPT_CULTURE_ARCH"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_ARTIFACTS",
+        "RelatedConcept": "CONCEPT_CULTURE_ANTIQUITY"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_ARTIFACTS",
+        "RelatedConcept": "CONCEPT_CULTURE_TOURISM"
+    },
+    {
+        "ConceptType": "CONCEPT_CULTURE_ARTIFACTS",
+        "RelatedConcept": "CONCEPT_CULTURE_TOURISM_AND_CULTURE"
+    },
+    {
+        "ConceptType": "CONCEPT_CONGRESS",
+        "RelatedConcept": "CONCEPT_CONGRESS_SESSIONS"
+    },
+    {
+        "ConceptType": "CONCEPT_CONGRESS",
+        "RelatedConcept": "CONCEPT_CONGRESS_RESOLUTIONS"
+    },
+    {
+        "ConceptType": "CONCEPT_CONGRESS",
+        "RelatedConcept": "CONCEPT_CONGRESS_DELEGATES"
+    },
+    {
+        "ConceptType": "CONCEPT_CONGRESS",
+        "RelatedConcept": "CONCEPT_CONGRESS_INTRIGUE"
+    },
+    {
+        "ConceptType": "CONCEPT_CONGRESS",
+        "RelatedConcept": "CONCEPT_CONGRESS_VICTORY"
+    },
+    {
+        "ConceptType": "CONCEPT_CONGRESS_SESSIONS",
+        "RelatedConcept": "CONCEPT_CONGRESS_RESOLUTIONS"
+    },
+    {
+        "ConceptType": "CONCEPT_CONGRESS_SESSIONS",
+        "RelatedConcept": "CONCEPT_CONGRESS_DELEGATES"
+    },
+    {
+        "ConceptType": "CONCEPT_CONGRESS_RESOLUTIONS",
+        "RelatedConcept": "CONCEPT_CONGRESS_PROJECTS"
+    },
+    {
+        "ConceptType": "CONCEPT_CONGRESS_RESOLUTIONS",
+        "RelatedConcept": "CONCEPT_CONGRESS_DELEGATES"
+    }
+]

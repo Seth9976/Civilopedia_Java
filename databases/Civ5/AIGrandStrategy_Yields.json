@@ -1,0 +1,32 @@
+[
+    {
+        "AIGrandStrategyType": "AIGRANDSTRATEGY_CONQUEST",
+        "Yield": 200,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "AIGrandStrategyType": "AIGRANDSTRATEGY_CULTURE",
+        "Yield": 50,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "AIGrandStrategyType": "AIGRANDSTRATEGY_CULTURE",
+        "Yield": 50,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "AIGrandStrategyType": "AIGRANDSTRATEGY_UNITED_NATIONS",
+        "Yield": 100,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "AIGrandStrategyType": "AIGRANDSTRATEGY_SPACESHIP",
+        "Yield": 100,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "AIGrandStrategyType": "AIGRANDSTRATEGY_SPACESHIP",
+        "Yield": 100,
+        "YieldType": "YIELD_PRODUCTION"
+    }
+]

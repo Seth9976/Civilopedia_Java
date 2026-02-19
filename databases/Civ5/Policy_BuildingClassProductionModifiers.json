@@ -1,0 +1,67 @@
+[
+    {
+        "BuildingClassType": "BUILDINGCLASS_SHRINE",
+        "PolicyType": "POLICY_PIETY",
+        "ProductionModifier": 100
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_TEMPLE",
+        "PolicyType": "POLICY_PIETY",
+        "ProductionModifier": 100
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_MONUMENT",
+        "PolicyType": "POLICY_CULTURAL_CENTERS",
+        "ProductionModifier": 50
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_AMPHITHEATER",
+        "PolicyType": "POLICY_CULTURAL_CENTERS",
+        "ProductionModifier": 50
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_OPERA_HOUSE",
+        "PolicyType": "POLICY_CULTURAL_CENTERS",
+        "ProductionModifier": 50
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_MUSEUM",
+        "PolicyType": "POLICY_CULTURAL_CENTERS",
+        "ProductionModifier": 50
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_BROADCAST_TOWER",
+        "PolicyType": "POLICY_CULTURAL_CENTERS",
+        "ProductionModifier": 50
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_BARRACKS",
+        "PolicyType": "POLICY_PROFESSIONAL_ARMY",
+        "ProductionModifier": 50
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_ARMORY",
+        "PolicyType": "POLICY_PROFESSIONAL_ARMY",
+        "ProductionModifier": 50
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_MILITARY_ACADEMY",
+        "PolicyType": "POLICY_PROFESSIONAL_ARMY",
+        "ProductionModifier": 50
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_MONUMENT",
+        "PolicyType": "POLICY_SOCIALIST_REALISM",
+        "ProductionModifier": 100
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_FACTORY",
+        "PolicyType": "POLICY_WORKERS_FACULTIES",
+        "ProductionModifier": 100
+    },
+    {
+        "BuildingClassType": "BUILDINGCLASS_COURTHOUSE",
+        "PolicyType": "POLICY_POLICE_STATE",
+        "ProductionModifier": 100
+    }
+]

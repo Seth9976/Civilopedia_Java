@@ -1,0 +1,917 @@
+[
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_EXPANSION",
+        "PolicyType": "POLICY_LIBERTY"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_EXPANSION",
+        "PolicyType": "POLICY_COLLECTIVE_RULE"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT",
+        "PolicyType": "POLICY_CITIZENSHIP"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_EXPANSION",
+        "PolicyType": "POLICY_REPUBLIC"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_PRODUCTION",
+        "PolicyType": "POLICY_REPUBLIC"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_EXPANSION",
+        "PolicyType": "POLICY_REPRESENTATION"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_REPRESENTATION"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_MERITOCRACY"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_EXPANSION",
+        "PolicyType": "POLICY_MERITOCRACY"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_TRADITION"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GROWTH",
+        "PolicyType": "POLICY_TRADITION"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_WONDER",
+        "PolicyType": "POLICY_TRADITION"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WONDER",
+        "PolicyType": "POLICY_ARISTOCRACY"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "PolicyType": "POLICY_OLIGARCHY"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_OLIGARCHY"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_LEGALISM"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_LANDED_ELITE"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_MONARCHY"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_MONARCHY"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_HONOR"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING",
+        "PolicyType": "POLICY_HONOR"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_WARRIOR_CODE"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING",
+        "PolicyType": "POLICY_WARRIOR_CODE"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE",
+        "PolicyType": "POLICY_WARRIOR_CODE"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_DISCIPLINE"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "PolicyType": "POLICY_DISCIPLINE"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_MOBILE",
+        "PolicyType": "POLICY_DISCIPLINE"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_MILITARY_TRADITION"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING",
+        "PolicyType": "POLICY_MILITARY_TRADITION"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_MILITARY_CASTE"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_MILITARY_CASTE"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING",
+        "PolicyType": "POLICY_PROFESSIONAL_ARMY"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_PROFESSIONAL_ARMY"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_RELIGION",
+        "PolicyType": "POLICY_PIETY"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_RELIGION",
+        "PolicyType": "POLICY_ORGANIZED_RELIGION"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_RELIGION",
+        "PolicyType": "POLICY_MANDATE_OF_HEAVEN"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_THEOCRACY"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_RELIGION",
+        "PolicyType": "POLICY_REFORMATION"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_RELIGION",
+        "PolicyType": "POLICY_FREE_RELIGION"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "PolicyType": "POLICY_PATRONAGE"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "PolicyType": "POLICY_PHILANTHROPY"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_PHILANTHROPY"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "PolicyType": "POLICY_CONSULATES"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_SCHOLASTICISM"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "PolicyType": "POLICY_SCHOLASTICISM"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_CULTURAL_DIPLOMACY"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "PolicyType": "POLICY_CULTURAL_DIPLOMACY"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_MERCHANT_CONFEDERACY"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_AESTHETICS"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_CULTURAL_CENTERS"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_FINE_ARTS"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_FLOURISHING_OF_ARTS"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_ARTISTIC_GENIUS"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_ETHICS"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_COMMERCE"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_ENTREPRENEURSHIP"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "PolicyType": "POLICY_ENTREPRENEURSHIP"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_TRADE_UNIONS"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT",
+        "PolicyType": "POLICY_TRADE_UNIONS"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_CARAVANS"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_MERCANTILISM"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_MERCANTILISM"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_PROTECTIONISM"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_NAVAL",
+        "PolicyType": "POLICY_EXPLORATION"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_PRODUCTION",
+        "PolicyType": "POLICY_MARITIME_INFRASTRUCTURE"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_NAVAL",
+        "PolicyType": "POLICY_MARITIME_INFRASTRUCTURE"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_NAVAL_TRADITION"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_NAVAL",
+        "PolicyType": "POLICY_NAVAL_TRADITION"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_MERCHANT_NAVY"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_NAVAL",
+        "PolicyType": "POLICY_MERCHANT_NAVY"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_NAVAL",
+        "PolicyType": "POLICY_NAVIGATION_SCHOOL"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_TREASURE_FLEETS"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_RATIONALISM"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SPACESHIP",
+        "PolicyType": "POLICY_RATIONALISM"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_SECULARISM"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SPACESHIP",
+        "PolicyType": "POLICY_SECULARISM"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_SOVEREIGNTY"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_SOVEREIGNTY"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_FREE_THOUGHT"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_FREE_THOUGHT"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_HUMANISM"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_HUMANISM"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_SCIENTIFIC_REVOLUTION"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_SPACESHIP",
+        "PolicyType": "POLICY_SCIENTIFIC_REVOLUTION"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GROWTH",
+        "PolicyType": "POLICY_TRADITION_FINISHER"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_TRADITION_FINISHER"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE",
+        "PolicyType": "POLICY_LIBERTY_FINISHER"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_HONOR_FINISHER"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_PIETY_FINISHER"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_RELIGION",
+        "PolicyType": "POLICY_PIETY_FINISHER"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "PolicyType": "POLICY_PATRONAGE_FINISHER"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_AESTHETICS_FINISHER"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_COMMERCE_FINISHER"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_EXPLORATION_FINISHER"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_RATIONALISM_FINISHER"
+    },
+    {
+        "Flavor": 23,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE",
+        "PolicyType": "POLICY_OPEN_SOCIETY"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_OPEN_SOCIETY"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE",
+        "PolicyType": "POLICY_CREATIVE_EXPRESSION"
+    },
+    {
+        "Flavor": 23,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_CREATIVE_EXPRESSION"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE",
+        "PolicyType": "POLICY_CIVIL_SOCIETY"
+    },
+    {
+        "Flavor": 18,
+        "FlavorType": "FLAVOR_GROWTH",
+        "PolicyType": "POLICY_CIVIL_SOCIETY"
+    },
+    {
+        "Flavor": 18,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_VOLUNTEER_ARMY"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "PolicyType": "POLICY_VOLUNTEER_ARMY"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_ESPIONAGE",
+        "PolicyType": "POLICY_COVERT_ACTION"
+    },
+    {
+        "Flavor": 13,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "PolicyType": "POLICY_COVERT_ACTION"
+    },
+    {
+        "Flavor": 33,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_URBANIZATION"
+    },
+    {
+        "Flavor": 11,
+        "FlavorType": "FLAVOR_GROWTH",
+        "PolicyType": "POLICY_URBANIZATION"
+    },
+    {
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_CAPITALISM"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_CAPITALISM"
+    },
+    {
+        "Flavor": 44,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_ECONOMIC_UNION"
+    },
+    {
+        "Flavor": 44,
+        "FlavorType": "FLAVOR_CITY_DEFENSE",
+        "PolicyType": "POLICY_THEIR_FINEST_HOUR"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE",
+        "PolicyType": "POLICY_UNIVERSAL_SUFFRAGE"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_PRODUCTION",
+        "PolicyType": "POLICY_UNIVERSAL_SUFFRAGE"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_GROWTH",
+        "PolicyType": "POLICY_UNIVERSAL_SUFFRAGE"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_UNIVERSAL_SUFFRAGE"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_RELIGION",
+        "PolicyType": "POLICY_NEW_DEAL"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_PRODUCTION",
+        "PolicyType": "POLICY_NEW_DEAL"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_NEW_DEAL"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_NEW_DEAL"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_NEW_DEAL"
+    },
+    {
+        "Flavor": 17,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_ARSENAL_DEMOCRACY"
+    },
+    {
+        "Flavor": 17,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "PolicyType": "POLICY_ARSENAL_DEMOCRACY"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "PolicyType": "POLICY_ARSENAL_DEMOCRACY"
+    },
+    {
+        "Flavor": 66,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_MEDIA_CULTURE"
+    },
+    {
+        "Flavor": 66,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "PolicyType": "POLICY_TREATY_ORGANIZATION"
+    },
+    {
+        "Flavor": 66,
+        "FlavorType": "FLAVOR_SPACESHIP",
+        "PolicyType": "POLICY_SPACE_PROCUREMENTS"
+    },
+    {
+        "Flavor": 23,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE",
+        "PolicyType": "POLICY_HERO_OF_THE_PEOPLE"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_HERO_OF_THE_PEOPLE"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_SOCIALIST_REALISM"
+    },
+    {
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_SOCIALIST_REALISM"
+    },
+    {
+        "Flavor": 13,
+        "FlavorType": "FLAVOR_PRODUCTION",
+        "PolicyType": "POLICY_SKYSCRAPERS"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_SKYSCRAPERS"
+    },
+    {
+        "Flavor": 33,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "PolicyType": "POLICY_PATRIOTIC_WAR"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_ESPIONAGE",
+        "PolicyType": "POLICY_DOUBLE_AGENTS"
+    },
+    {
+        "Flavor": 13,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_DOUBLE_AGENTS"
+    },
+    {
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_YOUNG_PIONEERS"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_PRODUCTION",
+        "PolicyType": "POLICY_YOUNG_PIONEERS"
+    },
+    {
+        "Flavor": 33,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_ACADEMY_SCIENCES"
+    },
+    {
+        "Flavor": 11,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_ACADEMY_SCIENCES"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_GROWTH",
+        "PolicyType": "POLICY_PARTY_LEADERSHIP"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_PRODUCTION",
+        "PolicyType": "POLICY_PARTY_LEADERSHIP"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_PARTY_LEADERSHIP"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_PARTY_LEADERSHIP"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_PARTY_LEADERSHIP"
+    },
+    {
+        "Flavor": 44,
+        "FlavorType": "FLAVOR_EXPANSION",
+        "PolicyType": "POLICY_RESETTLEMENT"
+    },
+    {
+        "Flavor": 44,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_CULTURAL_REVOLUTION"
+    },
+    {
+        "Flavor": 24,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_WORKERS_FACULTIES"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_PRODUCTION",
+        "PolicyType": "POLICY_WORKERS_FACULTIES"
+    },
+    {
+        "Flavor": 24,
+        "FlavorType": "FLAVOR_PRODUCTION",
+        "PolicyType": "POLICY_FIVE_YEAR_PLAN"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_EXPANSION",
+        "PolicyType": "POLICY_FIVE_YEAR_PLAN"
+    },
+    {
+        "Flavor": 66,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_DICTATORSHIP_PROLETARIAT"
+    },
+    {
+        "Flavor": 66,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_IRON_CURTAIN"
+    },
+    {
+        "Flavor": 66,
+        "FlavorType": "FLAVOR_SPACESHIP",
+        "PolicyType": "POLICY_SPACEFLIGHT_PIONEERS"
+    },
+    {
+        "Flavor": 18,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_ELITE_FORCES"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "PolicyType": "POLICY_ELITE_FORCES"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_MOBILIZATION"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_MOBILIZATION"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "PolicyType": "POLICY_MOBILIZATION"
+    },
+    {
+        "Flavor": 17,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "PolicyType": "POLICY_UNITED_FRONT"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_UNITED_FRONT"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "PolicyType": "POLICY_UNITED_FRONT"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_ESPIONAGE",
+        "PolicyType": "POLICY_INDUSTRIAL_ESPIONAGE"
+    },
+    {
+        "Flavor": 13,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "PolicyType": "POLICY_INDUSTRIAL_ESPIONAGE"
+    },
+    {
+        "Flavor": 33,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_MILITARISM"
+    },
+    {
+        "Flavor": 11,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING",
+        "PolicyType": "POLICY_MILITARISM"
+    },
+    {
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_FORTIFIED_BORDERS"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_CITY_DEFENSE",
+        "PolicyType": "POLICY_FORTIFIED_BORDERS"
+    },
+    {
+        "Flavor": 22,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_POLICE_STATE"
+    },
+    {
+        "Flavor": 22,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_POLICE_STATE"
+    },
+    {
+        "Flavor": 44,
+        "FlavorType": "FLAVOR_GOLD",
+        "PolicyType": "POLICY_NATIONALISM"
+    },
+    {
+        "Flavor": 24,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_THIRD_ALTERNATIVE"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING",
+        "PolicyType": "POLICY_THIRD_ALTERNATIVE"
+    },
+    {
+        "Flavor": 24,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_TOTAL_WAR"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING",
+        "PolicyType": "POLICY_TOTAL_WAR"
+    },
+    {
+        "Flavor": 66,
+        "FlavorType": "FLAVOR_CULTURE",
+        "PolicyType": "POLICY_CULT_PERSONALITY"
+    },
+    {
+        "Flavor": 66,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "PolicyType": "POLICY_GUNBOAT_DIPLOMACY"
+    },
+    {
+        "Flavor": 66,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_NEW_ORDER"
+    },
+    {
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "PolicyType": "POLICY_UNIVERSAL_HEALTHCARE_F"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_GROWTH",
+        "PolicyType": "POLICY_UNIVERSAL_HEALTHCARE_F"
+    },
+    {
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_UNIVERSAL_HEALTHCARE_O"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_UNIVERSAL_HEALTHCARE_O"
+    },
+    {
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_UNIVERSAL_HEALTHCARE_A"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "PolicyType": "POLICY_UNIVERSAL_HEALTHCARE_A"
+    }
+]

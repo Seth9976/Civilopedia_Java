@@ -1,0 +1,86 @@
+[
+    {
+        "Default": 1,
+        "Description": "TXT_KEY_PLAYER_OPTION_WAIT_AT_END_OF_TURN",
+        "Help": "TXT_KEY_PLAYER_OPTION_WAIT_AT_END_OF_TURN_HELP",
+        "ID": 0,
+        "Type": "PLAYEROPTION_WAIT_END_TURN"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_PLAYER_OPTION_SHOW_FRIENDLY_MOVES",
+        "Help": "TXT_KEY_PLAYER_OPTION_SHOW_FRIENDLY_MOVES_HELP",
+        "ID": 1,
+        "Type": "PLAYEROPTION_SHOW_FRIENDLY_MOVES"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_PLAYER_OPTION_SHOW_ENEMY_MOVES",
+        "Help": "TXT_KEY_PLAYER_OPTION_SHOW_ENEMY_MOVES_HELP",
+        "ID": 2,
+        "Type": "PLAYEROPTION_SHOW_ENEMY_MOVES"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_PLAYER_OPTION_QUICK_MOVES",
+        "Help": "TXT_KEY_PLAYER_OPTION_QUICK_MOVES_HELP",
+        "ID": 3,
+        "Type": "PLAYEROPTION_QUICK_MOVES"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_PLAYER_OPTION_WORKERS_START_AUTO",
+        "Help": "TXT_KEY_PLAYER_OPTION_WORKERS_START_AUTO_HELP",
+        "ID": 4,
+        "Type": "PLAYEROPTION_START_AUTOMATED"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_PLAYER_OPTION_WORKERS_LEAVE_OLD_IMPS",
+        "Help": "TXT_KEY_PLAYER_OPTION_WORKERS_LEAVE_OLD_IMPS_HELP",
+        "ID": 5,
+        "Type": "PLAYEROPTION_SAFE_AUTOMATION"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_PLAYER_OPTION_NO_UNIT_CYCLING",
+        "Help": "TXT_KEY_PLAYER_OPTION_NO_UNIT_CYCLING_HELP",
+        "ID": 6,
+        "Type": "PLAYEROPTION_NO_UNIT_CYCLING"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_PLAYEROPTION_LEAVE_FORESTS",
+        "Help": "TXT_KEY_PLAYEROPTION_LEAVE_FORESTS_HELP",
+        "ID": 7,
+        "Type": "PLAYEROPTION_LEAVE_FORESTS"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_PLAYER_OPTION_MODDER_1",
+        "Help": "TXT_KEY_PLAYER_OPTION_MODDER_1_HELP",
+        "ID": 8,
+        "Type": "PLAYEROPTION_MODDER_1"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_PLAYER_OPTION_MODDER_2",
+        "Help": "TXT_KEY_PLAYER_OPTION_MODDER_2_HELP",
+        "ID": 9,
+        "Type": "PLAYEROPTION_MODDER_2"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_PLAYER_OPTION_MODDER_3",
+        "Help": "TXT_KEY_PLAYER_OPTION_MODDER_3_HELP",
+        "ID": 10,
+        "Type": "PLAYEROPTION_MODDER_3"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_PLAYEROPTION_QUICK_SELECTION_ADVANCE",
+        "Help": "TXT_KEY_PLAYEROPTION_QUICK_SELECTION_ADVANCE_HELP",
+        "ID": 11,
+        "Type": "PLAYEROPTION_QUICK_SELECTION_ADVANCE"
+    }
+]

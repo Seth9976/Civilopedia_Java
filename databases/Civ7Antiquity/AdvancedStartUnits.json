@@ -1,0 +1,28 @@
+[
+    {
+        "Age": "AGE_ANTIQUITY",
+        "AiOnly": 0,
+        "AltStartOnly": 0,
+        "Capital": 0,
+        "City": 0,
+        "DifficultyDelta": 0.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "MinDifficulty": null,
+        "NotStartTile": 0,
+        "Quantity": 1,
+        "Unit": "UNIT_FOUNDER"
+    },
+    {
+        "Age": "AGE_ANTIQUITY",
+        "AiOnly": 1,
+        "AltStartOnly": 0,
+        "Capital": 1,
+        "City": 0,
+        "DifficultyDelta": 1.0,
+        "District": "DISTRICT_CITY_CENTER",
+        "MinDifficulty": "DIFFICULTY_KING",
+        "NotStartTile": 1,
+        "Quantity": 1,
+        "Unit": "UNIT_SCOUT"
+    }
+]

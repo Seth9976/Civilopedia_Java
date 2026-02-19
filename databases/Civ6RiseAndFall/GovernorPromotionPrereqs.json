@@ -1,0 +1,218 @@
+[
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_GARRISON_COMMANDER",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_REDOUBT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_DEFENSE_LOGISTICS",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_REDOUBT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SECURITY_EXPERT",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_GARRISON_COMMANDER"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EMBRASURE",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_DEFENSE_LOGISTICS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_SECURITY_EXPERT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_EMBRASURE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_CARDINAL_BISHOP"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_CARDINAL_BISHOP"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_INFRASTRUCTURE",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_BUILDER_GUILDMASTER"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_AQUACULTURE",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_BUILDER_GUILDMASTER"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_ZONING_COMMISSIONER",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_INFRASTRUCTURE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_ARCHITECT",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_AQUACULTURE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_PARKS_RECREATION",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_ARCHITECT"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_PARKS_RECREATION",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_ZONING_COMMISSIONER"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_GRANTS",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_GRANTS",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_EDUCATOR_GRANTS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_EDUCATOR_GRANTS"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_MERCHANT_CURATOR",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_2",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_1"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_2"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_2",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_HERMETIC_ORDER_1"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_3",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_HERMETIC_ORDER_2"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_HERMETIC_ORDER_4",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_HERMETIC_ORDER_3"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_VOIDSINGERS_2",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_VOIDSINGERS_1"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_VOIDSINGERS_3",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_VOIDSINGERS_2"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_VOIDSINGERS_4",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_VOIDSINGERS_3"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_2",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_SANGUINE_PACT_1"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_3",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_SANGUINE_PACT_2"
+    },
+    {
+        "GovernorPromotionType": "GOVERNOR_PROMOTION_SANGUINE_PACT_4",
+        "PrereqGovernorPromotion": "GOVERNOR_PROMOTION_SANGUINE_PACT_3"
+    }
+]

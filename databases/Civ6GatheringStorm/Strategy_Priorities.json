@@ -1,0 +1,202 @@
+[
+    {
+        "ListType": "NavalUnitPreferences",
+        "StrategyType": "STRATEGY_NAVAL"
+    },
+    {
+        "ListType": "NavalSettlementPreferences",
+        "StrategyType": "STRATEGY_NAVAL"
+    },
+    {
+        "ListType": "NavalSettlementBoost",
+        "StrategyType": "STRATEGY_NAVAL"
+    },
+    {
+        "ListType": "NavalPreferredTechs",
+        "StrategyType": "STRATEGY_NAVAL"
+    },
+    {
+        "ListType": "EarlyExplorationBoost",
+        "StrategyType": "STRATEGY_EARLY_EXPLORATION"
+    },
+    {
+        "ListType": "ExpansionSettlementBoost",
+        "StrategyType": "STRATEGY_RAPID_EXPANSION"
+    },
+    {
+        "ListType": "ExpansionSettlementPreferences",
+        "StrategyType": "STRATEGY_RAPID_EXPANSION"
+    },
+    {
+        "ListType": "ExpansionUnitPreferences",
+        "StrategyType": "STRATEGY_RAPID_EXPANSION"
+    },
+    {
+        "ListType": "ClassicalPseudoYields",
+        "StrategyType": "STRATEGY_CLASSICAL_CHANGES"
+    },
+    {
+        "ListType": "ClassicalYields",
+        "StrategyType": "STRATEGY_CLASSICAL_CHANGES"
+    },
+    {
+        "ListType": "ClassicalDistricts",
+        "StrategyType": "STRATEGY_CLASSICAL_CHANGES"
+    },
+    {
+        "ListType": "MedievalYields",
+        "StrategyType": "STRATEGY_MEDIEVAL_CHANGES"
+    },
+    {
+        "ListType": "MedievalPseudoYields",
+        "StrategyType": "STRATEGY_MEDIEVAL_CHANGES"
+    },
+    {
+        "ListType": "RenaissanceYields",
+        "StrategyType": "STRATEGY_RENAISSANCE_CHANGES"
+    },
+    {
+        "ListType": "RenaissancePseudoYields",
+        "StrategyType": "STRATEGY_RENAISSANCE_CHANGES"
+    },
+    {
+        "ListType": "IndustrialYields",
+        "StrategyType": "STRATEGY_INDUSTRIAL_CHANGES"
+    },
+    {
+        "ListType": "IndustrialPseudoYields",
+        "StrategyType": "STRATEGY_INDUSTRIAL_CHANGES"
+    },
+    {
+        "ListType": "ModernYields",
+        "StrategyType": "STRATEGY_MODERN_CHANGES"
+    },
+    {
+        "ListType": "ModernPseudoYields",
+        "StrategyType": "STRATEGY_MODERN_CHANGES"
+    },
+    {
+        "ListType": "WonderObsessedIndustrialBonus",
+        "StrategyType": "STRATEGY_WONDER_OBSESSED"
+    },
+    {
+        "ListType": "CultureVictoryPseudoYields",
+        "StrategyType": "VICTORY_STRATEGY_CULTURAL_VICTORY"
+    },
+    {
+        "ListType": "CultureVictoryYields",
+        "StrategyType": "VICTORY_STRATEGY_CULTURAL_VICTORY"
+    },
+    {
+        "ListType": "MilitaryVictoryPseudoYields",
+        "StrategyType": "VICTORY_STRATEGY_MILITARY_VICTORY"
+    },
+    {
+        "ListType": "MilitaryVictoryYields",
+        "StrategyType": "VICTORY_STRATEGY_MILITARY_VICTORY"
+    },
+    {
+        "ListType": "MilitaryVictoryOperations",
+        "StrategyType": "VICTORY_STRATEGY_MILITARY_VICTORY"
+    },
+    {
+        "ListType": "ReligiousVictoryBehaviors",
+        "StrategyType": "VICTORY_STRATEGY_RELIGIOUS_VICTORY"
+    },
+    {
+        "ListType": "ReligiousVictoryDiplomacy",
+        "StrategyType": "VICTORY_STRATEGY_RELIGIOUS_VICTORY"
+    },
+    {
+        "ListType": "ReligiousVictoryPseudoYields",
+        "StrategyType": "VICTORY_STRATEGY_RELIGIOUS_VICTORY"
+    },
+    {
+        "ListType": "ReligiousVictoryYields",
+        "StrategyType": "VICTORY_STRATEGY_RELIGIOUS_VICTORY"
+    },
+    {
+        "ListType": "ScienceVictoryDistricts",
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY"
+    },
+    {
+        "ListType": "ScienceVictoryProjects",
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY"
+    },
+    {
+        "ListType": "ScienceVictoryPseudoYields",
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY"
+    },
+    {
+        "ListType": "ScienceVictoryTechs",
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY"
+    },
+    {
+        "ListType": "ScienceVictoryYields",
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY"
+    },
+    {
+        "ListType": "CultureVictoryFavoredCommemorations",
+        "StrategyType": "VICTORY_STRATEGY_CULTURAL_VICTORY"
+    },
+    {
+        "ListType": "MilitaryVictoryFavoredCommemorations",
+        "StrategyType": "VICTORY_STRATEGY_MILITARY_VICTORY"
+    },
+    {
+        "ListType": "ReligiousVictoryFavoredCommemorations",
+        "StrategyType": "VICTORY_STRATEGY_RELIGIOUS_VICTORY"
+    },
+    {
+        "ListType": "ScienceVictoryFavoredCommemorations",
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY"
+    },
+    {
+        "ListType": "AvoidDarkAges",
+        "StrategyType": "STRATEGY_DARKAGE"
+    },
+    {
+        "ListType": "ClassicalSensitivity",
+        "StrategyType": "STRATEGY_CLASSICAL_CHANGES"
+    },
+    {
+        "ListType": "MedievalSensitivity",
+        "StrategyType": "STRATEGY_MEDIEVAL_CHANGES"
+    },
+    {
+        "ListType": "ModernSensitivity",
+        "StrategyType": "STRATEGY_MODERN_CHANGES"
+    },
+    {
+        "ListType": "CultureSensitivity",
+        "StrategyType": "VICTORY_STRATEGY_CULTURAL_VICTORY"
+    },
+    {
+        "ListType": "ScienceSensitivity",
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY"
+    },
+    {
+        "ListType": "CultureVictoryAgendas",
+        "StrategyType": "VICTORY_STRATEGY_CULTURAL_VICTORY"
+    },
+    {
+        "ListType": "MilitaryVictoryAgendas",
+        "StrategyType": "VICTORY_STRATEGY_MILITARY_VICTORY"
+    },
+    {
+        "ListType": "ReligiousVictoryAgendas",
+        "StrategyType": "VICTORY_STRATEGY_RELIGIOUS_VICTORY"
+    },
+    {
+        "ListType": "ScienceVictoryAgendas",
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY"
+    },
+    {
+        "ListType": "DiplomaticPseudoYieldPreferences",
+        "StrategyType": "VICTORY_STRATEGY_DIPLOMATIC_VICTORY"
+    },
+    {
+        "ListType": "AncientPseudoYields",
+        "StrategyType": "STRATEGY_ANCIENT_CHANGES"
+    }
+]

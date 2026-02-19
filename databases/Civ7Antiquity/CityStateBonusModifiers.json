@@ -1,0 +1,186 @@
+[
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_1",
+        "ModifierID": "MOD_CS_HILLFORT"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_2",
+        "ModifierID": "MOD_CS_COMMANDER_XP_PRODUCTION"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_3",
+        "ModifierID": "MOD_CS_LAND_UNITS_RANGE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_4",
+        "ModifierID": "MOD_CS_FOEDERATI"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_4",
+        "ModifierID": "MOD_CS_FOEDERATI_CHEAPER"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_5",
+        "ModifierID": "MOD_CS_CITY_STATE_COMBAT"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_6",
+        "ModifierID": "MOD_CS_MEGALITH"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_7",
+        "ModifierID": "MOD_CS_CULTURE_ON_CULTURE_BUILDINGS"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_8",
+        "ModifierID": "MOD_CS_CIVIC"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_9",
+        "ModifierID": "MOD_CS_TRADITION_SLOT"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_10",
+        "ModifierID": "MOD_CS_WONDER_PRODUCTION_SUZERAIN"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_11",
+        "ModifierID": "MOD_CS_SOUQ"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_12",
+        "ModifierID": "MOD_CS_GOLD_BUILDINGS_GOLD"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_13",
+        "ModifierID": "MOD_CS_LAPIS_LAZULI"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_14",
+        "ModifierID": "MOD_CS_GOLD_PER_TRADE_AND_SUZERAIN"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_15",
+        "ModifierID": "MOD_CS_LAND_TRADE_ROUTE_RANGE_SUZERAIN"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_15",
+        "ModifierID": "MOD_CS_SEA_TRADE_ROUTE_RANGE_SUZERAIN"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_16",
+        "ModifierID": "MOD_CS_ZIGGURAT"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_17",
+        "ModifierID": "MOD_CS_CODEX"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_18",
+        "ModifierID": "MOD_CS_SCIENCE_BUILDINGS_SCIENCE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_19",
+        "ModifierID": "MOD_CS_TECH"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_BONUS_ANTIQUITY_20",
+        "ModifierID": "MOD_CS_SCIENCE_BUILDINGS_PRODUCTION_SUZERAIN"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_MILITARISTIC_BONUS_ANTIQUITY_6",
+        "ModifierID": "MOD_CS_MILITARISTIC_SETTLEMENT_LIMIT"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_MILITARISTIC_BONUS_ANTIQUITY_7",
+        "ModifierID": "MOD_CS_MILITARISTIC_WAR_SUPPORT_SHAREABLE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_CULTURAL_BONUS_ANTIQUITY_6",
+        "ModifierID": "MOD_CS_CULTURAL_CULTURE_ON_GREAT_WORKS"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_CULTURAL_BONUS_ANTIQUITY_7",
+        "ModifierID": "MOD_CS_CULTURAL_CULTURE_ON_WAREHOUSE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_ECONOMIC_BONUS_ANTIQUITY_6",
+        "ModifierID": "MOD_CS_ECONOMIC_CAPITAL_RESOURCE_CAPACITY"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_ECONOMIC_BONUS_ANTIQUITY_7",
+        "ModifierID": "MOD_CS_ECONOMIC_GOLD_ON_WAREHOUSE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_SCIENTIFIC_BONUS_ANTIQUITY_6",
+        "ModifierID": "MOD_CS_SCIENTIFIC_SCIENCE_ON_GREAT_WORKS"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_SCIENTIFIC_BONUS_ANTIQUITY_7",
+        "ModifierID": "MOD_CS_SCIENTIFIC_SCIENCE_ON_WAREHOUSE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_ANTIQUITY_1",
+        "ModifierID": "MOD_CS_EXPANSIONIST_ICE_HOUSE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_ANTIQUITY_2",
+        "ModifierID": "MOD_CS_EXPANSIONIST_FOOD_ON_RESOURCES"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_ANTIQUITY_3",
+        "ModifierID": "MOD_CS_EXPANSIONIST_FOOD_ON_FOOD_BUILDINGS"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_ANTIQUITY_4",
+        "ModifierID": "MOD_CS_EXPANSIONIST_SETTLEMENT_FOOD_PER_EXPANSIONIST_CITY"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_ANTIQUITY_4",
+        "ModifierID": "MOD_CS_EXPANSIONIST_SETTLEMENT_FOOD_PER_EXPANSIONIST_TOWN"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_ANTIQUITY_5",
+        "ModifierID": "MOD_CS_EXPANSIONIST_SETTLER"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_ANTIQUITY_6",
+        "ModifierID": "MOD_CS_EXPANSIONIST_SETTLEMENT_CAP"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_EXPANSIONIST_BONUS_ANTIQUITY_7",
+        "ModifierID": "MOD_CS_EXPANSIONIST_FOOD_ON_WAREHOUSE"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_ANTIQUITY_1",
+        "ModifierID": "MOD_CS_DIPLOMATIC_FESTIVAL_GROUNDS"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_ANTIQUITY_2",
+        "ModifierID": "MOD_CS_DIPLOMATIC_SEND_DELEGATION_DIPLO_ACTION"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_ANTIQUITY_3",
+        "ModifierID": "MOD_CS_DIPLOMATIC_HAPPINESS_ON_HAPPINESS_BUILDINGS"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_ANTIQUITY_4",
+        "ModifierID": "MOD_CS_DIPLOMATIC_ADJUST_SANCTION_ENDEAVOR_EFFICIENCY_PER_DIPLOMATIC_SUZERAINED"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_ANTIQUITY_5",
+        "ModifierID": "MOD_CS_DIPLOMATIC_ADJUST_ESPIONAGE_EFFICIENCY_PER_DIPLOMATIC_SUZERAINED"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_ANTIQUITY_5",
+        "ModifierID": "MOD_CS_DIPLOMATIC_ADJUST_ESPIONAGE_EFFICIENCY_COMPLETE_SPEED"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_ANTIQUITY_6",
+        "ModifierID": "MOD_CS_DIPLOMATIC_POLICY_SLOT"
+    },
+    {
+        "CityStateBonusType": "CITY_STATE_DIPLOMATIC_BONUS_ANTIQUITY_7",
+        "ModifierID": "MOD_CS_DIPLOMATIC_HAPPINESS_ON_WAREHOUSE"
+    }
+]

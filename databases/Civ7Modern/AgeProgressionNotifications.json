@@ -1,0 +1,20 @@
+[
+    {
+        "MessageText": "LOC_NOTIFICATION_AGE_EARLY_PROGRESS_MESSAGE",
+        "NotificationType": "NOTIFICATION_AGE_PROGRESSION_PROGRESS_CHANGED",
+        "PercentComplete": 25,
+        "SummaryText": "LOC_NOTIFICATION_AGE_EARLY_PROGRESS_SUMMARY"
+    },
+    {
+        "MessageText": "LOC_NOTIFICATION_AGE_LATE_PROGRESS_MESSAGE",
+        "NotificationType": "NOTIFICATION_AGE_PROGRESSION_PROGRESS_CHANGED",
+        "PercentComplete": 75,
+        "SummaryText": "LOC_NOTIFICATION_AGE_LATE_PROGRESS_SUMMARY"
+    },
+    {
+        "MessageText": "LOC_NOTIFICATION_AGE_VERY_LATE_PROGRESS_MESSAGE",
+        "NotificationType": "NOTIFICATION_AGE_PROGRESSION_PROGRESS_CHANGED",
+        "PercentComplete": 90,
+        "SummaryText": "LOC_NOTIFICATION_AGE_VERY_LATE_PROGRESS_SUMMARY"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "BuildingType": "BUILDING_LIBRARY",
+        "Yield": 50,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_PUBLIC_SCHOOL",
+        "Yield": 50,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_PAPER_MAKER",
+        "Yield": 50,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_ROYAL_LIBRARY",
+        "Yield": 50,
+        "YieldType": "YIELD_SCIENCE"
+    }
+]

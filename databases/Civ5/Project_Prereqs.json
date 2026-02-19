@@ -1,0 +1,22 @@
+[
+    {
+        "AmountNeeded": 1,
+        "PrereqProjectType": "PROJECT_APOLLO_PROGRAM",
+        "ProjectType": "PROJECT_SS_COCKPIT"
+    },
+    {
+        "AmountNeeded": 1,
+        "PrereqProjectType": "PROJECT_APOLLO_PROGRAM",
+        "ProjectType": "PROJECT_SS_STASIS_CHAMBER"
+    },
+    {
+        "AmountNeeded": 1,
+        "PrereqProjectType": "PROJECT_APOLLO_PROGRAM",
+        "ProjectType": "PROJECT_SS_ENGINE"
+    },
+    {
+        "AmountNeeded": 1,
+        "PrereqProjectType": "PROJECT_APOLLO_PROGRAM",
+        "ProjectType": "PROJECT_SS_BOOSTER"
+    }
+]

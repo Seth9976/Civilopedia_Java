@@ -1,0 +1,1032 @@
+[
+    {
+        "Description": "LOC_POLICY_DISCIPLINE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_DISCIPLINE_NAME",
+        "PolicyType": "POLICY_DISCIPLINE",
+        "PrereqCivic": "CIVIC_CODE_OF_LAWS",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_SURVEY_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_SURVEY_NAME",
+        "PolicyType": "POLICY_SURVEY",
+        "PrereqCivic": "CIVIC_CODE_OF_LAWS",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_GOD_KING_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_GOD_KING_NAME",
+        "PolicyType": "POLICY_GOD_KING",
+        "PrereqCivic": "CIVIC_CODE_OF_LAWS",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_URBAN_PLANNING_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_URBAN_PLANNING_NAME",
+        "PolicyType": "POLICY_URBAN_PLANNING",
+        "PrereqCivic": "CIVIC_CODE_OF_LAWS",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_ILKUM_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_ILKUM_NAME",
+        "PolicyType": "POLICY_ILKUM",
+        "PrereqCivic": "CIVIC_CRAFTSMANSHIP",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_AGOGE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_AGOGE_NAME",
+        "PolicyType": "POLICY_AGOGE",
+        "PrereqCivic": "CIVIC_CRAFTSMANSHIP",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_CARAVANSARIES_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_CARAVANSARIES_NAME",
+        "PolicyType": "POLICY_CARAVANSARIES",
+        "PrereqCivic": "CIVIC_FOREIGN_TRADE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_MARITIME_INDUSTRIES_NAME",
+        "PolicyType": "POLICY_MARITIME_INDUSTRIES",
+        "PrereqCivic": "CIVIC_FOREIGN_TRADE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_MANEUVER_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_MANEUVER_NAME",
+        "PolicyType": "POLICY_MANEUVER",
+        "PrereqCivic": "CIVIC_MILITARY_TRADITION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_STRATEGOS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_GREAT_PERSON",
+        "Name": "LOC_POLICY_STRATEGOS_NAME",
+        "PolicyType": "POLICY_STRATEGOS",
+        "PrereqCivic": "CIVIC_MILITARY_TRADITION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_CORVEE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_CORVEE_NAME",
+        "PolicyType": "POLICY_CORVEE",
+        "PrereqCivic": "CIVIC_STATE_WORKFORCE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_CONSCRIPTION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_CONSCRIPTION_NAME",
+        "PolicyType": "POLICY_CONSCRIPTION",
+        "PrereqCivic": "CIVIC_STATE_WORKFORCE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_LAND_SURVEYORS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_LAND_SURVEYORS_NAME",
+        "PolicyType": "POLICY_LAND_SURVEYORS",
+        "PrereqCivic": "CIVIC_EARLY_EMPIRE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_COLONIZATION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_COLONIZATION_NAME",
+        "PolicyType": "POLICY_COLONIZATION",
+        "PrereqCivic": "CIVIC_EARLY_EMPIRE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_INSPIRATION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_GREAT_PERSON",
+        "Name": "LOC_POLICY_INSPIRATION_NAME",
+        "PolicyType": "POLICY_INSPIRATION",
+        "PrereqCivic": "CIVIC_MYSTICISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_REVELATION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_GREAT_PERSON",
+        "Name": "LOC_POLICY_REVELATION_NAME",
+        "PolicyType": "POLICY_REVELATION",
+        "PrereqCivic": "CIVIC_MYSTICISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_INSULAE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_INSULAE_NAME",
+        "PolicyType": "POLICY_INSULAE",
+        "PrereqCivic": "CIVIC_GAMES_RECREATION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_POLICY_CHARISMATIC_LEADER_NAME",
+        "PolicyType": "POLICY_CHARISMATIC_LEADER",
+        "PrereqCivic": "CIVIC_POLITICAL_PHILOSOPHY",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_DIPLOMATIC_LEAGUE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_POLICY_DIPLOMATIC_LEAGUE_NAME",
+        "PolicyType": "POLICY_DIPLOMATIC_LEAGUE",
+        "PrereqCivic": "CIVIC_POLITICAL_PHILOSOPHY",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_LITERARY_TRADITION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_GREAT_PERSON",
+        "Name": "LOC_POLICY_LITERARY_TRADITION_NAME",
+        "PolicyType": "POLICY_LITERARY_TRADITION",
+        "PrereqCivic": "CIVIC_DRAMA_POETRY",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_RAID_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_RAID_NAME",
+        "PolicyType": "POLICY_RAID",
+        "PrereqCivic": "CIVIC_MILITARY_TRAINING",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_VETERANCY_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_VETERANCY_NAME",
+        "PolicyType": "POLICY_VETERANCY",
+        "PrereqCivic": "CIVIC_MILITARY_TRAINING",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_BASTIONS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_BASTIONS_NAME",
+        "PolicyType": "POLICY_BASTIONS",
+        "PrereqCivic": "CIVIC_DEFENSIVE_TACTICS",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_LIMES_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_LIMES_NAME",
+        "PolicyType": "POLICY_LIMES",
+        "PrereqCivic": "CIVIC_DEFENSIVE_TACTICS",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_NATURAL_PHILOSOPHY_NAME",
+        "PolicyType": "POLICY_NATURAL_PHILOSOPHY",
+        "PrereqCivic": "CIVIC_RECORDED_HISTORY",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_SCRIPTURE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_SCRIPTURE_NAME",
+        "PolicyType": "POLICY_SCRIPTURE",
+        "PrereqCivic": "CIVIC_THEOLOGY",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_NAVAL_INFRASTRUCTURE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_NAVAL_INFRASTRUCTURE_NAME",
+        "PolicyType": "POLICY_NAVAL_INFRASTRUCTURE",
+        "PrereqCivic": "CIVIC_NAVAL_TRADITION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_NAVIGATION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_GREAT_PERSON",
+        "Name": "LOC_POLICY_NAVIGATION_NAME",
+        "PolicyType": "POLICY_NAVIGATION",
+        "PrereqCivic": "CIVIC_NAVAL_TRADITION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_FEUDAL_CONTRACT_NAME",
+        "PolicyType": "POLICY_FEUDAL_CONTRACT",
+        "PrereqCivic": "CIVIC_FEUDALISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_SERFDOM_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_SERFDOM_NAME",
+        "PolicyType": "POLICY_SERFDOM",
+        "PrereqCivic": "CIVIC_FEUDALISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_RETAINERS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_RETAINERS_NAME",
+        "PolicyType": "POLICY_RETAINERS",
+        "PrereqCivic": "CIVIC_CIVIL_SERVICE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_MERITOCRACY_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_MERITOCRACY_NAME",
+        "PolicyType": "POLICY_MERITOCRACY",
+        "PrereqCivic": "CIVIC_CIVIL_SERVICE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_SACK_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_SACK_NAME",
+        "PolicyType": "POLICY_SACK",
+        "PrereqCivic": "CIVIC_MERCENARIES",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_PROFESSIONAL_ARMY_NAME",
+        "PolicyType": "POLICY_PROFESSIONAL_ARMY",
+        "PrereqCivic": "CIVIC_MERCENARIES",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_TRADE_CONFEDERATION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_TRADE_CONFEDERATION_NAME",
+        "PolicyType": "POLICY_TRADE_CONFEDERATION",
+        "PrereqCivic": "CIVIC_MERCENARIES",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_MERCHANT_CONFEDERATION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_POLICY_MERCHANT_CONFEDERATION_NAME",
+        "PolicyType": "POLICY_MERCHANT_CONFEDERATION",
+        "PrereqCivic": "CIVIC_MEDIEVAL_FAIRES",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_AESTHETICS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_AESTHETICS_NAME",
+        "PolicyType": "POLICY_AESTHETICS",
+        "PrereqCivic": "CIVIC_MEDIEVAL_FAIRES",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_MEDINA_QUARTER_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_MEDINA_QUARTER_NAME",
+        "PolicyType": "POLICY_MEDINA_QUARTER",
+        "PrereqCivic": "CIVIC_MEDIEVAL_FAIRES",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_CRAFTSMEN_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_CRAFTSMEN_NAME",
+        "PolicyType": "POLICY_CRAFTSMEN",
+        "PrereqCivic": "CIVIC_GUILDS",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_TOWN_CHARTERS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_TOWN_CHARTERS_NAME",
+        "PolicyType": "POLICY_TOWN_CHARTERS",
+        "PrereqCivic": "CIVIC_GUILDS",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_TRAVELING_MERCHANTS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_GREAT_PERSON",
+        "Name": "LOC_POLICY_TRAVELING_MERCHANTS_NAME",
+        "PolicyType": "POLICY_TRAVELING_MERCHANTS",
+        "PrereqCivic": "CIVIC_GUILDS",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_CHIVALRY_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_CHIVALRY_NAME",
+        "PolicyType": "POLICY_CHIVALRY",
+        "PrereqCivic": "CIVIC_DIVINE_RIGHT",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_GOTHIC_ARCHITECTURE_NAME",
+        "PolicyType": "POLICY_GOTHIC_ARCHITECTURE",
+        "PrereqCivic": "CIVIC_DIVINE_RIGHT",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_PRESS_GANGS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_PRESS_GANGS_NAME",
+        "PolicyType": "POLICY_PRESS_GANGS",
+        "PrereqCivic": "CIVIC_EXPLORATION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_COLONIAL_OFFICES_NAME",
+        "PolicyType": "POLICY_COLONIAL_OFFICES",
+        "PrereqCivic": "CIVIC_EXPLORATION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_INVENTION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_GREAT_PERSON",
+        "Name": "LOC_POLICY_INVENTION_NAME",
+        "PolicyType": "POLICY_INVENTION",
+        "PrereqCivic": "CIVIC_HUMANISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_FRESCOES_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_GREAT_PERSON",
+        "Name": "LOC_POLICY_FRESCOES_NAME",
+        "PolicyType": "POLICY_FRESCOES",
+        "PrereqCivic": "CIVIC_HUMANISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_MACHIAVELLIANISM_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_POLICY_MACHIAVELLIANISM_NAME",
+        "PolicyType": "POLICY_MACHIAVELLIANISM",
+        "PrereqCivic": "CIVIC_DIPLOMATIC_SERVICE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_WARS_OF_RELIGION_NAME",
+        "PolicyType": "POLICY_WARS_OF_RELIGION",
+        "PrereqCivic": "CIVIC_REFORMED_CHURCH",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_RELIGIOUS_ORDERS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_RELIGIOUS_ORDERS_NAME",
+        "PolicyType": "POLICY_RELIGIOUS_ORDERS",
+        "PrereqCivic": "CIVIC_REFORMED_CHURCH",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_SIMULTANEUM_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_SIMULTANEUM_NAME",
+        "PolicyType": "POLICY_SIMULTANEUM",
+        "PrereqCivic": "CIVIC_REFORMED_CHURCH",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_LOGISTICS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_LOGISTICS_NAME",
+        "PolicyType": "POLICY_LOGISTICS",
+        "PrereqCivic": "CIVIC_MERCANTILISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_TRIANGULAR_TRADE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_TRIANGULAR_TRADE_NAME",
+        "PolicyType": "POLICY_TRIANGULAR_TRADE",
+        "PrereqCivic": "CIVIC_MERCANTILISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_RATIONALISM_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_RATIONALISM_NAME",
+        "PolicyType": "POLICY_RATIONALISM",
+        "PrereqCivic": "CIVIC_THE_ENLIGHTENMENT",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_FREE_MARKET_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_FREE_MARKET_NAME",
+        "PolicyType": "POLICY_FREE_MARKET",
+        "PrereqCivic": "CIVIC_THE_ENLIGHTENMENT",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_LIBERALISM_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_LIBERALISM_NAME",
+        "PolicyType": "POLICY_LIBERALISM",
+        "PrereqCivic": "CIVIC_THE_ENLIGHTENMENT",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_NATIVE_CONQUEST_NAME",
+        "PolicyType": "POLICY_NATIVE_CONQUEST",
+        "PrereqCivic": "CIVIC_COLONIALISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_COLONIAL_TAXES_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_COLONIAL_TAXES_NAME",
+        "PolicyType": "POLICY_COLONIAL_TAXES",
+        "PrereqCivic": "CIVIC_COLONIALISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_RAJ_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_POLICY_RAJ_NAME",
+        "PolicyType": "POLICY_RAJ",
+        "PrereqCivic": "CIVIC_COLONIALISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_PUBLIC_WORKS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_PUBLIC_WORKS_NAME",
+        "PolicyType": "POLICY_PUBLIC_WORKS",
+        "PrereqCivic": "CIVIC_CIVIL_ENGINEERING",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_SKYSCRAPERS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_SKYSCRAPERS_NAME",
+        "PolicyType": "POLICY_SKYSCRAPERS",
+        "PrereqCivic": "CIVIC_CIVIL_ENGINEERING",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_GRANDE_ARMEE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_GRANDE_ARMEE_NAME",
+        "PolicyType": "POLICY_GRANDE_ARMEE",
+        "PrereqCivic": "CIVIC_NATIONALISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_NATIONAL_IDENTITY_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_NATIONAL_IDENTITY_NAME",
+        "PolicyType": "POLICY_NATIONAL_IDENTITY",
+        "PrereqCivic": "CIVIC_NATIONALISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_GRAND_OPERA_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_GRAND_OPERA_NAME",
+        "PolicyType": "POLICY_GRAND_OPERA",
+        "PrereqCivic": "CIVIC_OPERA_BALLET",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_SYMPHONIES_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_GREAT_PERSON",
+        "Name": "LOC_POLICY_SYMPHONIES_NAME",
+        "PolicyType": "POLICY_SYMPHONIES",
+        "PrereqCivic": "CIVIC_OPERA_BALLET",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_PUBLIC_TRANSPORT_NAME",
+        "PolicyType": "POLICY_PUBLIC_TRANSPORT",
+        "PrereqCivic": "CIVIC_URBANIZATION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_TOTAL_WAR_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_TOTAL_WAR_NAME",
+        "PolicyType": "POLICY_TOTAL_WAR",
+        "PrereqCivic": "CIVIC_SCORCHED_EARTH",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_EXPROPRIATION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_EXPROPRIATION_NAME",
+        "PolicyType": "POLICY_EXPROPRIATION",
+        "PrereqCivic": "CIVIC_SCORCHED_EARTH",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_GREAT_PERSON",
+        "Name": "LOC_POLICY_MILITARY_ORGANIZATION_NAME",
+        "PolicyType": "POLICY_MILITARY_ORGANIZATION",
+        "PrereqCivic": "CIVIC_SCORCHED_EARTH",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_MILITARY_RESEARCH_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_MILITARY_RESEARCH_NAME",
+        "PolicyType": "POLICY_MILITARY_RESEARCH",
+        "PrereqCivic": "CIVIC_URBANIZATION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_RESOURCE_MANAGEMENT_NAME",
+        "PolicyType": "POLICY_RESOURCE_MANAGEMENT",
+        "PrereqCivic": "CIVIC_CONSERVATION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_PROPAGANDA_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_PROPAGANDA_NAME",
+        "PolicyType": "POLICY_PROPAGANDA",
+        "PrereqCivic": "CIVIC_MASS_MEDIA",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_LEVEE_EN_MASSE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_LEVEE_EN_MASSE_NAME",
+        "PolicyType": "POLICY_LEVEE_EN_MASSE",
+        "PrereqCivic": "CIVIC_MOBILIZATION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_LAISSEZ_FAIRE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_GREAT_PERSON",
+        "Name": "LOC_POLICY_LAISSEZ_FAIRE_NAME",
+        "PolicyType": "POLICY_LAISSEZ_FAIRE",
+        "PrereqCivic": "CIVIC_CAPITALISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_MARKET_ECONOMY_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_MARKET_ECONOMY_NAME",
+        "PolicyType": "POLICY_MARKET_ECONOMY",
+        "PrereqCivic": "CIVIC_CAPITALISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_NOBEL_PRIZE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_GREAT_PERSON",
+        "Name": "LOC_POLICY_NOBEL_PRIZE_NAME",
+        "PolicyType": "POLICY_NOBEL_PRIZE",
+        "PrereqCivic": "CIVIC_NUCLEAR_PROGRAM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_POLICY_NUCLEAR_ESPIONAGE_NAME",
+        "PolicyType": "POLICY_NUCLEAR_ESPIONAGE",
+        "PrereqCivic": "CIVIC_NUCLEAR_PROGRAM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_POLICE_STATE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_POLICY_POLICE_STATE_NAME",
+        "PolicyType": "POLICY_POLICE_STATE",
+        "PrereqCivic": "CIVIC_IDEOLOGY",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_ECONOMIC_UNION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_ECONOMIC_UNION_NAME",
+        "PolicyType": "POLICY_ECONOMIC_UNION",
+        "PrereqCivic": "CIVIC_SUFFRAGE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_FINEST_HOUR_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_FINEST_HOUR_NAME",
+        "PolicyType": "POLICY_FINEST_HOUR",
+        "PrereqCivic": "CIVIC_SUFFRAGE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_POLICY_ARSENAL_OF_DEMOCRACY_NAME",
+        "PolicyType": "POLICY_ARSENAL_OF_DEMOCRACY",
+        "PrereqCivic": "CIVIC_SUFFRAGE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_NEW_DEAL_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_NEW_DEAL_NAME",
+        "PolicyType": "POLICY_NEW_DEAL",
+        "PrereqCivic": "CIVIC_SUFFRAGE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_LIGHTNING_WARFARE_NAME",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE",
+        "PrereqCivic": "CIVIC_TOTALITARIANISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_THIRD_ALTERNATIVE_NAME",
+        "PolicyType": "POLICY_THIRD_ALTERNATIVE",
+        "PrereqCivic": "CIVIC_TOTALITARIANISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_MARTIAL_LAW_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_MARTIAL_LAW_NAME",
+        "PolicyType": "POLICY_MARTIAL_LAW",
+        "PrereqCivic": "CIVIC_TOTALITARIANISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_POLICY_GUNBOAT_DIPLOMACY_NAME",
+        "PolicyType": "POLICY_GUNBOAT_DIPLOMACY",
+        "PrereqCivic": "CIVIC_TOTALITARIANISM",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_FIVE_YEAR_PLAN_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_FIVE_YEAR_PLAN_NAME",
+        "PolicyType": "POLICY_FIVE_YEAR_PLAN",
+        "PrereqCivic": "CIVIC_CLASS_STRUGGLE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_COLLECTIVIZATION_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_COLLECTIVIZATION_NAME",
+        "PolicyType": "POLICY_COLLECTIVIZATION",
+        "PrereqCivic": "CIVIC_CLASS_STRUGGLE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_PATRIOTIC_WAR_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_PATRIOTIC_WAR_NAME",
+        "PolicyType": "POLICY_PATRIOTIC_WAR",
+        "PrereqCivic": "CIVIC_CLASS_STRUGGLE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_DEFENSE_OF_MOTHERLAND_NAME",
+        "PolicyType": "POLICY_DEFENSE_OF_MOTHERLAND",
+        "PrereqCivic": "CIVIC_CLASS_STRUGGLE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_CRYPTOGRAPHY_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_POLICY_CRYPTOGRAPHY_NAME",
+        "PolicyType": "POLICY_CRYPTOGRAPHY",
+        "PrereqCivic": "CIVIC_COLD_WAR",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_INTERNATIONAL_WATERS_NAME",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS",
+        "PrereqCivic": "CIVIC_COLD_WAR",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_CONTAINMENT_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_POLICY_CONTAINMENT_NAME",
+        "PolicyType": "POLICY_CONTAINMENT",
+        "PrereqCivic": "CIVIC_COLD_WAR",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_HERITAGE_TOURISM_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_HERITAGE_TOURISM_NAME",
+        "PolicyType": "POLICY_HERITAGE_TOURISM",
+        "PrereqCivic": "CIVIC_CULTURAL_HERITAGE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_SPORTS_MEDIA_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_SPORTS_MEDIA_NAME",
+        "PolicyType": "POLICY_SPORTS_MEDIA",
+        "PrereqCivic": "CIVIC_PROFESSIONAL_SPORTS",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_MILITARY_FIRST_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_MILITARY_FIRST_NAME",
+        "PolicyType": "POLICY_MILITARY_FIRST",
+        "PrereqCivic": "CIVIC_RAPID_DEPLOYMENT",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_SATELLITE_BROADCASTS_NAME",
+        "PolicyType": "POLICY_SATELLITE_BROADCASTS",
+        "PrereqCivic": "CIVIC_SPACE_RACE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_INTEGRATED_SPACE_CELL_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_INTEGRATED_SPACE_CELL_NAME",
+        "PolicyType": "POLICY_INTEGRATED_SPACE_CELL",
+        "PrereqCivic": "CIVIC_SPACE_RACE",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_STRATEGIC_AIR_FORCE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_MILITARY",
+        "Name": "LOC_POLICY_STRATEGIC_AIR_FORCE_NAME",
+        "PolicyType": "POLICY_STRATEGIC_AIR_FORCE",
+        "PrereqCivic": "CIVIC_GLOBALIZATION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_ECOMMERCE_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_ECOMMERCE_NAME",
+        "PolicyType": "POLICY_ECOMMERCE",
+        "PrereqCivic": "CIVIC_GLOBALIZATION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_NAME",
+        "PolicyType": "POLICY_INTERNATIONAL_SPACE_AGENCY",
+        "PrereqCivic": "CIVIC_GLOBALIZATION",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_ECONOMIC",
+        "Name": "LOC_POLICY_ONLINE_COMMUNITIES_NAME",
+        "PolicyType": "POLICY_ONLINE_COMMUNITIES",
+        "PrereqCivic": "CIVIC_SOCIAL_MEDIA",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    },
+    {
+        "Description": "LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION",
+        "ExplicitUnlock": 0,
+        "GovernmentSlotType": "SLOT_DIPLOMATIC",
+        "Name": "LOC_POLICY_COLLECTIVE_ACTIVISM_NAME",
+        "PolicyType": "POLICY_COLLECTIVE_ACTIVISM",
+        "PrereqCivic": "CIVIC_SOCIAL_MEDIA",
+        "PrereqTech": null,
+        "RequiresGovernmentUnlock": null
+    }
+]

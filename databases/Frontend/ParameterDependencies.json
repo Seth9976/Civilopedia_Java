@@ -1,0 +1,72 @@
+[
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "WORLD_BUILDER",
+        "ConfigurationValue": 1,
+        "Operator": "Equals",
+        "ParameterID": "WorldWrap"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "WORLD_BUILDER",
+        "ConfigurationValue": 1,
+        "Operator": "NotEquals",
+        "ParameterID": "GameDifficulty"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "WORLD_BUILDER",
+        "ConfigurationValue": 1,
+        "Operator": "NotEquals",
+        "ParameterID": "TurnTimerType"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "WORLD_BUILDER",
+        "ConfigurationValue": 1,
+        "Operator": "NotEquals",
+        "ParameterID": "GameSpeeds"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "WORLD_BUILDER",
+        "ConfigurationValue": 1,
+        "Operator": "NotEquals",
+        "ParameterID": "TurnLimit"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "WORLD_BUILDER",
+        "ConfigurationValue": 1,
+        "Operator": "NotEquals",
+        "ParameterID": "MaxTurns"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "WORLD_BUILDER",
+        "ConfigurationValue": 1,
+        "Operator": "NotEquals",
+        "ParameterID": "GameRandomSeed"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "NO_TEAMS",
+        "ConfigurationValue": 1,
+        "Operator": "NotEquals",
+        "ParameterID": "PlayerTeam"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "TurnTimerType",
+        "ConfigurationValue": "TURNTIMER_STANDARD",
+        "Operator": "Equals",
+        "ParameterID": "TurnTimerTime"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "TurnLimitType",
+        "ConfigurationValue": "TURNLIMIT_CUSTOM",
+        "Operator": "Equals",
+        "ParameterID": "MaxTurns"
+    }
+]

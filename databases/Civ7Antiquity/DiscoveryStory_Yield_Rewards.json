@@ -1,0 +1,32 @@
+[
+    {
+        "Age": "AGE_ANTIQUITY",
+        "DiplomacyYieldValue": 30,
+        "FoodYieldValue": 20,
+        "GoldYieldValue": 50,
+        "HappinessYieldValue": 50,
+        "ProductionYieldValue": 10,
+        "ProgressionYieldValue": 30,
+        "Type": "REWARD_TYPE_MINOR"
+    },
+    {
+        "Age": "AGE_ANTIQUITY",
+        "DiplomacyYieldValue": 45,
+        "FoodYieldValue": 30,
+        "GoldYieldValue": 75,
+        "HappinessYieldValue": 75,
+        "ProductionYieldValue": 15,
+        "ProgressionYieldValue": 45,
+        "Type": "REWARD_TYPE_MEDIUM"
+    },
+    {
+        "Age": "AGE_ANTIQUITY",
+        "DiplomacyYieldValue": 60,
+        "FoodYieldValue": 40,
+        "GoldYieldValue": 100,
+        "HappinessYieldValue": 100,
+        "ProductionYieldValue": 20,
+        "ProgressionYieldValue": 60,
+        "Type": "REWARD_TYPE_MAJOR"
+    }
+]

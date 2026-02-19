@@ -1,0 +1,248 @@
+[
+    {
+        "ModifierId": "APPLY_INCREASED_DIPLO_VP_TO_PLAYER",
+        "ResolutionEffectId": 0,
+        "ResolutionType": "WC_RES_DIPLOVICTORY",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "APPLY_DECREASED_DIPLO_VP_TO_PLAYER",
+        "ResolutionEffectId": 5,
+        "ResolutionType": "WC_RES_DIPLOVICTORY",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "NO_CAP_LUXURY_RESOURCE",
+        "ResolutionEffectId": 10,
+        "ResolutionType": "WC_RES_LUXURY",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "BAN_LUXURY_RESOURCE",
+        "ResolutionEffectId": 15,
+        "ResolutionType": "WC_RES_LUXURY",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "APPLY_TARGET_FREE_TRADE_ROUTE",
+        "ResolutionEffectId": 20,
+        "ResolutionType": "WC_RES_TRADE_TREATY",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "APPLY_INCREASES_TRADE_TO_GOLD_TO_PLAYER",
+        "ResolutionEffectId": 21,
+        "ResolutionType": "WC_RES_TRADE_TREATY",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "APPLY_INTERNATIONAL_MAJOR_TRADE_ROUTES_DISABLED",
+        "ResolutionEffectId": 25,
+        "ResolutionType": "WC_RES_TRADE_TREATY",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "WC_RES_RELIGIOUS_UNITS_STRENGTH",
+        "ResolutionEffectId": 30,
+        "ResolutionType": "WC_RES_WORLD_RELIGION",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "ANYONE_CONDEMNS_FOR_FAVOR",
+        "ResolutionEffectId": 35,
+        "ResolutionType": "WC_RES_WORLD_RELIGION",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "ADD_TOURISM_FROM_GREAT_WORK_OBJECT",
+        "ResolutionEffectId": 40,
+        "ResolutionType": "WC_RES_HERITAGE_ORG",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "NO_TOURISM_FROM_GREAT_WORK_OBJECT",
+        "ResolutionEffectId": 45,
+        "ResolutionType": "WC_RES_HERITAGE_ORG",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "WC_RES_DEFORESTATION_BAN",
+        "ResolutionEffectId": 50,
+        "ResolutionType": "WC_RES_DEFORESTATION_TREATY",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "WC_RES_DEFORESTATION_GOLD",
+        "ResolutionEffectId": 55,
+        "ResolutionType": "WC_RES_DEFORESTATION_TREATY",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "WC_RES_MEET_WMD_TARGET",
+        "ResolutionEffectId": 60,
+        "ResolutionType": "WC_RES_ARMS_CONTROL",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "WC_RES_WMD_BAN",
+        "ResolutionEffectId": 65,
+        "ResolutionType": "WC_RES_ARMS_CONTROL",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "GOVT_ADD_WILDCARD_SLOT",
+        "ResolutionEffectId": 70,
+        "ResolutionType": "WC_RES_WORLD_IDEOLOGY",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "GOVT_LOSE_WILDCARD_SLOT",
+        "ResolutionEffectId": 75,
+        "ResolutionType": "WC_RES_WORLD_IDEOLOGY",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "APPLY_ALL_DISTRICTS_CULTURE_BOMB_TO_PLAYER",
+        "ResolutionEffectId": 80,
+        "ResolutionType": "WC_RES_BORDER_CONTROL",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "APPLY_NO_CULTURE_BORDER_EXPANSION_TO_PLAYER",
+        "ResolutionEffectId": 85,
+        "ResolutionType": "WC_RES_BORDER_CONTROL",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "INCREASE_PROJECT_PRODUCTION",
+        "ResolutionEffectId": 90,
+        "ResolutionType": "WC_RES_PUBLIC_WORKS",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "DECREASE_PROJECT_PRODUCTION",
+        "ResolutionEffectId": 95,
+        "ResolutionType": "WC_RES_PUBLIC_WORKS",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "INCREASE_DISTRICT_BUILDING_PRODUCTION",
+        "ResolutionEffectId": 100,
+        "ResolutionType": "WC_RES_URBAN_DEVELOPMENT",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "BAN_DISTRICT_BUILDING",
+        "ResolutionEffectId": 105,
+        "ResolutionType": "WC_RES_URBAN_DEVELOPMENT",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "INCREASE_GREAT_PERSON_POINTS",
+        "ResolutionEffectId": 120,
+        "ResolutionType": "WC_RES_PATRONAGE",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "NO_GREAT_PERSON_POINTS",
+        "ResolutionEffectId": 125,
+        "ResolutionType": "WC_RES_PATRONAGE",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "WC_RES_BUILDING_PRODUCTION_BAN",
+        "ResolutionEffectId": 140,
+        "ResolutionType": "WC_RES_GLOBAL_ENERGY_TREATY",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "WC_RES_BUILDING_PRODUCTION_BUFF",
+        "ResolutionEffectId": 145,
+        "ResolutionType": "WC_RES_GLOBAL_ENERGY_TREATY",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "WC_RES_MODIFY_CITY_STATE_TRADE_YIELD",
+        "ResolutionEffectId": 150,
+        "ResolutionType": "WC_RES_SOVEREIGNTY",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "APPLY_DISABLE_UNIQUE_SUZERAIN_BONUS_TO_MINORCIVTYPES",
+        "ResolutionEffectId": 155,
+        "ResolutionType": "WC_RES_SOVEREIGNTY",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "APPLY_GROWTH_BONUS_TO_PLAYER",
+        "ResolutionEffectId": 160,
+        "ResolutionType": "WC_RES_MIGRATION_TREATY",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "APPLY_LOYALTY_PENALTY_TO_PLAYER",
+        "ResolutionEffectId": 161,
+        "ResolutionType": "WC_RES_MIGRATION_TREATY",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "APPLY_GROWTH_PENALTY_TO_PLAYER",
+        "ResolutionEffectId": 165,
+        "ResolutionType": "WC_RES_MIGRATION_TREATY",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "APPLY_LOYALTY_BONUS_TO_PLAYER",
+        "ResolutionEffectId": 166,
+        "ResolutionType": "WC_RES_MIGRATION_TREATY",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "WC_RES_UNIT_PRODUCTION_YIELD_DEBUFF",
+        "ResolutionEffectId": 170,
+        "ResolutionType": "WC_RES_MERCENARY_COMPANIES",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "WC_RES_UNIT_PRODUCTION_YIELD_BUFF",
+        "ResolutionEffectId": 175,
+        "ResolutionType": "WC_RES_MERCENARY_COMPANIES",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "APPLY_PLAYER_GRIEVANCES_BUFF",
+        "ResolutionEffectId": 180,
+        "ResolutionType": "WC_RES_PUBLIC_RELATIONS",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "APPLY_PLAYER_GRIEVANCES_DEBUFF",
+        "ResolutionEffectId": 185,
+        "ResolutionType": "WC_RES_PUBLIC_RELATIONS",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "WC_RES_OPERATION_CHANCE_BUFF",
+        "ResolutionEffectId": 190,
+        "ResolutionType": "WC_RES_ESPIONAGE_PACT",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "WC_RES_OPERATION_REMOVE",
+        "ResolutionEffectId": 195,
+        "ResolutionType": "WC_RES_ESPIONAGE_PACT",
+        "WhichEffect": 2
+    },
+    {
+        "ModifierId": "APPLY_RES_UNIT_COMBAT_BUFF",
+        "ResolutionEffectId": 200,
+        "ResolutionType": "WC_RES_MILITARY_ADVISORY",
+        "WhichEffect": 1
+    },
+    {
+        "ModifierId": "APPLY_RES_UNIT_COMBAT_DEBUFF",
+        "ResolutionEffectId": 205,
+        "ResolutionType": "WC_RES_MILITARY_ADVISORY",
+        "WhichEffect": 2
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 4.0,
+        "OperationName": "Attack Enemy City",
+        "SafeRallyPoint": 0,
+        "TeamName": "Enemy City Attack"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 2.0,
+        "OperationName": "Attack Enemy Independent",
+        "SafeRallyPoint": 0,
+        "TeamName": "Independent Camp Attack"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": -1.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 1.0,
+        "OperationName": "City Defense",
+        "SafeRallyPoint": 0,
+        "TeamName": "City Defense"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 1.0,
+        "OperationName": "City Founding",
+        "SafeRallyPoint": 0,
+        "TeamName": "City Founders"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": -3.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 0.0,
+        "OperationName": "Independent Raid",
+        "SafeRallyPoint": 0,
+        "TeamName": "Independent Civ Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": -3.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 0.0,
+        "OperationName": "Independent Naval Raid",
+        "SafeRallyPoint": 0,
+        "TeamName": "Independent Civ Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 2.0,
+        "OperationName": "Independent Large Raid",
+        "SafeRallyPoint": 0,
+        "TeamName": "Independent Large Civ Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": -1.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 1.0,
+        "OperationName": "Independent Assault",
+        "SafeRallyPoint": 0,
+        "TeamName": "Independent Civ Assault Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": -2.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 0.0,
+        "OperationName": "Aid Suzerain",
+        "SafeRallyPoint": 0,
+        "TeamName": "Aid Suzerain Attack Force"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 0.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 3.0,
+        "OperationName": "Coastal Defense",
+        "SafeRallyPoint": 0,
+        "TeamName": "Naval Defense"
+    },
+    {
+        "Condition": null,
+        "InitialStrengthAdvantage": 1.0,
+        "MaxUnits": -1,
+        "MinUnits": 1,
+        "OngoingStrengthAdvantage": 3.0,
+        "OperationName": "Naval City Assault",
+        "SafeRallyPoint": 0,
+        "TeamName": "Naval Assault"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_MILITARY",
+        "DiscussionType": "WC_EMERGENCY_MILITARY",
+        "EmergencyType": "EMERGENCY_MILITARY",
+        "Name": "LOC_DISCUSSION_EMERGENCY_MILITARY_TARGET_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_EMERGENCY"
+    },
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_CITY_STATE",
+        "DiscussionType": "WC_EMERGENCY_CITY_STATE",
+        "EmergencyType": "EMERGENCY_CAPTURE_CITY_STATE",
+        "Name": "LOC_DISCUSSION_EMERGENCY_CITY_STATE_TARGET_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_EMERGENCY"
+    },
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_RELIGIOUS",
+        "DiscussionType": "WC_EMERGENCY_RELIGIOUS",
+        "EmergencyType": "EMERGENCY_RELIGIOUS",
+        "Name": "LOC_DISCUSSION_EMERGENCY_RELIGIOUS_TARGET_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_EMERGENCY"
+    },
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_NUCLEAR",
+        "DiscussionType": "WC_EMERGENCY_NUCLEAR",
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "Name": "LOC_DISCUSSION_EMERGENCY_NUCLEAR_TARGET_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_EMERGENCY"
+    },
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_BACKSTAB",
+        "DiscussionType": "WC_EMERGENCY_BACKSTAB",
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "Name": "LOC_DISCUSSION_EMERGENCY_BACKSTAB_TARGET_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_EMERGENCY"
+    },
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_REQUEST_AID",
+        "DiscussionType": "WC_EMERGENCY_REQUEST_AID",
+        "EmergencyType": "EMERGENCY_SEND_AID",
+        "Name": "LOC_DISCUSSION_EMERGENCY_AID_REQUEST_TARGET_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_AID_REQUEST"
+    },
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_GREAT_ARTISTS",
+        "DiscussionType": "WC_EMERGENCY_NOBEL_PRIZE_LITERATURE",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_LITERATURE",
+        "Name": "LOC_DISCUSSION_NOBEL_PRIZE_LITERATURE_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_COMPETITION"
+    },
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_FAVOR",
+        "DiscussionType": "WC_EMERGENCY_NOBEL_PRIZE_PEACE",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PEACE",
+        "Name": "LOC_DISCUSSION_EMERGENCY_NOBEL_PRIZE_PEACE_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_COMPETITION"
+    },
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_GREAT_STEMS",
+        "DiscussionType": "WC_EMERGENCY_NOBEL_PRIZE_PHYSICS",
+        "EmergencyType": "EMERGENCY_NOBEL_PRIZE_PHYSICS",
+        "Name": "LOC_DISCUSSION_EMERGENCY_NOBEL_PRIZE_PHYSICS_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_COMPETITION"
+    },
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_CLIMATE_ACCORDS",
+        "DiscussionType": "WC_EMERGENCY_CLIMATE_ACCORDS",
+        "EmergencyType": "EMERGENCY_CLIMATE_ACCORDS",
+        "Name": "LOC_EMERGENCY_CLIMATE_ACCORDS_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_COMPETITION"
+    },
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_WORLD_GAMES",
+        "DiscussionType": "WC_EMERGENCY_WORLD_GAMES",
+        "EmergencyType": "EMERGENCY_WORLD_GAMES",
+        "Name": "LOC_EMERGENCY_WORLD_GAMES_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_COMPETITION"
+    },
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_SPACE_STATION",
+        "DiscussionType": "WC_EMERGENCY_SPACE_STATION",
+        "EmergencyType": "EMERGENCY_SPACE_STATION",
+        "Name": "LOC_EMERGENCY_SPACE_STATION_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_COMPETITION"
+    },
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_SCORE_COMPETITION_CULTURAL",
+        "DiscussionType": "WC_EMERGENCY_WORLD_FAIR",
+        "EmergencyType": "EMERGENCY_WORLDS_FAIR",
+        "Name": "LOC_EMERGENCY_WORLDS_FAIR_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_COMPETITION"
+    },
+    {
+        "Description": "LOC_EMERGENCY_FLAVOR_REQUEST_MILITARY_AID",
+        "DiscussionType": "WC_EMERGENCY_MILITARY_AID_REQUEST",
+        "EmergencyType": "EMERGENCY_SEND_MILITARY_AID",
+        "Name": "LOC_EMERGENCY_REQUEST_MILITARY_AID_NAME",
+        "ProposalType": "WC_PROPOSAL_TYPE_AID_REQUEST"
+    }
+]

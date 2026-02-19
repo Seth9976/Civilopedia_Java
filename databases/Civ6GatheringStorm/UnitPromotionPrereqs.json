@@ -1,0 +1,482 @@
+[
+    {
+        "PrereqUnitPromotion": "PROMOTION_RANGER",
+        "UnitPromotion": "PROMOTION_SENTRY"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_ALPINE",
+        "UnitPromotion": "PROMOTION_SENTRY"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_RANGER",
+        "UnitPromotion": "PROMOTION_GUERRILLA"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_ALPINE",
+        "UnitPromotion": "PROMOTION_GUERRILLA"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SENTRY",
+        "UnitPromotion": "PROMOTION_SPYGLASS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_GUERRILLA",
+        "UnitPromotion": "PROMOTION_AMBUSH"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SPYGLASS",
+        "UnitPromotion": "PROMOTION_CAMOUFLAGE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_AMBUSH",
+        "UnitPromotion": "PROMOTION_CAMOUFLAGE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_BATTLECRY",
+        "UnitPromotion": "PROMOTION_COMMANDO"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_AMPHIBIOUS",
+        "UnitPromotion": "PROMOTION_COMMANDO"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_TORTOISE",
+        "UnitPromotion": "PROMOTION_AMPHIBIOUS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_COMMANDO",
+        "UnitPromotion": "PROMOTION_AMPHIBIOUS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_COMMANDO",
+        "UnitPromotion": "PROMOTION_ZWEIHANDER"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_AMPHIBIOUS",
+        "UnitPromotion": "PROMOTION_ZWEIHANDER"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_COMMANDO",
+        "UnitPromotion": "PROMOTION_URBAN_WARFARE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_AMPHIBIOUS",
+        "UnitPromotion": "PROMOTION_URBAN_WARFARE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_ZWEIHANDER",
+        "UnitPromotion": "PROMOTION_ELITE_GUARD"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_URBAN_WARFARE",
+        "UnitPromotion": "PROMOTION_ELITE_GUARD"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_VOLLEY",
+        "UnitPromotion": "PROMOTION_ARROW_STORM"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_GARRISON",
+        "UnitPromotion": "PROMOTION_INCENDIARIES"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_INCENDIARIES",
+        "UnitPromotion": "PROMOTION_SUPPRESSION"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_ARROW_STORM",
+        "UnitPromotion": "PROMOTION_SUPPRESSION"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_INCENDIARIES",
+        "UnitPromotion": "PROMOTION_EMPLACEMENT"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_ARROW_STORM",
+        "UnitPromotion": "PROMOTION_EMPLACEMENT"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SUPPRESSION",
+        "UnitPromotion": "PROMOTION_EXPERT_MARKSMAN"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_EMPLACEMENT",
+        "UnitPromotion": "PROMOTION_EXPERT_MARKSMAN"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_GRAPE_SHOT",
+        "UnitPromotion": "PROMOTION_SHRAPNEL"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_CREW_WEAPONS",
+        "UnitPromotion": "PROMOTION_SHELLS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SHRAPNEL",
+        "UnitPromotion": "PROMOTION_ADVANCED_RANGEFINDING"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SHELLS",
+        "UnitPromotion": "PROMOTION_ADVANCED_RANGEFINDING"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SHRAPNEL",
+        "UnitPromotion": "PROMOTION_EXPERT_CREW"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SHELLS",
+        "UnitPromotion": "PROMOTION_EXPERT_CREW"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_ADVANCED_RANGEFINDING",
+        "UnitPromotion": "PROMOTION_FORWARD_OBSERVERS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_EXPERT_CREW",
+        "UnitPromotion": "PROMOTION_FORWARD_OBSERVERS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_ECHELON",
+        "UnitPromotion": "PROMOTION_SQUARE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_THRUST",
+        "UnitPromotion": "PROMOTION_SCHILTRON"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SQUARE",
+        "UnitPromotion": "PROMOTION_REDEPLOY"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SCHILTRON",
+        "UnitPromotion": "PROMOTION_REDEPLOY"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SQUARE",
+        "UnitPromotion": "PROMOTION_CHOKE_POINTS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SCHILTRON",
+        "UnitPromotion": "PROMOTION_CHOKE_POINTS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_REDEPLOY",
+        "UnitPromotion": "PROMOTION_HOLD_THE_LINE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_CHOKE_POINTS",
+        "UnitPromotion": "PROMOTION_HOLD_THE_LINE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_CAPARISON",
+        "UnitPromotion": "PROMOTION_DEPREDATION"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_COURSERS",
+        "UnitPromotion": "PROMOTION_DOUBLE_ENVELOPMENT"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_DEPREDATION",
+        "UnitPromotion": "PROMOTION_SPIKING_THE_GUNS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_DOUBLE_ENVELOPMENT",
+        "UnitPromotion": "PROMOTION_SPIKING_THE_GUNS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_DEPREDATION",
+        "UnitPromotion": "PROMOTION_PURSUIT"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_DOUBLE_ENVELOPMENT",
+        "UnitPromotion": "PROMOTION_PURSUIT"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SPIKING_THE_GUNS",
+        "UnitPromotion": "PROMOTION_ESCORT_MOBILITY"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_PURSUIT",
+        "UnitPromotion": "PROMOTION_ESCORT_MOBILITY"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_CHARGE",
+        "UnitPromotion": "PROMOTION_MARAUDING"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_ROUT",
+        "UnitPromotion": "PROMOTION_MARAUDING"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_BARDING",
+        "UnitPromotion": "PROMOTION_ROUT"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_MARAUDING",
+        "UnitPromotion": "PROMOTION_ROUT"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_MARAUDING",
+        "UnitPromotion": "PROMOTION_ARMOR_PIERCING"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_ROUT",
+        "UnitPromotion": "PROMOTION_REACTIVE_ARMOR"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_ARMOR_PIERCING",
+        "UnitPromotion": "PROMOTION_BREAKTHROUGH"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_REACTIVE_ARMOR",
+        "UnitPromotion": "PROMOTION_BREAKTHROUGH"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_DOGFIGHTING",
+        "UnitPromotion": "PROMOTION_INTERCEPTOR"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_COCKPIT_ARMOR",
+        "UnitPromotion": "PROMOTION_STRAFE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_INTERCEPTOR",
+        "UnitPromotion": "PROMOTION_GROUND_CREWS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_STRAFE",
+        "UnitPromotion": "PROMOTION_TANK_BUSTER"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_GROUND_CREWS",
+        "UnitPromotion": "PROMOTION_DROP_TANKS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_TANK_BUSTER",
+        "UnitPromotion": "PROMOTION_DROP_TANKS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_BOX_FORMATION",
+        "UnitPromotion": "PROMOTION_TORPEDO_BOMBER"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_EVASIVE_MANEUVERS",
+        "UnitPromotion": "PROMOTION_TORPEDO_BOMBER"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_EVASIVE_MANEUVERS",
+        "UnitPromotion": "PROMOTION_CLOSE_AIR_SUPPORT"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_BOX_FORMATION",
+        "UnitPromotion": "PROMOTION_CLOSE_AIR_SUPPORT"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_TORPEDO_BOMBER",
+        "UnitPromotion": "PROMOTION_TACTICAL_MAINTENANCE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_CLOSE_AIR_SUPPORT",
+        "UnitPromotion": "PROMOTION_LONG_RANGE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_TACTICAL_MAINTENANCE",
+        "UnitPromotion": "PROMOTION_SUPERFORTRESS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_LONG_RANGE",
+        "UnitPromotion": "PROMOTION_SUPERFORTRESS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_EMBOLON",
+        "UnitPromotion": "PROMOTION_REINFORCED_HULL"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_HELMSMAN",
+        "UnitPromotion": "PROMOTION_RUTTER"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_REINFORCED_HULL",
+        "UnitPromotion": "PROMOTION_AUXILIARY_SHIPS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_RUTTER",
+        "UnitPromotion": "PROMOTION_AUXILIARY_SHIPS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_REINFORCED_HULL",
+        "UnitPromotion": "PROMOTION_CONVOY"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_RUTTER",
+        "UnitPromotion": "PROMOTION_CONVOY"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_AUXILIARY_SHIPS",
+        "UnitPromotion": "PROMOTION_CREEPING_ATTACK"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_CONVOY",
+        "UnitPromotion": "PROMOTION_CREEPING_ATTACK"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_LINE_OF_BATTLE",
+        "UnitPromotion": "PROMOTION_PREPARATORY_FIRE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_BOMBARDMENT",
+        "UnitPromotion": "PROMOTION_ROLLING_BARRAGE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_PREPARATORY_FIRE",
+        "UnitPromotion": "PROMOTION_SUPPLY_FLEET"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_ROLLING_BARRAGE",
+        "UnitPromotion": "PROMOTION_SUPPLY_FLEET"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_PREPARATORY_FIRE",
+        "UnitPromotion": "PROMOTION_PROXIMITY_FUSES"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_ROLLING_BARRAGE",
+        "UnitPromotion": "PROMOTION_PROXIMITY_FUSES"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SUPPLY_FLEET",
+        "UnitPromotion": "PROMOTION_COINCIDENCE_RANGEFINDING"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_PROXIMITY_FUSES",
+        "UnitPromotion": "PROMOTION_COINCIDENCE_RANGEFINDING"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_FLIGHT_DECK",
+        "UnitPromotion": "PROMOTION_HANGAR_DECK"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_HANGAR_DECK",
+        "UnitPromotion": "PROMOTION_FOLDING_WINGS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SCOUT_PLANES",
+        "UnitPromotion": "PROMOTION_ADVANCED_ENGINES"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_HANGAR_DECK",
+        "UnitPromotion": "PROMOTION_ADVANCED_ENGINES"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_ADVANCED_ENGINES",
+        "UnitPromotion": "PROMOTION_DECK_CREWS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_FOLDING_WINGS",
+        "UnitPromotion": "PROMOTION_DECK_CREWS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_FOLDING_WINGS",
+        "UnitPromotion": "PROMOTION_SUPER_CARRIER"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_DECK_CREWS",
+        "UnitPromotion": "PROMOTION_SUPER_CARRIER"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_LOOT",
+        "UnitPromotion": "PROMOTION_SWIFT_KEEL"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_HOMING_TORPEDOES",
+        "UnitPromotion": "PROMOTION_SWIFT_KEEL"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_BOARDING",
+        "UnitPromotion": "PROMOTION_HOMING_TORPEDOES"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SWIFT_KEEL",
+        "UnitPromotion": "PROMOTION_HOMING_TORPEDOES"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_HOMING_TORPEDOES",
+        "UnitPromotion": "PROMOTION_SILENT_RUNNING"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SWIFT_KEEL",
+        "UnitPromotion": "PROMOTION_OBSERVATION"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_OBSERVATION",
+        "UnitPromotion": "PROMOTION_WOLFPACK"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_SILENT_RUNNING",
+        "UnitPromotion": "PROMOTION_WOLFPACK"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_MONK_SHADOW_STRIKE",
+        "UnitPromotion": "PROMOTION_MONK_EXPLODING_PALMS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_MONK_TWILIGHT_VEIL",
+        "UnitPromotion": "PROMOTION_MONK_EXPLODING_PALMS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_MONK_SHADOW_STRIKE",
+        "UnitPromotion": "PROMOTION_MONK_DISCIPLES"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_MONK_TWILIGHT_VEIL",
+        "UnitPromotion": "PROMOTION_MONK_DISCIPLES"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_MONK_EXPLODING_PALMS",
+        "UnitPromotion": "PROMOTION_MONK_SWEEPING_WIND"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_MONK_DISCIPLES",
+        "UnitPromotion": "PROMOTION_MONK_SWEEPING_WIND"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_MONK_EXPLODING_PALMS",
+        "UnitPromotion": "PROMOTION_MONK_DANCING_CRANE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_MONK_DISCIPLES",
+        "UnitPromotion": "PROMOTION_MONK_DANCING_CRANE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_MONK_SWEEPING_WIND",
+        "UnitPromotion": "PROMOTION_MONK_COBRA_STRIKE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_MONK_DANCING_CRANE",
+        "UnitPromotion": "PROMOTION_MONK_COBRA_STRIKE"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_NIHANG_FLANKED_BONUS",
+        "UnitPromotion": "PROMOTION_NIHANG_MOVEMENT_BONUS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_NIHANG_NO_WOUNDED_PENALTY",
+        "UnitPromotion": "PROMOTION_NIHANG_MOVEMENT_BONUS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_NIHANG_FAITH_FOR_VICTORIES",
+        "UnitPromotion": "PROMOTION_NIHANG_NO_WOUNDED_PENALTY"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_NIHANG_MOVEMENT_BONUS",
+        "UnitPromotion": "PROMOTION_NIHANG_NO_WOUNDED_PENALTY"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_NIHANG_MOVEMENT_BONUS",
+        "UnitPromotion": "PROMOTION_NIHANG_SUZERAIN_COMBAT_BONUS"
+    },
+    {
+        "PrereqUnitPromotion": "PROMOTION_NIHANG_NO_WOUNDED_PENALTY",
+        "UnitPromotion": "PROMOTION_NIHANG_SUZERAIN_COMBAT_BONUS"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Attack": 0,
+        "Defense": 0,
+        "DoubleMove": 0,
+        "Impassable": 1,
+        "PassableTech": "TECH_ASTRONOMY",
+        "PediaType": null,
+        "PromotionType": "PROMOTION_OCEAN_IMPASSABLE_UNTIL_ASTRONOMY",
+        "TerrainType": "TERRAIN_OCEAN"
+    },
+    {
+        "Attack": 0,
+        "Defense": 0,
+        "DoubleMove": 0,
+        "Impassable": 1,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_OCEAN_IMPASSABLE",
+        "TerrainType": "TERRAIN_OCEAN"
+    },
+    {
+        "Attack": 0,
+        "Defense": 0,
+        "DoubleMove": 1,
+        "Impassable": 0,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_STEAM_POWERED",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "Attack": 25,
+        "Defense": 25,
+        "DoubleMove": 1,
+        "Impassable": 0,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_SKI_INFANTRY",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "Attack": 25,
+        "Defense": 25,
+        "DoubleMove": 1,
+        "Impassable": 0,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_SKI_INFANTRY",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "Attack": 25,
+        "Defense": 25,
+        "DoubleMove": 0,
+        "Impassable": 0,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_SKI_INFANTRY",
+        "TerrainType": "TERRAIN_HILL"
+    },
+    {
+        "Attack": 50,
+        "Defense": 50,
+        "DoubleMove": 0,
+        "Impassable": 0,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_DESERT_WARRIOR",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "Attack": 10,
+        "Defense": 10,
+        "DoubleMove": 0,
+        "Impassable": 0,
+        "PassableTech": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ALTITUDE_TRAINING",
+        "TerrainType": "TERRAIN_HILL"
+    }
+]

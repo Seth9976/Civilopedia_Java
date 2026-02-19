@@ -1,0 +1,98 @@
+[
+    {
+        "BehaviorTree": null,
+        "CityStrategy": 1,
+        "CountdownVictoryType": null,
+        "LegacyPathType": null,
+        "MaxNumConditionsNeeded": 2,
+        "MinConditionPercentage": 25,
+        "MinNumConditionsNeeded": 1,
+        "SaveGoldForVictory": null,
+        "SaveInfluenceForVictory": null,
+        "StrategyType": "CITY_STRATEGY_EARLY_FOOD"
+    },
+    {
+        "BehaviorTree": null,
+        "CityStrategy": 1,
+        "CountdownVictoryType": null,
+        "LegacyPathType": null,
+        "MaxNumConditionsNeeded": 1,
+        "MinConditionPercentage": 25,
+        "MinNumConditionsNeeded": 1,
+        "SaveGoldForVictory": null,
+        "SaveInfluenceForVictory": null,
+        "StrategyType": "CITY_STRATEGY_PRODUCTION_BIAS"
+    },
+    {
+        "BehaviorTree": null,
+        "CityStrategy": 1,
+        "CountdownVictoryType": null,
+        "LegacyPathType": null,
+        "MaxNumConditionsNeeded": 1,
+        "MinConditionPercentage": 25,
+        "MinNumConditionsNeeded": 1,
+        "SaveGoldForVictory": null,
+        "SaveInfluenceForVictory": null,
+        "StrategyType": "CITY_STRATEGY_STAY_HAPPY"
+    },
+    {
+        "BehaviorTree": null,
+        "CityStrategy": 1,
+        "CountdownVictoryType": null,
+        "LegacyPathType": null,
+        "MaxNumConditionsNeeded": 1,
+        "MinConditionPercentage": 25,
+        "MinNumConditionsNeeded": 1,
+        "SaveGoldForVictory": null,
+        "SaveInfluenceForVictory": null,
+        "StrategyType": "CITY_STRATEGY_WONDERS"
+    },
+    {
+        "BehaviorTree": null,
+        "CityStrategy": 0,
+        "CountdownVictoryType": null,
+        "LegacyPathType": "LEGACY_PATH_ANTIQUITY_MILITARY",
+        "MaxNumConditionsNeeded": 7,
+        "MinConditionPercentage": 25,
+        "MinNumConditionsNeeded": 2,
+        "SaveGoldForVictory": null,
+        "SaveInfluenceForVictory": null,
+        "StrategyType": "LEGACY_PATH_STRATEGY_EXPANSION"
+    },
+    {
+        "BehaviorTree": null,
+        "CityStrategy": 0,
+        "CountdownVictoryType": null,
+        "LegacyPathType": "LEGACY_PATH_ANTIQUITY_SCIENCE",
+        "MaxNumConditionsNeeded": 5,
+        "MinConditionPercentage": 25,
+        "MinNumConditionsNeeded": 2,
+        "SaveGoldForVictory": null,
+        "SaveInfluenceForVictory": null,
+        "StrategyType": "LEGACY_PATH_STRATEGY_SCIENCE"
+    },
+    {
+        "BehaviorTree": null,
+        "CityStrategy": 0,
+        "CountdownVictoryType": null,
+        "LegacyPathType": "LEGACY_PATH_ANTIQUITY_CULTURE",
+        "MaxNumConditionsNeeded": 4,
+        "MinConditionPercentage": 25,
+        "MinNumConditionsNeeded": 2,
+        "SaveGoldForVictory": null,
+        "SaveInfluenceForVictory": null,
+        "StrategyType": "LEGACY_PATH_STRATEGY_WONDERS"
+    },
+    {
+        "BehaviorTree": null,
+        "CityStrategy": 0,
+        "CountdownVictoryType": null,
+        "LegacyPathType": "LEGACY_PATH_ANTIQUITY_ECONOMIC",
+        "MaxNumConditionsNeeded": 6,
+        "MinConditionPercentage": 25,
+        "MinNumConditionsNeeded": 2,
+        "SaveGoldForVictory": null,
+        "SaveInfluenceForVictory": null,
+        "StrategyType": "LEGACY_PATH_STRATEGY_IMPORTS"
+    }
+]

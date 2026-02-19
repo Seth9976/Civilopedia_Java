@@ -1,0 +1,44 @@
+[
+    {
+        "NegativeStatusMeter": null,
+        "PositiveStatusMeter": "CityStateMeterBaseBlue.dds",
+        "StatusIcon": "CityStateMeterBlue32.dds",
+        "StatusMeterIconAtlasIndex": 0,
+        "Type": "MINOR_FRIENDSHIP_STATUS_ALLIES"
+    },
+    {
+        "NegativeStatusMeter": null,
+        "PositiveStatusMeter": "CityStateMeterBaseGreen.dds",
+        "StatusIcon": "CityStateMeterGreen32.dds",
+        "StatusMeterIconAtlasIndex": 1,
+        "Type": "MINOR_FRIENDSHIP_STATUS_FRIENDS"
+    },
+    {
+        "NegativeStatusMeter": null,
+        "PositiveStatusMeter": "CityStateMeterBaseGrey.dds",
+        "StatusIcon": "CityStateMeterBlack32.dds",
+        "StatusMeterIconAtlasIndex": 4,
+        "Type": "MINOR_FRIENDSHIP_STATUS_NEUTRAL"
+    },
+    {
+        "NegativeStatusMeter": "CityStateMeterBaseOrange.dds",
+        "PositiveStatusMeter": null,
+        "StatusIcon": "CityStateMeterOrange32.dds",
+        "StatusMeterIconAtlasIndex": 3,
+        "Type": "MINOR_FRIENDSHIP_STATUS_AFRAID"
+    },
+    {
+        "NegativeStatusMeter": "CityStateMeterBaseRed.dds",
+        "PositiveStatusMeter": null,
+        "StatusIcon": "CityStateMeterRed32.dds",
+        "StatusMeterIconAtlasIndex": 2,
+        "Type": "MINOR_FRIENDSHIP_STATUS_ANGRY"
+    },
+    {
+        "NegativeStatusMeter": "CityStateMeterBaseRed.dds",
+        "PositiveStatusMeter": null,
+        "StatusIcon": "CityStateMeterRed32.dds",
+        "StatusMeterIconAtlasIndex": 2,
+        "Type": "MINOR_FRIENDSHIP_STATUS_WAR"
+    }
+]

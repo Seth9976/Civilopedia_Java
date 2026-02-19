@@ -1,0 +1,47 @@
+[
+    {
+        "ActionIcon": "action_greatperson",
+        "AvailableInTimeline": 0,
+        "CityStatesSuzerained": 0,
+        "ConstructibleType": null,
+        "GenerateDuplicateIndividuals": 1,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_ALIM",
+        "IconString": "unitflag_alim",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_UNIT_ALIM_NAME",
+        "PopulationRequired": 0,
+        "PseudoYieldType": "PSEUDOYIELD_STANDING_ARMY_COMMANDER",
+        "UniqueQuarterType": "QUARTER_ULEMA",
+        "UnitType": "UNIT_ALIM"
+    },
+    {
+        "ActionIcon": "action_greatperson",
+        "AvailableInTimeline": 0,
+        "CityStatesSuzerained": 0,
+        "ConstructibleType": null,
+        "GenerateDuplicateIndividuals": 1,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_CONQUISTADOR",
+        "IconString": "unitflag_conquistador",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_UNIT_CONQUISTADOR_NAME",
+        "PopulationRequired": 0,
+        "PseudoYieldType": "PSEUDOYIELD_STANDING_ARMY_COMMANDER",
+        "UniqueQuarterType": "QUARTER_PLAZA",
+        "UnitType": "UNIT_CONQUISTADOR"
+    },
+    {
+        "ActionIcon": "action_greatperson",
+        "AvailableInTimeline": 0,
+        "CityStatesSuzerained": 0,
+        "ConstructibleType": "IMPROVEMENT_THING",
+        "GenerateDuplicateIndividuals": 1,
+        "GreatPersonClassType": "GREAT_PERSON_CLASS_SAGA_HERO",
+        "IconString": "unitflag_sagahero",
+        "MaxPlayerInstances": null,
+        "Name": "LOC_UNIT_SAGA_HERO_NAME",
+        "PopulationRequired": 0,
+        "PseudoYieldType": "PSEUDOYIELD_STANDING_ARMY_COMMANDER",
+        "UniqueQuarterType": null,
+        "UnitType": "UNIT_SAGA_HERO"
+    }
+]

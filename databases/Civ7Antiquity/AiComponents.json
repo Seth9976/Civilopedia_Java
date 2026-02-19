@@ -1,0 +1,254 @@
+[
+    {
+        "Broker": 0,
+        "Component": "BarbarianManager",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_HIGH",
+        "Producer": 0
+    },
+    {
+        "Broker": 1,
+        "Component": "BehaviorTreeManager",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "CityStateCulture",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "CityStateTechnology",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 0
+    },
+    {
+        "Broker": 1,
+        "Component": "ConstructibleBroker",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_HIGH",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Culture",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 1
+    },
+    {
+        "Broker": 0,
+        "Component": "Diplomatic",
+        "Consumer": 1,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 0
+    },
+    {
+        "Broker": 1,
+        "Component": "DiplomaticActionBroker",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_HIGH",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Economic",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "FreeUnitPool",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_LOW",
+        "Producer": 1
+    },
+    {
+        "Broker": 0,
+        "Component": "GrandStrategic",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_STRATEGIC",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "GreatPeople",
+        "Consumer": 1,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "GreatWorks",
+        "Consumer": 1,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Government",
+        "Consumer": 1,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Happiness",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Homeland",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_DEFAULT",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "IndependentStrategic",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_STRATEGIC",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "IndependentTactical",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_LOW",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "LandDevelopment",
+        "Consumer": 1,
+        "DefaultPriority": "AI_PRIORITY_HIGH",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Military",
+        "Consumer": 1,
+        "DefaultPriority": "AI_PRIORITY_HIGH",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Narrative",
+        "Consumer": 1,
+        "DefaultPriority": "AI_PRIORITY_LOW",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Leader",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Planning",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_PLANNING",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Production",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 0
+    },
+    {
+        "Broker": 1,
+        "Component": "ProjectBroker",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_HIGH",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Religion",
+        "Consumer": 1,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 0
+    },
+    {
+        "Broker": 1,
+        "Component": "ResearchBroker",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_HIGH",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "ScriptConsumer",
+        "Consumer": 1,
+        "DefaultPriority": "AI_PRIORITY_HIGH",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Technology",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_MEDIUM",
+        "Producer": 1
+    },
+    {
+        "Broker": 0,
+        "Component": "Tactical",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_LOW",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Trade",
+        "Consumer": 1,
+        "DefaultPriority": "AI_PRIORITY_DEFAULT",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Tribe_AI",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_HIGH",
+        "Producer": 0
+    },
+    {
+        "Broker": 1,
+        "Component": "UnitBroker",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_STRATEGIC",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "AI_Victory",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_STRATEGIC",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Targets_Antiquity",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_STRATEGIC",
+        "Producer": 0
+    },
+    {
+        "Broker": 0,
+        "Component": "Tribe_AI_Antiquity",
+        "Consumer": 0,
+        "DefaultPriority": "AI_PRIORITY_HIGH",
+        "Producer": 0
+    }
+]

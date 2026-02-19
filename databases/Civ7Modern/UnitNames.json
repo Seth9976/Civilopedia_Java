@@ -1,0 +1,852 @@
+[
+    {
+        "ID": 1,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_1ST"
+    },
+    {
+        "ID": 2,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_2ND"
+    },
+    {
+        "ID": 3,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_3RD"
+    },
+    {
+        "ID": 4,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_4TH"
+    },
+    {
+        "ID": 5,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_5TH"
+    },
+    {
+        "ID": 6,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_6TH"
+    },
+    {
+        "ID": 7,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_7TH"
+    },
+    {
+        "ID": 8,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_8TH"
+    },
+    {
+        "ID": 9,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_AIMED"
+    },
+    {
+        "ID": 10,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_ALPHA"
+    },
+    {
+        "ID": 11,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_ALPINE"
+    },
+    {
+        "ID": 12,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_ANGEL"
+    },
+    {
+        "ID": 13,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_ARMORED"
+    },
+    {
+        "ID": 14,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_BIG_RED"
+    },
+    {
+        "ID": 15,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_BLACK"
+    },
+    {
+        "ID": 16,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_BLOOD"
+    },
+    {
+        "ID": 17,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_BLOODY"
+    },
+    {
+        "ID": 18,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_BRAVE"
+    },
+    {
+        "ID": 19,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_BULL"
+    },
+    {
+        "ID": 20,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_CELESTIAL"
+    },
+    {
+        "ID": 21,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_COLONIAL"
+    },
+    {
+        "ID": 22,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_CRAZY"
+    },
+    {
+        "ID": 23,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_DEAD_CENTER"
+    },
+    {
+        "ID": 24,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_DEADLY"
+    },
+    {
+        "ID": 25,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_DEATHS"
+    },
+    {
+        "ID": 26,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_DELTA"
+    },
+    {
+        "ID": 27,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_DESERT"
+    },
+    {
+        "ID": 28,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_DIRTY"
+    },
+    {
+        "ID": 29,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_DRAGON"
+    },
+    {
+        "ID": 30,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_DRAWN"
+    },
+    {
+        "ID": 31,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_ELITE"
+    },
+    {
+        "ID": 32,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_FIGHTING"
+    },
+    {
+        "ID": 33,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_FLYING"
+    },
+    {
+        "ID": 34,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_GALLOPING"
+    },
+    {
+        "ID": 35,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_GHOST"
+    },
+    {
+        "ID": 36,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_GLORY"
+    },
+    {
+        "ID": 37,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_GOLDEN"
+    },
+    {
+        "ID": 38,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_GREAT"
+    },
+    {
+        "ID": 39,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_GREEN"
+    },
+    {
+        "ID": 40,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_GRIM"
+    },
+    {
+        "ID": 41,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_HADES"
+    },
+    {
+        "ID": 42,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_HELLISH"
+    },
+    {
+        "ID": 43,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_HELLS"
+    },
+    {
+        "ID": 44,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_HOLY"
+    },
+    {
+        "ID": 45,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_INVINCIBLE"
+    },
+    {
+        "ID": 46,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_IRON"
+    },
+    {
+        "ID": 47,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_JUNGLE"
+    },
+    {
+        "ID": 48,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_KINGS"
+    },
+    {
+        "ID": 49,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_LAVA"
+    },
+    {
+        "ID": 50,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_LIGHT"
+    },
+    {
+        "ID": 51,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_LIGHTNING"
+    },
+    {
+        "ID": 52,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_LION"
+    },
+    {
+        "ID": 53,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_LONG"
+    },
+    {
+        "ID": 54,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_MAGNIFICENT"
+    },
+    {
+        "ID": 55,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_MOUNTAIN"
+    },
+    {
+        "ID": 56,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_MOUNTED"
+    },
+    {
+        "ID": 57,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_NOMADIC"
+    },
+    {
+        "ID": 58,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_OLD"
+    },
+    {
+        "ID": 59,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_ORPHAN"
+    },
+    {
+        "ID": 60,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_PARTISAN"
+    },
+    {
+        "ID": 61,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_PRESIDENTS"
+    },
+    {
+        "ID": 62,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_QUEENS"
+    },
+    {
+        "ID": 63,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_RAGGED"
+    },
+    {
+        "ID": 64,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_RAINING"
+    },
+    {
+        "ID": 65,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_REVOLUTIONARY"
+    },
+    {
+        "ID": 66,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_RIVER"
+    },
+    {
+        "ID": 67,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_ROCK"
+    },
+    {
+        "ID": 68,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_ROYAL"
+    },
+    {
+        "ID": 69,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_SACRED"
+    },
+    {
+        "ID": 70,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_SALTY"
+    },
+    {
+        "ID": 71,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_SCREAMING"
+    },
+    {
+        "ID": 72,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_SEA"
+    },
+    {
+        "ID": 73,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_SHARP"
+    },
+    {
+        "ID": 74,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_SILENT"
+    },
+    {
+        "ID": 75,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_SOARING"
+    },
+    {
+        "ID": 76,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_STONE"
+    },
+    {
+        "ID": 77,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_STONEWALL"
+    },
+    {
+        "ID": 78,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_STORM"
+    },
+    {
+        "ID": 79,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_TALL"
+    },
+    {
+        "ID": 80,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_TEN"
+    },
+    {
+        "ID": 81,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_TERRIBLE"
+    },
+    {
+        "ID": 82,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_THUNDERING"
+    },
+    {
+        "ID": 83,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_TIMBER"
+    },
+    {
+        "ID": 84,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_TROPIC"
+    },
+    {
+        "ID": 85,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_TUNDRA"
+    },
+    {
+        "ID": 86,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_WALKING"
+    },
+    {
+        "ID": 87,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_WAR"
+    },
+    {
+        "ID": 88,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_WHITE"
+    },
+    {
+        "ID": 89,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_WILD"
+    },
+    {
+        "ID": 90,
+        "NameType": "PREFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_PREFIX_WINDING"
+    },
+    {
+        "ID": 91,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_BANNER"
+    },
+    {
+        "ID": 92,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_BASTARDS"
+    },
+    {
+        "ID": 93,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_BATTALION"
+    },
+    {
+        "ID": 94,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_BERETS"
+    },
+    {
+        "ID": 95,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_BODYGUARDS"
+    },
+    {
+        "ID": 96,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_BOOTS"
+    },
+    {
+        "ID": 97,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_BOYS"
+    },
+    {
+        "ID": 98,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_BRAVES"
+    },
+    {
+        "ID": 99,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_BRIGADE"
+    },
+    {
+        "ID": 100,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_BROTHERS"
+    },
+    {
+        "ID": 101,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_BUTCHERS"
+    },
+    {
+        "ID": 102,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_CAPS"
+    },
+    {
+        "ID": 103,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_CHAMPIONS"
+    },
+    {
+        "ID": 104,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_CIRCUS"
+    },
+    {
+        "ID": 105,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_COMPANY"
+    },
+    {
+        "ID": 106,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_COMRADES"
+    },
+    {
+        "ID": 107,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_CROSSES"
+    },
+    {
+        "ID": 108,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_CROWS"
+    },
+    {
+        "ID": 109,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_DEAD"
+    },
+    {
+        "ID": 110,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_DEMONS"
+    },
+    {
+        "ID": 111,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_DEVILS"
+    },
+    {
+        "ID": 112,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_DOGS"
+    },
+    {
+        "ID": 113,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_DOZEN"
+    },
+    {
+        "ID": 114,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_DRAGONS"
+    },
+    {
+        "ID": 115,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_EAGLES"
+    },
+    {
+        "ID": 116,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_EXCELLERS"
+    },
+    {
+        "ID": 117,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_FORCE"
+    },
+    {
+        "ID": 118,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_FUSILIERS"
+    },
+    {
+        "ID": 119,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_GAMBLERS"
+    },
+    {
+        "ID": 120,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_GANG"
+    },
+    {
+        "ID": 121,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_GARDE"
+    },
+    {
+        "ID": 122,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_GIANTS"
+    },
+    {
+        "ID": 123,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_GOONS"
+    },
+    {
+        "ID": 124,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_GRENADIERS"
+    },
+    {
+        "ID": 125,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_GUARD"
+    },
+    {
+        "ID": 126,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_GUARDIANS"
+    },
+    {
+        "ID": 127,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_HATS"
+    },
+    {
+        "ID": 128,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_HELMETS"
+    },
+    {
+        "ID": 129,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_HORDE"
+    },
+    {
+        "ID": 130,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_HOUNDS"
+    },
+    {
+        "ID": 131,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_HUNTERS"
+    },
+    {
+        "ID": 132,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_IMMORTALS"
+    },
+    {
+        "ID": 133,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_INFANTRY"
+    },
+    {
+        "ID": 134,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_IRONS"
+    },
+    {
+        "ID": 135,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_KILLERS"
+    },
+    {
+        "ID": 136,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_KINGS"
+    },
+    {
+        "ID": 137,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_LADS"
+    },
+    {
+        "ID": 138,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_LAMBS"
+    },
+    {
+        "ID": 139,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_LEGION"
+    },
+    {
+        "ID": 140,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_LIBERATORS"
+    },
+    {
+        "ID": 141,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_LINE"
+    },
+    {
+        "ID": 142,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_LIONS"
+    },
+    {
+        "ID": 143,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_MARTYRS"
+    },
+    {
+        "ID": 144,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_ONE"
+    },
+    {
+        "ID": 145,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_OWN"
+    },
+    {
+        "ID": 146,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_PANTHERS"
+    },
+    {
+        "ID": 147,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_PEACEMAKERS"
+    },
+    {
+        "ID": 148,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_PHANTOMS"
+    },
+    {
+        "ID": 149,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_PROFESSIONALS"
+    },
+    {
+        "ID": 150,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_RAIDERS"
+    },
+    {
+        "ID": 151,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_RAMPAGERS"
+    },
+    {
+        "ID": 152,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_REDS"
+    },
+    {
+        "ID": 153,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_REGIMENT"
+    },
+    {
+        "ID": 154,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_RELIABLES"
+    },
+    {
+        "ID": 155,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_SAINTS"
+    },
+    {
+        "ID": 156,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_SAVAGES"
+    },
+    {
+        "ID": 157,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_SEEKERS"
+    },
+    {
+        "ID": 158,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_SHIELDS"
+    },
+    {
+        "ID": 159,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_SHIRTS"
+    },
+    {
+        "ID": 160,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_SONS"
+    },
+    {
+        "ID": 161,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_TIGERS"
+    },
+    {
+        "ID": 162,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_TIMBERWOLVES"
+    },
+    {
+        "ID": 163,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_TOUGHS"
+    },
+    {
+        "ID": 164,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_TROOP"
+    },
+    {
+        "ID": 165,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_VOLUNTEERS"
+    },
+    {
+        "ID": 166,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_WARLORDS"
+    },
+    {
+        "ID": 167,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_WATCH"
+    },
+    {
+        "ID": 168,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_WIDOWMAKERS"
+    },
+    {
+        "ID": 169,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_WOLFHOUNDS"
+    },
+    {
+        "ID": 170,
+        "NameType": "SUFFIX_ARMY_ALL",
+        "TextKey": "LOC_ARMYNAME_SUFFIX_WOLVES"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "BackgroundImage": "citystatebackgroundculture.dds",
+        "Description": "TXT_KEY_MINOR_TRAIT_CULTURED",
+        "ID": 0,
+        "TraitIcon": "CityStateCultured.dds",
+        "TraitTitleIcon": "CityStatePopupTop200.dds",
+        "Type": "MINOR_TRAIT_CULTURED"
+    },
+    {
+        "BackgroundImage": "citystatebackgroundmilitary.dds",
+        "Description": "TXT_KEY_MINOR_TRAIT_MILITARISTIC",
+        "ID": 1,
+        "TraitIcon": "CityStateMilitaristic.dds",
+        "TraitTitleIcon": "CityStatePopupTop100.dds",
+        "Type": "MINOR_TRAIT_MILITARISTIC"
+    },
+    {
+        "BackgroundImage": "citystatebackgroundmaritime.dds",
+        "Description": "TXT_KEY_MINOR_TRAIT_MARITIME",
+        "ID": 2,
+        "TraitIcon": "CityStateMaritime.dds",
+        "TraitTitleIcon": "CityStatePopupTop300.dds",
+        "Type": "MINOR_TRAIT_MARITIME"
+    },
+    {
+        "BackgroundImage": "citystatebackgroundmercantile.dds",
+        "Description": "TXT_KEY_MINOR_TRAIT_MERCANTILE",
+        "ID": 3,
+        "TraitIcon": "CityStateMercantile.dds",
+        "TraitTitleIcon": "CityStatePopupTop500.dds",
+        "Type": "MINOR_TRAIT_MERCANTILE"
+    },
+    {
+        "BackgroundImage": "citystatebackgroundreligious.dds",
+        "Description": "TXT_KEY_MINOR_TRAIT_RELIGIOUS",
+        "ID": 4,
+        "TraitIcon": "CityStateReligious.dds",
+        "TraitTitleIcon": "CityStatePopupTop400.dds",
+        "Type": "MINOR_TRAIT_RELIGIOUS"
+    }
+]

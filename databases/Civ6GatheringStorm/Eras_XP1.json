@@ -1,0 +1,56 @@
+[
+    {
+        "EraType": "ERA_ANCIENT",
+        "GameEraMaximumTurns": 60,
+        "GameEraMinimumTurns": 40,
+        "LiberatedEnvoys": 2
+    },
+    {
+        "EraType": "ERA_CLASSICAL",
+        "GameEraMaximumTurns": 60,
+        "GameEraMinimumTurns": 40,
+        "LiberatedEnvoys": 3
+    },
+    {
+        "EraType": "ERA_MEDIEVAL",
+        "GameEraMaximumTurns": 60,
+        "GameEraMinimumTurns": 40,
+        "LiberatedEnvoys": 3
+    },
+    {
+        "EraType": "ERA_RENAISSANCE",
+        "GameEraMaximumTurns": 60,
+        "GameEraMinimumTurns": 40,
+        "LiberatedEnvoys": 6
+    },
+    {
+        "EraType": "ERA_INDUSTRIAL",
+        "GameEraMaximumTurns": 60,
+        "GameEraMinimumTurns": 40,
+        "LiberatedEnvoys": 6
+    },
+    {
+        "EraType": "ERA_MODERN",
+        "GameEraMaximumTurns": 60,
+        "GameEraMinimumTurns": 40,
+        "LiberatedEnvoys": 9
+    },
+    {
+        "EraType": "ERA_ATOMIC",
+        "GameEraMaximumTurns": 60,
+        "GameEraMinimumTurns": 40,
+        "LiberatedEnvoys": 9
+    },
+    {
+        "EraType": "ERA_INFORMATION",
+        "GameEraMaximumTurns": 60,
+        "GameEraMinimumTurns": 40,
+        "LiberatedEnvoys": 9
+    },
+    {
+        "EraType": "ERA_FUTURE",
+        "GameEraMaximumTurns": null,
+        "GameEraMinimumTurns": null,
+        "LiberatedEnvoys": 9
+    }
+]

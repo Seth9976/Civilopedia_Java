@@ -1,0 +1,787 @@
+[
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_FARM",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_MINE",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_MINE_RESOURCE",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_CLAY_PIT",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_CLAY_PIT_RESOURCE",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_WOODCUTTER",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_WOODCUTTER_RESOURCE",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_FISHING_BOAT",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_FISHING_BOAT_RESOURCE",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_CAMP",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_PASTURE",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_PLANTATION",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_QUARRY",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_OIL_RIG",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_EXPEDITION_BASE",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_ACADEMY",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_ALTAR",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 50,
+        "ConstructibleType": "BUILDING_AMPHITHEATER",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 50,
+        "ConstructibleType": "BUILDING_ANCIENT_BRIDGE",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_ARENA",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_BARRACKS",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_BATH",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_BLACKSMITH",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_BRICKYARD",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_FISHING_QUAY",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_GARDEN",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_GRANARY",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_LIBRARY",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_LIGHTHOUSE",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_MARKET",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_MONUMENT",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_SAW_PIT",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_VILLA",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_HARBOR",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_MASTABA",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_MORTUARY_TEMPLE",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_ODEON",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 50,
+        "ConstructibleType": "BUILDING_PARTHENON",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_DHARAMSHALA",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_VIHARA",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_JALAW",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_KUH_NAH",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_BASILICA",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_TEMPLE_OF_JUPITER",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_BARAY",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_HAN_GREAT_WALL",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_HAWELT",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_PAIRIDAEZA",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_POTKOP",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_HILLFORT",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_MEGALITH",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_SOUQ",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_ZIGGURAT",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_ICE_HOUSE",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_FESTIVAL_GROUNDS",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_ARMORER",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_BANK",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_BAZAAR",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_DUNGEON",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_GRISTMILL",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_GUILDHALL",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_HOSPITAL",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_KILN",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_MEDIEVAL_BRIDGE",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_MENAGERIE",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_OBSERVATORY",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_PAVILION",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_SAWMILL",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_SHIPYARD",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_STONECUTTER",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_TAVERN",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_TEMPLE",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_UNIVERSITY",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_WHARF",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_MADRASA",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_MOSQUE",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_ANJUVANNAM",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_MANIGRAMAM",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_CANDI_BENTAR",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_MERU",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_BAILEY",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_MOTTE",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_CASA_CONSISTORIAL",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_CASA_DE_CONTRATACION",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_CARAVANSERAI",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_LO_I_KALO",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_MING_GREAT_WALL",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_ORTOO",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_TERRACE_FARM",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_KASBAH",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_STONE_HEAD",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_TRADING_FACTORY",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_MONASTERY",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_SAQIYA",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_MINOR_EMBASSY",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 40,
+        "ConstructibleType": "BUILDING_ACADEMY_EX",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 50,
+        "ConstructibleType": "BUILDING_AMPHITHEATER_EX",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_AIRFIELD",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 360,
+        "ConstructibleType": "BUILDING_CANNERY",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_CITY_PARK",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_DEPARTMENT_STORE",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_FACTORY",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 360,
+        "ConstructibleType": "BUILDING_GROCER",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_LABORATORY",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_LAUNCH_PAD",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_MILITARY_ACADEMY",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_MUSEUM",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_OPERA_HOUSE",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 360,
+        "ConstructibleType": "BUILDING_PORT",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_RADIO_STATION",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 360,
+        "ConstructibleType": "BUILDING_RAIL_STATION",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_SCHOOLHOUSE",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_IRONWORKS",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 360,
+        "ConstructibleType": "BUILDING_STOCK_EXCHANGE",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 360,
+        "ConstructibleType": "BUILDING_TENEMENT",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 360,
+        "ConstructibleType": "BUILDING_MODERN_BRIDGE",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_RAILYARD",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_STEEL_MILL",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 360,
+        "ConstructibleType": "BUILDING_GINKO",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_JUKOGYO",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_FORMAL_GARDEN",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 360,
+        "ConstructibleType": "BUILDING_SALON",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_EXAMINATION_HALL",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 360,
+        "ConstructibleType": "BUILDING_MONEY_SHOP",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_BANG",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_KABAKAS_LAKE",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_OBSHCHINA",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_STEPWELL",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_SHORE_BATTERY",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_ENTREPOT",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_INSTITUTE",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_ABATTOIR",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_CIRCUS_FAIR",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 50,
+        "ConstructibleType": "BUILDING_UNIVERSITY_MO",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 50,
+        "ConstructibleType": "BUILDING_PLAGUE_HOSPITAL",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_HIDDEN_FORTRESS",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_COTHON",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_DOCKYARD",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_WATER_PUPPET_THEATER",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_THING",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_CAMII",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_HAMMAM",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 80,
+        "ConstructibleType": "BUILDING_NAVAL_ARSENAL",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_NAVAL_STATION",
+        "PlunderType": "PLUNDER_SCIENCE"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_MAWASKAWE_SKOTE",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_LECTURE_HALL",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_PAGODA",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_LANGI",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_VAI_KAUKAU",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 70,
+        "ConstructibleType": "BUILDING_ROYAL_EXCHANGE",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 70,
+        "ConstructibleType": "BUILDING_MANUFACTORY",
+        "PlunderType": "PLUNDER_GOLD"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "IMPROVEMENT_HIGHLAND_POWER_STATION",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_CITADEL",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 30,
+        "ConstructibleType": "BUILDING_ROYAL_LIBRARY",
+        "PlunderType": "PLUNDER_HEAL"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_GHAHVE_KHANE",
+        "PlunderType": "PLUNDER_CULTURE"
+    },
+    {
+        "Amount": 120,
+        "ConstructibleType": "BUILDING_TAKYEH",
+        "PlunderType": "PLUNDER_GOLD"
+    }
+]

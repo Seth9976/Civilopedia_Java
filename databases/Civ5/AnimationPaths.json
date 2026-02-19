@@ -1,0 +1,207 @@
+[
+    {
+        "ID": 0,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_IDLE"
+    },
+    {
+        "ID": 1,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_MOVE"
+    },
+    {
+        "ID": 2,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_DAMAGE"
+    },
+    {
+        "ID": 3,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_RANDOMIZE_ANIMATION_SET"
+    },
+    {
+        "ID": 4,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_NUKE_STRIKE"
+    },
+    {
+        "ID": 5,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_MELEE_STRIKE"
+    },
+    {
+        "ID": 6,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_MELEE_HURT"
+    },
+    {
+        "ID": 7,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_MELEE_DIE"
+    },
+    {
+        "ID": 8,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_MELEE_FORTIFIED"
+    },
+    {
+        "ID": 9,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_MELEE_DIE_FADE"
+    },
+    {
+        "ID": 10,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_MELEE_FLEE"
+    },
+    {
+        "ID": 11,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_RANGED_STRIKE"
+    },
+    {
+        "ID": 12,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_RANGED_DIE"
+    },
+    {
+        "ID": 13,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_RANGED_FORTIFIED"
+    },
+    {
+        "ID": 14,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_RANGED_RUNHIT"
+    },
+    {
+        "ID": 15,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_RANGED_RUNDIE"
+    },
+    {
+        "ID": 16,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_RANGED_DIE_FADE"
+    },
+    {
+        "ID": 17,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_LEADER_COMMAND"
+    },
+    {
+        "ID": 18,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_AIRFADEIN"
+    },
+    {
+        "ID": 19,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_AIRFADEOUT"
+    },
+    {
+        "ID": 20,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_AIRSTRIKE"
+    },
+    {
+        "ID": 21,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_AIRBOMB"
+    },
+    {
+        "ID": 22,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_HEAL"
+    },
+    {
+        "ID": 23,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_SLEEP"
+    },
+    {
+        "ID": 24,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_FORTIFY"
+    },
+    {
+        "ID": 25,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_MELEE_FORTIFY"
+    },
+    {
+        "ID": 26,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_PILLAGE"
+    },
+    {
+        "ID": 27,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_SENTRY"
+    },
+    {
+        "ID": 28,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_FOUND"
+    },
+    {
+        "ID": 29,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_IRRIGATE"
+    },
+    {
+        "ID": 30,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_BUILD"
+    },
+    {
+        "ID": 31,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_MINE"
+    },
+    {
+        "ID": 32,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_CHOP"
+    },
+    {
+        "ID": 33,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_SHOVEL"
+    },
+    {
+        "ID": 34,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_RAILROAD"
+    },
+    {
+        "ID": 35,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_SABOTAGE"
+    },
+    {
+        "ID": 36,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_DESTROY"
+    },
+    {
+        "ID": 37,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_STEAL_PLANS"
+    },
+    {
+        "ID": 38,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_GREAT_EVENT"
+    },
+    {
+        "ID": 39,
+        "MissionPath": 1,
+        "Type": "ANIMATIONPATH_SURRENDER"
+    },
+    {
+        "ID": 40,
+        "MissionPath": 0,
+        "Type": "ANIMATIONPATH_AIRPATROL"
+    }
+]

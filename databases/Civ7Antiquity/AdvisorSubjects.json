@@ -1,0 +1,82 @@
+[
+    {
+        "AdvisorType": "ADVISOR_MILITARY",
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_PRODUCTION"
+    },
+    {
+        "AdvisorType": "ADVISOR_MILITARY",
+        "AdvisoryClassType": "ADVISORY_CLASS_OFFENSE",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_PRODUCTION"
+    },
+    {
+        "AdvisorType": "ADVISOR_MILITARY",
+        "AdvisoryClassType": "ADVISORY_CLASS_DEFENSE",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_PRODUCTION"
+    },
+    {
+        "AdvisorType": "ADVISOR_MILITARY",
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_CHOOSE_TECH"
+    },
+    {
+        "AdvisorType": "ADVISOR_MILITARY",
+        "AdvisoryClassType": "ADVISORY_CLASS_MILITARY",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_CHOOSE_CULTURE"
+    },
+    {
+        "AdvisorType": "ADVISOR_CULTURE",
+        "AdvisoryClassType": "ADVISORY_CLASS_CULTURE",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_PRODUCTION"
+    },
+    {
+        "AdvisorType": "ADVISOR_CULTURE",
+        "AdvisoryClassType": "ADVISORY_CLASS_CULTURE",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_CHOOSE_TECH"
+    },
+    {
+        "AdvisorType": "ADVISOR_CULTURE",
+        "AdvisoryClassType": "ADVISORY_CLASS_CULTURE",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_CHOOSE_CULTURE"
+    },
+    {
+        "AdvisorType": "ADVISOR_SCIENCE",
+        "AdvisoryClassType": "ADVISORY_CLASS_SCIENCE",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_PRODUCTION"
+    },
+    {
+        "AdvisorType": "ADVISOR_SCIENCE",
+        "AdvisoryClassType": "ADVISORY_CLASS_SCIENCE",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_CHOOSE_TECH"
+    },
+    {
+        "AdvisorType": "ADVISOR_SCIENCE",
+        "AdvisoryClassType": "ADVISORY_CLASS_SCIENCE",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_CHOOSE_CULTURE"
+    },
+    {
+        "AdvisorType": "ADVISOR_ECONOMIC",
+        "AdvisoryClassType": "ADVISORY_CLASS_ECONOMIC",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_PRODUCTION"
+    },
+    {
+        "AdvisorType": "ADVISOR_ECONOMIC",
+        "AdvisoryClassType": "ADVISORY_CLASS_FOOD",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_PRODUCTION"
+    },
+    {
+        "AdvisorType": "ADVISOR_ECONOMIC",
+        "AdvisoryClassType": "ADVISORY_CLASS_EMPIRE_EXPANSION",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_PRODUCTION"
+    },
+    {
+        "AdvisorType": "ADVISOR_ECONOMIC",
+        "AdvisoryClassType": "ADVISORY_CLASS_ECONOMIC",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_CHOOSE_TECH"
+    },
+    {
+        "AdvisorType": "ADVISOR_ECONOMIC",
+        "AdvisoryClassType": "ADVISORY_CLASS_ECONOMIC",
+        "AdvisorySubjectType": "ADVISORY_SUBJECT_CHOOSE_CULTURE"
+    }
+]

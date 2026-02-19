@@ -1,0 +1,23 @@
+[
+    {
+        "FirstTreeNode": "NODE_CIVIC_MO_BRANCH_COMMUNISM",
+        "IdeologyType": "IDEOLOGY_COMMUNISM",
+        "Name": "LOC_IDEOLOGY_COMMUNISM_NAME",
+        "ProgressionTreeType": "TREE_CIVIC_MO_BRANCH_COMMUNISM",
+        "RivalIdeology": "IDEOLOGY_DEMOCRACY"
+    },
+    {
+        "FirstTreeNode": "NODE_CIVIC_MO_BRANCH_DEMOCRACY",
+        "IdeologyType": "IDEOLOGY_DEMOCRACY",
+        "Name": "LOC_IDEOLOGY_DEMOCRACY_NAME",
+        "ProgressionTreeType": "TREE_CIVIC_MO_BRANCH_DEMOCRACY",
+        "RivalIdeology": "IDEOLOGY_FASCISM"
+    },
+    {
+        "FirstTreeNode": "NODE_CIVIC_MO_BRANCH_FASCISM",
+        "IdeologyType": "IDEOLOGY_FASCISM",
+        "Name": "LOC_IDEOLOGY_FASCISM_NAME",
+        "ProgressionTreeType": "TREE_CIVIC_MO_BRANCH_FASCISM",
+        "RivalIdeology": "IDEOLOGY_COMMUNISM"
+    }
+]

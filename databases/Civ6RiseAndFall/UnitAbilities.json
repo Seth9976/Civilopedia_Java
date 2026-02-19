@@ -1,0 +1,1522 @@
+[
+    {
+        "Description": "LOC_ABILITY_ANTI_CAVALRY_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_ANTI_CAVALRY_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ANTI_CAVALRY"
+    },
+    {
+        "Description": "LOC_ABILITY_HEAVY_CHARIOT_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_HEAVY_CHARIOT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HEAVY_CHARIOT"
+    },
+    {
+        "Description": "LOC_ABILITY_IGNORE_TERRAIN_COST_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_IGNORE_TERRAIN_COST_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_IGNORE_TERRAIN_COST"
+    },
+    {
+        "Description": "LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_IGNORE_CROSSING_RIVERS_COST"
+    },
+    {
+        "Description": "LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS"
+    },
+    {
+        "Description": "LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS"
+    },
+    {
+        "Description": "LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST"
+    },
+    {
+        "Description": "LOC_ABILITY_IGNORE_ZOC_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_IGNORE_ZOC_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_IGNORE_ZOC"
+    },
+    {
+        "Description": "LOC_ABILITY_LIGHT_CHARIOT_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_LIGHT_CHARIOT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_LIGHT_CHARIOT"
+    },
+    {
+        "Description": "LOC_ABILITY_NO_MOVE_AND_SHOOT_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_NO_MOVE_AND_SHOOT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_NO_MOVE_AND_SHOOT"
+    },
+    {
+        "Description": "LOC_ABILITY_ENABLE_WALL_ATTACK_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_ENABLE_WALL_ATTACK_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ENABLE_WALL_ATTACK"
+    },
+    {
+        "Description": "LOC_ABILITY_BYPASS_WALLS_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_BYPASS_WALLS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_BYPASS_WALLS"
+    },
+    {
+        "Description": "LOC_ABILITY_ANTI_SPEAR_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_ANTI_SPEAR_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ANTI_SPEAR"
+    },
+    {
+        "Description": "LOC_ABILITY_GRANT_RANGE_BONUS_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_GRANT_RANGE_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GRANT_RANGE_BONUS"
+    },
+    {
+        "Description": null,
+        "Inactive": 0,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_RECEIVE_RANGE_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_UNOBSTRUCTED_VIEW_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_UNOBSTRUCTED_VIEW_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_UNOBSTRUCTED_VIEW"
+    },
+    {
+        "Description": "LOC_ABILITY_OBSERVATION_STRENGTH_BONUS_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_OBSERVATION_STRENGTH_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_OBSERVATION_STRENGTH_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_RELIGIOUS_CANNOT_ATTACK"
+    },
+    {
+        "Description": "LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_FRIENDLY_TERRITORY_RELIGIOUS"
+    },
+    {
+        "Description": "LOC_ABILITY_NO_FOREIGN_SPREAD_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_NO_FOREIGN_SPREAD_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_NO_FOREIGN_SPREAD"
+    },
+    {
+        "Description": null,
+        "Inactive": 1,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_OLIGARCHY_MELEE_BUFF"
+    },
+    {
+        "Description": null,
+        "Inactive": 1,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_THEOCRACY_RELIGIOUS_BUFF"
+    },
+    {
+        "Description": null,
+        "Inactive": 1,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_RELIGIOUS_ORDERS_BUFF"
+    },
+    {
+        "Description": null,
+        "Inactive": 1,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_FASCISM_ATTACK_BUFF"
+    },
+    {
+        "Description": null,
+        "Inactive": 1,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_COMMUNISM_DEFENSE_BUFF"
+    },
+    {
+        "Description": "LOC_ABILITY_MEDIC_HEAL_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_MEDIC_HEAL_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_MEDIC_HEAL"
+    },
+    {
+        "Description": "LOC_ABILITY_STEALTH_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_STEALTH_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_STEALTH"
+    },
+    {
+        "Description": "LOC_ABILITY_SEE_HIDDEN_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_SEE_HIDDEN_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SEE_HIDDEN"
+    },
+    {
+        "Description": "LOC_ABILITY_COASTAL_RAID_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_COASTAL_RAID_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_COASTAL_RAID"
+    },
+    {
+        "Description": "LOC_ABILITY_MELEE_COASTAL_RAID_NAME_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_MELEE_COASTAL_RAID_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_MELEE_COASTAL_RAID"
+    },
+    {
+        "Description": "LOC_ABILITY_BYPASS_COMBAT_UNIT_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_BYPASS_COMBAT_UNIT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_BYPASS_COMBAT_UNIT"
+    },
+    {
+        "Description": "LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HEAL_NEUTRAL_TERRITORY"
+    },
+    {
+        "Description": "LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA"
+    },
+    {
+        "Description": "LOC_ABILITY_BERSERKER_RAGE_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_BERSERKER_RAGE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_BERSERKER_RAGE"
+    },
+    {
+        "Description": "LOC_ABILITY_BERSERKER_MOVEMENT_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_BERSERKER_MOVEMENT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_BERSERKER_MOVEMENT"
+    },
+    {
+        "Description": "LOC_ABILITY_LONGSHIP_MOVEMENT_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_LONGSHIP_MOVEMENT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_LONGSHIP_MOVEMENT"
+    },
+    {
+        "Description": "LOC_ABILITY_PRIZE_SHIPS_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_PRIZE_SHIPS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_PRIZE_SHIPS"
+    },
+    {
+        "Description": "LOC_ABILITY_CAPTIVE_WORKERS_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_CAPTIVE_WORKERS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_CAPTIVE_WORKERS"
+    },
+    {
+        "Description": "LOC_ABILITY_BALKAN_CAVALRY_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_BALKAN_CAVALRY_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_BALKAN_CAVALRY"
+    },
+    {
+        "Description": "LOC_ABILITY_ALTITUDE_TRAINING_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_ALTITUDE_TRAINING_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 1,
+        "UnitAbilityType": "ABILITY_ALTITUDE_TRAINING"
+    },
+    {
+        "Description": "LOC_ABILITY_COSSACK_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_COSSACK_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_COSSACK"
+    },
+    {
+        "Description": "LOC_ABILITY_REDCOAT_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_REDCOAT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_REDCOAT"
+    },
+    {
+        "Description": "LOC_ABILITY_VARU_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_VARU_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_VARU"
+    },
+    {
+        "Description": "LOC_ABILITY_NAGAO_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_NAGAO_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_NAGAO"
+    },
+    {
+        "Description": "LOC_ABILITY_CONQUISTADOR_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_CONQUISTADOR_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_CONQUISTADOR"
+    },
+    {
+        "Description": "LOC_ABILITY_GARDE_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_GARDE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GARDE"
+    },
+    {
+        "Description": "LOC_ABILITY_HOPLITE_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_HOPLITE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HOPLITE"
+    },
+    {
+        "Description": "LOC_ABILITY_UBOAT_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_UBOAT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_UBOAT"
+    },
+    {
+        "Description": "LOC_ABILITY_ROUGH_RIDER_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_ROUGH_RIDER_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ROUGH_RIDER"
+    },
+    {
+        "Description": "LOC_ABILITY_MUSTANG_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_MUSTANG_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_MUSTANG"
+    },
+    {
+        "Description": "LOC_ABILITY_MAMLUK_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_MAMLUK_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_MAMLUK"
+    },
+    {
+        "Description": "LOC_ABILITY_SAMURAI_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_SAMURAI_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SAMURAI"
+    },
+    {
+        "Description": "LOC_ABILITY_PUSHBACK_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_PUSHBACK",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_PUSHBACK"
+    },
+    {
+        "Description": "LOC_ABILITY_DIGGER_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_DIGGER_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_DIGGER"
+    },
+    {
+        "Description": "LOC_ABILITY_GREAT_ADMIRAL_MOVEMENT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_GREAT_ADMIRAL_MOVEMENT_NAME",
+        "Permanent": 0,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GREAT_ADMIRAL_MOVEMENT"
+    },
+    {
+        "Description": "LOC_GREATPERSON_COMBAT_STRENGTH_AOE_SEA_MODIFIER",
+        "Inactive": 1,
+        "Name": "LOC_GREAT_PERSON_CLASS_ADMIRAL_NAME",
+        "Permanent": 0,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GREAT_ADMIRAL_STRENGTH"
+    },
+    {
+        "Description": "LOC_ABILITY_GREAT_GENERAL_MOVEMENT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_GREAT_GENERAL_MOVEMENT_NAME",
+        "Permanent": 0,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GREAT_GENERAL_MOVEMENT"
+    },
+    {
+        "Description": "LOC_GREATPERSON_COMBAT_STRENGTH_AOE_LAND_MODIFIER",
+        "Inactive": 1,
+        "Name": "LOC_GREAT_PERSON_CLASS_GENERAL_NAME",
+        "Permanent": 0,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GREAT_GENERAL_STRENGTH"
+    },
+    {
+        "Description": "LOC_ABILITY_BARRACKS_TRAINED_UNIT_XP_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_BARRACKS_TRAINED_UNIT_XP_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_BARRACKS_TRAINED_UNIT_XP"
+    },
+    {
+        "Description": "LOC_ABILITY_STABLE_TRAINED_UNIT_XP_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_STABLE_TRAINED_UNIT_XP_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_STABLE_TRAINED_UNIT_XP"
+    },
+    {
+        "Description": "LOC_ABILITY_ARMORY_TRAINED_UNIT_XP_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_ARMORY_TRAINED_UNIT_XP_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ARMORY_TRAINED_UNIT_XP"
+    },
+    {
+        "Description": "LOC_ABILITY_MILITARY_ACADEMY_TRAINED_UNIT_XP_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_MILITARY_ACADEMY_TRAINED_UNIT_XP_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_MILITARY_ACADEMY_TRAINED_UNIT_XP"
+    },
+    {
+        "Description": "LOC_ABILITY_LIGHTHOUSE_TRAINED_UNIT_XP_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_LIGHTHOUSE_TRAINED_UNIT_XP_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_LIGHTHOUSE_TRAINED_UNIT_XP"
+    },
+    {
+        "Description": "LOC_ABILITY_SHIPYARD_TRAINED_UNIT_XP_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_SHIPYARD_TRAINED_UNIT_XP_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SHIPYARD_TRAINED_UNIT_XP"
+    },
+    {
+        "Description": "LOC_ABILITY_SEAPORT_TRAINED_UNIT_XP_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_SEAPORT_TRAINED_UNIT_XP_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SEAPORT_TRAINED_UNIT_XP"
+    },
+    {
+        "Description": "LOC_ABILITY_HANGAR_TRAINED_AIRCRAFT_XP_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_HANGAR_TRAINED_AIRCRAFT_XP_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HANGAR_TRAINED_AIRCRAFT_XP"
+    },
+    {
+        "Description": "LOC_ABILITY_AIRPORT_TRAINED_AIRCRAFT_XP_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_AIRPORT_TRAINED_AIRCRAFT_XP_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_AIRPORT_TRAINED_AIRCRAFT_XP"
+    },
+    {
+        "Description": "LOC_ABILITY_ROYAL_NAVY_DOCKYARD_MOVEMENT_BONUS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_ROYAL_NAVY_DOCKYARD_MOVEMENT_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ROYAL_NAVY_DOCKYARD_MOVEMENT_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_ROMAN_LEGION_BUILD_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_ROMAN_LEGION_BUILD_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ROMAN_LEGION_BUILD"
+    },
+    {
+        "Description": "LOC_ABILITY_GREAT_LIGHTHOUSE_MOVEMENT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_GREAT_LIGHTHOUSE_MOVEMENT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GREAT_LIGHTHOUSE_MOVEMENT"
+    },
+    {
+        "Description": "LOC_ABILITY_GREAT_LIGHTHOUSE_EMBARKED_MOVEMENT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_GREAT_LIGHTHOUSE_EMBARKED_MOVEMENT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GREAT_LIGHTHOUSE_EMBARKED_MOVEMENT"
+    },
+    {
+        "Description": "LOC_ABILITY_RAJENDRA_CHOLA_PLUNDER_BONUS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_RAJENDRA_CHOLA_PLUNDER_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_RAJENDRA_CHOLA_PLUNDER_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_FRANCIS_DRAKE_PLUNDER_BONUS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_FRANCIS_DRAKE_PLUNDER_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_FRANCIS_DRAKE_PLUNDER_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_CHING_SHIH_PLUNDER_BONUS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_CHING_SHIH_PLUNDER_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_CHING_SHIH_PLUNDER_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_CLANCY_FERNANDO_BONUS_EXPERIENCE_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_CLANCY_FERNANDO_BONUS_EXPERIENCE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_CLANCY_FERNANDO_BONUS_EXPERIENCE"
+    },
+    {
+        "Description": "LOC_ABILITY_HORATIO_NELSON_FLANKING_BONUS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_HORATIO_NELSON_FLANKING_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HORATIO_NELSON_FLANKING_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_LASKARINA_BOUBOULINA_BONUS_EXPERIENCE_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_LASKARINA_BOUBOULINA_BONUS_EXPERIENCE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_LASKARINA_BOUBOULINA_BONUS_EXPERIENCE"
+    },
+    {
+        "Description": "LOC_ABILITY_SERGEY_GORSHKOV_BONUS_EXPERIENCE_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_SERGEY_GORSHKOV_BONUS_EXPERIENCE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SERGEY_GORSHKOV_BONUS_EXPERIENCE"
+    },
+    {
+        "Description": "LOC_ABILITY_GEORGY_ZHUKOV_FLANKING_BONUS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_GEORGY_ZHUKOV_FLANKING_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GEORGY_ZHUKOV_FLANKING_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_JOHN_MONASH_BONUS_EXPERIENCE_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_JOHN_MONASH_BONUS_EXPERIENCE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_JOHN_MONASH_BONUS_EXPERIENCE"
+    },
+    {
+        "Description": "LOC_ABILITY_VIJAYA_WIMALARATNE_BONUS_EXPERIENCE_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_VIJAYA_WIMALARATNE_BONUS_EXPERIENCE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_VIJAYA_WIMALARATNE_BONUS_EXPERIENCE"
+    },
+    {
+        "Description": "LOC_ABILITY_HOJO_TOKIMUNE_COASTAL_COMBAT_BONUS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_HOJO_TOKIMUNE_COASTAL_COMBAT_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HOJO_TOKIMUNE_COASTAL_COMBAT_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_HOJO_TOKIMUNE_SHALLOW_WATER_COMBAT_BONUS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_HOJO_TOKIMUNE_SHALLOW_WATER_COMBAT_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HOJO_TOKIMUNE_SHALLOW_WATER_COMBAT_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_MONTEZUMA_COMBAT_BONUS_PER_LUXURY_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_MONTEZUMA_COMBAT_BONUS_PER_LUXURY_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_MONTEZUMA_COMBAT_BONUS_PER_LUXURY"
+    },
+    {
+        "Description": "LOC_ABILITY_PHILIP_II_COMBAT_BONUS_OTHER_RELIGION_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_PHILIP_II_COMBAT_BONUS_OTHER_RELIGION_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_PHILIP_II_COMBAT_BONUS_OTHER_RELIGION"
+    },
+    {
+        "Description": "LOC_ABILITY_BARBAROSSA_COMBAT_BONUS_VS_CITY_STATES_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_BARBAROSSA_COMBAT_BONUS_VS_CITY_STATES_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_BARBAROSSA_COMBAT_BONUS_VS_CITY_STATES"
+    },
+    {
+        "Description": "LOC_ABILITY_ROOSEVELT_COMBAT_BONUS_HOME_CONTINENT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_ROOSEVELT_COMBAT_BONUS_HOME_CONTINENT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ROOSEVELT_COMBAT_BONUS_HOME_CONTINENT"
+    },
+    {
+        "Description": "LOC_ABILITY_TOMYRIS_BONUS_VS_WOUNDED_UNITS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_TOMYRIS_BONUS_VS_WOUNDED_UNITS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_TOMYRIS_BONUS_VS_WOUNDED_UNITS"
+    },
+    {
+        "Description": "LOC_ABILITY_TOMYRIS_HEAL_AFTER_DEFEATING_UNIT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_TOMYRIS_HEAL_AFTER_DEFEATING_UNIT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_TOMYRIS_HEAL_AFTER_DEFEATING_UNIT"
+    },
+    {
+        "Description": "LOC_ABILITY_KNARR_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_KNARR_IGNORE_EMBARK_DISEMBARK_COST_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_KNARR_IGNORE_EMBARK_DISEMBARK_COST"
+    },
+    {
+        "Description": "LOC_ABILITY_GORGO_POLICY_SLOT_COMBAT_BONUS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_GORGO_POLICY_SLOT_COMBAT_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GORGO_POLICY_SLOT_COMBAT_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_RANGED_ATTACK_DISTRICT_DEBUFF_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_RANGED_ATTACK_DISTRICT_DEBUFF_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_RANGED_ATTACK_DISTRICT_DEBUFF"
+    },
+    {
+        "Description": "LOC_ABILITY_BOMBARD_ATTACK_UNIT_DEBUFF_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_BOMBARD_ATTACK_UNIT_DEBUFF_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_BOMBARD_ATTACK_UNIT_DEBUFF"
+    },
+    {
+        "Description": "LOC_ABILITY_AIR_FIGHTER_ATTACK_DISTRICT_DEBUFF_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_AIR_FIGHTER_ATTACK_DISTRICT_DEBUFF_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_AIR_FIGHTER_ATTACK_DISTRICT_DEBUFF"
+    },
+    {
+        "Description": "LOC_ABILITY_AIR_BOMBER_ATTACK_UNIT_DEBUFF_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_AIR_BOMBER_ATTACK_UNIT_DEBUFF_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_AIR_BOMBER_ATTACK_UNIT_DEBUFF"
+    },
+    {
+        "Description": "LOC_ABILITY_ANTI_AIR_COVER_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_ANTI_AIR_COVER_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ANTI_AIR_COVER"
+    },
+    {
+        "Description": "LOC_ABILITY_JONG_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_JONG_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_JONG"
+    },
+    {
+        "Description": "LOC_ABILITY_MARTYR_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_PROMOTION_MARTYR_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_MARTYR"
+    },
+    {
+        "Description": "LOC_ABILITY_GITARJA_RELIGIOUS_NO_EMBARK_DISEMBARK_COST_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_GITARJA_RELIGIOUS_NO_EMBARK_DISEMBARK_COST_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GITARJA_RELIGIOUS_NO_EMBARK_DISEMBARK_COST"
+    },
+    {
+        "Description": "LOC_ABILITY_SPEAR_OF_FIONN_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_SPEAR_OF_FIONN_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 1,
+        "UnitAbilityType": "ABILITY_SPEAR_OF_FIONN"
+    },
+    {
+        "Description": "LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER"
+    },
+    {
+        "Description": "LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT"
+    },
+    {
+        "Description": "LOC_ABILITY_MYSTERIOUS_CURRENTS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_MYSTERIOUS_CURRENTS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 1,
+        "UnitAbilityType": "ABILITY_MYSTERIOUS_CURRENTS"
+    },
+    {
+        "Description": "LOC_ABILITY_WATER_OF_LIFE_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_WATER_OF_LIFE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 1,
+        "UnitAbilityType": "ABILITY_WATER_OF_LIFE"
+    },
+    {
+        "Description": "LOC_ABILITY_COMANDANTE_AOE_MOVEMENT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_COMANDANTE_AOE_MOVEMENT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_COMANDANTE_AOE_MOVEMENT"
+    },
+    {
+        "Description": "LOC_ABILITY_COMANDANTE_AOE_STRENGTH_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_COMANDANTE_AOE_STRENGTH_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_COMANDANTE_AOE_STRENGTH"
+    },
+    {
+        "Description": "LOC_ABILITY_COMMANDANTE_CAVALRY_BUFF_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_COMMANDANTE_CAVALRY_BUFF_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_COMMANDANTE_CAVALRY_BUFF"
+    },
+    {
+        "Description": "LOC_ABILITY_COMMANDANTE_MELEE_ANTICAV_BUFF_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_COMMANDANTE_MELEE_ANTICAV_BUFF_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_COMMANDANTE_MELEE_ANTICAV_BUFF"
+    },
+    {
+        "Description": "LOC_ABILITY_COMMANDANTE_UNIT_STRENGTH_BUFF_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_COMMANDANTE_UNIT_STRENGTH_BUFF_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_COMMANDANTE_UNIT_STRENGTH_BUFF"
+    },
+    {
+        "Description": "LOC_ABILITY_COMMANDANTE_UNIT_STR_VS_DISTRICTS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_COMMANDANTE_UNIT_STR_VS_DISTRICTS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_COMMANDANTE_UNIT_STR_VS_DISTRICTS"
+    },
+    {
+        "Description": "LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL"
+    },
+    {
+        "Description": "LOC_ABILITY_HULCHE_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_HULCHE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HULCHE"
+    },
+    {
+        "Description": "LOC_ABILITY_NIHANG_BARRACKS_STRENGTH_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_NIHANG_BARRACKS_STRENGTH_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_NIHANG_BARRACKS_STRENGTH"
+    },
+    {
+        "Description": "LOC_ABILITY_NIHANG_ARMORY_STRENGTH_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_NIHANG_ARMORY_STRENGTH_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_NIHANG_ARMORY_STRENGTH"
+    },
+    {
+        "Description": "LOC_ABILITY_NIHANG_ACADEMY_STRENGTH_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_NIHANG_ACADEMY_STRENGTH_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_NIHANG_ACADEMY_STRENGTH"
+    },
+    {
+        "Description": "LOC_ABILITY_LLANERO_ADJACENCY_STRENGTH_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_LLANERO_ADJACENCY_STRENGTH_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_LLANERO_ADJACENCY_STRENGTH"
+    },
+    {
+        "Description": "LOC_ABILITY_HYPASPIST_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_HYPASPIST_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HYPASPIST"
+    },
+    {
+        "Description": "LOC_ABILITY_HETAIROI_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_HETAIROI_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HETAIROI"
+    },
+    {
+        "Description": "LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_BASILIKOI_TRAINED_UNIT_XP"
+    },
+    {
+        "Description": "LOC_ABILITY_ALPINE_TRAINING__DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_ALPINE_TRAINING_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 1,
+        "UnitAbilityType": "ABILITY_ALPINE_TRAINING"
+    },
+    {
+        "Description": "LOC_ABILITY_ORDU_TRAINED_UNIT_XP_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_ORDU_TRAINED_UNIT_XP_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ORDU_TRAINED_UNIT_XP"
+    },
+    {
+        "Description": "LOC_ABILITY_ORDU_INCREASED_MOVEMENT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_ORDU_INCREASED_MOVEMENT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ORDU_INCREASED_MOVEMENT"
+    },
+    {
+        "Description": null,
+        "Inactive": 1,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY"
+    },
+    {
+        "Description": null,
+        "Inactive": 1,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_TWILIGHT_VALOR_ATTACK_BONUS"
+    },
+    {
+        "Description": null,
+        "Inactive": 1,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_PARADROP_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_PARADROP_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_PARADROP"
+    },
+    {
+        "Description": null,
+        "Inactive": 0,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_RECEIVE_BOMBARD_STRENGTH_BUFF"
+    },
+    {
+        "Description": "LOC_ABILITY_SCOTTISH_HIGHLANDER_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_SCOTTISH_HIGHLANDER_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SCOTTISH_HIGHLANDER"
+    },
+    {
+        "Description": "LOC_ABILITY_MONGOLIAN_KESHIG_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_MONGOLIAN_KESHIG_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_MONGOLIAN_KESHIG"
+    },
+    {
+        "Description": "LOC_ABILITY_DUTCH_ZEVEN_PROVINCIEN_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_DUTCH_ZEVEN_PROVINCIEN_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_DUTCH_ZEVEN_PROVINCIEN"
+    },
+    {
+        "Description": "LOC_ABILITY_GEORGIAN_KHEVSURETI_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_GEORGIAN_KHEVSURETI_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GEORGIAN_KHEVSURETI"
+    },
+    {
+        "Description": "LOC_ABILITY_MAPUCHE_MALON_RAIDER_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_MAPUCHE_MALON_RAIDER_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_MAPUCHE_MALON_RAIDER"
+    },
+    {
+        "Description": "LOC_ABILITY_CREE_OKIHTCITAW_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_CREE_OKIHTCITAW_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_CREE_OKIHTCITAW"
+    },
+    {
+        "Description": "LOC_ABILITY_ZULU_IMPI_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_ZULU_IMPI_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ZULU_IMPI"
+    },
+    {
+        "Description": null,
+        "Inactive": 1,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_OLIGARCHY_LEGACY_MELEE_BUFF"
+    },
+    {
+        "Description": null,
+        "Inactive": 1,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_THEOCRACY_LEGACY_RELIGIOUS_BUFF"
+    },
+    {
+        "Description": null,
+        "Inactive": 1,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_FASCISM_LEGACY_ATTACK_BUFF"
+    },
+    {
+        "Description": "LOC_ABILITY_GRANT_MOVEMENT_BONUS_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_GRANT_MOVEMENT_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GRANT_MOVEMENT_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_TOQUI_XP_FROM_GOVERNOR_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_TOQUI_XP_FROM_GOVERNOR_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_TOQUI_XP_FROM_GOVERNOR"
+    },
+    {
+        "Description": "LOC_ABILITY_TOQUI_XP_FROM_GOVERNOR_NOT_FOUNDED_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_TOQUI_XP_FROM_GOVERNOR_NOT_FOUNDED_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_TOQUI_XP_FROM_GOVERNOR_NOT_FOUNDED"
+    },
+    {
+        "Description": null,
+        "Inactive": 1,
+        "Name": null,
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_TOQUI_COMBAT_BUFF_VS_GOLDEN_AGE"
+    },
+    {
+        "Description": "LOC_ABILITY_TIMUR_BONUS_EXPERIENCE_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_TIMUR_BONUS_EXPERIENCE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_TIMUR_BONUS_EXPERIENCE"
+    },
+    {
+        "Description": "LOC_ABILITY_DRONE_GRANT_SIEGE_BONUS_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_DRONE_GRANT_SIEGE_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_DRONE_GRANT_SIEGE_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_GENGHIS_KHAN_CAVALRY_BONUS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_GENGHIS_KHAN_CAVALRY_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GENGHIS_KHAN_CAVALRY_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_GENGHIS_KHAN_CAVALRY_CAPTURE_CAVALRY_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_GENGHIS_KHAN_CAVALRY_CAPTURE_CAVALRY_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GENGHIS_KHAN_CAVALRY_CAPTURE_CAVALRY"
+    },
+    {
+        "Description": "LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_MENELIK_HILLS_COMBAT"
+    },
+    {
+        "Description": "LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ETHIOPIAN_OROMO_CAVALRY"
+    },
+    {
+        "Description": "LOC_ABILITY_SPREAD_DISSENT_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_SPREAD_DISSENT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SPREAD_DISSENT"
+    },
+    {
+        "Description": "LOC_ABILITY_CULTIST_RELIC_ON_DEATH_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_CULTIST_RELIC_ON_DEATH_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_CULTIST_RELIC_ON_DEATH"
+    },
+    {
+        "Description": "LOC_ABILITY_CULTIST_ENTER_FOREIGN_LANDS_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_CULTIST_ENTER_FOREIGN_LANDS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_CULTIST_ENTER_FOREIGN_LANDS"
+    },
+    {
+        "Description": "LOC_ABILITY_ELIZABETH_PLUNDER_BONUS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_TRAIT_LEADER_ELIZABETH_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ELIZABETH_PLUNDER_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_LEVIED_HARALD_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_TRAIT_LEADER_HARALD_ALT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_LEVIED_HARALD"
+    },
+    {
+        "Description": "LOC_ABILITY_LINCOLN_MELEE_UNITS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_TRAIT_LEADER_LINCOLN_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_LINCOLN_MELEE_UNITS"
+    },
+    {
+        "Description": "LOC_ABILITY_SALADIN_FLANKING_UNITS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_TRAIT_LEADER_SALADIN_ALT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SALADIN_FLANKING_UNITS"
+    },
+    {
+        "Description": "LOC_ABILITY_QIN_MELEE_UNITS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_TRAIT_LEADER_QIN_ALT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_QIN_MELEE_UNITS"
+    },
+    {
+        "Description": "LOC_ABILITY_HIMERIOS_BONUS_EXPERIENCE_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_HIMERIOS_BONUS_EXPERIENCE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HIMERIOS_BONUS_EXPERIENCE"
+    },
+    {
+        "Description": "LOC_ABILITY_WOLIN_LAND_UNITS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_WOLIN_LAND_UNITS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_WOLIN_LAND_UNITS"
+    },
+    {
+        "Description": "LOC_ABILITY_WOLIN_NAVAL_UNITS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_WOLIN_NAVAL_UNITS_UNITS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_WOLIN_NAVAL_UNITS"
+    },
+    {
+        "Description": "LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY"
+    },
+    {
+        "Description": "LOC_HERO_ABILITY_COMBAT_STRENGTH_AOE",
+        "Inactive": 0,
+        "Name": "LOC_HERO_ABILITY_COMBAT_STRENGTH_AOE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HERO_COMBAT_STRENGTH_AOE"
+    },
+    {
+        "Description": null,
+        "Inactive": 1,
+        "Name": "LOC_HERO_CLASS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HERO_COMBAT_STRENGTH_UNIT"
+    },
+    {
+        "Description": "LOC_ABILITY_HERO_ENTER_FOREIGN_LANDS_MODIFIER",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_HERO_ENTER_FOREIGN_LANDS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HERO_ENTER_FOREIGN_LANDS"
+    },
+    {
+        "Description": null,
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_HIPPOLYTA_HEAL_PER_TURN_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HIPPOLYTA_HEAL_PER_TURN"
+    },
+    {
+        "Description": "LOC_MODIFIER_HUNAHPU_RESURRECT_KILL",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_HUNAHPU_RESURRECT_KILL_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HUNAHPU_RESURRECT_KILL"
+    },
+    {
+        "Description": null,
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_MULAN_STRENGTH_PER_TURN_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_MULAN_STRENGTH_PER_TURN"
+    },
+    {
+        "Description": null,
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_MULAN_FORTIFY_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_MULAN_FORTIFY"
+    },
+    {
+        "Description": "LOC_MODIFIER_WUKONG_STEALTH",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_WUKONG_STEALTH_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_WUKONG_STEALTH"
+    },
+    {
+        "Description": "LOC_ABILITY_WUKONG_LIFESPAN",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_WUKONG_LIFESPAN_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_WUKONG_LIFESPAN"
+    },
+    {
+        "Description": null,
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_SINBAD_GOLD_FOR_DISCOVERY_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SINBAD_GOLD_FOR_DISCOVERY"
+    },
+    {
+        "Description": "LOC_ABILITY_SINBAD_OCEAN_VALID_TERRAIN",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_SINBAD_OCEAN_VALID_TERRAIN_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SINBAD_OCEAN_VALID_TERRAIN"
+    },
+    {
+        "Description": "LOC_ABILITY_HERO_IGNORE_FOREST_TERRAIN_COST",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_HERO_IGNORE_FOREST_TERRAIN_COST_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HERO_IGNORE_FOREST_TERRAIN_COST"
+    },
+    {
+        "Description": "LOC_ABILITY_HERO_IGNORE_HILLS_TERRAIN_COST",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_HERO_IGNORE_HILLS_TERRAIN_COST_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HERO_IGNORE_HILLS_TERRAIN_COST"
+    },
+    {
+        "Description": "LOC_ABILITY_HERO_IGNORE_ALL_TERRAIN_COST",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_HERO_IGNORE_ALL_TERRAIN_COST_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_HERO_IGNORE_ALL_TERRAIN_COST"
+    },
+    {
+        "Description": "LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_BYZANTIUM_COMBAT_UNITS"
+    },
+    {
+        "Description": "LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_BYZANTIUM_RELIGIOUS_UNITS"
+    },
+    {
+        "Description": "LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS"
+    },
+    {
+        "Description": "LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION"
+    },
+    {
+        "Description": "LOC_ABILITY_DROMON_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_DROMON_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_DROMON"
+    },
+    {
+        "Description": "LOC_ABILITY_TAGMA_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_TAGMA_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_TAGMA"
+    },
+    {
+        "Description": "LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_TAGMA_RELIGIOUS_COMBAT"
+    },
+    {
+        "Description": "LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_TAGMA_NONRELIGIOUS_COMBAT"
+    },
+    {
+        "Description": "LOC_ABILITY_GAESATAE_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_GAESATAE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_GAESATAE"
+    },
+    {
+        "Description": "LOC_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE"
+    },
+    {
+        "Description": "LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS"
+    },
+    {
+        "Description": "LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_SOFT_TARGETS_ATTACKING_UNITS"
+    },
+    {
+        "Description": "LOC_ABILITY_TRIEU_FEATURES_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_TRIEU_FEATURES_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_TRIEU_FEATURES"
+    },
+    {
+        "Description": "LOC_ABILITY_VOI_CHIEN_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_VOI_CHIEN_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_VOI_CHIEN"
+    },
+    {
+        "Description": "LOC_ABILITY_NADER_SHAH_COMBAT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_TRAIT_LEADER_NADER_SHAH_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_NADER_SHAH_COMBAT"
+    },
+    {
+        "Description": "LOC_ABILITY_PORTA_DO_CERCO_EXTRA_SIGHT_DESCRIPTION",
+        "Inactive": 1,
+        "Name": "LOC_ABILITY_PORTA_DO_CERCO_EXTRA_SIGHT_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_PORTA_DO_CERCO_EXTRA_SIGHT"
+    },
+    {
+        "Description": "LOC_ABILITY_NAU_DESCRIPTION",
+        "Inactive": 0,
+        "Name": "LOC_ABILITY_NAU_NAME",
+        "Permanent": 1,
+        "ShowFloatTextWhenEarned": 0,
+        "UnitAbilityType": "ABILITY_NAU"
+    }
+]

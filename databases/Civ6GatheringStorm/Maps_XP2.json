@@ -1,0 +1,56 @@
+[
+    {
+        "CO2For1DegreeTempRise": 500000,
+        "DesertPlotCountToLabel": 3,
+        "LakePlotCountToLabel": 1,
+        "MapSizeType": "MAPSIZE_DUEL",
+        "MountainPlotCountToLabel": 3,
+        "OceanPlotCountToLabel": 6,
+        "SeaPlotCountToLabel": 3
+    },
+    {
+        "CO2For1DegreeTempRise": 1000000,
+        "DesertPlotCountToLabel": 3,
+        "LakePlotCountToLabel": 1,
+        "MapSizeType": "MAPSIZE_TINY",
+        "MountainPlotCountToLabel": 3,
+        "OceanPlotCountToLabel": 8,
+        "SeaPlotCountToLabel": 4
+    },
+    {
+        "CO2For1DegreeTempRise": 1500000,
+        "DesertPlotCountToLabel": 4,
+        "LakePlotCountToLabel": 1,
+        "MapSizeType": "MAPSIZE_SMALL",
+        "MountainPlotCountToLabel": 4,
+        "OceanPlotCountToLabel": 8,
+        "SeaPlotCountToLabel": 4
+    },
+    {
+        "CO2For1DegreeTempRise": 2000000,
+        "DesertPlotCountToLabel": 4,
+        "LakePlotCountToLabel": 1,
+        "MapSizeType": "MAPSIZE_STANDARD",
+        "MountainPlotCountToLabel": 4,
+        "OceanPlotCountToLabel": 10,
+        "SeaPlotCountToLabel": 5
+    },
+    {
+        "CO2For1DegreeTempRise": 2500000,
+        "DesertPlotCountToLabel": 5,
+        "LakePlotCountToLabel": 1,
+        "MapSizeType": "MAPSIZE_LARGE",
+        "MountainPlotCountToLabel": 5,
+        "OceanPlotCountToLabel": 10,
+        "SeaPlotCountToLabel": 5
+    },
+    {
+        "CO2For1DegreeTempRise": 3000000,
+        "DesertPlotCountToLabel": 5,
+        "LakePlotCountToLabel": 1,
+        "MapSizeType": "MAPSIZE_HUGE",
+        "MountainPlotCountToLabel": 5,
+        "OceanPlotCountToLabel": 12,
+        "SeaPlotCountToLabel": 6
+    }
+]

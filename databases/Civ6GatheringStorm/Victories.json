@@ -1,0 +1,86 @@
+[
+    {
+        "Blurb": "LOC_VICTORY_SCORE_TEXT",
+        "CriticalPercentage": 110,
+        "Description": null,
+        "EnabledByDefault": 1,
+        "Icon": null,
+        "Name": "LOC_VICTORY_SCORE_NAME",
+        "OneMoreTurn": 1,
+        "RequirementSetId": "REQUIREMENTS_SCORE_VICTORY",
+        "RequiresMultipleTeams": 0,
+        "VictoryType": "VICTORY_SCORE"
+    },
+    {
+        "Blurb": "LOC_VICTORY_DEFAULT_TEXT",
+        "CriticalPercentage": 110,
+        "Description": null,
+        "EnabledByDefault": 1,
+        "Icon": null,
+        "Name": "LOC_VICTORY_DEFAULT_NAME",
+        "OneMoreTurn": 1,
+        "RequirementSetId": "REQUIREMENTS_DEFAULT_VICTORY",
+        "RequiresMultipleTeams": 0,
+        "VictoryType": "VICTORY_DEFAULT"
+    },
+    {
+        "Blurb": "LOC_VICTORY_DOMINATION_TEXT",
+        "CriticalPercentage": 50,
+        "Description": null,
+        "EnabledByDefault": 1,
+        "Icon": null,
+        "Name": "LOC_VICTORY_DOMINATION_NAME",
+        "OneMoreTurn": 1,
+        "RequirementSetId": "REQUIREMENTS_CONQUEST_VICTORY",
+        "RequiresMultipleTeams": 0,
+        "VictoryType": "VICTORY_CONQUEST"
+    },
+    {
+        "Blurb": "LOC_VICTORY_CULTURE_TEXT",
+        "CriticalPercentage": 75,
+        "Description": null,
+        "EnabledByDefault": 1,
+        "Icon": null,
+        "Name": "LOC_VICTORY_CULTURE_NAME",
+        "OneMoreTurn": 1,
+        "RequirementSetId": "REQUIREMENTS_CULTURE_VICTORY",
+        "RequiresMultipleTeams": 1,
+        "VictoryType": "VICTORY_CULTURE"
+    },
+    {
+        "Blurb": "LOC_VICTORY_RELIGION_TEXT",
+        "CriticalPercentage": 80,
+        "Description": null,
+        "EnabledByDefault": 1,
+        "Icon": null,
+        "Name": "LOC_VICTORY_RELIGIOUS_NAME",
+        "OneMoreTurn": 1,
+        "RequirementSetId": "REQUIREMENTS_RELIGIOUS_VICTORY",
+        "RequiresMultipleTeams": 1,
+        "VictoryType": "VICTORY_RELIGIOUS"
+    },
+    {
+        "Blurb": "LOC_VICTORY_SCIENCE_TEXT",
+        "CriticalPercentage": 60,
+        "Description": null,
+        "EnabledByDefault": 1,
+        "Icon": null,
+        "Name": "LOC_VICTORY_SCIENCE_NAME",
+        "OneMoreTurn": 1,
+        "RequirementSetId": "REQUIREMENTS_EXOPLANET_TECHNOLOGY_VICTORY",
+        "RequiresMultipleTeams": 0,
+        "VictoryType": "VICTORY_TECHNOLOGY"
+    },
+    {
+        "Blurb": "LOC_VICTORY_DIPLOMATIC_BLURB",
+        "CriticalPercentage": 90,
+        "Description": "LOC_VICTORY_DIPLOMATIC_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "Icon": "ICON_VICTORY_DIPLOMATIC",
+        "Name": "LOC_VICTORY_DIPLOMATIC_NAME",
+        "OneMoreTurn": 1,
+        "RequirementSetId": "REQUIREMENTS_DIPLOMATIC_VICTORY",
+        "RequiresMultipleTeams": 0,
+        "VictoryType": "VICTORY_DIPLOMATIC"
+    }
+]

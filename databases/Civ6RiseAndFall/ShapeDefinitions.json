@@ -1,0 +1,37 @@
+[
+    {
+        "Description": "Selector nodes have one or more children and run through them until meeting some condition or completing them all",
+        "MaxChildren": 0,
+        "MinChildren": 1,
+        "ShapeId": 0,
+        "ShapeName": "Selector Nodes"
+    },
+    {
+        "Description": "Action nodes can take an action that has an effect on the game logic",
+        "MaxChildren": 0,
+        "MinChildren": 0,
+        "ShapeId": 1,
+        "ShapeName": "Action Nodes"
+    },
+    {
+        "Description": "Decision nodes can never return running, and can output data to be used by other behavior tree nodes",
+        "MaxChildren": 0,
+        "MinChildren": 0,
+        "ShapeId": 2,
+        "ShapeName": "Decision Nodes"
+    },
+    {
+        "Description": "Decorator nodes have a single child and effects when/how it runs",
+        "MaxChildren": 1,
+        "MinChildren": 1,
+        "ShapeId": 3,
+        "ShapeName": "Decorator Nodes"
+    },
+    {
+        "Description": "Sub-trees are references to other trees defined elsewhere in the behavior tree list",
+        "MaxChildren": 1,
+        "MinChildren": 0,
+        "ShapeId": 4,
+        "ShapeName": "Sub-tree Nodes"
+    }
+]

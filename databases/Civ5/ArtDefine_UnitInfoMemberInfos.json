@@ -1,0 +1,1512 @@
+[
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_ANTI_AIRCRAFT_GUN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_ANTIAIRCRAFTGUN"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_ANTI_TANK_GUN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_ANTITANKGUN"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_ARCHER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_ARCHER_V2"
+    },
+    {
+        "NumMembers": 6,
+        "UnitInfoType": "ART_DEF_UNIT_ARCHER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_ARCHER"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_ARCHER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_ARCHER_V3"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_ARTILLERY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_ARTILLERY"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_ATOMIC_BOMB",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_ATOMICBOMB"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_BATTLESHIP",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BATTLESHIP"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_BOMBER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BOMBER"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_CANNON",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CANNON"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CARAVEL",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CARAVEL"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CARRIER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CARRIER"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_CATAPULT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CATAPULT"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_CAVALRY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CAVALRY"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_CHARIOT_ARCHER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CHARIOTARCHER"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_CROSSBOWMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CROSSBOWMAN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_DESTROYER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_DESTROYER"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_FIGHTER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_FIGHTER"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_FRIGATE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_FRIGATE"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_GALLEY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GALLEY"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GUIDED_MISSILE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GUIDEDMISSILE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_HELICOPTER_GUNSHIP",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_HELICOPTERGUNSHIP"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_HORSEMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_HORSEMAN"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_INFANTRY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_INFANTRY"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_IRONCLAD",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_IRONCLAD"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_JET_FIGHTER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_JETFIGHTER"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_KNIGHT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_KNIGHT"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_LANCER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_LANCER"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_LONGSWORDSMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_LONGSWORDSMAN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_MECH",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_MECH"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_MECHANIZED_INFANTRY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_MECHANIZEDINFANTRY"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_MISSILE_CRUISER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_MISSILECRUISER"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_ROCKET_ARTILLERY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_ROCKETARTILLERY"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_MOBILE_SAM",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_MOBILESAM"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_MODERN_ARMOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_MODERNARMOR"
+    },
+    {
+        "NumMembers": 14,
+        "UnitInfoType": "ART_DEF_UNIT_MUSKETMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_MUSKETMAN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_NUCLEAR_MISSILE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_NUCLEARMISSILE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_NUCLEAR_SUBMARINE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_NUCLEARSUBMARINE"
+    },
+    {
+        "NumMembers": 10,
+        "UnitInfoType": "ART_DEF_UNIT_PARATROOPER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_PARATROOPER"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_PIKEMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_PIKEMAN"
+    },
+    {
+        "NumMembers": 14,
+        "UnitInfoType": "ART_DEF_UNIT_RIFLEMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_RIFLEMAN"
+    },
+    {
+        "NumMembers": 6,
+        "UnitInfoType": "ART_DEF_UNIT_SCOUT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SCOUT"
+    },
+    {
+        "NumMembers": 4,
+        "UnitInfoType": "ART_DEF_UNIT_SPEARMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SPEARMAN_V2"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_SPEARMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SPEARMAN"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_SPEARMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SPEARMAN_V3"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_STEALTH_BOMBER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_STEALTHBOMBER"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_SUBMARINE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SUBMARINE"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_SWORDSMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SWORDSMAN_V2"
+    },
+    {
+        "NumMembers": 6,
+        "UnitInfoType": "ART_DEF_UNIT_SWORDSMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SWORDSMAN"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_SWORDSMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SWORDSMAN_V3"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_TANK",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_TANK"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_TRANSPORT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_TRANSPORT"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_TREBUCHET",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_TREBUCHET"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_TRIREME",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_TRIREME"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT__WARRIOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_WARRIOR_V2"
+    },
+    {
+        "NumMembers": 6,
+        "UnitInfoType": "ART_DEF_UNIT__WARRIOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_WARRIOR"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT__WARRIOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_WARRIOR_V4"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_WORKBOAT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_WORKBOAT"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_ARTIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATARTIST_EARLY_FLUTE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_ARTIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATARTIST_EARLY_TAMBOURINE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_ARTIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATARTIST_EARLY_BIGDRUMMER"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_ARTIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATARTIST_EARLY_BAGPIPER"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_ARTIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATARTIST_EARLY_DRUMMER"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_ARTIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATARTIST_EARLY_FLAGBEARER"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_ENGINEER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATENGINEER_EARLY"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GENERAL",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATGENERAL_EARLY"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_MERCHANT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATMERCHANT_EARLY_LEADER"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_MERCHANT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATMERCHANT_EARLY_CAMEL_V1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_MERCHANT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATMERCHANT_EARLY_CAMEL_V2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_SCIENTIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATSCIENTIST_EARLY"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_U_AMERICAN_B17",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_AMERICAN_B17"
+    },
+    {
+        "NumMembers": 14,
+        "UnitInfoType": "ART_DEF_UNIT_U_AMERICAN_MINUTEMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_AMERICAN_MINUTEMAN"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_ARABIAN_CAMELARCHER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_ARABIAN_CAMELARCHER"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_AZTEC_JAGUAR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_AZTEC_JAGUAR"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_CHINESE_CHUKONU",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_CHINESE_CHUKONU"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_U_EGYPTIAN_WARCHARIOT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_EGYPTIAN_WARCHARIOT"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_ENGLISH_LONGBOWMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_ENGLISH_LONGBOWMAN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_U_ENGLISH_SHIPOFTHELINE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_ENGLISH_SHIPOFTHELINE"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_FRENCH_FOREIGNLEGION",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_FRENCH_FOREIGNLEGION"
+    },
+    {
+        "NumMembers": 14,
+        "UnitInfoType": "ART_DEF_UNIT_U_FRENCH_MUSKETEER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_FRENCH_MUSKETEER"
+    },
+    {
+        "NumMembers": 6,
+        "UnitInfoType": "ART_DEF_UNIT_U_GERMAN_LANDSKNECHT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_GERMAN_LANDSKNECHT_A"
+    },
+    {
+        "NumMembers": 6,
+        "UnitInfoType": "ART_DEF_UNIT_U_GERMAN_LANDSKNECHT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_GERMAN_LANDSKNECHT_B"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_U_GERMAN_PANZER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_GERMAN_PANZER"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_GREEK_COMPANIONCAVALRY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_GREEK_COMPANIONCAVALRY"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_GREEK_HOPLITE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_GREEK_HOPLITE"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_U_INDIAN_WARELEPHANT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_INDIAN_WARELEPHANT"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_IROQUOIAN_MOHAWKWARRIOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_IROQUOIAN_MOHAWKWARRIOR"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_JAPANESE_SAMURAI",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_JAPANESE_SAMURAI"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_U_JAPANESE_ZERO",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_JAPANESE_ZERO"
+    },
+    {
+        "NumMembers": 14,
+        "UnitInfoType": "ART_DEF_UNIT_U_OTTOMAN_JANISSARY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_OTTOMAN_JANISSARY"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_OTTOMAN_SIPAHI",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_OTTOMAN_SIPAHI"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_PERSIAN_IMMORTAL",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_PERSIAN_IMMORTAL"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_U_ROMAN_BALLISTA",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_ROMAN_BALLISTA"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_ROMAN_LEGION",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_ROMAN_LEGION"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_U_RUSSIAN_COSSACK",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_RUSSIAN_COSSACK"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_U_RUSSIAN_COSSACK",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_RUSSIAN_COSSACK_V2"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_U_RUSSIAN_COSSACK",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_RUSSIAN_COSSACK_V3"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_U_SIAMESE_WARELEPHANT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_SIAMESE_WARELEPHANT"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_SONGHAI_MUSLIMCAVALRY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_SONGHAI_MUSLIMCAVALRY"
+    },
+    {
+        "NumMembers": 8,
+        "UnitInfoType": "ART_DEF_UNIT__WORKER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_WORKER_EURO"
+    },
+    {
+        "NumMembers": 8,
+        "UnitInfoType": "ART_DEF_UNIT__WORKER_LATE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_WORKER_EURO_LATE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_EURODONKEY"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_EUROFEMALE18"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_EUROFEMALE25"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_EUROFEMALE35"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_EUROFEMALE40"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_EUROMALE20"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_EUROMALE25"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_EUROMALE35"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_EUROMALE45"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_ASIA",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_OX"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_ASIA",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_F1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_ASIA",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_F2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_ASIA",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_F3"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_ASIA",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_F4"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_ASIA",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_M1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_ASIA",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_M2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_ASIA",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_M3"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_ASIA",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SETTLERS_ASIAN_M4"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AMER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AMERLLAMA"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AMER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AMERFEMALE1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AMER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AMERFEMALE2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AMER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AMERFEMALE3"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AMER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AMERFEMALE4"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AMER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AMERMALE1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AMER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AMERMALE2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AMER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AMERMALE3"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AMER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AMERMALE4"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AFRI",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AFRICAMEL"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AFRI",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AFRIFEMALE1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AFRI",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AFRIFEMALE2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AFRI",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AFRIFEMALE3"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AFRI",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AFRIFEMALE4"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AFRI",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AFRIMALE1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AFRI",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AFRIMALE2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AFRI",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AFRIMALE3"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT__SETTLER_AFRI",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_AFRIMALE4"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_BARBARIAN_EURO",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BARBARIAN_EURO_ALPHA"
+    },
+    {
+        "NumMembers": 4,
+        "UnitInfoType": "ART_DEF_UNIT_BARBARIAN_EURO",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BARBARIAN_EURO_BRAVO"
+    },
+    {
+        "NumMembers": 4,
+        "UnitInfoType": "ART_DEF_UNIT_BARBARIAN_EURO",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BARBARIAN_EURO_CHARLIE"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_BARBARIAN_ARCHER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BARBARIAN_ARCHER_01"
+    },
+    {
+        "NumMembers": 6,
+        "UnitInfoType": "ART_DEF_UNIT_BARBARIAN_ARCHER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BARBARIAN_ARCHER_V2"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_BARBARIAN_ARCHER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BARBARIAN_ARCHER_V3"
+    },
+    {
+        "NumMembers": 4,
+        "UnitInfoType": "ART_DEF_UNIT_BARBARIAN_SPEARMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BARBARIAN_SPEARMAN"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_BARBARIAN_SPEARMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BARBARIAN_SPEARMAN_V2"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_BARBARIAN_SPEARMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BARBARIAN_SPEARMAN_V3"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_BARBARIAN_SWORDSMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BARBARIAN_SWORDSMAN"
+    },
+    {
+        "NumMembers": 6,
+        "UnitInfoType": "ART_DEF_UNIT_BARBARIAN_SWORDSMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BARBARIAN_SWORDSMAN_V2"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_BARBARIAN_SWORDSMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BARBARIAN_SWORDSMAN_V3"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_BARBARIAN_GALLEY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BARBARIAN_GALLEY"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_GALLEON",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GALLEON"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_SS_BOOSTER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SS_BOOSTER"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_SS_CAPSULE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SS_CAPSULE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_SS_ENGINE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SS_ENGINE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_SS_STASIS_CHAMBER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SS_STASIS_CHAMBER"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_ARTIST_LATE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATARTIST_LATE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_ENGINEER_LATE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATENGINEER_LATE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GENERAL_LATE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATGENERAL_LATE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_MERCHANT_LATE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATMERCHANT_LATE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_SCIENTIST_LATE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATSCIENTIST_LATE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_WORKBOAT_LATE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_WORKBOAT_INDUSTRIAL"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GENERAL_KHAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREATGENERAL_KHAN"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_MONGOLIAN_KESHIK",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_MONGOLIAN_KESHIK"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_SPANISH_CONQUISTADOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_SPANISH_CONQUISTADOR"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_INCAN_SLINGER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_INCAN_SLINGER"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_U_SPANISH_GALLEON",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_SPANISH_GALLEON"
+    },
+    {
+        "NumMembers": 6,
+        "UnitInfoType": "ART_DEF_UNIT_U_SPANISH_TERCIO",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_SPANISH_TERCIO_PIQUERO"
+    },
+    {
+        "NumMembers": 6,
+        "UnitInfoType": "ART_DEF_UNIT_U_SPANISH_TERCIO",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_SPANISH_TERCIO_ARCABUCERO"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_U_SPANISH_TREASURE_CART",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_SPANISH_TREASURE_CART"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_PRIVATEER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_PRIVATEER"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_U_POLYNESIAN_WAR_CANOE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_POLYNESIAN_WAR_CANOE"
+    },
+    {
+        "NumMembers": 10,
+        "UnitInfoType": "ART_DEF_UNIT_U_POLYNESIAN_MAORI_WARRIOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_POLYNESIAN_MAORI_WARRIOR"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_DANISH_BERSERKER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_DANISH_BERSERKER"
+    },
+    {
+        "NumMembers": 14,
+        "UnitInfoType": "ART_DEF_UNIT_U_DANISH_SKI_INFANTRY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_DANISH_SKY_INFANTRY"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_U_DANISH_LONGBOAT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_DANISH_LONGBOAT"
+    },
+    {
+        "NumMembers": 9,
+        "UnitInfoType": "ART_DEF_UNIT_U_SAXON_HUSCARL",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_SAXON_HUSCARL"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_U_KOREAN_HWACHA",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_KOREAN_HWACHA"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_U_KOREAN_TURTLESHIP",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_KOREAN_TURTLESHIP"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_U_HITTITE_WARCHARIOT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_HITTITE_WARCHARIOT"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_SUMERIAN_PHALANX",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_SUMERIAN_PHALANX"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_U_DUTCH_SEA_BEGGARS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_DUTCH_SEA_BEGGARS"
+    },
+    {
+        "NumMembers": 10,
+        "UnitInfoType": "ART_DEF_UNIT_U_MAYAN_ATLALIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_MAYAN_ATLALIST"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_BABYLONIAN_BOWMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_BABYLONIAN_BOWMAN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_ADMIRAL",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_ADMIRAL"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_ADMIRAL_LATE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_ADMIRAL_LATE"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_AUSTRIAN_HUSSAR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_AUSTRIAN_HUSSAR"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_BYZANTIUM_CATAPHRACT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_BYZANTIUM_CATAPHRACT"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_U_BYZANTIUM_DROMON",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_BYZANTIUM_DROMON"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_U_CARTHAGE_AFRICANFOREST_ELEPHANT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_CARTHAGE_AFRICANFOREST_ELEPHANT"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_U_CARTHAGE_QUINQUEREME",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_CARTHAGE_QUINQUEREME"
+    },
+    {
+        "NumMembers": 10,
+        "UnitInfoType": "ART_DEF_UNIT_U_CELT_PICTISH_WARRIOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_CELT_PICTISH_WARRIOR"
+    },
+    {
+        "NumMembers": 14,
+        "UnitInfoType": "ART_DEF_UNIT_U_ETHIOPIA_MEHAL_SEFARI",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_ETHIOPIA_MEHAL_SEFARI"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_COMPOSITE_BOWMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_COMPOSITE_BOWMAN"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_MACHINEGUN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_MACHINEGUN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GALLEASS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GALLEASS"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_GATLINGGUN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GATLINGGUN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_PROPHET",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_PROPHET"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_PROPHET",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_PROPHET_FEMALE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_PROPHET",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_PROPHET_MALE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_MISSIONARY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_MISSIONARY"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_MISSIONARY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_MISSIONARY_01"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_MISSIONARY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_MISSIONARY_02"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_INQUISITOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_INQUISITOR"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_INQUISITOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_INQUISITOR_01"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_INQUISITOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_INQUISITOR_02"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_XP_PRIVATEER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_XP_PRIVATEER"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_U_HUNS_BATTERING_RAM",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_HUNS_BATTERING_RAM"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_HUNS_HORSE_ARCHER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_HUNS_HORSE_ARCHER"
+    },
+    {
+        "NumMembers": 14,
+        "UnitInfoType": "ART_DEF_UNIT_MARINE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_MARINE"
+    },
+    {
+        "NumMembers": 14,
+        "UnitInfoType": "ART_DEF_UNIT_U_SWEDISH_CAROLEAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_SWEDISH_CAROLEAN"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_SWEDISH_HAKKAPELITTA",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_SWEDISH_HAKKAPELITTA"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_WW1_BOMBER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_WW1_BOMBER"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_WW1_FIGHTER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_WW1_FIGHTER"
+    },
+    {
+        "NumMembers": 14,
+        "UnitInfoType": "ART_DEF_UNIT_WW1_INFANTRY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_WW1_INFANTRY"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_WW1_TANK",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_WW1_TANK"
+    },
+    {
+        "NumMembers": 14,
+        "UnitInfoType": "ART_DEF_UNIT_WW2_INFANTRY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_WW2_INFANTRY"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_ARTILLERY_NAPOLEON",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_ARTILLERY_NAPOLEON"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_ARTILLERY_PARROTT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_ARTILLERY_PARROTT"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_IRONCLAD",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_IRONCLAD"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_CAVALRY_CARBINE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_CAVALRY_CARBINE"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_CAVALRY_PISTOL",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_CAVALRY_PISTOL"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_UNION_ARTILLERY_NAPOLEON",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_UNION_ARTILLERY_NAPOLEON"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_UNION_ARTILLERY_PARROTT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_UNION_ARTILLERY_PARROTT"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_UNION_IRONCLAD",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_UNION_IRONCLAD"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_UNION_CAVALRY_CARBINE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_UNION_CAVALRY_CARBINE"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_UNION_CAVALRY_PISTOL",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_UNION_CAVALRY_PISTOL"
+    },
+    {
+        "NumMembers": 7,
+        "UnitInfoType": "ART_DEF_UNIT_UNION_DIVISION",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_UNION_RIFLEMAN"
+    },
+    {
+        "NumMembers": 14,
+        "UnitInfoType": "ART_DEF_UNIT_UNION_CORPS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_UNION_RIFLEMAN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_SMOKEY_LANDSHIP_LEVEL_3",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SMOKEY_LANDSHIP_LEVEL_3"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_SMOKEY_LANDSHIP_LEVEL_2",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SMOKEY_LANDSHIP_LEVEL_2"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_SMOKEY_LANDSHIP_LEVEL_1",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SMOKEY_LANDSHIP_LEVEL_1"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_SMOKEY_STEAM_FIGHTER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SMOKEY_STEAM_FIGHTER"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_SMOKEY_STEAM_AIRSHIP",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SMOKEY_BLIMP"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_SMOKEY_STEAM_AIRSHIP_LEVEL_1",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SMOKEY_AIRSHIP_LEVEL_1"
+    },
+    {
+        "NumMembers": 10,
+        "UnitInfoType": "ART_DEF_UNIT_GADRAUHTS_SWORDSMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GADRAUHTS_SWORDSMAN"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_DIVISION",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_DIVISION",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN_V1"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_DIVISION",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN_V2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_DIVISION",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_DIVISION",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN_V1"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_CORPS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_CORPS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN_V1"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_CORPS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN_V2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_CORPS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_CORPS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN_V1"
+    },
+    {
+        "NumMembers": 2,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_CORPS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN"
+    },
+    {
+        "NumMembers": 4,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_CORPS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN_V2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_CORPS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_RIFLEMAN_V1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CARAVAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CARAVAN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CARAVAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CARAVAN_F1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CARAVAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CARAVAN_F2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CARAVAN_POSTMODERN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CARAVAN_LATE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CARAVAN_POSTMODERN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CARAVAN_LATE_F1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CARAVAN_POSTMODERN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CARAVAN_LATE_F2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_EXPLORER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_EXPLORER"
+    },
+    {
+        "NumMembers": 6,
+        "UnitInfoType": "ART_DEF_UNIT_EXPLORER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_EXPLORER_F1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_EXPLORER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_EXPLORER_F2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CARGO_SHIP",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CARGO_SHIP"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CARGO_SHIP_RENAISSANCE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CARGO_SHIP_MID"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CARGO_SHIP_POSTMODERN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CARGO_SHIP_LATE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_ARCHAEOLOGIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_ARCHAEOLOGIST"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_ARCHAEOLOGIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_ARCHAEOLOGIST_F1"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_ARCHAEOLOGIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_ARCHAEOLOGIST_F2"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_BAZOOKA_INFANTRY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_BAZOOKA_INFANTRY"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_WRITER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_WRITER"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_WRITER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_WRITER_F1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_WRITER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_WRITER_F2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_WRITER_POSTMODERN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_WRITER_LATE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_WRITER_POSTMODERN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_WRITER_LATE_F1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_WRITER_POSTMODERN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_WRITER_LATE_F2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_ARTIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_ARTIST"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_ARTIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_ARTIST_F1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_ARTIST",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_ARTIST_F2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_ARTIST_POSTMODERN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_ARTIST_LATE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_ARTIST_POSTMODERN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_ARTIST_LATE_F1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_ARTIST_POSTMODERN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_ARTIST_LATE_F2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_MUSICIAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_MUSICIAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN_F1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_MUSICIAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN_F2"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_MUSICIAN_POSTMODERN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN_LATE"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_MUSICIAN_POSTMODERN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN_LATE_F1"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_GREAT_MUSICIAN_POSTMODERN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_GREAT_MUSICIAN_LATE_F2"
+    },
+    {
+        "NumMembers": 10,
+        "UnitInfoType": "ART_DEF_UNIT_HAND_AXE_BARBARIAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_HAND_AXE_BARBARIAN"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_U_ASSYRIAN_SIEGE_TOWER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_ASSYRIAN_SIEGE_TOWER"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_BRAZILIAN_PRACINHAS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_BRAZILIAN_PRACINHAS"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_U_INDONESIAN_KRIS_SWORDSMAN",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_INDONESIAN_KRIS_SWORDSMAN"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_MORROCAN_BERBER_CAVALRY",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_MORROCAN_BERBER_CAVALRY"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_POLISH_WINGED_HUSSAR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_POLISH_WINGED_HUSSAR"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_U_PORTUGUESE_CARRACK",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_PORTUGUESE_CARRACK"
+    },
+    {
+        "NumMembers": 6,
+        "UnitInfoType": "ART_DEF_UNIT_U_SHOSHONE_PATHFINDER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_SHOSHONE_PATHFINDER"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_SHOSHONE_COMANCHE_RIDERS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_SHOSHONE_COMANCHE_RIDERS"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_U_VENETIAN_GALLEASS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_VENETIAN_GALLEASS"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_U_VENETIAN_MERCHANT",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_VENETIAN_MERCHANT"
+    },
+    {
+        "NumMembers": 6,
+        "UnitInfoType": "ART_DEF_UNIT_XCOM_SQUAD",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_XCOM_SQUAD"
+    },
+    {
+        "NumMembers": 4,
+        "UnitInfoType": "ART_DEF_UNIT_U_ZULU_IMPI_WARRIOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_ZULU_IMPI_WARRIOR"
+    },
+    {
+        "NumMembers": 3,
+        "UnitInfoType": "ART_DEF_UNIT_U_ZULU_IMPI_WARRIOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_ZULU_IMPI_WARRIOR_V2"
+    },
+    {
+        "NumMembers": 5,
+        "UnitInfoType": "ART_DEF_UNIT_U_ZULU_IMPI_WARRIOR",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_U_ZULU_IMPI_WARRIOR_V3"
+    },
+    {
+        "NumMembers": 8,
+        "UnitInfoType": "ART_DEF_UNIT_MILITARY_ENGINEER",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_MILITARY_ENGINEER"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_CONFEDERATE_GENERAL",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_CONFEDERATE_GREAT_GENERAL"
+    },
+    {
+        "NumMembers": 1,
+        "UnitInfoType": "ART_DEF_UNIT_UNION_GENERAL",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_UNION_GREAT_GENERAL"
+    },
+    {
+        "NumMembers": 12,
+        "UnitInfoType": "ART_DEF_UNIT_SCRAMBLE_FORCE_PUBLIQUE",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SCRAMBLE_FORCE_PUBLIQUE"
+    },
+    {
+        "NumMembers": 14,
+        "UnitInfoType": "ART_DEF_UNIT_SCRAMBLE_FOREIGN_VOLUNTEERS",
+        "UnitMemberInfoType": "ART_DEF_UNIT_MEMBER_SCRAMBLE_FOREIGN_VOLUNTEERS"
+    }
+]

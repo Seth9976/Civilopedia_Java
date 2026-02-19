@@ -1,0 +1,530 @@
+[
+    {
+        "Tag": "INFLUENCE_REQUIREMENT",
+        "Vocabulary": "TAG_REQUIREMENT"
+    },
+    {
+        "Tag": "DIPLOMACY_MODIFIER",
+        "Vocabulary": "TAG_MODIFIER"
+    },
+    {
+        "Tag": "CLASS_FOOD",
+        "Vocabulary": "RESOURCE_CLASS"
+    },
+    {
+        "Tag": "CLASS_CULTURE",
+        "Vocabulary": "RESOURCE_CLASS"
+    },
+    {
+        "Tag": "CLASS_GOLD",
+        "Vocabulary": "RESOURCE_CLASS"
+    },
+    {
+        "Tag": "CLASS_PRODUCTION",
+        "Vocabulary": "RESOURCE_CLASS"
+    },
+    {
+        "Tag": "CLASS_SCIENCE",
+        "Vocabulary": "RESOURCE_CLASS"
+    },
+    {
+        "Tag": "CLASS_ORAL_TRADITION",
+        "Vocabulary": "RESOURCE_CLASS"
+    },
+    {
+        "Tag": "CLASS_GODDESS_OF_FESTIVALS",
+        "Vocabulary": "RESOURCE_CLASS"
+    },
+    {
+        "Tag": "CLASS_SEA",
+        "Vocabulary": "RESOURCE_CLASS"
+    },
+    {
+        "Tag": "CLASS_ALL_UNITS",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_ALL_COMBAT_UNITS",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_ALL_ERAS",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_LANDCIVILIAN",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_RECON",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_BUILDER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_MELEE",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_RANGED",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_SIEGE",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HEAVY_CAVALRY",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_LIGHT_CAVALRY",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_RANGED_CAVALRY",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_ANTI_CAVALRY",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HEAVY_CHARIOT",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_LIGHT_CHARIOT",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_BATTERING_RAM",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_NAVAL_MELEE",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_NAVAL_RANGED",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_NAVAL_RAIDER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_NAVAL_CARRIER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_SIEGE_TOWER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_MEDIC",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_TRADER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_RELIGIOUS",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_INQUISITOR",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_MISSIONARY",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_RELIGIOUS_ALL",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_RELIGIOUS_SPREAD",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_WARRIOR_MONK",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_OBSERVATION",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_FORWARD_OBSERVER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_AIRCRAFT",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_AIR_BOMBER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_AIR_FIGHTER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_ARCHAEOLOGIST",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_STEALTH",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_REVEAL_STEALTH",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_SPY",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_LONGSHIP",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_MELEE_BERSERKER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_CAPTURE_SHIPS",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_CAPTURE_WORKER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_COSSACK",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_REDCOAT",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_ANTI_AIR",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_VARU",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_NAGAO",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_CONQUISTADOR",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_GARDE",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HOPLITE",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HELICOPTER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_UBOAT",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_ROUGH_RIDER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_MUSTANG",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_MAMLUK",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_WAR_CART",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_SAMURAI",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_PUSHBACK",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_DIGGER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_SIEGE_SETUP",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_MOBILE_RANGED",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_SUPPORT",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_LEGION",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_JONG",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HYPASPIST",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HETAIROI",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_IMMORTAL",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_PARADROP",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_SNIPER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_DRONE",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_TARGETTING_ASSIST",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_FIELD_SETUP",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_SCOTTISH_HIGHLANDER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_DUTCH_ZEVEN_PROVINCIEN",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_MONGOLIAN_KESHIG",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_GEORGIAN_KHEVSURETI",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_MAPUCHE_MALON_RAIDER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_CREE_OKIHTCITAW",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_ZULU_IMPI",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_LOGISTIC_MOVEMENT",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_FLOODPLAINS",
+        "Vocabulary": "FEATURE_CLASS"
+    },
+    {
+        "Tag": "CLASS_POWER_CONVERSION_NUCLEAR",
+        "Vocabulary": "POWER_CONVERSION_CLASS"
+    },
+    {
+        "Tag": "CLASS_SETTLER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_GURU",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_ROCK_BAND",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_GIANT_DEATH_ROBOT",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_BIREME",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_BLACK_ARMY",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HUSZAR",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_MOUNTIE",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_MANDEKALU",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_JANISSARY",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_WARAKAQ",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_TOA",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_CAROLEAN",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_CORSAIR",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_MAYAN_HULCHE",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_LAHORE_NIHANG",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_COLOMBIAN_LLANERO",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_SOOTHSAYER",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_DROMON",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_TAGMA",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_GAESATAE",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_VOI_CHIEN",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_ETHIOPIAN_OROMO_CAVALRY",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_VAMPIRE",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_CULTIST",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_SABUM_KIBITTUM_ANTI_CAVALRY",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HERO_ANANSI",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HERO_ARTHUR",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HERO_BEOWULF",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HERO_HERCULES",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HERO_HIMIKO",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HERO_HIPPOLYTA",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HERO_HUNAHPU",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HERO_OYA",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HERO_MAUI",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HERO_MULAN",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HERO_SINBAD",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_HERO_WUKONG",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_NAU",
+        "Vocabulary": "ABILITY_CLASS"
+    },
+    {
+        "Tag": "CLASS_ZOMBIE",
+        "Vocabulary": "ABILITY_CLASS"
+    }
+]

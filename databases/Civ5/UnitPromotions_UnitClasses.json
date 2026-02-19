@@ -1,0 +1,50 @@
+[
+    {
+        "Attack": 33,
+        "Defense": null,
+        "Modifier": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_SUBMARINE_I",
+        "UnitClassType": "UNITCLASS_SUBMARINE"
+    },
+    {
+        "Attack": 33,
+        "Defense": null,
+        "Modifier": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_SUBMARINE_I",
+        "UnitClassType": "UNITCLASS_NUCLEAR_SUBMARINE"
+    },
+    {
+        "Attack": 100,
+        "Defense": null,
+        "Modifier": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_SUBMARINE_II",
+        "UnitClassType": "UNITCLASS_SUBMARINE"
+    },
+    {
+        "Attack": 100,
+        "Defense": null,
+        "Modifier": null,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_SUBMARINE_II",
+        "UnitClassType": "UNITCLASS_NUCLEAR_SUBMARINE"
+    },
+    {
+        "Attack": null,
+        "Defense": null,
+        "Modifier": 33,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_FIGHTER",
+        "UnitClassType": "UNITCLASS_TRIPLANE"
+    },
+    {
+        "Attack": null,
+        "Defense": null,
+        "Modifier": 33,
+        "PediaType": null,
+        "PromotionType": "PROMOTION_ANTI_FIGHTER",
+        "UnitClassType": "UNITCLASS_FIGHTER"
+    }
+]

@@ -1,0 +1,461 @@
+[
+    {
+        "ConditionFunction": "Good Culture",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_CULTURAL_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 50
+    },
+    {
+        "ConditionFunction": "Has Great Writer",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_CULTURAL_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "Has Great Artist",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_CULTURAL_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "Has Great Musician",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_CULTURAL_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "Has Great Works",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_CULTURAL_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 3
+    },
+    {
+        "ConditionFunction": "Is Not Major",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_CULTURAL_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Tourists Taken",
+        "Disqualifier": 0,
+        "Exclusive": 1,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_CULTURAL_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 75
+    },
+    {
+        "ConditionFunction": "Has Taken Capital",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_MILITARY_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "Has Opponents",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_MILITARY_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 2
+    },
+    {
+        "ConditionFunction": "Leads Military",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_MILITARY_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 25
+    },
+    {
+        "ConditionFunction": "Leads Score",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_MILITARY_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 10
+    },
+    {
+        "ConditionFunction": "Next Lower Score",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_MILITARY_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 100
+    },
+    {
+        "ConditionFunction": "Has Taken Capital",
+        "Disqualifier": 0,
+        "Exclusive": 1,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_MILITARY_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 2
+    },
+    {
+        "ConditionFunction": "Is Not Major",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_MILITARY_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Good Faith City",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_RELIGIOUS_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "Founded Religion",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_RELIGIOUS_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Unconverted Cities",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_RELIGIOUS_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 2
+    },
+    {
+        "ConditionFunction": "Cannot Found Religion",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_RELIGIOUS_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Religion Destroyed",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_RELIGIOUS_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Not Major",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_RELIGIOUS_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Good Tech City",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "Is Renaissance",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "Has Science Wonders",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 2
+    },
+    {
+        "ConditionFunction": "Has Tech Lead",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 33
+    },
+    {
+        "ConditionFunction": "Lags Military",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 33
+    },
+    {
+        "ConditionFunction": "Finished Space Project",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "Finished Space Project",
+        "Disqualifier": 0,
+        "Exclusive": 1,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 2
+    },
+    {
+        "ConditionFunction": "Is Not Major",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "VICTORY_STRATEGY_SCIENCE_VICTORY",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Not Major",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_EARLY_EXPLORATION",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Fewer Cities",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_EARLY_EXPLORATION",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "Has Settle Spot",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_RAPID_EXPANSION",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Cities Under Threat",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_RAPID_EXPANSION",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "Major Civ Wars",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_RAPID_EXPANSION",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "Is Not Major",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_RAPID_EXPANSION",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Handicap at or below",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_RAPID_EXPANSION",
+        "StringValue": null,
+        "ThresholdValue": 2
+    },
+    {
+        "ConditionFunction": "Is On Island",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_NAVAL",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Has Agenda",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_WONDER_OBSESSED",
+        "StringValue": "AGENDA_WONDER_OBSESSED",
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Industrial",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_WONDER_OBSESSED",
+        "StringValue": "AGENDA_WONDER_OBSESSED",
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Classical",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_CLASSICAL_CHANGES",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Not Major",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_CLASSICAL_CHANGES",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Medieval",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_MEDIEVAL_CHANGES",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Not Major",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_MEDIEVAL_CHANGES",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Renaissance",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_RENAISSANCE_CHANGES",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Not Major",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_RENAISSANCE_CHANGES",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Industrial",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_INDUSTRIAL_CHANGES",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Not Major",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_INDUSTRIAL_CHANGES",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Modern",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_MODERN_CHANGES",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Not Major",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_MODERN_CHANGES",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is Not Major",
+        "Disqualifier": 1,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_DARKAGE",
+        "StringValue": null,
+        "ThresholdValue": 0
+    },
+    {
+        "ConditionFunction": "Is In Dark Age",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 0,
+        "StrategyType": "STRATEGY_DARKAGE",
+        "StringValue": null,
+        "ThresholdValue": 1
+    },
+    {
+        "ConditionFunction": "Is In Dark Age",
+        "Disqualifier": 0,
+        "Exclusive": 0,
+        "Forbidden": 1,
+        "StrategyType": "STRATEGY_RAPID_EXPANSION",
+        "StringValue": null,
+        "ThresholdValue": 0
+    }
+]

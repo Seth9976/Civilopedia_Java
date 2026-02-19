@@ -1,0 +1,522 @@
+[
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_COPPER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_DIAMONDS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_JADE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_MERCURY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_SALT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_SILVER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_ALUMINUM"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_COAL"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_IRON"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_NITER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_URANIUM"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_QUARRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_GYPSUM"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_QUARRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_MARBLE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_QUARRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_STONE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_RICE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_WHEAT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_CRABS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_FISH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_PEARLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_WHALES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_BANANAS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_CITRUS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_COCOA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_COFFEE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_COTTON"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_DYES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_INCENSE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SILK"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SPICES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SUGAR"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_TEA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_TOBACCO"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_WINE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PASTURE",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_CATTLE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PASTURE",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SHEEP"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PASTURE",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_HORSES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_DEER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_FURS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_IVORY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_TRUFFLES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OIL_WELL",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_OIL"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OFFSHORE_OIL_RIG",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_OIL"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_AMBER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_TURTLES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_AMBER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_OLIVES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_HONEY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_MAIZE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_HONEY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_HONEY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_CITRUS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_COCOA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_COFFEE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_COTTON"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_DYES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_INCENSE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SILK"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SPICES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SUGAR"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_TEA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_TOBACCO"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_WINE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_DIAMONDS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_JADE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_MERCURY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SALT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SILVER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_GYPSUM"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_MARBLE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_FURS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_IVORY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_TRUFFLES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_PEARLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_WHALES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_CITRUS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_COCOA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_COFFEE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_COTTON"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_DYES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_INCENSE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SILK"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SPICES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SUGAR"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_TEA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_TOBACCO"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_WINE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_DIAMONDS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_JADE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_MERCURY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SALT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_SILVER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_GYPSUM"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_MARBLE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_FURS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_IVORY"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_TRUFFLES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_PEARLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_WHALES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_AMBER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_OLIVES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_TURTLES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_AMBER"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 1,
+        "ResourceType": "RESOURCE_OLIVES"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "MustRemoveFeature": 0,
+        "ResourceType": "RESOURCE_TURTLES"
+    }
+]

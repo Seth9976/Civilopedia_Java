@@ -1,0 +1,72 @@
+[
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "ProcessType": "PROCESS_WEALTH"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GOLD",
+        "ProcessType": "PROCESS_WEALTH"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "ProcessType": "PROCESS_RESEARCH"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_SPACESHIP",
+        "ProcessType": "PROCESS_RESEARCH"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_NUKE",
+        "ProcessType": "PROCESS_RESEARCH"
+    },
+    {
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "ProcessType": "PROCESS_WORLD_FAIR"
+    },
+    {
+        "Flavor": 60,
+        "FlavorType": "FLAVOR_CULTURE",
+        "ProcessType": "PROCESS_WORLD_FAIR"
+    },
+    {
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "ProcessType": "PROCESS_WORLD_GAMES"
+    },
+    {
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_HAPPINESS",
+        "ProcessType": "PROCESS_WORLD_GAMES"
+    },
+    {
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_CULTURE",
+        "ProcessType": "PROCESS_WORLD_GAMES"
+    },
+    {
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_DIPLOMACY",
+        "ProcessType": "PROCESS_INTERNATIONAL_SPACE_STATION"
+    },
+    {
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "ProcessType": "PROCESS_INTERNATIONAL_SPACE_STATION"
+    },
+    {
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE",
+        "ProcessType": "PROCESS_INTERNATIONAL_SPACE_STATION"
+    },
+    {
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_WONDER",
+        "ProcessType": "PROCESS_INTERNATIONAL_SPACE_STATION"
+    }
+]

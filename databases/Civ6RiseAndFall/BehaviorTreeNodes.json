@@ -1,0 +1,4069 @@
+[
+    {
+        "JumpTo": 26,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 1,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 2,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 26,
+        "NodeId": 2,
+        "NodeType": "Sequence",
+        "PrimaryKey": 3,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 4,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 11,
+        "NodeId": 4,
+        "NodeType": "Sequence",
+        "PrimaryKey": 5,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Barbarian Spawn Change",
+        "PrimaryKey": 6,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 10,
+        "NodeId": 6,
+        "NodeType": "Priority",
+        "PrimaryKey": 7,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 7,
+        "NodeType": "Turn Limiter",
+        "PrimaryKey": 8,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Barbarian Recruit",
+        "PrimaryKey": 9,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Barbarian Spawn Change",
+        "PrimaryKey": 10,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Barbarian Spawn Change",
+        "PrimaryKey": 11,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 14,
+        "NodeId": 11,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 12,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Make Formation",
+        "PrimaryKey": 13,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 14,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 18,
+        "NodeId": 14,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 15,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 16,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Make Formation",
+        "PrimaryKey": 17,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 17,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 18,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 25,
+        "NodeId": 18,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 19,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Operation Siege City",
+        "PrimaryKey": 20,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 20,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 21,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 22,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 22,
+        "NodeType": "Make Formation",
+        "PrimaryKey": 23,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 23,
+        "NodeType": "Operation Pillage",
+        "PrimaryKey": 24,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 24,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 25,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 25,
+        "NodeType": "Notify Owner",
+        "PrimaryKey": 26,
+        "TreeName": "Barbarian City Attack"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 27,
+        "TreeName": "Barbarian Found City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 28,
+        "TreeName": "Barbarian Found City"
+    },
+    {
+        "JumpTo": 5,
+        "NodeId": 2,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 29,
+        "TreeName": "Barbarian Found City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Protect Unit",
+        "PrimaryKey": 30,
+        "TreeName": "Barbarian Found City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Move Unit",
+        "PrimaryKey": 31,
+        "TreeName": "Barbarian Found City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Notify Owner",
+        "PrimaryKey": 32,
+        "TreeName": "Barbarian Found City"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 33,
+        "TreeName": "Build City Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 34,
+        "TreeName": "Build City Building"
+    },
+    {
+        "JumpTo": 4,
+        "NodeId": 2,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 35,
+        "TreeName": "Build City Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Add Goal Tech",
+        "PrimaryKey": 36,
+        "TreeName": "Build City Building"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 4,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 37,
+        "TreeName": "Build City Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 38,
+        "TreeName": "Build City Building"
+    },
+    {
+        "JumpTo": 35,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 39,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 40,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 2,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 41,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 7,
+        "NodeId": 3,
+        "NodeType": "Sequence",
+        "PrimaryKey": 42,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 4,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 43,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Purchase Plot",
+        "PrimaryKey": 44,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Reserve Plot",
+        "PrimaryKey": 45,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 7,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 46,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Add Goal Tech",
+        "PrimaryKey": 47,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 35,
+        "NodeId": 9,
+        "NodeType": "Sequence",
+        "PrimaryKey": 48,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 10,
+        "NodeType": "Priority",
+        "PrimaryKey": 49,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Check Plot",
+        "PrimaryKey": 50,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 12,
+        "NodeType": "Sequence",
+        "PrimaryKey": 51,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 13,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 52,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Add Goal Tech",
+        "PrimaryKey": 53,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 15,
+        "NodeType": "Priority",
+        "PrimaryKey": 54,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Find Available Unit",
+        "PrimaryKey": 55,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 20,
+        "NodeId": 17,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 56,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 18,
+        "NodeType": "Protect Unit",
+        "PrimaryKey": 57,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Move Unit",
+        "PrimaryKey": 58,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 20,
+        "NodeType": "Clear Plot",
+        "PrimaryKey": 59,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Reserve Plot",
+        "PrimaryKey": 60,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 35,
+        "NodeId": 22,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 61,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 25,
+        "NodeId": 23,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 62,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 24,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 63,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 35,
+        "NodeId": 25,
+        "NodeType": "Has Player Ability",
+        "PrimaryKey": 64,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 35,
+        "NodeId": 26,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 65,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 35,
+        "NodeId": 27,
+        "NodeType": "Sequence",
+        "PrimaryKey": 66,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 33,
+        "NodeId": 28,
+        "NodeType": "Priority",
+        "PrimaryKey": 67,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 29,
+        "NodeType": "Find Available Unit",
+        "PrimaryKey": 68,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 32,
+        "NodeId": 30,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 69,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 31,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 70,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 32,
+        "NodeType": "Cancel Contract",
+        "PrimaryKey": 71,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 33,
+        "NodeType": "Move Unit",
+        "PrimaryKey": 72,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 34,
+        "NodeType": "Build Production",
+        "PrimaryKey": 73,
+        "TreeName": "Build City District"
+    },
+    {
+        "JumpTo": 21,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 103,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 104,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Add Goal Tech",
+        "PrimaryKey": 105,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Choose City",
+        "PrimaryKey": 106,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 4,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 107,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Purchase Plot",
+        "PrimaryKey": 108,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Reserve Plot",
+        "PrimaryKey": 109,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 19,
+        "NodeId": 7,
+        "NodeType": "Priority",
+        "PrimaryKey": 110,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Check Plot",
+        "PrimaryKey": 111,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 19,
+        "NodeId": 9,
+        "NodeType": "Sequence",
+        "PrimaryKey": 112,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Add Goal Tech",
+        "PrimaryKey": 113,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 11,
+        "NodeType": "Priority",
+        "PrimaryKey": 114,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Find Available Unit",
+        "PrimaryKey": 115,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 13,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 116,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 117,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 18,
+        "NodeId": 15,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 118,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Protect Unit",
+        "PrimaryKey": 119,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 17,
+        "NodeType": "Move Unit",
+        "PrimaryKey": 120,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 18,
+        "NodeType": "Clear Plot",
+        "PrimaryKey": 121,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 21,
+        "NodeId": 19,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 122,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 20,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 123,
+        "TreeName": "Build Trigger Building"
+    },
+    {
+        "JumpTo": 24,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 124,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 125,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Choose Improvement",
+        "PrimaryKey": 126,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 5,
+        "NodeId": 3,
+        "NodeType": "Turn Limiter",
+        "PrimaryKey": 127,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Add Goal Tech",
+        "PrimaryKey": 128,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 16,
+        "NodeId": 5,
+        "NodeType": "Priority",
+        "PrimaryKey": 129,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Check Plot",
+        "PrimaryKey": 130,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 16,
+        "NodeId": 7,
+        "NodeType": "Sequence",
+        "PrimaryKey": 131,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 8,
+        "NodeType": "Priority",
+        "PrimaryKey": 132,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Find Available Unit",
+        "PrimaryKey": 133,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 10,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 134,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 135,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 12,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 136,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Protect Unit",
+        "PrimaryKey": 137,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Move Unit",
+        "PrimaryKey": 138,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Clear Plot",
+        "PrimaryKey": 139,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 20,
+        "NodeId": 16,
+        "NodeType": "Priority",
+        "PrimaryKey": 140,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 17,
+        "NodeType": "Find Available Unit",
+        "PrimaryKey": 141,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 20,
+        "NodeId": 18,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 142,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 143,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 23,
+        "NodeId": 20,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 144,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Protect Unit",
+        "PrimaryKey": 145,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 22,
+        "NodeType": "Move Unit",
+        "PrimaryKey": 146,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 23,
+        "NodeType": "Build Improvement",
+        "PrimaryKey": 147,
+        "TreeName": "Build Trigger Improvement"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 148,
+        "TreeName": "Build Trigger Unit"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 149,
+        "TreeName": "Build Trigger Unit"
+    },
+    {
+        "JumpTo": 4,
+        "NodeId": 2,
+        "NodeType": "Turn Limiter",
+        "PrimaryKey": 150,
+        "TreeName": "Build Trigger Unit"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Add Goal Tech",
+        "PrimaryKey": 151,
+        "TreeName": "Build Trigger Unit"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 4,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 152,
+        "TreeName": "Build Trigger Unit"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 153,
+        "TreeName": "Build Trigger Unit"
+    },
+    {
+        "JumpTo": 24,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 154,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 155,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 156,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 24,
+        "NodeId": 3,
+        "NodeType": "Priority",
+        "PrimaryKey": 157,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 4,
+        "NodeType": "Sequence",
+        "PrimaryKey": 158,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "LUA Script Condition",
+        "PrimaryKey": 159,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 6,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 160,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 161,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Use Scripted Command",
+        "PrimaryKey": 162,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Operation Launch nuke",
+        "PrimaryKey": 163,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 164,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 165,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 24,
+        "NodeId": 12,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 166,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Operation Pillage",
+        "PrimaryKey": 167,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 18,
+        "NodeId": 14,
+        "NodeType": "Priority",
+        "PrimaryKey": 168,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 17,
+        "NodeId": 15,
+        "NodeType": "Not",
+        "PrimaryKey": 169,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Is Near Fallout",
+        "PrimaryKey": 170,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 17,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 171,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 18,
+        "NodeType": "Make Formation",
+        "PrimaryKey": 172,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Use Scripted Command",
+        "PrimaryKey": 173,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 20,
+        "NodeType": "Operation Launch nuke",
+        "PrimaryKey": 174,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Operation Pillage",
+        "PrimaryKey": 175,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 22,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 176,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 23,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 177,
+        "TreeName": "Civ Royale Behavior"
+    },
+    {
+        "JumpTo": 55,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 178,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 179,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 5,
+        "NodeId": 2,
+        "NodeType": "Priority",
+        "PrimaryKey": 180,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Can Alpha City",
+        "PrimaryKey": 181,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 182,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 183,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 55,
+        "NodeId": 6,
+        "NodeType": "Sequence",
+        "PrimaryKey": 184,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 14,
+        "NodeId": 7,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 185,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 8,
+        "NodeType": "Priority",
+        "PrimaryKey": 186,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Operation Is Ready",
+        "PrimaryKey": 187,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 10,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 188,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 189,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 190,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 191,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Lock Units",
+        "PrimaryKey": 192,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Operation Diplomacy",
+        "PrimaryKey": 193,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 24,
+        "NodeId": 16,
+        "NodeType": "Turn Limiter",
+        "PrimaryKey": 194,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 24,
+        "NodeId": 17,
+        "NodeType": "Priority",
+        "PrimaryKey": 195,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 18,
+        "NodeType": "Is At War",
+        "PrimaryKey": 196,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 24,
+        "NodeId": 19,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 197,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 20,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 198,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 199,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 22,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 200,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 23,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 201,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 32,
+        "NodeId": 24,
+        "NodeType": "Priority",
+        "PrimaryKey": 202,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 25,
+        "NodeType": "Is At War",
+        "PrimaryKey": 203,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 32,
+        "NodeId": 26,
+        "NodeType": "Turn Limiter",
+        "PrimaryKey": 204,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 32,
+        "NodeId": 27,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 205,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 30,
+        "NodeId": 28,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 206,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 29,
+        "NodeType": "Operation Diplomacy",
+        "PrimaryKey": 207,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 30,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 208,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 31,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 209,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 41,
+        "NodeId": 32,
+        "NodeType": "Turn Limiter",
+        "PrimaryKey": 210,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 41,
+        "NodeId": 33,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 211,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 34,
+        "NodeType": "Is At War",
+        "PrimaryKey": 212,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 35,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 213,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 36,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 214,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 37,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 215,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 38,
+        "NodeType": "Operation Pillage",
+        "PrimaryKey": 216,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 39,
+        "NodeType": "Operation Siege City",
+        "PrimaryKey": 217,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 40,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 218,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 55,
+        "NodeId": 41,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 219,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 42,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 220,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 43,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 221,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 48,
+        "NodeId": 44,
+        "NodeType": "Priority",
+        "PrimaryKey": 222,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 47,
+        "NodeId": 45,
+        "NodeType": "Not",
+        "PrimaryKey": 223,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 46,
+        "NodeType": "Can Alpha City",
+        "PrimaryKey": 224,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 47,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 225,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 48,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 226,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 49,
+        "NodeType": "Operation Pillage",
+        "PrimaryKey": 227,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 50,
+        "NodeType": "Operation Siege City",
+        "PrimaryKey": 228,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 51,
+        "NodeType": "Build Military Improvement",
+        "PrimaryKey": 229,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 52,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 230,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 53,
+        "NodeType": "Operation Pillage",
+        "PrimaryKey": 231,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 54,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 232,
+        "TreeName": "Early City Assault"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 233,
+        "TreeName": "Escort Worker To Camp"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Make Formation",
+        "PrimaryKey": 234,
+        "TreeName": "Escort Worker To Camp"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 235,
+        "TreeName": "Escort Worker To Camp"
+    },
+    {
+        "JumpTo": 7,
+        "NodeId": 3,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 236,
+        "TreeName": "Escort Worker To Camp"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Operation Is Ready",
+        "PrimaryKey": 237,
+        "TreeName": "Escort Worker To Camp"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 238,
+        "TreeName": "Escort Worker To Camp"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 239,
+        "TreeName": "Escort Worker To Camp"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Make Formation",
+        "PrimaryKey": 240,
+        "TreeName": "Escort Worker To Camp"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 241,
+        "TreeName": "Escort Worker To Camp"
+    },
+    {
+        "JumpTo": 16,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 242,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 243,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 2,
+        "NodeType": "Priority",
+        "PrimaryKey": 244,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 5,
+        "NodeId": 3,
+        "NodeType": "Not",
+        "PrimaryKey": 245,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Is City Threatened",
+        "PrimaryKey": 246,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 247,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 6,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 248,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 249,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 250,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 16,
+        "NodeId": 9,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 251,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Operation Pillage",
+        "PrimaryKey": 252,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 253,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Operation Siege City",
+        "PrimaryKey": 254,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 255,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Operation Pillage",
+        "PrimaryKey": 256,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 257,
+        "TreeName": "Free Cities Assault"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 258,
+        "TreeName": "Launch Inquisition"
+    },
+    {
+        "JumpTo": 3,
+        "NodeId": 1,
+        "NodeType": "Not",
+        "PrimaryKey": 259,
+        "TreeName": "Launch Inquisition"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Has Inquisition",
+        "PrimaryKey": 260,
+        "TreeName": "Launch Inquisition"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 3,
+        "NodeType": "Sequence",
+        "PrimaryKey": 261,
+        "TreeName": "Launch Inquisition"
+    },
+    {
+        "JumpTo": 8,
+        "NodeId": 4,
+        "NodeType": "Priority",
+        "PrimaryKey": 262,
+        "TreeName": "Launch Inquisition"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Find Available Unit",
+        "PrimaryKey": 263,
+        "TreeName": "Launch Inquisition"
+    },
+    {
+        "JumpTo": 8,
+        "NodeId": 6,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 264,
+        "TreeName": "Launch Inquisition"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 265,
+        "TreeName": "Launch Inquisition"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Launch Inquisition",
+        "PrimaryKey": 266,
+        "TreeName": "Launch Inquisition"
+    },
+    {
+        "JumpTo": 5,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 267,
+        "TreeName": "Manage Archaeologist"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 268,
+        "TreeName": "Manage Archaeologist"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Move Unit",
+        "PrimaryKey": 269,
+        "TreeName": "Manage Archaeologist"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "ARCHAEOLOGY: Dig",
+        "PrimaryKey": 270,
+        "TreeName": "Manage Archaeologist"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "ARCHAEOLOGY: Donate",
+        "PrimaryKey": 271,
+        "TreeName": "Manage Archaeologist"
+    },
+    {
+        "JumpTo": 13,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 272,
+        "TreeName": "Manage Great Person"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Has Great Person",
+        "PrimaryKey": 273,
+        "TreeName": "Manage Great Person"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Has Valid Target",
+        "PrimaryKey": 274,
+        "TreeName": "Manage Great Person"
+    },
+    {
+        "JumpTo": 13,
+        "NodeId": 3,
+        "NodeType": "Sequence",
+        "PrimaryKey": 275,
+        "TreeName": "Manage Great Person"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 4,
+        "NodeType": "Priority",
+        "PrimaryKey": 276,
+        "TreeName": "Manage Great Person"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Find Unit Targets",
+        "PrimaryKey": 277,
+        "TreeName": "Manage Great Person"
+    },
+    {
+        "JumpTo": 8,
+        "NodeId": 6,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 278,
+        "TreeName": "Manage Great Person"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 279,
+        "TreeName": "Manage Great Person"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Upgrade Units",
+        "PrimaryKey": 280,
+        "TreeName": "Manage Great Person"
+    },
+    {
+        "JumpTo": 13,
+        "NodeId": 9,
+        "NodeType": "Sequence",
+        "PrimaryKey": 281,
+        "TreeName": "Manage Great Person"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Protect Unit",
+        "PrimaryKey": 282,
+        "TreeName": "Manage Great Person"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Move Unit",
+        "PrimaryKey": 283,
+        "TreeName": "Manage Great Person"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Use Great Person",
+        "PrimaryKey": 284,
+        "TreeName": "Manage Great Person"
+    },
+    {
+        "JumpTo": 8,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 285,
+        "TreeName": "Manage Spy"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 286,
+        "TreeName": "Manage Spy"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "SPY: Travel",
+        "PrimaryKey": 287,
+        "TreeName": "Manage Spy"
+    },
+    {
+        "JumpTo": 8,
+        "NodeId": 3,
+        "NodeType": "Priority",
+        "PrimaryKey": 288,
+        "TreeName": "Manage Spy"
+    },
+    {
+        "JumpTo": 7,
+        "NodeId": 4,
+        "NodeType": "Sequence",
+        "PrimaryKey": 289,
+        "TreeName": "Manage Spy"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "SPY: Choose Mission",
+        "PrimaryKey": 290,
+        "TreeName": "Manage Spy"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "SPY: Do Operation",
+        "PrimaryKey": 291,
+        "TreeName": "Manage Spy"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "SPY: Travel",
+        "PrimaryKey": 292,
+        "TreeName": "Manage Spy"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 293,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 294,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 2,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 295,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 296,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 297,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 298,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 6,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 299,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 300,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 301,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 13,
+        "NodeId": 9,
+        "NodeType": "Naval Choose Target",
+        "PrimaryKey": 302,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 13,
+        "NodeId": 10,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 303,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 304,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 305,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Naval Pillage",
+        "PrimaryKey": 306,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Naval Patrol",
+        "PrimaryKey": 307,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 17,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 308,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 309,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 310,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 17,
+        "NodeId": 3,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 311,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Will use nukes",
+        "PrimaryKey": 312,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 17,
+        "NodeId": 5,
+        "NodeType": "Sequence",
+        "PrimaryKey": 313,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 10,
+        "NodeId": 6,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 314,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 7,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 315,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 316,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 317,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Lock Units",
+        "PrimaryKey": 318,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 17,
+        "NodeId": 11,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 319,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 320,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 321,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 322,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 323,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Operation Launch nuke",
+        "PrimaryKey": 324,
+        "TreeName": "Nuclear Assault"
+    },
+    {
+        "JumpTo": 26,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 325,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 326,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 2,
+        "NodeType": "Sequence",
+        "PrimaryKey": 327,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Barbarian Spawn Change",
+        "PrimaryKey": 328,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 8,
+        "NodeId": 4,
+        "NodeType": "Priority",
+        "PrimaryKey": 329,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 7,
+        "NodeId": 5,
+        "NodeType": "Turn Limiter",
+        "PrimaryKey": 330,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Barbarian Recruit",
+        "PrimaryKey": 331,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Barbarian Spawn Change",
+        "PrimaryKey": 332,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Barbarian Spawn Change",
+        "PrimaryKey": 333,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 9,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 334,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 335,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 336,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 12,
+        "NodeType": "Priority",
+        "PrimaryKey": 337,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Barbarian Raid Check",
+        "PrimaryKey": 338,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 14,
+        "NodeType": "Turn Limiter",
+        "PrimaryKey": 339,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 15,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 340,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 341,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 17,
+        "NodeType": "Operation Pillage",
+        "PrimaryKey": 342,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 20,
+        "NodeId": 18,
+        "NodeType": "In Difficulty Range",
+        "PrimaryKey": 343,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 344,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 20,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 345,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 346,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 25,
+        "NodeId": 22,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 347,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 23,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 348,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 24,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 349,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 25,
+        "NodeType": "Notify Owner",
+        "PrimaryKey": 350,
+        "TreeName": "Raid City"
+    },
+    {
+        "JumpTo": 23,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 351,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 352,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 353,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 23,
+        "NodeId": 3,
+        "NodeType": "Sequence",
+        "PrimaryKey": 354,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 355,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 10,
+        "NodeId": 5,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 356,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 8,
+        "NodeId": 6,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 357,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 358,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 359,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 360,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Lock Units",
+        "PrimaryKey": 361,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 16,
+        "NodeId": 11,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 362,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 363,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 364,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 365,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 366,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 23,
+        "NodeId": 16,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 367,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 17,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 368,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 18,
+        "NodeType": "Operation Pillage",
+        "PrimaryKey": 369,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 370,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 20,
+        "NodeType": "Operation Siege City",
+        "PrimaryKey": 371,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 372,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 22,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 373,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 4,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 374,
+        "TreeName": "Research Trigger Tech"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 375,
+        "TreeName": "Research Trigger Tech"
+    },
+    {
+        "JumpTo": 4,
+        "NodeId": 2,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 376,
+        "TreeName": "Research Trigger Tech"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Add Goal Tech",
+        "PrimaryKey": 377,
+        "TreeName": "Research Trigger Tech"
+    },
+    {
+        "JumpTo": 48,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 378,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 1,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 379,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 380,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 7,
+        "NodeId": 3,
+        "NodeType": "Sequence",
+        "PrimaryKey": 381,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 4,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 382,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Purchase Plot",
+        "PrimaryKey": 383,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Reserve Plot",
+        "PrimaryKey": 384,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 385,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 8,
+        "NodeType": "Sequence",
+        "PrimaryKey": 386,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 11,
+        "NodeId": 9,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 387,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Purchase Plot",
+        "PrimaryKey": 388,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Reserve Plot",
+        "PrimaryKey": 389,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 20,
+        "NodeId": 12,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 390,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 13,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 391,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Add Goal Tech",
+        "PrimaryKey": 392,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 20,
+        "NodeId": 15,
+        "NodeType": "Priority",
+        "PrimaryKey": 393,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Check Plot",
+        "PrimaryKey": 394,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 20,
+        "NodeId": 17,
+        "NodeType": "Sequence",
+        "PrimaryKey": 395,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 20,
+        "NodeId": 18,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 396,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Add Goal Tech",
+        "PrimaryKey": 397,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 20,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 398,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 399,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 27,
+        "NodeId": 22,
+        "NodeType": "Sequence",
+        "PrimaryKey": 400,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 25,
+        "NodeId": 23,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 401,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 24,
+        "NodeType": "Add Goal Tech",
+        "PrimaryKey": 402,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 27,
+        "NodeId": 25,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 403,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 26,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 404,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 35,
+        "NodeId": 27,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 405,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 30,
+        "NodeId": 28,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 406,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 29,
+        "NodeType": "Add Goal Tech",
+        "PrimaryKey": 407,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 35,
+        "NodeId": 30,
+        "NodeType": "Priority",
+        "PrimaryKey": 408,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 31,
+        "NodeType": "Check Plot",
+        "PrimaryKey": 409,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 35,
+        "NodeId": 32,
+        "NodeType": "Sequence",
+        "PrimaryKey": 410,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 35,
+        "NodeId": 33,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 411,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 34,
+        "NodeType": "Add Goal Tech",
+        "PrimaryKey": 412,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 48,
+        "NodeId": 35,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 413,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 38,
+        "NodeId": 36,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 414,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 37,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 415,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 48,
+        "NodeId": 38,
+        "NodeType": "Has Player Ability",
+        "PrimaryKey": 416,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 48,
+        "NodeId": 39,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 417,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 48,
+        "NodeId": 40,
+        "NodeType": "Sequence",
+        "PrimaryKey": 418,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 46,
+        "NodeId": 41,
+        "NodeType": "Priority",
+        "PrimaryKey": 419,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 42,
+        "NodeType": "Find Available Unit",
+        "PrimaryKey": 420,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 45,
+        "NodeId": 43,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 421,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 44,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 422,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 45,
+        "NodeType": "Cancel Contract",
+        "PrimaryKey": 423,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 46,
+        "NodeType": "Move Unit",
+        "PrimaryKey": 424,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 47,
+        "NodeType": "Build Production",
+        "PrimaryKey": 425,
+        "TreeName": "Seek Target Wonder"
+    },
+    {
+        "JumpTo": 28,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 426,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 427,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 428,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 28,
+        "NodeId": 3,
+        "NodeType": "Sequence",
+        "PrimaryKey": 429,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 430,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 5,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 431,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 6,
+        "NodeType": "Priority",
+        "PrimaryKey": 432,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Find Available Unit",
+        "PrimaryKey": 433,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 8,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 434,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 11,
+        "NodeId": 9,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 435,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 436,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 11,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 437,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 12,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 438,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 439,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 440,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Lock Units",
+        "PrimaryKey": 441,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 21,
+        "NodeId": 16,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 442,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 17,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 443,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 18,
+        "NodeType": "Make Formation",
+        "PrimaryKey": 444,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 445,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 20,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 446,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 27,
+        "NodeId": 21,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 447,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 22,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 448,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 23,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 449,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 24,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 450,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 25,
+        "NodeType": "Operation Naval Escort",
+        "PrimaryKey": 451,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 26,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 452,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 27,
+        "NodeType": "Settle",
+        "PrimaryKey": 453,
+        "TreeName": "Settle City Op"
+    },
+    {
+        "JumpTo": 57,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 454,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 455,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 5,
+        "NodeId": 2,
+        "NodeType": "Priority",
+        "PrimaryKey": 456,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Can Alpha City",
+        "PrimaryKey": 457,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 458,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 459,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 57,
+        "NodeId": 6,
+        "NodeType": "Sequence",
+        "PrimaryKey": 460,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 7,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 461,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 8,
+        "NodeType": "Priority",
+        "PrimaryKey": 462,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Operation Is Ready",
+        "PrimaryKey": 463,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 10,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 464,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 465,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 466,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Make Formation",
+        "PrimaryKey": 467,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 468,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Lock Units",
+        "PrimaryKey": 469,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Operation Diplomacy",
+        "PrimaryKey": 470,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 25,
+        "NodeId": 17,
+        "NodeType": "Turn Limiter",
+        "PrimaryKey": 471,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 25,
+        "NodeId": 18,
+        "NodeType": "Priority",
+        "PrimaryKey": 472,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Is At War",
+        "PrimaryKey": 473,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 25,
+        "NodeId": 20,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 474,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 475,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 22,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 476,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 23,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 477,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 24,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 478,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 32,
+        "NodeId": 25,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 479,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 29,
+        "NodeId": 26,
+        "NodeType": "Turn Limiter",
+        "PrimaryKey": 480,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 29,
+        "NodeId": 27,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 481,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 28,
+        "NodeType": "Operation Diplomacy",
+        "PrimaryKey": 482,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 29,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 483,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 32,
+        "NodeId": 30,
+        "NodeType": "Turn Limiter",
+        "PrimaryKey": 484,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 31,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 485,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 42,
+        "NodeId": 32,
+        "NodeType": "Turn Limiter",
+        "PrimaryKey": 486,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 42,
+        "NodeId": 33,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 487,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 34,
+        "NodeType": "Is At War",
+        "PrimaryKey": 488,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 35,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 489,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 36,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 490,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 37,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 491,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 38,
+        "NodeType": "Operation Air Assault",
+        "PrimaryKey": 492,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 39,
+        "NodeType": "Operation Pillage",
+        "PrimaryKey": 493,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 40,
+        "NodeType": "Operation Siege City",
+        "PrimaryKey": 494,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 41,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 495,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 57,
+        "NodeId": 42,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 496,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 43,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 497,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 44,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 498,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 49,
+        "NodeId": 45,
+        "NodeType": "Priority",
+        "PrimaryKey": 499,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 48,
+        "NodeId": 46,
+        "NodeType": "Not",
+        "PrimaryKey": 500,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 47,
+        "NodeType": "Can Alpha City",
+        "PrimaryKey": 501,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 48,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 502,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 49,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 503,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 50,
+        "NodeType": "Operation Pillage",
+        "PrimaryKey": 504,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 51,
+        "NodeType": "Operation Siege City",
+        "PrimaryKey": 505,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 52,
+        "NodeType": "Build Military Improvement",
+        "PrimaryKey": 506,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 53,
+        "NodeType": "Operation Air Assault",
+        "PrimaryKey": 507,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 54,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 508,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 55,
+        "NodeType": "Operation Pillage",
+        "PrimaryKey": 509,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 56,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 510,
+        "TreeName": "Siege City Assault"
+    },
+    {
+        "JumpTo": 11,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 511,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Is City Threatened",
+        "PrimaryKey": 512,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 513,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 11,
+        "NodeId": 3,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 514,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 515,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 8,
+        "NodeId": 5,
+        "NodeType": "Priority",
+        "PrimaryKey": 516,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Can Alpha City",
+        "PrimaryKey": 517,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Garrison City",
+        "PrimaryKey": 518,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 519,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 520,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 521,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 2,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 522,
+        "TreeName": "Simple City Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "City Attack",
+        "PrimaryKey": 523,
+        "TreeName": "Simple City Tree"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 524,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 525,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 526,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 527,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 4,
+        "NodeType": "Sequence",
+        "PrimaryKey": 528,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 529,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 13,
+        "NodeId": 6,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 530,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 7,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 531,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 532,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 533,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 13,
+        "NodeId": 10,
+        "NodeType": "Priority",
+        "PrimaryKey": 534,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Operation Is Ready",
+        "PrimaryKey": 535,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 536,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 18,
+        "NodeId": 13,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 537,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 538,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 539,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 540,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 17,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 541,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 18,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 542,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 543,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 20,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 544,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Operation Attack",
+        "PrimaryKey": 545,
+        "TreeName": "Simple Operation Attack"
+    },
+    {
+        "JumpTo": 5,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 546,
+        "TreeName": "Upgrade Units"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Find Available Unit",
+        "PrimaryKey": 547,
+        "TreeName": "Upgrade Units"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Find Unit Targets",
+        "PrimaryKey": 548,
+        "TreeName": "Upgrade Units"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Upgrade Units",
+        "PrimaryKey": 549,
+        "TreeName": "Upgrade Units"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Move Unit",
+        "PrimaryKey": 550,
+        "TreeName": "Upgrade Units"
+    },
+    {
+        "JumpTo": 33,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 551,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 552,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 553,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 33,
+        "NodeId": 3,
+        "NodeType": "Sequence",
+        "PrimaryKey": 554,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 555,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 5,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 556,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 6,
+        "NodeType": "Priority",
+        "PrimaryKey": 557,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Find Available Unit",
+        "PrimaryKey": 558,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 8,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 559,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 11,
+        "NodeId": 9,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 560,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 561,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 11,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 562,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 12,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 563,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 564,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 565,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 15,
+        "NodeType": "Priority",
+        "PrimaryKey": 566,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Operation Is Ready",
+        "PrimaryKey": 567,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 17,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 568,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 18,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 569,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Make Formation",
+        "PrimaryKey": 570,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 20,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 571,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 572,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 22,
+        "NodeType": "Lock Units",
+        "PrimaryKey": 573,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 30,
+        "NodeId": 23,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 574,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 24,
+        "NodeType": "Operation Change Target",
+        "PrimaryKey": 575,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 25,
+        "NodeType": "Recruit Units",
+        "PrimaryKey": 576,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 26,
+        "NodeType": "Make Formation",
+        "PrimaryKey": 577,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 27,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 578,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 28,
+        "NodeType": "Operation Naval Escort",
+        "PrimaryKey": 579,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 29,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 580,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 33,
+        "NodeId": 30,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 581,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 31,
+        "NodeType": "Operation Move",
+        "PrimaryKey": 582,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 32,
+        "NodeType": "Settle",
+        "PrimaryKey": 583,
+        "TreeName": "Use Soothsayer"
+    },
+    {
+        "JumpTo": 27,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 584,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Trigger",
+        "PrimaryKey": 585,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 27,
+        "NodeId": 2,
+        "NodeType": "Sequence",
+        "PrimaryKey": 586,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 17,
+        "NodeId": 3,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 587,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Reserve Plot",
+        "PrimaryKey": 588,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 17,
+        "NodeId": 5,
+        "NodeType": "Priority",
+        "PrimaryKey": 589,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Check Plot",
+        "PrimaryKey": 590,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 17,
+        "NodeId": 7,
+        "NodeType": "Sequence",
+        "PrimaryKey": 591,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 8,
+        "NodeType": "Priority",
+        "PrimaryKey": 592,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Find Available Unit",
+        "PrimaryKey": 593,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 10,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 594,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 595,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Cancel Contract",
+        "PrimaryKey": 596,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 16,
+        "NodeId": 13,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 597,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Protect Unit",
+        "PrimaryKey": 598,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Move Unit",
+        "PrimaryKey": 599,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Clear Plot",
+        "PrimaryKey": 600,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 27,
+        "NodeId": 17,
+        "NodeType": "Sequence",
+        "PrimaryKey": 601,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 18,
+        "NodeType": "Priority",
+        "PrimaryKey": 602,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Find Available Unit",
+        "PrimaryKey": 603,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 22,
+        "NodeId": 20,
+        "NodeType": "Contract Manager Decorator",
+        "PrimaryKey": 604,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Build Unit",
+        "PrimaryKey": 605,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 22,
+        "NodeType": "Cancel Contract",
+        "PrimaryKey": 606,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 26,
+        "NodeId": 23,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 607,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 24,
+        "NodeType": "Protect Unit",
+        "PrimaryKey": 608,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 25,
+        "NodeType": "Move Unit",
+        "PrimaryKey": 609,
+        "TreeName": "Build City Improvement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 26,
+        "NodeType": "Build Improvement",
+        "PrimaryKey": 610,
+        "TreeName": "Build City Improvement"
+    }
+]

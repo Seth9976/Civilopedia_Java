@@ -1,0 +1,44 @@
+[
+    {
+        "AttributeType": "ATTRIBUTE_CULTURAL",
+        "Description": null,
+        "Name": "LOC_ATTRIBUTE_CULTURAL",
+        "ProgressionTreeType": "TREE_ATTRIBUTE_CULTURAL"
+    },
+    {
+        "AttributeType": "ATTRIBUTE_POLITICAL",
+        "Description": null,
+        "Name": "LOC_ATTRIBUTE_POLITICAL",
+        "ProgressionTreeType": "TREE_ATTRIBUTE_POLITICAL"
+    },
+    {
+        "AttributeType": "ATTRIBUTE_ECONOMIC",
+        "Description": null,
+        "Name": "LOC_ATTRIBUTE_ECONOMIC",
+        "ProgressionTreeType": "TREE_ATTRIBUTE_ECONOMIC"
+    },
+    {
+        "AttributeType": "ATTRIBUTE_EXPANSIONIST",
+        "Description": null,
+        "Name": "LOC_ATTRIBUTE_EXPANSIONIST",
+        "ProgressionTreeType": "TREE_ATTRIBUTE_EXPANSIONIST"
+    },
+    {
+        "AttributeType": "ATTRIBUTE_MILITARISTIC",
+        "Description": null,
+        "Name": "LOC_ATTRIBUTE_MILITARISTIC",
+        "ProgressionTreeType": "TREE_ATTRIBUTE_MILITARISTIC"
+    },
+    {
+        "AttributeType": "ATTRIBUTE_SCIENTIFIC",
+        "Description": null,
+        "Name": "LOC_ATTRIBUTE_SCIENTIFIC",
+        "ProgressionTreeType": "TREE_ATTRIBUTE_SCIENTIFIC"
+    },
+    {
+        "AttributeType": "ATTRIBUTE_WILDCARD",
+        "Description": null,
+        "Name": "LOC_ATTRIBUTE_WILDCARD",
+        "ProgressionTreeType": null
+    }
+]

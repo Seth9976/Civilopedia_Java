@@ -1,0 +1,34 @@
+[
+    {
+        "Age": "AGE_EXPLORATION",
+        "Description": "LOC_LEGACY_PATH_EXPLORATION_CULTURE_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "LEGACY_PATH_CLASS_CULTURE",
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_CULTURE",
+        "Name": "LOC_LEGACY_PATH_EXPLORATION_CULTURE_NAME"
+    },
+    {
+        "Age": "AGE_EXPLORATION",
+        "Description": "LOC_LEGACY_PATH_EXPLORATION_ECONOMIC_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "LEGACY_PATH_CLASS_ECONOMIC",
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_ECONOMIC",
+        "Name": "LOC_LEGACY_PATH_EXPLORATION_ECONOMIC_NAME"
+    },
+    {
+        "Age": "AGE_EXPLORATION",
+        "Description": "LOC_LEGACY_PATH_EXPLORATION_MILITARY_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "LEGACY_PATH_CLASS_MILITARY",
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_MILITARY",
+        "Name": "LOC_LEGACY_PATH_EXPLORATION_MILITARY_NAME"
+    },
+    {
+        "Age": "AGE_EXPLORATION",
+        "Description": "LOC_LEGACY_PATH_EXPLORATION_SCIENCE_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "LEGACY_PATH_CLASS_SCIENCE",
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_SCIENCE",
+        "Name": "LOC_LEGACY_PATH_EXPLORATION_SCIENCE_NAME"
+    }
+]

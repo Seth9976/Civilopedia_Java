@@ -1,0 +1,57 @@
+[
+    {
+        "HeroClassType": "HEROCLASS_ANANSI",
+        "Passive": 0,
+        "UnitCommandType": "UNITCOMMAND_RESOURCE_INSPIRE"
+    },
+    {
+        "HeroClassType": "HEROCLASS_ARTHUR",
+        "Passive": 0,
+        "UnitCommandType": "UNITCOMMAND_TRANSFORM_UNIT"
+    },
+    {
+        "HeroClassType": "HEROCLASS_BEOWULF",
+        "Passive": 0,
+        "UnitCommandType": "UNITCOMMAND_KILL_WEAKER_UNIT"
+    },
+    {
+        "HeroClassType": "HEROCLASS_HERCULES",
+        "Passive": 0,
+        "UnitCommandType": "UNITCOMMAND_COMPLETE_DISTRICT"
+    },
+    {
+        "HeroClassType": "HEROCLASS_HERCULES",
+        "Passive": 0,
+        "UnitCommandType": "UNITCOMMAND_DESTROY_DEVELOPMENT"
+    },
+    {
+        "HeroClassType": "HEROCLASS_HIMIKO",
+        "Passive": 0,
+        "UnitCommandType": "UNITCOMMAND_GRANT_ENVOY"
+    },
+    {
+        "HeroClassType": "HEROCLASS_HIMIKO",
+        "Passive": 0,
+        "UnitCommandType": "UNITCOMMAND_FORCE_LEVY_MILITARY"
+    },
+    {
+        "HeroClassType": "HEROCLASS_HIPPOLYTA",
+        "Passive": 0,
+        "UnitCommandType": "UNITCOMMAND_RESTORE_UNIT_MOVES"
+    },
+    {
+        "HeroClassType": "HEROCLASS_MAUI",
+        "Passive": 0,
+        "UnitCommandType": "UNITCOMMAND_CREATE_RANDOM_RESOURCE"
+    },
+    {
+        "HeroClassType": "HEROCLASS_OYA",
+        "Passive": 0,
+        "UnitCommandType": "UNITCOMMAND_AREA_DAMAGE_HEAL"
+    },
+    {
+        "HeroClassType": "HEROCLASS_SINBAD",
+        "Passive": 0,
+        "UnitCommandType": "UNITCOMMAND_NAVAL_GOLD_RAID"
+    }
+]

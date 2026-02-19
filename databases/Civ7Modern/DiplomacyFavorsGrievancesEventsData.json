@@ -1,0 +1,492 @@
+[
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_FAVOR",
+        "DiplomacyFavorGrievanceEventType": "FAVOR_FROM_PROJECT",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_FAVOR_FROM_PROJECT",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_FAVOR",
+        "DiplomacyFavorGrievanceEventType": "FAVOR_FROM_ENDEAVOR",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_FAVOR_FROM_ENDEAVOR",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 10,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_FAVOR",
+        "DiplomacyFavorGrievanceEventType": "FAVOR_FROM_DISPERSE_IP",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_FAVOR_FROM_DISPERSE_IP",
+        "Range": 10,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 10,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_FAVOR",
+        "DiplomacyFavorGrievanceEventType": "FAVOR_FROM_START_TRADE_ROUTE",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_FAVOR_FROM_START_TRADE_ROUTE",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_FAVOR",
+        "DiplomacyFavorGrievanceEventType": "FAVOR_FROM_SUPPORT",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_FAVOR_FROM_SUPPORT",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_FAVOR",
+        "DiplomacyFavorGrievanceEventType": "FAVOR_FROM_TOWN_LIBERATED",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_FAVOR_FROM_TOWN_LIBERATED",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_FAVOR",
+        "DiplomacyFavorGrievanceEventType": "FAVOR_FROM_INDEPENDENT",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_FAVOR_FROM_INDEPENDENT",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_FAVOR",
+        "DiplomacyFavorGrievanceEventType": "FAVOR_FROM_STORYLET",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_FAVOR_FROM_STORYLET",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 15,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_FAVOR",
+        "DiplomacyFavorGrievanceEventType": "FAVOR_FROM_WAR_SUPPORT_3RD_PARTY",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_FAVOR_FROM_WAR_SUPPORT_3RD_PARTY",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_FAVOR",
+        "DiplomacyFavorGrievanceEventType": "FAVOR_FROM_WONDER",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_FAVOR_FROM_WONDER",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_PROJECT",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_PROJECT",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_ESPIONAGE",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_ESPIONAGE_DISCOVERY",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_SANCTION",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_SANCTION",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_CLOSE_MILITARY",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_CLOSE_MILITARY",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -30,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_ATTACK_CITY_STATE",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_ATTACK_CITY_STATE",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_OPPOSE",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_OPPOSE",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_REJECTED_ENDEAVOR",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_REJECTED_ENDEAVOR",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_REJECTED_ALLIANCE",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_REJECTED_ALLIANCE",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_STORYLET",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_STORYLET",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -15,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_WAR_OPPOSITION_3RD_PARTY",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_WAR_OPPOSITION_3RD_PARTY",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_WONDER",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_WONDER",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -4,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_PRIVATEER_ATTACK",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_PRIVATER_ATTACK",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -4,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_PRIVATEER_PILLAGE",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_PRIVATER_PILLAGE",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -30,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_DECLARING_WAR",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_DECLARING_WAR",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -10,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_ELIMINATE_CIV",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_ELIMINATE_CIV",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 10,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_MUTUAL_WAR",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_MUTUAL_WAR",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -10,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_UNIQUE_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_BORDERS_TOUCH",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_BORDERS_TOUCH",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 10,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_MUTUAL_TRADE",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_MUTUAL_TRADE",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 10,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_DIFFERENT_VICTORIES",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_DIFFERENT_VICTORIES",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -10,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_COMPETATAIVE_VICTORIES",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_COMPETATAIVE_VICTORIES",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 10,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_SHARE_GOVERNMENT",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_SHARE_GOVERNMENT",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 30,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_SHARE_IDEOLOGY",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_SHARE_IDEOLOGY",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -30,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_OPPOSING_IDEOLOGIES",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_OPPOSING_IDEOLOGIES",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_PREVIOUS_AGE",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_PREVIOUS_AGE",
+        "Range": -1,
+        "TeamPropagation": 0
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_LEADER_AGENDA",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_LEADER_AGENDA",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_FROM_FIRE_TUNER",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_FROM_FIRE_TUNER",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_FIRST_MEET",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_FIRST_MEET",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_TEAM",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_TEAM",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_HISTORICAL_EVENT",
+        "DiplomacyFavorGrievanceEventType": "HISTORICAL_EVENT_FADE",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_HISTORICAL_EVENT_FADE",
+        "Range": -1,
+        "TeamPropagation": 0
+    },
+    {
+        "Amount": 20,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_UNIQUE_EVENT",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_CLOSE_LAND_CLAIM",
+        "InfAward": 180,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_CLOSE_LAND_CLAIM",
+        "Range": 10,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_RAZING_SETTLEMENT",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 15,
+        "Name": "LOC_GRIEVANCE_FROM_RAZING_SETTLEMENT",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": 0,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_CAPTURE_SETTLEMENT",
+        "InfAward": 0,
+        "InfAwardPerPopulation": 30,
+        "Name": "LOC_GRIEVANCE_FROM_CAPTURE_SETTLEMENT",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -30,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_WINNING_SUZERAIN",
+        "InfAward": 180,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_WINNING_SUZERAIN",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -30,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_DISPERSING_IP",
+        "InfAward": 180,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_DISPERSING_IP",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -30,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_END_ALLIANCE",
+        "InfAward": 360,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_END_ALLIANCE",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -30,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_BREAK_ALLIANCE",
+        "InfAward": 360,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_BREAK_ALLIANCE",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -5,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_UNEVEN_PEACE_DEAL",
+        "InfAward": 360,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_UNEVEN_PEACE_DEAL",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -10,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_REVEALED_ESPIONAGE",
+        "InfAward": 90,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_REVEALED_ESPIONAGE",
+        "Range": -1,
+        "TeamPropagation": 1
+    },
+    {
+        "Amount": -20,
+        "DiplomacyFavorGrievanceEventGroup": "DIPLOMACY_GRIEVANCE",
+        "DiplomacyFavorGrievanceEventType": "GRIEVANCE_FROM_REVEALED_TS_ESPIONAGE",
+        "InfAward": 180,
+        "InfAwardPerPopulation": 0,
+        "Name": "LOC_GRIEVANCE_FROM_REVEALED_TS_ESPIONAGE",
+        "Range": -1,
+        "TeamPropagation": 1
+    }
+]

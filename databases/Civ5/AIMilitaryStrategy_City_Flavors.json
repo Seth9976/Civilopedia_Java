@@ -1,0 +1,437 @@
+[
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_ENOUGH_MILITARY_UNITS",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_ENOUGH_MILITARY_UNITS",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE_CRITICAL",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE_CRITICAL",
+        "Flavor": 60,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE_CRITICAL",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE_CRITICAL",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE_CRITICAL",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_RECON"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE_CRITICAL",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE_CRITICAL",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE_CRITICAL",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_INFRASTRUCTURE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE_CRITICAL",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_EMPIRE_DEFENSE_CRITICAL",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_ENOUGH_NAVAL_UNITS",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_ENOUGH_NAVAL_UNITS",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_NAVAL_UNITS",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_NAVAL_UNITS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_NAVAL_UNITS",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_NAVAL_UNITS",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_NAVAL_UNITS",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_NAVAL_UNITS",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_NAVAL_UNITS_CRITICAL",
+        "Flavor": 70,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_NAVAL_UNITS_CRITICAL",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_NAVAL_UNITS_CRITICAL",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_NAVAL_UNITS_CRITICAL",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_NAVAL_UNITS_CRITICAL",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_RECON"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_AT_WAR",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_AT_WAR",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_MOBILE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_AT_WAR",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_AT_WAR",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_AT_WAR",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_AT_WAR",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_AIR"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_AT_WAR",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_AT_WAR",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_AT_WAR",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_AT_WAR",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_WAR_MOBILIZATION",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_WAR_MOBILIZATION",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_WAR_MOBILIZATION",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_WAR_MOBILIZATION",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_MOBILE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_WAR_MOBILIZATION",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_WAR_MOBILIZATION",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_WAR_MOBILIZATION",
+        "Flavor": -250,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_WAR_MOBILIZATION",
+        "Flavor": -50,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_WAR_MOBILIZATION",
+        "Flavor": -50,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_WAR_MOBILIZATION",
+        "Flavor": -50,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_WAR_MOBILIZATION",
+        "Flavor": -50,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_RANGED_EARLY",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_MINOR_CIV_GENERAL_DEFENSE",
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_MINOR_CIV_GENERAL_DEFENSE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_MINOR_CIV_GENERAL_DEFENSE",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_MINOR_CIV_THREAT_ELEVATED",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_MINOR_CIV_THREAT_ELEVATED",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_MINOR_CIV_THREAT_CRITICAL",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_MINOR_CIV_THREAT_CRITICAL",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_MINOR_CIV_THREAT_CRITICAL",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_ERADICATE_BARBARIANS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_ERADICATE_BARBARIANS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_MOBILE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_ERADICATE_BARBARIANS",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_WINNING_WARS",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_WINNING_WARS",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_LOSING_WARS",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_LOSING_WARS",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_LOSING_WARS",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_LOSING_WARS",
+        "Flavor": -50,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_LOSING_WARS",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_LOSING_WARS",
+        "Flavor": -15,
+        "FlavorType": "FLAVOR_RECON"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_LOSING_WARS",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_RANGED",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_RANGED",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_RANGED",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_ENOUGH_RANGED",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_ENOUGH_RANGED",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_ENOUGH_RANGED",
+        "Flavor": -50,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_MOBILE",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_MOBILE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_ENOUGH_MOBILE",
+        "Flavor": -50,
+        "FlavorType": "FLAVOR_MOBILE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_AIR",
+        "Flavor": 150,
+        "FlavorType": "FLAVOR_AIR"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_NUKE",
+        "Flavor": 150,
+        "FlavorType": "FLAVOR_NUKE"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_ENOUGH_AIR",
+        "Flavor": -50,
+        "FlavorType": "FLAVOR_AIR"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_ANTIAIR",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_ANTIAIR"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_ENOUGH_ANTIAIR",
+        "Flavor": -50,
+        "FlavorType": "FLAVOR_ANTIAIR"
+    },
+    {
+        "AIMilitaryStrategyType": "MILITARYAISTRATEGY_NEED_AIR_CARRIER",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_AIR_CARRIER"
+    }
+]

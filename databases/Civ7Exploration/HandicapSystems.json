@@ -1,0 +1,72 @@
+[
+    {
+        "HandicapSystemType": "HANDICAP_ARMY_XP",
+        "Name": "LOC_DIFFICULTY_ARMY_X_NAME",
+        "NumLevels": 11
+    },
+    {
+        "HandicapSystemType": "HANDICAP_COMBAT",
+        "Name": "LOC_DIFFICULTY_COMBAT_NAME",
+        "NumLevels": 9
+    },
+    {
+        "HandicapSystemType": "HANDICAP_CULTURE",
+        "Name": "LOC_DIFFICULTY_CULTURE_NAME",
+        "NumLevels": 6
+    },
+    {
+        "HandicapSystemType": "HANDICAP_GOLD",
+        "Name": "LOC_DIFFICULTY_GOLD_NAME",
+        "NumLevels": 6
+    },
+    {
+        "HandicapSystemType": "HANDICAP_HAPPINESS",
+        "Name": "LOC_DIFFICULTY_HAPPINESS_NAME",
+        "NumLevels": 6
+    },
+    {
+        "HandicapSystemType": "HANDICAP_INDEPENDENTS_COMBAT",
+        "Name": "LOC_DIFFICULTY_COMBAT_NAME",
+        "NumLevels": 6
+    },
+    {
+        "HandicapSystemType": "HANDICAP_SCIENCE",
+        "Name": "LOC_DIFFICULTY_SCIENCE_NAME",
+        "NumLevels": 6
+    },
+    {
+        "HandicapSystemType": "HANDICAP_BUILDINGS",
+        "Name": "LOC_DIFFICULTY_BUILDINGS_NAME",
+        "NumLevels": 6
+    },
+    {
+        "HandicapSystemType": "HANDICAP_UNITS",
+        "Name": "LOC_DIFFICULTY_UNITS_NAME",
+        "NumLevels": 6
+    },
+    {
+        "HandicapSystemType": "HANDICAP_WATER_DAMAGE",
+        "Name": "LOC_DIFFICULTY_WATER_DAMAGE_NAME",
+        "NumLevels": 6
+    },
+    {
+        "HandicapSystemType": "HANDICAP_TECH_COST",
+        "Name": "LOC_DIFFICULTY_TECH_COST_NAME",
+        "NumLevels": 6
+    },
+    {
+        "HandicapSystemType": "HANDICAP_CIVIC_COST",
+        "Name": "LOC_DIFFICULTY_CIVIC_COST_NAME",
+        "NumLevels": 6
+    },
+    {
+        "HandicapSystemType": "EX_HANDICAP_CITY_WALLS",
+        "Name": "LOC_DIFFICULTY_CITY_WALLS_NAME",
+        "NumLevels": 4
+    },
+    {
+        "HandicapSystemType": "EX_HANDICAP_TOWN_WALLS",
+        "Name": "LOC_DIFFICULTY_TOWN_WALLS_NAME",
+        "NumLevels": 2
+    }
+]

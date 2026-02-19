@@ -1,0 +1,211 @@
+[
+    {
+        "AllowTransitionCheck": "CanDeclareFriendship",
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": 5,
+        "BaseState": "DIPLO_STATE_FRIENDLY",
+        "OnTransitionAction": "OnDeclareFriendship",
+        "RequireTransitionMax": 25,
+        "RequireTransitionMin": null,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_DECLARED_FRIEND"
+    },
+    {
+        "AllowTransitionCheck": null,
+        "AllowTransitionMax": 15,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_FRIENDLY",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": null,
+        "RequireTransitionMin": -5,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_NEUTRAL"
+    },
+    {
+        "AllowTransitionCheck": null,
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": -5,
+        "BaseState": "DIPLO_STATE_NEUTRAL",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": 15,
+        "RequireTransitionMin": null,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_FRIENDLY"
+    },
+    {
+        "AllowTransitionCheck": null,
+        "AllowTransitionMax": 5,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_NEUTRAL",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": null,
+        "RequireTransitionMin": -15,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_UNFRIENDLY"
+    },
+    {
+        "AllowTransitionCheck": null,
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": -15,
+        "BaseState": "DIPLO_STATE_UNFRIENDLY",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": 5,
+        "RequireTransitionMin": null,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_NEUTRAL"
+    },
+    {
+        "AllowTransitionCheck": "CanDenounce",
+        "AllowTransitionMax": -5,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_UNFRIENDLY",
+        "OnTransitionAction": "OnDenouncePlayer",
+        "RequireTransitionMax": null,
+        "RequireTransitionMin": -25,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_DENOUNCED"
+    },
+    {
+        "AllowTransitionCheck": "CanGoToWar",
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_DENOUNCED",
+        "OnTransitionAction": "GoToWar",
+        "RequireTransitionMax": null,
+        "RequireTransitionMin": -35,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_WAR"
+    },
+    {
+        "AllowTransitionCheck": null,
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_NO_INFLUENCE",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": 1,
+        "RequireTransitionMin": null,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_INFLUENTIAL"
+    },
+    {
+        "AllowTransitionCheck": "HasMaxInfluence",
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_NO_INFLUENCE",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": 1,
+        "RequireTransitionMin": null,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_MAX_INFLUENCE"
+    },
+    {
+        "AllowTransitionCheck": null,
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_INFLUENTIAL",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": null,
+        "RequireTransitionMin": 0,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_NO_INFLUENCE"
+    },
+    {
+        "AllowTransitionCheck": "HasMaxInfluence",
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_INFLUENTIAL",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": null,
+        "RequireTransitionMin": null,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_MAX_INFLUENCE"
+    },
+    {
+        "AllowTransitionCheck": null,
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_MAX_INFLUENCE",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": null,
+        "RequireTransitionMin": 0,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_NO_INFLUENCE"
+    },
+    {
+        "AllowTransitionCheck": "NotMaxInfluence",
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_MAX_INFLUENCE",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": null,
+        "RequireTransitionMin": null,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_INFLUENTIAL"
+    },
+    {
+        "AllowTransitionCheck": null,
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_AWARE",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": 1,
+        "RequireTransitionMin": null,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_PATRON"
+    },
+    {
+        "AllowTransitionCheck": "HasMaxInfluence",
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_AWARE",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": 1,
+        "RequireTransitionMin": null,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_PATRON"
+    },
+    {
+        "AllowTransitionCheck": null,
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_PATRON",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": null,
+        "RequireTransitionMin": 0,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_AWARE"
+    },
+    {
+        "AllowTransitionCheck": "HasMaxInfluence",
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_PATRON",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": null,
+        "RequireTransitionMin": null,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_PROTECTOR"
+    },
+    {
+        "AllowTransitionCheck": null,
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_PROTECTOR",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": null,
+        "RequireTransitionMin": 0,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_AWARE"
+    },
+    {
+        "AllowTransitionCheck": "NotMaxInfluence",
+        "AllowTransitionMax": null,
+        "AllowTransitionMin": null,
+        "BaseState": "DIPLO_STATE_PROTECTOR",
+        "OnTransitionAction": null,
+        "RequireTransitionMax": null,
+        "RequireTransitionMin": null,
+        "ThrottleTurns": 0,
+        "TransitionState": "DIPLO_STATE_PATRON"
+    }
+]

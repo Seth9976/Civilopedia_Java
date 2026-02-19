@@ -1,0 +1,77 @@
+[
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_SHRINE",
+        "Unit": "UNIT_MISSIONARY"
+    },
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_TEMPLE",
+        "Unit": "UNIT_APOSTLE"
+    },
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_STAVE_CHURCH",
+        "Unit": "UNIT_APOSTLE"
+    },
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_TEMPLE",
+        "Unit": "UNIT_INQUISITOR"
+    },
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_STAVE_CHURCH",
+        "Unit": "UNIT_INQUISITOR"
+    },
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_TEMPLE",
+        "Unit": "UNIT_WARRIOR_MONK"
+    },
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_STAVE_CHURCH",
+        "Unit": "UNIT_WARRIOR_MONK"
+    },
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_TEMPLE",
+        "Unit": "UNIT_GURU"
+    },
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_STAVE_CHURCH",
+        "Unit": "UNIT_GURU"
+    },
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_ARMORY",
+        "Unit": "UNIT_MILITARY_ENGINEER"
+    },
+    {
+        "NumSupported": 1,
+        "PrereqBuilding": "BUILDING_MUSEUM_ARTIFACT",
+        "Unit": "UNIT_ARCHAEOLOGIST"
+    },
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_PRASAT",
+        "Unit": "UNIT_APOSTLE"
+    },
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_PRASAT",
+        "Unit": "UNIT_INQUISITOR"
+    },
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_PRASAT",
+        "Unit": "UNIT_WARRIOR_MONK"
+    },
+    {
+        "NumSupported": -1,
+        "PrereqBuilding": "BUILDING_PRASAT",
+        "Unit": "UNIT_GURU"
+    }
+]

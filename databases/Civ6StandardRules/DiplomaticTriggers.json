@@ -1,0 +1,26 @@
+[
+    {
+        "TriggerType": "GO_TO_WAR"
+    },
+    {
+        "TriggerType": "MAKE_PEACE"
+    },
+    {
+        "TriggerType": "DENOUNCE"
+    },
+    {
+        "TriggerType": "DENOUNCE_EXPIRES"
+    },
+    {
+        "TriggerType": "DECLARE_FRIENDSHIP"
+    },
+    {
+        "TriggerType": "DECLARE_FRIENDSHIP_EXPIRES"
+    },
+    {
+        "TriggerType": "DECLARE_ALLIANCE"
+    },
+    {
+        "TriggerType": "LEAVE_ALLIANCE"
+    }
+]

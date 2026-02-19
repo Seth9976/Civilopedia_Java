@@ -1,0 +1,626 @@
+[
+    {
+        "DateTime": 133916169072690917,
+        "Path": "Assets\\Units\\Civ5ArtDefines_UnitMembers.xml"
+    },
+    {
+        "DateTime": 133916169211701130,
+        "Path": "Assets\\Units\\Civ5ArtDefines_Units.xml"
+    },
+    {
+        "DateTime": 133916169072680546,
+        "Path": "Assets\\Units\\Civ5ArtDefines_UnitMemberTemplates.xml"
+    },
+    {
+        "DateTime": 133916218671056312,
+        "Path": "Assets\\DLC\\DLC_01\\Units\\Civ5ArtDefines_Mongol_Units.xml"
+    },
+    {
+        "DateTime": 133916218712835941,
+        "Path": "Assets\\DLC\\DLC_01\\Units\\Civ5ArtDefines_Mongol_UnitMembers.xml"
+    },
+    {
+        "DateTime": 0,
+        "Path": "Civ5ArtDefines_SpainInca_Units.xml"
+    },
+    {
+        "DateTime": 0,
+        "Path": "Civ5ArtDefines_SpainInca_UnitMembers.xml"
+    },
+    {
+        "DateTime": 133918875290104708,
+        "Path": "Assets\\DLC\\DLC_03\\Units\\Civ5ArtDefines_Polynesia_Units.xml"
+    },
+    {
+        "DateTime": 133918875299227067,
+        "Path": "Assets\\DLC\\DLC_03\\Units\\Civ5ArtDefines_Polynesia_UnitMembers.xml"
+    },
+    {
+        "DateTime": 133918875321501355,
+        "Path": "Assets\\DLC\\DLC_04\\Units\\Civ5ArtDefines_Denmark_Units.xml"
+    },
+    {
+        "DateTime": 133918875321511643,
+        "Path": "Assets\\DLC\\DLC_04\\Units\\Civ5ArtDefines_Denmark_UnitMembers.xml"
+    },
+    {
+        "DateTime": 133918875346500175,
+        "Path": "Assets\\DLC\\DLC_05\\Units\\Civ5ArtDefines_Korea_Units.xml"
+    },
+    {
+        "DateTime": 133918875346500175,
+        "Path": "Assets\\DLC\\DLC_05\\Units\\Civ5ArtDefines_Korea_UnitMembers.xml"
+    },
+    {
+        "DateTime": 133918875368171885,
+        "Path": "Assets\\DLC\\DLC_06\\Units\\Civ5ArtDefines_Wonders_Units.xml"
+    },
+    {
+        "DateTime": 133918875368161938,
+        "Path": "Assets\\DLC\\DLC_06\\Units\\Civ5ArtDefines_Wonders_UnitMembers.xml"
+    },
+    {
+        "DateTime": 133918875806272931,
+        "Path": "Assets\\DLC\\DLC_07\\Units\\Civ5ArtDefines_DLC_07_Units.xml"
+    },
+    {
+        "DateTime": 133918875806262961,
+        "Path": "Assets\\DLC\\DLC_07\\Units\\Civ5ArtDefines_DLC_07_UnitMembers.xml"
+    },
+    {
+        "DateTime": 0,
+        "Path": "Civ5ArtDefines_Babylonian_Units.xml"
+    },
+    {
+        "DateTime": 0,
+        "Path": "Civ5ArtDefines_Babylonian_UnitMembers.xml"
+    },
+    {
+        "DateTime": 133918875517925706,
+        "Path": "Assets\\DLC\\Expansion\\Units\\Civ5ArtDefines_Expansion_Units.xml"
+    },
+    {
+        "DateTime": 133918875502245527,
+        "Path": "Assets\\DLC\\Expansion\\Units\\Civ5ArtDefines_Expansion_UnitMembers.xml"
+    },
+    {
+        "DateTime": 133918875715521698,
+        "Path": "Assets\\DLC\\Expansion2\\Units\\Civ5ArtDefines_Expansion2_Inherited_Units.xml"
+    },
+    {
+        "DateTime": 133918875718556697,
+        "Path": "Assets\\DLC\\Expansion2\\Units\\Civ5ArtDefines_Expansion2_Inherited_UnitMembers.xml"
+    },
+    {
+        "DateTime": 133918875714921637,
+        "Path": "Assets\\DLC\\Expansion2\\Units\\Civ5ArtDefines_Expansion2_Units.xml"
+    },
+    {
+        "DateTime": 133918875718556697,
+        "Path": "Assets\\DLC\\Expansion2\\Units\\Civ5ArtDefines_Expansion2_UnitMembers.xml"
+    },
+    {
+        "DateTime": 0,
+        "Path": "Assets\\Buildings\\Civ5ArtDefines_Landmarks.xml"
+    },
+    {
+        "DateTime": 0,
+        "Path": "Assets\\Buildings\\Civ5ArtDefines_LandmarkTypes.xml"
+    },
+    {
+        "DateTime": 133918874574460541,
+        "Path": "Assets\\DLC\\DLC_02\\Features\\Civ5ArtDefines_LandmarkTypes_DLC_02.xml"
+    },
+    {
+        "DateTime": 133918874574460541,
+        "Path": "Assets\\DLC\\DLC_02\\Features\\Civ5ArtDefines_Landmarks_DLC_02.xml"
+    },
+    {
+        "DateTime": 133918875277939951,
+        "Path": "Assets\\DLC\\DLC_03\\Buildings\\Improvements\\Civ5ArtDefines_Landmarks_DLC_03.xml"
+    },
+    {
+        "DateTime": 133918875277892270,
+        "Path": "Assets\\DLC\\DLC_03\\Buildings\\Improvements\\Civ5ArtDefines_LandmarkTypes_DLC_03.xml"
+    },
+    {
+        "DateTime": 133918875308421963,
+        "Path": "Assets\\DLC\\DLC_04\\Buildings\\Civ5ArtDefines_LandmarkTypes_Denmark.xml"
+    },
+    {
+        "DateTime": 133918875307735986,
+        "Path": "Assets\\DLC\\DLC_04\\Buildings\\Civ5ArtDefines_Landmarks_Denmark.xml"
+    },
+    {
+        "DateTime": 133918875335559090,
+        "Path": "Assets\\DLC\\DLC_05\\Buildings\\Civ5ArtDefines_LandmarkTypes_Korea.xml"
+    },
+    {
+        "DateTime": 133918875335574069,
+        "Path": "Assets\\DLC\\DLC_05\\Buildings\\Civ5ArtDefines_Landmarks_Korea.xml"
+    },
+    {
+        "DateTime": 133918875778596527,
+        "Path": "Assets\\DLC\\DLC_07\\Buildings\\Civ5ArtDefines_LandmarkTypes_DLC_07.xml"
+    },
+    {
+        "DateTime": 133918875779260478,
+        "Path": "Assets\\DLC\\DLC_07\\Buildings\\Civ5ArtDefines_Landmarks_DLC_07.xml"
+    },
+    {
+        "DateTime": 133918875374956242,
+        "Path": "Assets\\DLC\\Expansion\\Buildings\\Civ5ArtDefines_LandmarkTypes_Expansion.xml"
+    },
+    {
+        "DateTime": 133918875374946144,
+        "Path": "Assets\\DLC\\Expansion\\Buildings\\Civ5ArtDefines_Landmarks_Expansion.xml"
+    },
+    {
+        "DateTime": 133918875554312019,
+        "Path": "Assets\\DLC\\Expansion2\\Buildings\\Civ5ArtDefines_LandmarkTypes_Inherited_Expansion2.xml"
+    },
+    {
+        "DateTime": 133918875553642432,
+        "Path": "Assets\\DLC\\Expansion2\\Buildings\\Civ5ArtDefines_Landmarks_Inherited_Expansion2.xml"
+    },
+    {
+        "DateTime": 133918875554301849,
+        "Path": "Assets\\DLC\\Expansion2\\Buildings\\Civ5ArtDefines_LandmarkTypes_Expansion_2.xml"
+    },
+    {
+        "DateTime": 133918875554312019,
+        "Path": "Assets\\DLC\\Expansion2\\Buildings\\Civ5ArtDefines_Landmarks_Expansion_2.xml"
+    },
+    {
+        "DateTime": 133916168713198627,
+        "Path": "Assets\\DLC\\Shared\\Features\\Civ5ArtDefines_LandmarkTypes_Upgrade1.xml"
+    },
+    {
+        "DateTime": 133916168715676705,
+        "Path": "Assets\\DLC\\Shared\\Features\\Civ5ArtDefines_Landmarks_Upgrade1.xml"
+    },
+    {
+        "DateTime": 133918875566747702,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GlobalDefines.xml"
+    },
+    {
+        "DateTime": 133918875564399826,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\AI\\GlobalAIDefines.xml"
+    },
+    {
+        "DateTime": 133918875564399826,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\AI\\GlobalDiplomacyAIDefines.xml"
+    },
+    {
+        "DateTime": 133918875564389746,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\AI\\CIV5AICityStrategies.xml"
+    },
+    {
+        "DateTime": 133916168728575905,
+        "Path": "Assets\\Gameplay\\XML\\AI\\CIV5AIGrandStrategies.xml"
+    },
+    {
+        "DateTime": 133918875563940660,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\AI\\CIV5AIEconomicStrategies.xml"
+    },
+    {
+        "DateTime": 133918875563930547,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\AI\\CIV5AIMilitaryStrategies.xml"
+    },
+    {
+        "DateTime": 133918875564389746,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\AI\\CIV5CitySpecializations.xml"
+    },
+    {
+        "DateTime": 133918875564389746,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\AI\\CIV5TacticalMoves.xml"
+    },
+    {
+        "DateTime": 133916168728575905,
+        "Path": "Assets\\Gameplay\\XML\\BasicInfos\\CIV5Attitudes.xml"
+    },
+    {
+        "DateTime": 133916168728575905,
+        "Path": "Assets\\Gameplay\\XML\\BasicInfos\\CIV5Calendars.xml"
+    },
+    {
+        "DateTime": 133916168716769962,
+        "Path": "Assets\\Gameplay\\XML\\BasicInfos\\CIV5CitySizes.xml"
+    },
+    {
+        "DateTime": 133916168698750509,
+        "Path": "Assets\\Gameplay\\XML\\BasicInfos\\CIV5Concepts.xml"
+    },
+    {
+        "DateTime": 133916168719893579,
+        "Path": "Assets\\Gameplay\\XML\\BasicInfos\\CIV5Contacts.xml"
+    },
+    {
+        "DateTime": 133916168719893579,
+        "Path": "Assets\\Gameplay\\XML\\BasicInfos\\CIV5DenialInfos.xml"
+    },
+    {
+        "DateTime": 133918875564399826,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\BasicInfos\\CIV5Domains.xml"
+    },
+    {
+        "DateTime": 133916168721177325,
+        "Path": "Assets\\Gameplay\\XML\\BasicInfos\\CIV5InvisibleInfos.xml"
+    },
+    {
+        "DateTime": 133916168720476391,
+        "Path": "Assets\\Gameplay\\XML\\BasicInfos\\CIV5MajorCivApproachTypes.xml"
+    },
+    {
+        "DateTime": 133916168729196020,
+        "Path": "Assets\\Gameplay\\XML\\BasicInfos\\CIV5MemoryInfos.xml"
+    },
+    {
+        "DateTime": 133918875564399826,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\BasicInfos\\CIV5MinorCivApproachTypes.xml"
+    },
+    {
+        "DateTime": 133918875564943361,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\BasicInfos\\CIV5MinorCivTraits.xml"
+    },
+    {
+        "DateTime": 133916168716769962,
+        "Path": "Assets\\Gameplay\\XML\\BasicInfos\\CIV5Months.xml"
+    },
+    {
+        "DateTime": 133916168728585929,
+        "Path": "Assets\\Gameplay\\XML\\BasicInfos\\CIV5Seasons.xml"
+    },
+    {
+        "DateTime": 133918875564389746,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\BasicInfos\\CIV5UnitAIInfos.xml"
+    },
+    {
+        "DateTime": 133918875564399826,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\BasicInfos\\CIV5UnitCombatInfos.xml"
+    },
+    {
+        "DateTime": 133918875564933311,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Buildings\\CIV5BuildingClasses.xml"
+    },
+    {
+        "DateTime": 133918875564399826,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Buildings\\CIV5Buildings.xml"
+    },
+    {
+        "DateTime": 133918875564943361,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Civilizations\\CIV5Civilizations.xml"
+    },
+    {
+        "DateTime": 133918875566211411,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Civilizations\\CIV5MinorCivilizations.xml"
+    },
+    {
+        "DateTime": 133916168728575905,
+        "Path": "Assets\\Gameplay\\XML\\Civilizations\\CIV5Regions.xml"
+    },
+    {
+        "DateTime": 133918875565545421,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Civilizations\\CIV5Traits.xml"
+    },
+    {
+        "DateTime": 133916168720476391,
+        "Path": "Assets\\Gameplay\\XML\\Diplomacy\\Civ5Diplomacy_Responses.xml"
+    },
+    {
+        "DateTime": 133916168716769962,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5ArtStyleTypes.xml"
+    },
+    {
+        "DateTime": 133916168717397196,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5Climates.xml"
+    },
+    {
+        "DateTime": 133916168720476391,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5Cursors.xml"
+    },
+    {
+        "DateTime": 133916168721200594,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5EmphasizeInfos.xml"
+    },
+    {
+        "DateTime": 133918875564943361,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GameInfo\\CIV5Eras.xml"
+    },
+    {
+        "DateTime": 133918875565545421,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GameInfo\\CIV5Flavors.xml"
+    },
+    {
+        "DateTime": 133916168729196020,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5GameOptions.xml"
+    },
+    {
+        "DateTime": 133918875564943361,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GameInfo\\CIV5GameSpeeds.xml"
+    },
+    {
+        "DateTime": 133918875565555544,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GameInfo\\CIV5HandicapInfos.xml"
+    },
+    {
+        "DateTime": 133916168718019243,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5HurryInfos.xml"
+    },
+    {
+        "DateTime": 133916168721190564,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5IconFontMapping.xml"
+    },
+    {
+        "DateTime": 133916168729809199,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5IconTextureAtlases.xml"
+    },
+    {
+        "DateTime": 133916168721190564,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5MultiplayerOptions.xml"
+    },
+    {
+        "DateTime": 133916168717397196,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5PlayerOptions.xml"
+    },
+    {
+        "DateTime": 133918875566222317,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GameInfo\\CIV5Policies.xml"
+    },
+    {
+        "DateTime": 133918875565555544,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GameInfo\\CIV5PolicyBranchTypes.xml"
+    },
+    {
+        "DateTime": 133918875566211411,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GameInfo\\CIV5Processes.xml"
+    },
+    {
+        "DateTime": 133918875566747702,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GameInfo\\CIV5Projects.xml"
+    },
+    {
+        "DateTime": 133916168717397196,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5Replays.xml"
+    },
+    {
+        "DateTime": 133916168721190564,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5SeaLevels.xml"
+    },
+    {
+        "DateTime": 133916168729809199,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5SmallAwards.xml"
+    },
+    {
+        "DateTime": 133918875565555544,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GameInfo\\CIV5Specialists.xml"
+    },
+    {
+        "DateTime": 133916168717397196,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5Trades.xml"
+    },
+    {
+        "DateTime": 133916168717408648,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5TurnTimers.xml"
+    },
+    {
+        "DateTime": 133918875566736981,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GameInfo\\CIV5GoodyHuts.xml"
+    },
+    {
+        "DateTime": 133918875566222317,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GameInfo\\CIV5Victories.xml"
+    },
+    {
+        "DateTime": 133916168718019243,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5Votes.xml"
+    },
+    {
+        "DateTime": 133916168718019243,
+        "Path": "Assets\\Gameplay\\XML\\GameInfo\\CIV5VoteSources.xml"
+    },
+    {
+        "DateTime": 133918875566747702,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GameInfo\\CIV5Worlds.xml"
+    },
+    {
+        "DateTime": 133916168718007466,
+        "Path": "Assets\\Gameplay\\XML\\Interface\\CIV5Colors.xml"
+    },
+    {
+        "DateTime": 133916168718007466,
+        "Path": "Assets\\Gameplay\\XML\\Interface\\CIV5InterfaceModes.xml"
+    },
+    {
+        "DateTime": 133916168730308494,
+        "Path": "Assets\\Gameplay\\XML\\Interface\\CIV5PlayerColors.xml"
+    },
+    {
+        "DateTime": 133916168730872745,
+        "Path": "Assets\\Gameplay\\XML\\Leaders\\CIV5LeaderTables.xml"
+    },
+    {
+        "DateTime": 133918875395626506,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Alexander.xml"
+    },
+    {
+        "DateTime": 133918875391321089,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Askia.xml"
+    },
+    {
+        "DateTime": 133918875391931352,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Augustus.xml"
+    },
+    {
+        "DateTime": 133916168722352350,
+        "Path": "Assets\\Gameplay\\XML\\Leaders\\CIV5Leader_Barbarian.xml"
+    },
+    {
+        "DateTime": 133918875395612320,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Bismark.xml"
+    },
+    {
+        "DateTime": 133918875391931352,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Catherine.xml"
+    },
+    {
+        "DateTime": 133918875391931352,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Darius.xml"
+    },
+    {
+        "DateTime": 133918875395626506,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Elizabeth.xml"
+    },
+    {
+        "DateTime": 133918875396241353,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Gandhi.xml"
+    },
+    {
+        "DateTime": 133918875392536778,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_HarunAlRashid.xml"
+    },
+    {
+        "DateTime": 133918875391921320,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Hiawatha.xml"
+    },
+    {
+        "DateTime": 133918875396241353,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Montezuma.xml"
+    },
+    {
+        "DateTime": 133918875396241353,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Napoleon.xml"
+    },
+    {
+        "DateTime": 133918875396241353,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_OdaNobunaga.xml"
+    },
+    {
+        "DateTime": 133918875392536778,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Ramesses.xml"
+    },
+    {
+        "DateTime": 133918875396835519,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Ramkhamhaeng.xml"
+    },
+    {
+        "DateTime": 133918875396835519,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Suleiman.xml"
+    },
+    {
+        "DateTime": 133918875392536778,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_Washington.xml"
+    },
+    {
+        "DateTime": 133918875396835519,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Leaders\\CIV5Leader_WuZetian.xml"
+    },
+    {
+        "DateTime": 133916168718682091,
+        "Path": "Assets\\Gameplay\\XML\\Misc\\CIV5Routes.xml"
+    },
+    {
+        "DateTime": 133918875567979949,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Misc\\Notifications.xml"
+    },
+    {
+        "DateTime": 133918875569161644,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Religions\\Civ5Religions.xml"
+    },
+    {
+        "DateTime": 133918875567979949,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Religions\\CIV5Beliefs.xml"
+    },
+    {
+        "DateTime": 133918875567979949,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Technologies\\CIV5Technologies.xml"
+    },
+    {
+        "DateTime": 133918875569799285,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Terrain\\CIV5Features.xml"
+    },
+    {
+        "DateTime": 133918875567979949,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Terrain\\CIV5Improvements.xml"
+    },
+    {
+        "DateTime": 133918875568554557,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Terrain\\CIV5Resources.xml"
+    },
+    {
+        "DateTime": 133916168718671771,
+        "Path": "Assets\\Gameplay\\XML\\Terrain\\CIV5ResourceClasses.xml"
+    },
+    {
+        "DateTime": 133918875569171613,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Terrain\\CIV5Terrains.xml"
+    },
+    {
+        "DateTime": 133918875569171613,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Terrain\\CIV5Yields.xml"
+    },
+    {
+        "DateTime": 133916168731486294,
+        "Path": "Assets\\Gameplay\\XML\\Units\\Civ5AnimationCategories.xml"
+    },
+    {
+        "DateTime": 133916168719264278,
+        "Path": "Assets\\Gameplay\\XML\\Units\\Civ5AnimationPaths.xml"
+    },
+    {
+        "DateTime": 133916168723018682,
+        "Path": "Assets\\Gameplay\\XML\\Units\\CIV5Automates.xml"
+    },
+    {
+        "DateTime": 133918875597783161,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Units\\CIV5Builds.xml"
+    },
+    {
+        "DateTime": 133916168722352350,
+        "Path": "Assets\\Gameplay\\XML\\Units\\CIV5Commands.xml"
+    },
+    {
+        "DateTime": 133918875596530972,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Units\\CIV5Controls.xml"
+    },
+    {
+        "DateTime": 133916168732105311,
+        "Path": "Assets\\Gameplay\\XML\\Units\\Civ5EntityEvents.xml"
+    },
+    {
+        "DateTime": 133918875597783161,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Units\\CIV5Missions.xml"
+    },
+    {
+        "DateTime": 133918875597154743,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Units\\CIV5MultiUnitFormations.xml"
+    },
+    {
+        "DateTime": 133916168719264278,
+        "Path": "Assets\\Gameplay\\XML\\Units\\CIV5SpecialUnits.xml"
+    },
+    {
+        "DateTime": 133916168719274324,
+        "Path": "Assets\\Gameplay\\XML\\Units\\CIV5UnitMovementRates.xml"
+    },
+    {
+        "DateTime": 133918875597783161,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Units\\CIV5Units.xml"
+    },
+    {
+        "DateTime": 133918875415016797,
+        "Path": "Assets\\DLC\\Expansion\\Gameplay\\XML\\Units\\CIV5UnitClasses.xml"
+    },
+    {
+        "DateTime": 133918875597154743,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\Units\\CIV5UnitPromotions.xml"
+    },
+    {
+        "DateTime": 133918875566736981,
+        "Path": "Assets\\DLC\\Expansion2\\Gameplay\\XML\\GameInfo\\CIV5Resolutions.xml"
+    },
+    {
+        "DateTime": 133916168841221335,
+        "Path": "Assets\\Sounds\\XML\\UnitGameplay.xml"
+    }
+]

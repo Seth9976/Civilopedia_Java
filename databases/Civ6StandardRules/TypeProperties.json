@@ -1,0 +1,1634 @@
+[
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_AMSTERDAM",
+        "Value": "TRADE"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_BRUSSELS",
+        "Value": "INDUSTRIAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_BUENOS_AIRES",
+        "Value": "INDUSTRIAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_CARTHAGE",
+        "Value": "MILITARISTIC"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_GENEVA",
+        "Value": "SCIENTIFIC"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_HATTUSA",
+        "Value": "SCIENTIFIC"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_HONG_KONG",
+        "Value": "INDUSTRIAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_JAKARTA",
+        "Value": "TRADE"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_JERUSALEM",
+        "Value": "RELIGIOUS"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_KABUL",
+        "Value": "MILITARISTIC"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_KANDY",
+        "Value": "RELIGIOUS"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_KUMASI",
+        "Value": "CULTURAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_LA_VENTA",
+        "Value": "RELIGIOUS"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_LISBON",
+        "Value": "TRADE"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_MOHENJO_DARO",
+        "Value": "CULTURAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_NAN_MADOL",
+        "Value": "CULTURAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_PRESLAV",
+        "Value": "MILITARISTIC"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_SEOUL",
+        "Value": "SCIENTIFIC"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_STOCKHOLM",
+        "Value": "SCIENTIFIC"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_TORONTO",
+        "Value": "INDUSTRIAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_VALLETTA",
+        "Value": "MILITARISTIC"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_VILNIUS",
+        "Value": "CULTURAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_YEREVAN",
+        "Value": "RELIGIOUS"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_ZANZIBAR",
+        "Value": "TRADE"
+    },
+    {
+        "Name": "XP_EARNED",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_TREAT_WITH_CLAN_DISPERSE",
+        "Value": "10"
+    },
+    {
+        "Name": "RAID_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_OPEN",
+        "Value": "-10"
+    },
+    {
+        "Name": "RAID_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_OPEN",
+        "Value": "10"
+    },
+    {
+        "Name": "HIRE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_OPEN",
+        "Value": "5"
+    },
+    {
+        "Name": "HIRE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_OPEN",
+        "Value": "15"
+    },
+    {
+        "Name": "BRIBE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_OPEN",
+        "Value": "50"
+    },
+    {
+        "Name": "BRIBE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_OPEN",
+        "Value": "8"
+    },
+    {
+        "Name": "BRIBE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_OPEN",
+        "Value": "20"
+    },
+    {
+        "Name": "RANSOM_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_OPEN",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_OPEN",
+        "Value": "160"
+    },
+    {
+        "Name": "INCITE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_OPEN",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_OPEN",
+        "Value": "15"
+    },
+    {
+        "Name": "RAID_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_FOREST",
+        "Value": "-10"
+    },
+    {
+        "Name": "RAID_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_FOREST",
+        "Value": "10"
+    },
+    {
+        "Name": "HIRE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_FOREST",
+        "Value": "5"
+    },
+    {
+        "Name": "HIRE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_FOREST",
+        "Value": "15"
+    },
+    {
+        "Name": "BRIBE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_FOREST",
+        "Value": "50"
+    },
+    {
+        "Name": "BRIBE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_FOREST",
+        "Value": "8"
+    },
+    {
+        "Name": "BRIBE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_FOREST",
+        "Value": "20"
+    },
+    {
+        "Name": "RANSOM_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_FOREST",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_FOREST",
+        "Value": "160"
+    },
+    {
+        "Name": "INCITE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_FOREST",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_FOREST",
+        "Value": "15"
+    },
+    {
+        "Name": "RAID_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_HILLS",
+        "Value": "-10"
+    },
+    {
+        "Name": "RAID_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_HILLS",
+        "Value": "10"
+    },
+    {
+        "Name": "HIRE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_HILLS",
+        "Value": "5"
+    },
+    {
+        "Name": "HIRE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_HILLS",
+        "Value": "15"
+    },
+    {
+        "Name": "BRIBE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_HILLS",
+        "Value": "50"
+    },
+    {
+        "Name": "BRIBE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_HILLS",
+        "Value": "8"
+    },
+    {
+        "Name": "BRIBE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_HILLS",
+        "Value": "20"
+    },
+    {
+        "Name": "RANSOM_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_HILLS",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_HILLS",
+        "Value": "160"
+    },
+    {
+        "Name": "INCITE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_HILLS",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_MELEE_HILLS",
+        "Value": "15"
+    },
+    {
+        "Name": "RAID_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_OPEN",
+        "Value": "-10"
+    },
+    {
+        "Name": "RAID_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_OPEN",
+        "Value": "10"
+    },
+    {
+        "Name": "HIRE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_OPEN",
+        "Value": "5"
+    },
+    {
+        "Name": "HIRE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_OPEN",
+        "Value": "15"
+    },
+    {
+        "Name": "BRIBE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_OPEN",
+        "Value": "50"
+    },
+    {
+        "Name": "BRIBE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_OPEN",
+        "Value": "8"
+    },
+    {
+        "Name": "BRIBE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_OPEN",
+        "Value": "20"
+    },
+    {
+        "Name": "RANSOM_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_OPEN",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_OPEN",
+        "Value": "200"
+    },
+    {
+        "Name": "INCITE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_OPEN",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_OPEN",
+        "Value": "15"
+    },
+    {
+        "Name": "RAID_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_JUNGLE",
+        "Value": "-10"
+    },
+    {
+        "Name": "RAID_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_JUNGLE",
+        "Value": "10"
+    },
+    {
+        "Name": "HIRE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_JUNGLE",
+        "Value": "5"
+    },
+    {
+        "Name": "HIRE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_JUNGLE",
+        "Value": "15"
+    },
+    {
+        "Name": "BRIBE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_JUNGLE",
+        "Value": "50"
+    },
+    {
+        "Name": "BRIBE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_JUNGLE",
+        "Value": "8"
+    },
+    {
+        "Name": "BRIBE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_JUNGLE",
+        "Value": "20"
+    },
+    {
+        "Name": "RANSOM_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_JUNGLE",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_JUNGLE",
+        "Value": "200"
+    },
+    {
+        "Name": "INCITE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_JUNGLE",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_JUNGLE",
+        "Value": "15"
+    },
+    {
+        "Name": "RAID_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_CHARIOT",
+        "Value": "-10"
+    },
+    {
+        "Name": "RAID_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_CHARIOT",
+        "Value": "10"
+    },
+    {
+        "Name": "HIRE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_CHARIOT",
+        "Value": "5"
+    },
+    {
+        "Name": "HIRE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_CHARIOT",
+        "Value": "15"
+    },
+    {
+        "Name": "BRIBE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_CHARIOT",
+        "Value": "50"
+    },
+    {
+        "Name": "BRIBE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_CHARIOT",
+        "Value": "8"
+    },
+    {
+        "Name": "BRIBE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_CHARIOT",
+        "Value": "20"
+    },
+    {
+        "Name": "RANSOM_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_CHARIOT",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_CHARIOT",
+        "Value": "200"
+    },
+    {
+        "Name": "INCITE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_CHARIOT",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_CAVALRY_CHARIOT",
+        "Value": "15"
+    },
+    {
+        "Name": "RAID_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_NAVAL",
+        "Value": "-10"
+    },
+    {
+        "Name": "RAID_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_NAVAL",
+        "Value": "10"
+    },
+    {
+        "Name": "HIRE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_NAVAL",
+        "Value": "5"
+    },
+    {
+        "Name": "HIRE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_NAVAL",
+        "Value": "20"
+    },
+    {
+        "Name": "BRIBE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_NAVAL",
+        "Value": "30"
+    },
+    {
+        "Name": "BRIBE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_NAVAL",
+        "Value": "8"
+    },
+    {
+        "Name": "BRIBE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_NAVAL",
+        "Value": "20"
+    },
+    {
+        "Name": "RANSOM_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_NAVAL",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_BASE_COST",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_NAVAL",
+        "Value": "120"
+    },
+    {
+        "Name": "INCITE_CONVERSION_POINTS_CHANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_NAVAL",
+        "Value": "-5"
+    },
+    {
+        "Name": "INCITE_INTERVAL_STANDARD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "TRIBE_CLAN_NAVAL",
+        "Value": "15"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_AUCKLAND",
+        "Value": "INDUSTRIAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_ANTANANARIVO",
+        "Value": "CULTURAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_ARMAGH",
+        "Value": "RELIGIOUS"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_GRANADA",
+        "Value": "MILITARISTIC"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_MUSCAT",
+        "Value": "TRADE"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_PALENQUE",
+        "Value": "SCIENTIFIC"
+    },
+    {
+        "Name": "PLOT_DAMAGE_TO_WALKING_INTO",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_ALCAZAR",
+        "Value": "15"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_CAGUANA",
+        "Value": "CULTURAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_HUNZA",
+        "Value": "TRADE"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_LAHORE",
+        "Value": "MILITARISTIC"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_SINGAPORE",
+        "Value": "INDUSTRIAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_TARUGA",
+        "Value": "SCIENTIFIC"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_VATICAN_CITY",
+        "Value": "RELIGIOUS"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_AYUTTHAYA",
+        "Value": "CULTURAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_CHINGUETTI",
+        "Value": "RELIGIOUS"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_JOHANNESBURG",
+        "Value": "INDUSTRIAL"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_NALANDA",
+        "Value": "SCIENTIFIC"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_SAMARKAND",
+        "Value": "TRADE"
+    },
+    {
+        "Name": "CityStateCategory",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "CIVILIZATION_WOLIN",
+        "Value": "MILITARISTIC"
+    },
+    {
+        "Name": "LIFESPAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ANANSI",
+        "Value": "30"
+    },
+    {
+        "Name": "LIFESPAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ARTHUR",
+        "Value": "30"
+    },
+    {
+        "Name": "LIFESPAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_BEOWULF",
+        "Value": "30"
+    },
+    {
+        "Name": "LIFESPAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HERCULES",
+        "Value": "30"
+    },
+    {
+        "Name": "LIFESPAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIMIKO",
+        "Value": "40"
+    },
+    {
+        "Name": "LIFESPAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIPPOLYTA",
+        "Value": "30"
+    },
+    {
+        "Name": "LIFESPAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HUNAHPU",
+        "Value": "30"
+    },
+    {
+        "Name": "LIFESPAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_OYA",
+        "Value": "30"
+    },
+    {
+        "Name": "LIFESPAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MAUI",
+        "Value": "30"
+    },
+    {
+        "Name": "LIFESPAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MULAN",
+        "Value": "30"
+    },
+    {
+        "Name": "LIFESPAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_SINBAD",
+        "Value": "30"
+    },
+    {
+        "Name": "LIFESPAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_WUKONG",
+        "Value": "50"
+    },
+    {
+        "Name": "LIFESPAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_QUESTING_KNIGHT",
+        "Value": "12"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_BARBARIAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ANANSI",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_CITY_STATE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ANANSI",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_FREE_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ANANSI",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_BARBARIAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ARTHUR",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_CITY_STATE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ARTHUR",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_FREE_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ARTHUR",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_BARBARIAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_BEOWULF",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_CITY_STATE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_BEOWULF",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_FREE_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_BEOWULF",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_BARBARIAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HERCULES",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_CITY_STATE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HERCULES",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_FREE_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HERCULES",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_BARBARIAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIMIKO",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_CITY_STATE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIMIKO",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_FREE_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIMIKO",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_BARBARIAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIPPOLYTA",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_CITY_STATE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIPPOLYTA",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_FREE_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIPPOLYTA",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_BARBARIAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HUNAHPU",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_CITY_STATE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HUNAHPU",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_FREE_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HUNAHPU",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_BARBARIAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_OYA",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_CITY_STATE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_OYA",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_FREE_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_OYA",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_BARBARIAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MAUI",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_CITY_STATE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MAUI",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_FREE_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MAUI",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_BARBARIAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MULAN",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_CITY_STATE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MULAN",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_FREE_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MULAN",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_BARBARIAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_SINBAD",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_CITY_STATE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_SINBAD",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_FREE_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_SINBAD",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_BARBARIAN",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_WUKONG",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_CITY_STATE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_WUKONG",
+        "Value": "0"
+    },
+    {
+        "Name": "CAN_EVER_TRAIN_FREE_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_WUKONG",
+        "Value": "0"
+    },
+    {
+        "Name": "IGNORE_PLAYER_STAT_MAX_STRENGTH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ANANSI",
+        "Value": "1"
+    },
+    {
+        "Name": "IGNORE_PLAYER_STAT_MAX_STRENGTH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ARTHUR",
+        "Value": "1"
+    },
+    {
+        "Name": "IGNORE_PLAYER_STAT_MAX_STRENGTH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_BEOWULF",
+        "Value": "1"
+    },
+    {
+        "Name": "IGNORE_PLAYER_STAT_MAX_STRENGTH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HERCULES",
+        "Value": "1"
+    },
+    {
+        "Name": "IGNORE_PLAYER_STAT_MAX_STRENGTH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIMIKO",
+        "Value": "1"
+    },
+    {
+        "Name": "IGNORE_PLAYER_STAT_MAX_STRENGTH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIPPOLYTA",
+        "Value": "1"
+    },
+    {
+        "Name": "IGNORE_PLAYER_STAT_MAX_STRENGTH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HUNAHPU",
+        "Value": "1"
+    },
+    {
+        "Name": "IGNORE_PLAYER_STAT_MAX_STRENGTH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_OYA",
+        "Value": "1"
+    },
+    {
+        "Name": "IGNORE_PLAYER_STAT_MAX_STRENGTH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MAUI",
+        "Value": "1"
+    },
+    {
+        "Name": "IGNORE_PLAYER_STAT_MAX_STRENGTH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MULAN",
+        "Value": "1"
+    },
+    {
+        "Name": "IGNORE_PLAYER_STAT_MAX_STRENGTH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_SINBAD",
+        "Value": "1"
+    },
+    {
+        "Name": "IGNORE_PLAYER_STAT_MAX_STRENGTH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_WUKONG",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_MOVE_AFTER_PURCHASE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ANANSI",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_MOVE_AFTER_PURCHASE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ARTHUR",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_MOVE_AFTER_PURCHASE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_BEOWULF",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_MOVE_AFTER_PURCHASE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HERCULES",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_MOVE_AFTER_PURCHASE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIMIKO",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_MOVE_AFTER_PURCHASE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIPPOLYTA",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_MOVE_AFTER_PURCHASE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HUNAHPU",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_MOVE_AFTER_PURCHASE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_OYA",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_MOVE_AFTER_PURCHASE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MAUI",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_MOVE_AFTER_PURCHASE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MULAN",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_MOVE_AFTER_PURCHASE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_SINBAD",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_MOVE_AFTER_PURCHASE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_WUKONG",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_TELEPORT_TO_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ANANSI",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_TELEPORT_TO_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_ARTHUR",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_TELEPORT_TO_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_BEOWULF",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_TELEPORT_TO_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HERCULES",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_TELEPORT_TO_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIMIKO",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_TELEPORT_TO_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HIPPOLYTA",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_TELEPORT_TO_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_HUNAHPU",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_TELEPORT_TO_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_OYA",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_TELEPORT_TO_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MAUI",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_TELEPORT_TO_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_MULAN",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_TELEPORT_TO_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_SINBAD",
+        "Value": "1"
+    },
+    {
+        "Name": "CAN_TELEPORT_TO_CITY",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_HERO_WUKONG",
+        "Value": "1"
+    },
+    {
+        "Name": "COST_PROGRESSION_GROUP",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "PROJECT_CREATE_HERO_ANANSI",
+        "Value": "COST_GROUP_HERO_CLAIM_PROJECTS"
+    },
+    {
+        "Name": "COST_PROGRESSION_GROUP",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "PROJECT_CREATE_HERO_ARTHUR",
+        "Value": "COST_GROUP_HERO_CLAIM_PROJECTS"
+    },
+    {
+        "Name": "COST_PROGRESSION_GROUP",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "PROJECT_CREATE_HERO_BEOWULF",
+        "Value": "COST_GROUP_HERO_CLAIM_PROJECTS"
+    },
+    {
+        "Name": "COST_PROGRESSION_GROUP",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "PROJECT_CREATE_HERO_HERCULES",
+        "Value": "COST_GROUP_HERO_CLAIM_PROJECTS"
+    },
+    {
+        "Name": "COST_PROGRESSION_GROUP",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "PROJECT_CREATE_HERO_HIMIKO",
+        "Value": "COST_GROUP_HERO_CLAIM_PROJECTS"
+    },
+    {
+        "Name": "COST_PROGRESSION_GROUP",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "PROJECT_CREATE_HERO_HIPPOLYTA",
+        "Value": "COST_GROUP_HERO_CLAIM_PROJECTS"
+    },
+    {
+        "Name": "COST_PROGRESSION_GROUP",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "PROJECT_CREATE_HERO_HUNAHPU",
+        "Value": "COST_GROUP_HERO_CLAIM_PROJECTS"
+    },
+    {
+        "Name": "COST_PROGRESSION_GROUP",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "PROJECT_CREATE_HERO_OYA",
+        "Value": "COST_GROUP_HERO_CLAIM_PROJECTS"
+    },
+    {
+        "Name": "COST_PROGRESSION_GROUP",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "PROJECT_CREATE_HERO_MAUI",
+        "Value": "COST_GROUP_HERO_CLAIM_PROJECTS"
+    },
+    {
+        "Name": "COST_PROGRESSION_GROUP",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "PROJECT_CREATE_HERO_MULAN",
+        "Value": "COST_GROUP_HERO_CLAIM_PROJECTS"
+    },
+    {
+        "Name": "COST_PROGRESSION_GROUP",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "PROJECT_CREATE_HERO_SINBAD",
+        "Value": "COST_GROUP_HERO_CLAIM_PROJECTS"
+    },
+    {
+        "Name": "COST_PROGRESSION_GROUP",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "PROJECT_CREATE_HERO_WUKONG",
+        "Value": "COST_GROUP_HERO_CLAIM_PROJECTS"
+    },
+    {
+        "Name": "RANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_RESTORE_UNIT_MOVES",
+        "Value": "1"
+    },
+    {
+        "Name": "RANGE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_KILL_WEAKER_UNIT",
+        "Value": "1"
+    },
+    {
+        "Name": "GRANT_ENVOY_SUZERAIN_FAITH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_GRANT_ENVOY",
+        "Value": "50"
+    },
+    {
+        "Name": "COST_PROGRESSION_TYPE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_GRANT_ENVOY",
+        "Value": "COST_PROGRESSION_ERA_FLAT"
+    },
+    {
+        "Name": "PROGRESSION_PARAM1",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_GRANT_ENVOY",
+        "Value": "25"
+    },
+    {
+        "Name": "NAVAL_GOLD_RAID_YIELD",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_NAVAL_GOLD_RAID",
+        "Value": "200"
+    },
+    {
+        "Name": "COST_PROGRESSION_TYPE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_NAVAL_GOLD_RAID",
+        "Value": "COST_PROGRESSION_ERA_FLAT"
+    },
+    {
+        "Name": "PROGRESSION_PARAM1",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_NAVAL_GOLD_RAID",
+        "Value": "100"
+    },
+    {
+        "Name": "RESOURCE_INSPIRE_SCIENCE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_RESOURCE_INSPIRE",
+        "Value": "60"
+    },
+    {
+        "Name": "RESOURCE_INSPIRE_CULTURE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_RESOURCE_INSPIRE",
+        "Value": "50"
+    },
+    {
+        "Name": "COST_PROGRESSION_TYPE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_RESOURCE_INSPIRE",
+        "Value": "COST_PROGRESSION_ERA_FLAT"
+    },
+    {
+        "Name": "PROGRESSION_PARAM1",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_RESOURCE_INSPIRE",
+        "Value": "30"
+    },
+    {
+        "Name": "STRENGTH",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITCOMMAND_AREA_DAMAGE_HEAL",
+        "Value": "40"
+    },
+    {
+        "Name": "HERO_PREREQ_CITY_STATE_RATIO",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "HEROCLASS_HIMIKO",
+        "Value": "1.0"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_SYMBOL_ANANSI",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_EPIC_ANANSI",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_SYMBOL_ARTHUR",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_EPIC_ARTHUR",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_SYMBOL_BEOWULF",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_EPIC_BEOWULF",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_SYMBOL_HERCULES",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_EPIC_HERCULES",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_SYMBOL_HIMIKO",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_EPIC_HIMIKO",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_SYMBOL_HIPPOLYTA",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_EPIC_HIPPOLYTA",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_SYMBOL_HUNAHPU",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_EPIC_HUNAHPU",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_SYMBOL_OYA",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_EPIC_OYA",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_SYMBOL_MAUI",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_EPIC_MAUI",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_SYMBOL_MULAN",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_EPIC_MULAN",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_SYMBOL_SINBAD",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_EPIC_SINBAD",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_SYMBOL_WUKONG",
+        "Value": "1"
+    },
+    {
+        "Name": "GREATWORKOBJECT_IS_RELIGIOUS",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "GREATWORK_HERO_EPIC_WUKONG",
+        "Value": "1"
+    },
+    {
+        "Name": "PLOT_DAMAGE_TO_WALKING_INTO",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_ANCIENT_TOWER_DEFENSE",
+        "Value": "10"
+    },
+    {
+        "Name": "PLOT_DAMAGE_TO_WALKING_ADJACENT",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_ANCIENT_TOWER_DEFENSE",
+        "Value": "10"
+    },
+    {
+        "Name": "PLOT_DAMAGE_TO_WALKING_INTO",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_MODERN_TOWER_DEFENSE",
+        "Value": "15"
+    },
+    {
+        "Name": "PLOT_DAMAGE_TO_WALKING_ADJACENT",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_MODERN_TOWER_DEFENSE",
+        "Value": "15"
+    },
+    {
+        "Name": "PLOT_DAMAGE_TO_WALKING_INTO",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_ANCIENT_TRAP_DEFENSE",
+        "Value": "15"
+    },
+    {
+        "Name": "PLOT_DAMAGE_TO_WALKING_INTO",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_MODERN_TRAP_DEFENSE",
+        "Value": "20"
+    },
+    {
+        "Name": "IMPROVEMENT_VIS_CONTROL",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_ANCIENT_TOWER_DEFENSE",
+        "Value": "1"
+    },
+    {
+        "Name": "IMPROVEMENT_VIS_CONTROL",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_MODERN_TOWER_DEFENSE",
+        "Value": "1"
+    },
+    {
+        "Name": "IMPROVEMENT_VIS_CONTROL",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_ANCIENT_TRAP_DEFENSE",
+        "Value": "1"
+    },
+    {
+        "Name": "IMPROVEMENT_VIS_CONTROL",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_MODERN_TRAP_DEFENSE",
+        "Value": "1"
+    },
+    {
+        "Name": "PLOT_DAMAGE_TO_WALKING_INTO",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_GREAT_WALL",
+        "Value": "10"
+    },
+    {
+        "Name": "PLOT_DAMAGE_TO_WALKING_ADJACENT",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_GREAT_WALL",
+        "Value": "10"
+    },
+    {
+        "Name": "PLOT_DAMAGE_TO_WALKING_INTO",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_FORT",
+        "Value": "10"
+    },
+    {
+        "Name": "PLOT_DAMAGE_TO_WALKING_INTO",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "IMPROVEMENT_ROMAN_FORT",
+        "Value": "10"
+    },
+    {
+        "Name": "CLAN_EXCLUDE_UNIT_TYPE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNIT_MODE_ZOMBIE",
+        "Value": "1"
+    },
+    {
+        "Name": "SPY_OPERATION_CHANCE_TO_SPAWN_ZOMBIE",
+        "PropertyType": "PROPERTYTYPE_IDENTITY",
+        "Type": "UNITOPERATION_SPY_ZOMBIFY",
+        "Value": "50"
+    }
+]

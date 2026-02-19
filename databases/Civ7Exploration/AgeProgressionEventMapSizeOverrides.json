@@ -1,0 +1,27 @@
+[
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_ELIMINATED",
+        "MapSizeType": "MAPSIZE_TINY",
+        "Points": 20
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_ELIMINATED",
+        "MapSizeType": "MAPSIZE_SMALL",
+        "Points": 15
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_ELIMINATED",
+        "MapSizeType": "MAPSIZE_STANDARD",
+        "Points": 10
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_ELIMINATED",
+        "MapSizeType": "MAPSIZE_LARGE",
+        "Points": 8
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_ELIMINATED",
+        "MapSizeType": "MAPSIZE_HUGE",
+        "Points": 5
+    }
+]

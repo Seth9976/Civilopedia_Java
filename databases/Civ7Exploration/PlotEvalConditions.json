@@ -1,0 +1,138 @@
+[
+    {
+        "ConditionType": "Nearest Enemy City",
+        "GoodTooltipString": null,
+        "GoodValue": 0,
+        "PoorTooltipString": null,
+        "PoorValue": 0,
+        "Value": 0
+    },
+    {
+        "ConditionType": "Nearest Friendly City",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_NEAREST_CITY",
+        "GoodValue": -20,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_NEAREST_CITY",
+        "PoorValue": -50,
+        "Value": 1
+    },
+    {
+        "ConditionType": "New Resources",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_NEW_RESOURCES",
+        "GoodValue": 4,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_NEW_RESOURCES",
+        "PoorValue": 0,
+        "Value": 2
+    },
+    {
+        "ConditionType": "Inner Ring Yield",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_INNER_YIELD",
+        "GoodValue": 26,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_INNER_YIELD",
+        "PoorValue": 18,
+        "Value": 3
+    },
+    {
+        "ConditionType": "Total Yield",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_TOTAL_YIELD",
+        "GoodValue": 50,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_TOTAL_YIELD",
+        "PoorValue": 30,
+        "Value": 4
+    },
+    {
+        "ConditionType": "Coastal",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_COAST",
+        "GoodValue": 12,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_COAST",
+        "PoorValue": -1,
+        "Value": 5
+    },
+    {
+        "ConditionType": "Fresh Water",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_FRESH_WATER",
+        "GoodValue": 20,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_FRESH_WATER",
+        "PoorValue": 0,
+        "Value": 6
+    },
+    {
+        "ConditionType": "Specific Resource",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_RESOURCES",
+        "GoodValue": 6,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_RESOURCES",
+        "PoorValue": -1,
+        "Value": 7
+    },
+    {
+        "ConditionType": "Specific Feature",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_FEATURES",
+        "GoodValue": 5,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_FEATURES",
+        "PoorValue": -5,
+        "Value": 8
+    },
+    {
+        "ConditionType": "Specific Terrain",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_TERRAIN",
+        "GoodValue": 5,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_TERRAIN",
+        "PoorValue": -5,
+        "Value": 9
+    },
+    {
+        "ConditionType": "Resource Class",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_STRATEGIC_RESOURCES",
+        "GoodValue": 6,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_STRATEGIC_RESOURCES",
+        "PoorValue": 2,
+        "Value": 10
+    },
+    {
+        "ConditionType": "Foreign Continent",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_FOREIGN_CONTINENT",
+        "GoodValue": 50,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_FOREIGN_CONTINENT",
+        "PoorValue": -2,
+        "Value": 11
+    },
+    {
+        "ConditionType": "Foreign Hemisphere",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_FOREIGN_HEMISPHERE",
+        "GoodValue": 1,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_FOREIGN_HEMISPHERE",
+        "PoorValue": 0,
+        "Value": 12
+    },
+    {
+        "ConditionType": "City Center Biome",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_CITY_CENTER_BIOME",
+        "GoodValue": 1,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_CITY_CENTER_BIOME",
+        "PoorValue": 0,
+        "Value": 13
+    },
+    {
+        "ConditionType": "Specific Biome",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_SPECIFIC_BIOME",
+        "GoodValue": 1,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_SPECIFIC_BIOME",
+        "PoorValue": 0,
+        "Value": 14
+    },
+    {
+        "ConditionType": "Lake",
+        "GoodTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_GOOD_LAKE_COUNT",
+        "GoodValue": 1,
+        "PoorTooltipString": "LOC_SETTLEMENT_RECOMMENDATION_POOR_LAKE_COUNT",
+        "PoorValue": 0,
+        "Value": 15
+    },
+    {
+        "ConditionType": "Natural Wonder In Inner Ring",
+        "GoodTooltipString": null,
+        "GoodValue": 1,
+        "PoorTooltipString": null,
+        "PoorValue": 0,
+        "Value": 16
+    }
+]

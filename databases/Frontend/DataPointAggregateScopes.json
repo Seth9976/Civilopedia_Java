@@ -1,0 +1,50 @@
+[
+    {
+        "ExtraData": null,
+        "Query": "Objects",
+        "Scope": "Objects",
+        "SortIndex": 10
+    },
+    {
+        "ExtraData": "City",
+        "Query": "MajorPlayerObjectsByType",
+        "Scope": "MajorCityObjects",
+        "SortIndex": 15
+    },
+    {
+        "ExtraData": "Religion",
+        "Query": "ObjectsByType",
+        "Scope": "ReligionObjects",
+        "SortIndex": 15
+    },
+    {
+        "ExtraData": null,
+        "Query": "Players",
+        "Scope": "Players",
+        "SortIndex": 80
+    },
+    {
+        "ExtraData": null,
+        "Query": "MajorPlayers",
+        "Scope": "MajorPlayers",
+        "SortIndex": 81
+    },
+    {
+        "ExtraData": null,
+        "Query": "LocalPlayers",
+        "Scope": "LocalPlayers",
+        "SortIndex": 82
+    },
+    {
+        "ExtraData": null,
+        "Query": "Games",
+        "Scope": "Games",
+        "SortIndex": 90
+    },
+    {
+        "ExtraData": null,
+        "Query": "Rulesets",
+        "Scope": "Rulesets",
+        "SortIndex": 100
+    }
+]

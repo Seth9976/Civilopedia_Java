@@ -1,0 +1,356 @@
+[
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_COTTON_CITY_FLAT_FOOD",
+        "String": "RESOURCE_COTTON",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_COTTON_CITY_FLAT_PRODUCTION",
+        "String": "RESOURCE_COTTON",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_DATES_CITY_FLAT_FOOD",
+        "String": "RESOURCE_DATES",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_DATES_CITY_FLAT_HAPPINESS",
+        "String": "RESOURCE_DATES",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_DYES_CITY_FLAT_HAPPINESS",
+        "String": "RESOURCE_DYES",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_FISH_CITY_FLAT_FOOD",
+        "String": "RESOURCE_FISH",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_GOLD_SETTLEMENT_FLAT_GOLD",
+        "String": "RESOURCE_GOLD",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_GOLD_SETTLEMENT_FLAT_HAPPINESS",
+        "String": "RESOURCE_GOLD",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_GYPSUM_CAPITAL_PRODUCTION",
+        "String": "RESOURCE_GYPSUM",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_GYPSUM_CITY_PRODUCTION",
+        "String": "RESOURCE_GYPSUM",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_HIDES_CITY_FLAT_PRODUCTION",
+        "String": "RESOURCE_HIDES",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_HORSES_CAVALRY_COMBAT_STRENGTH",
+        "String": "RESOURCE_HORSES",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_INCENSE_CITY_SCIENCE",
+        "String": "RESOURCE_INCENSE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_IRON_INFANTRY_COMBAT_STRENGTH",
+        "String": "RESOURCE_IRON",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_IVORY_DESERT_WONDER_PRODUCTION",
+        "String": "RESOURCE_IRON",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_IVORY_PLAINS_WONDER_PRODUCTION",
+        "String": "RESOURCE_IVORY",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_JADE_GOLD",
+        "String": "RESOURCE_JADE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_MARBLE_TUNDRA_WONDER_PRODUCTION",
+        "String": "RESOURCE_MARBLE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_IVORY_TROPICAL_WONDER_PRODUCTION",
+        "String": "RESOURCE_IVORY",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_KAOLIN_CAPITAL_FOOD",
+        "String": "RESOURCE_KAOLIN",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_KAOLIN_CITY_FOOD",
+        "String": "RESOURCE_KAOLIN",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_LAPIS_LAZULI_CITY_FLAT_PRODUCTION",
+        "String": "RESOURCE_LAPIS_LAZULI",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_LAPIS_LAZULI_CITY_GOLD",
+        "String": "RESOURCE_LAPIS_LAZULI",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_MARBLE_GRASSLAND_WONDER_PRODUCTION",
+        "String": "RESOURCE_MARBLE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_MARBLE_MARINE_WONDER_PRODUCTION",
+        "String": "RESOURCE_MARBLE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_PEARLS_CAPITAL_HAPPINESS",
+        "String": "RESOURCE_PEARLS",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_PEARLS_CITY_HAPPINESS",
+        "String": "RESOURCE_PEARLS",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_SALT_UNIT_PRODUCTION",
+        "String": "RESOURCE_SALT",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_SILK_CITY_CULTURE",
+        "String": "RESOURCE_SILK",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_SILVER_SETTLEMENT_GOLD",
+        "String": "RESOURCE_SILVER",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_SILVER_SETTLEMENT_FOOD",
+        "String": "RESOURCE_SILVER",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_WINE_FLAT_HAPPINESS",
+        "String": "RESOURCE_WINE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_WINE_GOLDEN_AGE_CULTURE",
+        "String": "RESOURCE_WINE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_WOOL_CITY_FLAT_HAPPINESS",
+        "String": "RESOURCE_WOOL",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_WOOL_CITY_FLAT_PRODUCTION",
+        "String": "RESOURCE_WOOL",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_MANGOS_CITY_FLAT_FOOD",
+        "String": "RESOURCE_MANGOS",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_MANGOS_CITY_FLAT_CULTURE",
+        "String": "RESOURCE_MANGOS",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_CLAY_WAREHOUSE_PRODUCTION",
+        "String": "RESOURCE_CLAY",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_FLAX_CITY_FLAT_SCIENCE",
+        "String": "RESOURCE_FLAX",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_FLAX_CITY_FLAT_CULTURE",
+        "String": "RESOURCE_FLAX",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_RUBIES_CITY_FLAT_GOLD",
+        "String": "RESOURCE_RUBIES",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_RICE_CITY_PERCENT_FOOD",
+        "String": "RESOURCE_RICE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_LIMESTONE_DESERT_WONDER_PRODUCTION",
+        "String": "RESOURCE_LIMESTONE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_LIMESTONE_GRASSLAND_WONDER_PRODUCTION",
+        "String": "RESOURCE_LIMESTONE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_LIMESTONE_MARINE_WONDER_PRODUCTION",
+        "String": "RESOURCE_LIMESTONE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_LIMESTONE_PLAINS_WONDER_PRODUCTION",
+        "String": "RESOURCE_LIMESTONE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_LIMESTONE_TROPICAL_WONDER_PRODUCTION",
+        "String": "RESOURCE_LIMESTONE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_LIMESTONE_TUNDRA_WONDER_PRODUCTION",
+        "String": "RESOURCE_LIMESTONE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_TIN_CITY_FLAT_PRODUCTION",
+        "String": "RESOURCE_TIN",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_TIN_TOWN_FLAT_PRODUCTION",
+        "String": "RESOURCE_TIN",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_LLAMAS_CITY_FLAT_PRODUCTION",
+        "String": "RESOURCE_LLAMAS",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_LLAMAS_CITY_FLAT_HAPPINESS",
+        "String": "RESOURCE_LLAMAS",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_HARDWOOD_NAVAL_PRODUCTION",
+        "String": "RESOURCE_HARDWOOD",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_WILD_GAME_CITY_FLAT_FOOD",
+        "String": "RESOURCE_WILD_GAME",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_WILD_GAME_TOWN_FLAT_FOOD",
+        "String": "RESOURCE_WILD_GAME",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_CRABS_WAREHOUSE_FOOD",
+        "String": "RESOURCE_CRABS",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_COWRIE_CITY_FLAT_GOLD",
+        "String": "RESOURCE_COWRIE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_COWRIE_TOWN_FLAT_SCIENCE",
+        "String": "RESOURCE_COWRIE",
+        "Value": null
+    },
+    {
+        "FieldName": "ResourceType",
+        "ModifierID": "MOD_TURTLES_WAREHOUSE_CULTURE",
+        "String": "RESOURCE_TURTLES",
+        "Value": null
+    }
+]

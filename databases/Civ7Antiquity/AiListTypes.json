@@ -1,0 +1,497 @@
+[
+    {
+        "ListType": "Default Tactical"
+    },
+    {
+        "ListType": "Default City State"
+    },
+    {
+        "ListType": "Default Diplomatic"
+    },
+    {
+        "ListType": "Default Settlement Plot Evaluations"
+    },
+    {
+        "ListType": "Minor Civ Wonder Ban"
+    },
+    {
+        "ListType": "BaseOperationsLimits"
+    },
+    {
+        "ListType": "PerWarOperationsLimits"
+    },
+    {
+        "ListType": "Major Yield Biases"
+    },
+    {
+        "ListType": "Amina Yield Biases"
+    },
+    {
+        "ListType": "Ashoka Renouncer Yield Biases"
+    },
+    {
+        "ListType": "Augustus Yield Biases"
+    },
+    {
+        "ListType": "Ben Franklin Yield Biases"
+    },
+    {
+        "ListType": "Ben Franklin Diplomacy Biases"
+    },
+    {
+        "ListType": "Catherine Yield Biases"
+    },
+    {
+        "ListType": "Charlemagne Yield Biases"
+    },
+    {
+        "ListType": "Confucius Yield Biases"
+    },
+    {
+        "ListType": "Friedrich Oblique Yield Biases"
+    },
+    {
+        "ListType": "Harriet Yield Biases"
+    },
+    {
+        "ListType": "Hatshepsut Yield Biases"
+    },
+    {
+        "ListType": "Himiko Wa Yield Biases"
+    },
+    {
+        "ListType": "Isabella Yield Biases"
+    },
+    {
+        "ListType": "Jose Rizal Yield Biases"
+    },
+    {
+        "ListType": "Lafayette Yield Biases"
+    },
+    {
+        "ListType": "Machiavelli Yield Biases"
+    },
+    {
+        "ListType": "Pachacuti Yield Biases"
+    },
+    {
+        "ListType": "Trung Trac Yield Biases"
+    },
+    {
+        "ListType": "Xerxes King Yield Biases"
+    },
+    {
+        "ListType": "Amina PseudoYield Biases"
+    },
+    {
+        "ListType": "Ashoka Renouncer PseudoYield Biases"
+    },
+    {
+        "ListType": "Augustus PseudoYield Biases"
+    },
+    {
+        "ListType": "Catherine PseudoYield Biases"
+    },
+    {
+        "ListType": "Confucius PseudoYield Biases"
+    },
+    {
+        "ListType": "Hetshepsut PseudoYield Biases"
+    },
+    {
+        "ListType": "Jose Rizal PseudoYield Biases"
+    },
+    {
+        "ListType": "Lafayette PseudoYield Biases"
+    },
+    {
+        "ListType": "Amina Budget Biases"
+    },
+    {
+        "ListType": "Ibn Battuta Budget Biases"
+    },
+    {
+        "ListType": "Isabella Budget Biases"
+    },
+    {
+        "ListType": "Xerxes King Budget Biases"
+    },
+    {
+        "ListType": "Ben Franklin Tag Biases"
+    },
+    {
+        "ListType": "Charlemagne Tag Biases"
+    },
+    {
+        "ListType": "Friedrich Oblique Tag Biases"
+    },
+    {
+        "ListType": "Catherine Settle Plot Conditions"
+    },
+    {
+        "ListType": "Hetshepsut Settle Plot Conditions"
+    },
+    {
+        "ListType": "Isabella Settle Plot Conditions"
+    },
+    {
+        "ListType": "Lafayette Settle Plot Conditions"
+    },
+    {
+        "ListType": "Pachacuti Settle Plot Conditions"
+    },
+    {
+        "ListType": "Trung Trac Settle Plot Conditions"
+    },
+    {
+        "ListType": "CityStrategyFoodBias"
+    },
+    {
+        "ListType": "CityStrategyProductionBias"
+    },
+    {
+        "ListType": "CityStrategyHappinessBias"
+    },
+    {
+        "ListType": "Default Minor Independent"
+    },
+    {
+        "ListType": "Antiquity Tag Biases"
+    },
+    {
+        "ListType": "Antiquity Constructible Biases"
+    },
+    {
+        "ListType": "Antiquity Unit Biases"
+    },
+    {
+        "ListType": "Aksum Unit Biases"
+    },
+    {
+        "ListType": "Aksum Government Bias"
+    },
+    {
+        "ListType": "Aksum Settle Plot Conditions"
+    },
+    {
+        "ListType": "Aksum Constructibles Biases"
+    },
+    {
+        "ListType": "Egypt Units Biases"
+    },
+    {
+        "ListType": "Egypt Government Bias"
+    },
+    {
+        "ListType": "Egypt Settle Plot Conditions"
+    },
+    {
+        "ListType": "Egypt Constructibles Biases"
+    },
+    {
+        "ListType": "Greece Unit Biases"
+    },
+    {
+        "ListType": "Greece Government Bias"
+    },
+    {
+        "ListType": "Greece Settle Plot Conditions"
+    },
+    {
+        "ListType": "Greece Constructibles Biases"
+    },
+    {
+        "ListType": "Han Unit Biases"
+    },
+    {
+        "ListType": "Han Government Bias"
+    },
+    {
+        "ListType": "Han Tag Biases"
+    },
+    {
+        "ListType": "Han Constructibles Biases"
+    },
+    {
+        "ListType": "Khmer Unit Biases"
+    },
+    {
+        "ListType": "Khmer Government Bias"
+    },
+    {
+        "ListType": "Khmer Settle Plot Conditions"
+    },
+    {
+        "ListType": "Khmer PseudoYield Biases"
+    },
+    {
+        "ListType": "Khmer Constructibles Biases"
+    },
+    {
+        "ListType": "Maurya Unit Biases"
+    },
+    {
+        "ListType": "Maurya Government Bias"
+    },
+    {
+        "ListType": "Maurya Settle Plot Conditions"
+    },
+    {
+        "ListType": "Maurya ProgressionTreeNodes Biases"
+    },
+    {
+        "ListType": "Maurya Constructibles Biases"
+    },
+    {
+        "ListType": "Maya Unit Biases"
+    },
+    {
+        "ListType": "Maya Government Bias"
+    },
+    {
+        "ListType": "Maya Settle Plot Conditions"
+    },
+    {
+        "ListType": "Maya Tag Biases"
+    },
+    {
+        "ListType": "Maya Constructibles Biases"
+    },
+    {
+        "ListType": "Mississippian Unit Biases"
+    },
+    {
+        "ListType": "Mississippian Government Bias"
+    },
+    {
+        "ListType": "Mississippian PseudoYield Biases"
+    },
+    {
+        "ListType": "Mississippian Constructibles Biases"
+    },
+    {
+        "ListType": "Mississippian Settle Plot Conditions"
+    },
+    {
+        "ListType": "Persia Unit Biases"
+    },
+    {
+        "ListType": "Persia Government Bias"
+    },
+    {
+        "ListType": "Persia Budget Biases"
+    },
+    {
+        "ListType": "Persia Constructibles Biases"
+    },
+    {
+        "ListType": "Rome Unit Biases"
+    },
+    {
+        "ListType": "Rome Government Bias"
+    },
+    {
+        "ListType": "Rome PseudoYield Biases"
+    },
+    {
+        "ListType": "Rome Constructibles Biases"
+    },
+    {
+        "ListType": "CityWonderBias"
+    },
+    {
+        "ListType": "LegacyPathStrategyExpansionBudgetBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyExpansionPseudoYieldBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyExpansionYieldBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyExpansionTagBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyExpansionConstructibleClassesBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyScienceConstructibleBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyScienceYieldBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategySciencePseudoYieldBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyScienceConstructibleClassesBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyScienceBudgetBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyScienceProgressionTreeNodesBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyWondersConstructibleClassesBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyWondersYieldBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyWondersPseudoYieldBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyImportsBudgetBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyImportsPseudoYieldBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyImportsProgressionTreeNodesBiases"
+    },
+    {
+        "ListType": "LegacyPathStrategyImportsUnitBiases"
+    },
+    {
+        "ListType": "Ada Lovelace Yield Biases"
+    },
+    {
+        "ListType": "Ada Lovelace Pseudoyield Biases"
+    },
+    {
+        "ListType": "Ashoka Conqueror Yield Biases"
+    },
+    {
+        "ListType": "Himiko Shaman Yield Biases"
+    },
+    {
+        "ListType": "Ashoka Conqueror Budget Biases"
+    },
+    {
+        "ListType": "Himiko Shaman Tag Biases"
+    },
+    {
+        "ListType": "Bolivar Yield Biases"
+    },
+    {
+        "ListType": "Bolivar Budget Biases"
+    },
+    {
+        "ListType": "Carthage Unit Biases"
+    },
+    {
+        "ListType": "Carthage Government Bias"
+    },
+    {
+        "ListType": "Carthage Settle Plot Conditions"
+    },
+    {
+        "ListType": "Carthage PseudoYield Biases"
+    },
+    {
+        "ListType": "Carthage Constructibles Biases"
+    },
+    {
+        "ListType": "Edward Teach Pseudoyield Biases"
+    },
+    {
+        "ListType": "Fredrich Baroque Yield Biases"
+    },
+    {
+        "ListType": "Xerxes Achaemenid Yield Biases"
+    },
+    {
+        "ListType": "Xerxes Achaemenid Pseudoyield Biases"
+    },
+    {
+        "ListType": "Fredrich Baroque Tag Biases"
+    },
+    {
+        "ListType": "Napoleon Emperor Yield Biases"
+    },
+    {
+        "ListType": "Napoleon Emperor Budget Biases"
+    },
+    {
+        "ListType": "Napoleon Revolutionary Yield Biases"
+    },
+    {
+        "ListType": "Napoleon Revolutionary Budget Biases"
+    },
+    {
+        "ListType": "Sayyida Yield Biases"
+    },
+    {
+        "ListType": "Sayyida Diplomatic Biases"
+    },
+    {
+        "ListType": "Sayyida Tag Biases"
+    },
+    {
+        "ListType": "Sayyida ProgressionTreeNodes Biases"
+    },
+    {
+        "ListType": "Tecumseh Yield Biases"
+    },
+    {
+        "ListType": "Silla Unit Biases"
+    },
+    {
+        "ListType": "Silla Government Bias"
+    },
+    {
+        "ListType": "Silla Constructibles Biases"
+    },
+    {
+        "ListType": "Silla PseudoYield Biases"
+    },
+    {
+        "ListType": "Tonga Unit Biases"
+    },
+    {
+        "ListType": "Tonga Government Bias"
+    },
+    {
+        "ListType": "Tonga Settle Plot Conditions"
+    },
+    {
+        "ListType": "Tonga Constructibles Biases"
+    },
+    {
+        "ListType": "Tonga Diplomatic Biases"
+    },
+    {
+        "ListType": "Genghis Yield Biases"
+    },
+    {
+        "ListType": "Genghis Budget Biases"
+    },
+    {
+        "ListType": "Genghis Tag Biases"
+    },
+    {
+        "ListType": "Assyria Unit Biases"
+    },
+    {
+        "ListType": "Assyria Government Bias"
+    },
+    {
+        "ListType": "Assyria Budget Biases"
+    },
+    {
+        "ListType": "Assyria Constructibles Biases"
+    },
+    {
+        "ListType": "Assyria Yield Biases"
+    },
+    {
+        "ListType": "Assyria PseudoYield Biases"
+    },
+    {
+        "ListType": "Lakshmibai Yield Biases"
+    },
+    {
+        "ListType": "Lakshmibai Diplomatic Biases"
+    }
+]

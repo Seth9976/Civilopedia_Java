@@ -1,0 +1,452 @@
+[
+    {
+        "BuildingType": "BUILDING_AMPHITHEATER",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_BROADCAST_CENTER",
+        "YieldChange": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_FILM_STUDIO",
+        "YieldChange": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MONUMENT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MUSEUM_ART",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MUSEUM_ARTIFACT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_PALACE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_SHRINE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_CATHEDRAL",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_DAR_E_MEHR",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_GURDWARA",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_MEETING_HOUSE",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_MOSQUE",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_PAGODA",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_STUPA",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_SYNAGOGUE",
+        "YieldChange": 5,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_WAT",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_GRANARY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_WATER_MILL",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_GURDWARA",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_MARKET",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_BANK",
+        "YieldChange": 5,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_STOCK_EXCHANGE",
+        "YieldChange": 7,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_PALACE",
+        "YieldChange": 5,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_SEAPORT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_SEAPORT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_ARMORY",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_BARRACKS",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_HANGAR",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_MEETING_HOUSE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_MILITARY_ACADEMY",
+        "YieldChange": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_PALACE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_POWER_PLANT",
+        "YieldChange": 4,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_STABLE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_WATER_MILL",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_WORKSHOP",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_FACTORY",
+        "YieldChange": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_ELECTRONICS_FACTORY",
+        "YieldChange": 4,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_LIBRARY",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_PALACE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_UNIVERSITY",
+        "YieldChange": 4,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_MADRASA",
+        "YieldChange": 5,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_WAT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_RESEARCH_LAB",
+        "YieldChange": 5,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_AIRPORT",
+        "YieldChange": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_BIG_BEN",
+        "YieldChange": 6,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSEUM",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSUS",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_CRISTO_REDENTOR",
+        "YieldChange": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_ESTADIO_DO_MARACANA",
+        "YieldChange": 6,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_CITY",
+        "YieldChange": 5,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIGHTHOUSE",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_ZIMBABWE",
+        "YieldChange": 5,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_HAGIA_SOPHIA",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_MAHABODHI_TEMPLE",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_MONT_ST_MICHEL",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_POTALA_PALACE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_POTALA_PALACE",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_PYRAMIDS",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_STONEHENGE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_SYDNEY_OPERA_HOUSE",
+        "YieldChange": 8,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_TLACHTLI",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_TLACHTLI",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_ANGKOR_WAT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "YieldChange": 6,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_SUKIENNICE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_JEBEL_BARKAL",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_BASILIKOI_PAIDES",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_TSIKHE",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_ORDU",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE_ARTEMIS",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_ARENA",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_FOOD_MARKET",
+        "YieldChange": 3,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_SHIPYARD",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_ALCHEMICAL_SOCIETY",
+        "YieldChange": 4,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_ALCHEMICAL_SOCIETY",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_GILDED_VAULT",
+        "YieldChange": 5,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_OLD_GOD_OBELISK",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_OLD_GOD_OBELISK",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_PALGUM",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_ZEUS",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_BIOSPHERE",
+        "YieldChange": 8,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_ETEMENANKI",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_NAVIGATION_SCHOOL",
+        "YieldChange": 4,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_TORRE_DE_BELEM",
+        "YieldChange": 5,
+        "YieldType": "YIELD_GOLD"
+    }
+]

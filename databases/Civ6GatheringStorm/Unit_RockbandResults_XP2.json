@@ -1,0 +1,74 @@
+[
+    {
+        "AlbumSales": 200,
+        "BaseProbability": 17,
+        "Description": "LOC_RESULT_LEGENDS_OF_ROCK_DESCRIPTION",
+        "Dies": 0,
+        "ExtraPromotion": 1,
+        "GainsLevel": 1,
+        "Name": "LOC_RESULT_LEGENDS_OF_ROCK_NAME",
+        "PerformanceStars": 6,
+        "ResultType": "RESULT_LEGENDS_OF_ROCK",
+        "TourismBomb": 200
+    },
+    {
+        "AlbumSales": 150,
+        "BaseProbability": 15,
+        "Description": "LOC_RESULT_HEADLINERS_DESCRIPTION",
+        "Dies": 0,
+        "ExtraPromotion": 1,
+        "GainsLevel": 1,
+        "Name": "LOC_RESULT_HEADLINERS_NAME",
+        "PerformanceStars": 5,
+        "ResultType": "RESULT_HEADLINERS",
+        "TourismBomb": 0
+    },
+    {
+        "AlbumSales": 100,
+        "BaseProbability": 13,
+        "Description": "LOC_RESULT_RISING_STARS_DESCRIPTION",
+        "Dies": 0,
+        "ExtraPromotion": 0,
+        "GainsLevel": 0,
+        "Name": "LOC_RESULT_RISING_STARS_NAME",
+        "PerformanceStars": 4,
+        "ResultType": "RESULT_RISING_STARS",
+        "TourismBomb": 150
+    },
+    {
+        "AlbumSales": 50,
+        "BaseProbability": 11,
+        "Description": "LOC_RESULT_OPENING_ACT_DESCRIPTION",
+        "Dies": 0,
+        "ExtraPromotion": 0,
+        "GainsLevel": 0,
+        "Name": "LOC_RESULT_OPENING_ACT_NAME",
+        "PerformanceStars": 3,
+        "ResultType": "RESULT_OPENING_ACT",
+        "TourismBomb": -25
+    },
+    {
+        "AlbumSales": 0,
+        "BaseProbability": 9,
+        "Description": "LOC_RESULT_CREATIVE_DIFFERENCES_DESCRIPTION",
+        "Dies": 1,
+        "ExtraPromotion": 0,
+        "GainsLevel": 0,
+        "Name": "LOC_RESULT_CREATIVE_DIFFERENCES_NAME",
+        "PerformanceStars": 2,
+        "ResultType": "RESULT_CREATIVE_DIFFERENCES",
+        "TourismBomb": 100
+    },
+    {
+        "AlbumSales": 0,
+        "BaseProbability": 7,
+        "Description": "LOC_RESULT_AGING_ROCKERS_DESCRIPTION",
+        "Dies": 1,
+        "ExtraPromotion": 0,
+        "GainsLevel": 0,
+        "Name": "LOC_RESULT_AGING_ROCKERS_NAME",
+        "PerformanceStars": 1,
+        "ResultType": "RESULT_AGING_ROCKERS",
+        "TourismBomb": -25
+    }
+]

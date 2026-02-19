@@ -1,0 +1,51 @@
+[
+    {
+        "AllowImpassableMovement": 0,
+        "BuildOnAdjacentPlot": 1,
+        "DisasterResistant": 1,
+        "ImprovementType": "IMPROVEMENT_SKI_RESORT",
+        "PreventsDrought": 0
+    },
+    {
+        "AllowImpassableMovement": 1,
+        "BuildOnAdjacentPlot": 1,
+        "DisasterResistant": 1,
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_TUNNEL",
+        "PreventsDrought": 0
+    },
+    {
+        "AllowImpassableMovement": 0,
+        "BuildOnAdjacentPlot": 0,
+        "DisasterResistant": 0,
+        "ImprovementType": "IMPROVEMENT_STEPWELL",
+        "PreventsDrought": 1
+    },
+    {
+        "AllowImpassableMovement": 0,
+        "BuildOnAdjacentPlot": 0,
+        "DisasterResistant": 1,
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "PreventsDrought": 0
+    },
+    {
+        "AllowImpassableMovement": 1,
+        "BuildOnAdjacentPlot": 1,
+        "DisasterResistant": 1,
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_ROAD",
+        "PreventsDrought": 0
+    },
+    {
+        "AllowImpassableMovement": 0,
+        "BuildOnAdjacentPlot": 0,
+        "DisasterResistant": 1,
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "PreventsDrought": 0
+    },
+    {
+        "AllowImpassableMovement": 0,
+        "BuildOnAdjacentPlot": 0,
+        "DisasterResistant": 1,
+        "ImprovementType": "IMPROVEMENT_ROCK_HEWN_CHURCH",
+        "PreventsDrought": 0
+    }
+]

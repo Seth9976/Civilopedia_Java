@@ -1,0 +1,142 @@
+[
+    {
+        "Description": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "ID": 0,
+        "Name": "Basic City Strike Force",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_BASIC_CITY_ATTACK_FORCE"
+    },
+    {
+        "Description": "MUFORMATION_CITY_STATE_ATTACK_FORCE",
+        "ID": 1,
+        "Name": "City State Attack Force",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_CITY_STATE_ATTACK_FORCE"
+    },
+    {
+        "Description": "MUFORMATION_FAST_PILLAGERS",
+        "ID": 2,
+        "Name": "Fast Pillagers",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_FAST_PILLAGERS"
+    },
+    {
+        "Description": "MUFORMATION_ANTI_BARBARIAN_TEAM",
+        "ID": 3,
+        "Name": "Anti-Barbarian Team",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_ANTI_BARBARIAN_TEAM"
+    },
+    {
+        "Description": "MUFORMATION_RAPID_RESPONSE_FORCE",
+        "ID": 4,
+        "Name": "Rapid Response Force",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_RAPID_RESPONSE_FORCE"
+    },
+    {
+        "Description": "MUFORMATION_CLOSE_CITY_DEFENSE",
+        "ID": 5,
+        "Name": "Close City Defense",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_CLOSE_CITY_DEFENSE"
+    },
+    {
+        "Description": "MUFORMATION_SETTLER_ESCORT",
+        "ID": 6,
+        "Name": "Settler Escort",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_SETTLER_ESCORT"
+    },
+    {
+        "Description": "MUFORMATION_SMALL_CITY_ATTACK_FORCE",
+        "ID": 7,
+        "Name": "Small City Strike Force",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_SMALL_CITY_ATTACK_FORCE"
+    },
+    {
+        "Description": "MUFORMATION_MERCHANT_ESCORT",
+        "ID": 8,
+        "Name": "Merchant Escort",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_MERCHANT_ESCORT"
+    },
+    {
+        "Description": "MUFORMATION_NAVAL_SQUADRON",
+        "ID": 9,
+        "Name": "Naval Squadron",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_NAVAL_SQUADRON"
+    },
+    {
+        "Description": "MUFORMATION_COLONIZATION_PARTY",
+        "ID": 10,
+        "Name": "Colonization Party",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_COLONIZATION_PARTY"
+    },
+    {
+        "Description": "MUFORMATION_QUICK_COLONY_SETTLER",
+        "ID": 11,
+        "Name": "Quick Colonizer",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_QUICK_COLONY_SETTLER"
+    },
+    {
+        "Description": "MUFORMATION_NAVAL_INVASION",
+        "ID": 12,
+        "Name": "Naval Invasion",
+        "RequiresNavalUnitConsistency": 1,
+        "Type": "MUFORMATION_NAVAL_INVASION"
+    },
+    {
+        "Description": "MUFORMATION_CITY_STATE_INVASION",
+        "ID": 13,
+        "Name": "City State Invasion",
+        "RequiresNavalUnitConsistency": 1,
+        "Type": "MUFORMATION_CITY_STATE_INVASION"
+    },
+    {
+        "Description": "MUFORMATION_NUKE_ATTACK",
+        "ID": 14,
+        "Name": "Nuke Attack",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_NUKE_ATTACK"
+    },
+    {
+        "Description": "MUFORMATION_EARLY_RUSH",
+        "ID": 15,
+        "Name": "Early Rush",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_EARLY_RUSH"
+    },
+    {
+        "Description": "MUFORMATION_NAVAL_BOMBARDMENT",
+        "ID": 16,
+        "Name": "Naval Bombardment",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_NAVAL_BOMBARDMENT"
+    },
+    {
+        "Description": "MUFORMATION_PURE_NAVAL_CITY_ATTACK",
+        "ID": 17,
+        "Name": "Pure Naval City Strike",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_PURE_NAVAL_CITY_ATTACK"
+    },
+    {
+        "Description": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "ID": 18,
+        "Name": "Bigger City Strike Force",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE"
+    },
+    {
+        "Description": "MUFORMATION_CONCERT_TOUR",
+        "ID": 19,
+        "Name": "Concert Tour",
+        "RequiresNavalUnitConsistency": 0,
+        "Type": "MUFORMATION_CONCERT_TOUR"
+    }
+]

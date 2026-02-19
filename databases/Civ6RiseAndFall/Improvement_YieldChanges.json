@@ -1,0 +1,392 @@
+[
+    {
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "YieldChange": 0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_QUARRY",
+        "YieldChange": 0,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_QUARRY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "YieldChange": 0,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PASTURE",
+        "YieldChange": 0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PASTURE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "YieldChange": 0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "YieldChange": 0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "YieldChange": 0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_LUMBER_MILL",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OIL_WELL",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OFFSHORE_OIL_RIG",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_COLOSSAL_HEAD",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_COLOSSAL_HEAD",
+        "YieldChange": 0,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "YieldChange": 0,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "YieldChange": 0,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_KURGAN",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_KURGAN",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "YieldChange": 0,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "YieldChange": 0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "YieldChange": 0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_STEPWELL",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_STEPWELL",
+        "YieldChange": 0,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ZIGGURAT",
+        "YieldChange": 0,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ZIGGURAT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_KAMPUNG",
+        "YieldChange": 0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_KAMPUNG",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ALCAZAR",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MONASTERY",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PYRAMID",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PYRAMID",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PYRAMID",
+        "YieldChange": 0,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PYRAMID",
+        "YieldChange": 0,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PYRAMID",
+        "YieldChange": 0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PYRAMID",
+        "YieldChange": 0,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BATEY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_HACIENDA",
+        "YieldChange": 0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_HACIENDA",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "YieldChange": 0,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_HACIENDA",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PAIRIDAEZA",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PAIRIDAEZA",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OUTBACK_STATION",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OUTBACK_STATION",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHEMAMULL",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOLF_COURSE",
+        "YieldChange": 0,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOLF_COURSE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "YieldChange": 0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "YieldChange": 0,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "YieldChange": 0,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "YieldChange": 0,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHERY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CITY_PARK",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROCK_HEWN_CHURCH",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MAHAVIHARA",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MAHAVIHARA",
+        "YieldChange": 0,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_DOME",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_INDUSTRY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "YieldChange": 4,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "YieldChange": 10,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CORPORATION",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FEITORIA",
+        "YieldChange": 4,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FEITORIA",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    }
+]

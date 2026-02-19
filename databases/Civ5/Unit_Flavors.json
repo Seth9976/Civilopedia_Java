@@ -1,0 +1,1752 @@
+[
+    {
+        "Flavor": 21,
+        "FlavorType": "FLAVOR_EXPANSION",
+        "UnitType": "UNIT_SETTLER"
+    },
+    {
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT",
+        "UnitType": "UNIT_WORKER"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_RECON",
+        "UnitType": "UNIT_WARRIOR"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_WARRIOR"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_WARRIOR"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_RECON",
+        "UnitType": "UNIT_AZTEC_JAGUAR"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_AZTEC_JAGUAR"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_AZTEC_JAGUAR"
+    },
+    {
+        "Flavor": 7,
+        "FlavorType": "FLAVOR_RECON",
+        "UnitType": "UNIT_SCOUT"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_ARCHER"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_ARCHER"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_ARCHER"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_BARBARIAN_ARCHER"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_BARBARIAN_ARCHER"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_BARBARIAN_ARCHER"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_SPEARMAN"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_SPEARMAN"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_BARBARIAN_SPEARMAN"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_BARBARIAN_SPEARMAN"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_GREEK_HOPLITE"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_GREEK_HOPLITE"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_PERSIAN_IMMORTAL"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_PERSIAN_IMMORTAL"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_CHARIOT_ARCHER"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_CHARIOT_ARCHER"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_CHARIOT_ARCHER"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_EGYPTIAN_WARCHARIOT"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_EGYPTIAN_WARCHARIOT"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_EGYPTIAN_WARCHARIOT"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_EGYPTIAN_WARCHARIOT"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_INDIAN_WARELEPHANT"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_INDIAN_WARELEPHANT"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_INDIAN_WARELEPHANT"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_INDIAN_WARELEPHANT"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_SWORDSMAN"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_SWORDSMAN"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_BARBARIAN_SWORDSMAN"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_BARBARIAN_SWORDSMAN"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_IROQUOIAN_MOHAWKWARRIOR"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_IROQUOIAN_MOHAWKWARRIOR"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_ROMAN_LEGION"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_ROMAN_LEGION"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_INFRASTRUCTURE",
+        "UnitType": "UNIT_ROMAN_LEGION"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_HORSEMAN"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_HORSEMAN"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_HORSEMAN"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_GREEK_COMPANIONCAVALRY"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_GREEK_COMPANIONCAVALRY"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_GREEK_COMPANIONCAVALRY"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE",
+        "UnitType": "UNIT_GREEK_COMPANIONCAVALRY"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_CATAPULT"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_ROMAN_BALLISTA"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_ROMAN_BALLISTA"
+    },
+    {
+        "Flavor": 7,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_ROMAN_BALLISTA"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_KNIGHT"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_KNIGHT"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_KNIGHT"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_ARABIAN_CAMELARCHER"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_ARABIAN_CAMELARCHER"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_ARABIAN_CAMELARCHER"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_SIAMESE_WARELEPHANT"
+    },
+    {
+        "Flavor": 16,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_SIAMESE_WARELEPHANT"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_SONGHAI_MUSLIMCAVALRY"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_SONGHAI_MUSLIMCAVALRY"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_SONGHAI_MUSLIMCAVALRY"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_CROSSBOWMAN"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_CROSSBOWMAN"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_CROSSBOWMAN"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_CHINESE_CHUKONU"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_CHINESE_CHUKONU"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_CHINESE_CHUKONU"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_ENGLISH_LONGBOWMAN"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_ENGLISH_LONGBOWMAN"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_ENGLISH_LONGBOWMAN"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_PIKEMAN"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_PIKEMAN"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_GERMAN_LANDSKNECHT"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_GERMAN_LANDSKNECHT"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_TREBUCHET"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_LONGSWORDSMAN"
+    },
+    {
+        "Flavor": 7,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_LONGSWORDSMAN"
+    },
+    {
+        "Flavor": 11,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_JAPANESE_SAMURAI"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_JAPANESE_SAMURAI"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE",
+        "UnitType": "UNIT_JAPANESE_SAMURAI"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_NAVAL_TILE_IMPROVEMENT",
+        "UnitType": "UNIT_WORKBOAT"
+    },
+    {
+        "Flavor": 7,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_MUSKETMAN"
+    },
+    {
+        "Flavor": 7,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_MUSKETMAN"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_AMERICAN_MINUTEMAN"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_AMERICAN_MINUTEMAN"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_RECON",
+        "UnitType": "UNIT_AMERICAN_MINUTEMAN"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_FRENCH_MUSKETEER"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_FRENCH_MUSKETEER"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_OTTOMAN_JANISSARY"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_OTTOMAN_JANISSARY"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_CANNON"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_CANNON"
+    },
+    {
+        "Flavor": 11,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_CANNON"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_LANCER"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_LANCER"
+    },
+    {
+        "Flavor": 7,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_LANCER"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_OTTOMAN_SIPAHI"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_OTTOMAN_SIPAHI"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_OTTOMAN_SIPAHI"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_RIFLEMAN"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_RIFLEMAN"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_CAVALRY"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_CAVALRY"
+    },
+    {
+        "Flavor": 7,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_CAVALRY"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "Flavor": 14,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_RUSSIAN_COSSACK"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_INFANTRY"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_INFANTRY"
+    },
+    {
+        "Flavor": 24,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_FRENCH_FOREIGNLEGION"
+    },
+    {
+        "Flavor": 16,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_FRENCH_FOREIGNLEGION"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_ARTILLERY"
+    },
+    {
+        "Flavor": 14,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_TANK"
+    },
+    {
+        "Flavor": 11,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_TANK"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_TANK"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_GERMAN_PANZER"
+    },
+    {
+        "Flavor": 11,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_GERMAN_PANZER"
+    },
+    {
+        "Flavor": 14,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_GERMAN_PANZER"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_ANTI_TANK_GUN"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_ANTI_TANK_GUN"
+    },
+    {
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_ANTIAIR",
+        "UnitType": "UNIT_ANTI_AIRCRAFT_GUN"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_ANTI_AIRCRAFT_GUN"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_PARATROOPER"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_PARATROOPER"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_AIR",
+        "UnitType": "UNIT_PARATROOPER"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_RECON",
+        "UnitType": "UNIT_PARATROOPER"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_FIGHTER"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_FIGHTER"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_AIR",
+        "UnitType": "UNIT_FIGHTER"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_ANTIAIR",
+        "UnitType": "UNIT_FIGHTER"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_JAPANESE_ZERO"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_JAPANESE_ZERO"
+    },
+    {
+        "Flavor": 13,
+        "FlavorType": "FLAVOR_AIR",
+        "UnitType": "UNIT_JAPANESE_ZERO"
+    },
+    {
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_ANTIAIR",
+        "UnitType": "UNIT_JAPANESE_ZERO"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_BOMBER"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_BOMBER"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_AIR",
+        "UnitType": "UNIT_BOMBER"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_AMERICAN_B17"
+    },
+    {
+        "Flavor": 7,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_AMERICAN_B17"
+    },
+    {
+        "Flavor": 18,
+        "FlavorType": "FLAVOR_AIR",
+        "UnitType": "UNIT_AMERICAN_B17"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_ATOMIC_BOMB"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_ATOMIC_BOMB"
+    },
+    {
+        "Flavor": 16,
+        "FlavorType": "FLAVOR_NUKE",
+        "UnitType": "UNIT_ATOMIC_BOMB"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_ATOMIC_BOMB"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_ROCKET_ARTILLERY"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_MECHANIZED_INFANTRY"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_MECHANIZED_INFANTRY"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_MECHANIZED_INFANTRY"
+    },
+    {
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_MODERN_ARMOR"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_MODERN_ARMOR"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_MODERN_ARMOR"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_HELICOPTER_GUNSHIP"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_HELICOPTER_GUNSHIP"
+    },
+    {
+        "Flavor": 18,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_HELICOPTER_GUNSHIP"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_MOBILE_SAM"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_MOBILE_SAM"
+    },
+    {
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_ANTIAIR",
+        "UnitType": "UNIT_MOBILE_SAM"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_GUIDED_MISSILE"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_GUIDED_MISSILE"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_GUIDED_MISSILE"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_AIR",
+        "UnitType": "UNIT_GUIDED_MISSILE"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_JET_FIGHTER"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_JET_FIGHTER"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_AIR",
+        "UnitType": "UNIT_JET_FIGHTER"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_ANTIAIR",
+        "UnitType": "UNIT_JET_FIGHTER"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_STEALTH_BOMBER"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_STEALTH_BOMBER"
+    },
+    {
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_AIR",
+        "UnitType": "UNIT_STEALTH_BOMBER"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_NUCLEAR_MISSILE"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_NUCLEAR_MISSILE"
+    },
+    {
+        "Flavor": 24,
+        "FlavorType": "FLAVOR_NUKE",
+        "UnitType": "UNIT_NUCLEAR_MISSILE"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_NUCLEAR_MISSILE"
+    },
+    {
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_MECH"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_MECH"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_MECH"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_NAVAL_TILE_IMPROVEMENT",
+        "UnitType": "UNIT_WORKBOAT"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_TRIREME"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_TRIREME"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_CARAVEL"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_CARAVEL"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_FRIGATE"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_FRIGATE"
+    },
+    {
+        "Flavor": 24,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_ENGLISH_SHIPOFTHELINE"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_ENGLISH_SHIPOFTHELINE"
+    },
+    {
+        "Flavor": 18,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_IRONCLAD"
+    },
+    {
+        "Flavor": 18,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_DESTROYER"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_DESTROYER"
+    },
+    {
+        "Flavor": 27,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_BATTLESHIP"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_SUBMARINE"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_SUBMARINE"
+    },
+    {
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_AIR_CARRIER",
+        "UnitType": "UNIT_CARRIER"
+    },
+    {
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_NUKE",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_NUCLEAR_SUBMARINE"
+    },
+    {
+        "Flavor": 23,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_MISSILE_CRUISER"
+    },
+    {
+        "Flavor": 7,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_MISSILE_CRUISER"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_CULTURE",
+        "UnitType": "UNIT_ARTIST"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_SCIENCE",
+        "UnitType": "UNIT_SCIENTIST"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_GOLD",
+        "UnitType": "UNIT_MERCHANT"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_PRODUCTION",
+        "UnitType": "UNIT_ENGINEER"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_GREAT_GENERAL"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_GREAT_GENERAL"
+    },
+    {
+        "Flavor": 150,
+        "FlavorType": "FLAVOR_SPACESHIP",
+        "UnitType": "UNIT_SS_STASIS_CHAMBER"
+    },
+    {
+        "Flavor": 150,
+        "FlavorType": "FLAVOR_SPACESHIP",
+        "UnitType": "UNIT_SS_ENGINE"
+    },
+    {
+        "Flavor": 150,
+        "FlavorType": "FLAVOR_SPACESHIP",
+        "UnitType": "UNIT_SS_COCKPIT"
+    },
+    {
+        "Flavor": 150,
+        "FlavorType": "FLAVOR_SPACESHIP",
+        "UnitType": "UNIT_SS_BOOSTER"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_MONGOLIAN_KESHIK"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_MONGOLIAN_KESHIK"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_MONGOLIAN_KESHIK"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_INCAN_SLINGER"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_INCAN_SLINGER"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_INCAN_SLINGER"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_RECON",
+        "UnitType": "UNIT_POLYNESIAN_MAORI_WARRIOR"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_POLYNESIAN_MAORI_WARRIOR"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_POLYNESIAN_MAORI_WARRIOR"
+    },
+    {
+        "Flavor": 16,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_DANISH_BERSERKER"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_DANISH_BERSERKER"
+    },
+    {
+        "Flavor": 16,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_DANISH_SKI_INFANTRY"
+    },
+    {
+        "Flavor": 16,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_DANISH_SKI_INFANTRY"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_KOREAN_TURTLE_SHIP"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_KOREAN_TURTLE_SHIP"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_KOREAN_TURTLE_SHIP"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_KOREAN_HWACHA"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_KOREAN_HWACHA"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_KOREAN_HWACHA"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_BABYLONIAN_BOWMAN"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_BABYLONIAN_BOWMAN"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_BABYLONIAN_BOWMAN"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_CELT_PICTISH_WARRIOR"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_CELT_PICTISH_WARRIOR"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_MAYAN_ATLATLIST"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_MAYAN_ATLATLIST"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_MAYAN_ATLATLIST"
+    },
+    {
+        "Flavor": 16,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_BYZANTINE_DROMON"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_BYZANTINE_DROMON"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_BYZANTINE_CATAPHRACT"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_BYZANTINE_CATAPHRACT"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_BYZANTINE_CATAPHRACT"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_CARTHAGINIAN_FOREST_ELEPHANT"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_CARTHAGINIAN_FOREST_ELEPHANT"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_CARTHAGINIAN_FOREST_ELEPHANT"
+    },
+    {
+        "Flavor": 14,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_CARTHAGINIAN_QUINQUEREME"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_CARTHAGINIAN_QUINQUEREME"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_HUN_HORSE_ARCHER"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_HUN_HORSE_ARCHER"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_HUN_HORSE_ARCHER"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_HUN_BATTERING_RAM"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_HUN_BATTERING_RAM"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_AUSTRIAN_HUSSAR"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_AUSTRIAN_HUSSAR"
+    },
+    {
+        "Flavor": 14,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_AUSTRIAN_HUSSAR"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_SWEDISH_CAROLEAN"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_SWEDISH_CAROLEAN"
+    },
+    {
+        "Flavor": 18,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_SWEDISH_HAKKAPELIITTA"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_SWEDISH_HAKKAPELIITTA"
+    },
+    {
+        "Flavor": 14,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_SWEDISH_HAKKAPELIITTA"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE",
+        "UnitType": "UNIT_SWEDISH_HAKKAPELIITTA"
+    },
+    {
+        "Flavor": 16,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_DUTCH_SEA_BEGGAR"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_DUTCH_SEA_BEGGAR"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD",
+        "UnitType": "UNIT_DUTCH_SEA_BEGGAR"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_SPANISH_TERCIO"
+    },
+    {
+        "Flavor": 16,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_SPANISH_TERCIO"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_SPANISH_CONQUISTADOR"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_COMPOSITE_BOWMAN"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_COMPOSITE_BOWMAN"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_COMPOSITE_BOWMAN"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_GATLINGGUN"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_GATLINGGUN"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_GATLINGGUN"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_GALLEASS"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_GALLEASS"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_GREAT_WAR_INFANTRY"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_GREAT_WAR_INFANTRY"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_MARINE"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_MARINE"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_TRIPLANE"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_TRIPLANE"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_AIR",
+        "UnitType": "UNIT_TRIPLANE"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_ANTIAIR",
+        "UnitType": "UNIT_TRIPLANE"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_WWI_BOMBER"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_WWI_BOMBER"
+    },
+    {
+        "Flavor": 14,
+        "FlavorType": "FLAVOR_AIR",
+        "UnitType": "UNIT_WWI_BOMBER"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_WWI_TANK"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_WWI_TANK"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_WWI_TANK"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_MACHINE_GUN"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_MACHINE_GUN"
+    },
+    {
+        "Flavor": 14,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_MACHINE_GUN"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_PRIVATEER"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_PRIVATEER"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GOLD",
+        "UnitType": "UNIT_PRIVATEER"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_ETHIOPIAN_MEHAL_SEFARI"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_ETHIOPIAN_MEHAL_SEFARI"
+    },
+    {
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_GOLD",
+        "UnitType": "UNIT_VENETIAN_MERCHANT"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_ZULU_IMPI"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_ZULU_IMPI"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_ZULU_IMPI"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_I_SEA_TRADE_ROUTE",
+        "UnitType": "UNIT_CARGO_SHIP"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GOLD",
+        "UnitType": "UNIT_CARGO_SHIP"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_I_LAND_TRADE_ROUTE",
+        "UnitType": "UNIT_CARAVAN"
+    },
+    {
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD",
+        "UnitType": "UNIT_CARAVAN"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_POLISH_WINGED_HUSSAR"
+    },
+    {
+        "Flavor": 9,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_POLISH_WINGED_HUSSAR"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_POLISH_WINGED_HUSSAR"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_CULTURE",
+        "UnitType": "UNIT_WRITER"
+    },
+    {
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_CULTURE",
+        "UnitType": "UNIT_MUSICIAN"
+    },
+    {
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_ARCHAEOLOGY",
+        "UnitType": "UNIT_ARCHAEOLOGIST"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_ASSYRIAN_SIEGE_TOWER"
+    },
+    {
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_ASSYRIAN_SIEGE_TOWER"
+    },
+    {
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_BRAZILIAN_PRACINHA"
+    },
+    {
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_BRAZILIAN_PRACINHA"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_PORTUGUESE_NAU"
+    },
+    {
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_PORTUGUESE_NAU"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_BERBER_CAVALRY"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_BERBER_CAVALRY"
+    },
+    {
+        "Flavor": 14,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_BERBER_CAVALRY"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_NAVAL",
+        "UnitType": "UNIT_VENETIAN_GALLEASS"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_NAVAL_RECON",
+        "UnitType": "UNIT_VENETIAN_GALLEASS"
+    },
+    {
+        "Flavor": 14,
+        "FlavorType": "FLAVOR_RECON",
+        "UnitType": "UNIT_SHOSHONE_PATHFINDER"
+    },
+    {
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_SHOSHONE_COMANCHE_RIDERS"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_SHOSHONE_COMANCHE_RIDERS"
+    },
+    {
+        "Flavor": 14,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_SHOSHONE_COMANCHE_RIDERS"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_BAZOOKA"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_BAZOOKA"
+    },
+    {
+        "Flavor": 14,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_BAZOOKA"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_KRIS_SWORDSMAN"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_KRIS_SWORDSMAN"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_BARBARIAN_HORSEMAN"
+    },
+    {
+        "Flavor": 2,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_BARBARIAN_HORSEMAN"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_MOBILE",
+        "UnitType": "UNIT_BARBARIAN_HORSEMAN"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_BARBARIAN_AXMAN"
+    },
+    {
+        "Flavor": 3,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_BARBARIAN_AXMAN"
+    },
+    {
+        "Flavor": 6,
+        "FlavorType": "FLAVOR_RANGED",
+        "UnitType": "UNIT_BARBARIAN_AXMAN"
+    },
+    {
+        "Flavor": 16,
+        "FlavorType": "FLAVOR_OFFENSE",
+        "UnitType": "UNIT_XCOM_SQUAD"
+    },
+    {
+        "Flavor": 12,
+        "FlavorType": "FLAVOR_DEFENSE",
+        "UnitType": "UNIT_XCOM_SQUAD"
+    },
+    {
+        "Flavor": 8,
+        "FlavorType": "FLAVOR_AIR",
+        "UnitType": "UNIT_XCOM_SQUAD"
+    },
+    {
+        "Flavor": 4,
+        "FlavorType": "FLAVOR_RECON",
+        "UnitType": "UNIT_XCOM_SQUAD"
+    }
+]

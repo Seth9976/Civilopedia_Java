@@ -1,0 +1,110 @@
+[
+    {
+        "AnimationPathType": "ANIMATIONPATH_IDLE",
+        "EntityEventType": "ENTITY_EVENT_IDLE"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_MELEE_DIE",
+        "EntityEventType": "ENTITY_EVENT_DIE"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_SURRENDER",
+        "EntityEventType": "ENTITY_EVENT_SURRENDER"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_HEAL",
+        "EntityEventType": "ENTITY_EVENT_CAPTURED"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_AIRPATROL",
+        "EntityEventType": "ENTITY_EVENT_AIRPATROL"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_IDLE",
+        "EntityEventType": "ENTITY_EVENT_AIRINTERCEPTION"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_AIRBOMB",
+        "EntityEventType": "ENTITY_EVENT_AIRBOMB"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_AIRSTRIKE",
+        "EntityEventType": "ENTITY_EVENT_PARADROP"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_AIRSTRIKE",
+        "EntityEventType": "ENTITY_EVENT_AIRSTRIKE"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_GREAT_EVENT",
+        "EntityEventType": "ENTITY_EVENT_GREAT_EVENT"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_PILLAGE",
+        "EntityEventType": "ENTITY_EVENT_PILLAGE"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_SABOTAGE",
+        "EntityEventType": "ENTITY_EVENT_SABOTAGE"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_DESTROY",
+        "EntityEventType": "ENTITY_EVENT_DESTROY"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_STEAL_PLANS",
+        "EntityEventType": "ENTITY_EVENT_STEAL_PLANS"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_RANGED_STRIKE",
+        "EntityEventType": "ENTITY_EVENT_BOMBARD"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_RANGED_DIE",
+        "EntityEventType": "ENTITY_EVENT_DIE_ANIMATION"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_FOUND",
+        "EntityEventType": "ENTITY_EVENT_FOUND"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_FORTIFY",
+        "EntityEventType": "ENTITY_EVENT_FORTIFY"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_SENTRY",
+        "EntityEventType": "ENTITY_EVENT_SENTRY"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_HEAL",
+        "EntityEventType": "ENTITY_EVENT_HEAL"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_SLEEP",
+        "EntityEventType": "ENTITY_EVENT_SLEEP"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_SHOVEL",
+        "EntityEventType": "ENTITY_EVENT_SHOVEL"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_BUILD",
+        "EntityEventType": "ENTITY_EVENT_BUILD"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_IRRIGATE",
+        "EntityEventType": "ENTITY_EVENT_IRRIGATE"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_MINE",
+        "EntityEventType": "ENTITY_EVENT_MINE"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_CHOP",
+        "EntityEventType": "ENTITY_EVENT_CHOP"
+    },
+    {
+        "AnimationPathType": "ANIMATIONPATH_RAILROAD",
+        "EntityEventType": "ENTITY_EVENT_RAILROAD"
+    }
+]

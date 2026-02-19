@@ -1,0 +1,146 @@
+[
+    {
+        "CompilationRadius": 4,
+        "MaxTurn": 0,
+        "MinTurn": null,
+        "NotificationType": "NOTIFICATION_FIRE_STARTS",
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE",
+        "Summary": "LOC_FIRE_STARTED_DESC",
+        "Title": "LOC_FIRE_STARTED"
+    },
+    {
+        "CompilationRadius": 4,
+        "MaxTurn": 2,
+        "MinTurn": 2,
+        "NotificationType": "NOTIFICATION_FIRE_ENDS",
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE",
+        "Summary": "LOC_FIRE_CONTINUED_DESC",
+        "Title": "LOC_FIRE_CONTINUED"
+    },
+    {
+        "CompilationRadius": 4,
+        "MaxTurn": 8,
+        "MinTurn": 8,
+        "NotificationType": "NOTIFICATION_JUNGLE_REGROWS",
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE",
+        "Summary": "LOC_FIRE_JUNGLE_OVER_DESC",
+        "Title": "LOC_FIRE_JUNGLE_OVER"
+    },
+    {
+        "CompilationRadius": 4,
+        "MaxTurn": 0,
+        "MinTurn": null,
+        "NotificationType": "NOTIFICATION_FIRE_STARTS",
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE",
+        "Summary": "LOC_FIRE_STARTED_DESC",
+        "Title": "LOC_FIRE_STARTED"
+    },
+    {
+        "CompilationRadius": 4,
+        "MaxTurn": 2,
+        "MinTurn": 2,
+        "NotificationType": "NOTIFICATION_FIRE_ENDS",
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE",
+        "Summary": "LOC_FIRE_CONTINUED_DESC",
+        "Title": "LOC_FIRE_CONTINUED"
+    },
+    {
+        "CompilationRadius": 4,
+        "MaxTurn": 8,
+        "MinTurn": 8,
+        "NotificationType": "NOTIFICATION_FOREST_REGROWS",
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE",
+        "Summary": "LOC_FIRE_FOREST_OVER_DESC",
+        "Title": "LOC_FIRE_FOREST_OVER"
+    },
+    {
+        "CompilationRadius": null,
+        "MaxTurn": null,
+        "MinTurn": null,
+        "NotificationType": "NOTIFICATION_METEOR_STRIKES",
+        "RandomEventType": "RANDOM_EVENT_METEOR_SHOWER",
+        "Summary": "LOC_METEOR_HAPPENED_DESC",
+        "Title": "LOC_METEOR_HAPPENED"
+    },
+    {
+        "CompilationRadius": null,
+        "MaxTurn": null,
+        "MinTurn": null,
+        "NotificationType": "NOTIFICATION_SOLAR_FLARE",
+        "RandomEventType": "RANDOM_EVENT_SOLAR_FLARE",
+        "Summary": "LOC_SOLAR_FLARE_HAPPENED_DESC",
+        "Title": "LOC_SOLAR_FLARE_HAPPENED"
+    },
+    {
+        "CompilationRadius": null,
+        "MaxTurn": null,
+        "MinTurn": null,
+        "NotificationType": "NOTIFICATION_COMET_LANDS",
+        "RandomEventType": "RANDOM_EVENT_COMET_STRIKE",
+        "Summary": "LOC_COMET_HAPPENED_DESC",
+        "Title": "LOC_COMET_HAPPENED"
+    },
+    {
+        "CompilationRadius": null,
+        "MaxTurn": null,
+        "MinTurn": null,
+        "NotificationType": "NOTIFICATION_COMET_LANDS",
+        "RandomEventType": "RANDOM_EVENT_COMET_STRIKE_TARGETED",
+        "Summary": "LOC_COMET_HAPPENED_DESC",
+        "Title": "LOC_COMET_HAPPENED"
+    },
+    {
+        "CompilationRadius": 4,
+        "MaxTurn": 0,
+        "MinTurn": null,
+        "NotificationType": "NOTIFICATION_FIRE_STARTS",
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE_TRIGGERED",
+        "Summary": "LOC_FIRE_STARTED_DESC",
+        "Title": "LOC_FIRE_STARTED"
+    },
+    {
+        "CompilationRadius": 4,
+        "MaxTurn": 3,
+        "MinTurn": 3,
+        "NotificationType": "NOTIFICATION_FIRE_ENDS",
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE_TRIGGERED",
+        "Summary": "LOC_FIRE_CONTINUED_DESC",
+        "Title": "LOC_FIRE_CONTINUED"
+    },
+    {
+        "CompilationRadius": 4,
+        "MaxTurn": 8,
+        "MinTurn": 8,
+        "NotificationType": "NOTIFICATION_JUNGLE_REGROWS",
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE_TRIGGERED",
+        "Summary": "LOC_FIRE_JUNGLE_OVER_DESC",
+        "Title": "LOC_FIRE_JUNGLE_OVER"
+    },
+    {
+        "CompilationRadius": 4,
+        "MaxTurn": 0,
+        "MinTurn": null,
+        "NotificationType": "NOTIFICATION_FIRE_STARTS",
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE_TRIGGERED",
+        "Summary": "LOC_FIRE_STARTED_DESC",
+        "Title": "LOC_FIRE_STARTED"
+    },
+    {
+        "CompilationRadius": 4,
+        "MaxTurn": 3,
+        "MinTurn": 3,
+        "NotificationType": "NOTIFICATION_FIRE_ENDS",
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE_TRIGGERED",
+        "Summary": "LOC_FIRE_CONTINUED_DESC",
+        "Title": "LOC_FIRE_CONTINUED"
+    },
+    {
+        "CompilationRadius": 4,
+        "MaxTurn": 8,
+        "MinTurn": 8,
+        "NotificationType": "NOTIFICATION_FOREST_REGROWS",
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE_TRIGGERED",
+        "Summary": "LOC_FIRE_FOREST_OVER_DESC",
+        "Title": "LOC_FIRE_FOREST_OVER"
+    }
+]

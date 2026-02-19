@@ -1,0 +1,1738 @@
+[
+    {
+        "JumpTo": 6,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 1,
+        "TreeName": "Simple Coastal Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 2,
+        "TreeName": "Simple Coastal Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Choose Coastal Target",
+        "PrimaryKey": 3,
+        "TreeName": "Simple Coastal Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 4,
+        "TreeName": "Simple Coastal Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 5,
+        "TreeName": "Simple Coastal Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 6,
+        "TreeName": "Simple Coastal Defense"
+    },
+    {
+        "JumpTo": 4,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 7,
+        "TreeName": "Build Unit-Linked Constructible"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Input",
+        "PrimaryKey": 8,
+        "TreeName": "Build Unit-Linked Constructible"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "GoToLocation",
+        "PrimaryKey": 9,
+        "TreeName": "Build Unit-Linked Constructible"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Construct",
+        "PrimaryKey": 10,
+        "TreeName": "Build Unit-Linked Constructible"
+    },
+    {
+        "JumpTo": 10,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 11,
+        "TreeName": "Convert Settlement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Input",
+        "PrimaryKey": 12,
+        "TreeName": "Convert Settlement"
+    },
+    {
+        "JumpTo": 10,
+        "NodeId": 2,
+        "NodeType": "Sequence",
+        "PrimaryKey": 13,
+        "TreeName": "Convert Settlement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "RecruitUnit",
+        "PrimaryKey": 14,
+        "TreeName": "Convert Settlement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Get Best Conversion Position",
+        "PrimaryKey": 15,
+        "TreeName": "Convert Settlement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "GoToLocation",
+        "PrimaryKey": 16,
+        "TreeName": "Convert Settlement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Convert Settlement",
+        "PrimaryKey": 17,
+        "TreeName": "Convert Settlement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Get Best Conversion Position",
+        "PrimaryKey": 18,
+        "TreeName": "Convert Settlement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "GoToLocation",
+        "PrimaryKey": 19,
+        "TreeName": "Convert Settlement"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Convert Settlement",
+        "PrimaryKey": 20,
+        "TreeName": "Convert Settlement"
+    },
+    {
+        "JumpTo": 11,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 21,
+        "TreeName": "Create Trade Route"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Input",
+        "PrimaryKey": 22,
+        "TreeName": "Create Trade Route"
+    },
+    {
+        "JumpTo": 8,
+        "NodeId": 2,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 23,
+        "TreeName": "Create Trade Route"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 3,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 24,
+        "TreeName": "Create Trade Route"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Research Progression Node",
+        "PrimaryKey": 25,
+        "TreeName": "Create Trade Route"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "RecruitUnit",
+        "PrimaryKey": 26,
+        "TreeName": "Create Trade Route"
+    },
+    {
+        "JumpTo": 8,
+        "NodeId": 6,
+        "NodeType": "Wait Turns",
+        "PrimaryKey": 27,
+        "TreeName": "Create Trade Route"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "NoOp",
+        "PrimaryKey": 28,
+        "TreeName": "Create Trade Route"
+    },
+    {
+        "JumpTo": 11,
+        "NodeId": 8,
+        "NodeType": "Priority",
+        "PrimaryKey": 29,
+        "TreeName": "Create Trade Route"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Make Trade Route",
+        "PrimaryKey": 30,
+        "TreeName": "Create Trade Route"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "GoToLocation",
+        "PrimaryKey": 31,
+        "TreeName": "Create Trade Route"
+    },
+    {
+        "JumpTo": 4,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 32,
+        "TreeName": "Dig for Artifact"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Input",
+        "PrimaryKey": 33,
+        "TreeName": "Dig for Artifact"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "GoToLocation",
+        "PrimaryKey": 34,
+        "TreeName": "Dig for Artifact"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Dig Artifact",
+        "PrimaryKey": 35,
+        "TreeName": "Dig for Artifact"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 36,
+        "TreeName": "Explore Distant Lands"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Input",
+        "PrimaryKey": 37,
+        "TreeName": "Explore Distant Lands"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 38,
+        "TreeName": "Explore Distant Lands"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 3,
+        "NodeType": "Priority",
+        "PrimaryKey": 39,
+        "TreeName": "Explore Distant Lands"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Discovered Distant Lands",
+        "PrimaryKey": 40,
+        "TreeName": "Explore Distant Lands"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 5,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 41,
+        "TreeName": "Explore Distant Lands"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 42,
+        "TreeName": "Explore Distant Lands"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 43,
+        "TreeName": "Explore Distant Lands"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 44,
+        "TreeName": "Explore Distant Lands"
+    },
+    {
+        "JumpTo": 24,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 45,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 4,
+        "NodeId": 1,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 46,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 47,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Operation Form Army",
+        "PrimaryKey": 48,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 4,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 49,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 50,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Operation Form Army",
+        "PrimaryKey": 51,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 14,
+        "NodeId": 7,
+        "NodeType": "Priority",
+        "PrimaryKey": 52,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 8,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 53,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Army Must Unpack",
+        "PrimaryKey": 54,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Operation Unpack Army",
+        "PrimaryKey": 55,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 56,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Army Overrun",
+        "PrimaryKey": 57,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Operation Form Army",
+        "PrimaryKey": 58,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 59,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Operation Unpack Army",
+        "PrimaryKey": 60,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 24,
+        "NodeId": 16,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 61,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 17,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 62,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 18,
+        "NodeType": "Operation Unpack Army",
+        "PrimaryKey": 63,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Army Issue Commands",
+        "PrimaryKey": 64,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 20,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 65,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 66,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 22,
+        "NodeType": "Operation Pillage City",
+        "PrimaryKey": 67,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 23,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 68,
+        "TreeName": "Independent Power Assault"
+    },
+    {
+        "JumpTo": 17,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 69,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 3,
+        "NodeId": 1,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 70,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 71,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 3,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 72,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 73,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 74,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 13,
+        "NodeId": 6,
+        "NodeType": "Limit Turns",
+        "PrimaryKey": 75,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 13,
+        "NodeId": 7,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 76,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 77,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Operation Pillage City",
+        "PrimaryKey": 78,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 79,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 80,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 81,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Notify Owner",
+        "PrimaryKey": 82,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 17,
+        "NodeId": 14,
+        "NodeType": "Sequence",
+        "PrimaryKey": 83,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 84,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Notify Owner",
+        "PrimaryKey": 85,
+        "TreeName": "Independent Power Raid"
+    },
+    {
+        "JumpTo": 33,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 86,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Input",
+        "PrimaryKey": 87,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 33,
+        "NodeId": 2,
+        "NodeType": "Priority",
+        "PrimaryKey": 88,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 7,
+        "NodeId": 3,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 89,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Minor Power Status",
+        "PrimaryKey": 90,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 7,
+        "NodeId": 5,
+        "NodeType": "Reserve Diplomatic Token",
+        "PrimaryKey": 91,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Use Diplomatic Token",
+        "PrimaryKey": 92,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 33,
+        "NodeId": 7,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 93,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Minor Power Status",
+        "PrimaryKey": 94,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 33,
+        "NodeId": 9,
+        "NodeType": "Sequence",
+        "PrimaryKey": 95,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 14,
+        "NodeId": 10,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 96,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 97,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 98,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 99,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Operation Form Army",
+        "PrimaryKey": 100,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 23,
+        "NodeId": 15,
+        "NodeType": "Priority",
+        "PrimaryKey": 101,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 21,
+        "NodeId": 16,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 102,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 17,
+        "NodeType": "Army Must Unpack",
+        "PrimaryKey": 103,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 18,
+        "NodeType": "Operation Unpack Army",
+        "PrimaryKey": 104,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 105,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 20,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 106,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "Army Overrun",
+        "PrimaryKey": 107,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 22,
+        "NodeType": "Operation Form Army",
+        "PrimaryKey": 108,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 26,
+        "NodeId": 23,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 109,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 24,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 110,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 25,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 111,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 33,
+        "NodeId": 26,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 112,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 27,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 113,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 28,
+        "NodeType": "Operation Unpack Army",
+        "PrimaryKey": 114,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 29,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 115,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 30,
+        "NodeType": "Disperse Minor Power",
+        "PrimaryKey": 116,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 31,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 117,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 32,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 118,
+        "TreeName": "Minor Power Assault"
+    },
+    {
+        "JumpTo": 7,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 119,
+        "TreeName": "Minor Power Diplomacy"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Input",
+        "PrimaryKey": 120,
+        "TreeName": "Minor Power Diplomacy"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "RecruitUnit",
+        "PrimaryKey": 121,
+        "TreeName": "Minor Power Diplomacy"
+    },
+    {
+        "JumpTo": 7,
+        "NodeId": 3,
+        "NodeType": "Sequence",
+        "PrimaryKey": 122,
+        "TreeName": "Minor Power Diplomacy"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "GoToLocation",
+        "PrimaryKey": 123,
+        "TreeName": "Minor Power Diplomacy"
+    },
+    {
+        "JumpTo": 7,
+        "NodeId": 5,
+        "NodeType": "Reserve Diplomatic Token",
+        "PrimaryKey": 124,
+        "TreeName": "Minor Power Diplomacy"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Use Diplomatic Token",
+        "PrimaryKey": 125,
+        "TreeName": "Minor Power Diplomacy"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 126,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Input",
+        "PrimaryKey": 127,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 128,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 9,
+        "NodeId": 3,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 129,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 130,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 131,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 132,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Naval Escort",
+        "PrimaryKey": 133,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Naval Patrol",
+        "PrimaryKey": 134,
+        "TreeName": "Naval Superiority Tree"
+    },
+    {
+        "JumpTo": 5,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 135,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Operation City Under Threat",
+        "PrimaryKey": 136,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 137,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 138,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 139,
+        "TreeName": "Reinforce Ally"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 140,
+        "TreeName": "Research Continent Archaeology"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Input",
+        "PrimaryKey": 141,
+        "TreeName": "Research Continent Archaeology"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Check Artifact Research Available At Location",
+        "PrimaryKey": 142,
+        "TreeName": "Research Continent Archaeology"
+    },
+    {
+        "JumpTo": 6,
+        "NodeId": 3,
+        "NodeType": "Sequence",
+        "PrimaryKey": 143,
+        "TreeName": "Research Continent Archaeology"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "GoToLocation",
+        "PrimaryKey": 144,
+        "TreeName": "Research Continent Archaeology"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Research Continent Archaeology",
+        "PrimaryKey": 145,
+        "TreeName": "Research Continent Archaeology"
+    },
+    {
+        "JumpTo": 5,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 146,
+        "TreeName": "Resettle Migrant"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Input",
+        "PrimaryKey": 147,
+        "TreeName": "Resettle Migrant"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Get Closest Owned City Location",
+        "PrimaryKey": 148,
+        "TreeName": "Resettle Migrant"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "GoToLocation",
+        "PrimaryKey": 149,
+        "TreeName": "Resettle Migrant"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Resettle in City",
+        "PrimaryKey": 150,
+        "TreeName": "Resettle Migrant"
+    },
+    {
+        "JumpTo": 27,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 151,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 20,
+        "NodeId": 1,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 152,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Decode Input",
+        "PrimaryKey": 153,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "CheckSettleLocationValid",
+        "PrimaryKey": 154,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 20,
+        "NodeId": 4,
+        "NodeType": "Sequence",
+        "PrimaryKey": 155,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 8,
+        "NodeId": 5,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 156,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Research Progression Node",
+        "PrimaryKey": 157,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 158,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 159,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 20,
+        "NodeId": 9,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 160,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "CheckSettleLocationValid",
+        "PrimaryKey": 161,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 162,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 16,
+        "NodeId": 12,
+        "NodeType": "Priority",
+        "PrimaryKey": 163,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 15,
+        "NodeId": 13,
+        "NodeType": "Not",
+        "PrimaryKey": 164,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 14,
+        "NodeType": "Army Must Unpack",
+        "PrimaryKey": 165,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Operation Unpack Army",
+        "PrimaryKey": 166,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 167,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 17,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 168,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 18,
+        "NodeType": "Operation Form Army",
+        "PrimaryKey": 169,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 170,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 27,
+        "NodeId": 20,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 171,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 21,
+        "NodeType": "CheckSettleLocationValid",
+        "PrimaryKey": 172,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 22,
+        "NodeType": "Operation Unpack Army",
+        "PrimaryKey": 173,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 23,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 174,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 24,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 175,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 25,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 176,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 26,
+        "NodeType": "DiplomaticActionLandClaim",
+        "PrimaryKey": 177,
+        "TreeName": "Settle New Town"
+    },
+    {
+        "JumpTo": 52,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 178,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 51,
+        "NodeId": 1,
+        "NodeType": "Sequence",
+        "PrimaryKey": 179,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 32,
+        "NodeId": 2,
+        "NodeType": "Reserve Diplomatic Token",
+        "PrimaryKey": 180,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 32,
+        "NodeId": 3,
+        "NodeType": "Sequence",
+        "PrimaryKey": 181,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 14,
+        "NodeId": 4,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 182,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 183,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 6,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 184,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 11,
+        "NodeId": 7,
+        "NodeType": "Priority",
+        "PrimaryKey": 185,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 10,
+        "NodeId": 8,
+        "NodeType": "Not",
+        "PrimaryKey": 186,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Army Must Unpack",
+        "PrimaryKey": 187,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Operation Unpack Army",
+        "PrimaryKey": 188,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 189,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 12,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 190,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 13,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 191,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 17,
+        "NodeId": 14,
+        "NodeType": "Priority",
+        "PrimaryKey": 192,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 15,
+        "NodeType": "Operation Check Relationship",
+        "PrimaryKey": 193,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 16,
+        "NodeType": "Use Diplomatic Token",
+        "PrimaryKey": 194,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 17,
+        "NodeType": "Operation Form Army",
+        "PrimaryKey": 195,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 32,
+        "NodeId": 18,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 196,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 19,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 197,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 20,
+        "NodeType": "Check Backup Target",
+        "PrimaryKey": 198,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 29,
+        "NodeId": 21,
+        "NodeType": "Priority",
+        "PrimaryKey": 199,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 27,
+        "NodeId": 22,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 200,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 25,
+        "NodeId": 23,
+        "NodeType": "Not",
+        "PrimaryKey": 201,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 24,
+        "NodeType": "Army Must Unpack",
+        "PrimaryKey": 202,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 25,
+        "NodeType": "Operation Unpack Army",
+        "PrimaryKey": 203,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 26,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 204,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 27,
+        "NodeType": "Army Overrun",
+        "PrimaryKey": 205,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 28,
+        "NodeType": "Operation Form Army",
+        "PrimaryKey": 206,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 29,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 207,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 30,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 208,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 31,
+        "NodeType": "Rebase Air Support",
+        "PrimaryKey": 209,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 32,
+        "NodeType": "Operation Unpack Army",
+        "PrimaryKey": 210,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 40,
+        "NodeId": 33,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 211,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 36,
+        "NodeId": 34,
+        "NodeType": "Wait Turns",
+        "PrimaryKey": 212,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 35,
+        "NodeType": "Operation Declare War",
+        "PrimaryKey": 213,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 36,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 214,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 37,
+        "NodeType": "Army Issue Commands",
+        "PrimaryKey": 215,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 38,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 216,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 39,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 217,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 51,
+        "NodeId": 40,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 218,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 41,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 219,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 42,
+        "NodeType": "Operation Unpack Army",
+        "PrimaryKey": 220,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 43,
+        "NodeType": "Army Issue Commands",
+        "PrimaryKey": 221,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 44,
+        "NodeType": "Air Assault",
+        "PrimaryKey": 222,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 45,
+        "NodeType": "Rebase Air Support",
+        "PrimaryKey": 223,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 46,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 224,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 47,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 225,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 48,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 226,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 49,
+        "NodeType": "Operation Pillage City",
+        "PrimaryKey": 227,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 50,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 228,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 51,
+        "NodeType": "Operation Unstack Units",
+        "PrimaryKey": 229,
+        "TreeName": "Simple City Assault"
+    },
+    {
+        "JumpTo": 12,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 230,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Operation Recruit Units",
+        "PrimaryKey": 231,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Operation Unpack Army",
+        "PrimaryKey": 232,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 233,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Army Issue Commands",
+        "PrimaryKey": 234,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 5,
+        "NodeType": "Operation Attack Units",
+        "PrimaryKey": 235,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 6,
+        "NodeType": "Operation Defend Units",
+        "PrimaryKey": 236,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 7,
+        "NodeType": "Operation Attack City",
+        "PrimaryKey": 237,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 8,
+        "NodeType": "Disperse Minor Power",
+        "PrimaryKey": 238,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 9,
+        "NodeType": "Operation Move Army",
+        "PrimaryKey": 239,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 10,
+        "NodeType": "Operation City Under Threat",
+        "PrimaryKey": 240,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 11,
+        "NodeType": "Operation Unstack Units",
+        "PrimaryKey": 241,
+        "TreeName": "Simple City Defense"
+    },
+    {
+        "JumpTo": 2,
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "PrimaryKey": 242,
+        "TreeName": "Strategy Settle Other Hemisphere"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Input",
+        "PrimaryKey": 243,
+        "TreeName": "Strategy Settle Other Hemisphere"
+    },
+    {
+        "JumpTo": 5,
+        "NodeId": 0,
+        "NodeType": "Sequence",
+        "PrimaryKey": 244,
+        "TreeName": "Use Great Person"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 1,
+        "NodeType": "Decode Input",
+        "PrimaryKey": 245,
+        "TreeName": "Use Great Person"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 2,
+        "NodeType": "Get Best Great Person Position",
+        "PrimaryKey": 246,
+        "TreeName": "Use Great Person"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 3,
+        "NodeType": "GoToLocation",
+        "PrimaryKey": 247,
+        "TreeName": "Use Great Person"
+    },
+    {
+        "JumpTo": 0,
+        "NodeId": 4,
+        "NodeType": "Activate Great Person",
+        "PrimaryKey": 248,
+        "TreeName": "Use Great Person"
+    }
+]

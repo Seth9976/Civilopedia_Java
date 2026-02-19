@@ -1,0 +1,44 @@
+[
+    {
+        "DefaultValue": 1.0,
+        "IconString": "[ICON_Food]",
+        "Name": "LOC_YIELD_FOOD_NAME",
+        "OccupiedCityChange": 0.0,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DefaultValue": 1.0,
+        "IconString": "[ICON_Production]",
+        "Name": "LOC_YIELD_PRODUCTION_NAME",
+        "OccupiedCityChange": -0.5,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DefaultValue": 0.5,
+        "IconString": "[ICON_Gold]",
+        "Name": "LOC_YIELD_GOLD_NAME",
+        "OccupiedCityChange": -0.5,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "DefaultValue": 1.0,
+        "IconString": "[ICON_Science]",
+        "Name": "LOC_YIELD_SCIENCE_NAME",
+        "OccupiedCityChange": -0.75,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "DefaultValue": 1.0,
+        "IconString": "[ICON_Culture]",
+        "Name": "LOC_YIELD_CULTURE_NAME",
+        "OccupiedCityChange": -0.75,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "DefaultValue": 1.0,
+        "IconString": "[ICON_Faith]",
+        "Name": "LOC_YIELD_FAITH_NAME",
+        "OccupiedCityChange": -0.75,
+        "YieldType": "YIELD_FAITH"
+    }
+]

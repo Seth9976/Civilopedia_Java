@@ -1,0 +1,2842 @@
+[
+    {
+        "AgendaType": "TRAIT_AGENDA_BLACK_QUEEN",
+        "LeaderType": null,
+        "ListType": "BlackQueenDiplomacyPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_CITY_STATE_ALLY",
+        "LeaderType": null,
+        "ListType": "CityStateAllyInfluencePreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_CITY_STATE_ALLY",
+        "LeaderType": null,
+        "ListType": "CityStateAllyNoWarPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_DELIAN_LEAGUE",
+        "LeaderType": null,
+        "ListType": "CityStateAllyInfluencePreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_DELIAN_LEAGUE",
+        "LeaderType": null,
+        "ListType": "CityStateAllyNoWarPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_CLEAR_BANDIT_CAMPS",
+        "LeaderType": null,
+        "ListType": "ClearingBarbCampLoverClearingBarbCampPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_COUNTER_REFORMER",
+        "LeaderType": null,
+        "ListType": "CounterReformerInquisitionPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "TriggeredTrees"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_COUNTER_REFORMER",
+        "LeaderType": null,
+        "ListType": "CounterReformerInquisitorPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Units"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_CULTURE",
+        "LeaderType": null,
+        "ListType": "CultureLoverCulturePreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_IGNORE_WARMONGERING",
+        "LeaderType": null,
+        "ListType": "DarwinistIgnoreWarmongerValue",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_GREAT_PERSON_OBSESSED",
+        "LeaderType": null,
+        "ListType": "GreatPersonObsessedGreatPeople",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_GREAT_PERSON_ADVOCATE",
+        "LeaderType": null,
+        "ListType": "GreatPersonObsessedGreatPeople",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_INDUSTRY",
+        "LeaderType": null,
+        "ListType": "IndustryLoverIndustryPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_IRON_CROWN",
+        "LeaderType": null,
+        "ListType": "IronCrownDiplomacyPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_LAST_VIKING_KING",
+        "LeaderType": null,
+        "ListType": "LastVikingKingCoastSettlement",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_LAST_VIKING_KING",
+        "LeaderType": null,
+        "ListType": "LastVikingKingHarborPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Districts"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_LAST_VIKING_KING",
+        "LeaderType": null,
+        "ListType": "LastVikingKingNavalPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_INCOME",
+        "LeaderType": null,
+        "ListType": "MoneyGrubberGoldPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_NUKES",
+        "LeaderType": null,
+        "ListType": "NukeLoverNukePreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_NUKES",
+        "LeaderType": null,
+        "ListType": "NukeLoverUseNukePreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PEACEKEEPER",
+        "LeaderType": null,
+        "ListType": "PeacekeeperWarLimits",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_SCIENCE",
+        "LeaderType": null,
+        "ListType": "ScienceLoverSciencePreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "StandardSettlePlot",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_STANDING_ARMY",
+        "LeaderType": null,
+        "ListType": "StandingArmyPseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_SUN_NEVER_SETS",
+        "LeaderType": null,
+        "ListType": "SettleAllContinents",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_WITH_SHIELD",
+        "LeaderType": null,
+        "ListType": "WithShieldDiplomacy",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_WONDER_OBSESSED",
+        "LeaderType": null,
+        "ListType": "WonderObsessedWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_WONDER_ADVOCATE",
+        "LeaderType": null,
+        "ListType": "WonderObsessedWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_AIRPOWER",
+        "LeaderType": null,
+        "ListType": "AirpowerLoverAirpowerPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_CITY_STATE_PROTECTOR",
+        "LeaderType": null,
+        "ListType": "CitySateProtectionLoverCityStateProtectionPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_EXPLOITATION",
+        "LeaderType": null,
+        "ListType": "ExploitationLoverExploitationPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_ENVIRONMENT",
+        "LeaderType": null,
+        "ListType": "EnvironmentLoverEnvironmentPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_FAITH",
+        "LeaderType": null,
+        "ListType": "FaithLoverFaithPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_EXPLORATION_OBSESSED",
+        "LeaderType": null,
+        "ListType": "ExplorationObsessedExplorers",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS",
+        "ListType": "GreeceCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS",
+        "ListType": "GreeceYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_BACKSTAB_AVERSE",
+        "LeaderType": null,
+        "ListType": "TomyrisDiplomacy",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_ALLY_OF_ENKIDU",
+        "LeaderType": null,
+        "ListType": "GilgameshDiplomacy",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_DEFAULT_TRAIT",
+        "ListType": "MinorCivDiplomacy",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "BaseListTest",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_HOLY_ROMAN_EMPEROR",
+        "ListType": "BarbarossaWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "FLYING_SQUADRON_TRAIT",
+        "ListType": "CatherineWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MEDITERRANEAN",
+        "ListType": "CleopatraWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SATYAGRAHA",
+        "ListType": "GandhiWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_AGENDA_WITH_SHIELD",
+        "ListType": "GorgoWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP",
+        "ListType": "HaraldWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_DIVINE_WIND",
+        "ListType": "HoJoWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RELIGIOUS_CONVERT",
+        "ListType": "MvembaWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAGNANIMOUS",
+        "ListType": "PedroWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SURROUNDED_BY_GLORY",
+        "ListType": "PericlesWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SURROUNDED_BY_GLORY",
+        "ListType": "PericlesEnvoys",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_GRAND_EMBASSY",
+        "ListType": "PeterWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_EL_ESCORIAL",
+        "ListType": "PhilipWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_EL_ESCORIAL",
+        "ListType": "PhilipForeignSettlement",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "FIRST_EMPEROR_TRAIT",
+        "ListType": "QinWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ROOSEVELT_COROLLARY",
+        "ListType": "RooseveltWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH",
+        "ListType": "SaladinWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAJANS_COLUMN_TRAIT",
+        "ListType": "TrajanWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_PAX_BRITANNICA",
+        "ListType": "VictoriaWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_HOLY_ROMAN_EMPEROR",
+        "ListType": "BarbarossaCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "FLYING_SQUADRON_TRAIT",
+        "ListType": "CatherineCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MEDITERRANEAN",
+        "ListType": "CleopatraCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SATYAGRAHA",
+        "ListType": "GandhiCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_AGENDA_WITH_SHIELD",
+        "ListType": "GorgoCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP",
+        "ListType": "HaraldCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_DIVINE_WIND",
+        "ListType": "HoJoCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RELIGIOUS_CONVERT",
+        "ListType": "MvembaCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAGNANIMOUS",
+        "ListType": "PedroCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SURROUNDED_BY_GLORY",
+        "ListType": "PericlesCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_GRAND_EMBASSY",
+        "ListType": "PeterCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_EL_ESCORIAL",
+        "ListType": "PhilipCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "FIRST_EMPEROR_TRAIT",
+        "ListType": "QinCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ROOSEVELT_COROLLARY",
+        "ListType": "RooseveltCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH",
+        "ListType": "SaladinCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_KILLER_OF_CYRUS",
+        "ListType": "TomyrisCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAJANS_COLUMN_TRAIT",
+        "ListType": "TrajanCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_PAX_BRITANNICA",
+        "ListType": "VictoriaCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_HOLY_ROMAN_EMPEROR",
+        "ListType": "BarbarossaTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "FLYING_SQUADRON_TRAIT",
+        "ListType": "CatherineTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MEDITERRANEAN",
+        "ListType": "CleopatraTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SATYAGRAHA",
+        "ListType": "GandhiTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_AGENDA_WITH_SHIELD",
+        "ListType": "GorgoTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP",
+        "ListType": "HaraldTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_DIVINE_WIND",
+        "ListType": "HoJoTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RELIGIOUS_CONVERT",
+        "ListType": "MvembaTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAGNANIMOUS",
+        "ListType": "PedroTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SURROUNDED_BY_GLORY",
+        "ListType": "PericlesTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_GRAND_EMBASSY",
+        "ListType": "PeterTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_EL_ESCORIAL",
+        "ListType": "PhilipTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "FIRST_EMPEROR_TRAIT",
+        "ListType": "QinTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ROOSEVELT_COROLLARY",
+        "ListType": "RooseveltTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH",
+        "ListType": "SaladinTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_KILLER_OF_CYRUS",
+        "ListType": "TomyrisTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAJANS_COLUMN_TRAIT",
+        "ListType": "TrajanTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_PAX_BRITANNICA",
+        "ListType": "VictoriaTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SATYAGRAHA",
+        "ListType": "GandhiUnitBuilds",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "UnitPromotionClasses"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_KILLER_OF_CYRUS",
+        "ListType": "TomyrisiUnitBuilds",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "UnitPromotionClasses"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ADVENTURES_ENKIDU",
+        "ListType": "GilgameshSciencePreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "DefaultCitySettlement",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "SettlementPreferences"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "DefaultCitySpecialization",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "AiBuildSpecializations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "DefaultTechBoostSupportList",
+        "MaxDifficulty": null,
+        "MinDifficulty": "DIFFICULTY_WARLORD",
+        "System": "TechBoosts"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "DefaultTriggeredTrees",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "TriggeredTrees"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "DefaultYieldBias",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "UnitPriorityBoosts",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Units"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "DefaultCityBuilds",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "CityEvents"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "DefaultSavings",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "SavingTypes"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "DefaultScoutUse",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "AiScoutUses"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_EXPANSIONIST",
+        "ListType": "ExpansionistCitySettlement",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "SettlementPreferences"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_KILLER_OF_CYRUS",
+        "ListType": "CavalryLoverCitySettlement",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_AGGRESSIVE_MILITARY",
+        "ListType": "AgressiveDiplomacy",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_AGGRESSIVE_MILITARY",
+        "ListType": "AggressivePseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE",
+        "ListType": "LowReligiousPreferencePseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE",
+        "ListType": "LowReligiousPreferenceYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LOW_CITY_STATE_PREFERENCE_WAR",
+        "ListType": "LowCityStatePreferenceWarDiploActions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_DEFAULT_TRAIT",
+        "ListType": "DefaultCitySpecialization",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "AiBuildSpecializations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_DEFAULT_TRAIT",
+        "ListType": "MinorCivTriggeredTrees",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "TriggeredTrees"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_DEFAULT_TRAIT",
+        "ListType": "MinorCivUnitBuilds",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "UnitPromotionClasses"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_DEFAULT_TRAIT",
+        "ListType": "MinorCivCityBuilds",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "CityEvents"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_DEFAULT_TRAIT",
+        "ListType": "MinorCivPseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_DEFAULT_TRAIT",
+        "ListType": "DefaultSavings",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "SavingTypes"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_DEFAULT_TRAIT",
+        "ListType": "MinorCivDistricts",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Districts"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_SCIENTIFIC_TRAIT",
+        "ListType": "MinorCivScienceDistrict",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Districts"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_RELIGIOUS_TRAIT",
+        "ListType": "MinorCivReligiousDistrict",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Districts"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_TRADE_TRAIT",
+        "ListType": "MinorCivTradeDistrict",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Districts"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_CULTURAL_TRAIT",
+        "ListType": "MinorCivCultureDistrict",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Districts"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_MILITARISTIC_TRAIT",
+        "ListType": "MinorCivMilitaryDistrict",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Districts"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_INDUSTRIAL_TRAIT",
+        "ListType": "MinorCivIndustryDistrict",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Districts"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_BARBARIAN",
+        "ListType": "BarbarianTriggeredTrees",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "TriggeredTrees"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_CULTURAL_MAJOR_CIV",
+        "ListType": "FavorCulturalVictory",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Strategies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RELIGIOUS_MAJOR_CIV",
+        "ListType": "FavorReligiousVictory",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Strategies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_NONRELIGIOUS_MAJOR_CIV",
+        "ListType": "ForbidReligiousVictory",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Strategies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SCIENCE_MAJOR_CIV",
+        "ListType": "FavorScienceVictory",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Strategies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "BaseOperationsLimits",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "AiOperationTypes"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "PerWarOperationsLimits",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PerWarOperationTypes"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_DEFAULT_TRAIT",
+        "ListType": "BaseOperationsLimits",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "AiOperationTypes"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "Default Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Tactics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "Default Homeland",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Homeland"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_BARBARIAN",
+        "ListType": "Default Barbarian",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Tactics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_BARBARIAN",
+        "ListType": "Default Barbarian HL",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Homeland"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_DEFAULT_TRAIT",
+        "ListType": "Minor Civ Tactical",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Tactics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "MINOR_CIV_DEFAULT_TRAIT",
+        "ListType": "Minor Civ Homeland",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Homeland"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ClassicalPseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ClassicalYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "CultureVictoryPseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ClassicalDistricts",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Districts"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "CultureVictoryYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "EarlyExplorationBoost",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "AiScoutUses"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ExpansionSettlementBoost",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "SettlementPreferences"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ExpansionSettlementPreferences",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ExpansionUnitPreferences",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "IndustrialPseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "IndustrialYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "MedievalSettlements",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "SettlementPreferences"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "MedievalPseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "MedievalYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "MilitaryVictoryOperations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "AiOperationTypes"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "MilitaryVictoryPseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "MilitaryVictoryYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ModernPseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ModernYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "NavalUnitPreferences",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "NavalSettlementPreferences",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "NavalSettlementBoost",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "SettlementPreferences"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "NavalPreferredTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ReligiousVictoryBehaviors",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "TriggeredTrees"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ReligiousVictoryDiplomacy",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ReligiousVictoryPseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ReligiousVictoryYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "RenaissancePseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "RenaissanceYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ScienceVictoryDistricts",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Districts"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ScienceVictoryProjects",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Projects"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ScienceVictoryPseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ScienceVictoryTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ScienceVictoryYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "WonderObsessedIndustrialBonus",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_GIFTS_FOR_TLATOANI",
+        "ListType": "MontezumaWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_GIFTS_FOR_TLATOANI",
+        "ListType": "MontezumaCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_GIFTS_FOR_TLATOANI",
+        "ListType": "MontezumaTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_EXALTED_GODDESS",
+        "ListType": "GitarjaCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_EXALTED_GODDESS",
+        "ListType": "GitarjaTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_EXALTED_GODDESS",
+        "ListType": "GitarjaWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MONASTERIES_KING",
+        "ListType": "JayavarmanCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MONASTERIES_KING",
+        "ListType": "JayavarmanTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MONASTERIES_KING",
+        "ListType": "JayavarmanUnitBuilds",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Units"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MONASTERIES_KING",
+        "ListType": "JayavarmanWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LITHUANIAN_UNION",
+        "ListType": "JadwigaCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LITHUANIAN_UNION",
+        "ListType": "JadwigaTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LITHUANIAN_UNION",
+        "ListType": "JadwigaUnitBuilds",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Units"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LITHUANIAN_UNION",
+        "ListType": "JadwigaWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_SAINT",
+        "LeaderType": null,
+        "ListType": "FaithLoverFaithPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_KANDAKE_OF_MEROE",
+        "ListType": "AmanitoreCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_KANDAKE_OF_MEROE",
+        "ListType": "AmanitoreTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_KANDAKE_OF_MEROE",
+        "ListType": "AmanitoreUnitBuilds",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "UnitPromotionClasses"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_KANDAKE_OF_MEROE",
+        "ListType": "AmanitoreWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_CIVILIZATION_MAYAB",
+        "ListType": "MayanEmpire",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_CIVILIZATION_MAYAB",
+        "ListType": "MayanObservatory",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MUTAL",
+        "ListType": "CompactEmpire",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_TO_WORLDS_END",
+        "ListType": "AlexanderPreferWar",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Strategies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_AGENDA_BACKSTABBER",
+        "ListType": "CyrusPreferBackstabbing",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_TO_WORLDS_END",
+        "ListType": "AlexanderCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_TO_WORLDS_END",
+        "ListType": "AlexanderTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_TO_WORLDS_END",
+        "ListType": "AlexanderWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_FALL_BABYLON",
+        "ListType": "CyrusCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_FALL_BABYLON",
+        "ListType": "CyrusTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_FALL_BABYLON",
+        "ListType": "CyrusWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_SHORT_LIFE_GLORY",
+        "LeaderType": null,
+        "ListType": "ShortLifeDiplomacy",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_CITADEL_CIVILIZATION",
+        "ListType": "CurtinCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_CITADEL_CIVILIZATION",
+        "ListType": "CurtinDiplomacy",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_CITADEL_CIVILIZATION",
+        "ListType": "CurtinTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_CITADEL_CIVILIZATION",
+        "ListType": "CurtinWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_IRON_CONFEDERACY",
+        "LeaderType": null,
+        "ListType": "IronConfederacyDiplomacy",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_MAURYA_EMPIRE",
+        "LeaderType": null,
+        "ListType": "MauryaEmpireDiplomacy",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_NARIKALA_FORTRESS",
+        "LeaderType": null,
+        "ListType": "TamarFavorWalls",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_NARIKALA_FORTRESS",
+        "LeaderType": null,
+        "ListType": "TamarYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_SPIRIT_OF_TUCAPEL",
+        "LeaderType": null,
+        "ListType": "TucapelSettlingChanges",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_SPIRIT_OF_TUCAPEL",
+        "LeaderType": null,
+        "ListType": "TucapelPseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_BILLIONAIRE",
+        "LeaderType": null,
+        "ListType": "WilhelminaPseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_BILLIONAIRE",
+        "LeaderType": null,
+        "ListType": "WilhelminaYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_CIVILIZATION_DISTRICT_SEOWON",
+        "ListType": "KoreaScienceBiase",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT",
+        "ListType": "ScottishEnlightnmentBiases",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT",
+        "ListType": "ScottishEnlightnmentDistricts",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Districts"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ARTHASHASTRA",
+        "ListType": "TerritorialWarriorList",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_BANNOCKBURN",
+        "ListType": "LiberationWarriorList",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RELIGION_CITY_STATES",
+        "ListType": "ProtectorateWarriorList",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_GENGHIS_KHAN_ABILITY",
+        "ListType": "GenghisKhanCavalryLoverList",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "UnitPromotionClasses"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_GENGHIS_KHAN_ABILITY",
+        "ListType": "CavalryLoverCitySettlement",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_RADIO_ORANJE",
+        "ListType": "WilhelminaEmergencyAllianceList",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ARTHASHASTRA",
+        "ListType": "ChandraguptaCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ARTHASHASTRA",
+        "ListType": "ChandraguptaTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ARTHASHASTRA",
+        "ListType": "ChandraguptaWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LAUTARO_ABILITY",
+        "ListType": "LautaroCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LAUTARO_ABILITY",
+        "ListType": "LautaroTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LAUTARO_ABILITY",
+        "ListType": "LautaroWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_AMABUTHO",
+        "ListType": "ShakaCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_AMABUTHO",
+        "ListType": "ShakaTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_AMABUTHO",
+        "ListType": "ShakaWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_GENGHIS_KHAN_ABILITY",
+        "ListType": "GenghisCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_GENGHIS_KHAN_ABILITY",
+        "ListType": "GenghisTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_GENGHIS_KHAN_ABILITY",
+        "ListType": "GenghisWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_RADIO_ORANJE",
+        "ListType": "WilhelminaCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_RADIO_ORANJE",
+        "ListType": "WilhelminaTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_RADIO_ORANJE",
+        "ListType": "WilhelminaWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_BANNOCKBURN",
+        "ListType": "RobertCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_BANNOCKBURN",
+        "ListType": "RobertTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_BANNOCKBURN",
+        "ListType": "RobertWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RELIGION_CITY_STATES",
+        "ListType": "TamarCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RELIGION_CITY_STATES",
+        "ListType": "TamarTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RELIGION_CITY_STATES",
+        "ListType": "TamarEnvoys",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RELIGION_CITY_STATES",
+        "ListType": "TamarWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ALLIANCE_AND_TRADE",
+        "ListType": "PoundmakerCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ALLIANCE_AND_TRADE",
+        "ListType": "PoundmakerTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ALLIANCE_AND_TRADE",
+        "ListType": "PoundmakerWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_HWARANG",
+        "ListType": "SeondeokCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_HWARANG",
+        "ListType": "SeondeokTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_HWARANG",
+        "ListType": "SeondeokWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_GOSSIP",
+        "LeaderType": null,
+        "ListType": "GossipFavoredDiplomacy",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_CIVILIZATION_DISTRICT_SEOWON",
+        "ListType": "KoreaFavoredAlliances",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Alliances"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "CULTURE_KILLS_TRAIT",
+        "ListType": "GorgoFavoredAlliances",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Alliances"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MONASTERIES_KING",
+        "ListType": "JayavarmanDisfavoredAlliances",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Alliances"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_FREE_CITIES",
+        "ListType": "FreeCitiesTactics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Tactics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_FREE_CITIES",
+        "ListType": "FreeCitiesHomeland",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Homeland"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_FREE_CITIES",
+        "ListType": "FreeCitiesOperationLimits",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "AiOperationTypes"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_FREE_CITIES",
+        "ListType": "FreeCitiesCityBuilds",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "CityEvents"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "CultureVictoryFavoredCommemorations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Commemorations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "MilitaryVictoryFavoredCommemorations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Commemorations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ReligiousVictoryFavoredCommemorations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Commemorations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ScienceVictoryFavoredCommemorations",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Commemorations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "AvoidDarkAges",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ClassicalSensitivity",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "YieldSensitivities"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "MedievalSensitivity",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "YieldSensitivities"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ModernSensitivity",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "YieldSensitivities"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "ScienceSensitivity",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "YieldSensitivities"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": null,
+        "ListType": "CultureSensitivity",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "YieldSensitivities"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_BULL_MOOSE",
+        "LeaderType": null,
+        "ListType": "BullMooseEnvironmentPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_BULL_MOOSE",
+        "LeaderType": null,
+        "ListType": "BullMooseResolutions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Resolutions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_BULL_MOOSE",
+        "LeaderType": null,
+        "ListType": "BullMooseDiscussions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Discussions"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_CIVILIZATION_IMPROVEMENT_ROCK_HEWN_CHURCH",
+        "ListType": "EthiopiaYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "AGENDA_ETHIOPIAN_HIGHLANDS",
+        "ListType": "PreferHills",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_TRADE_AGREEMENT",
+        "LeaderType": null,
+        "ListType": "ElizabethPseudoYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_TRADE_AGREEMENT",
+        "LeaderType": null,
+        "ListType": "ElizabethYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_SAGA",
+        "LeaderType": null,
+        "ListType": "SagaPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "DiplomaticActions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_INDUSTRIAL_REVOLUTION",
+        "LeaderType": null,
+        "ListType": "IndustrialRevolutionPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_VICTORIA_ALT",
+        "ListType": "VictoriaAltCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_VICTORIA_ALT",
+        "ListType": "VictoriaAltTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_VICTORIA_ALT",
+        "ListType": "VictoriaAltWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ELIZABETH",
+        "ListType": "ElizabethCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ELIZABETH",
+        "ListType": "ElizabethTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_ELIZABETH",
+        "ListType": "ElizabethWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_HARALD_ALT",
+        "ListType": "HaraldAltWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_HARALD_ALT",
+        "ListType": "HaraldAltCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_HARALD_ALT",
+        "ListType": "HaraldAltTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_HARALD_ALT",
+        "ListType": "HaraldAltEnvoys",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_DECOLONIZATION",
+        "LeaderType": null,
+        "ListType": "SettleOneContinent",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LINCOLN",
+        "ListType": "LincolnWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LINCOLN",
+        "ListType": "LincolnCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LINCOLN",
+        "ListType": "LincolnTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_NZINGA_MBANDE",
+        "ListType": "NzingaWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_NZINGA_MBANDE",
+        "ListType": "NzingaTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_NZINGA_MBANDE",
+        "ListType": "NzingaCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SALADIN_ALT",
+        "ListType": "SaladinAltWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SALADIN_ALT",
+        "ListType": "SaladinAltCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SALADIN_ALT",
+        "ListType": "SaladinAltTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_SIHAI",
+        "LeaderType": null,
+        "ListType": "SihaiLoverClearingBarbCampPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_YONGLE",
+        "ListType": "YongleCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_YONGLE",
+        "ListType": "YongleTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_YONGLE",
+        "ListType": "YongleWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_WU_ZETIAN",
+        "ListType": "WuZetianCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_WU_ZETIAN",
+        "ListType": "WuZetianTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_WU_ZETIAN",
+        "ListType": "WuZetianWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_WU_ZETIAN",
+        "ListType": "WuZetianPseudo",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_QIN",
+        "ListType": "QinAltUnits",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "UnitPromotionClasses"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_QIN",
+        "ListType": "QinAltTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_QIN",
+        "ListType": "QinAltWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_MAAT",
+        "LeaderType": null,
+        "ListType": "MaatLoverExploitationPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_FOOD",
+        "LeaderType": null,
+        "ListType": "FoodLoverFoodPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RAMSES",
+        "ListType": "WonderObsessedWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_CLEOPATRA_ALT",
+        "ListType": "CleopatraAltCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MEDITERRANEAN",
+        "ListType": "CleopatraAltTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_CLEOPATRA_ALT",
+        "ListType": "CleopatraAltWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RAMSES",
+        "ListType": "RamsesCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MEDITERRANEAN",
+        "ListType": "RamsesTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_RAMSES",
+        "ListType": "RamsesWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_HAMMURABI_DISTRICTS",
+        "LeaderType": null,
+        "ListType": "HammurabiFavoredDistricts",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_GILGAMESH_HEROES",
+        "ListType": "GilgameshSciencePreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_CAESAR",
+        "ListType": "CaesarCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_CAESAR",
+        "ListType": "CaesarTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_CAESAR",
+        "ListType": "CaesarWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_GALLIC_WARS",
+        "LeaderType": null,
+        "ListType": "GallicWarsClearingBarbCampPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_BASIL",
+        "ListType": "BasilFavoredBuildings",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_CIVILIZATION_DISTRICT_OPPIDUM",
+        "ListType": "GaulFavoredTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_BASIL_ZEALOT",
+        "LeaderType": null,
+        "ListType": "BasilFavoredResolutions",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Resolutions"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_BASIL_ZEALOT",
+        "LeaderType": null,
+        "ListType": "BasilFavoredYields",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_KUBLAI",
+        "ListType": "KublaiKhanPseudoYieldPreferences",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_KUBLAI",
+        "ListType": "KublaiKhanYieldPreferences",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_CIVILIZATION_VIETNAM",
+        "ListType": "VietnamSettlePreferences",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_MAJOR_CIV",
+        "ListType": "MajorTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_MAGNIFICENCES",
+        "LeaderType": null,
+        "ListType": "CatherineAltLuxuries",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_TOKUGAWA",
+        "ListType": "TokugawaWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_TOKUGAWA",
+        "ListType": "TokugawaCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_TOKUGAWA",
+        "ListType": "TokugawaTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_PREFER_LANDPOWER",
+        "LeaderType": null,
+        "ListType": "LandPowerLoverLandUnitsPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_NADER_SHAH",
+        "ListType": "NaderCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_NADER_SHAH",
+        "ListType": "NaderTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_NADER_SHAH",
+        "ListType": "NaderWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_JOAO_III",
+        "ListType": "JoaoCivicPreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_JOAO_III",
+        "ListType": "JoaoCoastalSettlements",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PlotEvaluations"
+    },
+    {
+        "AgendaType": "TRAIT_JOAO_EXPLORATION_AGENDA",
+        "LeaderType": null,
+        "ListType": "JoaoExplorationObsessed",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "PseudoYields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LUDWIG",
+        "ListType": "LudwigWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LUDWIG",
+        "ListType": "LudwigCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_LUDWIG",
+        "ListType": "LudwigTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    },
+    {
+        "AgendaType": "TRAIT_AGENDA_NEW_ROME",
+        "LeaderType": null,
+        "ListType": "NewRomeCulturePreference",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Yields"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SEJONG",
+        "ListType": "SejongWonders",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Buildings"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SEJONG",
+        "ListType": "SejongCivics",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Civics"
+    },
+    {
+        "AgendaType": null,
+        "LeaderType": "TRAIT_LEADER_SEJONG",
+        "ListType": "SejongTechs",
+        "MaxDifficulty": null,
+        "MinDifficulty": null,
+        "System": "Technologies"
+    }
+]

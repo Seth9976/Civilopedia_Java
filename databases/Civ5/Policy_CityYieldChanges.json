@@ -1,0 +1,37 @@
+[
+    {
+        "PolicyType": "POLICY_REPUBLIC",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "PolicyType": "POLICY_FIVE_YEAR_PLAN",
+        "Yield": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "PolicyType": "POLICY_PARTY_LEADERSHIP",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "PolicyType": "POLICY_PARTY_LEADERSHIP",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "PolicyType": "POLICY_PARTY_LEADERSHIP",
+        "Yield": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "PolicyType": "POLICY_PARTY_LEADERSHIP",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "PolicyType": "POLICY_PARTY_LEADERSHIP",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    }
+]

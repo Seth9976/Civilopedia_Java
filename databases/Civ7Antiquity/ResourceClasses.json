@@ -1,0 +1,20 @@
+[
+    {
+        "Assignable": 1,
+        "Description": "LOC_RESOURCECLASS_BONUS_DESCRIPTION",
+        "Name": "LOC_RESOURCECLASS_BONUS_NAME",
+        "ResourceClassType": "RESOURCECLASS_BONUS"
+    },
+    {
+        "Assignable": 1,
+        "Description": "LOC_RESOURCECLASS_CITY_DESCRIPTION",
+        "Name": "LOC_RESOURCECLASS_CITY_NAME",
+        "ResourceClassType": "RESOURCECLASS_CITY"
+    },
+    {
+        "Assignable": 0,
+        "Description": "LOC_RESOURCECLASS_EMPIRE_DESCRIPTION",
+        "Name": "LOC_RESOURCECLASS_EMPIRE_NAME",
+        "ResourceClassType": "RESOURCECLASS_EMPIRE"
+    }
+]

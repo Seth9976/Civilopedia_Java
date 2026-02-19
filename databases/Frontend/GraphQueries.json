@@ -1,0 +1,26 @@
+[
+    {
+        "Query": "GameDataSets",
+        "SQL": "select DataSets.ObjectID, Datasets.Type, DataSetID from GameObjects inner join DataSets on GameObjects.ObjectID = DataSets.ObjectID where GameObjects.GameID=@GameID and DataSet=@DataSet"
+    },
+    {
+        "Query": "GameDataSetsByType",
+        "SQL": "select DataSets.ObjectID, Datasets.Type, DataSetID from GameObjects inner join DataSets on GameObjects.ObjectID = DataSets.ObjectID where GameObjects.Type=@ExtraData and GameObjects.GameID=@GameID and DataSet=@DataSet"
+    },
+    {
+        "Query": "GameDeltaDataSetsByType",
+        "SQL": "select DataSets.ObjectID, Datasets.Type, DataSetID, 1 as IsDelta from GameObjects inner join DataSets on GameObjects.ObjectID = DataSets.ObjectID where GameObjects.Type=@ExtraData and GameObjects.GameID=@GameID and DataSet=@DataSet"
+    },
+    {
+        "Query": "PlayerDataSets",
+        "SQL": "select DataSets.ObjectID, Datasets.Type, DataSetID from GameObjects inner join DataSets on GameObjects.ObjectID = DataSets.ObjectID where GameObjects.PlayerObjectID=@ObjectID and DataSet=@DataSet"
+    },
+    {
+        "Query": "PlayerDataSetsByType",
+        "SQL": "select DataSets.ObjectID, Datasets.Type, DataSetID from GameObjects inner join DataSets on GameObjects.ObjectID = DataSets.ObjectID where GameObjects.Type=@ExtraData and GameObjects.PlayerObjectID=@ObjectID and DataSet=@DataSet"
+    },
+    {
+        "Query": "PlayerDeltaDataSetsByType",
+        "SQL": "select DataSets.ObjectID, Datasets.Type, DataSetID, 1 as IsDelta from GameObjects inner join DataSets on GameObjects.ObjectID = DataSets.ObjectID where GameObjects.Type=@ExtraData and GameObjects.PlayerObjectID=@ObjectID and DataSet=@DataSet"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "BeliefType": "BELIEF_ANCESTOR_WORSHIP",
+        "BuildingClassType": "BUILDINGCLASS_SHRINE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BeliefType": "BELIEF_FEED_WORLD",
+        "BuildingClassType": "BUILDINGCLASS_SHRINE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BeliefType": "BELIEF_FEED_WORLD",
+        "BuildingClassType": "BUILDINGCLASS_TEMPLE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BeliefType": "BELIEF_CHORAL_MUSIC",
+        "BuildingClassType": "BUILDINGCLASS_TEMPLE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BeliefType": "BELIEF_RELIGIOUS_ART",
+        "BuildingClassType": "BUILDINGCLASS_HERMITAGE",
+        "YieldChange": 5,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BeliefType": "BELIEF_LITURGICAL_DRAMA",
+        "BuildingClassType": "BUILDINGCLASS_AMPHITHEATER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BeliefType": "BELIEF_GOD_KING",
+        "BuildingClassType": "BUILDINGCLASS_PALACE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BeliefType": "BELIEF_GOD_KING",
+        "BuildingClassType": "BUILDINGCLASS_PALACE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BeliefType": "BELIEF_GOD_KING",
+        "BuildingClassType": "BUILDINGCLASS_PALACE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BeliefType": "BELIEF_GOD_KING",
+        "BuildingClassType": "BUILDINGCLASS_PALACE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BeliefType": "BELIEF_GOD_KING",
+        "BuildingClassType": "BUILDINGCLASS_PALACE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    }
+]

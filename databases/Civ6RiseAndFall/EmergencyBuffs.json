@@ -1,0 +1,82 @@
+[
+    {
+        "Description": "LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_COMBAT_STRENGTH",
+        "EmergencyType": "EMERGENCY_MILITARY",
+        "ModifierID": "MILITARY_EMERGENCY_MEMBER_COMBAT_STRENGTH_ATTACK"
+    },
+    {
+        "Description": null,
+        "EmergencyType": "EMERGENCY_MILITARY",
+        "ModifierID": "MILITARY_EMERGENCY_MEMBER_COMBAT_STRENGTH_DEFEND"
+    },
+    {
+        "Description": "LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_MOVEMENT",
+        "EmergencyType": "EMERGENCY_MILITARY",
+        "ModifierID": "MILITARY_EMERGENCY_MEMBER_MOVEMENT_BUFF"
+    },
+    {
+        "Description": "LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT",
+        "EmergencyType": "EMERGENCY_SETTLED_CITY",
+        "ModifierID": "SETTLEMENT_EMERGENCY_MEMBER_MOVEMENT_BUFF"
+    },
+    {
+        "Description": "LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT",
+        "EmergencyType": "EMERGENCY_SETTLED_CITY",
+        "ModifierID": "SETTLEMENT_EMERGENCY_TARGET_MOVEMENT_BUFF"
+    },
+    {
+        "Description": "LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH",
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "ModifierID": "NUCLEAR_EMERGENCY_MEMBER_COMBAT_STRENGTH_ATTACK"
+    },
+    {
+        "Description": null,
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "ModifierID": "NUCLEAR_EMERGENCY_MEMBER_COMBAT_STRENGTH_DEFEND"
+    },
+    {
+        "Description": "LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_MOVEMENT",
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "ModifierID": "NUCLEAR_EMERGENCY_MEMBER_MOVEMENT_BUFF"
+    },
+    {
+        "Description": "LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_COMBAT_STRENGTH",
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "ModifierID": "BACKSTAB_EMERGENCY_MEMBER_COMBAT_STRENGTH_ATTACK"
+    },
+    {
+        "Description": null,
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "ModifierID": "BACKSTAB_EMERGENCY_MEMBER_COMBAT_STRENGTH_DEFEND"
+    },
+    {
+        "Description": "LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_MOVEMENT",
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "ModifierID": "BACKSTAB_EMERGENCY_MEMBER_MOVEMENT_BUFF"
+    },
+    {
+        "Description": "LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_TRADING",
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "ModifierID": "BACKSTAB_EMERGENCY_MEMBER_TRADING_BUFF"
+    },
+    {
+        "Description": "LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_IDENTITY_IN_CITY",
+        "EmergencyType": "EMERGENCY_MILITARY",
+        "ModifierID": "EMERGENCY_PREVENT_FREE_CITY_BUFF"
+    },
+    {
+        "Description": "LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_IDENTITY_IN_CITY",
+        "EmergencyType": "EMERGENCY_CAPTURE_CITY_STATE",
+        "ModifierID": "EMERGENCY_PREVENT_FREE_CITY_BUFF"
+    },
+    {
+        "Description": "LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_IDENTITY_IN_CITY",
+        "EmergencyType": "EMERGENCY_NUCLEAR",
+        "ModifierID": "EMERGENCY_PREVENT_FREE_CITY_BUFF"
+    },
+    {
+        "Description": "LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_IDENTITY_IN_CITY",
+        "EmergencyType": "EMERGENCY_BACKSTAB",
+        "ModifierID": "EMERGENCY_PREVENT_FREE_CITY_BUFF"
+    }
+]

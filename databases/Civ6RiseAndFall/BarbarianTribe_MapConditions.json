@@ -1,0 +1,146 @@
+[
+    {
+        "FeatureType": null,
+        "Invert": 1,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_MELEE_OPEN_GRASS",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": null,
+        "Invert": 1,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_MELEE_OPEN_PLAINS",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": null,
+        "Invert": 1,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_MELEE_OPEN_DESERT",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": null,
+        "Invert": 1,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_MELEE_OPEN_TUNDRA",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": null,
+        "Invert": 1,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_MELEE_OPEN_SNOW",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "Invert": 0,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_MELEE_FOREST",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": null
+    },
+    {
+        "FeatureType": null,
+        "Invert": 0,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_MELEE_GRASS_HILLS",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": null,
+        "Invert": 0,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_MELEE_PLAINS_HILLS",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": null,
+        "Invert": 0,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_MELEE_DESERT_HILLS",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": null,
+        "Invert": 0,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_MELEE_TUNDRA_HILLS",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": null,
+        "Invert": 0,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_MELEE_SNOW_HILLS",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "FeatureType": null,
+        "Invert": 0,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_CAVALRY_OPEN",
+        "Range": 3,
+        "ResourceType": "RESOURCE_HORSES",
+        "TerrainType": null
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "Invert": 1,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_CAVALRY_OPEN",
+        "Range": 0,
+        "ResourceType": null,
+        "TerrainType": null
+    },
+    {
+        "FeatureType": "FEATURE_JUNGLE",
+        "Invert": 1,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_CAVALRY_OPEN",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": null
+    },
+    {
+        "FeatureType": null,
+        "Invert": 0,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_CAVALRY_JUNGLE",
+        "Range": 3,
+        "ResourceType": "RESOURCE_IVORY",
+        "TerrainType": null
+    },
+    {
+        "FeatureType": "FEATURE_JUNGLE",
+        "Invert": 0,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_CAVALRY_JUNGLE",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": null
+    },
+    {
+        "FeatureType": null,
+        "Invert": 0,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_CAVALRY_CHARIOT",
+        "Range": 3,
+        "ResourceType": "RESOURCE_HORSES",
+        "TerrainType": null
+    },
+    {
+        "FeatureType": null,
+        "Invert": 0,
+        "MapConditionSetType": "TRIBE_CONDITION_SET_CAVALRY_CHARIOT",
+        "Range": 1,
+        "ResourceType": null,
+        "TerrainType": "TERRAIN_DESERT"
+    }
+]

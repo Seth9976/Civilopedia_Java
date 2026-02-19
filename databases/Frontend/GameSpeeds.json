@@ -1,0 +1,37 @@
+[
+    {
+        "Description": "LOC_GAMESPEED_ONLINE_DESCRIPTION",
+        "Domain": "StandardGameSpeeds",
+        "GameSpeedType": "GAMESPEED_ONLINE",
+        "Name": "LOC_GAMESPEED_ONLINE_NAME",
+        "SortIndex": 10
+    },
+    {
+        "Description": "LOC_GAMESPEED_QUICK_DESCRIPTION",
+        "Domain": "StandardGameSpeeds",
+        "GameSpeedType": "GAMESPEED_QUICK",
+        "Name": "LOC_GAMESPEED_QUICK_NAME",
+        "SortIndex": 20
+    },
+    {
+        "Description": "LOC_GAMESPEED_STANDARD_DESCRIPTION",
+        "Domain": "StandardGameSpeeds",
+        "GameSpeedType": "GAMESPEED_STANDARD",
+        "Name": "LOC_GAMESPEED_STANDARD_NAME",
+        "SortIndex": 30
+    },
+    {
+        "Description": "LOC_GAMESPEED_EPIC_DESCRIPTION",
+        "Domain": "StandardGameSpeeds",
+        "GameSpeedType": "GAMESPEED_EPIC",
+        "Name": "LOC_GAMESPEED_EPIC_NAME",
+        "SortIndex": 40
+    },
+    {
+        "Description": "LOC_GAMESPEED_MARATHON_DESCRIPTION",
+        "Domain": "StandardGameSpeeds",
+        "GameSpeedType": "GAMESPEED_MARATHON",
+        "Name": "LOC_GAMESPEED_MARATHON_NAME",
+        "SortIndex": 50
+    }
+]

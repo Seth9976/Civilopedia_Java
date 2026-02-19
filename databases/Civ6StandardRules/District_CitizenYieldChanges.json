@@ -1,0 +1,92 @@
+[
+    {
+        "DistrictType": "DISTRICT_HOLY_SITE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "DistrictType": "DISTRICT_CAMPUS",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "DistrictType": "DISTRICT_ENCAMPMENT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "DistrictType": "DISTRICT_ENCAMPMENT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_HARBOR",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "DistrictType": "DISTRICT_HARBOR",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_COMMERCIAL_HUB",
+        "YieldChange": 4,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "DistrictType": "DISTRICT_THEATER",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "DistrictType": "DISTRICT_INDUSTRIAL_ZONE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_ACROPOLIS",
+        "YieldChange": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "DistrictType": "DISTRICT_HANSA",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_LAVRA",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "DistrictType": "DISTRICT_ROYAL_NAVY_DOCKYARD",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "DistrictType": "DISTRICT_ROYAL_NAVY_DOCKYARD",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "DistrictType": "DISTRICT_OBSERVATORY",
+        "YieldChange": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "DistrictType": "DISTRICT_OPPIDUM",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "DistrictType": "DISTRICT_THANH",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "DistrictType": "DISTRICT_THANH",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    }
+]

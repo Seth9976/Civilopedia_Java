@@ -1,0 +1,26 @@
+[
+    {
+        "CoreClass": "CORE_CLASS_RECON",
+        "Domain": "DOMAIN_LAND",
+        "Tag": "UNIT_CLASS_RECON",
+        "UnitType": "UNIT_SCOUT"
+    },
+    {
+        "CoreClass": "CORE_CLASS_SUPPORT",
+        "Domain": "DOMAIN_LAND",
+        "Tag": "UNIT_CLASS_CREATE_TOWN",
+        "UnitType": "UNIT_SETTLER"
+    },
+    {
+        "CoreClass": "CORE_CLASS_CIVILIAN",
+        "Domain": "DOMAIN_LAND",
+        "Tag": "UNIT_CLASS_MIGRANT",
+        "UnitType": "UNIT_MIGRANT"
+    },
+    {
+        "CoreClass": "CORE_CLASS_CIVILIAN",
+        "Domain": "DOMAIN_LAND",
+        "Tag": "UNIT_CLASS_MAKE_TRADE_ROUTE",
+        "UnitType": "UNIT_MERCHANT"
+    }
+]

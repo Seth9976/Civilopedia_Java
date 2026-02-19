@@ -1,0 +1,527 @@
+[
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": -2,
+        "FlavorType": "FLAVOR_MOBILE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_NAVAL_GROWTH"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_WATER_CONNECTION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": -6,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SETTLER_PUMP",
+        "Flavor": -6,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_TRAINING",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_TRAINING",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_TRAINING",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_TRAINING",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_TRAINING",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_TRAINING",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_TRAINING",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_TRAINING",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_TRAINING",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_TRAINING",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_EMERGENCY_UNITS",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_EMERGENCY_UNITS",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_EMERGENCY_UNITS",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_EMERGENCY_UNITS",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_EMERGENCY_UNITS",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_EMERGENCY_UNITS",
+        "Flavor": 200,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_EMERGENCY_UNITS",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_EMERGENCY_UNITS",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_EMERGENCY_UNITS",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_EMERGENCY_UNITS",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_NAVAL",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_NAVAL",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_NAVAL",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_NAVAL",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_NAVAL",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_NAVAL",
+        "Flavor": 200,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_NAVAL",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_NAVAL",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_NAVAL",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_NAVAL",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_MILITARY_NAVAL",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_WONDER",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_WONDER",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_WONDER",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_WONDER",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_WONDER",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_WONDER",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_WONDER",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_WONDER",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_WONDER",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_WONDER",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_SPACESHIP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_SPACESHIP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_SPACESHIP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_SPACESHIP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_SPACESHIP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_SPACESHIP",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_SPACESHIP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_SPACESHIP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_SPACESHIP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_PRODUCTION_SPACESHIP",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_WATER_CONNECTION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_COMMERCE",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SCIENCE",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SCIENCE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SCIENCE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SCIENCE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SCIENCE",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SCIENCE",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SCIENCE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SCIENCE",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SCIENCE",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SCIENCE",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SCIENCE",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SCIENCE",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_SCIENCE",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_GENERAL_ECONOMIC",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_GENERAL_ECONOMIC",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_GENERAL_ECONOMIC",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_GENERAL_ECONOMIC",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_GENERAL_ECONOMIC",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_GENERAL_ECONOMIC",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_GENERAL_ECONOMIC",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_GENERAL_ECONOMIC",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GREAT_PEOPLE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_GENERAL_ECONOMIC",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_GENERAL_ECONOMIC",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_GENERAL_ECONOMIC",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "CitySpecializationType": "CITYSPECIALIZATION_GENERAL_ECONOMIC",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_NAVAL"
+    }
+]

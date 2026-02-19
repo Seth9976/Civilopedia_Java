@@ -1,0 +1,30 @@
+[
+    {
+        "DeforestationPointsPerTurn": -1,
+        "DeforestationType": "DEFORESTATION_LIGHT",
+        "Description": "LOC_DEFORESTATION_LIGHT_DESCRIPTION",
+        "MaxDeforestationPercent": 10,
+        "Name": "LOC_DEFORESTATION_LIGHT_NAME"
+    },
+    {
+        "DeforestationPointsPerTurn": 1,
+        "DeforestationType": "DEFORESTATION_EXPECTED",
+        "Description": "LOC_DEFORESTATION_EXPECTED_DESCRIPTION",
+        "MaxDeforestationPercent": 25,
+        "Name": "LOC_DEFORESTATION_EXPECTED_NAME"
+    },
+    {
+        "DeforestationPointsPerTurn": 3,
+        "DeforestationType": "DEFORESTATION_HEAVY",
+        "Description": "LOC_DEFORESTATION_HEAVY_DESCRIPTION",
+        "MaxDeforestationPercent": 40,
+        "Name": "LOC_DEFORESTATION_HEAVY_NAME"
+    },
+    {
+        "DeforestationPointsPerTurn": 5,
+        "DeforestationType": "DEFORESTATION_EXTREME",
+        "Description": "LOC_DEFORESTATION_EXTREME_DESCRIPTION",
+        "MaxDeforestationPercent": 100,
+        "Name": "LOC_DEFORESTATION_EXTREME_NAME"
+    }
+]

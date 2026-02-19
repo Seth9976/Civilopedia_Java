@@ -1,0 +1,190 @@
+[
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "AUTOCRACY_CAPITAL"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "AUTOCRACY_TIER1"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "AUTOCRACY_TIER2"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "AUTOCRACY_TIER3"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_OLIGARCHY",
+        "ModifierId": "OLIGARCHY_MELEE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_CLASSICAL_REPUBLIC",
+        "ModifierId": "CLASSICAL_REPUBLIC_AMENITY"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_CLASSICAL_REPUBLIC",
+        "ModifierId": "CLASSICAL_REPUBLIC_HOUSING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MONARCHY",
+        "ModifierId": "MONARCHY_WALLS_HOUSING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MONARCHY",
+        "ModifierId": "MONARCHY_CASTLE_HOUSING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MONARCHY",
+        "ModifierId": "MONARCHY_STARFORT_HOUSING"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_RELIGIOUS"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_RELIGIOUS_PEOPLE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MERCHANT_REPUBLIC",
+        "ModifierId": "MERCHANT_REPUBLIC_GOLD_MODIFIER"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_FASCISM",
+        "ModifierId": "FASCISM_ATTACK"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_FASCISM",
+        "ModifierId": "FASCISM_WAR_WEARINESS"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_COMMUNISM",
+        "ModifierId": "COMMUNISM_PRODUCTIVE_PEOPLE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "AUTOCRACY_WONDERS"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_OLIGARCHY",
+        "ModifierId": "OLIGARCHY_UNIT_EXPERIENCE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_CLASSICAL_REPUBLIC",
+        "ModifierId": "CLASSICAL_REPUBLIC_GREAT_PEOPLE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MONARCHY",
+        "ModifierId": "MONARCHY_ENVOYS"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_THEOCRACY",
+        "ModifierId": "THEOCRACY_FAITH_PURCHASE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MERCHANT_REPUBLIC",
+        "ModifierId": "MERCHANT_REPUBLIC_DISTRICTS"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_FASCISM",
+        "ModifierId": "FASCISM_UNIT_PRODUCTION"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DEMOCRACY",
+        "ModifierId": "DEMOCRACY_GOLD_PURCHASE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DEMOCRACY",
+        "ModifierId": "DEMOCRACY_TRADEROUTEFOODTOALLY"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DEMOCRACY",
+        "ModifierId": "DEMOCRACY_TRADEROUTEPRODUCTIONTOALLY"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DEMOCRACY",
+        "ModifierId": "DEMOCRACY_TRADEROUTEFOODFROMALLY"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DEMOCRACY",
+        "ModifierId": "DEMOCRACY_TRADEROUTEPRODUCTIONFROMALLY"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DEMOCRACY",
+        "ModifierId": "DEMOCRACY_TRADEROUTEFOODTOSUZERAIN"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DEMOCRACY",
+        "ModifierId": "DEMOCRACY_TRADEROUTEPRODUCTIONTOSUZERAIN"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DEMOCRACY",
+        "ModifierId": "DEMOCRACY_TRADEROUTEFOODFROMSUZERAIN"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DEMOCRACY",
+        "ModifierId": "DEMOCRACY_TRADEROUTEPRODUCTIONFROMSUZERAIN"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DEMOCRACY",
+        "ModifierId": "DEMOCRACY_ALLIANCEPOINTS"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_COMMUNISM",
+        "ModifierId": "COMMUNISM_SCIENCE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_CORPORATE_LIBERTARIANISM",
+        "ModifierId": "CORPORATE_LIBERTARIANISM_RESOURCE_EXTRACTION"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_CORPORATE_LIBERTARIANISM",
+        "ModifierId": "CORPORATE_LIBERTARIANISM_COMMERCIAL_HUB_PRODUCTION"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_CORPORATE_LIBERTARIANISM",
+        "ModifierId": "CORPORATE_LIBERTARIANISM_ENCAMPMENT_PRODUCTION"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_CORPORATE_LIBERTARIANISM",
+        "ModifierId": "CORPORATE_LIBERTARIANISM_SCIENCE_PENALTY"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DIGITAL_DEMOCRACY",
+        "ModifierId": "DIGITAL_DEMOCRACY_CITY_AMENITIES"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DIGITAL_DEMOCRACY",
+        "ModifierId": "DIGITAL_DEMOCRACY_DISTRICT_CULTURE"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_DIGITAL_DEMOCRACY",
+        "ModifierId": "DIGITAL_DEMOCRACY_COMBAT_STRENGTH_PENALTY"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_SYNTHETIC_TECHNOCRACY",
+        "ModifierId": "SYNTHETIC_TECHNOCRACY_CITY_POWER"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_SYNTHETIC_TECHNOCRACY",
+        "ModifierId": "SYNTHETIC_TECHNOCRACY_CITY_PROJECT_PRODUCTION"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_SYNTHETIC_TECHNOCRACY",
+        "ModifierId": "SYNTHETIC_TECHNOCRACY_TOURISM_PENALTY"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_MONARCHY",
+        "ModifierId": "MONARCHY_STARFORT_FAVOR"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "CONSULATE_TIER1"
+    },
+    {
+        "GovernmentType": "GOVERNMENT_AUTOCRACY",
+        "ModifierId": "CHANCERY_TIER2"
+    }
+]

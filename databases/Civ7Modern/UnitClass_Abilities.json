@@ -1,0 +1,242 @@
+[
+    {
+        "UnitAbilityType": "ABILITY_FLEET_COMMANDER_MOVEMENT",
+        "UnitClassType": "UNIT_CLASS_FLEET_COMMANDER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_EMBED_LOOKOUT_RECON",
+        "UnitClassType": "UNIT_CLASS_RECON_ABILITIES"
+    },
+    {
+        "UnitAbilityType": "ABILITY_RESETTLE",
+        "UnitClassType": "UNIT_CLASS_POPULATION"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SHOCK_ATTACK",
+        "UnitClassType": "UNIT_CLASS_CAVALRY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SKIRMISH",
+        "UnitClassType": "UNIT_CLASS_SKIRMISH"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SKIRMISH",
+        "UnitClassType": "UNIT_CLASS_LIGHT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SWIFT",
+        "UnitClassType": "UNIT_CLASS_MOUNTED"
+    },
+    {
+        "UnitAbilityType": "ABILITY_STEALTH",
+        "UnitClassType": "UNIT_CLASS_STEALTH"
+    },
+    {
+        "UnitAbilityType": "ABILITY_ENTER_FOREIGN_LANDS",
+        "UnitClassType": "UNIT_CLASS_MAKE_TRADE_ROUTE"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SEE_HIDDEN_UNIT",
+        "UnitClassType": "UNIT_CLASS_SEE_HIDDEN"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HILLFORT",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SHORE_BATTERY",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_ABAMBOWA",
+        "UnitClassType": "UNIT_CLASS_ABAMBOWA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_CHANG_BEUN",
+        "UnitClassType": "UNIT_CLASS_CHANG_BEUN"
+    },
+    {
+        "UnitAbilityType": "ABILITY_COSSACK",
+        "UnitClassType": "UNIT_CLASS_COSSACK"
+    },
+    {
+        "UnitAbilityType": "ABILITY_GARDE_IMPERIALE",
+        "UnitClassType": "UNIT_CLASS_GARDE_IMPERIALE"
+    },
+    {
+        "UnitAbilityType": "ABILITY_GUSA",
+        "UnitClassType": "UNIT_CLASS_GUSA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HUSSAR",
+        "UnitClassType": "UNIT_CLASS_HUSSAR"
+    },
+    {
+        "UnitAbilityType": "ABILITY_KATYUSHA",
+        "UnitClassType": "UNIT_CLASS_KATYUSHA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_MARINE",
+        "UnitClassType": "UNIT_CLASS_MARINE"
+    },
+    {
+        "UnitAbilityType": "ABILITY_MIKASA",
+        "UnitClassType": "UNIT_CLASS_MIKASA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_MWAMI",
+        "UnitClassType": "UNIT_CLASS_MWAMI"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SEPOY",
+        "UnitClassType": "UNIT_CLASS_SEPOY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_STUKA",
+        "UnitClassType": "UNIT_CLASS_STUKA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_ZERO",
+        "UnitClassType": "UNIT_CLASS_ZERO"
+    },
+    {
+        "UnitAbilityType": "ABILITY_PARTISAN",
+        "UnitClassType": "UNIT_CLASS_PARTISAN"
+    },
+    {
+        "UnitAbilityType": "ABILITY_GENERAL_MOROZ",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HANGSHANG",
+        "UnitClassType": "UNIT_CLASS_HANGSHANG"
+    },
+    {
+        "UnitAbilityType": "ABILITY_AVILA",
+        "UnitClassType": "UNIT_CLASS_SOLDADERAS"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HERRERA",
+        "UnitClassType": "UNIT_CLASS_ARMY_COMMANDER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HERRERA_COMBAT",
+        "UnitClassType": "UNIT_CLASS_SOLDADERAS"
+    },
+    {
+        "UnitAbilityType": "ABILITY_VILLA",
+        "UnitClassType": "UNIT_CLASS_ARMY_COMMANDER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_VILLA_GOLD",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_BILLAUD_VARENNE",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_BRISSOT",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SAINT_JUST",
+        "UnitClassType": "UNIT_CLASS_ARMY_COMMANDER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SAINT_JUST_COMBAT",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SAKDIPHONLASEP",
+        "UnitClassType": "UNIT_CLASS_CHANG_BEUN"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SENANURAK",
+        "UnitClassType": "UNIT_CLASS_ARMY_COMMANDER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SENANURAK_COMBAT",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SOLDADERAS",
+        "UnitClassType": "UNIT_CLASS_SOLDADERAS"
+    },
+    {
+        "UnitAbilityType": "ABILITY_CLAIM_RESOURCE",
+        "UnitClassType": "UNIT_CLASS_PROSPECTOR"
+    },
+    {
+        "UnitAbilityType": "ABILITY_AERODROME_AERIAL_RECON",
+        "UnitClassType": "UNIT_CLASS_AERODROME_COMMANDER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_TEN_GREAT_CAMPAIGNS",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_IRON_CROSS",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_GRANDE_ARMEE",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_BREAK_SOUND_BARRIER",
+        "UnitClassType": "UNIT_CLASS_AIRCRAFT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_STRENGTH_COMMAND_RADIUS",
+        "UnitClassType": "UNIT_CLASS_GARDE_IMPERIALE"
+    },
+    {
+        "UnitAbilityType": "ABILITY_HALICARNASSUS",
+        "UnitClassType": "UNIT_CLASS_CAVALRY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_JANISSARY",
+        "UnitClassType": "UNIT_CLASS_JANISSARY"
+    },
+    {
+        "UnitAbilityType": "ABILITY_BARBARY_CORSAIR",
+        "UnitClassType": "UNIT_CLASS_BARBARY_CORSAIR"
+    },
+    {
+        "UnitAbilityType": "ABILITY_TECUMSEH_SUZERAIN",
+        "UnitClassType": "UNIT_CLASS_COMBAT"
+    },
+    {
+        "UnitAbilityType": "ABILITY_REVENGE",
+        "UnitClassType": "UNIT_CLASS_REVENGE"
+    },
+    {
+        "UnitAbilityType": "ABILITY_ANTIQUARIAN",
+        "UnitClassType": "UNIT_CLASS_ANTIQUARIAN"
+    },
+    {
+        "UnitAbilityType": "ABILITY_GURKHA",
+        "UnitClassType": "UNIT_CLASS_GURKHA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SHERPA",
+        "UnitClassType": "UNIT_CLASS_SHERPA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_CLAIM_MOUNTAIN",
+        "UnitClassType": "UNIT_CLASS_SHERPA"
+    },
+    {
+        "UnitAbilityType": "ABILITY_GENGHIS_KHAN_ARMY_COMMANDER",
+        "UnitClassType": "UNIT_CLASS_ARMY_COMMANDER"
+    },
+    {
+        "UnitAbilityType": "ABILITY_GHILMAN",
+        "UnitClassType": "UNIT_CLASS_GHILMAN"
+    },
+    {
+        "UnitAbilityType": "ABILITY_SOLTAN",
+        "UnitClassType": "UNIT_CLASS_SOLTAN"
+    }
+]

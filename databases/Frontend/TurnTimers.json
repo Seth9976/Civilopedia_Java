@@ -1,0 +1,23 @@
+[
+    {
+        "Description": "LOC_TURNTIMER_NONE_DESC",
+        "Domain": "StandardTurnTimers",
+        "Name": "LOC_TURNTIMER_NONE",
+        "SortIndex": 10,
+        "TurnTimerType": "TURNTIMER_NONE"
+    },
+    {
+        "Description": "LOC_TURNTIMER_STANDARD_DESC",
+        "Domain": "StandardTurnTimers",
+        "Name": "LOC_TURNTIMER_STANDARD",
+        "SortIndex": 20,
+        "TurnTimerType": "TURNTIMER_STANDARD"
+    },
+    {
+        "Description": "LOC_TURNTIMER_DYNAMIC_DESC",
+        "Domain": "StandardTurnTimers",
+        "Name": "LOC_TURNTIMER_DYNAMIC",
+        "SortIndex": 30,
+        "TurnTimerType": "TURNTIMER_DYNAMIC"
+    }
+]

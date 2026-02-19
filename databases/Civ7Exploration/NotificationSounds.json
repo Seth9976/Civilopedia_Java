@@ -1,0 +1,502 @@
+[
+    {
+        "Audio": "notif-DefaultDefault",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DEFAULT"
+    },
+    {
+        "Audio": "notif-Advisor_Warning_Culture",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_ADVISOR_WARNING_CULTURE"
+    },
+    {
+        "Audio": "notif-Advisor_Warning_Economic",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_ADVISOR_WARNING_ECONOMIC"
+    },
+    {
+        "Audio": "notif-Advisor_Warning_Military",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_ADVISOR_WARNING_MILITARY"
+    },
+    {
+        "Audio": "notif-Advisor_Warning_Science",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_ADVISOR_WARNING_SCIENCE"
+    },
+    {
+        "Audio": "notif-Bankrupt_End",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_BANKRUPT_START"
+    },
+    {
+        "Audio": "notif-Bankrupt_Start",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_BANKRUPT_END"
+    },
+    {
+        "Audio": "notif-Can_Buy_Attribute_Skill",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CAN_BUY_ATTRIBUTE_SKILL"
+    },
+    {
+        "Audio": "notif-City_District_Control_Lost",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CITY_DISTRICT_CONTROL_LOST"
+    },
+    {
+        "Audio": "notif-City_Near_Starvation_Loss",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CITY_NEAR_STARVATION_LOSS"
+    },
+    {
+        "Audio": "notif-City_Near_Unhappiness_Loss",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CITY_NEAR_UNHAPPINESS_LOSS"
+    },
+    {
+        "Audio": "notif-City_Now_Starving",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CITY_NOW_STARVING"
+    },
+    {
+        "Audio": "notif-City_Now_Unhappy",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CITY_NOW_UNHAPPY"
+    },
+    {
+        "Audio": "notif-Capital_Lost",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CAPITAL_LOST"
+    },
+    {
+        "Audio": "notif-Consider_Raze_City",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CITY_CONSIDER_RAZE_CITY"
+    },
+    {
+        "Audio": "notif-Starvation_Lost_Constructible",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_STARVATION_LOST_CONSTRUCTIBLE"
+    },
+    {
+        "Audio": "notif-Tile_Pillaged",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_TILE_PILLAGED"
+    },
+    {
+        "Audio": "notif-Unhappiness_Lost_Constructible",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_UNHAPPINESS_LOST_CONSTRUCTIBLE"
+    },
+    {
+        "Audio": "notif-Choose_Auto_Narrative_Story_Direction",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CHOOSE_AUTO_NARRATIVE_STORY_DIRECTION"
+    },
+    {
+        "Audio": "notif-Civic_Boost_Awarded",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CIVIC_BOOST_AWARDED"
+    },
+    {
+        "Audio": "notif-Tech_Boost_Awarded",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_TECH_BOOST_AWARDED"
+    },
+    {
+        "Audio": "notif-New_Barbarian_Camp",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_NEW_BARBARIAN_CAMP"
+    },
+    {
+        "Audio": "notif-Plague_Major_Outbreak",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_PLAGUE_MAJOR_OUTBREAK"
+    },
+    {
+        "Audio": "notif-Plague_Minor_Outbreak",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_PLAGUE_MINOR_OUTBREAK"
+    },
+    {
+        "Audio": "notif-Plague_Spreads",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_PLAGUE_SPREADS"
+    },
+    {
+        "Audio": "notif-Plague_Dissipates",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_PLAGUE_DISSIPATES"
+    },
+    {
+        "Audio": "notif-Crisis",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CRISIS"
+    },
+    {
+        "Audio": "notif-Revolt",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_REVOLT"
+    },
+    {
+        "Audio": "notif-Discover_Continent",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DISCOVER_CONTINENT"
+    },
+    {
+        "Audio": "notif-Discover_Goody_Hut",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DISCOVER_GOODY_HUT"
+    },
+    {
+        "Audio": "notif-Diplomatic_Alliance_Ended",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DIPLOMATIC_ALLIANCE_ENDED"
+    },
+    {
+        "Audio": "notif-Diplomatic_Action_Espionage",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DIPLOMATIC_ACTION_ESPIONAGE"
+    },
+    {
+        "Audio": "notif-Player_Met",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_PLAYER_MET"
+    },
+    {
+        "Audio": "notif-Diplomatic_Action_Award",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DIPLOMATIC_ACTION_AWARD"
+    },
+    {
+        "Audio": "notif-Relationship_Changed",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DIPLOMATIC_RELATIONSHIP_CHANGED"
+    },
+    {
+        "Audio": "notif-Suzerain",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CITY_STATE_BONUS_CHOSEN"
+    },
+    {
+        "Audio": "notif-Peace_Deal",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DIPLOMACY_SESSION"
+    },
+    {
+        "Audio": "notif-Diplomatic_Warning",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DIPLOMATIC_ACTION_WARNING"
+    },
+    {
+        "Audio": "notif-Diplomatic_Low",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DIPLOMATIC_ACTION_LOW"
+    },
+    {
+        "Audio": "notif-Diplomatic_Neutral",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DIPLOMATIC_ACTION"
+    },
+    {
+        "Audio": "notif-Diplomatic_Grievances",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_GRIEVANCES_AGAINST_YOU"
+    },
+    {
+        "Audio": "notif-GoldenAge_Ready",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CHOOSE_GOLDEN_AGE"
+    },
+    {
+        "Audio": "notif-Entered_Enemy_Army_Zoc",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_ENTERED_ENEMY_ARMY_ZOC"
+    },
+    {
+        "Audio": "notif-Unit_Attacked",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_UNIT_ATTACKED"
+    },
+    {
+        "Audio": "notif-District_Attacked",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DISTRICT_ATTACKED"
+    },
+    {
+        "Audio": "notif-Unit_Captured",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_UNIT_CAPTURED"
+    },
+    {
+        "Audio": "notif-Unit_Disbanded",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_UNIT_DISBANDED"
+    },
+    {
+        "Audio": "notif-Unit_Lost",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_UNIT_LOST"
+    },
+    {
+        "Audio": "notif-Unit_Lost",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_REINFORCEMENTS_FAILED"
+    },
+    {
+        "Audio": "notif-Unit_Ocean_Damage",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_UNIT_OCEAN_DAMAGE"
+    },
+    {
+        "Audio": "notif-Unit_Ocean_Damage",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_UNIT_DEEP_OCEAN_DAMAGE"
+    },
+    {
+        "Audio": "notif-Unit_Promotion_Available",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_UNIT_PROMOTION_AVAILABLE"
+    },
+    {
+        "Audio": "notif-Ideology_Chosen",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_IDEOLOGY_CHOSEN"
+    },
+    {
+        "Audio": "notif-Ideology_Chosen_Enemy",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_IDEOLOGY_CHOSEN_ENEMY"
+    },
+    {
+        "Audio": "notif-Invalid_Assigned_Resource",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_INVALID_ASSIGNED_RESOURCE"
+    },
+    {
+        "Audio": "notif-Great_Work_Created",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_GREAT_WORK_CREATED"
+    },
+    {
+        "Audio": "notif-Player_Unlock_Changed",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_PLAYER_UNLOCK_CHANGED"
+    },
+    {
+        "Audio": "notif-Team_Victorious",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_TEAM_VICTORIOUS"
+    },
+    {
+        "Audio": "notif-Trade_Resources_Gained",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_TRADE_RESOURCES_GAINED"
+    },
+    {
+        "Audio": "notif-Trade_Resources_Lost",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_TRADE_RESOURCES_LOST"
+    },
+    {
+        "Audio": "notif-Trade_Route_Plundered",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_TRADE_ROUTE_PLUNDERED"
+    },
+    {
+        "Audio": "notif-Trade_Route_To_You",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_TRADE_ROUTE_TO_YOU"
+    },
+    {
+        "Audio": "notif-Make_Peace",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_MAKE_PEACE"
+    },
+    {
+        "Audio": "notif-Commander_Respawned",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_COMMANDER_RESPAWNED"
+    },
+    {
+        "Audio": "notif-Declare_War_On_You",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DECLARE_WAR_ON_YOU"
+    },
+    {
+        "Audio": "notif-Player_Defeated",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_PLAYER_DEFEATED"
+    },
+    {
+        "Audio": "notif-Host_Changed",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_HOST_CHANGED"
+    },
+    {
+        "Audio": "notif-Host_Migration",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_HOST_MIGRATION"
+    },
+    {
+        "Audio": "notif-Player_Connected",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_PLAYER_CONNECTED"
+    },
+    {
+        "Audio": "notif-Player_Connecting",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_PLAYER_CONNECTING"
+    },
+    {
+        "Audio": "notif-Player_Desynced",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_PLAYER_DESYNCED"
+    },
+    {
+        "Audio": "notif-Player_Disconnect",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_PLAYER_DISCONNECT"
+    },
+    {
+        "Audio": "notif-Capital_Captured",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CAPITAL_CAPTURED"
+    },
+    {
+        "Audio": "notif-Game_Invite",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_GAME_INVITE"
+    },
+    {
+        "Audio": "notif-DefaultDefault",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_KICK_VOTE_STARTED"
+    },
+    {
+        "Audio": "notif-Discover_Natural_Wonder",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_DISCOVER_NATURAL_WONDER"
+    },
+    {
+        "Audio": "notif-Traditions_Available",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_TRADITIONS_AVAILABLE"
+    },
+    {
+        "Audio": "notif-Wonder_Completed",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_WONDER_COMPLETED"
+    },
+    {
+        "Audio": "notif-Tech_Discovered",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_TECH_DISCOVERED"
+    },
+    {
+        "Audio": "notif-Choose_City_State_Bonus",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CHOOSE_CITY_STATE_BONUS"
+    },
+    {
+        "Audio": "notif-Choose_Narrative_Story_Direction",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CHOOSE_NARRATIVE_STORY_DIRECTION"
+    },
+    {
+        "Audio": "notif-Choose_Belief",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CHOOSE_BELIEF"
+    },
+    {
+        "Audio": "notif-Choose_Government",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CHOOSE_GOVERNMENT"
+    },
+    {
+        "Audio": "notif-Choose_Pantheon",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CHOOSE_PANTHEON"
+    },
+    {
+        "Audio": "notif-Choose_Religion",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CHOOSE_RELIGION"
+    },
+    {
+        "Audio": "notif-Choose_Discovery_Story_Direction",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_CHOOSE_DISCOVERY_STORY_DIRECTION"
+    },
+    {
+        "Audio": "notif-NaturalDisaster_RiverFloods",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_RIVER_FLOODS_SEV0"
+    },
+    {
+        "Audio": "notif-NaturalDisaster_RiverFloods",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_RIVER_FLOODS_SEV1"
+    },
+    {
+        "Audio": "notif-NaturalDisaster_RiverFloods",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_RIVER_FLOODS_SEV2"
+    },
+    {
+        "Audio": "notif-NaturalDisaster_Storm",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_STORM_ARRIVED"
+    },
+    {
+        "Audio": "notif-Volcano_Active",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_VOLCANO_ACTIVE"
+    },
+    {
+        "Audio": "notif-Volcano_Inactive",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_VOLCANO_INACTIVE"
+    },
+    {
+        "Audio": "notif-NaturalDisaster_Volcano",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_VOLCANO_ERUPTS_SEV0"
+    },
+    {
+        "Audio": "notif-NaturalDisaster_Volcano",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_VOLCANO_ERUPTS_SEV1"
+    },
+    {
+        "Audio": "notif-NaturalDisaster_Volcano",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_VOLCANO_ERUPTS_SEV2"
+    },
+    {
+        "Audio": "notif-Wonder_Failed",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_WONDER_FAILED"
+    },
+    {
+        "Audio": "notif-Religion_Created",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_RELEGION_CREATED"
+    },
+    {
+        "Audio": "notif-Age_Progression_Milestone_Met",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_AGE_PROGRESSION_MILESTONE_MET"
+    },
+    {
+        "Audio": "notif-Age_Progression_Progress_Changed",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_AGE_PROGRESSION_PROGRESS_CHANGED"
+    },
+    {
+        "Audio": "notif-Age_Extended",
+        "Context": "Add",
+        "NotificationType": "NOTIFICATION_AGE_EXTENDED"
+    }
+]

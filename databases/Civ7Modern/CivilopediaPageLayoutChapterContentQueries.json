@@ -1,0 +1,57 @@
+[
+    {
+        "ChapterID": "SUMMARY",
+        "PageLayoutID": "Age",
+        "SQL": "SELECT Description as Text from Ages where AgeType=?1"
+    },
+    {
+        "ChapterID": "SUMMARY",
+        "PageLayoutID": "Belief",
+        "SQL": "SELECT Description as Text from Beliefs where BeliefType=?1"
+    },
+    {
+        "ChapterID": "SUMMARY",
+        "PageLayoutID": "Building",
+        "SQL": "SELECT Description as Text from Constructibles where ConstructibleType=?1"
+    },
+    {
+        "ChapterID": "SUMMARY",
+        "PageLayoutID": "UniqueQuarter",
+        "SQL": "SELECT Description as Text from UniqueQuarters where UniqueQuarterType=?1"
+    },
+    {
+        "ChapterID": "SUMMARY",
+        "PageLayoutID": "Improvement",
+        "SQL": "SELECT Description as Text from Constructibles where ConstructibleType=?1"
+    },
+    {
+        "ChapterID": "SUMMARY",
+        "PageLayoutID": "Government",
+        "SQL": "SELECT Description as Text from Governments where GovernmentType=?1"
+    },
+    {
+        "ChapterID": "SUMMARY",
+        "PageLayoutID": "Unit",
+        "SQL": "SELECT Description as Text from Units where UnitType=?1"
+    },
+    {
+        "ChapterID": "UNIQUE_ABILITY",
+        "PageLayoutID": "Unit",
+        "SQL": "SELECT ActionEffectTextOverride as Text from GreatPersonIndividuals where UnitType=?1"
+    },
+    {
+        "ChapterID": "SUMMARY",
+        "PageLayoutID": "Wonder",
+        "SQL": "SELECT Description as Text from Constructibles where ConstructibleType=?1"
+    },
+    {
+        "ChapterID": "SUMMARY",
+        "PageLayoutID": "NaturalWonder",
+        "SQL": "SELECT Description as Text from Features where FeatureType=?1"
+    },
+    {
+        "ChapterID": "SUMMARY",
+        "PageLayoutID": "Resource",
+        "SQL": "SELECT Tooltip as Text from Resources where ResourceType=?1"
+    }
+]

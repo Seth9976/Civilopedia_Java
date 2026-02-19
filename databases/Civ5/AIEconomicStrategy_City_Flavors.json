@@ -1,0 +1,512 @@
+[
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_RECON",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_ENOUGH_RECON",
+        "Flavor": -25,
+        "FlavorType": "FLAVOR_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_RECON_SEA",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_REALLY_NEED_RECON_SEA",
+        "Flavor": 500,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_REALLY_NEED_RECON_SEA",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_ENOUGH_RECON_SEA",
+        "Flavor": -200,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EARLY_EXPANSION",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_NAVAL_GROWTH"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EARLY_EXPANSION",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_TILE_IMPROVEMENT"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EARLY_EXPANSION",
+        "Flavor": 75,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EARLY_EXPANSION",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EARLY_EXPANSION",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EARLY_EXPANSION",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EARLY_EXPANSION",
+        "Flavor": -4,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_ENOUGH_EXPANSION",
+        "Flavor": -250,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_HAPPINESS",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_HAPPINESS",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_HAPPINESS",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_HAPPINESS_CRITICAL",
+        "Flavor": 250,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_HAPPINESS_CRITICAL",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_HAPPINESS_CRITICAL",
+        "Flavor": -100,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_WATER_CONNECTION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_LOSING_MONEY",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_LOSING_MONEY",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_I_LAND_TRADE_ROUTE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_LOSING_MONEY",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_I_SEA_TRADE_ROUTE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_LOSING_MONEY",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_LOSING_MONEY",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_HALT_GROWTH_BUILDINGS",
+        "Flavor": -15,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_TOO_MANY_UNITS",
+        "Flavor": -30,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_TOO_MANY_UNITS",
+        "Flavor": -30,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_TOO_MANY_UNITS",
+        "Flavor": -30,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_TOO_MANY_UNITS",
+        "Flavor": -30,
+        "FlavorType": "FLAVOR_RANGED"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_TOO_MANY_UNITS",
+        "Flavor": -30,
+        "FlavorType": "FLAVOR_MOBILE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_TOO_MANY_UNITS",
+        "Flavor": -50,
+        "FlavorType": "FLAVOR_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_TOO_MANY_UNITS",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_TOO_MANY_UNITS",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_TOO_MANY_UNITS",
+        "Flavor": 15,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_TOO_MANY_UNITS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_TOO_MANY_UNITS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_TOO_MANY_UNITS",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_ISLAND_START",
+        "Flavor": 100,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_ISLAND_START",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_NAVAL_TILE_IMPROVEMENT"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_ISLAND_START",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_NAVAL_GROWTH"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_ISLAND_START",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_WATER_CONNECTION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_ISLAND_START",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_ISLAND_START",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_ISLAND_START",
+        "Flavor": -5,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_ISLAND_START",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EXPAND_TO_OTHER_CONTINENTS",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EXPAND_TO_OTHER_CONTINENTS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_NAVAL_TILE_IMPROVEMENT"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EXPAND_TO_OTHER_CONTINENTS",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_NAVAL_GROWTH"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EXPAND_TO_OTHER_CONTINENTS",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_WATER_CONNECTION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EXPAND_TO_OTHER_CONTINENTS",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EXPAND_TO_OTHER_CONTINENTS",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EXPAND_TO_OTHER_CONTINENTS",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EXPAND_TO_OTHER_CONTINENTS",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EXPAND_TO_OTHER_CONTINENTS",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EXPAND_TO_OTHER_CONTINENTS",
+        "Flavor": -20,
+        "FlavorType": "FLAVOR_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_EXPAND_LIKE_CRAZY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GROW_LIKE_CRAZY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CULTURE",
+        "Flavor": 45,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CULTURE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CULTURE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_DIPLOMACY"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CULTURE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CULTURE",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_GROWTH"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CULTURE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CULTURE",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CULTURE",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_CITY_DEFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CULTURE",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CULTURE",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_WONDER"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CONQUEST",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_OFFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CONQUEST",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_DEFENSE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CONQUEST",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CONQUEST",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_MILITARY_TRAINING"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CONQUEST",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_AIR"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CONQUEST",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_NUKE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CONQUEST",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_CONQUEST",
+        "Flavor": -10,
+        "FlavorType": "FLAVOR_DIPLOMACY"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_DIPLOMACY",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_DIPLOMACY"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_DIPLOMACY",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_SPACESHIP",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_SPACESHIP",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_SPACESHIP",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_PRODUCTION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_SPACESHIP",
+        "Flavor": 50,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_SPACESHIP_HOMESTRETCH",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_SCIENCE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_GS_SPACESHIP_HOMESTRETCH",
+        "Flavor": 250,
+        "FlavorType": "FLAVOR_SPACESHIP"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_MOSTLY_ON_THE_COAST",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_MOSTLY_ON_THE_COAST",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_MOSTLY_ON_THE_COAST",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_GOLD"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NAVAL_MAP",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NAVAL_MAP",
+        "Flavor": 25,
+        "FlavorType": "FLAVOR_NAVAL"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NAVAL_MAP",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NAVAL_MAP",
+        "Flavor": 5,
+        "FlavorType": "FLAVOR_WATER_CONNECTION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_OFFSHORE_EXPANSION_MAP",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_OFFSHORE_EXPANSION_MAP",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_EXPANSION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_OFFSHORE_EXPANSION_MAP",
+        "Flavor": 10,
+        "FlavorType": "FLAVOR_WATER_CONNECTION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_DEVELOPING_RELIGION",
+        "Flavor": 30,
+        "FlavorType": "FLAVOR_RELIGION"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_TECH_LEADER",
+        "Flavor": 20,
+        "FlavorType": "FLAVOR_ESPIONAGE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_ARCHAEOLOGISTS",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_ARCHAEOLOGY"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_ENOUGH_ARCHAEOLOGISTS",
+        "Flavor": -200,
+        "FlavorType": "FLAVOR_ARCHAEOLOGY"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_MUSEUMS",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_GUILDS",
+        "Flavor": 35,
+        "FlavorType": "FLAVOR_CULTURE"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_STARTED_PIETY",
+        "Flavor": 40,
+        "FlavorType": "FLAVOR_RELIGION"
+    }
+]

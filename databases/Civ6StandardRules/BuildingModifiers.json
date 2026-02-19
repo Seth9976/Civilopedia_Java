@@ -1,0 +1,654 @@
+[
+    {
+        "BuildingType": "BUILDING_PALACE",
+        "ModifierId": "PALACE_ADJUST_GARRISON_STRENGTH"
+    },
+    {
+        "BuildingType": "BUILDING_MOSQUE",
+        "ModifierId": "MOSQUE_ADJUST_SPREAD_CHARGES"
+    },
+    {
+        "BuildingType": "BUILDING_PYRAMIDS",
+        "ModifierId": "PYRAMID_ADJUST_BUILDER_CHARGES"
+    },
+    {
+        "BuildingType": "BUILDING_EIFFEL_TOWER",
+        "ModifierId": "EIFFEL_TOWER_ADDAPPEAL"
+    },
+    {
+        "BuildingType": "BUILDING_HANGING_GARDENS",
+        "ModifierId": "HANGING_GARDEN_ADDGROWTH"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSUS",
+        "ModifierId": "COLOSSUS_ADDTRADEROUTE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_ZIMBABWE",
+        "ModifierId": "GREAT_ZIMBABWE_ADDTRADEROUTE"
+    },
+    {
+        "BuildingType": "BUILDING_BARRACKS",
+        "ModifierId": "BARRACKS_TRAINED_UNIT_XP_MODIFIER"
+    },
+    {
+        "BuildingType": "BUILDING_STABLE",
+        "ModifierId": "STABLE_TRAINED_UNIT_XP_MODIFIER"
+    },
+    {
+        "BuildingType": "BUILDING_ARMORY",
+        "ModifierId": "ARMORY_TRAINED_UNIT_XP_MODIFIER"
+    },
+    {
+        "BuildingType": "BUILDING_MILITARY_ACADEMY",
+        "ModifierId": "MILITARY_ACADEMY_TRAINED_UNIT_XP_MODIFIER"
+    },
+    {
+        "BuildingType": "BUILDING_MILITARY_ACADEMY",
+        "ModifierId": "MILITARY_ACADEMY_TRAINED_CORPS_ARMY_DISCOUNT"
+    },
+    {
+        "BuildingType": "BUILDING_LIGHTHOUSE",
+        "ModifierId": "LIGHTHOUSE_TRAINED_UNIT_XP_MODIFIER"
+    },
+    {
+        "BuildingType": "BUILDING_SHIPYARD",
+        "ModifierId": "SHIPYARD_TRAINED_UNIT_XP_MODIFIER"
+    },
+    {
+        "BuildingType": "BUILDING_SEAPORT",
+        "ModifierId": "SEAPORT_TRAINED_UNIT_XP_MODIFIER"
+    },
+    {
+        "BuildingType": "BUILDING_SEAPORT",
+        "ModifierId": "SEAPORT_TRAINED_CORPS_ARMY_DISCOUNT"
+    },
+    {
+        "BuildingType": "BUILDING_HANGAR",
+        "ModifierId": "HANGAR_TRAINED_AIRCRAFT_XP_MODIFIER"
+    },
+    {
+        "BuildingType": "BUILDING_HANGAR",
+        "ModifierId": "HANGAR_BONUS_AIR_SLOTS"
+    },
+    {
+        "BuildingType": "BUILDING_AIRPORT",
+        "ModifierId": "AIRPORT_TRAINED_AIRCRAFT_XP_MODIFIER"
+    },
+    {
+        "BuildingType": "BUILDING_AIRPORT",
+        "ModifierId": "AIRPORT_BONUS_AIR_SLOTS"
+    },
+    {
+        "BuildingType": "BUILDING_BROADWAY",
+        "ModifierId": "BROADWAY_ADDCULTUREYIELD"
+    },
+    {
+        "BuildingType": "BUILDING_OXFORD_UNIVERSITY",
+        "ModifierId": "OXFORD_ADDSCIENCEYIELD"
+    },
+    {
+        "BuildingType": "BUILDING_RUHR_VALLEY",
+        "ModifierId": "RUHRVALLEY_ADDPRODUCTIONYIELD"
+    },
+    {
+        "BuildingType": "BUILDING_ELECTRONICS_FACTORY",
+        "ModifierId": "ELECTRONICSFACTORY_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_WATER_MILL",
+        "ModifierId": "WATERMILL_ADDRICEFOOD"
+    },
+    {
+        "BuildingType": "BUILDING_WATER_MILL",
+        "ModifierId": "WATERMILL_ADDWHEATYIELD"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "STAVE_CHURCH_FAITHWOODSADJACENCY"
+    },
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "ModifierId": "ALHAMBRA_MILITARY_GOVERNMENT_SLOT"
+    },
+    {
+        "BuildingType": "BUILDING_POTALA_PALACE",
+        "ModifierId": "POTALA_PALACE_DIPLOMATIC_GOVERNMENT_SLOT"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_CITY",
+        "ModifierId": "FORBIDDEN_CITY_WILDCARD_GOVERNMENT_SLOT"
+    },
+    {
+        "BuildingType": "BUILDING_BIG_BEN",
+        "ModifierId": "BIG_BEN_ECONOMIC_GOVERNMENT_SLOT"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_ZIMBABWE",
+        "ModifierId": "GREAT_ZIMBABWE_DOMESTICBONUSRESOURCEGOLD"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_ZIMBABWE",
+        "ModifierId": "GREAT_ZIMBABWE_INTERNATIONALBONUSRESOURCEGOLD"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "ORACLE_GREATGENERALPOINTS"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "ORACLE_GREATADMIRALPOINTS"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "ORACLE_GREATENGINEERPOINTS"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "ORACLE_GREATMERCHANTPOINTS"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "ORACLE_GREATPROPHETPOINTS"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "ORACLE_GREATSCIENTISTPOINTS"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "ORACLE_GREATWRITERPOINTS"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "ORACLE_PATRONAGE_FAITH_DISCOUNT"
+    },
+    {
+        "BuildingType": "BUILDING_CRISTO_REDENTOR",
+        "ModifierId": "CRISTOREDENTOR_BEACHTOURISM"
+    },
+    {
+        "BuildingType": "BUILDING_CRISTO_REDENTOR",
+        "ModifierId": "CRISTOREDENTOR_FULLRELIGIOUSTOURISM"
+    },
+    {
+        "BuildingType": "BUILDING_FILM_STUDIO",
+        "ModifierId": "FILMSTUDIO_ENHANCEDLATETOURISM"
+    },
+    {
+        "BuildingType": "BUILDING_VENETIAN_ARSENAL",
+        "ModifierId": "VENETIAN_ARSENAL_EXTRANAVALMELEE"
+    },
+    {
+        "BuildingType": "BUILDING_VENETIAN_ARSENAL",
+        "ModifierId": "VENETIAN_ARSENAL_EXTRANAVALRANGED"
+    },
+    {
+        "BuildingType": "BUILDING_VENETIAN_ARSENAL",
+        "ModifierId": "VENETIAN_ARSENAL_EXTRANAVALCARRIER"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "ModifierId": "GREAT_LIBRARY_ANCIENT_CLASSICAL_TECH_BOOSTS"
+    },
+    {
+        "BuildingType": "BUILDING_BOLSHOI_THEATRE",
+        "ModifierId": "BOLSHOI_THEATRE_FREE_CIVICS"
+    },
+    {
+        "BuildingType": "BUILDING_OXFORD_UNIVERSITY",
+        "ModifierId": "OXFORD_UNIVERSITY_FREE_TECHS"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSUS",
+        "ModifierId": "COLOSSUS_GRANT_TRADER"
+    },
+    {
+        "BuildingType": "BUILDING_PYRAMIDS",
+        "ModifierId": "PYRAMID_GRANT_BUILDERS"
+    },
+    {
+        "BuildingType": "BUILDING_STONEHENGE",
+        "ModifierId": "STONEHENGE_GRANT_PROPHET"
+    },
+    {
+        "BuildingType": "BUILDING_STONEHENGE",
+        "ModifierId": "STONEHENGE_ALTERNATE_GRANT_APOSTLE"
+    },
+    {
+        "BuildingType": "BUILDING_MAHABODHI_TEMPLE",
+        "ModifierId": "MAHABODHITEMPLE_APOSTLE"
+    },
+    {
+        "BuildingType": "BUILDING_TERRACOTTA_ARMY",
+        "ModifierId": "TERRACOTTA_ARMY_ARCHAEOLOGIST_OPEN_BORDERS"
+    },
+    {
+        "BuildingType": "BUILDING_MONT_ST_MICHEL",
+        "ModifierId": "MONT_ST_MICHEL_GRANT_MARTYR"
+    },
+    {
+        "BuildingType": "BUILDING_TERRACOTTA_ARMY",
+        "ModifierId": "TERRACOTTA_ARMY_LEVEL_UP_UNITS"
+    },
+    {
+        "BuildingType": "BUILDING_BIG_BEN",
+        "ModifierId": "BIG_BEN_DOUBLE_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIGHTHOUSE",
+        "ModifierId": "GREATLIGHTHOUSE_ADJUST_SEA_MOVEMENT"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIGHTHOUSE",
+        "ModifierId": "GREATLIGHTHOUSE_ADJUST_EMBARKED_MOVEMENT"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIGHTHOUSE",
+        "ModifierId": "GREATLIGHTHOUSE_ADD_EMBARKED_ABILITY_TEXT_ONLY"
+    },
+    {
+        "BuildingType": "BUILDING_HAGIA_SOPHIA",
+        "ModifierId": "HAGIA_SOPHIA_ADJUST_RELIGIOUS_CHARGES"
+    },
+    {
+        "BuildingType": "BUILDING_CHICHEN_ITZA",
+        "ModifierId": "CHICHEN_ITZA_JUNGLE_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_CHICHEN_ITZA",
+        "ModifierId": "CHICHEN_ITZA_JUNGLE_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_LIGHTHOUSE",
+        "ModifierId": "LIGHTHOUSE_COAST_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_PETRA",
+        "ModifierId": "PETRA_YIELD_MODIFIER"
+    },
+    {
+        "BuildingType": "BUILDING_RUHR_VALLEY",
+        "ModifierId": "RUHR_VALLEY_PRODUCTION_MODIFIER"
+    },
+    {
+        "BuildingType": "BUILDING_SEAPORT",
+        "ModifierId": "SEAPORT_COAST_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "STAVECHURCH_SEARESOURCE_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_BROADWAY",
+        "ModifierId": "BUILDING_BROADWAY_RANDOMCIVICBOOST"
+    },
+    {
+        "BuildingType": "BUILDING_HUEY_TEOCALLI",
+        "ModifierId": "HUEY_ADDENTERTAINMENT"
+    },
+    {
+        "BuildingType": "BUILDING_HUEY_TEOCALLI",
+        "ModifierId": "HUEY_LAKE_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_HUEY_TEOCALLI",
+        "ModifierId": "HUEY_LAKE_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_ANGKOR_WAT",
+        "ModifierId": "ANGKORWAT_ADDPOPULATION"
+    },
+    {
+        "BuildingType": "BUILDING_ANGKOR_WAT",
+        "ModifierId": "ANGKORWAT_ADDHOUSING"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "ModifierId": "PRASAT_GRANT_MARTYR"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "STAVE_CHURCH_INFLUENCEPOINTS"
+    },
+    {
+        "BuildingType": "BUILDING_SUKIENNICE",
+        "ModifierId": "SUKIENNICE_DOMESTICGOLD"
+    },
+    {
+        "BuildingType": "BUILDING_SUKIENNICE",
+        "ModifierId": "SUKIENNICE_INTERNATIONALPRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_JEBEL_BARKAL",
+        "ModifierId": "JEBELBARKAL_GRANT_TWO_IRON"
+    },
+    {
+        "BuildingType": "BUILDING_BARRACKS",
+        "ModifierId": "LAHORE_NIHANG_BARRACKS_ABILITY"
+    },
+    {
+        "BuildingType": "BUILDING_ARMORY",
+        "ModifierId": "LAHORE_NIHANG_ARMORY_ABILITY"
+    },
+    {
+        "BuildingType": "BUILDING_MILITARY_ACADEMY",
+        "ModifierId": "LAHORE_NIHANG_ACADEMY_ABILITY"
+    },
+    {
+        "BuildingType": "BUILDING_WATER_MILL",
+        "ModifierId": "WATERMILL_ADDMAIZEYIELD"
+    },
+    {
+        "BuildingType": "BUILDING_BASILIKOI_PAIDES",
+        "ModifierId": "LAHORE_NIHANG_BARRACKS_ABILITY"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_ZEUS",
+        "ModifierId": "STAUEZEUS_ANTI_CAVALRY_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_ZEUS",
+        "ModifierId": "STAUEZEUS_GRANT_SPEARMEN"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_ZEUS",
+        "ModifierId": "STAUEZEUS_GRANT_ARCHERS"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_ZEUS",
+        "ModifierId": "STAUEZEUS_GRANT_BATTERINGRAM"
+    },
+    {
+        "BuildingType": "BUILDING_BIOSPHERE",
+        "ModifierId": "BIOSPHERE_GRANT_SCIENCE_PER_RAINFOREST"
+    },
+    {
+        "BuildingType": "BUILDING_BIOSPHERE",
+        "ModifierId": "BIOSPHERE_GRANT_SCIENCE_PER_MARSH"
+    },
+    {
+        "BuildingType": "BUILDING_BIOSPHERE",
+        "ModifierId": "BIOSPHERE_GRANT_SCIENCE_PER_WOODS"
+    },
+    {
+        "BuildingType": "BUILDING_BIOSPHERE",
+        "ModifierId": "BIOSPHERE_ADJUST_APPEAL_RAINFOREST"
+    },
+    {
+        "BuildingType": "BUILDING_BIOSPHERE",
+        "ModifierId": "BIOSPHERE_ADJUST_APPEAL_MARSH"
+    },
+    {
+        "BuildingType": "BUILDING_HALICARNASSUS_MAUSOLEUM",
+        "ModifierId": "HALICARNASSUS_ADJUST_ENGINEER_CHARGES"
+    },
+    {
+        "BuildingType": "BUILDING_BASILIKOI_PAIDES",
+        "ModifierId": "BASILIKOI_PAIDES_TRAINED_UNIT_XP_MODIFIER"
+    },
+    {
+        "BuildingType": "BUILDING_APADANA",
+        "ModifierId": "APADANA_AWARD_TWO_INFLUENCE_TOKEN"
+    },
+    {
+        "BuildingType": "BUILDING_BASILIKOI_PAIDES",
+        "ModifierId": "BASILIKOI_PAIDES_SCIENCE_TRAINED_UNIT"
+    },
+    {
+        "BuildingType": "BUILDING_HALICARNASSUS_MAUSOLEUM",
+        "ModifierId": "HALICARNASSUS_MAUSOLEUM_YIELD_MODIFIER"
+    },
+    {
+        "BuildingType": "BUILDING_CONSULATE",
+        "ModifierId": "CONSULATE_INFLUENCEPOINTS"
+    },
+    {
+        "BuildingType": "BUILDING_CONSULATE",
+        "ModifierId": "CONSULATE_SPY_BONUS"
+    },
+    {
+        "BuildingType": "BUILDING_CHANCERY",
+        "ModifierId": "CHANCERY_INFLUENCEPOINTS"
+    },
+    {
+        "BuildingType": "BUILDING_CHANCERY",
+        "ModifierId": "CHANCERY_COUNTERYSPY_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_PALGUM",
+        "ModifierId": "PALGUM_ADDFOOD"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_ANANSI"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_ARTHUR"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_BEOWULF"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_HERCULES"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_HIMIKO"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_HIPPOLYTA"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_HUNAHPU"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_OYA"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_MAUI"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_MULAN"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_SINBAD"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_WUKONG"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT_ANANSI"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT_ARTHUR"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT_BEOWULF"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT_HERCULES"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT_HIMIKO"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT_HIPPOLYTA"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT_HUNAHPU"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT_OYA"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT_MAUI"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT_MULAN"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT_SINBAD"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "ModifierId": "MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT_WUKONG"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_ANANSI"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_ARTHUR"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_BEOWULF"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_HERCULES"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_HIMIKO"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_HIPPOLYTA"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_HUNAHPU"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_OYA"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_MAUI"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_MULAN"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_SINBAD"
+    },
+    {
+        "BuildingType": "BUILDING_STAVE_CHURCH",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_WUKONG"
+    },
+    {
+        "BuildingType": "BUILDING_SHRINE",
+        "ModifierId": "MODIFIER_SHRINE_CITY_HERO_EXTRA_LIFESPAN"
+    },
+    {
+        "BuildingType": "BUILDING_HANGING_GARDENS",
+        "ModifierId": "MODIFIER_HANGING_GARDENS_ALL_HEROES_EXTRA_LIFESPAN"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_ANANSI"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_ARTHUR"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_BEOWULF"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_HERCULES"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_HIMIKO"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_HIPPOLYTA"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_HUNAHPU"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_OYA"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_MAUI"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_MULAN"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_SINBAD"
+    },
+    {
+        "BuildingType": "BUILDING_PRASAT",
+        "ModifierId": "MODIFIER_TEMPLE_RECALL_FAITH_COST_DISCOUNT_WUKONG"
+    },
+    {
+        "BuildingType": "BUILDING_NAVIGATION_SCHOOL",
+        "ModifierId": "NAVIGATION_SCHOOL_NAVAL_UNIT_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_NAVIGATION_SCHOOL",
+        "ModifierId": "NAVIGATION_SCHOOL_NAVAL_COAST_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_ETEMENANKI",
+        "ModifierId": "ETEMENANKI_SCIENCE_MARSH"
+    },
+    {
+        "BuildingType": "BUILDING_ETEMENANKI",
+        "ModifierId": "ETEMENANKI_PRODUCTION_MARSH"
+    },
+    {
+        "BuildingType": "BUILDING_ETEMENANKI",
+        "ModifierId": "ETEMENANKI_SCIENCE_FLOODPLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_ETEMENANKI",
+        "ModifierId": "ETEMENANKI_PRODUCTION_FLOODPLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_TORRE_DE_BELEM",
+        "ModifierId": "TORREDEBELEM_TRADE_GOLD_LUXURIES"
+    },
+    {
+        "BuildingType": "BUILDING_TORRE_DE_BELEM",
+        "ModifierId": "TORREDEBELEM_CHEAPEST_BUILDING"
+    }
+]

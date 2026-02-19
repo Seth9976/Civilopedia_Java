@@ -1,0 +1,1738 @@
+[
+    {
+        "Name": "AGENDAS_MAJOR_CIV_HISTORICAL_AGENDAS",
+        "Value": "1"
+    },
+    {
+        "Name": "AGENDAS_MAJOR_CIV_RANDOM_AGENDAS",
+        "Value": "1"
+    },
+    {
+        "Name": "AI_BASE_LUXURY_VALUE",
+        "Value": "1.5"
+    },
+    {
+        "Name": "AI_CURRENT_TASK_BIAS",
+        "Value": "80"
+    },
+    {
+        "Name": "AI_DISCOUNT_RATE",
+        "Value": "2.0"
+    },
+    {
+        "Name": "AI_ISLAND_COAST_PERCENTAGE",
+        "Value": "20"
+    },
+    {
+        "Name": "AI_TURNS_BETWEEN_FRIENDSHIP_OFFERS",
+        "Value": "5"
+    },
+    {
+        "Name": "AI_TURNS_BETWEEN_PEACE_OFFERS",
+        "Value": "3"
+    },
+    {
+        "Name": "AI_TURNS_BETWEEN_TRADES",
+        "Value": "10"
+    },
+    {
+        "Name": "AI_ZONE_OF_CONTROL_DISCOUNT",
+        "Value": "0.1"
+    },
+    {
+        "Name": "ARCHAEOLOGY_MAX_ERA",
+        "Value": "4"
+    },
+    {
+        "Name": "ARCHAEOLOGY_SITES_PER_CIV_LAND",
+        "Value": "6"
+    },
+    {
+        "Name": "ARCHAEOLOGY_SITES_PER_CIV_SEA",
+        "Value": "2"
+    },
+    {
+        "Name": "AVOID_FEATURE_MAX_MULTIPLIER",
+        "Value": "0.004"
+    },
+    {
+        "Name": "AVOID_FEATURE_MAX_THRESHOLD",
+        "Value": "24"
+    },
+    {
+        "Name": "BARBARIAN_BOLDNESS_PER_CAMP_ATTACK",
+        "Value": "-30"
+    },
+    {
+        "Name": "BARBARIAN_BOLDNESS_PER_KILL",
+        "Value": "15"
+    },
+    {
+        "Name": "BARBARIAN_BOLDNESS_PER_SCOUT_LOST",
+        "Value": "-5"
+    },
+    {
+        "Name": "BARBARIAN_BOLDNESS_PER_TURN",
+        "Value": "2"
+    },
+    {
+        "Name": "BARBARIAN_BOLDNESS_PER_UNIT_LOST",
+        "Value": "-10"
+    },
+    {
+        "Name": "BARBARIAN_CAMP_COASTAL_SPAWN_ROLL",
+        "Value": "6"
+    },
+    {
+        "Name": "BARBARIAN_CAMP_EXTRA_DISTANCE_PER_LOW_DIFFICULTY",
+        "Value": "1"
+    },
+    {
+        "Name": "BARBARIAN_CAMP_FIRST_TURN_PERCENT_OF_TARGET_TO_ADD",
+        "Value": "33"
+    },
+    {
+        "Name": "BARBARIAN_CAMP_MAX_PER_MAJOR_CIV",
+        "Value": "3"
+    },
+    {
+        "Name": "BARBARIAN_CAMP_MINIMUM_DISTANCE_ANOTHER_CAMP",
+        "Value": "7"
+    },
+    {
+        "Name": "BARBARIAN_CAMP_MINIMUM_DISTANCE_CITY",
+        "Value": "4"
+    },
+    {
+        "Name": "BARBARIAN_CAMP_ODDS_OF_NEW_CAMP_SPAWNING",
+        "Value": "2"
+    },
+    {
+        "Name": "BARBARIAN_DEFENSE_ALL_UNITS",
+        "Value": "4"
+    },
+    {
+        "Name": "BARBARIAN_DEFENSE_RANGED_UNITS",
+        "Value": "1"
+    },
+    {
+        "Name": "BARBARIAN_NUM_RANDOM_UNIT_CHOICES",
+        "Value": "3"
+    },
+    {
+        "Name": "BARBARIAN_RELEASE_VARIATION",
+        "Value": "20"
+    },
+    {
+        "Name": "BARBARIAN_TECH_PERCENT",
+        "Value": "50"
+    },
+    {
+        "Name": "BONUS_RESOURCE_FERTILITY",
+        "Value": "0"
+    },
+    {
+        "Name": "CITY_AMENITIES_FOR_FREE",
+        "Value": "1"
+    },
+    {
+        "Name": "CITY_CAPTURED_DAMAGE_PERCENTAGE",
+        "Value": "50"
+    },
+    {
+        "Name": "CITY_CENTER_TRAIN_WHEN_CONTAMINATED",
+        "Value": "0"
+    },
+    {
+        "Name": "CITY_FOOD_CONSUMPTION_PER_POPULATION",
+        "Value": "2"
+    },
+    {
+        "Name": "CITY_GROWTH_EXPONENT",
+        "Value": "1.5"
+    },
+    {
+        "Name": "CITY_GROWTH_MULTIPLIER",
+        "Value": "8"
+    },
+    {
+        "Name": "CITY_GROWTH_OCCUPATION_MULTIPLIER",
+        "Value": "0.0"
+    },
+    {
+        "Name": "CITY_GROWTH_THRESHOLD",
+        "Value": "15"
+    },
+    {
+        "Name": "CITY_HOUSING_LEFT_25PCT_GROWTH",
+        "Value": "0"
+    },
+    {
+        "Name": "CITY_HOUSING_LEFT_50PCT_GROWTH",
+        "Value": "1"
+    },
+    {
+        "Name": "CITY_HOUSING_LEFT_ZERO_GROWTH",
+        "Value": "-4"
+    },
+    {
+        "Name": "CITY_MAX_BUY_PLOT_RANGE",
+        "Value": "3"
+    },
+    {
+        "Name": "CITY_MIN_DISTANCE_FOR_INCURSION",
+        "Value": "8"
+    },
+    {
+        "Name": "CITY_MIN_RANGE",
+        "Value": "3"
+    },
+    {
+        "Name": "CITY_MOVEMENT_COST",
+        "Value": "1"
+    },
+    {
+        "Name": "CITY_NORMAL_PLOT_WORKER_CAPACITY",
+        "Value": "1"
+    },
+    {
+        "Name": "CITY_POP_PER_AMENITY",
+        "Value": "2"
+    },
+    {
+        "Name": "CITY_POPULATION_AQUEDUCT_BOOST",
+        "Value": "2"
+    },
+    {
+        "Name": "CITY_POPULATION_AQUEDUCT_MIN",
+        "Value": "6"
+    },
+    {
+        "Name": "CITY_POPULATION_COAST",
+        "Value": "3"
+    },
+    {
+        "Name": "CITY_POPULATION_LOSS_TO_CONQUEST_PERCENTAGE",
+        "Value": "0.25"
+    },
+    {
+        "Name": "CITY_POPULATION_NO_WATER",
+        "Value": "2"
+    },
+    {
+        "Name": "CITY_POPULATION_RIVER_LAKE",
+        "Value": "5"
+    },
+    {
+        "Name": "COAST_FERTILITY",
+        "Value": "0"
+    },
+    {
+        "Name": "COMBAT_AIR_SUPPORT_BONUS_MODIFIER",
+        "Value": "5"
+    },
+    {
+        "Name": "COMBAT_AMPHIBIOUS_ATTACK_PENALTY",
+        "Value": "-10"
+    },
+    {
+        "Name": "COMBAT_ANTI_AIR_SUPPORT_BONUS_MODIFIER",
+        "Value": "5"
+    },
+    {
+        "Name": "COMBAT_ARMY_ANTIAIR_STRENGTH_MODIFIER",
+        "Value": "7"
+    },
+    {
+        "Name": "COMBAT_ARMY_STRENGTH_MODIFIER",
+        "Value": "17"
+    },
+    {
+        "Name": "COMBAT_BASE_CAPTURE_STRENGTH_DIFFERENCE",
+        "Value": "20"
+    },
+    {
+        "Name": "COMBAT_BASE_DAMAGE",
+        "Value": "24"
+    },
+    {
+        "Name": "COMBAT_BOMBARD_VS_UNIT_STRENGTH_MODIFIER",
+        "Value": "17"
+    },
+    {
+        "Name": "COMBAT_CITIES_OCCUPIED_FOREVER",
+        "Value": "0"
+    },
+    {
+        "Name": "COMBAT_CITY_RANGED_DAMAGE_THRESHOLD",
+        "Value": "50"
+    },
+    {
+        "Name": "COMBAT_CORPS_ANTIAIR_STRENGTH_MODIFIER",
+        "Value": "7"
+    },
+    {
+        "Name": "COMBAT_CORPS_STRENGTH_MODIFIER",
+        "Value": "10"
+    },
+    {
+        "Name": "COMBAT_DAMAGE_MULTIPLIER_MINIMUM",
+        "Value": "0.25"
+    },
+    {
+        "Name": "COMBAT_DEFENSE_DAMAGE_PERCENT_BOMBARD",
+        "Value": "100"
+    },
+    {
+        "Name": "COMBAT_DEFENSE_DAMAGE_PERCENT_MELEE",
+        "Value": "15"
+    },
+    {
+        "Name": "COMBAT_DEFENSE_DAMAGE_PERCENT_RANGED",
+        "Value": "50"
+    },
+    {
+        "Name": "COMBAT_DISTRICT_STRENGTH_REDUCTION",
+        "Value": "15"
+    },
+    {
+        "Name": "COMBAT_FLANKING_BONUS_MODIFIER",
+        "Value": "2"
+    },
+    {
+        "Name": "COMBAT_GARRISON_MILITIA_MODIFIER",
+        "Value": "10"
+    },
+    {
+        "Name": "COMBAT_HEAL_CITY_GARRISON",
+        "Value": "20"
+    },
+    {
+        "Name": "COMBAT_HEAL_LAND_ENEMY",
+        "Value": "5"
+    },
+    {
+        "Name": "COMBAT_HEAL_LAND_FRIENDLY",
+        "Value": "15"
+    },
+    {
+        "Name": "COMBAT_HEAL_LAND_NEUTRAL",
+        "Value": "10"
+    },
+    {
+        "Name": "COMBAT_HEAL_NAVAL_ENEMY",
+        "Value": "0"
+    },
+    {
+        "Name": "COMBAT_HEAL_NAVAL_FRIENDLY",
+        "Value": "20"
+    },
+    {
+        "Name": "COMBAT_HEAL_NAVAL_NEUTRAL",
+        "Value": "0"
+    },
+    {
+        "Name": "COMBAT_HEAL_OUTER_DEFENSES_COOLDOWN",
+        "Value": "3"
+    },
+    {
+        "Name": "COMBAT_HEAL_RELIGIOUS_CHARGE",
+        "Value": "40"
+    },
+    {
+        "Name": "COMBAT_KEEP_ALL_CITIES_ON_CAPTURE",
+        "Value": "0"
+    },
+    {
+        "Name": "COMBAT_MAX_EXTRA_DAMAGE",
+        "Value": "12"
+    },
+    {
+        "Name": "COMBAT_MAX_HIT_POINTS",
+        "Value": "100"
+    },
+    {
+        "Name": "COMBAT_MAX_NUM_ATTACKS",
+        "Value": "1"
+    },
+    {
+        "Name": "COMBAT_MIN_CIVILIAN_DAMAGE_PERCENT",
+        "Value": "65"
+    },
+    {
+        "Name": "COMBAT_MIN_HEALTH_PERCENT_TO_ADVANCED_AIR_PILLAGE",
+        "Value": "1"
+    },
+    {
+        "Name": "COMBAT_MIN_HEALTH_PERCENT_TO_AIR_PILLAGE",
+        "Value": "50"
+    },
+    {
+        "Name": "COMBAT_MINIMUM_CITY_STRIKE_STRENGTH",
+        "Value": "3"
+    },
+    {
+        "Name": "COMBAT_MINIMUM_DAMAGE",
+        "Value": "1"
+    },
+    {
+        "Name": "COMBAT_MINIMUM_GARRISON_STRENGTH",
+        "Value": "0"
+    },
+    {
+        "Name": "COMBAT_POPULATION_PER_STRENGTH",
+        "Value": "2"
+    },
+    {
+        "Name": "COMBAT_POWER_DAMPENER",
+        "Value": "5"
+    },
+    {
+        "Name": "COMBAT_POWER_SCALING",
+        "Value": "0.04"
+    },
+    {
+        "Name": "COMBAT_PUSHBACK_STRENGTH_MODIFIER",
+        "Value": "10"
+    },
+    {
+        "Name": "COMBAT_RANGED_VS_DISTRICT_STRENGTH_MODIFIER",
+        "Value": "17"
+    },
+    {
+        "Name": "COMBAT_RAZE_ANY_CITY",
+        "Value": "0"
+    },
+    {
+        "Name": "COMBAT_RELIGIOUS_FOLLOWING_CITY_TILE",
+        "Value": "5"
+    },
+    {
+        "Name": "COMBAT_RELIGIOUS_HOLY_CITY_TILE",
+        "Value": "15"
+    },
+    {
+        "Name": "COMBAT_RIVER_DEFENSE",
+        "Value": "5"
+    },
+    {
+        "Name": "COMBAT_STRENGTH_FROM_ENVOYS",
+        "Value": "1.0"
+    },
+    {
+        "Name": "COMBAT_SUPPORT_BONUS_MODIFIER",
+        "Value": "2"
+    },
+    {
+        "Name": "COMBAT_WOUNDED_DAMAGE_MULTIPLIER",
+        "Value": "10"
+    },
+    {
+        "Name": "COMBAT_WOUNDED_DISTRICT_DAMAGE_MULTIPLIER",
+        "Value": "10"
+    },
+    {
+        "Name": "CULTURE_COST_FIRST_PLOT",
+        "Value": "10"
+    },
+    {
+        "Name": "CULTURE_COST_LATER_PLOT_EXPONENT",
+        "Value": "1.3"
+    },
+    {
+        "Name": "CULTURE_COST_LATER_PLOT_MULTIPLIER",
+        "Value": "6"
+    },
+    {
+        "Name": "CULTURE_PERCENTAGE_YIELD_PER_POP",
+        "Value": "30"
+    },
+    {
+        "Name": "DIPLOMACY_ALLIANCE_TIME_LIMIT",
+        "Value": "30"
+    },
+    {
+        "Name": "DIPLOMACY_DECLARED_FRIENDSHIP_TIME_LIMIT",
+        "Value": "30"
+    },
+    {
+        "Name": "DIPLOMACY_DEFENSIVE_PACT_TIME_LIMIT",
+        "Value": "30"
+    },
+    {
+        "Name": "DIPLOMACY_DENOUNCE_TIME_LIMIT",
+        "Value": "30"
+    },
+    {
+        "Name": "DIPLOMACY_DENOUNCE_WAR_DELAY",
+        "Value": "5"
+    },
+    {
+        "Name": "DIPLOMACY_EARLIEST_MAJOR_DOW_TURN",
+        "Value": "0"
+    },
+    {
+        "Name": "DIPLOMACY_FIRST_MEET_HOSPITALITY_DISTANCE",
+        "Value": "6"
+    },
+    {
+        "Name": "DIPLOMACY_MAXIMUM_LOPSIDED_DEAL_MODIFIER",
+        "Value": "10"
+    },
+    {
+        "Name": "DIPLOMACY_PEACE_MIN_TURNS",
+        "Value": "10"
+    },
+    {
+        "Name": "DIPLOMACY_RESEARCH_AGREEMENT_BEAKER_PERCENTAGE",
+        "Value": "10"
+    },
+    {
+        "Name": "DIPLOMACY_SIGNIFICANTLY_LOPSIDED_DEAL",
+        "Value": "10"
+    },
+    {
+        "Name": "DIPLOMACY_VISIBILITY_TO_SEE_THREAT",
+        "Value": "2"
+    },
+    {
+        "Name": "DIPLOMACY_VISIBILITY_TO_SEE_TRUST",
+        "Value": "3"
+    },
+    {
+        "Name": "DIPLOMACY_WAR_LAST_FOREVER",
+        "Value": "0"
+    },
+    {
+        "Name": "DIPLOMACY_WAR_MIN_TURNS",
+        "Value": "10"
+    },
+    {
+        "Name": "DIPLOMACY_WARMONGER_POINT_PERCENT_DECAY",
+        "Value": "50"
+    },
+    {
+        "Name": "DISTRICT_POPULATION_REQUIRED_PER",
+        "Value": "3"
+    },
+    {
+        "Name": "ESPIONAGE_BONUS_GAIN_SOURCES",
+        "Value": "2"
+    },
+    {
+        "Name": "ESPIONAGE_ESCAPE_BASE_CHANCE",
+        "Value": "10"
+    },
+    {
+        "Name": "ESPIONAGE_ESCAPE_COUNTERSPY_LEVEL_MODIFIER",
+        "Value": "-1"
+    },
+    {
+        "Name": "ESPIONAGE_ESCAPE_LEVEL_BOOST",
+        "Value": "1"
+    },
+    {
+        "Name": "ESPIONAGE_ESCAPE_POLICE_CORRECT_MODIFIER",
+        "Value": "-4"
+    },
+    {
+        "Name": "ESPIONAGE_GAIN_SOURCES_DURATION_MULTIPLIER",
+        "Value": "3"
+    },
+    {
+        "Name": "ESPIONAGE_MAX_LEVEL",
+        "Value": "4"
+    },
+    {
+        "Name": "EXPERIENCE_ACTIVATE_GOODY_HUT",
+        "Value": "5"
+    },
+    {
+        "Name": "EXPERIENCE_BARB_SOFT_CAP",
+        "Value": "1"
+    },
+    {
+        "Name": "EXPERIENCE_CITY_CAPTURED",
+        "Value": "10"
+    },
+    {
+        "Name": "EXPERIENCE_COMBAT_ATTACKER_BONUS",
+        "Value": "1"
+    },
+    {
+        "Name": "EXPERIENCE_COMBAT_RANGED",
+        "Value": "1"
+    },
+    {
+        "Name": "EXPERIENCE_DISTRICT_VS_UNIT",
+        "Value": "2"
+    },
+    {
+        "Name": "EXPERIENCE_KILL_BONUS",
+        "Value": "2"
+    },
+    {
+        "Name": "EXPERIENCE_MAX_BARB_LEVEL",
+        "Value": "2"
+    },
+    {
+        "Name": "EXPERIENCE_MAX_LEVEL",
+        "Value": "6"
+    },
+    {
+        "Name": "EXPERIENCE_MAXIMUM_ONE_COMBAT",
+        "Value": "10"
+    },
+    {
+        "Name": "EXPERIENCE_NEEDED_FOR_NEXT_LEVEL_MULTIPLIER",
+        "Value": "5"
+    },
+    {
+        "Name": "EXPERIENCE_NOT_COMBAT_RANGED",
+        "Value": "2"
+    },
+    {
+        "Name": "EXPERIENCE_PROMOTE_HEALED",
+        "Value": "50"
+    },
+    {
+        "Name": "EXPERIENCE_RETRAIN_HEALED",
+        "Value": "100"
+    },
+    {
+        "Name": "EXPERIENCE_REVEAL_NATURAL_WONDER",
+        "Value": "10"
+    },
+    {
+        "Name": "EXPERIENCE_UNIT_VS_DISTRICT_NOT_CITY_CAPTURED",
+        "Value": "3"
+    },
+    {
+        "Name": "FORTIFY_BONUS_PER_TURN",
+        "Value": "3"
+    },
+    {
+        "Name": "FORTIFY_TURN_MAX",
+        "Value": "2"
+    },
+    {
+        "Name": "FRESH_WATER_FERTILITY",
+        "Value": "2"
+    },
+    {
+        "Name": "GAME_COST_ESCALATION",
+        "Value": "1000"
+    },
+    {
+        "Name": "GOLD_EQUIVALENT_OTHER_YIELDS",
+        "Value": "2"
+    },
+    {
+        "Name": "GOLD_INTEREST_MAX_PER_TURN",
+        "Value": "1000"
+    },
+    {
+        "Name": "GOLD_NEGATIVE_BALANCE_AMENITY_LOSS_LINE",
+        "Value": "0"
+    },
+    {
+        "Name": "GOLD_NEGATIVE_BALANCE_DISBAND_UNIT_LINE",
+        "Value": "-10"
+    },
+    {
+        "Name": "GOLD_NEGATIVE_BALANCE_SUBSEQUENT_AMENITY_LOSS",
+        "Value": "-10"
+    },
+    {
+        "Name": "GOLD_NEGATIVE_BALANCE_SUBSEQUENT_DISBAND_UNIT",
+        "Value": "-10"
+    },
+    {
+        "Name": "GOLD_PERCENTAGE_YIELD_PER_UNASSIGNED_POP",
+        "Value": "50"
+    },
+    {
+        "Name": "GOLD_PURCHASE_MULTIPLIER",
+        "Value": "2"
+    },
+    {
+        "Name": "GOVERNMENT_ALLOW_EMPTY_POLICY_SLOTS",
+        "Value": "0"
+    },
+    {
+        "Name": "GOVERNMENT_BASE_ANARCHY_TURNS",
+        "Value": "2"
+    },
+    {
+        "Name": "GOVERNMENT_UNLOCK_WITH_FAITH",
+        "Value": "0"
+    },
+    {
+        "Name": "GREATWORK_ART_LOCK_TIME",
+        "Value": "10"
+    },
+    {
+        "Name": "HARVEST_IMPROVED_DEGRADATION",
+        "Value": "50"
+    },
+    {
+        "Name": "HARVEST_PILLAGED_DEGRADATION",
+        "Value": "30"
+    },
+    {
+        "Name": "INFLUENCE_TOKENS_FREE_FOR_FIRST_PLAYER_MEET",
+        "Value": "1"
+    },
+    {
+        "Name": "INFLUENCE_TOKENS_MINIMUM_FOR_SUZERAIN",
+        "Value": "3"
+    },
+    {
+        "Name": "LAKE_MAX_AREA_SIZE",
+        "Value": "9"
+    },
+    {
+        "Name": "LAKE_PLOT_RANDOM",
+        "Value": "40"
+    },
+    {
+        "Name": "LEVY_MILITARY_PERCENT_OF_UNIT_PURCHASE_COST",
+        "Value": "25"
+    },
+    {
+        "Name": "LEVY_MILITARY_TURN_DURATION",
+        "Value": "30"
+    },
+    {
+        "Name": "LUXURY_HAPPINESS_LOSS_PER_ERA",
+        "Value": "2"
+    },
+    {
+        "Name": "LUXURY_HAPPINESS_MINIMUM",
+        "Value": "2"
+    },
+    {
+        "Name": "LUXURY_RESOURCE_FERTILITY",
+        "Value": "5"
+    },
+    {
+        "Name": "MAYHEM_BUILDING_PILLAGED",
+        "Value": "2.0"
+    },
+    {
+        "Name": "MAYHEM_CAPTURE_CIVILIAN",
+        "Value": "1"
+    },
+    {
+        "Name": "MAYHEM_CITY_DEATH",
+        "Value": "3.0"
+    },
+    {
+        "Name": "MAYHEM_CITY_DEATH_WITH_BARBARIANS",
+        "Value": "2.0"
+    },
+    {
+        "Name": "MAYHEM_DECLARATION_OF_WAR",
+        "Value": "2"
+    },
+    {
+        "Name": "MAYHEM_DENOUNCEMENT",
+        "Value": "1"
+    },
+    {
+        "Name": "MAYHEM_DISTRICT_DEATH",
+        "Value": "1.0"
+    },
+    {
+        "Name": "MAYHEM_DISTRICT_DEATH_WITH_BARBARIANS",
+        "Value": "0.5"
+    },
+    {
+        "Name": "MAYHEM_DISTRICT_PILLAGED",
+        "Value": "1.5"
+    },
+    {
+        "Name": "MAYHEM_IMPROVEMENT_PILLAGED",
+        "Value": "1.0"
+    },
+    {
+        "Name": "MAYHEM_NUCLEAR_LAUNCH",
+        "Value": "5.0"
+    },
+    {
+        "Name": "MAYHEM_PEACE",
+        "Value": "-1"
+    },
+    {
+        "Name": "MAYHEM_PLAYER_DESTROYED",
+        "Value": "3.0"
+    },
+    {
+        "Name": "MAYHEM_UNIT_COMBAT",
+        "Value": "1.0"
+    },
+    {
+        "Name": "MAYHEM_UNIT_COMBAT_WITH_BARBARIANS",
+        "Value": "0.5"
+    },
+    {
+        "Name": "MAYHEM_UNIT_DEATH",
+        "Value": "1.0"
+    },
+    {
+        "Name": "MAYHEM_UNIT_DEATH_WITH_BARBARIANS",
+        "Value": "0.5"
+    },
+    {
+        "Name": "MOUNTAIN_ADJACENT_FERTILITY",
+        "Value": "1"
+    },
+    {
+        "Name": "MOVEMENT_EMBARK_COST",
+        "Value": "2"
+    },
+    {
+        "Name": "MOVEMENT_RIVER_COST",
+        "Value": "2"
+    },
+    {
+        "Name": "MOVEMENT_WHILE_EMBARKED_BASE",
+        "Value": "2"
+    },
+    {
+        "Name": "NATIONAL_PARK_AMENITIES_OWNING_CITY",
+        "Value": "2"
+    },
+    {
+        "Name": "NATIONAL_PARK_GOLD_YIELD_PER_TOURISM",
+        "Value": "0"
+    },
+    {
+        "Name": "NATIONAL_PARK_NUM_OTHER_AMENITY_CITIES",
+        "Value": "4"
+    },
+    {
+        "Name": "NATURAL_WONDER_ADJACENT_FERTILITY",
+        "Value": "1"
+    },
+    {
+        "Name": "OCEAN_MIN_WATER_SIZE",
+        "Value": "10"
+    },
+    {
+        "Name": "PILLAGE_ADVANCED_MOVEMENT_COST",
+        "Value": "1"
+    },
+    {
+        "Name": "PILLAGE_BUILDING_REPAIR_PERCENT",
+        "Value": "25"
+    },
+    {
+        "Name": "PILLAGE_MOVEMENT_COST",
+        "Value": "3"
+    },
+    {
+        "Name": "PLOT_BUY_BASE_COST",
+        "Value": "50"
+    },
+    {
+        "Name": "PLOT_CONTAMINATION_DAMAGE_BASE",
+        "Value": "50"
+    },
+    {
+        "Name": "PLOT_INFLUENCE_BASE_MULTIPLIER",
+        "Value": "100"
+    },
+    {
+        "Name": "PLOT_INFLUENCE_DISTANCE_DIVISOR",
+        "Value": "2"
+    },
+    {
+        "Name": "PLOT_INFLUENCE_DISTANCE_MULTIPLIER",
+        "Value": "100"
+    },
+    {
+        "Name": "PLOT_INFLUENCE_IMPROVEMENT_COST",
+        "Value": "-5"
+    },
+    {
+        "Name": "PLOT_INFLUENCE_MAX_ACQUIRE_DISTANCE",
+        "Value": "5"
+    },
+    {
+        "Name": "PLOT_INFLUENCE_NW_COST",
+        "Value": "-105"
+    },
+    {
+        "Name": "PLOT_INFLUENCE_RESOURCE_COST",
+        "Value": "-105"
+    },
+    {
+        "Name": "PLOT_INFLUENCE_RING_COST",
+        "Value": "100"
+    },
+    {
+        "Name": "PLOT_INFLUENCE_WATER_COST",
+        "Value": "25"
+    },
+    {
+        "Name": "PLOT_INFLUENCE_YIELD_POINT_COST",
+        "Value": "-1"
+    },
+    {
+        "Name": "PLOT_UNIT_LIMIT",
+        "Value": "1"
+    },
+    {
+        "Name": "PLOT_WATER_DAMAGE_BASE",
+        "Value": "0"
+    },
+    {
+        "Name": "POLICY_COST_BASE",
+        "Value": "25"
+    },
+    {
+        "Name": "POLICY_COST_EXPONENT",
+        "Value": "1.5"
+    },
+    {
+        "Name": "POLICY_COST_INCREASE_TO_BE_EXPONENTED",
+        "Value": "3"
+    },
+    {
+        "Name": "POLICY_COST_VISIBLE_DIVISOR",
+        "Value": "5"
+    },
+    {
+        "Name": "POLICY_ENACTED_DISCOUNT",
+        "Value": "50"
+    },
+    {
+        "Name": "POLICY_REQUIRE_CITIES",
+        "Value": "1"
+    },
+    {
+        "Name": "PURCHASE_DIVISOR",
+        "Value": "5"
+    },
+    {
+        "Name": "REBELLION_CHANCE_PER_POINT",
+        "Value": "2.0"
+    },
+    {
+        "Name": "REBELLION_COOLDOWN_TURNS",
+        "Value": "20"
+    },
+    {
+        "Name": "RELIGION_HEALING_MULTIPLIER",
+        "Value": "3"
+    },
+    {
+        "Name": "RELIGION_INITIAL_BELIEFS",
+        "Value": "2"
+    },
+    {
+        "Name": "RELIGION_PANTHEON_MIN_FAITH",
+        "Value": "25"
+    },
+    {
+        "Name": "RELIGION_SPREAD_ADJACENT_CITY_DISTANCE",
+        "Value": "10"
+    },
+    {
+        "Name": "RELIGION_SPREAD_ADJACENT_PER_TURN_PRESSURE",
+        "Value": "1"
+    },
+    {
+        "Name": "RELIGION_SPREAD_ATHEISM_PRESSURE_PER_POP",
+        "Value": "50"
+    },
+    {
+        "Name": "RELIGION_SPREAD_COMBAT_VICTORY",
+        "Value": "250"
+    },
+    {
+        "Name": "RELIGION_SPREAD_HOLY_CITY_PRESSURE_MULTIPLIER",
+        "Value": "4"
+    },
+    {
+        "Name": "RELIGION_SPREAD_HOLY_CITY_PRESSURE_PER_POP",
+        "Value": "200"
+    },
+    {
+        "Name": "RELIGION_SPREAD_HOLY_SITE_PRESSURE_MULTIPLIER",
+        "Value": "2"
+    },
+    {
+        "Name": "RELIGION_SPREAD_RANGE_COMBAT_VICTORY",
+        "Value": "6"
+    },
+    {
+        "Name": "RELIGION_SPREAD_RANGE_UNIT_CAPTURE",
+        "Value": "6"
+    },
+    {
+        "Name": "RELIGION_SPREAD_STRENGTH_MULTIPLIER",
+        "Value": "200"
+    },
+    {
+        "Name": "RELIGION_SPREAD_TRADE_ROUTE_PRESSURE_FOR_DESTINATION",
+        "Value": "1.0"
+    },
+    {
+        "Name": "RELIGION_SPREAD_TRADE_ROUTE_PRESSURE_FOR_ORIGIN",
+        "Value": "0.5"
+    },
+    {
+        "Name": "RELIGION_SPREAD_UNIT_CAPTURE",
+        "Value": "125"
+    },
+    {
+        "Name": "RIVER_FERTILITY",
+        "Value": "1"
+    },
+    {
+        "Name": "RIVER_PLOTS_PER_EDGE",
+        "Value": "12"
+    },
+    {
+        "Name": "RIVER_SEA_WATER_RANGE_DEFAULT",
+        "Value": "3"
+    },
+    {
+        "Name": "RIVER_SOURCE_MIN_RIVER_RANGE",
+        "Value": "4"
+    },
+    {
+        "Name": "RIVER_SOURCE_MIN_SEAWATER_RANGE",
+        "Value": "2"
+    },
+    {
+        "Name": "RIVER_SOURCE_RANGE_DEFAULT",
+        "Value": "4"
+    },
+    {
+        "Name": "SNOW_ICE_FERTILITY",
+        "Value": "0"
+    },
+    {
+        "Name": "START_DISTANCE_FERTILITY_EXCLUSION_ZONE",
+        "Value": "6"
+    },
+    {
+        "Name": "START_DISTANCE_MAJOR_CIVILIZATION",
+        "Value": "12"
+    },
+    {
+        "Name": "START_DISTANCE_MAJOR_NATURAL_WONDER",
+        "Value": "2"
+    },
+    {
+        "Name": "START_DISTANCE_MINOR_CIVILIZATION_START",
+        "Value": "5"
+    },
+    {
+        "Name": "START_DISTANCE_MINOR_MAJOR_CIVILIZATION",
+        "Value": "6"
+    },
+    {
+        "Name": "START_DISTANCE_MINOR_NATURAL_WONDER",
+        "Value": "3"
+    },
+    {
+        "Name": "START_DISTANCE_RANGE_MAJOR",
+        "Value": "2"
+    },
+    {
+        "Name": "START_DISTANCE_RANGE_MINOR",
+        "Value": "3"
+    },
+    {
+        "Name": "START_FERTILITY_WEIGHT_BONUS",
+        "Value": "75"
+    },
+    {
+        "Name": "START_FERTILITY_WEIGHT_CONTINENTAL_DIVIDE",
+        "Value": "250"
+    },
+    {
+        "Name": "START_FERTILITY_WEIGHT_LUXURY",
+        "Value": "250"
+    },
+    {
+        "Name": "START_LEGENDARY_BONUS_QUANTITY",
+        "Value": "5"
+    },
+    {
+        "Name": "START_LEGENDARY_LUXURY_QUANTITY",
+        "Value": "3"
+    },
+    {
+        "Name": "STRATEGIC_RESOURCE_FERTILITY",
+        "Value": "0"
+    },
+    {
+        "Name": "STRATEGIC_RESOURCE_FERTILITY_STARTING_ERA_ADDITIONAL",
+        "Value": "5"
+    },
+    {
+        "Name": "STRATEGIC_RESOURCE_FERTILITY_STARTING_ERA_RANGE",
+        "Value": "1"
+    },
+    {
+        "Name": "STRATEGIC_RESOURCE_MINIMUM_FOR_PRODUCTION_ANYWHERE",
+        "Value": "2"
+    },
+    {
+        "Name": "STRATEGIC_RESOURCE_MINIMUM_FOR_PRODUCTION_WITH_DISTRICT",
+        "Value": "1"
+    },
+    {
+        "Name": "STRATEGIC_RESOURCE_MINIMUM_FOR_PURCHASE_ANYWHERE",
+        "Value": "2"
+    },
+    {
+        "Name": "STRATEGIC_RESOURCE_MINIMUM_FOR_PURCHASE_WITH_DISTRICT",
+        "Value": "1"
+    },
+    {
+        "Name": "STRATEGIC_RESOURCE_MINIMUM_FOR_UNIT_HEALING",
+        "Value": "1"
+    },
+    {
+        "Name": "STRATEGIC_RESOURCE_MINIMUM_FOR_UNIT_UPGRADING",
+        "Value": "1"
+    },
+    {
+        "Name": "TOURISM_ADVANCED_ERA_WONDER",
+        "Value": "1"
+    },
+    {
+        "Name": "TOURISM_BASE_FROM_WONDER",
+        "Value": "2"
+    },
+    {
+        "Name": "TOURISM_CONFLICTING_GOVERNMENT_MULTIPLIER",
+        "Value": "3"
+    },
+    {
+        "Name": "TOURISM_CULTURE_PER_CITIZEN",
+        "Value": "100"
+    },
+    {
+        "Name": "TOURISM_DIFFERENT_RELIGION_REDUCTION",
+        "Value": "50"
+    },
+    {
+        "Name": "TOURISM_FROM_HOLY_CITY",
+        "Value": "8"
+    },
+    {
+        "Name": "TOURISM_OPEN_BORDERS_BONUS",
+        "Value": "25"
+    },
+    {
+        "Name": "TOURISM_TRADE_ROUTE_BONUS",
+        "Value": "25"
+    },
+    {
+        "Name": "TRADE_ROUTE_BASE_RANGE",
+        "Value": "15"
+    },
+    {
+        "Name": "TRADE_ROUTE_GOLD_PER_DESTINATION_DISTRICT",
+        "Value": "2"
+    },
+    {
+        "Name": "TRADE_ROUTE_GOLD_PER_ORIGIN_DISTRICT",
+        "Value": "2"
+    },
+    {
+        "Name": "TRADE_ROUTE_LAND_RANGE_REFUEL",
+        "Value": "15"
+    },
+    {
+        "Name": "TRADE_ROUTE_PLACES_ROADS",
+        "Value": "1"
+    },
+    {
+        "Name": "TRADE_ROUTE_TURN_DURATION_BASE",
+        "Value": "20"
+    },
+    {
+        "Name": "TRADE_ROUTE_WATER_RANGE_REFUEL",
+        "Value": "30"
+    },
+    {
+        "Name": "TRADING_POST_GOLD_IN_FOREIGN_CITY",
+        "Value": "1"
+    },
+    {
+        "Name": "TRADING_POST_GOLD_IN_OWN_CITY",
+        "Value": "0"
+    },
+    {
+        "Name": "TUNDRA_FERTILITY_MODIFIER",
+        "Value": "-5"
+    },
+    {
+        "Name": "UNIT_ARMY_COST_MODIFIER",
+        "Value": "2.0"
+    },
+    {
+        "Name": "UNIT_CORPS_COST_MODIFIER",
+        "Value": "1.5"
+    },
+    {
+        "Name": "UNIT_EXPERIENCE_LEVEL_FOR_CUSTOM_NAME",
+        "Value": "2"
+    },
+    {
+        "Name": "UNIT_MAX_DIRECT_LOYALTY_DAMAGE",
+        "Value": "30"
+    },
+    {
+        "Name": "UNLOCK_EMBARKATION",
+        "Value": "0"
+    },
+    {
+        "Name": "UPGRADE_BASE_COST",
+        "Value": "10"
+    },
+    {
+        "Name": "UPGRADE_MINIMUM_COST",
+        "Value": "15"
+    },
+    {
+        "Name": "UPGRADE_NET_PRODUCTION_PERCENT_COST",
+        "Value": "75"
+    },
+    {
+        "Name": "WAR_WEARINESS_DECAY_PEACE_DECLARED",
+        "Value": "2000"
+    },
+    {
+        "Name": "WAR_WEARINESS_DECAY_TURN_AT_PEACE",
+        "Value": "200"
+    },
+    {
+        "Name": "WAR_WEARINESS_DECAY_TURN_AT_WAR",
+        "Value": "50"
+    },
+    {
+        "Name": "WAR_WEARINESS_LOSS_OVER_REQ_AMENITIES_AT_WAR_CITY",
+        "Value": "3"
+    },
+    {
+        "Name": "WAR_WEARINESS_LOSS_OVER_REQ_AMENITIES_FOUNDED_CITY",
+        "Value": "0"
+    },
+    {
+        "Name": "WAR_WEARINESS_LOSS_OVER_REQ_AMENITIES_NONFOUNDED_CITY",
+        "Value": "1"
+    },
+    {
+        "Name": "WAR_WEARINESS_PER_COMBAT_IN_ALLIED_LANDS",
+        "Value": "1"
+    },
+    {
+        "Name": "WAR_WEARINESS_PER_COMBAT_IN_FOREIGN_LANDS",
+        "Value": "2"
+    },
+    {
+        "Name": "WAR_WEARINESS_PER_UNIT_KILLED",
+        "Value": "3"
+    },
+    {
+        "Name": "WAR_WEARINESS_PER_WMD_LAUNCHED",
+        "Value": "10"
+    },
+    {
+        "Name": "WAR_WEARINESS_POINTS_FOR_AMENITY_LOSS",
+        "Value": "400"
+    },
+    {
+        "Name": "WAR_WEARINESS_WARMONGER_BASE",
+        "Value": "16"
+    },
+    {
+        "Name": "WARMONGER_CITY_PERCENT_OF_DOW",
+        "Value": "50"
+    },
+    {
+        "Name": "WARMONGER_FINAL_MAJOR_CITY_MULTIPLIER",
+        "Value": "200"
+    },
+    {
+        "Name": "WARMONGER_FINAL_MINOR_CITY_MULTIPLIER",
+        "Value": "100"
+    },
+    {
+        "Name": "WARMONGER_LIBERATE_POINTS",
+        "Value": "32"
+    },
+    {
+        "Name": "WARMONGER_RAZE_PENALTY_PERCENT",
+        "Value": "200"
+    },
+    {
+        "Name": "WARMONGER_REDUCTION_IF_AT_WAR",
+        "Value": "40"
+    },
+    {
+        "Name": "WARMONGER_REDUCTION_IF_DENOUNCED",
+        "Value": "20"
+    },
+    {
+        "Name": "WARMONGER_STOP_OCCUPYING_REFUND_PERCENT",
+        "Value": "-100"
+    },
+    {
+        "Name": "WONDER_FREE_TILES_UPON_COMPLETION",
+        "Value": "2"
+    },
+    {
+        "Name": "YIELD_FOOD_CITY_TERRAIN_REPLACE",
+        "Value": "2"
+    },
+    {
+        "Name": "YIELD_MODIFIER_PER_EARNED_GREAT_PERSON_MAXIMUM",
+        "Value": "30"
+    },
+    {
+        "Name": "YIELD_PRODUCTION_CITY_TERRAIN_REPLACE",
+        "Value": "1"
+    },
+    {
+        "Name": "RLL_VERSION_MAJOR",
+        "Value": "1"
+    },
+    {
+        "Name": "RLL_VERSION_MINOR",
+        "Value": "1"
+    },
+    {
+        "Name": "FF16_DEFAULT_LOGSIZE",
+        "Value": "0"
+    },
+    {
+        "Name": "FF16_DEFAULT_MAXLOGSIZE",
+        "Value": "8"
+    },
+    {
+        "Name": "FF16_DEFAULT_EMPTYLOG",
+        "Value": "1"
+    },
+    {
+        "Name": "ALLIANCE_LEVEL_COUNT",
+        "Value": "3"
+    },
+    {
+        "Name": "ALLIANCE_LEVEL_THREE_XP",
+        "Value": "960"
+    },
+    {
+        "Name": "ALLIANCE_LEVEL_TWO_XP",
+        "Value": "320"
+    },
+    {
+        "Name": "ALLIANCE_POINTS_FOR_DEAL",
+        "Value": "2"
+    },
+    {
+        "Name": "ALLIANCE_POINTS_FOR_SOCIETY",
+        "Value": "2"
+    },
+    {
+        "Name": "ALLIANCE_POINTS_FOR_TRADE",
+        "Value": "1"
+    },
+    {
+        "Name": "ALLIANCE_POINTS_MULTIPLIER",
+        "Value": "4"
+    },
+    {
+        "Name": "BARBARIAN_LOWER_THROTTLE_PER_DIFFICULTY",
+        "Value": "3"
+    },
+    {
+        "Name": "BARBARIAN_MAX_THROTTLE_PER_RAID",
+        "Value": "18"
+    },
+    {
+        "Name": "CAPITAL_IDENTITY_PRESSURE_MAXIMUM",
+        "Value": "0"
+    },
+    {
+        "Name": "CAPITAL_IDENTITY_PRESSURE_MINIMUM",
+        "Value": "0"
+    },
+    {
+        "Name": "CAPITAL_IDENTITY_PRESSURE_TILE_RADIUS_MAXIUMUM_BASE",
+        "Value": "10"
+    },
+    {
+        "Name": "CAPITAL_IDENTITY_PRESSURE_TILE_RADIUS_MINIMUM",
+        "Value": "1"
+    },
+    {
+        "Name": "CITIZEN_IDENTITY_PRESSURE_BASE",
+        "Value": "1"
+    },
+    {
+        "Name": "CITIZEN_IDENTITY_PRESSURE_CAPITAL",
+        "Value": "1"
+    },
+    {
+        "Name": "CITIZEN_IDENTITY_PRESSURE_RADIUS_CUTOFF",
+        "Value": "10"
+    },
+    {
+        "Name": "CITIZEN_IDENTITY_WONDER_RADIUS_CUTOFF",
+        "Value": "10"
+    },
+    {
+        "Name": "CIVIC_COST_PERCENT_CHANGE_AFTER_GAME_ERA",
+        "Value": "20"
+    },
+    {
+        "Name": "CIVIC_COST_PERCENT_CHANGE_BEFORE_GAME_ERA",
+        "Value": "-20"
+    },
+    {
+        "Name": "COMBAT_HEAL_CITY_OUTER_DEFENSES",
+        "Value": "10"
+    },
+    {
+        "Name": "COMMEMORATE_BASE_CHOICES_ALLOWED",
+        "Value": "0"
+    },
+    {
+        "Name": "COMMEMORATE_OPTIONS_MAX",
+        "Value": "0"
+    },
+    {
+        "Name": "DARK_AGE_SCORE_BASE_THRESHOLD",
+        "Value": "25"
+    },
+    {
+        "Name": "EMERGENCY_GOLD_PER_MEMBER_PER_ERA",
+        "Value": "400"
+    },
+    {
+        "Name": "ESPIONAGE_FABRICATE_SCANDAL_BASE_ENVOYS_REMOVED",
+        "Value": "2"
+    },
+    {
+        "Name": "ESPIONAGE_FABRICATE_SCANDAL_LEVEL_ENVOYS_REMOVED",
+        "Value": "1"
+    },
+    {
+        "Name": "ESPIONAGE_FOMENT_UNREST_BASE_IDENTITY_CHANGE",
+        "Value": "75"
+    },
+    {
+        "Name": "ESPIONAGE_FOMENT_UNREST_BASE_LOYALTY_CHANGE",
+        "Value": "-15"
+    },
+    {
+        "Name": "ESPIONAGE_FOMENT_UNREST_LEVEL_IDENTITY_CHANGE",
+        "Value": "25"
+    },
+    {
+        "Name": "ESPIONAGE_FOMENT_UNREST_LEVEL_LOYALTY_CHANGE",
+        "Value": "-5"
+    },
+    {
+        "Name": "ESPIONAGE_NEUTRALIZE_GOVERNOR_BASE_TURNS",
+        "Value": "6"
+    },
+    {
+        "Name": "GOLDEN_AGE_SCORE_BASE_THRESHOLD",
+        "Value": "25"
+    },
+    {
+        "Name": "GOVERNOR_BASE_TURNS_TO_ESTABLISH",
+        "Value": "5"
+    },
+    {
+        "Name": "IDENTITY_PER_TURN_FROM_CITY_STATES",
+        "Value": "20"
+    },
+    {
+        "Name": "IDENTITY_PER_TURN_FROM_FREE_CITIES",
+        "Value": "10"
+    },
+    {
+        "Name": "IDENTITY_PER_TURN_FROM_HIGHEST_INFLUENCE_TOKENS_PER_TOKEN",
+        "Value": "2"
+    },
+    {
+        "Name": "IDENTITY_PER_TURN_FROM_MARTIAL_LAW",
+        "Value": "8"
+    },
+    {
+        "Name": "IDENTITY_PER_TURN_FROM_OCCUPATION_MAX",
+        "Value": "-5"
+    },
+    {
+        "Name": "IDENTITY_PER_TURN_FROM_OCCUPATION_MIN",
+        "Value": "-1"
+    },
+    {
+        "Name": "IDENTITY_PER_TURN_FROM_ORIGINAL_OWNER_ON_FREE_CITY",
+        "Value": "0"
+    },
+    {
+        "Name": "IDENTITY_PER_TURN_FROM_OWNER_BEFORE_OCCUPATION_ON_FREE_CITY",
+        "Value": "0"
+    },
+    {
+        "Name": "IDENTITY_PER_TURN_FROM_RELIGION_MATCHING_FOUNDED",
+        "Value": "3"
+    },
+    {
+        "Name": "IDENTITY_PER_TURN_FROM_RELIGION_MISMATCHING_FOUNDED",
+        "Value": "-3"
+    },
+    {
+        "Name": "IDENTITY_PER_TURN_FROM_STARVATION",
+        "Value": "-4"
+    },
+    {
+        "Name": "LOYALTY_AFTER_TRANSFERRED_BY_COMBAT",
+        "Value": "50"
+    },
+    {
+        "Name": "LOYALTY_AFTER_TRANSFERRED_BY_COMBAT_ORIGINAL_OWNER",
+        "Value": "50"
+    },
+    {
+        "Name": "LOYALTY_AFTER_TRANSFERRED_BY_COMBAT_OWNER_BEFORE_OCCUPATION",
+        "Value": "50"
+    },
+    {
+        "Name": "LOYALTY_AFTER_TRANSFERRED_BY_CULTURAL_IDENTITY",
+        "Value": "100"
+    },
+    {
+        "Name": "LOYALTY_AFTER_TRANSFERRED_BY_LIBERATION",
+        "Value": "100"
+    },
+    {
+        "Name": "LOYALTY_FROM_EXCESS_SCORE_DIVISOR",
+        "Value": "1"
+    },
+    {
+        "Name": "LOYALTY_FROM_EXCESS_SCORE_MULTIPLIER",
+        "Value": "0.0500000007450581"
+    },
+    {
+        "Name": "LOYALTY_MAXIMUM",
+        "Value": "100"
+    },
+    {
+        "Name": "LOYALTY_PER_TURN_FROM_NEARBY_CITIZEN_PRESSURE_MAX_LOYALTY",
+        "Value": "20"
+    },
+    {
+        "Name": "LOYALTY_PER_TURN_FROM_NEARBY_CITIZEN_PRESSURE_MAX_RATIO",
+        "Value": "3.0"
+    },
+    {
+        "Name": "LOYALTY_PER_TURN_FROM_NEARBY_CITIZEN_PRESSURE_NEUTRAL_LOYALTY",
+        "Value": "0"
+    },
+    {
+        "Name": "LOYALTY_PER_TURN_FROM_NEARBY_CITIZEN_PRESSURE_NEUTRAL_RATIO",
+        "Value": "1.0"
+    },
+    {
+        "Name": "LOYALTY_START",
+        "Value": "100"
+    },
+    {
+        "Name": "MAX_GOVERNOR_APPOINTMENTS",
+        "Value": "9"
+    },
+    {
+        "Name": "NEXT_ERA_TURN_COUNTDOWN",
+        "Value": "10"
+    },
+    {
+        "Name": "OWNER_IDENTITY_PERCENT_LOST_AFTER_TRANSFERRED_BY_CULTURAL_IDENTITY",
+        "Value": "50"
+    },
+    {
+        "Name": "OWNERSHIP_IDENTITY_PRESSURE_FROM_CAPITAL_TO_DOMESTIC_CITY",
+        "Value": "0"
+    },
+    {
+        "Name": "OWNERSHIP_IDENTITY_PRESSURE_FROM_CAPITAL_TO_FOREIGN_CITY",
+        "Value": "0"
+    },
+    {
+        "Name": "OWNERSHIP_IDENTITY_PRESSURE_FROM_CITY_TO_DOMESTIC_CITY",
+        "Value": "0"
+    },
+    {
+        "Name": "OWNERSHIP_IDENTITY_PRESSURE_FROM_CITY_TO_FOREIGN_CITY",
+        "Value": "0"
+    },
+    {
+        "Name": "OWNERSHIP_IDENTITY_PRESSURE_FROM_POP_COUNT",
+        "Value": "0"
+    },
+    {
+        "Name": "OWNERSHIP_IDENTITY_PRESSURE_TILE_RADIUS",
+        "Value": "0"
+    },
+    {
+        "Name": "PARADROP_LONG_RANGE",
+        "Value": "12"
+    },
+    {
+        "Name": "PARADROP_SHORT_RANGE",
+        "Value": "7"
+    },
+    {
+        "Name": "SCIENCE_PERCENTAGE_YIELD_PER_POP",
+        "Value": "50"
+    },
+    {
+        "Name": "TECH_COST_PERCENT_CHANGE_AFTER_GAME_ERA",
+        "Value": "20"
+    },
+    {
+        "Name": "TECH_COST_PERCENT_CHANGE_BEFORE_GAME_ERA",
+        "Value": "-20"
+    },
+    {
+        "Name": "THRESHOLD_SHIFT_PER_ANARCHY",
+        "Value": "0"
+    },
+    {
+        "Name": "THRESHOLD_SHIFT_PER_CITY",
+        "Value": "3"
+    },
+    {
+        "Name": "THRESHOLD_SHIFT_PER_INCOMPLETE_ERA_CIVIC",
+        "Value": "0"
+    },
+    {
+        "Name": "THRESHOLD_SHIFT_PER_INCOMPLETE_ERA_TECH",
+        "Value": "0"
+    },
+    {
+        "Name": "THRESHOLD_SHIFT_PER_INCOMPLETE_OLD_CIVIC",
+        "Value": "0"
+    },
+    {
+        "Name": "THRESHOLD_SHIFT_PER_INCOMPLETE_OLD_TECH",
+        "Value": "0"
+    },
+    {
+        "Name": "THRESHOLD_SHIFT_PER_MISSING_AMENITY",
+        "Value": "0"
+    },
+    {
+        "Name": "THRESHOLD_SHIFT_PER_PAST_DARK_AGE",
+        "Value": "-10"
+    },
+    {
+        "Name": "THRESHOLD_SHIFT_PER_PAST_GOLDEN_AGE",
+        "Value": "5"
+    },
+    {
+        "Name": "TOURISM_TOURISM_TO_MOVE_CITIZEN",
+        "Value": "200"
+    },
+    {
+        "Name": "BARBARIAN_CLANS_CIV_CONVERSION_POINTS_STANDARD",
+        "Value": "120"
+    },
+    {
+        "Name": "BARBARIAN_CLANS_CIV_CONVERSION_INCREMENT_CHANCE",
+        "Value": "50"
+    },
+    {
+        "Name": "BARBARIAN_CLANS_UNIQUE_UNIT_CLAIM_INTERVAL_STANDARD",
+        "Value": "5"
+    },
+    {
+        "Name": "BARBARIAN_CLANS_UNIQUE_UNIT_STRENGTH_RANGE",
+        "Value": "10"
+    },
+    {
+        "Name": "BARBARIAN_CLANS_TECH_STEAL_INTERVAL_STANDARD",
+        "Value": "20"
+    },
+    {
+        "Name": "BARBARIAN_CLANS_TECH_STEAL_VARIANCE_STANDARD",
+        "Value": "10"
+    },
+    {
+        "Name": "BARBARIAN_CLANS_BRIBE_COST_PER_CITY",
+        "Value": "50"
+    },
+    {
+        "Name": "BARBARIAN_CLANS_HIRE_COST_SCALAR",
+        "Value": "0.6"
+    },
+    {
+        "Name": "BARBARIAN_CLANS_RANSOM_COST_SCALAR",
+        "Value": "0.75"
+    },
+    {
+        "Name": "HERO_DISCOVER_CHANCE_GOODY_HUT",
+        "Value": "15"
+    },
+    {
+        "Name": "HERO_DISCOVER_CHANCE_CITY_STATE_INFLUENCE",
+        "Value": "10"
+    },
+    {
+        "Name": "HERO_DISCOVER_CHANCE_CITY_STATE_SUZERAIN",
+        "Value": "100"
+    },
+    {
+        "Name": "HERO_DISCOVER_CHANCE_NATURAL_WONDER",
+        "Value": "50"
+    },
+    {
+        "Name": "HERO_DISCOVER_CHANCE_NEW_CONTINENT",
+        "Value": "50"
+    },
+    {
+        "Name": "HERO_AI_DISCOVERY_MIN_TURN_STANDARD",
+        "Value": "30"
+    },
+    {
+        "Name": "HERO_AI_DISCOVERY_OVERALL_CHANCE_STANDARD",
+        "Value": "50"
+    },
+    {
+        "Name": "HERO_AI_CLAIM_MIN_TURN_INTERVAL_STANDARD",
+        "Value": "30"
+    },
+    {
+        "Name": "HERO_NOTIFICATION_LOW_LIFESPAN_THRESHOLD",
+        "Value": "10"
+    },
+    {
+        "Name": "HERO_LOST_CLAIM_SALVAGE_PERCENT",
+        "Value": "50"
+    },
+    {
+        "Name": "BRS_VERSION_MAJOR",
+        "Value": "7"
+    },
+    {
+        "Name": "BRS_VERSION_MINOR",
+        "Value": "0"
+    },
+    {
+        "Name": "BRS_OPTION_MODIFIERS",
+        "Value": "0"
+    }
+]

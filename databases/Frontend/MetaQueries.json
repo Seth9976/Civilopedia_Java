@@ -1,0 +1,12 @@
+[
+    {
+        "MetaQueryID": "LiveEventDomainValueFilterQueries",
+        "MetaQueryType": "QueryCriteria",
+        "SQL": "SELECT LiveEventType || '_DVF' as QueryID, 'Game' as ConfigurationGroup, ConfigurationKey, 'Equals' as Operator, 1 as ConfigurationValue from LiveEvents"
+    },
+    {
+        "MetaQueryID": "LiveEventDomainValueFilterQueryCriteria",
+        "MetaQueryType": "Queries",
+        "SQL": "SELECT LiveEventType || '_DVF' as QueryID, 'DomainValueFilters' as Type, 'SELECT * FROM DomainValueFilters where Key1 = ''LiveEvent'' AND Key2 = '''|| LiveEventType || '''' as SQL from LiveEvents"
+    }
+]

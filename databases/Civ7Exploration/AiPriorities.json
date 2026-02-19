@@ -1,0 +1,26 @@
+[
+    {
+        "Priority": "AI_PRIORITY_DEFAULT",
+        "Value": 1.0
+    },
+    {
+        "Priority": "AI_PRIORITY_LOW",
+        "Value": 2.0
+    },
+    {
+        "Priority": "AI_PRIORITY_MEDIUM",
+        "Value": 3.0
+    },
+    {
+        "Priority": "AI_PRIORITY_HIGH",
+        "Value": 4.0
+    },
+    {
+        "Priority": "AI_PRIORITY_PLANNING",
+        "Value": 5.0
+    },
+    {
+        "Priority": "AI_PRIORITY_STRATEGIC",
+        "Value": 6.0
+    }
+]

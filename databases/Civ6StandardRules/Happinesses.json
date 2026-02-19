@@ -1,0 +1,65 @@
+[
+    {
+        "GrowthModifier": -100.0,
+        "HappinessType": "HAPPINESS_REVOLT",
+        "MaximumAmenityScore": -7,
+        "MinimumAmenityScore": null,
+        "Name": "LOC_HAPPINESS_REVOLT_NAME",
+        "NonFoodYieldModifier": -60.0,
+        "RebellionPoints": 4
+    },
+    {
+        "GrowthModifier": -100.0,
+        "HappinessType": "HAPPINESS_UNREST",
+        "MaximumAmenityScore": -5,
+        "MinimumAmenityScore": -6,
+        "Name": "LOC_HAPPINESS_UNREST_NAME",
+        "NonFoodYieldModifier": -30.0,
+        "RebellionPoints": 1
+    },
+    {
+        "GrowthModifier": -30.0,
+        "HappinessType": "HAPPINESS_UNHAPPY",
+        "MaximumAmenityScore": -3,
+        "MinimumAmenityScore": -4,
+        "Name": "LOC_HAPPINESS_UNHAPPY_NAME",
+        "NonFoodYieldModifier": -10.0,
+        "RebellionPoints": 0
+    },
+    {
+        "GrowthModifier": -15.0,
+        "HappinessType": "HAPPINESS_DISPLEASED",
+        "MaximumAmenityScore": -1,
+        "MinimumAmenityScore": -2,
+        "Name": "LOC_HAPPINESS_DISPLEASED_NAME",
+        "NonFoodYieldModifier": -5.0,
+        "RebellionPoints": -1
+    },
+    {
+        "GrowthModifier": 0.0,
+        "HappinessType": "HAPPINESS_CONTENT",
+        "MaximumAmenityScore": 0,
+        "MinimumAmenityScore": 0,
+        "Name": "LOC_HAPPINESS_CONTENT_NAME",
+        "NonFoodYieldModifier": 0.0,
+        "RebellionPoints": -1
+    },
+    {
+        "GrowthModifier": 10.0,
+        "HappinessType": "HAPPINESS_HAPPY",
+        "MaximumAmenityScore": 2,
+        "MinimumAmenityScore": 1,
+        "Name": "LOC_HAPPINESS_HAPPY_NAME",
+        "NonFoodYieldModifier": 5.0,
+        "RebellionPoints": -1
+    },
+    {
+        "GrowthModifier": 20.0,
+        "HappinessType": "HAPPINESS_ECSTATIC",
+        "MaximumAmenityScore": null,
+        "MinimumAmenityScore": 3,
+        "Name": "LOC_HAPPINESS_ECSTATIC_NAME",
+        "NonFoodYieldModifier": 10.0,
+        "RebellionPoints": -1
+    }
+]

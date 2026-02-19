@@ -1,0 +1,34 @@
+[
+    {
+        "Age": "AGE_ANTIQUITY",
+        "Description": "LOC_LEGACY_PATH_ANTIQUITY_CULTURE_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "LEGACY_PATH_CLASS_CULTURE",
+        "LegacyPathType": "LEGACY_PATH_ANTIQUITY_CULTURE",
+        "Name": "LOC_LEGACY_PATH_ANTIQUITY_CULTURE_NAME"
+    },
+    {
+        "Age": "AGE_ANTIQUITY",
+        "Description": "LOC_LEGACY_PATH_ANTIQUITY_MILITARY_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "LEGACY_PATH_CLASS_MILITARY",
+        "LegacyPathType": "LEGACY_PATH_ANTIQUITY_MILITARY",
+        "Name": "LOC_LEGACY_PATH_ANTIQUITY_MILITARY_NAME"
+    },
+    {
+        "Age": "AGE_ANTIQUITY",
+        "Description": "LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "LEGACY_PATH_CLASS_SCIENCE",
+        "LegacyPathType": "LEGACY_PATH_ANTIQUITY_SCIENCE",
+        "Name": "LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_NAME"
+    },
+    {
+        "Age": "AGE_ANTIQUITY",
+        "Description": "LOC_LEGACY_PATH_ANTIQUITY_ECONOMIC_DESCRIPTION",
+        "EnabledByDefault": 1,
+        "LegacyPathClassType": "LEGACY_PATH_CLASS_ECONOMIC",
+        "LegacyPathType": "LEGACY_PATH_ANTIQUITY_ECONOMIC",
+        "Name": "LOC_LEGACY_PATH_ANTIQUITY_ECONOMIC_NAME"
+    }
+]

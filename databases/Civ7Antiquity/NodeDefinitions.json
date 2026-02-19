@@ -1,0 +1,338 @@
+[
+    {
+        "Description": "Logical And node. Runs all children until it reaches a FAILURE (can allow multiple failures if desired.)",
+        "NodeId": 0,
+        "NodeType": "Concurrent",
+        "ShapeId": 0
+    },
+    {
+        "Description": "Logical Or node. Runs all children until it reaches a SUCCESS or RUNNING",
+        "NodeId": 1,
+        "NodeType": "Priority",
+        "ShapeId": 0
+    },
+    {
+        "Description": "Special logical And node. Stops on FAILURE, but also stops on RUNNING. Resumes next turn on RUNNING node.",
+        "NodeId": 2,
+        "NodeType": "Sequence",
+        "ShapeId": 0
+    },
+    {
+        "Description": "Waits N turns before running child",
+        "NodeId": 3,
+        "NodeType": "Wait Turns",
+        "ShapeId": 3
+    },
+    {
+        "Description": "Returns SUCCESS or FAILURE immediately.",
+        "NodeId": 4,
+        "NodeType": "NoOp",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Recruits a unit at capital city.",
+        "NodeId": 5,
+        "NodeType": "RecruitUnit",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Checks whether the selected location is still a valid settle location.",
+        "NodeId": 6,
+        "NodeType": "CheckSettleLocationValid",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Settles a city at the current unit position.",
+        "NodeId": 7,
+        "NodeType": "SettleCity",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Moves a unit to a given plot.",
+        "NodeId": 8,
+        "NodeType": "GoToLocation",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Runs a construct unit operation on the unit.",
+        "NodeId": 11,
+        "NodeType": "Construct",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Decodes input data to the specifid fields",
+        "NodeId": 12,
+        "NodeType": "Decode Input",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Recruit units using an operation definition",
+        "NodeId": 13,
+        "NodeType": "Operation Recruit Units",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Move units towards the commander and form an army",
+        "NodeId": 14,
+        "NodeType": "Operation Form Army",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Unpack and deploy your army",
+        "NodeId": 15,
+        "NodeType": "Operation Unpack Army",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Move your army to its destination, along with unattached units",
+        "NodeId": 16,
+        "NodeType": "Operation Move Army",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Send a unit to make a land claim",
+        "NodeId": 16,
+        "NodeType": "DiplomaticActionLandClaim",
+        "ShapeId": 1
+    },
+    {
+        "Description": "As part of an operation, attack enemy units during a move.",
+        "NodeId": 16,
+        "NodeType": "Operation Attack Units",
+        "ShapeId": 1
+    },
+    {
+        "Description": "As part of an operation, attack enemy units during a move.",
+        "NodeId": 16,
+        "NodeType": "Operation Defend Units",
+        "ShapeId": 1
+    },
+    {
+        "Description": "As part of an operation, attack enemy units during a move.",
+        "NodeId": 16,
+        "NodeType": "Operation Attack City",
+        "ShapeId": 1
+    },
+    {
+        "Description": "As part of an operation, determine if a city is still under threat",
+        "NodeId": 17,
+        "NodeType": "Operation City Under Threat",
+        "ShapeId": 2
+    },
+    {
+        "Description": "As part of an operation, recruit militia to defend a city. Automatically decommissioned on exit.",
+        "NodeId": 18,
+        "NodeType": "Operation Recruit Militia",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Army must unpack based on an enemy army or sufficient enemy units",
+        "NodeId": 19,
+        "NodeType": "Army Must Unpack",
+        "ShapeId": 2
+    },
+    {
+        "Description": "As part of an operation or not, overrun nearby enemy units",
+        "NodeId": 20,
+        "NodeType": "Army Overrun",
+        "ShapeId": 1
+    },
+    {
+        "Description": "As part of an operation, pillage available city tiles",
+        "NodeId": 21,
+        "NodeType": "Operation Pillage City",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Reserve some diplomatic tokens for the AI's use",
+        "NodeId": 22,
+        "NodeType": "Reserve Diplomatic Token",
+        "ShapeId": 3
+    },
+    {
+        "Description": "Use a diplomatic token",
+        "NodeId": 23,
+        "NodeType": "Use Diplomatic Token",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Army commander will issue commands, either as specified, or any available",
+        "NodeId": 24,
+        "NodeType": "Army Issue Commands",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Naval Units will move about the ocean exploring",
+        "NodeId": 25,
+        "NodeType": "Naval Patrol",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Declare war against the enemy player of your operation. Succeeds if you're already at war.",
+        "NodeId": 36,
+        "NodeType": "Operation Declare War",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Check that a minor power exists at the spot and is friendly or hostile",
+        "NodeId": 37,
+        "NodeType": "Minor Power Status",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Uses a combat unit to disperse a minor power on its location",
+        "NodeId": 38,
+        "NodeType": "Disperse Minor Power",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Figure out the best position for a unit to attempt conversion.",
+        "NodeId": 39,
+        "NodeType": "Get Best Conversion Position",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Use the Religious Conversion action at the current location.",
+        "NodeId": 40,
+        "NodeType": "Convert Settlement",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Use the Create relic action at the current location.",
+        "NodeId": 41,
+        "NodeType": "Create Relic",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Use a trade route with the city at current location.",
+        "NodeId": 42,
+        "NodeType": "Make Trade Route",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Send a message back to the player that you've reached this point.",
+        "NodeId": 43,
+        "NodeType": "Notify Owner",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Start researching a progression node, fails if it doesn't start within the time limit",
+        "NodeId": 44,
+        "NodeType": "Research Progression Node",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Get the location of the closest city.",
+        "NodeId": 45,
+        "NodeType": "Get Closest Owned City Location",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Get the location of the specified city",
+        "NodeId": 46,
+        "NodeType": "Get City Location",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Resettles a migrant in the city at the current unit position.",
+        "NodeId": 47,
+        "NodeType": "Resettle in City",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Limits child to N turns before returning failure",
+        "NodeId": 48,
+        "NodeType": "Limit Turns",
+        "ShapeId": 3
+    },
+    {
+        "Description": "Performs the unit operation to dig an artifact",
+        "NodeId": 49,
+        "NodeType": "Dig Artifact",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Performs the unit operation to research archaeology on a continent",
+        "NodeId": 50,
+        "NodeType": "Research Continent Archaeology",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Check if there is too much force at the current target, switch to a backup if available or fail",
+        "NodeId": 59,
+        "NodeType": "Check Backup Target",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Naval Units will try to escort embarked units",
+        "NodeId": 60,
+        "NodeType": "Naval Escort",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Succeeds when you have discovered the distant lands (Exploration Age), Running until discovery",
+        "NodeId": 61,
+        "NodeType": "Discovered Distant Lands",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Succeeds if the path to destination crosses deep ocean and embarked units cannot yet cross it",
+        "NodeId": 62,
+        "NodeType": "Requires Naval Escort",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Success or running becomes failure. Failure goes to success",
+        "NodeId": 63,
+        "NodeType": "Not",
+        "ShapeId": 3
+    },
+    {
+        "Description": "Find aircraft and rebase them in range of attack. Can build airfields with squad commanders",
+        "NodeId": 64,
+        "NodeType": "Rebase Air Support",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Attack city and units with any aircraft within range",
+        "NodeId": 65,
+        "NodeType": "Air Assault",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Check whether a location could be used to research artifacts given current unlocks",
+        "NodeId": 66,
+        "NodeType": "Check Artifact Research Available At Location",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Returns success if your relationship is at specified level or lower.",
+        "NodeId": 67,
+        "NodeType": "Operation Check Relationship",
+        "ShapeId": 2
+    },
+    {
+        "Description": "Get the best position to activate a given Great Person.",
+        "NodeId": 69,
+        "NodeType": "Get Best Great Person Position",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Activates a great person's abilit on the current tile.",
+        "NodeId": 68,
+        "NodeType": "Activate Great Person",
+        "ShapeId": 1
+    },
+    {
+        "Description": "Tell the units of the operation to unstack if they are.",
+        "NodeId": 70,
+        "NodeType": "Operation Unstack Units",
+        "ShapeId": 1
+    },
+    {
+        "Description": "For operations on a coast, choose how to set the point target.",
+        "NodeId": 71,
+        "NodeType": "Operation Choose Coastal Target",
+        "ShapeId": 1
+    }
+]

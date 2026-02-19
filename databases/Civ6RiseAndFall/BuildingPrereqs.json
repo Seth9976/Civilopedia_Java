@@ -1,0 +1,310 @@
+[
+    {
+        "Building": "BUILDING_TEMPLE",
+        "PrereqBuilding": "BUILDING_SHRINE"
+    },
+    {
+        "Building": "BUILDING_STAVE_CHURCH",
+        "PrereqBuilding": "BUILDING_SHRINE"
+    },
+    {
+        "Building": "BUILDING_UNIVERSITY",
+        "PrereqBuilding": "BUILDING_LIBRARY"
+    },
+    {
+        "Building": "BUILDING_MADRASA",
+        "PrereqBuilding": "BUILDING_LIBRARY"
+    },
+    {
+        "Building": "BUILDING_MUSEUM_ART",
+        "PrereqBuilding": "BUILDING_AMPHITHEATER"
+    },
+    {
+        "Building": "BUILDING_MUSEUM_ARTIFACT",
+        "PrereqBuilding": "BUILDING_AMPHITHEATER"
+    },
+    {
+        "Building": "BUILDING_CASTLE",
+        "PrereqBuilding": "BUILDING_WALLS"
+    },
+    {
+        "Building": "BUILDING_ARMORY",
+        "PrereqBuilding": "BUILDING_BARRACKS"
+    },
+    {
+        "Building": "BUILDING_ARMORY",
+        "PrereqBuilding": "BUILDING_STABLE"
+    },
+    {
+        "Building": "BUILDING_SHIPYARD",
+        "PrereqBuilding": "BUILDING_LIGHTHOUSE"
+    },
+    {
+        "Building": "BUILDING_BANK",
+        "PrereqBuilding": "BUILDING_MARKET"
+    },
+    {
+        "Building": "BUILDING_STAR_FORT",
+        "PrereqBuilding": "BUILDING_CASTLE"
+    },
+    {
+        "Building": "BUILDING_FACTORY",
+        "PrereqBuilding": "BUILDING_WORKSHOP"
+    },
+    {
+        "Building": "BUILDING_ELECTRONICS_FACTORY",
+        "PrereqBuilding": "BUILDING_WORKSHOP"
+    },
+    {
+        "Building": "BUILDING_STOCK_EXCHANGE",
+        "PrereqBuilding": "BUILDING_BANK"
+    },
+    {
+        "Building": "BUILDING_MILITARY_ACADEMY",
+        "PrereqBuilding": "BUILDING_ARMORY"
+    },
+    {
+        "Building": "BUILDING_ZOO",
+        "PrereqBuilding": "BUILDING_ARENA"
+    },
+    {
+        "Building": "BUILDING_STADIUM",
+        "PrereqBuilding": "BUILDING_ZOO"
+    },
+    {
+        "Building": "BUILDING_SEAPORT",
+        "PrereqBuilding": "BUILDING_SHIPYARD"
+    },
+    {
+        "Building": "BUILDING_POWER_PLANT",
+        "PrereqBuilding": "BUILDING_FACTORY"
+    },
+    {
+        "Building": "BUILDING_BROADCAST_CENTER",
+        "PrereqBuilding": "BUILDING_MUSEUM_ART"
+    },
+    {
+        "Building": "BUILDING_BROADCAST_CENTER",
+        "PrereqBuilding": "BUILDING_MUSEUM_ARTIFACT"
+    },
+    {
+        "Building": "BUILDING_FILM_STUDIO",
+        "PrereqBuilding": "BUILDING_MUSEUM_ART"
+    },
+    {
+        "Building": "BUILDING_FILM_STUDIO",
+        "PrereqBuilding": "BUILDING_MUSEUM_ARTIFACT"
+    },
+    {
+        "Building": "BUILDING_RESEARCH_LAB",
+        "PrereqBuilding": "BUILDING_UNIVERSITY"
+    },
+    {
+        "Building": "BUILDING_CATHEDRAL",
+        "PrereqBuilding": "BUILDING_TEMPLE"
+    },
+    {
+        "Building": "BUILDING_DAR_E_MEHR",
+        "PrereqBuilding": "BUILDING_TEMPLE"
+    },
+    {
+        "Building": "BUILDING_GURDWARA",
+        "PrereqBuilding": "BUILDING_TEMPLE"
+    },
+    {
+        "Building": "BUILDING_MEETING_HOUSE",
+        "PrereqBuilding": "BUILDING_TEMPLE"
+    },
+    {
+        "Building": "BUILDING_MOSQUE",
+        "PrereqBuilding": "BUILDING_TEMPLE"
+    },
+    {
+        "Building": "BUILDING_PAGODA",
+        "PrereqBuilding": "BUILDING_TEMPLE"
+    },
+    {
+        "Building": "BUILDING_STUPA",
+        "PrereqBuilding": "BUILDING_TEMPLE"
+    },
+    {
+        "Building": "BUILDING_SYNAGOGUE",
+        "PrereqBuilding": "BUILDING_TEMPLE"
+    },
+    {
+        "Building": "BUILDING_WAT",
+        "PrereqBuilding": "BUILDING_TEMPLE"
+    },
+    {
+        "Building": "BUILDING_AIRPORT",
+        "PrereqBuilding": "BUILDING_HANGAR"
+    },
+    {
+        "Building": "BUILDING_BIG_BEN",
+        "PrereqBuilding": "BUILDING_BANK"
+    },
+    {
+        "Building": "BUILDING_ESTADIO_DO_MARACANA",
+        "PrereqBuilding": "BUILDING_STADIUM"
+    },
+    {
+        "Building": "BUILDING_GREAT_LIBRARY",
+        "PrereqBuilding": "BUILDING_LIBRARY"
+    },
+    {
+        "Building": "BUILDING_GREAT_LIGHTHOUSE",
+        "PrereqBuilding": "BUILDING_LIGHTHOUSE"
+    },
+    {
+        "Building": "BUILDING_GREAT_ZIMBABWE",
+        "PrereqBuilding": "BUILDING_MARKET"
+    },
+    {
+        "Building": "BUILDING_MAHABODHI_TEMPLE",
+        "PrereqBuilding": "BUILDING_TEMPLE"
+    },
+    {
+        "Building": "BUILDING_OXFORD_UNIVERSITY",
+        "PrereqBuilding": "BUILDING_UNIVERSITY"
+    },
+    {
+        "Building": "BUILDING_RUHR_VALLEY",
+        "PrereqBuilding": "BUILDING_FACTORY"
+    },
+    {
+        "Building": "BUILDING_TERRACOTTA_ARMY",
+        "PrereqBuilding": "BUILDING_BARRACKS"
+    },
+    {
+        "Building": "BUILDING_TERRACOTTA_ARMY",
+        "PrereqBuilding": "BUILDING_STABLE"
+    },
+    {
+        "Building": "BUILDING_PRASAT",
+        "PrereqBuilding": "BUILDING_SHRINE"
+    },
+    {
+        "Building": "BUILDING_TSIKHE",
+        "PrereqBuilding": "BUILDING_CASTLE"
+    },
+    {
+        "Building": "BUILDING_KOTOKU_IN",
+        "PrereqBuilding": "BUILDING_TEMPLE"
+    },
+    {
+        "Building": "BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION",
+        "PrereqBuilding": "BUILDING_RESEARCH_LAB"
+    },
+    {
+        "Building": "BUILDING_GOV_CITYSTATES",
+        "PrereqBuilding": "BUILDING_GOV_TALL"
+    },
+    {
+        "Building": "BUILDING_GOV_CITYSTATES",
+        "PrereqBuilding": "BUILDING_GOV_WIDE"
+    },
+    {
+        "Building": "BUILDING_GOV_CITYSTATES",
+        "PrereqBuilding": "BUILDING_GOV_CONQUEST"
+    },
+    {
+        "Building": "BUILDING_GOV_SPIES",
+        "PrereqBuilding": "BUILDING_GOV_TALL"
+    },
+    {
+        "Building": "BUILDING_GOV_SPIES",
+        "PrereqBuilding": "BUILDING_GOV_WIDE"
+    },
+    {
+        "Building": "BUILDING_GOV_SPIES",
+        "PrereqBuilding": "BUILDING_GOV_CONQUEST"
+    },
+    {
+        "Building": "BUILDING_GOV_FAITH",
+        "PrereqBuilding": "BUILDING_GOV_TALL"
+    },
+    {
+        "Building": "BUILDING_GOV_FAITH",
+        "PrereqBuilding": "BUILDING_GOV_WIDE"
+    },
+    {
+        "Building": "BUILDING_GOV_FAITH",
+        "PrereqBuilding": "BUILDING_GOV_CONQUEST"
+    },
+    {
+        "Building": "BUILDING_GOV_MILITARY",
+        "PrereqBuilding": "BUILDING_GOV_CITYSTATES"
+    },
+    {
+        "Building": "BUILDING_GOV_MILITARY",
+        "PrereqBuilding": "BUILDING_GOV_SPIES"
+    },
+    {
+        "Building": "BUILDING_GOV_MILITARY",
+        "PrereqBuilding": "BUILDING_GOV_FAITH"
+    },
+    {
+        "Building": "BUILDING_GOV_CULTURE",
+        "PrereqBuilding": "BUILDING_GOV_CITYSTATES"
+    },
+    {
+        "Building": "BUILDING_GOV_CULTURE",
+        "PrereqBuilding": "BUILDING_GOV_SPIES"
+    },
+    {
+        "Building": "BUILDING_GOV_CULTURE",
+        "PrereqBuilding": "BUILDING_GOV_FAITH"
+    },
+    {
+        "Building": "BUILDING_GOV_SCIENCE",
+        "PrereqBuilding": "BUILDING_GOV_CITYSTATES"
+    },
+    {
+        "Building": "BUILDING_GOV_SCIENCE",
+        "PrereqBuilding": "BUILDING_GOV_SPIES"
+    },
+    {
+        "Building": "BUILDING_GOV_SCIENCE",
+        "PrereqBuilding": "BUILDING_GOV_FAITH"
+    },
+    {
+        "Building": "BUILDING_AQUARIUM",
+        "PrereqBuilding": "BUILDING_FERRIS_WHEEL"
+    },
+    {
+        "Building": "BUILDING_AQUATICS_CENTER",
+        "PrereqBuilding": "BUILDING_AQUARIUM"
+    },
+    {
+        "Building": "BUILDING_COLOSSEUM",
+        "PrereqBuilding": "BUILDING_ARENA"
+    },
+    {
+        "Building": "BUILDING_CHANCERY",
+        "PrereqBuilding": "BUILDING_CONSULATE"
+    },
+    {
+        "Building": "BUILDING_ALCHEMICAL_SOCIETY",
+        "PrereqBuilding": "BUILDING_LIBRARY"
+    },
+    {
+        "Building": "BUILDING_RESEARCH_LAB",
+        "PrereqBuilding": "BUILDING_ALCHEMICAL_SOCIETY"
+    },
+    {
+        "Building": "BUILDING_GILDED_VAULT",
+        "PrereqBuilding": "BUILDING_MARKET"
+    },
+    {
+        "Building": "BUILDING_STOCK_EXCHANGE",
+        "PrereqBuilding": "BUILDING_GILDED_VAULT"
+    },
+    {
+        "Building": "BUILDING_STATUE_OF_ZEUS",
+        "PrereqBuilding": "BUILDING_BARRACKS"
+    },
+    {
+        "Building": "BUILDING_NAVIGATION_SCHOOL",
+        "PrereqBuilding": "BUILDING_LIBRARY"
+    }
+]

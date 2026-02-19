@@ -1,0 +1,32 @@
+[
+    {
+        "CO2PercentModifier": -20,
+        "DeforestationEffectType": "DEFORESTATIONEFFECT_REDUCED",
+        "MaxAverageDeforestation": 0.0,
+        "Name": null
+    },
+    {
+        "CO2PercentModifier": 0,
+        "DeforestationEffectType": "DEFORESTATIONEFFECT_UNCHANGED",
+        "MaxAverageDeforestation": 1.0,
+        "Name": null
+    },
+    {
+        "CO2PercentModifier": 10,
+        "DeforestationEffectType": "DEFORESTATIONEFFECT_SLIGHTINCREASE",
+        "MaxAverageDeforestation": 2.0,
+        "Name": null
+    },
+    {
+        "CO2PercentModifier": 30,
+        "DeforestationEffectType": "DEFORESTATIONEFFECT_INCREASE",
+        "MaxAverageDeforestation": 3.0,
+        "Name": null
+    },
+    {
+        "CO2PercentModifier": 50,
+        "DeforestationEffectType": "DEFORESTATIONEFFECT_HUGEINCREASE",
+        "MaxAverageDeforestation": 5.0,
+        "Name": null
+    }
+]

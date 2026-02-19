@@ -1,0 +1,52 @@
+[
+    {
+        "Description": "TXT_KEY_RESOLUTION_DECISION_NONE",
+        "ID": 0,
+        "Type": "RESOLUTION_DECISION_NONE"
+    },
+    {
+        "Description": "TXT_KEY_RESOLUTION_DECISION_YES_OR_NO",
+        "ID": 1,
+        "Type": "RESOLUTION_DECISION_YES_OR_NO"
+    },
+    {
+        "Description": "TXT_KEY_RESOLUTION_DECISION_ANY_MEMBER",
+        "ID": 2,
+        "Type": "RESOLUTION_DECISION_ANY_MEMBER"
+    },
+    {
+        "Description": "TXT_KEY_RESOLUTION_DECISION_CITY",
+        "ID": 3,
+        "Type": "RESOLUTION_DECISION_CITY"
+    },
+    {
+        "Description": "TXT_KEY_RESOLUTION_DECISION_ANY_LUXURY_RESOURCE",
+        "ID": 4,
+        "Type": "RESOLUTION_DECISION_ANY_LUXURY_RESOURCE"
+    },
+    {
+        "Description": "TXT_KEY_RESOLUTION_DECISION_REPEAL",
+        "ID": 5,
+        "Type": "RESOLUTION_DECISION_REPEAL"
+    },
+    {
+        "Description": "TXT_KEY_RESOLUTION_DECISION_MAJOR_CIV_MEMBER",
+        "ID": 6,
+        "Type": "RESOLUTION_DECISION_MAJOR_CIV_MEMBER"
+    },
+    {
+        "Description": "TXT_KEY_RESOLUTION_DECISION_OTHER_MAJOR_CIV_MEMBER",
+        "ID": 7,
+        "Type": "RESOLUTION_DECISION_OTHER_MAJOR_CIV_MEMBER"
+    },
+    {
+        "Description": "TXT_KEY_RESOLUTION_DECISION_RELIGION",
+        "ID": 8,
+        "Type": "RESOLUTION_DECISION_RELIGION"
+    },
+    {
+        "Description": "TXT_KEY_RESOLUTION_DECISION_IDEOLOGY",
+        "ID": 9,
+        "Type": "RESOLUTION_DECISION_IDEOLOGY"
+    }
+]

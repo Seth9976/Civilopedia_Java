@@ -1,0 +1,29 @@
+[
+    {
+        "Amount": -20,
+        "DiplomaticFirstMeetResponseType": "PLAYER_REALATIONSHIP_FIRSTMEET_UNFRIENDLY",
+        "InfCost": 20,
+        "Name": "LOC_PLAYER_REALATIONSHIP_FIRSTMEET_UNFRIENDLY",
+        "ShowCapitalRadius": 1,
+        "ShowCapitalRange": 10,
+        "ShowCapitals": 0
+    },
+    {
+        "Amount": 0,
+        "DiplomaticFirstMeetResponseType": "PLAYER_REALATIONSHIP_FIRSTMEET_NEUTRAL",
+        "InfCost": 0,
+        "Name": "LOC_PLAYER_REALATIONSHIP_FIRSTMEET_NEUTRAL",
+        "ShowCapitalRadius": 1,
+        "ShowCapitalRange": 10,
+        "ShowCapitals": 0
+    },
+    {
+        "Amount": 20,
+        "DiplomaticFirstMeetResponseType": "PLAYER_REALATIONSHIP_FIRSTMEET_FRIENDLY",
+        "InfCost": 20,
+        "Name": "LOC_PLAYER_REALATIONSHIP_FIRSTMEET_FRIENDLY",
+        "ShowCapitalRadius": 1,
+        "ShowCapitalRange": 10,
+        "ShowCapitals": 1
+    }
+]

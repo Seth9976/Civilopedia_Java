@@ -1,0 +1,18 @@
+[
+    {
+        "FeatureType": "FEATURE_JUNGLE",
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE"
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE"
+    },
+    {
+        "FeatureType": "FEATURE_JUNGLE",
+        "RandomEventType": "RANDOM_EVENT_JUNGLE_FIRE_TRIGGERED"
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "RandomEventType": "RANDOM_EVENT_FOREST_FIRE_TRIGGERED"
+    }
+]

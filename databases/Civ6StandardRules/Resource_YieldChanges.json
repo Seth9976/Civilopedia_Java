@@ -1,0 +1,257 @@
+[
+    {
+        "ResourceType": "RESOURCE_BANANAS",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_CATTLE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_COPPER",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_CRABS",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_DEER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ResourceType": "RESOURCE_FISH",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_RICE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_SHEEP",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_STONE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ResourceType": "RESOURCE_WHEAT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_CITRUS",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_COCOA",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_COFFEE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ResourceType": "RESOURCE_COTTON",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_DIAMONDS",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_DYES",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "ResourceType": "RESOURCE_FURS",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_FURS",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_GYPSUM",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_GYPSUM",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ResourceType": "RESOURCE_INCENSE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "ResourceType": "RESOURCE_IVORY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_IVORY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ResourceType": "RESOURCE_JADE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ResourceType": "RESOURCE_MARBLE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ResourceType": "RESOURCE_MERCURY",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ResourceType": "RESOURCE_PEARLS",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "ResourceType": "RESOURCE_SALT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_SALT",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_SILK",
+        "YieldChange": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ResourceType": "RESOURCE_SILVER",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_SPICES",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_SUGAR",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_TEA",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ResourceType": "RESOURCE_TOBACCO",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "ResourceType": "RESOURCE_TRUFFLES",
+        "YieldChange": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_WHALES",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ResourceType": "RESOURCE_WHALES",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_WINE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_WINE",
+        "YieldChange": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_ALUMINUM",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ResourceType": "RESOURCE_COAL",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ResourceType": "RESOURCE_HORSES",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_HORSES",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ResourceType": "RESOURCE_IRON",
+        "YieldChange": 1,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ResourceType": "RESOURCE_NITER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ResourceType": "RESOURCE_NITER",
+        "YieldChange": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ResourceType": "RESOURCE_OIL",
+        "YieldChange": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ResourceType": "RESOURCE_URANIUM",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ResourceType": "RESOURCE_MAIZE",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ResourceType": "RESOURCE_HONEY",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    }
+]

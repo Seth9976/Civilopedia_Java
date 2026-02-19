@@ -1,0 +1,41 @@
+[
+    {
+        "CanAnnexTilesWithCulture": 0,
+        "CanAnnexTilesWithGold": 0,
+        "CanAnnexTilesWithReceivedInfluence": 0,
+        "CanBuildWonders": 0,
+        "CanEarnGreatPeople": 0,
+        "CanFoundCities": 0,
+        "CanGiveInfluence": 0,
+        "CanReceiveInfluence": 0,
+        "CivilizationLevelType": "CIVILIZATION_LEVEL_TRIBE",
+        "IgnoresUnitStrategicResourceRequirements": 1,
+        "StartingTilesForCity": 0
+    },
+    {
+        "CanAnnexTilesWithCulture": 0,
+        "CanAnnexTilesWithGold": 0,
+        "CanAnnexTilesWithReceivedInfluence": 1,
+        "CanBuildWonders": 0,
+        "CanEarnGreatPeople": 0,
+        "CanFoundCities": 0,
+        "CanGiveInfluence": 0,
+        "CanReceiveInfluence": 1,
+        "CivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE",
+        "IgnoresUnitStrategicResourceRequirements": 1,
+        "StartingTilesForCity": 5
+    },
+    {
+        "CanAnnexTilesWithCulture": 1,
+        "CanAnnexTilesWithGold": 1,
+        "CanAnnexTilesWithReceivedInfluence": 0,
+        "CanBuildWonders": 1,
+        "CanEarnGreatPeople": 1,
+        "CanFoundCities": 1,
+        "CanGiveInfluence": 1,
+        "CanReceiveInfluence": 0,
+        "CivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV",
+        "IgnoresUnitStrategicResourceRequirements": 0,
+        "StartingTilesForCity": 6
+    }
+]

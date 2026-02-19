@@ -1,0 +1,242 @@
+[
+    {
+        "Key": "TERRAIN_GRASS",
+        "Name": "LAND_TERRAIN",
+        "Table": "Terrains"
+    },
+    {
+        "Key": "TERRAIN_OCEAN",
+        "Name": "DEEP_WATER_TERRAIN",
+        "Table": "Terrains"
+    },
+    {
+        "Key": "TERRAIN_COAST",
+        "Name": "SHALLOW_WATER_TERRAIN",
+        "Table": "Terrains"
+    },
+    {
+        "Key": "IMPROVEMENT_CITY_RUINS",
+        "Name": "RUINS_IMPROVEMENT",
+        "Table": "Improvements"
+    },
+    {
+        "Key": "FEATURE_FALLOUT",
+        "Name": "NUKE_FEATURE",
+        "Table": "Features"
+    },
+    {
+        "Key": "RESOURCE_ARTIFACTS",
+        "Name": "ARTIFACT_RESOURCE",
+        "Table": "Resources"
+    },
+    {
+        "Key": "RESOURCE_HIDDEN_ARTIFACTS",
+        "Name": "HIDDEN_ARTIFACT_RESOURCE",
+        "Table": "Resources"
+    },
+    {
+        "Key": "BUILDINGCLASS_PALACE",
+        "Name": "CAPITAL_BUILDINGCLASS",
+        "Table": "BuildingClasses"
+    },
+    {
+        "Key": "SPECIALIST_CITIZEN",
+        "Name": "DEFAULT_SPECIALIST",
+        "Table": "Specialists"
+    },
+    {
+        "Key": "PROJECT_APOLLO_PROGRAM",
+        "Name": "SPACE_RACE_TRIGGER_PROJECT",
+        "Table": "Projects"
+    },
+    {
+        "Key": "PROJECT_SS_COCKPIT",
+        "Name": "SPACESHIP_CAPSULE",
+        "Table": "Projects"
+    },
+    {
+        "Key": "PROJECT_SS_BOOSTER",
+        "Name": "SPACESHIP_BOOSTER",
+        "Table": "Projects"
+    },
+    {
+        "Key": "PROJECT_SS_STASIS_CHAMBER",
+        "Name": "SPACESHIP_STASIS",
+        "Table": "Projects"
+    },
+    {
+        "Key": "PROJECT_SS_ENGINE",
+        "Name": "SPACESHIP_ENGINE",
+        "Table": "Projects"
+    },
+    {
+        "Key": "PROJECT_MANHATTAN_PROJECT",
+        "Name": "MANHATTAN_PROJECT",
+        "Table": "Projects"
+    },
+    {
+        "Key": "ROUTE_ROAD",
+        "Name": "INITIAL_CITY_ROUTE_TYPE",
+        "Table": "Routes"
+    },
+    {
+        "Key": "HANDICAP_CHIEFTAIN",
+        "Name": "STANDARD_HANDICAP",
+        "Table": "HandicapInfos"
+    },
+    {
+        "Key": "HANDICAP_PRINCE",
+        "Name": "MULTIPLAYER_HANDICAP",
+        "Table": "HandicapInfos"
+    },
+    {
+        "Key": "HANDICAP_CHIEFTAIN",
+        "Name": "STANDARD_HANDICAP_QUICK",
+        "Table": "HandicapInfos"
+    },
+    {
+        "Key": "GAMESPEED_STANDARD",
+        "Name": "STANDARD_GAMESPEED",
+        "Table": "GameSpeeds"
+    },
+    {
+        "Key": "TURNTIMER_MEDIUM",
+        "Name": "STANDARD_TURNTIMER",
+        "Table": "TurnTimers"
+    },
+    {
+        "Key": "CLIMATE_TEMPERATE",
+        "Name": "STANDARD_CLIMATE",
+        "Table": "Climates"
+    },
+    {
+        "Key": "WORLDSIZE_STANDARD",
+        "Name": "STANDARD_WORLD_SIZE",
+        "Table": "Worlds"
+    },
+    {
+        "Key": "SEALEVEL_MEDIUM",
+        "Name": "STANDARD_SEALEVEL",
+        "Table": "Sealevels"
+    },
+    {
+        "Key": "ERA_ANCIENT",
+        "Name": "STANDARD_ERA",
+        "Table": "Eras"
+    },
+    {
+        "Key": "ERA_INDUSTRIAL",
+        "Name": "LAST_EMBARK_ART_ERA",
+        "Table": "Eras"
+    },
+    {
+        "Key": "ERA_INDUSTRIAL",
+        "Name": "LAST_UNIT_ART_ERA",
+        "Table": "Eras"
+    },
+    {
+        "Key": "ERA_MODERN",
+        "Name": "LAST_BRIDGE_ART_ERA",
+        "Table": "Eras"
+    },
+    {
+        "Key": "CALENDAR_DEFAULT",
+        "Name": "STANDARD_CALENDAR",
+        "Table": "Calendars"
+    },
+    {
+        "Key": "HANDICAP_CHIEFTAIN",
+        "Name": "BARBARIAN_HANDICAP",
+        "Table": "HandicapInfos"
+    },
+    {
+        "Key": "CIVILIZATION_BARBARIAN",
+        "Name": "BARBARIAN_CIVILIZATION",
+        "Table": "Civilizations"
+    },
+    {
+        "Key": "LEADER_BARBARIAN",
+        "Name": "BARBARIAN_LEADER",
+        "Table": "Leaders"
+    },
+    {
+        "Key": "HANDICAP_PRINCE",
+        "Name": "MINOR_CIV_HANDICAP",
+        "Table": "HandicapInfos"
+    },
+    {
+        "Key": "CIVILIZATION_MINOR",
+        "Name": "MINOR_CIVILIZATION",
+        "Table": "Civilizations"
+    },
+    {
+        "Key": "PROMOTION_EMBARKATION",
+        "Name": "PROMOTION_EMBARKATION",
+        "Table": "UnitPromotions"
+    },
+    {
+        "Key": "PROMOTION_DEFENSIVE_EMBARKATION",
+        "Name": "PROMOTION_DEFENSIVE_EMBARKATION",
+        "Table": "UnitPromotions"
+    },
+    {
+        "Key": "PROMOTION_ALLWATER_EMBARKATION",
+        "Name": "PROMOTION_ALLWATER_EMBARKATION",
+        "Table": "UnitPromotions"
+    },
+    {
+        "Key": "PROMOTION_OCEAN_IMPASSABLE",
+        "Name": "PROMOTION_OCEAN_IMPASSABLE",
+        "Table": "UnitPromotions"
+    },
+    {
+        "Key": "PROMOTION_OCEAN_IMPASSABLE_UNTIL_ASTRONOMY",
+        "Name": "PROMOTION_OCEAN_IMPASSABLE_UNTIL_ASTRONOMY",
+        "Table": "UnitPromotions"
+    },
+    {
+        "Key": "PROMOTION_ONLY_DEFENSIVE",
+        "Name": "PROMOTION_ONLY_DEFENSIVE",
+        "Table": "UnitPromotions"
+    },
+    {
+        "Key": "PROMOTION_UNWELCOME_EVANGELIST",
+        "Name": "PROMOTION_UNWELCOME_EVANGELIST",
+        "Table": "UnitPromotions"
+    },
+    {
+        "Key": "IMPROVEMENT_BARBARIAN_CAMP",
+        "Name": "BARBARIAN_CAMP_IMPROVEMENT",
+        "Table": "Improvements"
+    },
+    {
+        "Key": "BUILDINGCLASS_WALLS",
+        "Name": "WALLS_BUILDINGCLASS",
+        "Table": "BuildingClasses"
+    },
+    {
+        "Key": "PROMOTION_GOODY_HUT_PICKER",
+        "Name": "PROMOTION_GOODY_HUT_PICKER",
+        "Table": "UnitPromotions"
+    },
+    {
+        "Key": "POLICY_BRANCH_FREEDOM",
+        "Name": "POLICY_BRANCH_FREEDOM",
+        "Table": "PolicyBranchTypes"
+    },
+    {
+        "Key": "POLICY_BRANCH_AUTOCRACY",
+        "Name": "POLICY_BRANCH_AUTOCRACY",
+        "Table": "PolicyBranchTypes"
+    },
+    {
+        "Key": "POLICY_BRANCH_ORDER",
+        "Name": "POLICY_BRANCH_ORDER",
+        "Table": "PolicyBranchTypes"
+    },
+    {
+        "Key": "HANDICAP_AI_DEFAULT",
+        "Name": "AI_HANDICAP",
+        "Table": "HandicapInfos"
+    }
+]

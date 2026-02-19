@@ -1,0 +1,22 @@
+[
+    {
+        "Description": "TXT_KEY_BUILDING_UNITED_NATIONS",
+        "FreeSpecialist": null,
+        "ID": 0,
+        "Policy": null,
+        "PopupText": "TXT_KEY_POPUP_CHOOSE_ELECTION",
+        "SecretaryGeneralText": "TXT_KEY_SECRETARY_GENERAL",
+        "Type": "DIPLOVOTE_UN",
+        "VoteInterval": 5
+    },
+    {
+        "Description": "TXT_KEY_BUILDING_APOSTOLIC_PALACE",
+        "FreeSpecialist": null,
+        "ID": 1,
+        "Policy": null,
+        "PopupText": "TXT_KEY_POPUP_POPE_ELECTION",
+        "SecretaryGeneralText": "TXT_KEY_APOSTOLIC_PALACE_RESIDENT",
+        "Type": "DIPLOVOTE_POPE",
+        "VoteInterval": 9
+    }
+]

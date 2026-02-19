@@ -1,0 +1,16 @@
+[
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "WORLD_BUILDER",
+        "ConfigurationValue": 1,
+        "Operator": "NotEquals",
+        "ParameterQueryID": "DefeatParameters"
+    },
+    {
+        "ConfigurationGroup": "Game",
+        "ConfigurationKey": "WORLD_BUILDER",
+        "ConfigurationValue": 1,
+        "Operator": "NotEquals",
+        "ParameterQueryID": "VictoryParameters"
+    }
+]

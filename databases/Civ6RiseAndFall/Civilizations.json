@@ -1,0 +1,776 @@
+[
+    {
+        "Adjective": "LOC_CIVILIZATION_AMERICA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "Description": "LOC_CIVILIZATION_AMERICA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_EURO",
+        "Name": "LOC_CIVILIZATION_AMERICA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_ARABIA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_ARABIA",
+        "Description": "LOC_CIVILIZATION_ARABIA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_MEDIT",
+        "Name": "LOC_CIVILIZATION_ARABIA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_BRAZIL_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_BRAZIL",
+        "Description": "LOC_CIVILIZATION_BRAZIL_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_SOUTHAM",
+        "Name": "LOC_CIVILIZATION_BRAZIL_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_CHINA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_CHINA",
+        "Description": "LOC_CIVILIZATION_CHINA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_ASIAN",
+        "Name": "LOC_CIVILIZATION_CHINA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_ENGLAND_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "Description": "LOC_CIVILIZATION_ENGLAND_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_EURO",
+        "Name": "LOC_CIVILIZATION_ENGLAND_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_EGYPT_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_EGYPT",
+        "Description": "LOC_CIVILIZATION_EGYPT_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_MEDIT",
+        "Name": "LOC_CIVILIZATION_EGYPT_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_FRANCE_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_FRANCE",
+        "Description": "LOC_CIVILIZATION_FRANCE_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_EURO",
+        "Name": "LOC_CIVILIZATION_FRANCE_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_GERMANY_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_GERMANY",
+        "Description": "LOC_CIVILIZATION_GERMANY_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_EURO",
+        "Name": "LOC_CIVILIZATION_GERMANY_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_GREECE_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "Description": "LOC_CIVILIZATION_GREECE_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_MEDIT",
+        "Name": "LOC_CIVILIZATION_GREECE_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_INDIA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_INDIA",
+        "Description": "LOC_CIVILIZATION_INDIA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_MEDIT",
+        "Name": "LOC_CIVILIZATION_INDIA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_JAPAN_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_JAPAN",
+        "Description": "LOC_CIVILIZATION_JAPAN_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_ASIAN",
+        "Name": "LOC_CIVILIZATION_JAPAN_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_KONGO_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_KONGO",
+        "Description": "LOC_CIVILIZATION_KONGO_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_AFRICAN",
+        "Name": "LOC_CIVILIZATION_KONGO_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_NORWAY_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_NORWAY",
+        "Description": "LOC_CIVILIZATION_NORWAY_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_EURO",
+        "Name": "LOC_CIVILIZATION_NORWAY_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_ROME_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_ROME",
+        "Description": "LOC_CIVILIZATION_ROME_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_MEDIT",
+        "Name": "LOC_CIVILIZATION_ROME_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_RUSSIA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "Description": "LOC_CIVILIZATION_RUSSIA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_EURO",
+        "Name": "LOC_CIVILIZATION_RUSSIA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_SCYTHIA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_SCYTHIA",
+        "Description": "LOC_CIVILIZATION_SCYTHIA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_MEDIT",
+        "Name": "LOC_CIVILIZATION_SCYTHIA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_SPAIN_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "Description": "LOC_CIVILIZATION_SPAIN_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_EURO",
+        "Name": "LOC_CIVILIZATION_SPAIN_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_SUMERIA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_SUMERIA",
+        "Description": "LOC_CIVILIZATION_SUMERIA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_MEDIT",
+        "Name": "LOC_CIVILIZATION_SUMERIA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_BRUSSELS_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_BRUSSELS",
+        "Description": "LOC_CIVILIZATION_BRUSSELS_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_BRUSSELS_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_BUENOS_AIRES",
+        "Description": "LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_BUENOS_AIRES_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_CARTHAGE_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_CARTHAGE",
+        "Description": "LOC_CIVILIZATION_CARTHAGE_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_CARTHAGE_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_GENEVA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_GENEVA",
+        "Description": "LOC_CIVILIZATION_GENEVA_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_GENEVA_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_HATTUSA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_HATTUSA",
+        "Description": "LOC_CIVILIZATION_HATTUSA_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_HATTUSA_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_HONG_KONG_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_HONG_KONG",
+        "Description": "LOC_CIVILIZATION_HONG_KONG_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_HONG_KONG_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_BANDAR_BRUNEI_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_JAKARTA",
+        "Description": "LOC_CIVILIZATION_BANDAR_BRUNEI_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_BANDAR_BRUNEI_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_JERUSALEM_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_JERUSALEM",
+        "Description": "LOC_CIVILIZATION_JERUSALEM_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_JERUSALEM_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_KABUL_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_KABUL",
+        "Description": "LOC_CIVILIZATION_KABUL_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_KABUL_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_KANDY_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_KANDY",
+        "Description": "LOC_CIVILIZATION_KANDY_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_KANDY_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_KUMASI_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_KUMASI",
+        "Description": "LOC_CIVILIZATION_KUMASI_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_KUMASI_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_LA_VENTA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_LA_VENTA",
+        "Description": "LOC_CIVILIZATION_LA_VENTA_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_LA_VENTA_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_LISBON_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_LISBON",
+        "Description": "LOC_CIVILIZATION_LISBON_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_LISBON_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_MOHENJO_DARO",
+        "Description": "LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_MOHENJO_DARO_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_NAN_MADOL",
+        "Description": "LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_NAN_MADOL_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_PRESLAV_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_PRESLAV",
+        "Description": "LOC_CIVILIZATION_PRESLAV_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_PRESLAV_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_STOCKHOLM",
+        "Description": "LOC_CIVILIZATION_STOCKHOLM_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_STOCKHOLM_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_TORONTO_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_TORONTO",
+        "Description": "LOC_CIVILIZATION_TORONTO_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_TORONTO_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_VALLETTA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_VALLETTA",
+        "Description": "LOC_CIVILIZATION_VALLETTA_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_VALLETTA_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_VILNIUS_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_VILNIUS",
+        "Description": "LOC_CIVILIZATION_VILNIUS_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_VILNIUS_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_YEREVAN_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_YEREVAN",
+        "Description": "LOC_CIVILIZATION_YEREVAN_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_YEREVAN_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_ZANZIBAR",
+        "Description": "LOC_CIVILIZATION_ZANZIBAR_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_ZANZIBAR_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_BARBARIAN_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_BARBARIAN",
+        "Description": "LOC_CIVILIZATION_BARBARIAN_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_BARBARIAN_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_TRIBE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_AZTEC_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_AZTEC",
+        "Description": "LOC_CIVILIZATION_AZTEC_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_AZTEC_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_INDONESIA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_INDONESIA",
+        "Description": "LOC_CIVILIZATION_INDONESIA_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_INDONESIA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_KHMER_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_KHMER",
+        "Description": "LOC_CIVILIZATION_KHMER_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_KHMER_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_AUCKLAND_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_AUCKLAND",
+        "Description": "LOC_CIVILIZATION_AUCKLAND_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_AUCKLAND_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_ANTANANARIVO_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_ANTANANARIVO",
+        "Description": "LOC_CIVILIZATION_ANTANANARIVO_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_ANTANANARIVO_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_ARMAGH_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_ARMAGH",
+        "Description": "LOC_CIVILIZATION_ARMAGH_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_ARMAGH_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_GRANADA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_GRANADA",
+        "Description": "LOC_CIVILIZATION_GRANADA_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_GRANADA_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_MUSCAT_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_MUSCAT",
+        "Description": "LOC_CIVILIZATION_MUSCAT_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_MUSCAT_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_MITLA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_PALENQUE",
+        "Description": "LOC_CIVILIZATION_MITLA_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_MITLA_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_POLAND_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_POLAND",
+        "Description": "LOC_CIVILIZATION_POLAND_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_POLAND_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_NUBIA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_NUBIA",
+        "Description": "LOC_CIVILIZATION_NUBIA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_AFRICAN",
+        "Name": "LOC_CIVILIZATION_NUBIA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_GRAN_COLOMBIA",
+        "Description": "LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_SOUTHAM",
+        "Name": "LOC_CIVILIZATION_GRAN_COLOMBIA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_MAYA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "Description": "LOC_CIVILIZATION_MAYA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_SOUTHAM",
+        "Name": "LOC_CIVILIZATION_MAYA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_CAGUANA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_CAGUANA",
+        "Description": "LOC_CIVILIZATION_CAGUANA_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_CAGUANA_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_HUNZA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_HUNZA",
+        "Description": "LOC_CIVILIZATION_HUNZA_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_HUNZA_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_LAHORE_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_LAHORE",
+        "Description": "LOC_CIVILIZATION_LAHORE_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_LAHORE_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_SINGAPORE_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_SINGAPORE",
+        "Description": "LOC_CIVILIZATION_SINGAPORE_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_SINGAPORE_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_TARUGA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_TARUGA",
+        "Description": "LOC_CIVILIZATION_TARUGA_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_TARUGA_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_VATICAN_CITY_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_VATICAN_CITY",
+        "Description": "LOC_CIVILIZATION_VATICAN_CITY_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_VATICAN_CITY_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_MACEDON_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_MACEDON",
+        "Description": "LOC_CIVILIZATION_MACEDON_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_MACEDON_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_PERSIA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_PERSIA",
+        "Description": "LOC_CIVILIZATION_PERSIA_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_PERSIA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_AUSTRALIA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_AUSTRALIA",
+        "Description": "LOC_CIVILIZATION_AUSTRALIA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_EURO",
+        "Name": "LOC_CIVILIZATION_AUSTRALIA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_CREE_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_CREE",
+        "Description": "LOC_CIVILIZATION_CREE_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_SOUTHAM",
+        "Name": "LOC_CIVILIZATION_CREE_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_GEORGIA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_GEORGIA",
+        "Description": "LOC_CIVILIZATION_GEORGIA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_SOUTHAM",
+        "Name": "LOC_CIVILIZATION_GEORGIA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_KOREA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "Description": "LOC_CIVILIZATION_KOREA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_ASIAN",
+        "Name": "LOC_CIVILIZATION_KOREA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_MAPUCHE_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_MAPUCHE",
+        "Description": "LOC_CIVILIZATION_MAPUCHE_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_SOUTHAM",
+        "Name": "LOC_CIVILIZATION_MAPUCHE_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_MONGOLIA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_MONGOLIA",
+        "Description": "LOC_CIVILIZATION_MONGOLIA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_ASIAN",
+        "Name": "LOC_CIVILIZATION_MONGOLIA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_NETHERLANDS_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_NETHERLANDS",
+        "Description": "LOC_CIVILIZATION_NETHERLANDS_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_EURO",
+        "Name": "LOC_CIVILIZATION_NETHERLANDS_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_SCOTLAND_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_SCOTLAND",
+        "Description": "LOC_CIVILIZATION_SCOTLAND_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_EURO",
+        "Name": "LOC_CIVILIZATION_SCOTLAND_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_ZULU_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_ZULU",
+        "Description": "LOC_CIVILIZATION_ZULU_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_AFRICAN",
+        "Name": "LOC_CIVILIZATION_ZULU_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_ANTIOCH_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_ANTIOCH",
+        "Description": "LOC_CIVILIZATION_ANTIOCH_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_ANTIOCH_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_BABYLON_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_BABYLON",
+        "Description": "LOC_CIVILIZATION_BABYLON_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_BABYLON_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_FREE_CITIES_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_FREE_CITIES",
+        "Description": "LOC_CIVILIZATION_FREE_CITIES_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_FREE_CITIES_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FREE_CITIES"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "Description": "LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_AFRICAN",
+        "Name": "LOC_CIVILIZATION_ETHIOPIA_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_BABYLON_STK",
+        "Description": "LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_MEDIT",
+        "Name": "LOC_CIVILIZATION_BABYLON_STK_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_AYUTTHAYA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_AYUTTHAYA",
+        "Description": "LOC_CIVILIZATION_AYUTTHAYA_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_AYUTTHAYA_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_CHINGUETTI_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_CHINGUETTI",
+        "Description": "LOC_CIVILIZATION_CHINGUETTI_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_CHINGUETTI_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_JOHANNESBURG_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_JOHANNESBURG",
+        "Description": "LOC_CIVILIZATION_JOHANNESBURG_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_JOHANNESBURG_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_NALANDA_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_NALANDA",
+        "Description": "LOC_CIVILIZATION_NALANDA_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_NALANDA_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_SAMARKAND_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_SAMARKAND",
+        "Description": "LOC_CIVILIZATION_SAMARKAND_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_SAMARKAND_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_WOLIN_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_WOLIN",
+        "Description": "LOC_CIVILIZATION_WOLIN_DESCRIPTION",
+        "Ethnicity": null,
+        "Name": "LOC_CIVILIZATION_WOLIN_NAME",
+        "RandomCityNameDepth": 1,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_BYZANTIUM",
+        "Description": "LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_EURO",
+        "Name": "LOC_CIVILIZATION_BYZANTIUM_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_GAUL_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_GAUL",
+        "Description": "LOC_CIVILIZATION_GAUL_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_EURO",
+        "Name": "LOC_CIVILIZATION_GAUL_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_VIETNAM_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_VIETNAM",
+        "Description": "LOC_CIVILIZATION_VIETNAM_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_ASIAN",
+        "Name": "LOC_CIVILIZATION_VIETNAM_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Adjective": "LOC_CIVILIZATION_PORTUGAL_ADJECTIVE",
+        "CivilizationType": "CIVILIZATION_PORTUGAL",
+        "Description": "LOC_CIVILIZATION_PORTUGAL_DESCRIPTION",
+        "Ethnicity": "ETHNICITY_EURO",
+        "Name": "LOC_CIVILIZATION_PORTUGAL_NAME",
+        "RandomCityNameDepth": 10,
+        "StartingCivilizationLevelType": "CIVILIZATION_LEVEL_FULL_CIV"
+    }
+]

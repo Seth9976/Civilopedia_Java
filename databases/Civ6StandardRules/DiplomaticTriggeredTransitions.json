@@ -1,0 +1,86 @@
+[
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "TransitionState": "DIPLO_STATE_WAR",
+        "TriggerType": "GO_TO_WAR"
+    },
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "TransitionState": "DIPLO_STATE_UNFRIENDLY",
+        "TriggerType": "MAKE_PEACE"
+    },
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "TransitionState": "DIPLO_STATE_DENOUNCED",
+        "TriggerType": "DENOUNCE"
+    },
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "TransitionState": "DIPLO_STATE_UNFRIENDLY",
+        "TriggerType": "DENOUNCE_EXPIRES"
+    },
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "TransitionState": "DIPLO_STATE_DECLARED_FRIEND",
+        "TriggerType": "DECLARE_FRIENDSHIP"
+    },
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "TransitionState": "DIPLO_STATE_FRIENDLY",
+        "TriggerType": "DECLARE_FRIENDSHIP_EXPIRES"
+    },
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "TransitionState": "DIPLO_STATE_ALLIED",
+        "TriggerType": "DECLARE_ALLIANCE"
+    },
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "TransitionState": "DIPLO_STATE_FRIENDLY",
+        "TriggerType": "LEAVE_ALLIANCE"
+    },
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_CITY_STATE",
+        "TransitionState": "DIPLO_STATE_WAR_WITH_MINOR",
+        "TriggerType": "GO_TO_WAR"
+    },
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_CITY_STATE",
+        "TransitionState": "DIPLO_STATE_NO_INFLUENCE",
+        "TriggerType": "MAKE_PEACE"
+    },
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_CITY_STATE",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "TransitionState": "DIPLO_STATE_WAR_WITH_MAJOR",
+        "TriggerType": "GO_TO_WAR"
+    },
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_CITY_STATE",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_FULL_CIV",
+        "TransitionState": "DIPLO_STATE_AWARE",
+        "TriggerType": "MAKE_PEACE"
+    },
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_CITY_STATE",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_CITY_STATE",
+        "TransitionState": "DIPLO_STATE_MINOR_MINOR_WAR",
+        "TriggerType": "GO_TO_WAR"
+    },
+    {
+        "CivilizationLevel": "CIVILIZATION_LEVEL_CITY_STATE",
+        "OpponentCivilizationLevel": "CIVILIZATION_LEVEL_CITY_STATE",
+        "TransitionState": "DIPLO_STATE_MINOR_MINOR",
+        "TriggerType": "MAKE_PEACE"
+    }
+]

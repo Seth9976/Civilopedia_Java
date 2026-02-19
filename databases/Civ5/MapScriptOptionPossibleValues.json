@@ -1,0 +1,4746 @@
+[
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Archipelago.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Continents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "4",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_OCEAN",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MOUNTAINS",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_START_TOGETHER",
+        "OptionID": "6",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_START_SEPERATED",
+        "OptionID": "6",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Four_Corners.lua",
+        "Name": "TXT_KEY_MAP_OPTION_START_ANYWHERE",
+        "OptionID": "6",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "3",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_RIDGELINES_HELP",
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RIDGELINES",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_SCATTERED_HELP",
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SCATTERED",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_RANGES_HELP",
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANGES",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_CLUSTERS_HELP",
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_CLUSTERS",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_DENSE",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THIN",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_SMALL_LAKES_HELP",
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SMALL_LAKES",
+        "OptionID": "6",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_LARGE_LAKES_HELP",
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LARGE_LAKES",
+        "OptionID": "6",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_SEAS_HELP",
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SEAS",
+        "OptionID": "6",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Highlands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "6",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "6",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_WIDE_CONTINENTS_HELP",
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WIDE_CONTINENTS",
+        "OptionID": "6",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": "TXT_KEY_MAP_NARROW_CONTINENTS_HELP",
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NARROW_CONTINENTS",
+        "OptionID": "6",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": "TXT_KEY_MAP_ISLANDS_HELP",
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ISLANDS",
+        "OptionID": "6",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": "TXT_KEY_MAP_SMALL_ISLANDS_HELP",
+        "FileName": "Assets\\Maps\\Ice_Age.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SMALL_ISLANDS",
+        "OptionID": "6",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "4",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\InlandSea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "4",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_SMALL_LAKES_HELP",
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SMALL_LAKES",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_LARGE_LAKES_HELP",
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LARGE_LAKES",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_SEAS_HELP",
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SEAS",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Lakes.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "4",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_START_TOGETHER",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\North_vs_South.lua",
+        "Name": "TXT_KEY_MAP_OPTION_START_ANYWHERE",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Oval.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Pangaea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": "TXT_KEY_MAP_SCRIPT_SKIRMISH_GRASSLANDS_HELP",
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_SCRIPT_SKIRMISH_GRASSLANDS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_SCRIPT_SKIRMISH_PLAINS_HELP",
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_SCRIPT_SKIRMISH_PLAINS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": "TXT_KEY_MAP_SCRIPT_SKIRMISH_FOREST_HELP",
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_SCRIPT_SKIRMISH_FOREST",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": "TXT_KEY_MAP_SCRIPT_SKIRMISH_JUNGLE_HELP",
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_SCRIPT_SKIRMISH_JUNGLE",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_NATURAL_HELP",
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NATURAL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_PRESSED_HELP",
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_OPTION_PRESSED",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_SOLID_HELP",
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SOLID",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_PLOTS_WIDE_TWO_HELP",
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_OPTION_PLOTS_WIDE_TWO",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_PLOTS_WIDE_THREE_HELP",
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_OPTION_PLOTS_WIDE_THREE",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_PLOTS_WIDE_FOUR_HELP",
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_OPTION_PLOTS_WIDE_FOUR",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Ring.lua",
+        "Name": "TXT_KEY_MAP_OPTION_BALANCED_RESOURCES",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_SCRIPT_SKIRMISH_GRASSLANDS_HELP",
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_SCRIPT_SKIRMISH_GRASSLANDS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_SCRIPT_SKIRMISH_PLAINS_HELP",
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_SCRIPT_SKIRMISH_PLAINS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": "TXT_KEY_MAP_SCRIPT_SKIRMISH_FOREST_HELP",
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_SCRIPT_SKIRMISH_FOREST",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": "TXT_KEY_MAP_SCRIPT_SKIRMISH_JUNGLE_HELP",
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_SCRIPT_SKIRMISH_JUNGLE",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": "TXT_KEY_MAP_SCRIPT_SKIRMISH_DESERT_HELP",
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_SCRIPT_SKIRMISH_DESERT",
+        "OptionID": "1",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": "TXT_KEY_MAP_SCRIPT_SKIRMISH_TUNDRA_HELP",
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_SCRIPT_SKIRMISH_TUNDRA",
+        "OptionID": "1",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": "TXT_KEY_MAP_SCRIPT_SKIRMISH_HILLS_HELP",
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_SCRIPT_SKIRMISH_HILLS",
+        "OptionID": "1",
+        "SortIndex": 7,
+        "Value": 7
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_GLOBAL_CLIMATE_HELP",
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_OPTION_GLOBAL_CLIMATE",
+        "OptionID": "1",
+        "SortIndex": 8,
+        "Value": 8
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 9,
+        "Value": 9
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_RIVERS_HELP",
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RIVERS",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_SMALL_LAKES_HELP",
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SMALL_LAKES",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_SEAS_HELP",
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SEAS",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_RIVERS_AND_SEAS_HELP",
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RIVERS_AND_SEAS",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": "TXT_KEY_MAP_OPTION_DRY_HELP",
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_OPTION_DRY",
+        "OptionID": "2",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Skirmish.lua",
+        "Name": "TXT_KEY_MAP_OPTION_BALANCED_RESOURCES",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\SmallContinents.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "4",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\Terra.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\TinyIslands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "4",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_START_TOGETHER",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\Maps\\West_vs_East.lua",
+        "Name": "TXT_KEY_MAP_OPTION_START_ANYWHERE",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\ContinentsPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Donut.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HILLS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Donut.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MOUNTAINS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Donut.lua",
+        "Name": "TXT_KEY_MAP_OPTION_OCEAN",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Donut.lua",
+        "Name": "TXT_KEY_MAP_OPTION_DESERT",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Donut.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "1",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Donut.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\PangaeaPlus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "3",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_PANGAEA",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_CONTINENTS",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps\\Maps\\Sandstorm.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "2",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_WORLD_LARGE",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Oceania.lua",
+        "Name": "TXT_KEY_WORLD_SMALL",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\DLC_SP_Maps_2\\Maps\\Script_Small_Continents_Plus.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": "TXT_KEY_MAP_PANGAEA_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_PANGAEA",
+        "OptionID": "6",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_CONTINENTS_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LARGE_CONTINENTS",
+        "OptionID": "6",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": "TXT_KEY_MAP_SMALL_CONTINENTS_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SMALL_CONTINENTS",
+        "OptionID": "6",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": "TXT_KEY_MAP_ISLANDS_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ISLANDS",
+        "OptionID": "6",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Arborea.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "6",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "3",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Boreal.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": "TXT_KEY_MAP_PANGAEA_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_PANGAEA",
+        "OptionID": "6",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_CONTINENTS_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LARGE_CONTINENTS",
+        "OptionID": "6",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Frontier.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "6",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "4",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NO_TINY_ISLANDS",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FEW_TINY_ISLANDS",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_VARIOUS_TINY_ISLANDS",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MANY_TINY_ISLANDS",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_START_TOGETHER",
+        "OptionID": "6",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Hemispheres.lua",
+        "Name": "TXT_KEY_MAP_OPTION_START_ANYWHERE",
+        "OptionID": "6",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "4",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Large_Islands.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_COOL",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_TEMPERATE",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HOT",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_HIGH",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": "TXT_KEY_MAP_PANGAEA_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_PANGAEA",
+        "OptionID": "6",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_CONTINENTS_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LARGE_CONTINENTS",
+        "OptionID": "6",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": "TXT_KEY_MAP_SMALL_CONTINENTS_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SMALL_CONTINENTS",
+        "OptionID": "6",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": "TXT_KEY_MAP_ISLANDS_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ISLANDS",
+        "OptionID": "6",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Rainforest.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "6",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS",
+        "OptionID": "1",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "1",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ARID",
+        "OptionID": "2",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_NORMAL",
+        "OptionID": "2",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_WET",
+        "OptionID": "2",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "2",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LOW",
+        "OptionID": "3",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_MEDIUM",
+        "OptionID": "3",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "3",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SPARSE",
+        "OptionID": "4",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STANDARD",
+        "OptionID": "4",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ABUNDANT",
+        "OptionID": "4",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LEGENDARY_START",
+        "OptionID": "4",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE",
+        "OptionID": "4",
+        "SortIndex": 5,
+        "Value": 5
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "4",
+        "SortIndex": 6,
+        "Value": 6
+    },
+    {
+        "Description": "TXT_KEY_MAP_PANGAEA_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_PANGAEA",
+        "OptionID": "5",
+        "SortIndex": 1,
+        "Value": 1
+    },
+    {
+        "Description": "TXT_KEY_MAP_CONTINENTS_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_LARGE_CONTINENTS",
+        "OptionID": "5",
+        "SortIndex": 2,
+        "Value": 2
+    },
+    {
+        "Description": "TXT_KEY_MAP_SMALL_CONTINENTS_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_SMALL_CONTINENTS",
+        "OptionID": "5",
+        "SortIndex": 3,
+        "Value": 3
+    },
+    {
+        "Description": "TXT_KEY_MAP_ISLANDS_HELP",
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_ISLANDS",
+        "OptionID": "5",
+        "SortIndex": 4,
+        "Value": 4
+    },
+    {
+        "Description": null,
+        "FileName": "Assets\\DLC\\Expansion\\Maps\\Tilted_Axis.lua",
+        "Name": "TXT_KEY_MAP_OPTION_RANDOM",
+        "OptionID": "5",
+        "SortIndex": 5,
+        "Value": 5
+    }
+]

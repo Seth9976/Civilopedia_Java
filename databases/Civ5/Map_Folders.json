@@ -1,0 +1,34 @@
+[
+    {
+        "Description": "TXT_KEY_MAP_FOLDER_ADDITIONAL_HELP",
+        "IconAtlas": "CIV_COLOR_ATLAS",
+        "IconIndex": 4,
+        "ParentType": null,
+        "Title": "TXT_KEY_MAP_FOLDER_ADDITIONAL",
+        "Type": "MAP_FOLDER_ADDITIONAL"
+    },
+    {
+        "Description": "TXT_KEY_MAP_FOLDER_DLC_1_DESC",
+        "IconAtlas": "CIV_COLOR_ATLAS",
+        "IconIndex": 1,
+        "ParentType": null,
+        "Title": "TXT_KEY_MAP_FOLDER_DLC_1_TITLE",
+        "Type": "MAP_FOLDER_SP_DLC_1"
+    },
+    {
+        "Description": "TXT_KEY_MAP_FOLDER_DLC_2_DESC",
+        "IconAtlas": "CIV_COLOR_ATLAS",
+        "IconIndex": 1,
+        "ParentType": null,
+        "Title": "TXT_KEY_MAP_FOLDER_DLC_2_TITLE",
+        "Type": "MAP_FOLDER_SP_DLC_2"
+    },
+    {
+        "Description": "TXT_KEY_MAP_FOLDER_DLC_3_DESC",
+        "IconAtlas": "CIV_COLOR_ATLAS",
+        "IconIndex": 1,
+        "ParentType": null,
+        "Title": "TXT_KEY_MAP_FOLDER_DLC_3_TITLE",
+        "Type": "MAP_FOLDER_SP_DLC_3"
+    }
+]

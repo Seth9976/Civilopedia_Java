@@ -1,0 +1,17 @@
+[
+    {
+        "ProjectType": "PROJECT_ORBITAL_LASER",
+        "ResourceType": "RESOURCE_ALUMINUM",
+        "StartProductionCost": 30
+    },
+    {
+        "ProjectType": "PROJECT_BUILD_NUCLEAR_DEVICE",
+        "ResourceType": "RESOURCE_URANIUM",
+        "StartProductionCost": 10
+    },
+    {
+        "ProjectType": "PROJECT_BUILD_THERMONUCLEAR_DEVICE",
+        "ResourceType": "RESOURCE_URANIUM",
+        "StartProductionCost": 20
+    }
+]

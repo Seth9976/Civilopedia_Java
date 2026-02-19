@@ -1,0 +1,58 @@
+[
+    {
+        "FeatureClassType": null,
+        "FeatureType": null,
+        "ID": "DEFAULT",
+        "RiverType": "RIVER_MINOR",
+        "TerrainType": null
+    },
+    {
+        "FeatureClassType": null,
+        "FeatureType": null,
+        "ID": "DEFAULT",
+        "RiverType": "RIVER_NAVIGABLE",
+        "TerrainType": null
+    },
+    {
+        "FeatureClassType": null,
+        "FeatureType": null,
+        "ID": "DEFAULT",
+        "RiverType": null,
+        "TerrainType": "TERRAIN_HILL"
+    },
+    {
+        "FeatureClassType": null,
+        "FeatureType": null,
+        "ID": "DEFAULT",
+        "RiverType": null,
+        "TerrainType": "TERRAIN_MOUNTAIN"
+    },
+    {
+        "FeatureClassType": null,
+        "FeatureType": null,
+        "ID": "DEFAULT",
+        "RiverType": null,
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "FeatureClassType": null,
+        "FeatureType": null,
+        "ID": "DEFAULT",
+        "RiverType": null,
+        "TerrainType": "TERRAIN_OCEAN"
+    },
+    {
+        "FeatureClassType": null,
+        "FeatureType": "FEATURE_MARSH",
+        "ID": "DEFAULT",
+        "RiverType": null,
+        "TerrainType": null
+    },
+    {
+        "FeatureClassType": "FEATURE_CLASS_VEGETATED",
+        "FeatureType": null,
+        "ID": "DEFAULT",
+        "RiverType": null,
+        "TerrainType": null
+    }
+]

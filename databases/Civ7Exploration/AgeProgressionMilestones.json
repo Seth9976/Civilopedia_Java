@@ -1,0 +1,86 @@
+[
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_1",
+        "AgeProgressionMilestoneType": "EXPLORATION_SCIENCE_MILESTONE_1",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_SCIENCE",
+        "RequiredPathPoints": 1
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_2",
+        "AgeProgressionMilestoneType": "EXPLORATION_SCIENCE_MILESTONE_2",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_SCIENCE",
+        "RequiredPathPoints": 3
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_3",
+        "AgeProgressionMilestoneType": "EXPLORATION_SCIENCE_MILESTONE_3",
+        "FinalMilestone": 1,
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_SCIENCE",
+        "RequiredPathPoints": 5
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_1",
+        "AgeProgressionMilestoneType": "EXPLORATION_MILITARY_MILESTONE_1",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_MILITARY",
+        "RequiredPathPoints": 4
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_2",
+        "AgeProgressionMilestoneType": "EXPLORATION_MILITARY_MILESTONE_2",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_MILITARY",
+        "RequiredPathPoints": 8
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_3",
+        "AgeProgressionMilestoneType": "EXPLORATION_MILITARY_MILESTONE_3",
+        "FinalMilestone": 1,
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_MILITARY",
+        "RequiredPathPoints": 12
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_1",
+        "AgeProgressionMilestoneType": "EXPLORATION_CULTURE_MILESTONE_1",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_CULTURE",
+        "RequiredPathPoints": 6
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_2",
+        "AgeProgressionMilestoneType": "EXPLORATION_CULTURE_MILESTONE_2",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_CULTURE",
+        "RequiredPathPoints": 9
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_3",
+        "AgeProgressionMilestoneType": "EXPLORATION_CULTURE_MILESTONE_3",
+        "FinalMilestone": 1,
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_CULTURE",
+        "RequiredPathPoints": 12
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_1",
+        "AgeProgressionMilestoneType": "EXPLORATION_ECONOMIC_MILESTONE_1",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_ECONOMIC",
+        "RequiredPathPoints": 10
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_2",
+        "AgeProgressionMilestoneType": "EXPLORATION_ECONOMIC_MILESTONE_2",
+        "FinalMilestone": 0,
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_ECONOMIC",
+        "RequiredPathPoints": 20
+    },
+    {
+        "AgeProgressionEventType": "AGE_PROGRESSION_PLAYER_MILESTONE_3",
+        "AgeProgressionMilestoneType": "EXPLORATION_ECONOMIC_MILESTONE_3",
+        "FinalMilestone": 1,
+        "LegacyPathType": "LEGACY_PATH_EXPLORATION_ECONOMIC",
+        "RequiredPathPoints": 30
+    }
+]

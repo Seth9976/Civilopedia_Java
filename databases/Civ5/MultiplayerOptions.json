@@ -1,0 +1,30 @@
+[
+    {
+        "Default": 1,
+        "Description": "TXT_KEY_MP_OPTION_TAKEOVER_AI",
+        "Help": "TXT_KEY_MP_OPTION_TAKEOVER_AI_HELP",
+        "ID": 1,
+        "Type": "MPOPTION_TAKEOVER_AI"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_MP_OPTION_SHUFFLE_TEAMS",
+        "Help": "TXT_KEY_MP_OPTION_SHUFFLE_TEAMS_HELP",
+        "ID": 2,
+        "Type": "MPOPTION_SHUFFLE_TEAMS"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_MP_OPTION_ANONYMOUS",
+        "Help": "TXT_KEY_MP_OPTION_ANONYMOUS_HELP",
+        "ID": 3,
+        "Type": "MPOPTION_ANONYMOUS"
+    },
+    {
+        "Default": 0,
+        "Description": "TXT_KEY_MP_OPTION_TURN_TIMER",
+        "Help": "TXT_KEY_MP_OPTION_TURN_TIMER_HELP",
+        "ID": 4,
+        "Type": "MPOPTION_TURN_TIMER"
+    }
+]

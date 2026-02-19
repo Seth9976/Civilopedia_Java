@@ -1,0 +1,128 @@
+[
+    {
+        "Initial": null,
+        "Leader": "ANY",
+        "Name": "NEUTRAL_IDLE",
+        "Sequence": "NEUTRAL_IDLE"
+    },
+    {
+        "Initial": "NEUTRAL_IDLE",
+        "Leader": "ANY",
+        "Name": "NEUTRAL_NEGATIVE",
+        "Sequence": "NEUTRAL_NEGATIVE;NEUTRAL_IDLE"
+    },
+    {
+        "Initial": "NEUTRAL_IDLE",
+        "Leader": "ANY",
+        "Name": "NEUTRAL_POSITIVE",
+        "Sequence": "NEUTRAL_POSITIVE;NEUTRAL_IDLE"
+    },
+    {
+        "Initial": "NEUTRAL_IDLE",
+        "Leader": "ANY",
+        "Name": "NEUTRAL_TO_UNHAPPY",
+        "Sequence": "TO_UNHAPPY;UNHAPPY_IDLE"
+    },
+    {
+        "Initial": "UNHAPPY_IDLE",
+        "Leader": "ANY",
+        "Name": "UNHAPPY_TO_NEUTRAL",
+        "Sequence": "TO_NEUTRAL;NEUTRAL_IDLE"
+    },
+    {
+        "Initial": "NEUTRAL_IDLE",
+        "Leader": "ANY",
+        "Name": "NEUTRAL_TO_HAPPY",
+        "Sequence": "TO_HAPPY;HAPPY_IDLE"
+    },
+    {
+        "Initial": "HAPPY_IDLE",
+        "Leader": "ANY",
+        "Name": "HAPPY_TO_NEUTRAL",
+        "Sequence": "TO_NEUTRAL;NEUTRAL_IDLE"
+    },
+    {
+        "Initial": null,
+        "Leader": "ANY",
+        "Name": "HAPPY_IDLE",
+        "Sequence": "HAPPY_IDLE"
+    },
+    {
+        "Initial": "HAPPY_IDLE",
+        "Leader": "ANY",
+        "Name": "HAPPY_NEGATIVE",
+        "Sequence": "HAPPY_NEGATIVE;HAPPY_IDLE"
+    },
+    {
+        "Initial": "HAPPY_IDLE",
+        "Leader": "ANY",
+        "Name": "HAPPY_POSITIVE",
+        "Sequence": "HAPPY_POSITIVE;HAPPY_IDLE"
+    },
+    {
+        "Initial": null,
+        "Leader": "ANY",
+        "Name": "UNHAPPY_IDLE",
+        "Sequence": "UNHAPPY_IDLE"
+    },
+    {
+        "Initial": "UNHAPPY_IDLE",
+        "Leader": "ANY",
+        "Name": "UNHAPPY_NEGATIVE",
+        "Sequence": "UNHAPPY_NEGATIVE;UNHAPPY_IDLE"
+    },
+    {
+        "Initial": "UNHAPPY_IDLE",
+        "Leader": "ANY",
+        "Name": "UNHAPPY_POSITIVE",
+        "Sequence": "UNHAPPY_POSITIVE;UNHAPPY_IDLE"
+    },
+    {
+        "Initial": "NEUTRAL_IDLE",
+        "Leader": "ANY",
+        "Name": "NEUTRAL_GREETING",
+        "Sequence": "NEUTRAL_POSITIVE;NEUTRAL_IDLE"
+    },
+    {
+        "Initial": "$(MOOD)_IDLE",
+        "Leader": "ANY",
+        "Name": "ENRAGED",
+        "Sequence": "ENRAGED"
+    },
+    {
+        "Initial": null,
+        "Leader": "ANY",
+        "Name": "KUDOS",
+        "Sequence": "KUDOS"
+    },
+    {
+        "Initial": null,
+        "Leader": "ANY",
+        "Name": "WARNING",
+        "Sequence": "WARNING"
+    },
+    {
+        "Initial": null,
+        "Leader": "ANY",
+        "Name": "DECLARE_WAR_FROM_HUMAN",
+        "Sequence": "DECLARE_WAR_FROM_HUMAN"
+    },
+    {
+        "Initial": null,
+        "Leader": "ANY",
+        "Name": "DECLARE_WAR_FROM_AI",
+        "Sequence": "DECLARE_WAR_FROM_AI"
+    },
+    {
+        "Initial": null,
+        "Leader": "ANY",
+        "Name": "FIRST_MEET",
+        "Sequence": "FIRST_MEET"
+    },
+    {
+        "Initial": null,
+        "Leader": "ANY",
+        "Name": "DEFEAT",
+        "Sequence": "DEFEAT"
+    }
+]

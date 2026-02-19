@@ -1,0 +1,567 @@
+[
+    {
+        "BuildingType": "BUILDING_PALACE",
+        "Yield": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_PALACE",
+        "Yield": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_PALACE",
+        "Yield": 3,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_PAPER_MAKER",
+        "Yield": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_GRANARY",
+        "Yield": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_WATERMILL",
+        "Yield": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_WATERMILL",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_WINDMILL",
+        "Yield": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_FLOATING_GARDENS",
+        "Yield": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_FLOATING_GARDENS",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_NATIONAL_TREASURY",
+        "Yield": 4,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_IRONWORKS",
+        "Yield": 8,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_NATIONAL_COLLEGE",
+        "Yield": 3,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_OXFORD_UNIVERSITY",
+        "Yield": 3,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "Yield": 3,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_MARKET",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_BAZAAR",
+        "Yield": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_SATRAPS_COURT",
+        "Yield": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_BANK",
+        "Yield": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_STOCK_EXCHANGE",
+        "Yield": 3,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_WORKSHOP",
+        "Yield": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_LONGHOUSE",
+        "Yield": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_FACTORY",
+        "Yield": 4,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_SOLAR_PLANT",
+        "Yield": 5,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_NUCLEAR_PLANT",
+        "Yield": 5,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_HOSPITAL",
+        "Yield": 5,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_PUBLIC_SCHOOL",
+        "Yield": 3,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_LABORATORY",
+        "Yield": 4,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_STONE_WORKS",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_BIG_BEN",
+        "Yield": 4,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_MACHU_PICHU",
+        "Yield": 5,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSUS",
+        "Yield": 5,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_HANGING_GARDEN",
+        "Yield": 6,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_MUGHAL_FORT",
+        "Yield": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_WAT",
+        "Yield": 3,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MONUMENT",
+        "Yield": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_OPERA_HOUSE",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MUSEUM",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_BROADCAST_TOWER",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_PALACE",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_HEROIC_EPIC",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_NATIONAL_COLLEGE",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_NATIONAL_EPIC",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_CIRCUS_MAXIMUS",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_OXFORD_UNIVERSITY",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_HERMITAGE",
+        "Yield": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIGHTHOUSE",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_PYRAMID",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSUS",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "Yield": 3,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_HANGING_GARDEN",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_WALL",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_ANGKOR_WAT",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_CHICHEN_ITZA",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_PORCELAIN_TOWER",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_HIMEJI_CASTLE",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_SISTINE_CHAPEL",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_KREMLIN",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_PALACE",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_TAJ_MAHAL",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_BIG_BEN",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_LOUVRE",
+        "Yield": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_BRANDENBURG_GATE",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_LIBERTY",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_EIFFEL_TOWER",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_PENTAGON",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MONASTERY",
+        "Yield": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MONASTERY",
+        "Yield": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_MUD_PYRAMID_MOSQUE",
+        "Yield": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_MUD_PYRAMID_MOSQUE",
+        "Yield": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_BURIAL_TOMB",
+        "Yield": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE",
+        "Yield": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_STONEHENGE",
+        "Yield": 5,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_HAGIA_SOPHIA",
+        "Yield": 3,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_MACHU_PICHU",
+        "Yield": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_NOTRE_DAME",
+        "Yield": 4,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_CRISTO_REDENTOR",
+        "Yield": 5,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_SPACESHIP_FACTORY",
+        "Yield": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_TEMPLE_ARTEMIS",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MAUSOLEUM_HALICARNASSUS",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_COFFEE_HOUSE",
+        "Yield": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_MAYA_PYRAMID",
+        "Yield": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_MAYA_PYRAMID",
+        "Yield": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_ZEUS",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_AMPHITHEATER",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_SHRINE",
+        "Yield": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_CATHEDRAL",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_CATHEDRAL",
+        "Yield": 1,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_MOSQUE",
+        "Yield": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MOSQUE",
+        "Yield": 3,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_PAGODA",
+        "Yield": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_PAGODA",
+        "Yield": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_STELE",
+        "Yield": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_STELE",
+        "Yield": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_CEILIDH_HALL",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_LEANING_TOWER",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MOSQUE_OF_DJENNE",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_MOSQUE_OF_DJENNE",
+        "Yield": 3,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_NEUSCHWANSTEIN",
+        "Yield": 6,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_NEUSCHWANSTEIN",
+        "Yield": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_PETRA",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_GRAND_TEMPLE",
+        "Yield": 8,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_TERRACOTTA_ARMY",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_CANDI",
+        "Yield": 2,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_UFFIZI",
+        "Yield": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_GLOBE_THEATER",
+        "Yield": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_BROADWAY",
+        "Yield": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_BOROBUDUR",
+        "Yield": 5,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BuildingType": "BUILDING_PARTHENON",
+        "Yield": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_RED_FORT",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_HANSE",
+        "Yield": 2,
+        "YieldType": "YIELD_GOLD"
+    }
+]

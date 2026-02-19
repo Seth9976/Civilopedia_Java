@@ -1,0 +1,23 @@
+[
+    {
+        "BaseResourceCapacity": 1,
+        "LandRouteRange": 10,
+        "SeaRouteRange": 30,
+        "StartRoutesAtDistance": 0,
+        "Type": "TRADE_SYSTEM_PARAMSET_ANTIQUITY"
+    },
+    {
+        "BaseResourceCapacity": 1,
+        "LandRouteRange": 15,
+        "SeaRouteRange": 45,
+        "StartRoutesAtDistance": 0,
+        "Type": "TRADE_SYSTEM_PARAMSET_EXPLORATION"
+    },
+    {
+        "BaseResourceCapacity": 1,
+        "LandRouteRange": 20,
+        "SeaRouteRange": 60,
+        "StartRoutesAtDistance": 1,
+        "Type": "TRADE_SYSTEM_PARAMSET_MODERN"
+    }
+]

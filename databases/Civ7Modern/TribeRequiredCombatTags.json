@@ -1,0 +1,34 @@
+[
+    {
+        "CombatTag": "UNIT_CLASS_RECON",
+        "TribeTagSet": "DEFAULT_SCOUT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_COMBAT",
+        "TribeTagSet": "DEFAULT_DEFENDER_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_MELEE",
+        "TribeTagSet": "DEFAULT_DEFENDER_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_COMBAT",
+        "TribeTagSet": "DEFAULT_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_ARMY_COMMANDER",
+        "TribeTagSet": "DEFAULT_COMMANDER_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_FLEET_COMMANDER",
+        "TribeTagSet": "NAVAL_COMMANDER_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_NAVAL",
+        "TribeTagSet": "NAVAL_COMBAT_TAGS"
+    },
+    {
+        "CombatTag": "UNIT_CLASS_COMBAT",
+        "TribeTagSet": "CRISIS_COMBAT_UNITS"
+    }
+]

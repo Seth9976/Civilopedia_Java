@@ -1,0 +1,68 @@
+[
+    {
+        "Amount": 20,
+        "PrereqTech": "TECH_IRRIGATION",
+        "ResourceType": "RESOURCE_BANANAS",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 20,
+        "PrereqTech": "TECH_ANIMAL_HUSBANDRY",
+        "ResourceType": "RESOURCE_CATTLE",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 40,
+        "PrereqTech": "TECH_MINING",
+        "ResourceType": "RESOURCE_COPPER",
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "Amount": 40,
+        "PrereqTech": "TECH_CELESTIAL_NAVIGATION",
+        "ResourceType": "RESOURCE_CRABS",
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "Amount": 20,
+        "PrereqTech": "TECH_ANIMAL_HUSBANDRY",
+        "ResourceType": "RESOURCE_DEER",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 20,
+        "PrereqTech": "TECH_CELESTIAL_NAVIGATION",
+        "ResourceType": "RESOURCE_FISH",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 20,
+        "PrereqTech": "TECH_POTTERY",
+        "ResourceType": "RESOURCE_RICE",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 20,
+        "PrereqTech": "TECH_ANIMAL_HUSBANDRY",
+        "ResourceType": "RESOURCE_SHEEP",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 20,
+        "PrereqTech": "TECH_MASONRY",
+        "ResourceType": "RESOURCE_STONE",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "Amount": 20,
+        "PrereqTech": "TECH_POTTERY",
+        "ResourceType": "RESOURCE_WHEAT",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "Amount": 40,
+        "PrereqTech": "TECH_POTTERY",
+        "ResourceType": "RESOURCE_MAIZE",
+        "YieldType": "YIELD_GOLD"
+    }
+]

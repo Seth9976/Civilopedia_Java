@@ -1,0 +1,162 @@
+[
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_UNIT_GREATPERSON",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_JACOBIN_BARRAS",
+        "ModifierId": "GREATPERSON_ADJUST_SUPPORT_EFFECT_YIELD"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_PLAYER",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_JACOBIN_BILLAUD_VARENNE",
+        "ModifierId": "GREATPERSON_ABILITY_COMBAT_URBAN"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_PLAYER",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_JACOBIN_BRISSOT",
+        "ModifierId": "GREATPERSON_ABILITY_LOW_COMBAT"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_DISTRICT_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_JACOBIN_D_AELDERS",
+        "ModifierId": "GREATPERSON_HAPPINESS_BUILDING"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_PLAYER",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_JACOBIN_DANTON",
+        "ModifierId": "GREATPERSON_GOLDEN_AGE"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_DISTRICT_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_JACOBIN_DESMOULINS",
+        "ModifierId": "GREATPERSON_HAPPINESS_QUARTERS"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_PLAYER",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_JACOBIN_GOUGES",
+        "ModifierId": "GREATPERSON_SCIENCE_QUARTERS"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_PLAYER",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_JACOBIN_MARAT",
+        "ModifierId": "GREATPERSON_CULTURE_QUARTERS"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_PLAYER",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_JACOBIN_ROBESPIERRE",
+        "ModifierId": "GREATPERSON_TRADITION"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_COMMANDER_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_JACOBIN_SAINT_JUST",
+        "ModifierId": "GREATPERSON_RENAME_COMMANDER"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_COMMANDER_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_JACOBIN_SAINT_JUST",
+        "ModifierId": "GREATPERSON_COMMANDER_HIGH_COMBAT"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_DISTRICT_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_REVOLUCIONARIO_AVILA",
+        "ModifierId": "GREATPERSON_FREE_STRONGER_SOLDADERAS"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_PLAYER",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_REVOLUCIONARIO_GUERRERO",
+        "ModifierId": "GREATPERSON_GOLDEN_AGE"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_COMMANDER_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_REVOLUCIONARIO_HERRERA",
+        "ModifierId": "GREATPERSON_COMMANDER_SOLDADERAS"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_DISTRICT_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_REVOLUCIONARIO_HIDALGO",
+        "ModifierId": "GREATPERSON_INFANTRY_URBAN"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_DISTRICT_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_REVOLUCIONARIO_HIDALGO",
+        "ModifierId": "GREATPERSON_INFANTRY_CITY_CENTER"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_COMMANDER_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_REVOLUCIONARIO_JIMENEZ",
+        "ModifierId": "GREATPERSON_CULTURE_FOR_PROMOTIONS"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_PLAYER",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_REVOLUCIONARIO_JUAREZ",
+        "ModifierId": "GREATPERSON_TRADITION_SLOT"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_COMMANDER_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_REVOLUCIONARIO_MORELOS",
+        "ModifierId": "GREATPERSON_COMMANDER_HEAL"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_COMMANDER_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_REVOLUCIONARIO_SANTA_ANNA",
+        "ModifierId": "GREATPERSON_5_PROMOTIONS"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_COMMANDER_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_REVOLUCIONARIO_VILLA",
+        "ModifierId": "GREATPERSON_COMMANDER_GOLD"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_DISTRICT_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_REVOLUCIONARIO_ZAPATA",
+        "ModifierId": "GREATPERSON_FARM_CULTURE"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_UNIT_GREATPERSON",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_UPARAT_CHAKRABONGSE",
+        "ModifierId": "GREATPERSON_PALACE_INFLUENCE"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_PLAYER",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_UPARAT_ITSARASUNTHON",
+        "ModifierId": "GREATPERSON_GOLDEN_AGE"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_DISTRICT_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_UPARAT_PHIBUN",
+        "ModifierId": "GREATPERSON_CITY_STATE_PRODUCTION"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_DISTRICT_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_UPARAT_PINKLAO",
+        "ModifierId": "GREATPERSON_CITY_STATE_CULTURE"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_CITY_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_UPARAT_PRIDI",
+        "ModifierId": "GREATPERSON_CITY_STATE_INFLUENCE"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_UNIT_GREATPERSON",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_UPARAT_RASMI",
+        "ModifierId": "GREATPERSON_CITY_STATE_TO_YOU"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_UNIT_GREATPERSON",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_UPARAT_SAKDIPHONLASEP",
+        "ModifierId": "GREATPERSON_FREE_STRONGER_CHANG_BEUN"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_COMMANDER_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_UPARAT_SENANURAK",
+        "ModifierId": "GREATPERSON_COMMANDER_CITY_STATE_COMBAT"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_DISTRICT_IN_TILE",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_UPARAT_VAJRAVUDH",
+        "ModifierId": "GREATPERSON_CITY_STATE_SCIENCE"
+    },
+    {
+        "AttachmentTargetType": "GREAT_PERSON_ACTION_ATTACHMENT_TARGET_UNIT_GREATPERSON",
+        "GreatPersonIndividualType": "GREAT_PERSON_INDIVIDUAL_UPARAT_WICHAICHAN",
+        "ModifierId": "GREATPERSON_INDEPENDENT"
+    }
+]

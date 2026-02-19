@@ -1,0 +1,178 @@
+[
+    {
+        "BonusYieldChange": 1,
+        "Id": 1,
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "PrereqCivic": "CIVIC_MERCANTILISM",
+        "PrereqTech": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 2,
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": "TECH_SYNTHETIC_MATERIALS",
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BonusYieldChange": 2,
+        "Id": 3,
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "PrereqCivic": null,
+        "PrereqTech": "TECH_CARTOGRAPHY",
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 4,
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "PrereqCivic": null,
+        "PrereqTech": "TECH_PLASTICS",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 5,
+        "ImprovementType": "IMPROVEMENT_LUMBER_MILL",
+        "PrereqCivic": null,
+        "PrereqTech": "TECH_STEEL",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 6,
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "PrereqCivic": null,
+        "PrereqTech": "TECH_APPRENTICESHIP",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 7,
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "PrereqCivic": null,
+        "PrereqTech": "TECH_INDUSTRIALIZATION",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 8,
+        "ImprovementType": "IMPROVEMENT_PASTURE",
+        "PrereqCivic": null,
+        "PrereqTech": "TECH_STIRRUPS",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 9,
+        "ImprovementType": "IMPROVEMENT_PASTURE",
+        "PrereqCivic": null,
+        "PrereqTech": "TECH_ROBOTICS",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 10,
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "PrereqCivic": null,
+        "PrereqTech": "TECH_SCIENTIFIC_THEORY",
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BonusYieldChange": 2,
+        "Id": 11,
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "PrereqCivic": "CIVIC_GLOBALIZATION",
+        "PrereqTech": null,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BonusYieldChange": 2,
+        "Id": 12,
+        "ImprovementType": "IMPROVEMENT_QUARRY",
+        "PrereqCivic": null,
+        "PrereqTech": "TECH_BANKING",
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 13,
+        "ImprovementType": "IMPROVEMENT_QUARRY",
+        "PrereqCivic": null,
+        "PrereqTech": "TECH_ROCKETRY",
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 14,
+        "ImprovementType": "IMPROVEMENT_COLOSSAL_HEAD",
+        "PrereqCivic": "CIVIC_HUMANISM",
+        "PrereqTech": null,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BonusYieldChange": 2,
+        "Id": 17,
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "PrereqCivic": "CIVIC_CULTURAL_HERITAGE",
+        "PrereqTech": null,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 18,
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "PrereqCivic": "CIVIC_NATURAL_HISTORY",
+        "PrereqTech": null,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 19,
+        "ImprovementType": "IMPROVEMENT_STEPWELL",
+        "PrereqCivic": "CIVIC_FEUDALISM",
+        "PrereqTech": null,
+        "YieldType": "YIELD_FAITH"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 20,
+        "ImprovementType": "IMPROVEMENT_STEPWELL",
+        "PrereqCivic": "CIVIC_PROFESSIONAL_SPORTS",
+        "PrereqTech": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 21,
+        "ImprovementType": "IMPROVEMENT_ZIGGURAT",
+        "PrereqCivic": "CIVIC_NATURAL_HISTORY",
+        "PrereqTech": null,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 100,
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "PrereqCivic": "CIVIC_MERCANTILISM",
+        "PrereqTech": null,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 23,
+        "ImprovementType": "IMPROVEMENT_KAMPUNG",
+        "PrereqCivic": "CIVIC_CIVIL_ENGINEERING",
+        "PrereqTech": null,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BonusYieldChange": 1,
+        "Id": 22,
+        "ImprovementType": "IMPROVEMENT_PAIRIDAEZA",
+        "PrereqCivic": "CIVIC_DIPLOMATIC_SERVICE",
+        "PrereqTech": null,
+        "YieldType": "YIELD_CULTURE"
+    }
+]

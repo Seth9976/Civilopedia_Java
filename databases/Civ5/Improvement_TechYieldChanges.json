@@ -1,0 +1,110 @@
+[
+    {
+        "ImprovementType": "IMPROVEMENT_LUMBERMILL",
+        "TechType": "TECH_SCIENTIFIC_THEORY",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_POST",
+        "TechType": "TECH_ECONOMICS",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "TechType": "TECH_CHEMISTRY",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_QUARRY",
+        "TechType": "TECH_CHEMISTRY",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PLANTATION",
+        "TechType": "TECH_FERTILIZER",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHING_BOATS",
+        "TechType": "TECH_COMPASS",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PASTURE",
+        "TechType": "TECH_FERTILIZER",
+        "Yield": 1,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CAMP",
+        "TechType": "TECH_ECONOMICS",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ACADEMY",
+        "TechType": "TECH_SCIENTIFIC_THEORY",
+        "Yield": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CUSTOMS_HOUSE",
+        "TechType": "TECH_ECONOMICS",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MANUFACTORY",
+        "TechType": "TECH_CHEMISTRY",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOAI",
+        "TechType": "TECH_FLIGHT",
+        "Yield": 1,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "TechType": "TECH_ECONOMICS",
+        "Yield": 1,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "TechType": "TECH_ECONOMICS",
+        "Yield": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ACADEMY",
+        "TechType": "TECH_ATOMIC_THEORY",
+        "Yield": 2,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BRAZILWOOD_CAMP",
+        "TechType": "TECH_ACOUSTICS",
+        "Yield": 2,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "TechType": "TECH_FLIGHT",
+        "Yield": 1,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "TechType": "TECH_FLIGHT",
+        "Yield": 2,
+        "YieldType": "YIELD_GOLD"
+    }
+]

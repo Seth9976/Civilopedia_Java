@@ -1,0 +1,26 @@
+[
+    {
+        "District": "DISTRICT_ENTERTAINMENT_COMPLEX",
+        "MutuallyExclusiveDistrict": "DISTRICT_WATER_ENTERTAINMENT_COMPLEX"
+    },
+    {
+        "District": "DISTRICT_WATER_ENTERTAINMENT_COMPLEX",
+        "MutuallyExclusiveDistrict": "DISTRICT_ENTERTAINMENT_COMPLEX"
+    },
+    {
+        "District": "DISTRICT_STREET_CARNIVAL",
+        "MutuallyExclusiveDistrict": "DISTRICT_WATER_STREET_CARNIVAL"
+    },
+    {
+        "District": "DISTRICT_WATER_STREET_CARNIVAL",
+        "MutuallyExclusiveDistrict": "DISTRICT_STREET_CARNIVAL"
+    },
+    {
+        "District": "DISTRICT_HIPPODROME",
+        "MutuallyExclusiveDistrict": "DISTRICT_WATER_ENTERTAINMENT_COMPLEX"
+    },
+    {
+        "District": "DISTRICT_WATER_ENTERTAINMENT_COMPLEX",
+        "MutuallyExclusiveDistrict": "DISTRICT_HIPPODROME"
+    }
+]

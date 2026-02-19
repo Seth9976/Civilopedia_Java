@@ -1,0 +1,32 @@
+[
+    {
+        "Age": "AGE_EXPLORATION",
+        "DiplomacyYieldValue": 80,
+        "FoodYieldValue": 80,
+        "GoldYieldValue": 200,
+        "HappinessYieldValue": 200,
+        "ProductionYieldValue": 30,
+        "ProgressionYieldValue": 100,
+        "Type": "REWARD_TYPE_MINOR"
+    },
+    {
+        "Age": "AGE_EXPLORATION",
+        "DiplomacyYieldValue": 120,
+        "FoodYieldValue": 120,
+        "GoldYieldValue": 300,
+        "HappinessYieldValue": 300,
+        "ProductionYieldValue": 45,
+        "ProgressionYieldValue": 150,
+        "Type": "REWARD_TYPE_MEDIUM"
+    },
+    {
+        "Age": "AGE_EXPLORATION",
+        "DiplomacyYieldValue": 160,
+        "FoodYieldValue": 160,
+        "GoldYieldValue": 400,
+        "HappinessYieldValue": 400,
+        "ProductionYieldValue": 60,
+        "ProgressionYieldValue": 200,
+        "Type": "REWARD_TYPE_MAJOR"
+    }
+]

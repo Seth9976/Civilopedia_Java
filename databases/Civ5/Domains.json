@@ -1,0 +1,27 @@
+[
+    {
+        "Description": "TXT_KEY_DOMAIN_SEA",
+        "ID": 0,
+        "Type": "DOMAIN_SEA"
+    },
+    {
+        "Description": "TXT_KEY_DOMAIN_AIR",
+        "ID": 1,
+        "Type": "DOMAIN_AIR"
+    },
+    {
+        "Description": "TXT_KEY_DOMAIN_LAND",
+        "ID": 2,
+        "Type": "DOMAIN_LAND"
+    },
+    {
+        "Description": "TXT_KEY_DOMAIN_IMMOBILE",
+        "ID": 3,
+        "Type": "DOMAIN_IMMOBILE"
+    },
+    {
+        "Description": "TXT_KEY_DOMAIN_HOVER",
+        "ID": 4,
+        "Type": "DOMAIN_HOVER"
+    }
+]

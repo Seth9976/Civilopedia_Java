@@ -1,0 +1,578 @@
+[
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_FOREST",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_MANGROVE",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_MARSH",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_RAINFOREST",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_SAGEBRUSH_STEPPE",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_SAVANNA_WOODLAND",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_TAIGA",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_TUNDRA_BOG",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": "RIVER_MINOR",
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": "RIVER_NAVIGABLE",
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_HILL",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 0,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 1,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": "OBSTACLE_EMBARKATION",
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_ATOLL",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_FOREST",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_MANGROVE",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_MARSH",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_RAINFOREST",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_SAGEBRUSH_STEPPE",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_SAVANNA_WOODLAND",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_TAIGA",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_TUNDRA_BOG",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": "RIVER_MINOR",
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": "RIVER_NAVIGABLE",
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_HILL",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 0,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 1,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": "OBSTACLE_EMBARKATION",
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_ATOLL",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_MANGROVE",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_RECON"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_MARSH",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_RECON"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_TUNDRA_BOG",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_RECON"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": "RIVER_MINOR",
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_RECON"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": "RIVER_NAVIGABLE",
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_RECON"
+    },
+    {
+        "EndsTurn": 0,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 1,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_RECON"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_ATOLL",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_RECON"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_MANGROVE",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_TRACKED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_MARSH",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_TRACKED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_TUNDRA_BOG",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_TRACKED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": "RIVER_MINOR",
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_TRACKED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": "RIVER_NAVIGABLE",
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_TRACKED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_HILL",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_TRACKED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": "OBSTACLE_EMBARKATION",
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_TRACKED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_ATOLL",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_TRACKED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_FOREST",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_MANGROVE",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_MARSH",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_RAINFOREST",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_SAGEBRUSH_STEPPE",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_SAVANNA_WOODLAND",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_TAIGA",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_TUNDRA_BOG",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": "RIVER_MINOR",
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": "RIVER_NAVIGABLE",
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_HILL",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": "OBSTACLE_EMBARKATION",
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 0,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 1,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_MOUNTAIN",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_ATOLL",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": "FEATURE_ATOLL",
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": null,
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_NAVAL"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_OCEAN",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_NAVAL"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_OCEAN",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_WHEELED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_OCEAN",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_TRACKED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_OCEAN",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_RECON"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_OCEAN",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_MOUNTED"
+    },
+    {
+        "EndsTurn": 1,
+        "FeatureType": null,
+        "ObstacleTag": null,
+        "Prohibited": 0,
+        "RiverType": null,
+        "TerrainType": "TERRAIN_OCEAN",
+        "UnitMovementClass": "UNIT_MOVEMENT_CLASS_FOOT"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "ClimateChangePoints": 0,
+        "ExtraRange": 0,
+        "Name": "LOC_REALISM_SETTING_MINIMAL_NAME",
+        "PercentVolcanoesActive": 45,
+        "RealismSettingType": "REALISM_SETTING_MINIMAL"
+    },
+    {
+        "ClimateChangePoints": 0,
+        "ExtraRange": 0,
+        "Name": "LOC_REALISM_SETTING_LIGHT_NAME",
+        "PercentVolcanoesActive": 60,
+        "RealismSettingType": "REALISM_SETTING_LIGHT"
+    },
+    {
+        "ClimateChangePoints": 0,
+        "ExtraRange": 0,
+        "Name": "LOC_REALISM_SETTING_MODERATE_NAME",
+        "PercentVolcanoesActive": 70,
+        "RealismSettingType": "REALISM_SETTING_MODERATE"
+    },
+    {
+        "ClimateChangePoints": 0,
+        "ExtraRange": 1,
+        "Name": "LOC_REALISM_SETTING_HEAVY_NAME",
+        "PercentVolcanoesActive": 80,
+        "RealismSettingType": "REALISM_SETTING_HEAVY"
+    },
+    {
+        "ClimateChangePoints": 0,
+        "ExtraRange": 1,
+        "Name": "LOC_REALISM_SETTING_HYPERREAL_NAME",
+        "PercentVolcanoesActive": 95,
+        "RealismSettingType": "REALISM_SETTING_HYPERREAL"
+    },
+    {
+        "ClimateChangePoints": 2,
+        "ExtraRange": 1,
+        "Name": "LOC_REALISM_SETTING_MEGADISASTERS_NAME",
+        "PercentVolcanoesActive": 100,
+        "RealismSettingType": "REALISM_SETTING_MEGADISASTERS"
+    },
+    {
+        "ClimateChangePoints": 2,
+        "ExtraRange": 1,
+        "Name": "LOC_REALISM_SETTING_APOCALYPSE_NAME",
+        "PercentVolcanoesActive": 100,
+        "RealismSettingType": "REALISM_SETTING_APOCALYPSE"
+    }
+]

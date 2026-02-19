@@ -1,0 +1,209 @@
+[
+    {
+        "BuildingType1": "BUILDING_ODEON",
+        "BuildingType2": "BUILDING_PARTHENON",
+        "Description": "LOC_QUARTER_ACROPOLIS_DESCRIPTION",
+        "Name": "LOC_QUARTER_ACROPOLIS_NAME",
+        "Tooltip": "LOC_QUARTER_ACROPOLIS_TOOLTIP",
+        "TraitType": "TRAIT_GREECE",
+        "UniqueQuarterType": "QUARTER_ACROPOLIS"
+    },
+    {
+        "BuildingType1": "BUILDING_BASILICA",
+        "BuildingType2": "BUILDING_TEMPLE_OF_JUPITER",
+        "Description": "LOC_QUARTER_FORUM_DESCRIPTION",
+        "Name": "LOC_QUARTER_FORUM_NAME",
+        "Tooltip": "LOC_QUARTER_FORUM_TOOLTIP",
+        "TraitType": "TRAIT_ROME",
+        "UniqueQuarterType": "QUARTER_FORUM"
+    },
+    {
+        "BuildingType1": "BUILDING_DHARAMSHALA",
+        "BuildingType2": "BUILDING_VIHARA",
+        "Description": "LOC_QUARTER_MATHA_DESCRIPTION",
+        "Name": "LOC_QUARTER_MATHA_NAME",
+        "Tooltip": "LOC_QUARTER_MATHA_TOOLTIP",
+        "TraitType": "TRAIT_MAURYA",
+        "UniqueQuarterType": "QUARTER_MATHA"
+    },
+    {
+        "BuildingType1": "BUILDING_MASTABA",
+        "BuildingType2": "BUILDING_MORTUARY_TEMPLE",
+        "Description": "LOC_QUARTER_NECROPOLIS_DESCRIPTION",
+        "Name": "LOC_QUARTER_NECROPOLIS_NAME",
+        "Tooltip": "LOC_QUARTER_NECROPOLIS_TOOLTIP",
+        "TraitType": "TRAIT_EGYPT",
+        "UniqueQuarterType": "QUARTER_NECROPOLIS"
+    },
+    {
+        "BuildingType1": "BUILDING_JALAW",
+        "BuildingType2": "BUILDING_KUH_NAH",
+        "Description": "LOC_QUARTER_UWAYBIL_KUH_DESCRIPTION",
+        "Name": "LOC_QUARTER_UWAYBIL_KUH_NAME",
+        "Tooltip": "LOC_QUARTER_UWAYBIL_KUH_TOOLTIP",
+        "TraitType": "TRAIT_MAYA",
+        "UniqueQuarterType": "QUARTER_UWAYBIL_KUH"
+    },
+    {
+        "BuildingType1": "BUILDING_BAILEY",
+        "BuildingType2": "BUILDING_MOTTE",
+        "Description": "LOC_QUARTER_DONJON_DESCRIPTION",
+        "Name": "LOC_QUARTER_DONJON_NAME",
+        "Tooltip": "LOC_QUARTER_DONJON_TOOLTIP",
+        "TraitType": "TRAIT_NORMAN",
+        "UniqueQuarterType": "QUARTER_DONJON"
+    },
+    {
+        "BuildingType1": "BUILDING_MADRASA",
+        "BuildingType2": "BUILDING_MOSQUE",
+        "Description": "LOC_QUARTER_ULEMA_DESCRIPTION",
+        "Name": "LOC_QUARTER_ULEMA_NAME",
+        "Tooltip": "LOC_QUARTER_ULEMA_TOOLTIP",
+        "TraitType": "TRAIT_ABBASID",
+        "UniqueQuarterType": "QUARTER_ULEMA"
+    },
+    {
+        "BuildingType1": "BUILDING_CASA_CONSISTORIAL",
+        "BuildingType2": "BUILDING_CASA_DE_CONTRATACION",
+        "Description": "LOC_QUARTER_PLAZA_DESCRIPTION",
+        "Name": "LOC_QUARTER_PLAZA_NAME",
+        "Tooltip": "LOC_QUARTER_PLAZA_TOOLTIP",
+        "TraitType": "TRAIT_SPAIN",
+        "UniqueQuarterType": "QUARTER_PLAZA"
+    },
+    {
+        "BuildingType1": "BUILDING_CANDI_BENTAR",
+        "BuildingType2": "BUILDING_MERU",
+        "Description": "LOC_QUARTER_PURA_DESCRIPTION",
+        "Name": "LOC_QUARTER_PURA_NAME",
+        "Tooltip": "LOC_QUARTER_PURA_TOOLTIP",
+        "TraitType": "TRAIT_MAJAPAHIT",
+        "UniqueQuarterType": "QUARTER_PURA"
+    },
+    {
+        "BuildingType1": "BUILDING_MANIGRAMAM",
+        "BuildingType2": "BUILDING_ANJUVANNAM",
+        "Description": "LOC_QUARTER_FIVE_HUNDRED_LORDS_DESCRIPTION",
+        "Name": "LOC_QUARTER_FIVE_HUNDRED_LORDS_NAME",
+        "Tooltip": "LOC_QUARTER_FIVE_HUNDRED_LORDS_TOOLTIP",
+        "TraitType": "TRAIT_CHOLA",
+        "UniqueQuarterType": "QUARTER_FIVE_HUNDRED_LORDS"
+    },
+    {
+        "BuildingType1": "BUILDING_RAILYARD",
+        "BuildingType2": "BUILDING_STEEL_MILL",
+        "Description": "LOC_QUARTER_INDUSTRIAL_PARK_DESCRIPTION",
+        "Name": "LOC_QUARTER_INDUSTRIAL_PARK_NAME",
+        "Tooltip": "LOC_QUARTER_INDUSTRIAL_PARK_TOOLTIP",
+        "TraitType": "TRAIT_AMERICA",
+        "UniqueQuarterType": "QUARTER_INDUSTRIAL_PARK"
+    },
+    {
+        "BuildingType1": "BUILDING_FORMAL_GARDEN",
+        "BuildingType2": "BUILDING_SALON",
+        "Description": "LOC_QUARTER_AVENUE_DESCRIPTION",
+        "Name": "LOC_QUARTER_AVENUE_NAME",
+        "Tooltip": "LOC_QUARTER_AVENUE_TOOLTIP",
+        "TraitType": "TRAIT_FRENCH_EMPIRE",
+        "UniqueQuarterType": "QUARTER_AVENUE"
+    },
+    {
+        "BuildingType1": "BUILDING_GINKO",
+        "BuildingType2": "BUILDING_JUKOGYO",
+        "Description": "LOC_QUARTER_ZAIBATSU_DESCRIPTION",
+        "Name": "LOC_QUARTER_ZAIBATSU_NAME",
+        "Tooltip": "LOC_QUARTER_ZAIBATSU_TOOLTIP",
+        "TraitType": "TRAIT_MEIJI",
+        "UniqueQuarterType": "QUARTER_ZAIBATSU"
+    },
+    {
+        "BuildingType1": "BUILDING_CATEDRAL",
+        "BuildingType2": "BUILDING_PORTAL_DE_MERCADERES",
+        "Description": "LOC_QUARTER_ZOCALO_DESCRIPTION",
+        "Name": "LOC_QUARTER_ZOCALO_NAME",
+        "Tooltip": "LOC_QUARTER_ZOCALO_TOOLTIP",
+        "TraitType": "TRAIT_MEXICO",
+        "UniqueQuarterType": "QUARTER_ZOCALO"
+    },
+    {
+        "BuildingType1": "BUILDING_EXAMINATION_HALL",
+        "BuildingType2": "BUILDING_MONEY_SHOP",
+        "Description": "LOC_QUARTER_HUIGUAN_DESCRIPTION",
+        "Name": "LOC_QUARTER_HUIGUAN_NAME",
+        "Tooltip": "LOC_QUARTER_HUIGUAN_TOOLTIP",
+        "TraitType": "TRAIT_QING",
+        "UniqueQuarterType": "QUARTER_HUIGUAN"
+    },
+    {
+        "BuildingType1": "BUILDING_COTHON",
+        "BuildingType2": "BUILDING_DOCKYARD",
+        "Description": "LOC_QUARTER_PUNIC_PORT_DESCRIPTION",
+        "Name": "LOC_QUARTER_PUNIC_PORT_NAME",
+        "Tooltip": "LOC_QUARTER_PUNIC_PORT_TOOLTIP",
+        "TraitType": "TRAIT_CARTHAGE",
+        "UniqueQuarterType": "QUARTER_PUNIC_PORT"
+    },
+    {
+        "BuildingType1": "BUILDING_CAMII",
+        "BuildingType2": "BUILDING_HAMMAM",
+        "Description": "LOC_QUARTER_KULLIYE_DESCRIPTION",
+        "Name": "LOC_QUARTER_KULLIYE_NAME",
+        "Tooltip": "LOC_QUARTER_KULLIYE_TOOLTIP",
+        "TraitType": "TRAIT_OTTOMANS",
+        "UniqueQuarterType": "QUARTER_KULLIYE"
+    },
+    {
+        "BuildingType1": "BUILDING_NAVAL_ARSENAL",
+        "BuildingType2": "BUILDING_NAVAL_STATION",
+        "Description": "LOC_QUARTER_HAVEN_DESCRIPTION",
+        "Name": "LOC_QUARTER_HAVEN_NAME",
+        "Tooltip": "LOC_QUARTER_HAVEN_TOOLTIP",
+        "TraitType": "TRAIT_PIRATE_REPUBLIC",
+        "UniqueQuarterType": "QUARTER_HAVEN"
+    },
+    {
+        "BuildingType1": "BUILDING_LECTURE_HALL",
+        "BuildingType2": "BUILDING_PAGODA",
+        "Description": "LOC_QUARTER_DRAGON_TEMPLE_DESCRIPTION",
+        "Name": "LOC_QUARTER_DRAGON_TEMPLE_NAME",
+        "Tooltip": "LOC_QUARTER_DRAGON_TEMPLE_TOOLTIP",
+        "TraitType": "TRAIT_SILLA",
+        "UniqueQuarterType": "QUARTER_DRAGON_TEMPLE"
+    },
+    {
+        "BuildingType1": "BUILDING_LANGI",
+        "BuildingType2": "BUILDING_VAI_KAUKAU",
+        "Description": "LOC_QUARTER_TOFI_A_DESCRIPTION",
+        "Name": "LOC_QUARTER_TOFI_A_NAME",
+        "Tooltip": "LOC_QUARTER_TOFI_A_TOOLTIP",
+        "TraitType": "TRAIT_TONGA",
+        "UniqueQuarterType": "QUARTER_TOFI_A"
+    },
+    {
+        "BuildingType1": "BUILDING_ROYAL_EXCHANGE",
+        "BuildingType2": "BUILDING_MANUFACTORY",
+        "Description": "LOC_QUARTER_FINANCIAL_CENTRE_DESCRIPTION",
+        "Name": "LOC_QUARTER_FINANCIAL_CENTRE_NAME",
+        "Tooltip": "LOC_QUARTER_FINANCIAL_CENTRE_TOOLTIP",
+        "TraitType": "TRAIT_GREAT_BRITAIN",
+        "UniqueQuarterType": "QUARTER_FINANCIAL_CENTRE"
+    },
+    {
+        "BuildingType1": "BUILDING_CITADEL",
+        "BuildingType2": "BUILDING_ROYAL_LIBRARY",
+        "Description": "LOC_QUARTER_EKALLU_DESCRIPTION",
+        "Name": "LOC_QUARTER_EKALLU_NAME",
+        "Tooltip": "LOC_QUARTER_EKALLU_TOOLTIP",
+        "TraitType": "TRAIT_ASSYRIA",
+        "UniqueQuarterType": "QUARTER_EKALLU"
+    },
+    {
+        "BuildingType1": "BUILDING_GHAHVE_KHANE",
+        "BuildingType2": "BUILDING_TAKYEH",
+        "Description": "LOC_QUARTER_BAQ_DESCRIPTION",
+        "Name": "LOC_QUARTER_BAQ_NAME",
+        "Tooltip": "LOC_QUARTER_BAQ_TOOLTIP",
+        "TraitType": "TRAIT_QAJAR",
+        "UniqueQuarterType": "QUARTER_BAQ"
+    }
+]

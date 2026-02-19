@@ -1,0 +1,27 @@
+[
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_RECON",
+        "Flavor": -1,
+        "FlavorType": "FLAVOR_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_RECON_SEA",
+        "Flavor": -1,
+        "FlavorType": "FLAVOR_NAVAL_RECON"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_NEED_HAPPINESS",
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_HAPPINESS"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_CITIES_NEED_NAVAL_GROWTH",
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_NAVAL_GROWTH"
+    },
+    {
+        "AIEconomicStrategyType": "ECONOMICAISTRATEGY_CITIES_NEED_NAVAL_TILE_IMPROVEMENT",
+        "Flavor": 1,
+        "FlavorType": "FLAVOR_NAVAL_TILE_IMPROVEMENT"
+    }
+]

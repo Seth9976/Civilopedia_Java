@@ -1,0 +1,26 @@
+[
+    {
+        "Adjective": "LOC_FEATURE_CLASS_AQUATIC_ADJ",
+        "Description": "LOC_FEATURE_CLASS_AQUATIC_DESC",
+        "FeatureClassType": "FEATURE_CLASS_AQUATIC",
+        "Name": "LOC_FEATURE_CLASS_AQUATIC_NAME"
+    },
+    {
+        "Adjective": "LOC_FEATURE_CLASS_FLOODPLAIN_ADJ",
+        "Description": "LOC_FEATURE_CLASS_FLOODPLAIN_DESC",
+        "FeatureClassType": "FEATURE_CLASS_FLOODPLAIN",
+        "Name": "LOC_FEATURE_CLASS_FLOODPLAIN_NAME"
+    },
+    {
+        "Adjective": "LOC_FEATURE_CLASS_VEGETATED_ADJ",
+        "Description": "LOC_FEATURE_CLASS_VEGETATED_DESC",
+        "FeatureClassType": "FEATURE_CLASS_VEGETATED",
+        "Name": "LOC_FEATURE_CLASS_VEGETATED_NAME"
+    },
+    {
+        "Adjective": "LOC_FEATURE_CLASS_WET_ADJ",
+        "Description": "LOC_FEATURE_CLASS_WET_DESC",
+        "FeatureClassType": "FEATURE_CLASS_WET",
+        "Name": "LOC_FEATURE_CLASS_WET_NAME"
+    }
+]

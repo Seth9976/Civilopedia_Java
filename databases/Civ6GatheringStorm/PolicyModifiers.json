@@ -1,0 +1,1834 @@
+[
+    {
+        "ModifierId": "AESTHETICS_DISTRICTCULTURE",
+        "PolicyType": "POLICY_AESTHETICS"
+    },
+    {
+        "ModifierId": "AGOGE_ANCIENT_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_AGOGE"
+    },
+    {
+        "ModifierId": "AGOGE_CLASSICAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_AGOGE"
+    },
+    {
+        "ModifierId": "AGOGE_ANCIENT_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_AGOGE"
+    },
+    {
+        "ModifierId": "AGOGE_CLASSICAL_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_AGOGE"
+    },
+    {
+        "ModifierId": "AGOGE_ANCIENT_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_AGOGE"
+    },
+    {
+        "ModifierId": "AGOGE_CLASSICAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_AGOGE"
+    },
+    {
+        "ModifierId": "BASTIONS_OUTERDEFENSE",
+        "PolicyType": "POLICY_BASTIONS"
+    },
+    {
+        "ModifierId": "BASTIONS_RANGEDSTRIKE",
+        "PolicyType": "POLICY_BASTIONS"
+    },
+    {
+        "ModifierId": "CARAVANSARIES_TRADEROUTEGOLD",
+        "PolicyType": "POLICY_CARAVANSARIES"
+    },
+    {
+        "ModifierId": "CHARISMATICLEADER_INFLUENCEPOINTS",
+        "PolicyType": "POLICY_CHARISMATIC_LEADER"
+    },
+    {
+        "ModifierId": "CHIVALRY_MEDIEVAL_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_CHIVALRY"
+    },
+    {
+        "ModifierId": "CHIVALRY_RENAISSANCE_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_CHIVALRY"
+    },
+    {
+        "ModifierId": "CHIVALRY_INDUSTRIAL_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_CHIVALRY"
+    },
+    {
+        "ModifierId": "CHIVALRY_MEDIEVAL_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_CHIVALRY"
+    },
+    {
+        "ModifierId": "CHIVALRY_RENAISSANCE_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_CHIVALRY"
+    },
+    {
+        "ModifierId": "CHIVALRY_INDUSTRIAL_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_CHIVALRY"
+    },
+    {
+        "ModifierId": "MANEUVER_ANCIENT_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_CHIVALRY"
+    },
+    {
+        "ModifierId": "MANEUVER_CLASSICAL_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_CHIVALRY"
+    },
+    {
+        "ModifierId": "MANEUVER_ANCIENT_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_CHIVALRY"
+    },
+    {
+        "ModifierId": "MANEUVER_CLASSICAL_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_CHIVALRY"
+    },
+    {
+        "ModifierId": "COLLECTIVEACTIVISM_CULTUREPERTRIBUTARY",
+        "PolicyType": "POLICY_COLLECTIVE_ACTIVISM"
+    },
+    {
+        "ModifierId": "COLLECTIVIZATION_INTERNAL_TRADE_FOOD",
+        "PolicyType": "POLICY_COLLECTIVIZATION"
+    },
+    {
+        "ModifierId": "COLONIALOFFICES_FOREIGNGROWTH",
+        "PolicyType": "POLICY_COLONIAL_OFFICES"
+    },
+    {
+        "ModifierId": "COLONIALTAXES_FOREIGNGOLD",
+        "PolicyType": "POLICY_COLONIAL_TAXES"
+    },
+    {
+        "ModifierId": "COLONIZATION_SETTLERPRODUCTION",
+        "PolicyType": "POLICY_COLONIZATION"
+    },
+    {
+        "ModifierId": "CONSCRIPTION_UNITMAINTENANCEDISCOUNT",
+        "PolicyType": "POLICY_CONSCRIPTION"
+    },
+    {
+        "ModifierId": "CONTAINMENT_DUPLICATETOKENWHENRIVALGOVERNMENT",
+        "PolicyType": "POLICY_CONTAINMENT"
+    },
+    {
+        "ModifierId": "CORVEE_ANCIENTCLASSICALWONDER",
+        "PolicyType": "POLICY_CORVEE"
+    },
+    {
+        "ModifierId": "CRAFTSMEN_DISTRICTPRODUCTION",
+        "PolicyType": "POLICY_CRAFTSMEN"
+    },
+    {
+        "ModifierId": "CRYPTOGRAPHY_OFFENSE",
+        "PolicyType": "POLICY_CRYPTOGRAPHY"
+    },
+    {
+        "ModifierId": "CRYPTOGRAPHY_DEFENSE",
+        "PolicyType": "POLICY_CRYPTOGRAPHY"
+    },
+    {
+        "ModifierId": "DEFENSEOFMOTHERLAND_DOMESTICWARWEARINESS",
+        "PolicyType": "POLICY_DEFENSE_OF_MOTHERLAND"
+    },
+    {
+        "ModifierId": "DIPLOMATICLEAGUE_DUPLICATEFIRSTINFLUENCETOKEN",
+        "PolicyType": "POLICY_DIPLOMATIC_LEAGUE"
+    },
+    {
+        "ModifierId": "DISCIPLINE_BARBARIANCOMBAT",
+        "PolicyType": "POLICY_DISCIPLINE"
+    },
+    {
+        "ModifierId": "ECONOMICUNION_HARBORGOLD",
+        "PolicyType": "POLICY_ECONOMIC_UNION"
+    },
+    {
+        "ModifierId": "ECONOMICUNION_COMMERCIALGOLD",
+        "PolicyType": "POLICY_ECONOMIC_UNION"
+    },
+    {
+        "ModifierId": "EXPROPRIATION_SETTLERPRODUCTION",
+        "PolicyType": "POLICY_EXPROPRIATION"
+    },
+    {
+        "ModifierId": "EXPROPRIATION_PLOTPURCHASECOST",
+        "PolicyType": "POLICY_EXPROPRIATION"
+    },
+    {
+        "ModifierId": "AGOGE_ANCIENT_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_FEUDAL_CONTRACT"
+    },
+    {
+        "ModifierId": "AGOGE_CLASSICAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_FEUDAL_CONTRACT"
+    },
+    {
+        "ModifierId": "AGOGE_ANCIENT_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_FEUDAL_CONTRACT"
+    },
+    {
+        "ModifierId": "AGOGE_CLASSICAL_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_FEUDAL_CONTRACT"
+    },
+    {
+        "ModifierId": "AGOGE_ANCIENT_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_FEUDAL_CONTRACT"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_MEDIEVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_FEUDAL_CONTRACT"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_RENAISSANCE_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_FEUDAL_CONTRACT"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_MEDIEVAL_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_FEUDAL_CONTRACT"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_RENAISSANCE_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_FEUDAL_CONTRACT"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_MEDIEVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_FEUDAL_CONTRACT"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_RENAISSANCE_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_FEUDAL_CONTRACT"
+    },
+    {
+        "ModifierId": "FIVEYEARPLAN_DISTRICTSCIENCE",
+        "PolicyType": "POLICY_FIVE_YEAR_PLAN"
+    },
+    {
+        "ModifierId": "FIVEYEARPLAN_DISTRICTPRODUCTION",
+        "PolicyType": "POLICY_FIVE_YEAR_PLAN"
+    },
+    {
+        "ModifierId": "FRESCOES_GREATARTISTPOINTS",
+        "PolicyType": "POLICY_FRESCOES"
+    },
+    {
+        "ModifierId": "GOD_KING_GOLD",
+        "PolicyType": "POLICY_GOD_KING"
+    },
+    {
+        "ModifierId": "GOD_KING_FAITH",
+        "PolicyType": "POLICY_GOD_KING"
+    },
+    {
+        "ModifierId": "GOTHICARCHITECTURE_MEDIEVALRENAISSANCEWONDER",
+        "PolicyType": "POLICY_GOTHIC_ARCHITECTURE"
+    },
+    {
+        "ModifierId": "GRANDEARMEE_INDUSTRIAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "GRANDEARMEE_MODERN_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "GRANDEARMEE_INDUSTRIAL_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "GRANDEARMEE_MODERN_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "GRANDEARMEE_INDUSTRIAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "GRANDEARMEE_MODERN_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "AGOGE_ANCIENT_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "AGOGE_CLASSICAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "AGOGE_ANCIENT_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "AGOGE_CLASSICAL_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "AGOGE_ANCIENT_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_MEDIEVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_RENAISSANCE_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_MEDIEVAL_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_RENAISSANCE_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_MEDIEVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_RENAISSANCE_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_GRANDE_ARMEE"
+    },
+    {
+        "ModifierId": "GUNBOATDIPLOMACY_OPENBORDERS",
+        "PolicyType": "POLICY_GUNBOAT_DIPLOMACY"
+    },
+    {
+        "ModifierId": "GUNBOATDIPLOMACY_INFLUENCEPOINTS",
+        "PolicyType": "POLICY_GUNBOAT_DIPLOMACY"
+    },
+    {
+        "ModifierId": "HERITAGE_SCULPTURETOURISM",
+        "PolicyType": "POLICY_HERITAGE_TOURISM"
+    },
+    {
+        "ModifierId": "HERITAGE_PORTRAITTOURISM",
+        "PolicyType": "POLICY_HERITAGE_TOURISM"
+    },
+    {
+        "ModifierId": "HERITAGE_LANDSCAPETOURISM",
+        "PolicyType": "POLICY_HERITAGE_TOURISM"
+    },
+    {
+        "ModifierId": "HERITAGE_RELIGIOUSTOURISM",
+        "PolicyType": "POLICY_HERITAGE_TOURISM"
+    },
+    {
+        "ModifierId": "HERITAGE_ARTIFACTTOURISM",
+        "PolicyType": "POLICY_HERITAGE_TOURISM"
+    },
+    {
+        "ModifierId": "ILKUM_BUILDERPRODUCTION",
+        "PolicyType": "POLICY_ILKUM"
+    },
+    {
+        "ModifierId": "INSPIRATION_GREATSCIENTISTPOINTS",
+        "PolicyType": "POLICY_INSPIRATION"
+    },
+    {
+        "ModifierId": "INSULAE_SPECIALTYHOUSING",
+        "PolicyType": "POLICY_INSULAE"
+    },
+    {
+        "ModifierId": "INTEGRATEDSPACECELL_SPACE_RACE_PROJECTS_PRODUCTION",
+        "PolicyType": "POLICY_INTEGRATED_SPACE_CELL"
+    },
+    {
+        "ModifierId": "INTERNATIONALSPACEAGENCY_SCIENCEPERTRIBUTARY",
+        "PolicyType": "POLICY_INTERNATIONAL_SPACE_AGENCY"
+    },
+    {
+        "ModifierId": "INTERNATIONALWATERS_MODERN_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "INTERNATIONALWATERS_ATOMIC_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "INTERNATIONALWATERS_INFORMATION_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "INTERNATIONALWATERS_MODERN_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "INTERNATIONALWATERS_ATOMIC_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "INTERNATIONALWATERS_INFORMATION_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "INTERNATIONALWATERS_MODERN_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "INTERNATIONALWATERS_ATOMIC_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "INTERNATIONALWATERS_INFORMATION_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_RENAISSANCE_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_INDUSTRIAL_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_RENAISSANCE_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_INDUSTRIAL_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_RENAISSANCE_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_INDUSTRIAL_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_ANCIENT_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_ANCIENT_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_ANCIENT_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_MEDIEVAL_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_MEDIEVAL_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_MEDIEVAL_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_INTERNATIONAL_WATERS"
+    },
+    {
+        "ModifierId": "LANDSURVEYORS_PLOTPURCHASECOST",
+        "PolicyType": "POLICY_LAND_SURVEYORS"
+    },
+    {
+        "ModifierId": "LIBERALISM_SPECIALTYAMENITY",
+        "PolicyType": "POLICY_LIBERALISM"
+    },
+    {
+        "ModifierId": "LIGHTNINGWARFARE_MODERN_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "LIGHTNINGWARFARE_ATOMIC_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "LIGHTNINGWARFARE_INFORMATION_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "LIGHTNINGWARFARE_MODERN_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "LIGHTNINGWARFARE_ATOMIC_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "LIGHTNINGWARFARE_INFORMATION_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "CHIVALRY_MEDIEVAL_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "CHIVALRY_RENAISSANCE_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "CHIVALRY_INDUSTRIAL_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "CHIVALRY_MEDIEVAL_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "CHIVALRY_RENAISSANCE_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "CHIVALRY_INDUSTRIAL_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "MANEUVER_ANCIENT_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "MANEUVER_CLASSICAL_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "MANEUVER_ANCIENT_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "MANEUVER_CLASSICAL_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_LIGHTNING_WARFARE"
+    },
+    {
+        "ModifierId": "LIMES_CASTLEPRODUCTION",
+        "PolicyType": "POLICY_LIMES"
+    },
+    {
+        "ModifierId": "LIMES_WALLSPRODUCTION",
+        "PolicyType": "POLICY_LIMES"
+    },
+    {
+        "ModifierId": "LIMES_STARFORTPRODUCTION",
+        "PolicyType": "POLICY_LIMES"
+    },
+    {
+        "ModifierId": "LITERARYTRADITION_GREATWRITERPOINTS",
+        "PolicyType": "POLICY_LITERARY_TRADITION"
+    },
+    {
+        "ModifierId": "LOGISTICS_FRIENDLYTERRITORYMOVEMENTBONUS",
+        "PolicyType": "POLICY_LOGISTICS"
+    },
+    {
+        "ModifierId": "LEVEEENMASSE_UNITMAINTENANCEDISCOUNT",
+        "PolicyType": "POLICY_LEVEE_EN_MASSE"
+    },
+    {
+        "ModifierId": "MACHIAVELLIANISM_SPYPRODUCTION",
+        "PolicyType": "POLICY_MACHIAVELLIANISM"
+    },
+    {
+        "ModifierId": "MANEUVER_ANCIENT_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_MANEUVER"
+    },
+    {
+        "ModifierId": "MANEUVER_CLASSICAL_HEAVY_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_MANEUVER"
+    },
+    {
+        "ModifierId": "MANEUVER_ANCIENT_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_MANEUVER"
+    },
+    {
+        "ModifierId": "MANEUVER_CLASSICAL_LIGHT_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_MANEUVER"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_ANCIENT_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_MARITIME_INDUSTRIES"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_MARITIME_INDUSTRIES"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_ANCIENT_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_MARITIME_INDUSTRIES"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_MARITIME_INDUSTRIES"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_ANCIENT_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_MARITIME_INDUSTRIES"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_MARITIME_INDUSTRIES"
+    },
+    {
+        "ModifierId": "MARKETECONOMY_TRADEROUTECULTURE",
+        "PolicyType": "POLICY_MARKET_ECONOMY"
+    },
+    {
+        "ModifierId": "MARKETECONOMY_TRADEROUTESCIENCE",
+        "PolicyType": "POLICY_MARKET_ECONOMY"
+    },
+    {
+        "ModifierId": "MARKETECONOMY_TRADEROUTEGOLDPERLUXURY",
+        "PolicyType": "POLICY_MARKET_ECONOMY"
+    },
+    {
+        "ModifierId": "MARKETECONOMY_TRADEROUTEGOLDPERSTRATEGIC",
+        "PolicyType": "POLICY_MARKET_ECONOMY"
+    },
+    {
+        "ModifierId": "MARTIALLAW_OVERALLWARWEARINESS",
+        "PolicyType": "POLICY_MARTIAL_LAW"
+    },
+    {
+        "ModifierId": "MEDINAQUARTER_SPECIALTYHOUSING",
+        "PolicyType": "POLICY_MEDINA_QUARTER"
+    },
+    {
+        "ModifierId": "MERCHANTCONFEDERATION_INFLUENCETOKENGOLD",
+        "PolicyType": "POLICY_MERCHANT_CONFEDERATION"
+    },
+    {
+        "ModifierId": "NATIONALIDENTITY_REDUCESTRENGTHREDUCTIONFORDAMAGE",
+        "PolicyType": "POLICY_NATIONAL_IDENTITY"
+    },
+    {
+        "ModifierId": "NATIVECONQUEST_ADJUSTPOSTCOMBATYIELD",
+        "PolicyType": "POLICY_NATIVE_CONQUEST"
+    },
+    {
+        "ModifierId": "NATURALPHILOSOPHY_DISTRICTSCIENCE",
+        "PolicyType": "POLICY_NATURAL_PHILOSOPHY"
+    },
+    {
+        "ModifierId": "NAVALINFRASTRUCTURE_HARBORGOLD",
+        "PolicyType": "POLICY_NAVAL_INFRASTRUCTURE"
+    },
+    {
+        "ModifierId": "NAVIGATION_GREATADMIRALPOINTS",
+        "PolicyType": "POLICY_NAVIGATION"
+    },
+    {
+        "ModifierId": "NEWDEAL_SPECIALTYAMENITY",
+        "PolicyType": "POLICY_NEW_DEAL"
+    },
+    {
+        "ModifierId": "NEWDEAL_SPECIALTYHOUSING",
+        "PolicyType": "POLICY_NEW_DEAL"
+    },
+    {
+        "ModifierId": "NUCLEARESPIONAGE_EXTRABOOSTS",
+        "PolicyType": "POLICY_NUCLEAR_ESPIONAGE"
+    },
+    {
+        "ModifierId": "ONLINECOMMUNITIES_TOURISM",
+        "PolicyType": "POLICY_ONLINE_COMMUNITIES"
+    },
+    {
+        "ModifierId": "PRESSGANGS_RENAISSANCE_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_INDUSTRIAL_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_RENAISSANCE_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_INDUSTRIAL_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_RENAISSANCE_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_INDUSTRIAL_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_ANCIENT_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_ANCIENT_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_ANCIENT_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_MEDIEVAL_NAVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_MEDIEVAL_NAVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "PRESSGANGS_MEDIEVAL_NAVAL_RAIDER_PRODUCTION",
+        "PolicyType": "POLICY_PRESS_GANGS"
+    },
+    {
+        "ModifierId": "PROFESSIONAL_ARMY_UNITUPGRADEDISCOUNT",
+        "PolicyType": "POLICY_PROFESSIONAL_ARMY"
+    },
+    {
+        "ModifierId": "PROPAGANDA_OVERALLWARWEARINESS",
+        "PolicyType": "POLICY_PROPAGANDA"
+    },
+    {
+        "ModifierId": "PUBLICWORKS_BUILDERPRODUCTION",
+        "PolicyType": "POLICY_PUBLIC_WORKS"
+    },
+    {
+        "ModifierId": "PUBLICWORKS_BUILDERCHARGES",
+        "PolicyType": "POLICY_PUBLIC_WORKS"
+    },
+    {
+        "ModifierId": "RAID_DOUBLEPILLAGEIMPROVE",
+        "PolicyType": "POLICY_RAID"
+    },
+    {
+        "ModifierId": "RAJ_GOLDPERTRIBUTARY",
+        "PolicyType": "POLICY_RAJ"
+    },
+    {
+        "ModifierId": "RAJ_FAITHPERTRIBUTARY",
+        "PolicyType": "POLICY_RAJ"
+    },
+    {
+        "ModifierId": "RAJ_SCIENCEPERTRIBUTARY",
+        "PolicyType": "POLICY_RAJ"
+    },
+    {
+        "ModifierId": "RAJ_CULTUREPERTRIBUTARY",
+        "PolicyType": "POLICY_RAJ"
+    },
+    {
+        "ModifierId": "RELIGIOUSORDERS_COMBAT_BUFF",
+        "PolicyType": "POLICY_RELIGIOUS_ORDERS"
+    },
+    {
+        "ModifierId": "RETAINERS_AMENITYBONUS",
+        "PolicyType": "POLICY_RETAINERS"
+    },
+    {
+        "ModifierId": "REVELATION_GREATPROPHETPOINTS",
+        "PolicyType": "POLICY_REVELATION"
+    },
+    {
+        "ModifierId": "SATELLITEBROADCASTS_MUSICTOURISM",
+        "PolicyType": "POLICY_SATELLITE_BROADCASTS"
+    },
+    {
+        "ModifierId": "SCRIPTURE_DISTRICTFAITH",
+        "PolicyType": "POLICY_SCRIPTURE"
+    },
+    {
+        "ModifierId": "SERFDOM_BUILDERCHARGES",
+        "PolicyType": "POLICY_SERFDOM"
+    },
+    {
+        "ModifierId": "SKYSCRAPERS_INDUSTRIALINFORMATION",
+        "PolicyType": "POLICY_SKYSCRAPERS"
+    },
+    {
+        "ModifierId": "MILITARYFIRST_ATOMIC_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "MILITARYFIRST_INFORMATION_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "MILITARYFIRST_ATOMIC_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "MILITARYFIRST_INFORMATION_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "MILITARYFIRST_ATOMIC_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "MILITARYFIRST_INFORMATION_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "GRANDEARMEE_INDUSTRIAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "GRANDEARMEE_MODERN_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "GRANDEARMEE_INDUSTRIAL_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "GRANDEARMEE_MODERN_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "GRANDEARMEE_INDUSTRIAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "GRANDEARMEE_MODERN_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "AGOGE_ANCIENT_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "AGOGE_CLASSICAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "AGOGE_ANCIENT_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "AGOGE_CLASSICAL_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "AGOGE_ANCIENT_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_MEDIEVAL_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_RENAISSANCE_MELEE_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_MEDIEVAL_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_RENAISSANCE_ANTI_CAVALRY_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_MEDIEVAL_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "FEUDALCONTRACT_RENAISSANCE_RANGED_PRODUCTION",
+        "PolicyType": "POLICY_MILITARY_FIRST"
+    },
+    {
+        "ModifierId": "SPORTSMEDIA_DISTRICTCULTURE",
+        "PolicyType": "POLICY_SPORTS_MEDIA"
+    },
+    {
+        "ModifierId": "SPORTSMEDIA_STADIUMENTERTAINMENT",
+        "PolicyType": "POLICY_SPORTS_MEDIA"
+    },
+    {
+        "ModifierId": "STRATEGICAIRFORCE_INFORMATION_AIRFIGHTER_PRODUCTION",
+        "PolicyType": "POLICY_STRATEGIC_AIR_FORCE"
+    },
+    {
+        "ModifierId": "STRATEGICAIRFORCE_INFORMATION_AIRBOMBER_PRODUCTION",
+        "PolicyType": "POLICY_STRATEGIC_AIR_FORCE"
+    },
+    {
+        "ModifierId": "STRATEGICAIRFORCE_ATOMIC_NAVALCARRIER_PRODUCTION",
+        "PolicyType": "POLICY_STRATEGIC_AIR_FORCE"
+    },
+    {
+        "ModifierId": "STRATEGICAIRFORCE_INFORMATION_NAVALCARRIER_PRODUCTION",
+        "PolicyType": "POLICY_STRATEGIC_AIR_FORCE"
+    },
+    {
+        "ModifierId": "STRATEGOS_GREATGENERALPOINTS",
+        "PolicyType": "POLICY_STRATEGOS"
+    },
+    {
+        "ModifierId": "SURVEY_RECONUNITEXPERIENCE",
+        "PolicyType": "POLICY_SURVEY"
+    },
+    {
+        "ModifierId": "SYMPHONIES_GREATMUSICIANPOINTS",
+        "PolicyType": "POLICY_SYMPHONIES"
+    },
+    {
+        "ModifierId": "THIRDALTERNATIVE_MILITARY_ACADEMY_GOLD_MODIFIER",
+        "PolicyType": "POLICY_THIRD_ALTERNATIVE"
+    },
+    {
+        "ModifierId": "THIRDALTERNATIVE_RESEARCH_LAB_GOLD_MODIFIER",
+        "PolicyType": "POLICY_THIRD_ALTERNATIVE"
+    },
+    {
+        "ModifierId": "THIRDALTERNATIVE_POWER_PLANT_GOLD_MODIFIER",
+        "PolicyType": "POLICY_THIRD_ALTERNATIVE"
+    },
+    {
+        "ModifierId": "TOWNCHARTERS_DISTRICTGOLD",
+        "PolicyType": "POLICY_TOWN_CHARTERS"
+    },
+    {
+        "ModifierId": "TRADECONFEDERATION_TRADEROUTECULTURE",
+        "PolicyType": "POLICY_TRADE_CONFEDERATION"
+    },
+    {
+        "ModifierId": "TRADECONFEDERATION_TRADEROUTESCIENCE",
+        "PolicyType": "POLICY_TRADE_CONFEDERATION"
+    },
+    {
+        "ModifierId": "TRAVELINGMERCHANTS_GREATMERCHANTPOINTS",
+        "PolicyType": "POLICY_TRAVELING_MERCHANTS"
+    },
+    {
+        "ModifierId": "TRIANGULARTRADE_TRADEROUTEGOLD",
+        "PolicyType": "POLICY_TRIANGULAR_TRADE"
+    },
+    {
+        "ModifierId": "TRIANGULARTRADE_TRADEROUTEFAITH",
+        "PolicyType": "POLICY_TRIANGULAR_TRADE"
+    },
+    {
+        "ModifierId": "TOTALWAR_DOUBLEPILLAGEDISTRICT",
+        "PolicyType": "POLICY_TOTAL_WAR"
+    },
+    {
+        "ModifierId": "TOTALWAR_DOUBLEPILLAGEIMPROVE",
+        "PolicyType": "POLICY_TOTAL_WAR"
+    },
+    {
+        "ModifierId": "URBAN_PLANNING_ALLCITYPRODUCTION",
+        "PolicyType": "POLICY_URBAN_PLANNING"
+    },
+    {
+        "ModifierId": "VETERANCY_ENCAMPMENT_PRODUCTION",
+        "PolicyType": "POLICY_VETERANCY"
+    },
+    {
+        "ModifierId": "VETERANCY_ENCAMPMENT_BUILDINGS_PRODUCTION",
+        "PolicyType": "POLICY_VETERANCY"
+    },
+    {
+        "ModifierId": "WARS_OF_RELIGION_COMBAT",
+        "PolicyType": "POLICY_WARS_OF_RELIGION"
+    },
+    {
+        "ModifierId": "AUTOCRACY_CAPITAL",
+        "PolicyType": "POLICY_GOV_AUTOCRACY"
+    },
+    {
+        "ModifierId": "AUTOCRACY_TIER1",
+        "PolicyType": "POLICY_GOV_AUTOCRACY"
+    },
+    {
+        "ModifierId": "AUTOCRACY_TIER2",
+        "PolicyType": "POLICY_GOV_AUTOCRACY"
+    },
+    {
+        "ModifierId": "AUTOCRACY_TIER3",
+        "PolicyType": "POLICY_GOV_AUTOCRACY"
+    },
+    {
+        "ModifierId": "OLIGARCHY_LEGACY_MELEE",
+        "PolicyType": "POLICY_GOV_OLIGARCHY"
+    },
+    {
+        "ModifierId": "CLASSICAL_REPUBLIC_AMENITY",
+        "PolicyType": "POLICY_GOV_CLASSICAL_REPUBLIC"
+    },
+    {
+        "ModifierId": "CLASSICAL_REPUBLIC_HOUSING",
+        "PolicyType": "POLICY_GOV_CLASSICAL_REPUBLIC"
+    },
+    {
+        "ModifierId": "MONARCHY_WALLS_HOUSING",
+        "PolicyType": "POLICY_GOV_MONARCHY"
+    },
+    {
+        "ModifierId": "MONARCHY_CASTLE_HOUSING",
+        "PolicyType": "POLICY_GOV_MONARCHY"
+    },
+    {
+        "ModifierId": "MONARCHY_STARFORT_HOUSING",
+        "PolicyType": "POLICY_GOV_MONARCHY"
+    },
+    {
+        "ModifierId": "THEOCRACY_LEGACY_RELIGIOUS",
+        "PolicyType": "POLICY_GOV_THEOCRACY"
+    },
+    {
+        "ModifierId": "THEOCRACY_RELIGIOUS_PEOPLE",
+        "PolicyType": "POLICY_GOV_THEOCRACY"
+    },
+    {
+        "ModifierId": "MERCHANT_REPUBLIC_GOLD_MODIFIER",
+        "PolicyType": "POLICY_GOV_MERCHANT_REPUBLIC"
+    },
+    {
+        "ModifierId": "FASCISM_LEGACY_ATTACK",
+        "PolicyType": "POLICY_GOV_FASCISM"
+    },
+    {
+        "ModifierId": "FASCISM_WAR_WEARINESS",
+        "PolicyType": "POLICY_GOV_FASCISM"
+    },
+    {
+        "ModifierId": "COMMUNISM_PRODUCTIVE_PEOPLE",
+        "PolicyType": "POLICY_GOV_COMMUNISM"
+    },
+    {
+        "ModifierId": "DEMOCRACY_TRADEROUTEFOODTOALLY",
+        "PolicyType": "POLICY_GOV_DEMOCRACY"
+    },
+    {
+        "ModifierId": "DEMOCRACY_TRADEROUTEPRODUCTIONTOALLY",
+        "PolicyType": "POLICY_GOV_DEMOCRACY"
+    },
+    {
+        "ModifierId": "DEMOCRACY_TRADEROUTEFOODFROMALLY",
+        "PolicyType": "POLICY_GOV_DEMOCRACY"
+    },
+    {
+        "ModifierId": "DEMOCRACY_TRADEROUTEPRODUCTIONFROMALLY",
+        "PolicyType": "POLICY_GOV_DEMOCRACY"
+    },
+    {
+        "ModifierId": "DEMOCRACY_TRADEROUTEFOODTOSUZERAIN",
+        "PolicyType": "POLICY_GOV_DEMOCRACY"
+    },
+    {
+        "ModifierId": "DEMOCRACY_TRADEROUTEPRODUCTIONTOSUZERAIN",
+        "PolicyType": "POLICY_GOV_DEMOCRACY"
+    },
+    {
+        "ModifierId": "DEMOCRACY_TRADEROUTEFOODFROMSUZERAIN",
+        "PolicyType": "POLICY_GOV_DEMOCRACY"
+    },
+    {
+        "ModifierId": "DEMOCRACY_TRADEROUTEPRODUCTIONFROMSUZERAIN",
+        "PolicyType": "POLICY_GOV_DEMOCRACY"
+    },
+    {
+        "ModifierId": "DEMOCRACY_ALLIANCEPOINTS",
+        "PolicyType": "POLICY_GOV_DEMOCRACY"
+    },
+    {
+        "ModifierId": "AFTERACTIONREPORTS_EXPERIENCE",
+        "PolicyType": "POLICY_AFTER_ACTION_REPORTS"
+    },
+    {
+        "ModifierId": "CIVILPRESTIGE_GOVAMENITY",
+        "PolicyType": "POLICY_CIVIL_PRESTIGE"
+    },
+    {
+        "ModifierId": "CIVILPRESTIGE_GOVHOUSING",
+        "PolicyType": "POLICY_CIVIL_PRESTIGE"
+    },
+    {
+        "ModifierId": "COLONIALOFFICES_FOREIGNIDENTITY",
+        "PolicyType": "POLICY_COLONIAL_OFFICES"
+    },
+    {
+        "ModifierId": "COLONIALTAXES_FOREIGNPRODUCTION",
+        "PolicyType": "POLICY_COLONIAL_TAXES"
+    },
+    {
+        "ModifierId": "LIMES_TSIKHEPRODUCTION",
+        "PolicyType": "POLICY_LIMES"
+    },
+    {
+        "ModifierId": "LIMITANEI_GARRISONIDENTITY",
+        "PolicyType": "POLICY_LIMITANEI"
+    },
+    {
+        "ModifierId": "MARTIALLAW_GARRISONIDENTITY",
+        "PolicyType": "POLICY_MARTIAL_LAW"
+    },
+    {
+        "ModifierId": "PRAETORIUM_GOVERNORIDENTITY",
+        "PolicyType": "POLICY_PRAETORIUM"
+    },
+    {
+        "ModifierId": "WISSELBANKEN_TRADEROUTEFOODTOALLY",
+        "PolicyType": "POLICY_WISSELBANKEN"
+    },
+    {
+        "ModifierId": "WISSELBANKEN_TRADEROUTEFOODTOSUZERAIN",
+        "PolicyType": "POLICY_WISSELBANKEN"
+    },
+    {
+        "ModifierId": "FREEMARKET_BUILDING_YIELDS_HIGH_ADJACENCY",
+        "PolicyType": "POLICY_FREE_MARKET"
+    },
+    {
+        "ModifierId": "FREEMARKET_BUILDING_YIELDS_HIGH_POP",
+        "PolicyType": "POLICY_FREE_MARKET"
+    },
+    {
+        "ModifierId": "GRANDOPERA_BUILDING_YIELDS_HIGH_ADJACENCY",
+        "PolicyType": "POLICY_GRAND_OPERA"
+    },
+    {
+        "ModifierId": "GRANDOPERA_BUILDING_YIELDS_HIGH_POP",
+        "PolicyType": "POLICY_GRAND_OPERA"
+    },
+    {
+        "ModifierId": "RATIONALISM_BUILDING_YIELDS_HIGH_ADJACENCY",
+        "PolicyType": "POLICY_RATIONALISM"
+    },
+    {
+        "ModifierId": "RATIONALISM_BUILDING_YIELDS_HIGH_POP",
+        "PolicyType": "POLICY_RATIONALISM"
+    },
+    {
+        "ModifierId": "SIMULTANEUM_BUILDING_YIELDS_HIGH_ADJACENCY",
+        "PolicyType": "POLICY_SIMULTANEUM"
+    },
+    {
+        "ModifierId": "SIMULTANEUM_BUILDING_YIELDS_HIGH_POP",
+        "PolicyType": "POLICY_SIMULTANEUM"
+    },
+    {
+        "ModifierId": "SECONDSTRIKE_MAINTENANCEWMDS",
+        "PolicyType": "POLICY_SECOND_STRIKE_CAPABILITY"
+    },
+    {
+        "ModifierId": "WISSELBANKEN_TRADEROUTEPRODUCTIONTOALLY",
+        "PolicyType": "POLICY_WISSELBANKEN"
+    },
+    {
+        "ModifierId": "WISSELBANKEN_TRADEROUTEFOODFROMALLY",
+        "PolicyType": "POLICY_WISSELBANKEN"
+    },
+    {
+        "ModifierId": "WISSELBANKEN_TRADEROUTEPRODUCTIONFROMALLY",
+        "PolicyType": "POLICY_WISSELBANKEN"
+    },
+    {
+        "ModifierId": "WISSELBANKEN_TRADEROUTEPRODUCTIONTOSUZERAIN",
+        "PolicyType": "POLICY_WISSELBANKEN"
+    },
+    {
+        "ModifierId": "WISSELBANKEN_TRADEROUTEFOODFROMSUZERAIN",
+        "PolicyType": "POLICY_WISSELBANKEN"
+    },
+    {
+        "ModifierId": "WISSELBANKEN_TRADEROUTEPRODUCTIONFROMSUZERAIN",
+        "PolicyType": "POLICY_WISSELBANKEN"
+    },
+    {
+        "ModifierId": "WISSELBANKEN_ALLIANCEPOINTS",
+        "PolicyType": "POLICY_WISSELBANKEN"
+    },
+    {
+        "ModifierId": "COMMUNICATIONS_OFFICE_GOVERNOR_IDENTITY_PER_TITLE",
+        "PolicyType": "POLICY_COMMUNICATIONS_OFFICE"
+    },
+    {
+        "ModifierId": "SACK_DOUBLEPILLAGEDISTRICT",
+        "PolicyType": "POLICY_RAID"
+    },
+    {
+        "ModifierId": "MACHIAVELLIANISM_OFFENSIVESPYTIME",
+        "PolicyType": "POLICY_MACHIAVELLIANISM"
+    },
+    {
+        "ModifierId": "MILITARYRESEARCH_MILITARY_ACADEMY_SCIENCE_MODIFIER",
+        "PolicyType": "POLICY_MILITARY_RESEARCH"
+    },
+    {
+        "ModifierId": "MILITARYRESEARCH_SEAPORT_SCIENCE_MODIFIER",
+        "PolicyType": "POLICY_MILITARY_RESEARCH"
+    },
+    {
+        "ModifierId": "MILITARYRESEARCH_RENAISSANCE_WALLS_SCIENCE_MODIFIER",
+        "PolicyType": "POLICY_MILITARY_RESEARCH"
+    },
+    {
+        "ModifierId": "PUBLICTRANSPORT_FARMREPLACEGOLD",
+        "PolicyType": "POLICY_PUBLIC_TRANSPORT"
+    },
+    {
+        "ModifierId": "ECOMMERCE_TRADEROUTEPRODUCTION",
+        "PolicyType": "POLICY_ECOMMERCE"
+    },
+    {
+        "ModifierId": "ECOMMERCE_TRADEROUTEGOLD",
+        "PolicyType": "POLICY_ECOMMERCE"
+    },
+    {
+        "ModifierId": "TOTAL_WAR_PLUNDER_BONUS",
+        "PolicyType": "POLICY_TOTAL_WAR"
+    },
+    {
+        "ModifierId": "MONASTICISM_HOLYSITE_SCIENCE",
+        "PolicyType": "POLICY_MONASTICISM"
+    },
+    {
+        "ModifierId": "INQUISITION_REDUCE_START_CHARGES",
+        "PolicyType": "POLICY_INQUISITION"
+    },
+    {
+        "ModifierId": "INQUISITION_FRIENDLY_TERRITORY_COMBAT",
+        "PolicyType": "POLICY_INQUISITION"
+    },
+    {
+        "ModifierId": "ISOLATIONISM_DISABLE_SETTLING",
+        "PolicyType": "POLICY_ISOLATIONISM"
+    },
+    {
+        "ModifierId": "ISOLATIONISM_DISABLE_BUILD_SETTLER",
+        "PolicyType": "POLICY_ISOLATIONISM"
+    },
+    {
+        "ModifierId": "ROBBERBARONS_AMENITIES_LOST",
+        "PolicyType": "POLICY_ROBBER_BARONS"
+    },
+    {
+        "ModifierId": "ELITEFORCES_EXPERIENCE_BOOST",
+        "PolicyType": "POLICY_ELITE_FORCES"
+    },
+    {
+        "ModifierId": "COLLECTIVISM_ADD_HOUSING",
+        "PolicyType": "POLICY_COLLECTIVISM"
+    },
+    {
+        "ModifierId": "COLLECTIVISM_REDUCE_GPP_RATE",
+        "PolicyType": "POLICY_COLLECTIVISM"
+    },
+    {
+        "ModifierId": "ROGUESTATE_MANHATTANPROJECT_PRODUCTION",
+        "PolicyType": "POLICY_ROGUE_STATE"
+    },
+    {
+        "ModifierId": "ROGUESTATE_PROJECTIVY_PRODUCTION",
+        "PolicyType": "POLICY_ROGUE_STATE"
+    },
+    {
+        "ModifierId": "ROGUESTATE_NUCLEARDEVICE_PRODUCTION",
+        "PolicyType": "POLICY_ROGUE_STATE"
+    },
+    {
+        "ModifierId": "ROGUESTATE_THERMONUCLEARDEVICE_PRODUCTION",
+        "PolicyType": "POLICY_ROGUE_STATE"
+    },
+    {
+        "ModifierId": "ROGUESTATE_DISABLE_INFLUENCE",
+        "PolicyType": "POLICY_ROGUE_STATE"
+    },
+    {
+        "ModifierId": "MONARCHY_STARFORT_FAVOR",
+        "PolicyType": "POLICY_GOV_MONARCHY"
+    },
+    {
+        "ModifierId": "FUTURE_VICTORY_SCIENCE_SPACEPORT_POWER",
+        "PolicyType": "POLICY_FUTURE_VICTORY_SCIENCE"
+    },
+    {
+        "ModifierId": "FUTURE_VICTORY_SCIENCE_SPACEPORT_ALUMINUM",
+        "PolicyType": "POLICY_FUTURE_VICTORY_SCIENCE"
+    },
+    {
+        "ModifierId": "FUTURE_COUNTER_CULTURE_TOURISM_REDUCTION",
+        "PolicyType": "POLICY_FUTURE_COUNTER_CULTURE"
+    },
+    {
+        "ModifierId": "FUTURE_VICTORY_CULTURE_ROCK_BAND_PROMOTIONS",
+        "PolicyType": "POLICY_FUTURE_VICTORY_CULTURE"
+    },
+    {
+        "ModifierId": "FUTURE_COUNTER_SCIENCE_SPY_PROMOTIONS",
+        "PolicyType": "POLICY_FUTURE_COUNTER_SCIENCE"
+    },
+    {
+        "ModifierId": "FUTURE_VICTORY_DOMINATION_GDR_PRODUCTION",
+        "PolicyType": "POLICY_FUTURE_VICTORY_DOMINATION"
+    },
+    {
+        "ModifierId": "FUTURE_VICTORY_DOMINATION_ENEMY_TERRITORY_MOVEMENT",
+        "PolicyType": "POLICY_FUTURE_VICTORY_DOMINATION"
+    },
+    {
+        "ModifierId": "FUTURE_COUNTER_DIPLOMATIC_REFUND_VP_RESOLUTION",
+        "PolicyType": "POLICY_FUTURE_COUNTER_DIPLOMATIC"
+    },
+    {
+        "ModifierId": "FUTURE_COUNTER_DIPLOMATIC_FAVOR_PER_TURN",
+        "PolicyType": "POLICY_FUTURE_COUNTER_DIPLOMATIC"
+    },
+    {
+        "ModifierId": "FUTURE_VICTORY_DIPLOMATIC_FAVOR_PER_TURN",
+        "PolicyType": "POLICY_FUTURE_VICTORY_DIPLOMATIC"
+    },
+    {
+        "ModifierId": "FUTURE_COUNTER_DOMINATION_FRIENDLY_TERRITORY_STRENGTH",
+        "PolicyType": "POLICY_FUTURE_COUNTER_DOMINATION"
+    },
+    {
+        "ModifierId": "EQUESTRIAN_ORDERS_ADDITIONAL_HORSES_EXTRACTION",
+        "PolicyType": "POLICY_EQUESTRIAN_ORDERS"
+    },
+    {
+        "ModifierId": "EQUESTRIAN_ORDERS_ADDITIONAL_IRON_EXTRACTION",
+        "PolicyType": "POLICY_EQUESTRIAN_ORDERS"
+    },
+    {
+        "ModifierId": "DRILL_MANUALS_ADDITIONAL_NITER_EXTRACTION",
+        "PolicyType": "POLICY_DRILL_MANUALS"
+    },
+    {
+        "ModifierId": "DRILL_MANUALS_ADDITIONAL_COAL_EXTRACTION",
+        "PolicyType": "POLICY_DRILL_MANUALS"
+    },
+    {
+        "ModifierId": "PROFESSIONAL_ARMY_UPGRADE_RESOURCE_DISCOUNT",
+        "PolicyType": "POLICY_RETINUES"
+    },
+    {
+        "ModifierId": "PROFESSIONAL_ARMY_UPGRADE_RESOURCE_DISCOUNT",
+        "PolicyType": "POLICY_FORCE_MODERNIZATION"
+    },
+    {
+        "ModifierId": "PROFESSIONAL_ARMY_UNITUPGRADEDISCOUNT",
+        "PolicyType": "POLICY_FORCE_MODERNIZATION"
+    },
+    {
+        "ModifierId": "MUSIC_CENSORSHIP_BLOCK_ROCK_BAND_ENTRY",
+        "PolicyType": "POLICY_MUSIC_CENSORSHIP"
+    },
+    {
+        "ModifierId": "MUSIC_CENSORSHIP_AMENITY_LOSS",
+        "PolicyType": "POLICY_MUSIC_CENSORSHIP"
+    },
+    {
+        "ModifierId": "FLOWER_POWER_ROCKBAND_DISCOUNT",
+        "PolicyType": "POLICY_FLOWER_POWER"
+    },
+    {
+        "ModifierId": "FLOWER_POWER_PURCHASE_INCREASE",
+        "PolicyType": "POLICY_FLOWER_POWER"
+    },
+    {
+        "ModifierId": "FLOWER_POWER_PRODUCTION_INCREASE",
+        "PolicyType": "POLICY_FLOWER_POWER"
+    },
+    {
+        "ModifierId": "FLOWER_POWER_TOURISM_BOMB_CONCERT_VALUE",
+        "PolicyType": "POLICY_FLOWER_POWER"
+    },
+    {
+        "ModifierId": "CYBER_WARFARE_COMBAT_BONUS",
+        "PolicyType": "POLICY_CYBER_WARFARE"
+    },
+    {
+        "ModifierId": "CYBER_WARFARE_DISABLE_GRIEVANCE_DECAY",
+        "PolicyType": "POLICY_CYBER_WARFARE"
+    },
+    {
+        "ModifierId": "AUTOMATED_WORKFORCE_PROJECT_PRODUCTION",
+        "PolicyType": "POLICY_AUTOMATED_WORKFORCE"
+    },
+    {
+        "ModifierId": "AUTOMATED_WORKFORCE_AMENITY_LOSS",
+        "PolicyType": "POLICY_AUTOMATED_WORKFORCE"
+    },
+    {
+        "ModifierId": "AUTOMATED_WORKFORCE_LOYALTY_LOSS",
+        "PolicyType": "POLICY_AUTOMATED_WORKFORCE"
+    },
+    {
+        "ModifierId": "DISINFORMATION_CAMPAIGN_BROADCAST_FAVOR",
+        "PolicyType": "POLICY_DISINFORMATION_CAMPAIGN"
+    },
+    {
+        "ModifierId": "DISINFORMATION_CAMPAIGN_SCIENCE_REDUCTION",
+        "PolicyType": "POLICY_DISINFORMATION_CAMPAIGN"
+    },
+    {
+        "ModifierId": "DISINFORMATION_CAMPAIGN_CULTURE_REDUCTION",
+        "PolicyType": "POLICY_DISINFORMATION_CAMPAIGN"
+    },
+    {
+        "ModifierId": "RESOURCE_MANAGEMENT_ADDITIONAL_ALUMINUM_EXTRACTION",
+        "PolicyType": "POLICY_RESOURCE_MANAGEMENT"
+    },
+    {
+        "ModifierId": "RESOURCE_MANAGEMENT_ADDITIONAL_OIL_EXTRACTION",
+        "PolicyType": "POLICY_RESOURCE_MANAGEMENT"
+    },
+    {
+        "ModifierId": "FINEST_HOUR_FRIENDLY_TERRITORY",
+        "PolicyType": "POLICY_FINEST_HOUR"
+    },
+    {
+        "ModifierId": "THIRDALTERNATIVE_MILITARY_ACADEMY_CULTURE_MODIFIER",
+        "PolicyType": "POLICY_THIRD_ALTERNATIVE"
+    },
+    {
+        "ModifierId": "THIRDALTERNATIVE_RESEARCH_LAB_CULTURE_MODIFIER",
+        "PolicyType": "POLICY_THIRD_ALTERNATIVE"
+    },
+    {
+        "ModifierId": "THIRDALTERNATIVE_COAL_POWER_PLANT_CULTURE_MODIFIER",
+        "PolicyType": "POLICY_THIRD_ALTERNATIVE"
+    },
+    {
+        "ModifierId": "THIRDALTERNATIVE_FOSSIL_FUEL_POWER_PLANT_CULTURE_MODIFIER",
+        "PolicyType": "POLICY_THIRD_ALTERNATIVE"
+    },
+    {
+        "ModifierId": "THIRDALTERNATIVE_POWER_PLANT_CULTURE_MODIFIER",
+        "PolicyType": "POLICY_THIRD_ALTERNATIVE"
+    },
+    {
+        "ModifierId": "THIRDALTERNATIVE_COAL_POWER_PLANT_GOLD_MODIFIER",
+        "PolicyType": "POLICY_THIRD_ALTERNATIVE"
+    },
+    {
+        "ModifierId": "THIRDALTERNATIVE_FOSSIL_FUEL_POWER_PLANT_GOLD_MODIFIER",
+        "PolicyType": "POLICY_THIRD_ALTERNATIVE"
+    },
+    {
+        "ModifierId": "COLLECTIVIZATION_INTERNAL_TRADE_PRODUCTION",
+        "PolicyType": "POLICY_COLLECTIVIZATION"
+    },
+    {
+        "ModifierId": "DEFENSEOFMOTHERLAND_MODERN_SUPPORT_PRODUCTION",
+        "PolicyType": "POLICY_DEFENSE_OF_MOTHERLAND"
+    },
+    {
+        "ModifierId": "DEFENSEOFMOTHERLAND_ATOMIC_SUPPORT_PRODUCTION",
+        "PolicyType": "POLICY_DEFENSE_OF_MOTHERLAND"
+    },
+    {
+        "ModifierId": "DEFENSEOFMOTHERLAND_INFORMATION_SUPPORT_PRODUCTION",
+        "PolicyType": "POLICY_DEFENSE_OF_MOTHERLAND"
+    },
+    {
+        "ModifierId": "VETERANCY_HARBOR_PRODUCTION",
+        "PolicyType": "POLICY_VETERANCY"
+    },
+    {
+        "ModifierId": "VETERANCY_HARBOR_BUILDINGS_PRODUCTION",
+        "PolicyType": "POLICY_VETERANCY"
+    },
+    {
+        "ModifierId": "RAJ_CITY_TRADE_ROUTE_GOLD",
+        "PolicyType": "POLICY_RAJ"
+    },
+    {
+        "ModifierId": "PUBLICTRANSPORT_NEIGHBORHOOD_GOLD",
+        "PolicyType": "POLICY_PUBLIC_TRANSPORT"
+    },
+    {
+        "ModifierId": "PUBLICTRANSPORT_CHARMING_NEIGHBORHOOD_FOOD",
+        "PolicyType": "POLICY_PUBLIC_TRANSPORT"
+    },
+    {
+        "ModifierId": "PUBLICTRANSPORT_CHARMING_NEIGHBORHOOD_PRODUCTION",
+        "PolicyType": "POLICY_PUBLIC_TRANSPORT"
+    },
+    {
+        "ModifierId": "PUBLICTRANSPORT_BREATHTAKING_NEIGHBORHOOD_FOOD",
+        "PolicyType": "POLICY_PUBLIC_TRANSPORT"
+    },
+    {
+        "ModifierId": "PUBLICTRANSPORT_BREATHTAKING_NEIGHBORHOOD_PRODUCTION",
+        "PolicyType": "POLICY_PUBLIC_TRANSPORT"
+    },
+    {
+        "ModifierId": "FRESCOES_ARTIST_ARTMUSEUM",
+        "PolicyType": "POLICY_FRESCOES"
+    },
+    {
+        "ModifierId": "SYMPHONIES_MUSICIAN_BROADCASTCENTER",
+        "PolicyType": "POLICY_SYMPHONIES"
+    },
+    {
+        "ModifierId": "INVENTION_ENGINEER_WORKSHOP",
+        "PolicyType": "POLICY_INVENTION"
+    },
+    {
+        "ModifierId": "INVENTION_GREATENGINEERPOINTS",
+        "PolicyType": "POLICY_INVENTION"
+    },
+    {
+        "ModifierId": "LAISSEZFAIRE_MERCHANT_BANK",
+        "PolicyType": "POLICY_LAISSEZ_FAIRE"
+    },
+    {
+        "ModifierId": "LAISSEZFAIRE_MERCHANT_STOCKEXCHANGE",
+        "PolicyType": "POLICY_LAISSEZ_FAIRE"
+    },
+    {
+        "ModifierId": "LAISSEZFAIRE_ADMIRAL_SHIPYARD",
+        "PolicyType": "POLICY_LAISSEZ_FAIRE"
+    },
+    {
+        "ModifierId": "LAISSEZFAIRE_ADMIRAL_SEAPORT",
+        "PolicyType": "POLICY_LAISSEZ_FAIRE"
+    },
+    {
+        "ModifierId": "SCIENCEFOUNDATION_SCIENTIST_UNIVERSITY",
+        "PolicyType": "POLICY_NOBEL_PRIZE"
+    },
+    {
+        "ModifierId": "SCIENCEFOUNDATION_SCIENTIST_RESEARCHLAB",
+        "PolicyType": "POLICY_NOBEL_PRIZE"
+    },
+    {
+        "ModifierId": "SCIENCEFOUNDATION_ENGINEER_FACTORY",
+        "PolicyType": "POLICY_NOBEL_PRIZE"
+    },
+    {
+        "ModifierId": "SCIENCEFOUNDATION_ENGINEER_POWERPLANT",
+        "PolicyType": "POLICY_NOBEL_PRIZE"
+    },
+    {
+        "ModifierId": "MILITARYORGANIZATION_GREATGENERAL_ARMORY",
+        "PolicyType": "POLICY_MILITARY_ORGANIZATION"
+    },
+    {
+        "ModifierId": "MILITARYORGANIZATION_GREATGENERAL_MILITARYACADEMY",
+        "PolicyType": "POLICY_MILITARY_ORGANIZATION"
+    },
+    {
+        "ModifierId": "MILITARYORGANIZATION_GREATGENERAL_MOVEMENT",
+        "PolicyType": "POLICY_MILITARY_ORGANIZATION"
+    },
+    {
+        "ModifierId": "POLICY_FREE_ENQUIRY_GA_HARBOR",
+        "PolicyType": "POLICY_FREE_ENQUIRY"
+    },
+    {
+        "ModifierId": "POLICY_FREE_ENQUIRY_GA_COMMERCIAL_HUB",
+        "PolicyType": "POLICY_FREE_ENQUIRY"
+    },
+    {
+        "ModifierId": "POLICY_FREE_ENQUIRY_GA_CAMPUS",
+        "PolicyType": "POLICY_FREE_ENQUIRY"
+    },
+    {
+        "ModifierId": "POLICY_PRAETORIAN_GUARD_GA_HEALING",
+        "PolicyType": "POLICY_PRAETORIAN_GUARD"
+    },
+    {
+        "ModifierId": "POLICY_PRAETORIAN_GUARD_GA_PRODUCTION_ENCAMPMENT",
+        "PolicyType": "POLICY_PRAETORIAN_GUARD"
+    },
+    {
+        "ModifierId": "POLICY_PRAETORIAN_GUARD_GA_PRODUCTION_BARRACKS",
+        "PolicyType": "POLICY_PRAETORIAN_GUARD"
+    },
+    {
+        "ModifierId": "POLICY_PRAETORIAN_GUARD_GA_PRODUCTION_STABLE",
+        "PolicyType": "POLICY_PRAETORIAN_GUARD"
+    },
+    {
+        "ModifierId": "POLICY_PRAETORIAN_GUARD_GA_PRODUCTION_ARMORY",
+        "PolicyType": "POLICY_PRAETORIAN_GUARD"
+    },
+    {
+        "ModifierId": "POLICY_PRAETORIAN_GUARD_GA_PRODUCTION_MILITARY_ACADEMY",
+        "PolicyType": "POLICY_PRAETORIAN_GUARD"
+    },
+    {
+        "ModifierId": "POLICY_EXODUS_OF_THE_EVANGELISTS_GA_CHARGES",
+        "PolicyType": "POLICY_EXODUS_OF_THE_EVANGELISTS"
+    },
+    {
+        "ModifierId": "POLICY_EXODUS_OF_THE_EVANGELISTS_GA_MOVEMENT",
+        "PolicyType": "POLICY_EXODUS_OF_THE_EVANGELISTS"
+    },
+    {
+        "ModifierId": "POLICY_EXODUS_OF_THE_EVANGELISTS_GA_GREAT_PROPHET_POINTS",
+        "PolicyType": "POLICY_EXODUS_OF_THE_EVANGELISTS"
+    },
+    {
+        "ModifierId": "POLICY_MONUMENTALITY_INFRASTRUCTURE_GA_PURCHASE_CIVILIAN",
+        "PolicyType": "POLICY_MONUMENTALITY"
+    },
+    {
+        "ModifierId": "POLICY_MONUMENTALITY_INFRASTRUCTURE_GA_MOVEMENT_BUILDER",
+        "PolicyType": "POLICY_MONUMENTALITY"
+    },
+    {
+        "ModifierId": "POLICY_MONUMENTALITY_GA_MOVEMENT_SETTLER",
+        "PolicyType": "POLICY_MONUMENTALITY"
+    },
+    {
+        "ModifierId": "POLICY_MONUMENTALITY_GA_BUILDER_DISCOUNT_MODIFIER",
+        "PolicyType": "POLICY_MONUMENTALITY"
+    },
+    {
+        "ModifierId": "POLICY_REFORM_THE_COINAGE_GA_TRADE_ROUTE_YIELDS",
+        "PolicyType": "POLICY_REFORM_THE_COINAGE"
+    },
+    {
+        "ModifierId": "POLICY_REFORM_THE_COINAGE_GA_PLUNDER_IMMUNITY_MODIFIER",
+        "PolicyType": "POLICY_REFORM_THE_COINAGE"
+    },
+    {
+        "ModifierId": "POLICY_CULTURE_INDUSTRY_GA_CULTURE_DISTRICT",
+        "PolicyType": "POLICY_CULTURE_INDUSTRY"
+    },
+    {
+        "ModifierId": "POLICY_CULTURE_INDUSTRY_GA_PRODUCTION_DISTRICT",
+        "PolicyType": "POLICY_CULTURE_INDUSTRY"
+    },
+    {
+        "ModifierId": "POLICY_CULTURE_INDUSTRY_GA_PURCHASE_ENTERTAINMENT_COMPLEX",
+        "PolicyType": "POLICY_CULTURE_INDUSTRY"
+    },
+    {
+        "ModifierId": "POLICY_CULTURE_INDUSTRY_GA_PURCHASE_WATER_PARK",
+        "PolicyType": "POLICY_CULTURE_INDUSTRY"
+    },
+    {
+        "ModifierId": "POLICY_HEARTBEAT_OF_STEAM_GA_INDUSTRIALINFORMATION",
+        "PolicyType": "POLICY_HEARTBEAT_OF_STEAM"
+    },
+    {
+        "ModifierId": "POLICY_HEARTBEAT_OF_STEAM_GA_CAMPUS",
+        "PolicyType": "POLICY_HEARTBEAT_OF_STEAM"
+    },
+    {
+        "ModifierId": "POLICY_TO_ARMS_GA_XP",
+        "PolicyType": "POLICY_TO_ARMS"
+    },
+    {
+        "ModifierId": "POLICY_TO_ARMS_GA_PRODUCTION",
+        "PolicyType": "POLICY_TO_ARMS"
+    },
+    {
+        "ModifierId": "POLICY_WISH_YOU_WERE_HERE_GA_NATIONAL_PARKS",
+        "PolicyType": "POLICY_WISH_YOU_WERE_HERE"
+    },
+    {
+        "ModifierId": "POLICY_WISH_YOU_WERE_HERE_GA_WONDERS",
+        "PolicyType": "POLICY_WISH_YOU_WERE_HERE"
+    },
+    {
+        "ModifierId": "POLICY_PRODUCTION_TO_SPACEPORTS",
+        "PolicyType": "POLICY_SKY_AND_STARS"
+    },
+    {
+        "ModifierId": "POLICY_PRODUCTION_TO_AERODROMES",
+        "PolicyType": "POLICY_SKY_AND_STARS"
+    },
+    {
+        "ModifierId": "POLICY_PRODUCTION_FROM_AERODROMES_AND_SPACEPORTS",
+        "PolicyType": "POLICY_SKY_AND_STARS"
+    },
+    {
+        "ModifierId": "POLICY_SCIENCE_FROM_AERODROMES_AND_SPACEPORTS",
+        "PolicyType": "POLICY_SKY_AND_STARS"
+    },
+    {
+        "ModifierId": "POLICY_MANDALA_STATE_WONDER_CULTURE",
+        "PolicyType": "POLICY_MANDALA_STATE"
+    },
+    {
+        "ModifierId": "POLICY_MANDALA_STATE_WONDER_IDENTITY",
+        "PolicyType": "POLICY_MANDALA_STATE"
+    },
+    {
+        "ModifierId": "POLICY_SAKDINA_PROJECT_LOYALTY",
+        "PolicyType": "POLICY_SAKDINA"
+    },
+    {
+        "ModifierId": "POLICY_SAKDINA_PROJECT_POINTS_MULTIPLIER",
+        "PolicyType": "POLICY_SAKDINA"
+    },
+    {
+        "ModifierId": "POLICY_SOLIDARITY_GOVERNOR_LOYALTY",
+        "PolicyType": "POLICY_SOLDARITY"
+    },
+    {
+        "ModifierId": "POLICY_SOLIDARITY_GOVERNOR_FAITH",
+        "PolicyType": "POLICY_SOLDARITY"
+    },
+    {
+        "ModifierId": "POLICY_SOLIDARITY_GOVERNOR_GOLD",
+        "PolicyType": "POLICY_SOLDARITY"
+    },
+    {
+        "ModifierId": "MONASTICISM_CULTURE_MODIFIER",
+        "PolicyType": "POLICY_MONASTICISM"
+    },
+    {
+        "ModifierId": "ELITEFORCES_EXTRA_MAINTENANCE",
+        "PolicyType": "POLICY_ELITE_FORCES"
+    },
+    {
+        "ModifierId": "INQUISITION_SCIENCE_MODIFIER",
+        "PolicyType": "POLICY_INQUISITION"
+    },
+    {
+        "ModifierId": "ISOLATIONISM_DOMESTIC_TRADE_ROUTE_FOOD",
+        "PolicyType": "POLICY_ISOLATIONISM"
+    },
+    {
+        "ModifierId": "ISOLATIONISM_DOMESTIC_TRADE_ROUTE_PRODUCTION",
+        "PolicyType": "POLICY_ISOLATIONISM"
+    },
+    {
+        "ModifierId": "ROBBERBARONS_BANK_OR_SHIPYARD_GOLD",
+        "PolicyType": "POLICY_ROBBER_BARONS"
+    },
+    {
+        "ModifierId": "ROBBERBARONS_BANK_OR_SHIPYARD_PRODUCTION",
+        "PolicyType": "POLICY_ROBBER_BARONS"
+    },
+    {
+        "ModifierId": "ISOLATIONISM_DOMESTIC_TRADE_ROUTE_GOLD",
+        "PolicyType": "POLICY_ISOLATIONISM"
+    },
+    {
+        "ModifierId": "COLLECTIVISM_FARM_PRODUCTION",
+        "PolicyType": "POLICY_COLLECTIVISM"
+    },
+    {
+        "ModifierId": "COLLECTIVISM_FOOD_INDUSTRIAL_ADJACENCY",
+        "PolicyType": "POLICY_COLLECTIVISM"
+    },
+    {
+        "ModifierId": "DECENTRALIZATION_LOWPOP_LOYALTY",
+        "PolicyType": "POLICY_DECENTRALIZATION"
+    },
+    {
+        "ModifierId": "DECENTRALIZATION_HIGHPOP_GOLD",
+        "PolicyType": "POLICY_DECENTRALIZATION"
+    },
+    {
+        "ModifierId": "SOFT_TARGETS_DEFENDING_CITY_RANGE",
+        "PolicyType": "POLICY_SOFT_TARGETS"
+    },
+    {
+        "ModifierId": "SOFT_TARGETS_ATTACKING_DISTRICTS",
+        "PolicyType": "POLICY_SOFT_TARGETS"
+    },
+    {
+        "ModifierId": "SOFT_TARGETS_ATTACKING_UNITS",
+        "PolicyType": "POLICY_SOFT_TARGETS"
+    },
+    {
+        "ModifierId": "DESPOTIC_PATERNALISM_LOYALTY",
+        "PolicyType": "POLICY_DESPOTIC_PATERNALISM"
+    },
+    {
+        "ModifierId": "DESPOTIC_PATERNALISM_SCIENCE",
+        "PolicyType": "POLICY_DESPOTIC_PATERNALISM"
+    },
+    {
+        "ModifierId": "DESPOTIC_PATERNALISM_CULTURE",
+        "PolicyType": "POLICY_DESPOTIC_PATERNALISM"
+    },
+    {
+        "ModifierId": "SAMODERZHAVIYE_CAPITAL_PRODUCTION",
+        "PolicyType": "POLICY_SAMODERZHAVIYE"
+    },
+    {
+        "ModifierId": "SAMODERZHAVIYE_GOVERNOR_NEUTRALIZE",
+        "PolicyType": "POLICY_SAMODERZHAVIYE"
+    },
+    {
+        "ModifierId": "POLICY_POPULAR_FRONT_ALLIANCE_FAVOR",
+        "PolicyType": "POLICY_POPULAR_FRONT"
+    },
+    {
+        "ModifierId": "POLICY_POPULAR_FRONT_SUZERAIN_FAVOR",
+        "PolicyType": "POLICY_POPULAR_FRONT"
+    },
+    {
+        "ModifierId": "POLICY_POPULAR_FRONT_CITY_STATE_GOLD",
+        "PolicyType": "POLICY_POPULAR_FRONT"
+    },
+    {
+        "ModifierId": "POLICY_POPULAR_FRONT_CITY_STATE_FAITH",
+        "PolicyType": "POLICY_POPULAR_FRONT"
+    },
+    {
+        "ModifierId": "POLICY_POPULAR_FRONT_CITY_STATE_PRODUCTION",
+        "PolicyType": "POLICY_POPULAR_FRONT"
+    },
+    {
+        "ModifierId": "POLICY_POPULAR_FRONT_CITY_STATE_SCIENCE",
+        "PolicyType": "POLICY_POPULAR_FRONT"
+    },
+    {
+        "ModifierId": "POLICY_POPULAR_FRONT_CITY_STATE_CULTURE",
+        "PolicyType": "POLICY_POPULAR_FRONT"
+    },
+    {
+        "ModifierId": "POLICY_POPULAR_FRONT_CITY_STATE_FOOD",
+        "PolicyType": "POLICY_POPULAR_FRONT"
+    },
+    {
+        "ModifierId": "POLICY_MILITARY_INDUSTRIAL_COMPLEX_ALUMINUM",
+        "PolicyType": "POLICY_MILITARY_INDUSTRIAL_COMPLEX"
+    },
+    {
+        "ModifierId": "POLICY_MILITARY_INDUSTRIAL_COMPLEX_OIL",
+        "PolicyType": "POLICY_MILITARY_INDUSTRIAL_COMPLEX"
+    },
+    {
+        "ModifierId": "POLICY_MILITARY_INDUSTRIAL_COMPLEX_URANIUM",
+        "PolicyType": "POLICY_MILITARY_INDUSTRIAL_COMPLEX"
+    },
+    {
+        "ModifierId": "POLICY_MILITARY_INDUSTRIAL_COMPLEX_COMBAT_STRENGTH",
+        "PolicyType": "POLICY_MILITARY_INDUSTRIAL_COMPLEX"
+    },
+    {
+        "ModifierId": "POLICY_MILITARY_INDUSTRIAL_COMPLEX_RANGE",
+        "PolicyType": "POLICY_MILITARY_INDUSTRIAL_COMPLEX"
+    },
+    {
+        "ModifierId": "CONSULATE_TIER1",
+        "PolicyType": "POLICY_GOV_AUTOCRACY"
+    },
+    {
+        "ModifierId": "CHANCERY_TIER2",
+        "PolicyType": "POLICY_GOV_AUTOCRACY"
+    }
+]

@@ -1,0 +1,926 @@
+[
+    {
+        "MultiUnitFormationType": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_CITY_BOMBARD"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_COUNTER"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_COUNTER"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BASIC_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_GENERAL",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_GENERAL"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_CITY_BOMBARD"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_COUNTER"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_COUNTER"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_GENERAL",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_GENERAL"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_RANGED",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_ATTACK"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_RANGED",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_ATTACK"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_COUNTER",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_BIGGER_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_COUNTER",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_CITY_BOMBARD"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_CITY_BOMBARD"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_FAST_PILLAGERS",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_FAST_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_FAST_PILLAGERS",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_FAST_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_FAST_PILLAGERS",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_FAST_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_ANTI_BARBARIAN_TEAM",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_RANGED",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_CITY_BOMBARD"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_ANTI_BARBARIAN_TEAM",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_FAST_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_ANTI_BARBARIAN_TEAM",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_FAST_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_ANTI_BARBARIAN_TEAM",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_FAST_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_RAPID_RESPONSE_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_COUNTER",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_RAPID_RESPONSE_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_RANGED",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_RAPID_RESPONSE_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_FAST_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_RAPID_RESPONSE_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_FAST_ATTACK",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CLOSE_CITY_DEFENSE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_COUNTER",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CLOSE_CITY_DEFENSE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_COUNTER",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CLOSE_CITY_DEFENSE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_RANGED",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CLOSE_CITY_DEFENSE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_RANGED",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_SETTLER_ESCORT",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_SETTLE",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_SETTLE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_SETTLER_ESCORT",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_DEFENSE",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_COUNTER"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_MERCHANT_ESCORT",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_MERCHANT",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_MERCHANT"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_MERCHANT_ESCORT",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_DEFENSE",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_COUNTER"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_SMALL_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_SMALL_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_SMALL_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_SMALL_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_CITY_BOMBARD"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_SMALL_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_SMALL_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_SMALL_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_SMALL_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_GENERAL",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_GENERAL"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_SMALL_CITY_ATTACK_FORCE",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_RANGED",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_ATTACK"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_QUICK_COLONY_SETTLER",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_SETTLE",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_SETTLE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_SQUADRON",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_SQUADRON",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_SQUADRON",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK_SEA",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_SQUADRON",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_SQUADRON",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_SQUADRON",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_SQUADRON",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_ADMIRAL",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_ASSAULT_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_COLONIZATION_PARTY",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_SETTLE",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_SETTLE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_COLONIZATION_PARTY",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_DEFENSE",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_COUNTER"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_COLONIZATION_PARTY",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ESCORT_SEA",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_COLONIZATION_PARTY",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ESCORT_SEA",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_COLONIZATION_PARTY",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ESCORT_SEA",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ATTACK_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ATTACK_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ATTACK_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_ADMIRAL",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_ADMIRAL"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CARRIER_SEA",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_CARRIER_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CARRIER_SEA",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_CARRIER_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CARRIER_SEA",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_CARRIER_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ATTACK_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ATTACK_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_NAVAL_ESCORT",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_RESERVE_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CITY_STATE_INVASION",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_ADMIRAL",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_ADMIRAL"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NUKE_ATTACK",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ICBM",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_ICBM"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_EARLY_RUSH",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_EARLY_RUSH",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_EARLY_RUSH",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_EARLY_RUSH",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_EARLY_RUSH",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_EARLY_RUSH",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_DEFENSE"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_EARLY_RUSH",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_EARLY_RUSH",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CITY_BOMBARD",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_RANGED"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_EARLY_RUSH",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_GENERAL",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_GENERAL"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_BOMBARDMENT",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_ASSAULT_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_BOMBARDMENT",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_ASSAULT_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_BOMBARDMENT",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_ASSAULT_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_BOMBARDMENT",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_ASSAULT_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_NAVAL_BOMBARDMENT",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_ADMIRAL",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_ASSAULT_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_PURE_NAVAL_CITY_ATTACK",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_ATTACK_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_PURE_NAVAL_CITY_ATTACK",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_ATTACK_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_PURE_NAVAL_CITY_ATTACK",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_ATTACK_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_ASSAULT_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_PURE_NAVAL_CITY_ATTACK",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_ASSAULT_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_PURE_NAVAL_CITY_ATTACK",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_ASSAULT_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_PURE_NAVAL_CITY_ATTACK",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_ASSAULT_SEA",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_ATTACK_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_PURE_NAVAL_CITY_ATTACK",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_ADMIRAL",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_ADMIRAL"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_PURE_NAVAL_CITY_ATTACK",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CARRIER_SEA",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_CARRIER_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_PURE_NAVAL_CITY_ATTACK",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CARRIER_SEA",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_CARRIER_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_PURE_NAVAL_CITY_ATTACK",
+        "MultiUnitPositionType": "MUPOSITION_BOMBARD",
+        "PrimaryUnitType": "UNITAI_CARRIER_SEA",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_CARRIER_SEA"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CONCERT_TOUR",
+        "MultiUnitPositionType": "MUPOSITION_CIVILIAN_SUPPORT",
+        "PrimaryUnitType": "UNITAI_MUSICIAN",
+        "RequiredSlot": 1,
+        "SecondaryUnitType": "UNITAI_MUSICIAN"
+    },
+    {
+        "MultiUnitFormationType": "MUFORMATION_CONCERT_TOUR",
+        "MultiUnitPositionType": "MUPOSITION_FRONT_LINE",
+        "PrimaryUnitType": "UNITAI_DEFENSE",
+        "RequiredSlot": null,
+        "SecondaryUnitType": "UNITAI_COUNTER"
+    }
+]

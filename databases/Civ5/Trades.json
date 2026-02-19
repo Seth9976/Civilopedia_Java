@@ -1,0 +1,23 @@
+[
+    {
+        "AIWeightPercent": 100,
+        "Description": "TXT_KEY_GOLD",
+        "ID": 0,
+        "InitialPercent": 100,
+        "Type": "TRADE_GOLD"
+    },
+    {
+        "AIWeightPercent": 125,
+        "Description": "TXT_KEY_TRADE_RESEARCH",
+        "ID": 1,
+        "InitialPercent": 0,
+        "Type": "TRADE_RESEARCH"
+    },
+    {
+        "AIWeightPercent": 1,
+        "Description": "TXT_KEY_TRADE_CULTURE",
+        "ID": 2,
+        "InitialPercent": 0,
+        "Type": "TRADE_CULTURE"
+    }
+]

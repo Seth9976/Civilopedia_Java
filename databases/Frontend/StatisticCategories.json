@@ -1,0 +1,50 @@
+[
+    {
+        "Category": "CATEGORY_GENERAL",
+        "IsHidden": 0,
+        "Name": "LOC_GAMESUMMARY_CATEGORY_GENERAL",
+        "SortOrder": 100
+    },
+    {
+        "Category": "CATEGORY_DIPLOMACY",
+        "IsHidden": 0,
+        "Name": "LOC_GAMESUMMARY_CATEGORY_DIPLOMACY",
+        "SortOrder": 200
+    },
+    {
+        "Category": "CATEGORY_DISCOVERY",
+        "IsHidden": 0,
+        "Name": "LOC_GAMESUMMARY_CATEGORY_DISCOVERY",
+        "SortOrder": 200
+    },
+    {
+        "Category": "CATEGORY_COMBAT",
+        "IsHidden": 0,
+        "Name": "LOC_GAMESUMMARY_CATEGORY_COMBAT",
+        "SortOrder": 200
+    },
+    {
+        "Category": "CATEGORY_PROSPERITY",
+        "IsHidden": 0,
+        "Name": "LOC_GAMESUMMARY_CATEGORY_PROSPERITY",
+        "SortOrder": 200
+    },
+    {
+        "Category": "CATEGORY_RELIGION",
+        "IsHidden": 0,
+        "Name": "LOC_GAMESUMMARY_CATEGORY_RELIGION",
+        "SortOrder": 200
+    },
+    {
+        "Category": "CATEGORY_EXTRA",
+        "IsHidden": 0,
+        "Name": "LOC_GAMESUMMARY_CATEGORY_EXTRA",
+        "SortOrder": 300
+    },
+    {
+        "Category": "CATEGORY_HIDDEN",
+        "IsHidden": 1,
+        "Name": null,
+        "SortOrder": 100
+    }
+]

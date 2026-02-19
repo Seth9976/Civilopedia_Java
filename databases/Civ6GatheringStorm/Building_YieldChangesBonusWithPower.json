@@ -1,0 +1,47 @@
+[
+    {
+        "BuildingType": "BUILDING_FACTORY",
+        "YieldChange": 3,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_ELECTRONICS_FACTORY",
+        "YieldChange": 5,
+        "YieldType": "YIELD_PRODUCTION"
+    },
+    {
+        "BuildingType": "BUILDING_STOCK_EXCHANGE",
+        "YieldChange": 7,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_FOOD_MARKET",
+        "YieldChange": 2,
+        "YieldType": "YIELD_FOOD"
+    },
+    {
+        "BuildingType": "BUILDING_RESEARCH_LAB",
+        "YieldChange": 5,
+        "YieldType": "YIELD_SCIENCE"
+    },
+    {
+        "BuildingType": "BUILDING_BROADCAST_CENTER",
+        "YieldChange": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_FILM_STUDIO",
+        "YieldChange": 4,
+        "YieldType": "YIELD_CULTURE"
+    },
+    {
+        "BuildingType": "BUILDING_SHOPPING_MALL",
+        "YieldChange": 2,
+        "YieldType": "YIELD_GOLD"
+    },
+    {
+        "BuildingType": "BUILDING_AIRPORT",
+        "YieldChange": 2,
+        "YieldType": "YIELD_PRODUCTION"
+    }
+]
